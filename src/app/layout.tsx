@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import type { Metadata, Viewport } from "next";
 import { Outfit } from "next/font/google";
 import localFont from "next/font/local";
@@ -53,7 +54,11 @@ export default function RootLayout({
                 document.documentElement.setAttribute('data-style', style);
                 document.documentElement.setAttribute('data-color', color);
                 
-                if (theme === 'dark') document.documentElement.classList.add('dark');
+                if (theme === 'dark') {
+                  document.documentElement.classList.add('dark');
+                } else {
+                  document.documentElement.classList.remove('dark');
+                }
               } catch (e) {}
             `,
           }}
@@ -61,7 +66,9 @@ export default function RootLayout({
       </head>
       {/* We use script injection to prevent flash of unstyled theme. We will implement ThemeProvider later */}
       <body className="antialiased" suppressHydrationWarning>
-        <Header />
+        <Suspense fallback={<div className="h-16" />}>
+          <Header />
+        </Suspense>
         <main className="flex-1 overflow-y-auto pt-8 pb-24 md:pb-8">
           {children}
         </main>

@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { Card } from "@/components/ui/card";
@@ -12,6 +12,14 @@ import { db } from "@/lib/db";
 import { Modal } from "@/components/ui/modal";
 
 export default function SetupPage() {
+  return (
+    <Suspense fallback={<div className="flex items-center justify-center h-[60vh] font-bold">Memuat...</div>}>
+      <SetupPageContent />
+    </Suspense>
+  );
+}
+
+function SetupPageContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const activeTab = searchParams.get("filter") as "minna" | "irodori" | "n3" | "kanji" || "minna";
