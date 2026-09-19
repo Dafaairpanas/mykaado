@@ -82,12 +82,13 @@ export class FSRSEngine {
       reps: reviewCard.progress.reps,
       lapses: reviewCard.progress.lapses,
       state: reviewCard.progress.state as State,
-      last_review: reviewCard.progress.last_review || undefined
+      last_review: reviewCard.progress.last_review || undefined,
+      learning_steps: 0 // Added to satisfy ts-fsrs v3 type
     };
 
     // Calculate next state
     const schedulingInfo = f.repeat(fsrsCard, now);
-    const nextLog = schedulingInfo[rating];
+    const nextLog = schedulingInfo[rating as unknown as keyof typeof schedulingInfo] as any;
 
     // Build updated progress
     const updatedProgress: FSRSProgress = {
