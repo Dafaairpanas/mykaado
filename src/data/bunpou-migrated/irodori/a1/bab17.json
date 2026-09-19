@@ -1,0 +1,124 @@
+[
+  {
+    "id": "i_bab17_1",
+    "chapter": "Bab 17",
+    "level": "A1",
+    "title": "V-ました / V-ませんでした",
+    "meaning": "Pola kalimat untuk menyatakan tindakan yang sudah dilakukan (bentuk lampau positif) dan yang tidak dilakukan (bentuk lampau negatif) di masa lalu. 'V-ました' adalah bentuk lampau sopan dari kata kerja, dan 'V-ませんでした' adalah bentuk negatif lampau sopan. Sangat berguna saat menceritakan kegiatan liburan atau pengalaman masa lalu. Artinya 'Telah melakukan [aktivitas]' / 'Tidak melakukan [aktivitas]'.",
+    "formula_template": "{A} ました / ませんでした",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ました / ませんでした' untuk percakapan: Pola kalimat untuk menyatakan tindakan yang sudah dilakukan (bentuk lampau positif) dan yang tidak dilakukan (. Pastikan 'A' mewakili Kata Kerja Bentuk Masu tanpa masu.",
+    "ui_notes": "Bentuk lampau ini sangat penting untuk bercerita tentang kegiatan di masa lalu. Untuk kata kerja 'する' (suru - melakukan), bentuk lampaunya adalah 'しました' (positif) dan 'しませんでした' (negatif). Untuk pertanyaan lampau: 何をしましたか？ (Apa yang kamu lakukan?).",
+    "examples": [
+      {
+        "jp": "家でゆっくりしました。",
+        "id": "Saya bersantai di rumah."
+      },
+      {
+        "jp": "映画を見ました。",
+        "id": "Saya menonton film."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Lampau",
+      "Kegiatan",
+      "Liburan",
+      "Cerita"
+    ]
+  },
+  {
+    "id": "i_bab17_2",
+    "chapter": "Bab 17",
+    "level": "A1",
+    "title": "何もV-ませんでした",
+    "meaning": "Pola kalimat untuk menyatakan bahwa tidak ada satu pun tindakan yang dilakukan. '何も' berarti 'apa pun' dan selalu diikuti bentuk negatif. Digunakan untuk menekankan bahwa sama sekali tidak melakukan aktivitas tertentu di masa lalu. Artinya 'Tidak melakukan apa pun'.",
+    "formula_template": "何も {A}",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '何も {A}' untuk percakapan: Pola kalimat untuk menyatakan bahwa tidak ada satu pun tindakan yang dilakukan. '何も' berarti 'apa pun' dan sel. Pastikan 'A' mewakili Kata Kerja Bentuk Negatif Lampau.",
+    "ui_notes": "Pola serupa: 'どこにも' (tidak ke mana pun), 'だれにも' (tidak bertemu siapa pun), '何も' (tidak melakukan apa pun). Semua diikuti bentuk negatif. Contoh: どこにも行きませんでした。 (Saya tidak pergi ke mana pun.)",
+    "examples": [
+      {
+        "jp": "週末は何もしませんでした。",
+        "id": "Akhir pekan saya tidak melakukan apa pun."
+      },
+      {
+        "jp": "昨日は何も食べませんでした。",
+        "id": "Kemarin saya tidak makan apa pun."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Negatif",
+      "Tidak Ada",
+      "Lampau"
+    ]
+  },
+  {
+    "id": "i_bab17_3",
+    "chapter": "Bab 17",
+    "level": "A1",
+    "title": "ナA-でした / イA-かったです — Kesan Lampau",
+    "meaning": "Pola kalimat untuk menyatakan kesan atau perasaan tentang sesuatu di masa lalu. Untuk kata sifat-na (ナA), bentuk lampaunya adalah '〜でした' (deshita). Untuk kata sifat-i (イA), bentuk lampaunya adalah mengubah 'い' menjadi 'かったです' (katta desu). Sangat berguna saat menceritakan pengalaman atau memberikan ulasan. Artinya '[Sifat] di masa lalu'.",
+    "formula_template": "{A} でした / {B} かったです",
+    "variables": {
+      "A": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} でした / {B} かったです' untuk percakapan: Pola kalimat untuk menyatakan kesan atau perasaan tentang sesuatu di masa lalu. Untuk kata sifat-na (ナA), bent. Pastikan 'A' mewakili Kata Sifat-na, 'B' mewakili Kata Sifat-i.",
+    "ui_notes": "Bentuk negatif lampau: ナA: 〜じゃなかったです (tidak ... di masa lalu), イA: 〜くなかったです (tidak ... di masa lalu). Contoh: あまり面白くなかったです (Tidak terlalu menarik). Perhatikan bahwa untuk kata sifat-i, '楽しい' (tanoshii) menjadi '楽しかった' (tanoshikatta) - 'い' berubah menjadi 'かった'.",
+    "examples": [
+      {
+        "jp": "「ゴジラ」は、まあまあでした。",
+        "id": "'Godzilla' lumayan saja. (ナA lampau)"
+      },
+      {
+        "jp": "国際フェスティバルは、とても楽しかったです。",
+        "id": "Festival internasional sangat menyenangkan. (イA lampau)"
+      }
+    ],
+    "tags": [
+      "A1",
+      "Kesan",
+      "Lampau",
+      "Kata Sifat",
+      "Ulasan"
+    ]
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "id": "n3_bab15_1",
+    "chapter": "Bab 15",
+    "level": "N3",
+    "title": "〜つもりだった",
+    "meaning": "tadinya..., tapi",
+    "formula_template": "[{A}る / {B}ない] つもりだった",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}る / {B}ない] つもりだった' untuk mengekspresikan: tadinya..., tapi.",
+    "ui_notes": "tadinya..., tapi",
+    "examples": [
+      {
+        "jp": "昨日は買い物に行くつもりでしたが、頭が痛かったのでずっと家にいました。",
+        "id": "kemarin saya bermaksud belanja, tapi karena sakit kepala, saya di rumah saja (terus seharian)"
+      },
+      {
+        "jp": "お菓子を食べないつもりでしたが、つい食べてしまいました。",
+        "id": "saya tidak bermaksud makan kue, tapi (entah kenapa) saya memakannya"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab15_2",
+    "chapter": "Bab 15",
+    "level": "N3",
+    "title": "〜はず",
+    "meaning": "digunakan ketika pembicara merasa yakin akan suatu hal",
+    "formula_template": "[{A}(biasa) / {B} (biasa) / {C} な / {D}の] はず / はずがない (※ 〜はずがない: menyangkal dengan tegas \"tidak mungkin\")",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} な / {D}の] はず / はずがない (※ 〜はずがない: menyangkal dengan tegas \"tidak mungkin\")' untuk mengekspresikan: digunakan ketika pembicara merasa yakin akan suatu hal.",
+    "ui_notes": "digunakan ketika pembicara merasa yakin akan suatu hal",
+    "examples": [
+      {
+        "jp": "田中さんは今旅行中だから、家にいないはず。",
+        "id": "karena tanaka-san sekarang sedang pergi berwisata, seharusnya tidak di rumah"
+      },
+      {
+        "jp": "まじめな田中さんが、無断で休むはずがない。",
+        "id": "orang yang rajin (seperti) tanaka-san tidak mungkin tidak masuk tanpa izin"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab15_3",
+    "chapter": "Bab 15",
+    "level": "N3",
+    "title": "〜べき",
+    "meaning": "mengungkapkan keharusan yang berupa nasehat, saran, pendapat atau hal-hal yang bersifat umum",
+    "formula_template": "[{A}る / {B} くある / {C} である] べきだ / べきではない (※ するべき → すべき)",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}る / {B} くある / {C} である] べきだ / べきではない (※ するべき → すべき)' untuk mengekspresikan: mengungkapkan keharusan yang berupa nasehat, saran, pendapat atau hal-hal yang bersifat umum.",
+    "ui_notes": "mengungkapkan keharusan yang berupa nasehat, saran, pendapat atau hal-hal yang bersifat umum",
+    "examples": [
+      {
+        "jp": "約束は守るべきだ。",
+        "id": "janji itu seharusnya ditepati (harus ditepati)"
+      },
+      {
+        "jp": "おもちゃは、まず安全であるべきだ。",
+        "id": "mainan anak-anak itu pertama harus aman (seharusnya mempertimbangkan aspek keamanan dulu)"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab15_4",
+    "chapter": "Bab 15",
+    "level": "N3",
+    "title": "〜たものだ",
+    "meaning": "menyatakan kenangan atau ingatan di masa lalu (sambil mengingat masa-masa itu)",
+    "formula_template": "[{A}た / {B}なかった] ものだ / もんだ",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}た / {B}なかった] ものだ / もんだ' untuk mengekspresikan: menyatakan kenangan atau ingatan di masa lalu (sambil mengingat masa-masa itu).",
+    "ui_notes": "menyatakan kenangan atau ingatan di masa lalu (sambil mengingat masa-masa itu)",
+    "examples": [
+      {
+        "jp": "子どものころはよく川で遊んだものだ。",
+        "id": "sewaktu kecil saya sering bermain di sungai"
+      },
+      {
+        "jp": "学生時代は毎日図書館へ通ったものだ。",
+        "id": "di zaman masih mahasiswa setiap hari saya ke perpustakaan"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

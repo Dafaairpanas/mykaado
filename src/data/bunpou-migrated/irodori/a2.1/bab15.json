@@ -1,0 +1,172 @@
+[
+  {
+    "id": "i_bab15_1",
+    "chapter": "Bab 15",
+    "level": "A2.1",
+    "title": "〜んです ② — Penjelasan Gejala",
+    "meaning": "Pola kalimat untuk memberikan penjelasan atau alasan tentang kondisi kesehatan. '〜んです' (atau '〜のです' lebih formal) digunakan untuk menjelaskan situasi atau gejala yang sedang dialami. Diucapkan saat berkonsultasi dengan dokter atau memberi tahu orang lain tentang kondisi sakit. Artinya '(Faktanya) [gejala/penjelasan]'.",
+    "formula_template": "{A} んです",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} んです' untuk percakapan: Pola kalimat untuk memberikan penjelasan atau alasan tentang kondisi kesehatan. '〜んです' (atau '〜のです' lebih form. Pastikan 'A' mewakili Kalimat Gejala.",
+    "ui_notes": "'〜んです' sangat berguna saat menjelaskan kondisi ke dokter. Biasanya diikuti dengan pertanyaan atau permintaan: 熱があるんですけど、どうしたらいいですか？ (Saya demam, apa yang harus saya lakukan?). Untuk gejala yang sedang berlangsung, gunakan bentuk 'V-ています': 咳が出ています (Saya batuk-batuk).",
+    "examples": [
+      {
+        "jp": "昨日から38度の熱があって、のどがすごく痛いんです。",
+        "id": "Saya demam 38 derajat sejak kemarin, dan tenggorokan sangat sakit."
+      },
+      {
+        "jp": "頭が痛くて、気持ちが悪いんです。",
+        "id": "Saya sakit kepala dan mual."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Kesehatan",
+      "Gejala",
+      "Penjelasan"
+    ]
+  },
+  {
+    "id": "i_bab15_2",
+    "chapter": "Bab 15",
+    "level": "A2.1",
+    "title": "V-ないでください — Tolong Jangan ...",
+    "meaning": "Pola permintaan yang sopan untuk meminta seseorang tidak melakukan sesuatu. 'V-ないで' adalah bentuk negatif dari 'V-て' (bentuk te), dan 'ください' berarti 'tolong'. Digunakan oleh dokter untuk memberikan instruksi atau larangan kepada pasien. Artinya 'Tolong jangan [melakukan V]'.",
+    "formula_template": "{A} でください",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} でください' untuk percakapan: Pola permintaan yang sopan untuk meminta seseorang tidak melakukan sesuatu. 'V-ないで' adalah bentuk negatif dari. Pastikan 'A' mewakili Kata Kerja Bentuk Negatif.",
+    "ui_notes": "Bentuk lebih sopan: V-ないでいただけますか？ (Bisakah tolong tidak V?). Untuk instruksi di rumah sakit: アルコールを飲まないでください (Tolong jangan minum alkohol). 'V-ないで' juga digunakan untuk menyatakan cara negatif: 塩をつけないで食べます (Makan tanpa garam).",
+    "examples": [
+      {
+        "jp": "今週は仕事を休んで、できるだけ人に会わないでください。",
+        "id": "Istirahat dari kerja minggu ini, dan tolong jangan bertemu orang sebisa mungkin."
+      },
+      {
+        "jp": "この薬を飲んだら、車を運転しないでください。",
+        "id": "Setelah minum obat ini, tolong jangan mengemudi."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Larangan",
+      "Instruksi",
+      "Kesehatan"
+    ]
+  },
+  {
+    "id": "i_bab15_3",
+    "chapter": "Bab 15",
+    "level": "A2.1",
+    "title": "V-る前に／V-たあと — Sebelum / Sesudah V",
+    "meaning": "Pola untuk menyatakan urutan waktu: sebelum atau sesudah melakukan suatu tindakan. '前に' berarti 'sebelum' dan menggunakan bentuk kamus (V-ru). 'あと' berarti 'sesudah' dan menggunakan bentuk lampau (V-ta). Sangat berguna saat menjelaskan cara minum obat atau instruksi medis. Artinya 'Sebelum [V]' / 'Setelah [V]'.",
+    "formula_template": "{A} 前に / {B} あと",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} 前に / {B} あと' untuk percakapan: Pola untuk menyatakan urutan waktu: sebelum atau sesudah melakukan suatu tindakan. '前に' berarti 'sebelum' dan . Pastikan 'A' mewakili Kata Kerja Bentuk Kamus, 'B' mewakili Kata Kerja Bentuk Lampau.",
+    "ui_notes": "Untuk kata benda, gunakan 'Nの前に' dan 'Nのあとで'. Contoh: 食事の前に (sebelum makan), 食事のあとで (setelah makan). '前に' dan 'あとで' adalah pasangan yang sangat umum dalam instruksi medis dan jadwal minum obat.",
+    "examples": [
+      {
+        "jp": "1日1回、寝る前に飲んでください。",
+        "id": "Sekali sehari, tolong minum sebelum tidur."
+      },
+      {
+        "jp": "飲んだあと、運転しないでくださいね。",
+        "id": "Setelah minum, tolong jangan mengemudi ya."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Urutan",
+      "Instruksi",
+      "Kesehatan"
+    ]
+  },
+  {
+    "id": "i_bab15_4",
+    "chapter": "Bab 15",
+    "level": "A2.1",
+    "title": "〜とき（に） (~toki) — Saat ...",
+    "meaning": "Pola untuk menyatakan waktu atau kondisi tertentu saat suatu tindakan dilakukan. 'とき' berarti 'saat' atau 'ketika'. Digunakan dalam instruksi obat untuk menunjukkan kapan obat harus diminum. Artinya 'Pada saat [kondisi]'.",
+    "formula_template": "{A} とき（に）",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} とき（に）' untuk percakapan: Pola untuk menyatakan waktu atau kondisi tertentu saat suatu tindakan dilakukan. 'とき' berarti 'saat' atau 'ket. Pastikan 'A' mewakili Kalimat Kondisi.",
+    "ui_notes": "Untuk kondisi yang spesifik: 頭が痛いとき (saat sakit kepala), 咳が出るとき (saat batuk). 'とき' bisa digunakan dengan bentuk kamus (saat akan melakukan), bentuk lampau (saat sudah melakukan), atau bentuk negatif. Partikel 'に' sering ditambahkan untuk menunjukkan waktu spesifik.",
+    "examples": [
+      {
+        "jp": "この薬は、痛くてがまんできないときに飲んでください。",
+        "id": "Obat ini, tolong minum saat sakit dan tidak tahan."
+      },
+      {
+        "jp": "熱があるときは、この薬を飲んでください。",
+        "id": "Saat demam, tolong minum obat ini."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Kondisi",
+      "Waktu",
+      "Instruksi"
+    ]
+  }
+]

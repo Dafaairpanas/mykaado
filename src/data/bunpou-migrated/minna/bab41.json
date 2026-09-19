@@ -1,0 +1,354 @@
+[
+  {
+    "id": "m_bab41_1",
+    "chapter": "Bab 41",
+    "level": "N4",
+    "title": "A1（人）に B2 を いただきます",
+    "meaning": "Digunakan jika pembicara menerima barang dari orang yang berpangkat lebih tinggi daripada diri sendiri. Ini adalah bentuk hormat dari もらいます.",
+    "formula_template": "{A} に {B} を いただきます",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に {B} を いただきます' untuk menyatakan: Digunakan jika pembicara menerima barang dari orang yang berpangkat lebih tinggi daripada diri sendiri. Ini ad. Pastikan 'A' mewakili Kata Benda 1 (Orang), 'B' mewakili Kata Benda 2 (Barang).",
+    "ui_notes": "Adakalanya いただきます dan くださいます digunakan jika penerimanya adalah anggota keluarga pembicara (contoh: 娘は部長にお土産をいただきました / Anak perempuan saya menerima oleh-oleh dari direktur).",
+    "examples": [
+      {
+        "jp": "わたしは社長にお土産をいただきました。",
+        "id": "Saya menerima oleh-oleh dari direktur."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Penerimaan (Hormat)"
+    ]
+  },
+  {
+    "id": "m_bab41_2",
+    "chapter": "Bab 41",
+    "level": "N4",
+    "title": "［わたしに］A を くださいます",
+    "meaning": "Digunakan jika orang yang berpangkat tinggi memberi barang kepada lawan bicaranya (pembicara). Ini adalah bentuk hormat dari くれます.",
+    "formula_template": "{A} が ［わたしに］ {B} を くださいます",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} が ［わたしに］ {B} を くださいます' untuk menyatakan: Digunakan jika orang yang berpangkat tinggi memberi barang kepada lawan bicaranya (pembicara). Ini adalah bent. Pastikan 'A' mewakili Kata Benda (Orang), 'B' mewakili Kata Benda (Barang).",
+    "ui_notes": "Sama seperti くれます, penerimanya seringkali dihilangkan jika sudah jelas dari konteks (yaitu pembicara atau anggota keluarga pembicara).",
+    "examples": [
+      {
+        "jp": "社長がわたしにお土産をくださいました。",
+        "id": "Direktur memberikan saya oleh-oleh."
+      },
+      {
+        "jp": "部長が娘にお土産をくださいました。",
+        "id": "Kepala bagian memberikan anak perempuan saya oleh-oleh."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Pemberian (Hormat)"
+    ]
+  },
+  {
+    "id": "m_bab41_3",
+    "chapter": "Bab 41",
+    "level": "N4",
+    "title": "A1 に B2 を やります",
+    "meaning": "Digunakan jika pembicara memberi barang kepada orang yang posisinya lebih rendah (seperti anak), atau terhadap tumbuhan dan fauna. Namun akhir-akhir ini banyak orang menggunakan あげます karena merasa やります kurang sopan.",
+    "formula_template": "{A} に {B} を やります",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に {B} を やります' untuk menyatakan: Digunakan jika pembicara memberi barang kepada orang yang posisinya lebih rendah (seperti anak), atau terhadap. Pastikan 'A' mewakili Kata Benda 1 (Penerima), 'B' mewakili Kata Benda 2 (Barang).",
+    "ui_notes": "Digunakan jika pembicara memberi barang kepada orang yang posisinya lebih rendah (seperti anak), atau terhadap tumbuhan dan fauna. Namun akhir-akhir ini banyak orang menggunakan あげます karena merasa やります kurang sopan.",
+    "examples": [
+      {
+        "jp": "わたしは息子にお菓子をやりました（あげました）。",
+        "id": "Saya memberikan anak laki-laki saya kue."
+      },
+      {
+        "jp": "わたしは犬にえさをやりました。",
+        "id": "Saya memberi umpan pada anjing."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Pemberian (Ke Bawah)"
+    ]
+  },
+  {
+    "id": "m_bab41_4",
+    "chapter": "Bab 41",
+    "level": "N4",
+    "title": "A形 いただきます",
+    "meaning": "Menyatakan penerimaan perbuatan/bantuan dari orang yang berpangkat lebih tinggi.",
+    "formula_template": "{A} に {B} いただきます",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に {B} いただきます' untuk menyatakan: Menyatakan penerimaan perbuatan/bantuan dari orang yang berpangkat lebih tinggi.. Pastikan 'A' mewakili Kata Benda (Orang), 'B' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Menyatakan penerimaan perbuatan/bantuan dari orang yang berpangkat lebih tinggi.",
+    "examples": [
+      {
+        "jp": "わたしは課長に手紙のまちがいを直していただきました。",
+        "id": "Saya dibantu oleh kepala bagian untuk dikoreksikan kesalahan surat."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Penerimaan Bantuan (Hormat)"
+    ]
+  },
+  {
+    "id": "m_bab41_5",
+    "chapter": "Bab 41",
+    "level": "N4",
+    "title": "A形 くださいます",
+    "meaning": "Menyatakan bahwa orang berpangkat tinggi melakukan perbuatan/membantu pembicara.",
+    "formula_template": "{A} が ［わたしに／を／の］ {B} くださいます",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} が ［わたしに／を／の］ {B} くださいます' untuk menyatakan: Menyatakan bahwa orang berpangkat tinggi melakukan perbuatan/membantu pembicara.. Pastikan 'A' mewakili Kata Benda (Orang), 'B' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Menyatakan bahwa orang berpangkat tinggi melakukan perbuatan/membantu pembicara.",
+    "examples": [
+      {
+        "jp": "部長の奥さんが［わたしに］お茶を教えてくださいました。",
+        "id": "Istri kepala bagian mengajarkan saya cara membuat teh."
+      },
+      {
+        "jp": "部長が［わたしを］駅まで送ってくださいました。",
+        "id": "Kepala bagian mengantarkan (saya) sampai stasiun."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Pemberian Bantuan (Hormat)"
+    ]
+  },
+  {
+    "id": "m_bab41_6",
+    "chapter": "Bab 41",
+    "level": "N4",
+    "title": "A形 やります",
+    "meaning": "Menyatakan bahwa pembicara melakukan perbuatan/membantu orang yang posisinya di bawah pembicara (anak) atau terhadap hewan.",
+    "formula_template": "{A} に／を {B} やります",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に／を {B} やります' untuk menyatakan: Menyatakan bahwa pembicara melakukan perbuatan/membantu orang yang posisinya di bawah pembicara (anak) atau te. Pastikan 'A' mewakili Kata Benda (Orang/Hewan), 'B' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Menyatakan bahwa pembicara melakukan perbuatan/membantu orang yang posisinya di bawah pembicara (anak) atau terhadap hewan.",
+    "examples": [
+      {
+        "jp": "わたしは息子に紙飛行機を作ってやりました（あげました）。",
+        "id": "Saya membuat pesawat-pesawatan dari kertas untuk anak laki-laki. (membuatkan anak laki-laki)"
+      },
+      {
+        "jp": "わたしは犬を散歩に連れて行ってやりました。",
+        "id": "Saya membawa anjing jalan-jalan."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Pemberian Bantuan (Ke Bawah)"
+    ]
+  },
+  {
+    "id": "m_bab41_7",
+    "chapter": "Bab 41",
+    "level": "N4",
+    "title": "A形 くださいませんか",
+    "meaning": "Ungkapan permohonan yang sikap halusnya lebih kuat dibandingkan ～てください. Akan tetapi, sikap halusnya masih kurang daripada ～ていただけませんか.",
+    "formula_template": "{A} くださいませんか",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} くださいませんか' untuk menyatakan: Ungkapan permohonan yang sikap halusnya lebih kuat dibandingkan ～てください. Akan tetapi, sikap halusnya masih kura. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Ungkapan permohonan yang sikap halusnya lebih kuat dibandingkan ～てください. Akan tetapi, sikap halusnya masih kurang daripada ～ていただけませんか.",
+    "examples": [
+      {
+        "jp": "コピー機の使い方を教えてくださいませんか。",
+        "id": "Tolong ajarkan (saya) cara pemakaian mesin fotocopy."
+      },
+      {
+        "jp": "コピー機の使い方を教えていただけませんか。",
+        "id": "Apakah (Anda) bisa mengajarkan saya cara pemakaian mesin fotocopy? (Pel.26)"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Permohonan (Sopan)"
+    ]
+  },
+  {
+    "id": "m_bab41_8",
+    "chapter": "Bab 41",
+    "level": "N4",
+    "title": "A に B",
+    "meaning": "Kata Bantu に yang digunakan dalam contoh kalimat ini menyatakan arti \"sebagai tanda ~\" atau \"sebagai kenang-kenangan ~\".",
+    "formula_template": "{A} に {B} を {C}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "C": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に {B} を {C}' untuk menyatakan: Kata Bantu に yang digunakan dalam contoh kalimat ini menyatakan arti \"sebagai tanda ~\" atau \"sebagai kenang-ke. Pastikan 'A' mewakili Kata Benda (Acara/Alasan), 'B' mewakili Kata Benda (Barang), 'C' mewakili Kata Kerja.",
+    "ui_notes": "Kata Bantu に yang digunakan dalam contoh kalimat ini menyatakan arti \"sebagai tanda ~\" atau \"sebagai kenang-kenangan ~\".",
+    "examples": [
+      {
+        "jp": "田中さんが結婚祝いにこのお皿をくださいました。",
+        "id": "Srd. Tanaka memberikan saya piring ini sebagai tanda ucapan selamat atas pernikahan (saya)."
+      },
+      {
+        "jp": "北海道旅行のお土産に人形を買いました。",
+        "id": "(Saya) Membeli boneka ini sebagai oleh-oleh perjalanan ke Hokkaido."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Partikel",
+      "Tujuan/Tanda Pemberian"
+    ]
+  }
+]

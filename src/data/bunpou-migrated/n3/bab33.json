@@ -1,0 +1,180 @@
+[
+  {
+    "id": "n3_bab33_1",
+    "chapter": "Bab 33",
+    "level": "N3",
+    "title": "〜たところ",
+    "meaning": "kalimat bagian belakang terdapat penemuan (hal yang baru diketahui) atau perasaan sedikit kaget",
+    "formula_template": "{A}たところ",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}たところ' untuk mengekspresikan: kalimat bagian belakang terdapat penemuan (hal yang baru diketahui) atau perasaan sedikit kaget.",
+    "ui_notes": "kalimat bagian belakang terdapat penemuan (hal yang baru diketahui) atau perasaan sedikit kaget",
+    "examples": [
+      {
+        "jp": "先生に今度のテストの範囲を聞いたところ、10課までだと言われた。",
+        "id": "setelah saya tanya ke sensei batas ujian nanti, katanya sampai bab 10"
+      },
+      {
+        "jp": "歯が痛いので歯医者さんに行ったところ、ひどい虫歯になっていると言われた。",
+        "id": "karena gigi saya sakit, setelah saya pergi ke dokter, katanya gigi saya rusak parah"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab33_2",
+    "chapter": "Bab 33",
+    "level": "N3",
+    "title": "〜ところだった",
+    "meaning": "menjelaskan sesuatu yang hampir saja terjadi, sedikit lagi terjadi (tapi kenyataannya tidak)",
+    "formula_template": "{A}るところだった",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}るところだった' untuk mengekspresikan: menjelaskan sesuatu yang hampir saja terjadi, sedikit lagi terjadi (tapi kenyataannya tidak).",
+    "ui_notes": "menjelaskan sesuatu yang hampir saja terjadi, sedikit lagi terjadi (tapi kenyataannya tidak)",
+    "examples": [
+      {
+        "jp": "もう少しで遅刻するところだった。",
+        "id": "sedikit lagi hampir saja terlambat"
+      },
+      {
+        "jp": "あと10秒遅かったら、電車に乗り遅れるところだった。",
+        "id": "kalau telat 10 detik, saya hampir saja terlambat naik kereta (hampir tidak bisa naik kereta)"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab33_3",
+    "chapter": "Bab 33",
+    "level": "N3",
+    "title": "〜てはじめて",
+    "meaning": "setelah... pertama kali",
+    "formula_template": "{A}てはじめて",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}てはじめて' untuk mengekspresikan: setelah... pertama kali.",
+    "ui_notes": "setelah... pertama kali",
+    "examples": [
+      {
+        "jp": "先生に注意されてはじめて、漢字の間違いに気が付いた。",
+        "id": "setelah ditegur sensei, disitu pertama kali saya sadar akan kesalahan kanji (yang saya tulis)"
+      },
+      {
+        "jp": "歌舞伎を見てはじめて、日本文化に興味を持った。",
+        "id": "setelah melihat kabuki, disitu pertama kali saya mempunyai minat terhadap budaya jepang"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab33_4",
+    "chapter": "Bab 33",
+    "level": "N3",
+    "title": "〜うちに",
+    "meaning": "untuk menyatakan sebelum keadaan berubah (selagi masih, mumpung belum) atau ditengah-tengah",
+    "formula_template": "[{A}ている / {B}ない / {C} い / {D} な / {V4}の] 〜うちに",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V4": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}ている / {B}ない / {C} い / {D} な / {V4}の] 〜うちに' untuk mengekspresikan: untuk menyatakan sebelum keadaan berubah (selagi masih, mumpung belum) atau ditengah-tengah.",
+    "ui_notes": "untuk menyatakan sebelum keadaan berubah (selagi masih, mumpung belum) atau ditengah-tengah",
+    "examples": [
+      {
+        "jp": "忘れないうちに、メモをしておこう。",
+        "id": "selagi masih belum lupa, saya catat dulu"
+      },
+      {
+        "jp": "明るいうちに帰ってきなさい。",
+        "id": "selagi masih terang, ayo pulang"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

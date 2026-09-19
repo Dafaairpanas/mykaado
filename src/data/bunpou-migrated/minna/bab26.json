@@ -1,0 +1,226 @@
+[
+  {
+    "id": "m_bab26_1",
+    "chapter": "Bab 26",
+    "level": "N4",
+    "title": "～んです",
+    "meaning": "Dipakai dalam bahasa lisan untuk meminta keterangan/alasan, memastikan sesuatu yang dilihat/didengar, atau untuk menjelaskan alasan. (Bentuk tertulisnya adalah ～のです).",
+    "formula_template": "{A}/ {B}-i (Bentuk Biasa) んです | {C}-na / {D} んです",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}/ {B}-i (Bentuk Biasa) んです | {C}-na / {D} んです' untuk menyatakan: Dipakai dalam bahasa lisan untuk meminta keterangan/alasan, memastikan sesuatu yang dilihat/didengar, atau unt. Pastikan 'A' mewakili Kata Kerja, 'B' mewakili Kata Sifat, 'C' mewakili Kata Sifat, 'D' mewakili Kata Benda (Bentuk Biasa: ~だ menjadi ~な).",
+    "ui_notes": "Jika memakai ～んですか pada bagian yang seharusnya tidak perlu, akan memberikan perasaan yang tidak nyaman. Jika tidak menjelaskan alasan melainkan sekadar menyatakan kenyataan, pola ～んです tidak dipakai (contoh yang salah: わたしはマイク・ミラーなんです).",
+    "examples": [
+      {
+        "jp": "雨が降っているんですか。",
+        "id": "Apakah turun hujan?"
+      },
+      {
+        "jp": "おもしろいデザインの靴ですね。どこで買ったんですか。",
+        "id": "Sepatu yang desainnya lucu, ya. Beli di mana?"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Akhiran",
+      "Penjelasan/Alasan"
+    ]
+  },
+  {
+    "id": "m_bab26_2",
+    "chapter": "Bab 26",
+    "level": "N4",
+    "title": "～んですが、～",
+    "meaning": "Berfungsi untuk memulai suatu cerita atau sebagai prakata yang ringan. Di belakangnya disusul dengan ekspresi permohonan, ajakan, atau permohonan izin. Adakalanya kalimat lanjutannya dihilangkan.",
+    "formula_template": "{A}(Bentuk ~んです) が、~",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}(Bentuk ~んです) が、~' untuk menyatakan: Berfungsi untuk memulai suatu cerita atau sebagai prakata yang ringan. Di belakangnya disusul dengan ekspresi . Pastikan 'A' mewakili Kalimat.",
+    "ui_notes": "Partikel が di sini dipakai sebagai penyambung kalimat atau prakata, bukan bermakna pertentangan (tetapi).",
+    "examples": [
+      {
+        "jp": "頭が痛いんですが、帰ってもいいですか。",
+        "id": "Sakit kepala, boleh pulang?"
+      },
+      {
+        "jp": "来週友達とスキーに行くんですが、ミラーさんもいっしょに行きませんか。",
+        "id": "Minggu depan, saya pergi bermain ski dengan teman, bagaimana kalau sdr. Miller juga pergi sama-sama?"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Konjungsi",
+      "Prakata/Pendahuluan"
+    ]
+  },
+  {
+    "id": "m_bab26_3",
+    "chapter": "Bab 26",
+    "level": "N4",
+    "title": "A形 いただけませんか",
+    "meaning": "Ungkapan permohonan yang artinya \"Dapatkah Anda ~ untuk saya?\". Ungkapan ini lebih sopan daripada pola ～てください.",
+    "formula_template": "{A} いただけませんか",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} いただけませんか' untuk menyatakan: Ungkapan permohonan yang artinya \"Dapatkah Anda ~ untuk saya?\". Ungkapan ini lebih sopan daripada pola ～てください.. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Ungkapan permohonan yang artinya \"Dapatkah Anda ~ untuk saya?\". Ungkapan ini lebih sopan daripada pola ～てください.",
+    "examples": [
+      {
+        "jp": "いい先生を紹介していただけませんか。",
+        "id": "Bisakah perkenalkan saya guru yang baik?"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Permohonan Sopan"
+    ]
+  },
+  {
+    "id": "m_bab26_4",
+    "chapter": "Bab 26",
+    "level": "N4",
+    "title": "疑問詞 Aら いいですか",
+    "meaning": "Ungkapan untuk meminta masukan, saran, atau petunjuk (Sebaiknya saya...? / Bagaimana cara...?).",
+    "formula_template": "Kata Tanya {A} いいですか",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'Kata Tanya {A} いいですか' untuk menyatakan: Ungkapan untuk meminta masukan, saran, atau petunjuk (Sebaiknya saya...? / Bagaimana cara...?).. Pastikan 'A' mewakili Kata Kerja (Bentuk たら).",
+    "ui_notes": "Lawan bicara dapat menjawab pertanyaan ini dengan cara ucapan \"Kata Kerja Bentuk たら いいですよ\" untuk memberi masukan atau tawaran.",
+    "examples": [
+      {
+        "jp": "どこでカメラを買ったらいいですか。……ABCストアが安いですよ。",
+        "id": "Sebaiknya saya membeli kamera di mana? ……ABC store yang murah."
+      },
+      {
+        "jp": "国会議事堂を見学したいんですが、どうしたらいいですか。……直接行ったらいいですよ。",
+        "id": "Saya ingin mengunjungi Gedung Parlemen Nasional, bagaimana caranya? ……Langsung pergi saja."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Meminta Saran"
+    ]
+  },
+  {
+    "id": "m_bab26_5",
+    "chapter": "Bab 26",
+    "level": "N4",
+    "title": "A（objek） は 好きです／嫌いです／上手です／下手です／あります",
+    "meaning": "Mengangkat kata benda yang merupakan objek (yang biasanya ditunjuk oleh partikel が atau を) menjadi topik kalimat dengan menggunakan partikel は.",
+    "formula_template": "{A} は [{B}/ {C}yang membutuhkan objek]",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は [{B}/ {C}yang membutuhkan objek]' untuk menyatakan: Mengangkat kata benda yang merupakan objek (yang biasanya ditunjuk oleh partikel が atau を) menjadi topik kalim. Pastikan 'A' mewakili Kata Benda (sebagai Topik), 'B' mewakili Kata Sifat, 'C' mewakili Kata Kerja.",
+    "ui_notes": "Seperti contoh di atas, kata \"Karaoke\" yang tadinya adalah objek (カラオケが好きです) diangkat menjadi topik (カラオケは好きじゃないんです).",
+    "examples": [
+      {
+        "jp": "よくカラオケに行きますか。……いいえ、あまり行きません。カラオケは好きじゃないんです。",
+        "id": "Sering pergi ke Karaoke? ……Tidak, jarang pergi. Saya tidak suka Karaoke."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Partikel",
+      "Topikalisasi"
+    ]
+  }
+]

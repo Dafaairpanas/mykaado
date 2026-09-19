@@ -1,0 +1,190 @@
+[
+  {
+    "id": "m_bab43_1",
+    "chapter": "Bab 43",
+    "level": "N4",
+    "title": "A（ます形） そうです",
+    "meaning": "Pola kalimat ini menyatakan gejala akan terjadinya gerakan atau perubahan yang dinyatakan dengan Kata Kerja (rupanya ~/sepertinya ~ akan terjadi).",
+    "formula_template": "{A} そうです",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} そうです' untuk menyatakan: Pola kalimat ini menyatakan gejala akan terjadinya gerakan atau perubahan yang dinyatakan dengan Kata Kerja (r. Pastikan 'A' mewakili Kata Kerja (Bentuk ます - hilangkan ます).",
+    "ui_notes": "Dapat digunakan bersama dengan Kata Keterangan seperti 今にも (sekarang juga), もうすぐ (sebentar lagi), これから (mulai sekarang) yang menyatakan masa gerakan atau perubahannya akan terjadi.",
+    "examples": [
+      {
+        "jp": "今にも雨が降りそうです。",
+        "id": "Mau hujan sekarang juga."
+      },
+      {
+        "jp": "もうすぐ桜が咲きそうです。",
+        "id": "Sebentar lagi Sakura mau mekar."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Prakiraan/Gejala"
+    ]
+  },
+  {
+    "id": "m_bab43_2",
+    "chapter": "Bab 43",
+    "level": "N4",
+    "title": "形容詞い（～い）／形容詞な［な］ そうです",
+    "meaning": "Cara ungkapan untuk menjelaskan sifat dari pandangan/penglihatan luar dengan menduga tanpa mengecek sesungguhnya (kelihatannya/rupanya).",
+    "formula_template": "{A} / {B} そうです",
+    "variables": {
+      "A": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} / {B} そうです' untuk menyatakan: Cara ungkapan untuk menjelaskan sifat dari pandangan/penglihatan luar dengan menduga tanpa mengecek sesungguhn. Pastikan 'A' mewakili Kata Sifat い (hilangkan い), 'B' mewakili Kata Sifat な (hilangkan な).",
+    "ui_notes": "Pengecualian: いい menjadi よさそうです (seperti pada 頭がよさそうです). Ketika menyatakan perasaan orang lain (うれしい, かなしい, さびしい dll), tidak dapat digunakan langsung, melainkan harus menggunakan そうです karena kita menduga dari penglihatan luar.",
+    "examples": [
+      {
+        "jp": "この料理は辛そうです。",
+        "id": "Rupanya masakan ini pedas."
+      },
+      {
+        "jp": "彼女は頭がよさそうです。",
+        "id": "Rupanya dia pintar."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Dugaan Visual"
+    ]
+  },
+  {
+    "id": "m_bab43_3",
+    "chapter": "Bab 43",
+    "level": "N4",
+    "title": "A形 来ます",
+    "meaning": "Menyatakan arti pergi ke suatu tempat, melakukan suatu aksi (seperti membeli atau mengambil sesuatu), kemudian kembali ke tempat semula.",
+    "formula_template": "{A} 来ます",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} 来ます' untuk menyatakan: Menyatakan arti pergi ke suatu tempat, melakukan suatu aksi (seperti membeli atau mengambil sesuatu), kemudian. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Jika tempat beraksi ditunjuk, menggunakan partikel で (contoh: スーパーで). Jika tempat tersebut dianggap sebagai asal usul barang/titik awal keluar, menggunakan partikel から (contoh: 台所から).",
+    "examples": [
+      {
+        "jp": "ちょっとたばこを買って来ます。",
+        "id": "Pergi beli rokok sebentar."
+      },
+      {
+        "jp": "スーパーで牛乳を買って来ます。",
+        "id": "Pergi membeli susu di pasar swalayan."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Aksi Berurutan (Pergi & Kembali)"
+    ]
+  },
+  {
+    "id": "m_bab43_4",
+    "chapter": "Bab 43",
+    "level": "N4",
+    "title": "A（場所）へ 行って来ます ／ 出かけて来ます",
+    "meaning": "Menyatakan arti untuk pergi ke suatu tempat kemudian kembali (～へ行って来ます). Jika secara khusus tidak berkata mengenai tempat tujuan dan hanya berarti 'pergi sebentar lalu kembali', digunakan 出かけて来ます.",
+    "formula_template": "{A} へ行って来ます / 出かけて来ます",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} へ行って来ます / 出かけて来ます' untuk menyatakan: Menyatakan arti untuk pergi ke suatu tempat kemudian kembali (～へ行って来ます). Jika secara khusus tidak berkata meng. Pastikan 'A' mewakili Kata Benda (Tempat).",
+    "ui_notes": "Menyatakan arti untuk pergi ke suatu tempat kemudian kembali (～へ行って来ます). Jika secara khusus tidak berkata mengenai tempat tujuan dan hanya berarti 'pergi sebentar lalu kembali', digunakan 出かけて来ます.",
+    "examples": [
+      {
+        "jp": "郵便局へ行って来ます。",
+        "id": "Pergi ke kantor pos (dan akan kembali)."
+      },
+      {
+        "jp": "ちょっと出かけて来ます。",
+        "id": "Pergi sebentar (dan akan kembali)."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Pergi dan Kembali"
+    ]
+  },
+  {
+    "id": "m_bab43_5",
+    "chapter": "Bab 43",
+    "level": "N4",
+    "title": "A形 くれませんか",
+    "meaning": "Ungkapan permintaan yang lebih halus daripada ～てください, namun kurang halus daripada ～ていただけませんか. Cocok dipakai kepada orang yang setaraf atau di bawah dari diri sendiri.",
+    "formula_template": "{A} くれませんか",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} くれませんか' untuk menyatakan: Ungkapan permintaan yang lebih halus daripada ～てください, namun kurang halus daripada ～ていただけませんか. Cocok dipakai ke. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Artinya \"Apakah (Anda) dapat ~ untuk saya?\".",
+    "examples": [
+      {
+        "jp": "コンビニへ行って来ます。……じゃ、お弁当を買って来てくれませんか。",
+        "id": "Pergi ke toko 24 jam. ……Kalau begitu, tolong belikan saya bekal?"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Permintaan Sopan Biasa"
+    ]
+  }
+]

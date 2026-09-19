@@ -1,0 +1,216 @@
+[
+  {
+    "id": "n3_bab20_1",
+    "chapter": "Bab 20",
+    "level": "N3",
+    "title": "〜おかげで",
+    "meaning": "〜おかげで",
+    "formula_template": "{A}(biasa) / {B}(biasa) / {C} な / {D}の おかげで / おかげだ.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}(biasa) / {B}(biasa) / {C} な / {D}の おかげで / おかげだ.' untuk mengekspresikan: 〜おかげで.",
+    "ui_notes": "〜おかげで",
+    "examples": [
+      {
+        "jp": "先生のおかげで合格できました。",
+        "id": "Berkat guru, saya bisa lulus."
+      },
+      {
+        "jp": "日本へ来たおかげで、日本語が上手になった。",
+        "id": "Berkat datang ke Jepang, bahasa Jepang saya menjadi mahir."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab20_2",
+    "chapter": "Bab 20",
+    "level": "N3",
+    "title": "〜せい",
+    "meaning": "Ketika penyebab tidak begitu jelas, bisa menggunakan `〜せいか`.",
+    "formula_template": "{A}(biasa) / {B}(biasa) / {C} な / {D}の せいだ / せいで / せいか.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}(biasa) / {B}(biasa) / {C} な / {D}の せいだ / せいで / せいか.' untuk mengekspresikan: Ketika penyebab tidak begitu jelas, bisa menggunakan `〜せいか`..",
+    "ui_notes": "Ketika penyebab tidak begitu jelas, bisa menggunakan `〜せいか`.",
+    "examples": [
+      {
+        "jp": "バスが遅れたせいで、約束の時間に間に合わなかった。",
+        "id": "Gara-gara bus terlambat, saya tidak sempat tepat waktu sesuai janji."
+      },
+      {
+        "jp": "疲れたせいか、頭が痛い。",
+        "id": "Mungkin gara-gara lelah, kepala saya sakit."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab20_3",
+    "chapter": "Bab 20",
+    "level": "N3",
+    "title": "〜かわりに",
+    "meaning": "Dapat menggantikan subjek, predikat & objek. `※そのかわり(に)` (kata penghubung).",
+    "formula_template": "{A}(biasa) / {B}(biasa) / {C} な / {D}の かわりに.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}(biasa) / {B}(biasa) / {C} な / {D}の かわりに.' untuk mengekspresikan: Dapat menggantikan subjek, predikat & objek. `※そのかわり(に)` (kata penghubung)..",
+    "ui_notes": "Dapat menggantikan subjek, predikat & objek. `※そのかわり(に)` (kata penghubung).",
+    "examples": [
+      {
+        "jp": "車で来たので、ビールのかわりにジュースをください。",
+        "id": "Karena datang naik mobil, tolong beri saya jus sebagai ganti bir."
+      },
+      {
+        "jp": "日曜日に働いたかわりに、今日休みを取りました。",
+        "id": "Sebagai ganti bekerja di hari Minggu, hari ini saya mengambil libur."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab20_4",
+    "chapter": "Bab 20",
+    "level": "N3",
+    "title": "〜にかわって",
+    "meaning": "Hanya dapat menggantikan subjek atau pelaku (tidak bisa objek & predikat). (Contoh salah: ✕ ビールにかわって、ジュースをください).",
+    "formula_template": "{A} にかわって / にかわり.",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} にかわって / にかわり.' untuk mengekspresikan: Hanya dapat menggantikan subjek atau pelaku (tidak bisa objek & predikat). (Contoh salah: ✕ ビールにかわって、ジュースをください.",
+    "ui_notes": "Hanya dapat menggantikan subjek atau pelaku (tidak bisa objek & predikat). (Contoh salah: ✕ ビールにかわって、ジュースをください).",
+    "examples": [
+      {
+        "jp": "出張中の部長にかわって、私がごあいさつさせていただきます。",
+        "id": "Menggantikan kepala bagian yang sedang dinas luar, izinkan saya menyampaikan salam."
+      },
+      {
+        "jp": "野球にかわり、サッカーが盛んになってきた。",
+        "id": "Menggantikan bisbol, sepak bola mulai menjadi populer."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

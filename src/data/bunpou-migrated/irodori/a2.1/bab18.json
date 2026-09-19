@@ -1,0 +1,158 @@
+[
+  {
+    "id": "i_bab18_1",
+    "chapter": "Bab 18",
+    "level": "A2.1",
+    "title": "〜そうですね — Kabarnya ...",
+    "meaning": "Pola untuk menyatakan informasi yang didengar dari orang lain (desas-desus atau kabar burung). '〜そう' berarti 'kabarnya' atau 'katanya', dan 'ですね' adalah bentuk sopan. Berbeda dengan 'V-そう' (kelihatannya), '〜そう' digunakan untuk informasi yang didengar. Sangat berguna saat memulai percakapan tentang kabar seseorang. Artinya 'Kabarnya [informasi]' atau 'Saya dengar [informasi]'.",
+    "formula_template": "{A} そうですね",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} そうですね' untuk percakapan: Pola untuk menyatakan informasi yang didengar dari orang lain (desas-desus atau kabar burung). '〜そう' berarti '. Pastikan 'A' mewakili Informasi.",
+    "ui_notes": "Perbedaan: '見た目そう' (kelihatannya - dari penglihatan) vs '聞いたそう' (kabarnya - dari informasi). Untuk kalimat yang lebih formal, gunakan '〜とのことです' (saya dengar bahwa...). Contoh: 田中さんが結婚したとのことです (Saya dengar Tanaka sudah menikah).",
+    "examples": [
+      {
+        "jp": "お子さんが生まれたそうですね。",
+        "id": "Kabarnya anak Anda lahir ya."
+      },
+      {
+        "jp": "来週、引っ越すそうですね。",
+        "id": "Kabarnya minggu depan pindah ya."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Informasi",
+      "Kabar",
+      "Percakapan"
+    ]
+  },
+  {
+    "id": "i_bab18_2",
+    "chapter": "Bab 18",
+    "level": "A2.1",
+    "title": "〜をあげませんか？ — Mau Memberi ...?",
+    "meaning": "Pola ajakan untuk memberikan sesuatu kepada seseorang. 'あげる' berarti 'memberi', dan 'ませんか' adalah bentuk ajakan yang sopan. Digunakan saat mendiskusikan hadiah atau sesuatu yang akan diberikan kepada orang lain. Artinya 'Bagaimana kalau kita memberi [benda]?'",
+    "formula_template": "{A} を あげませんか？",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} を あげませんか？' untuk percakapan: Pola ajakan untuk memberikan sesuatu kepada seseorang. 'あげる' berarti 'memberi', dan 'ませんか' adalah bentuk ajaka. Pastikan 'A' mewakili Benda.",
+    "ui_notes": "'あげる' digunakan ketika pemberi adalah pembicara atau kelompok pembicara (memberi KEPADA orang lain). 'くれる' digunakan ketika orang lain memberi KEPADA pembicara. Dalam konteks mendiskusikan hadiah untuk orang lain, gunakan 'あげる'. Untuk menawarkan bantuan: 手伝いましょうか (Mau saya bantu?).",
+    "examples": [
+      {
+        "jp": "アナさんに何かプレゼントをあげませんか？",
+        "id": "Bagaimana kalau kita memberi sesuatu untuk Ana?"
+      },
+      {
+        "jp": "花をあげませんか？",
+        "id": "Bagaimana kalau kita memberi bunga?"
+      }
+    ],
+    "tags": [
+      "A2",
+      "Memberi",
+      "Ajakan",
+      "Hadiah"
+    ]
+  },
+  {
+    "id": "i_bab18_3",
+    "chapter": "Bab 18",
+    "level": "A2.1",
+    "title": "〜と言っていました — Dia Bilang ...",
+    "meaning": "Pola untuk melaporkan atau mengulang apa yang dikatakan orang lain. '〜と' adalah kutipan, '言っていました' adalah bentuk lampau dari '言っています' (sedang mengatakan). Digunakan untuk menyampaikan informasi yang didengar dari seseorang. Sangat berguna saat merencanakan hadiah atau membuat keputusan berdasarkan pendapat orang lain. Artinya '[Orang] mengatakan bahwa...'",
+    "formula_template": "{A} は {B} と 言っていました",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は {B} と 言っていました' untuk percakapan: Pola untuk melaporkan atau mengulang apa yang dikatakan orang lain. '〜と' adalah kutipan, '言っていました' adalah bent. Pastikan 'A' mewakili Orang, 'B' mewakili Kutipan.",
+    "ui_notes": "Bentuk kasual: 〜と言ってた (~to itteta). Untuk melaporkan pertanyaan: 〜かどうか聞きました (Bertanya apakah...). Perhatikan bahwa kutipan menggunakan bentuk biasa (bukan bentuk sopan): 大好きだと言っていました (bukan 大好きですと言っていました). Ini adalah aturan penting dalam kalimat kutipan.",
+    "examples": [
+      {
+        "jp": "アナさん、前に、焼き鳥が大好きだと言っていました。",
+        "id": "Ana dulu pernah bilang bahwa dia sangat suka yakitori."
+      },
+      {
+        "jp": "田中さんは明日来ると言っていました。",
+        "id": "Tanaka bilang bahwa dia akan datang besok."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Kutipan",
+      "Informasi",
+      "Pendapat"
+    ]
+  },
+  {
+    "id": "i_bab18_4",
+    "chapter": "Bab 18",
+    "level": "A2.1",
+    "title": "〜と思います — Saya Pikir ...",
+    "meaning": "Pola untuk menyatakan pendapat atau pikiran pribadi. '〜と' adalah kutipan, dan '思います' berarti 'berpikir'. Digunakan untuk menyampaikan pendapat tentang hadiah, rencana, atau situasi. Artinya 'Saya pikir [pendapat]'.",
+    "formula_template": "{A} と思います",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} と思います' untuk percakapan: Pola untuk menyatakan pendapat atau pikiran pribadi. '〜と' adalah kutipan, dan '思います' berarti 'berpikir'. Digun. Pastikan 'A' mewakili Pendapat.",
+    "ui_notes": "Bentuk kasual: 〜と思う (~to omou). Untuk menyatakan pendapat yang lebih lembut, gunakan: 〜のではないかと思います (Saya kira mungkin...). Jangan gunakan '思います' untuk menyatakan fakta, gunakan hanya untuk pendapat pribadi. Contoh: 明日は雨だと思います (Saya pikir besok hujan - perkiraan/pendapat, bukan fakta pasti).",
+    "examples": [
+      {
+        "jp": "もっと、思い出に残るものがいいと思います。",
+        "id": "Saya pikir, yang lebih berkesan itu lebih baik."
+      },
+      {
+        "jp": "このプレゼントはいいと思います。",
+        "id": "Saya pikir hadiah ini bagus."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Pendapat",
+      "Pikiran",
+      "Rencana"
+    ]
+  }
+]

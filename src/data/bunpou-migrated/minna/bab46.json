@@ -1,0 +1,205 @@
+[
+  {
+    "id": "m_bab46_1",
+    "chapter": "Bab 46",
+    "level": "N4",
+    "title": "A ところです",
+    "meaning": "Menyatakan bahwa aksi baru akan dimulai (Baru mau...). Kebanyakan digunakan bersama dengan Kata Keterangan seperti これから (Mulai dari sekarang), [ちょうど] いまから (Tepat mulai dari sekarang) dan lain-lainnya.",
+    "formula_template": "{A} ところです",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ところです' untuk menyatakan: Menyatakan bahwa aksi baru akan dimulai (Baru mau...). Kebanyakan digunakan bersama dengan Kata Keterangan sep. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus).",
+    "ui_notes": "Kata ところ berfungsi sebagai Kata Benda, sehingga disambung ke berbagai pola kalimat seperti Kalimat Nominal.",
+    "examples": [
+      {
+        "jp": "昼ごはんはもう食べましたか。……いいえ、これから食べるところです。",
+        "id": "Sudah makan siang? ……Belum, baru mau makan sekarang."
+      },
+      {
+        "jp": "会議はもう始まりましたか。……いいえ、今から始まるところです。",
+        "id": "Rapat sudah dimulai? ……Belum, baru mau dimulai sekarang."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Akan Dimulai"
+    ]
+  },
+  {
+    "id": "m_bab46_2",
+    "chapter": "Bab 46",
+    "level": "N4",
+    "title": "A形 いるところです",
+    "meaning": "Menunjukkan bahwa aksi sedang dilakukan (Sedang...). Kebanyakan dipakai bersama dengan いま (Sekarang).",
+    "formula_template": "{A} いる ところです",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} いる ところです' untuk menyatakan: Menunjukkan bahwa aksi sedang dilakukan (Sedang...). Kebanyakan dipakai bersama dengan いま (Sekarang).. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Menunjukkan bahwa aksi sedang dilakukan (Sedang...). Kebanyakan dipakai bersama dengan いま (Sekarang).",
+    "examples": [
+      {
+        "jp": "故障の原因がわかりましたか。……いいえ、今調べているところです。",
+        "id": "Apakah sudah jelas apa penyebab kerusakan? ……Belum, sekarang sedang diperiksa."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Sedang Berlangsung"
+    ]
+  },
+  {
+    "id": "m_bab46_3",
+    "chapter": "Bab 46",
+    "level": "N4",
+    "title": "A形 ところです",
+    "meaning": "Menunjukkan bahwa aksi baru saja diselesaikan. Kebanyakan digunakan bersama dengan Kata Keterangan seperti たったいま (Baru saja/Tadi) dan lain-lainnya.",
+    "formula_template": "{A} ところです",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ところです' untuk menyatakan: Menunjukkan bahwa aksi baru saja diselesaikan. Kebanyakan digunakan bersama dengan Kata Keterangan seperti たった. Pastikan 'A' mewakili Kata Kerja (Bentuk た).",
+    "ui_notes": "Menunjukkan bahwa aksi baru saja diselesaikan. Kebanyakan digunakan bersama dengan Kata Keterangan seperti たったいま (Baru saja/Tadi) dan lain-lainnya.",
+    "examples": [
+      {
+        "jp": "渡辺さんはいますか。……あ、たった今帰ったところです。",
+        "id": "Apakah ada sdri. Watanabe? ……Ah, baru saja pulang."
+      },
+      {
+        "jp": "たった今バスが出たところです。",
+        "id": "Baru saja bus berangkat."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Baru Saja Selesai (Objektif)"
+    ]
+  },
+  {
+    "id": "m_bab46_4",
+    "chapter": "Bab 46",
+    "level": "N4",
+    "title": "A形 ばかりです",
+    "meaning": "Pola kalimat ini juga menyatakan perasaan si pembicara bahwa waktu belum lama setelah dilakukan aksi atau terjadi peristiwa (Baru saja...). Hal ini didasarkan pada perasaan subjektif pembicara, tidak terpengaruh pada lama atau singkatnya waktu yang telah dilampaui sebenarnya.",
+    "formula_template": "{A} ばかりです",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ばかりです' untuk menyatakan: Pola kalimat ini juga menyatakan perasaan si pembicara bahwa waktu belum lama setelah dilakukan aksi atau terj. Pastikan 'A' mewakili Kata Kerja (Bentuk た).",
+    "ui_notes": "Ini adalah poin yang membedakannya dengan Kata Kerja Bentuk た ところです, yang lebih berpatokan pada waktu mutlak sesaat sesudah kejadian.",
+    "examples": [
+      {
+        "jp": "さっき昼ごはんで食べたばかりです。",
+        "id": "Tadi baru makan siang."
+      },
+      {
+        "jp": "木村さんは先月この会社に入ったばかりです。",
+        "id": "Sdri. Kimura baru masuk ke perusahaan ini bulan lalu."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Baru Saja (Subjektif)"
+    ]
+  },
+  {
+    "id": "m_bab46_5",
+    "chapter": "Bab 46",
+    "level": "N4",
+    "title": "普通形 はずです",
+    "meaning": "Pola kalimat ini dipakai waktu pembicara menjelaskan keputusan/keyakinan diri sendiri secara pasti yang berdasarkan dengan suatu bukti/alasan yang kuat (Pasti / Harusnya).",
+    "formula_template": "{A}/ {B} はずです | {C} はずです | {D} の はずです",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}/ {B} はずです | {C} はずです | {D} の はずです' untuk menyatakan: Pola kalimat ini dipakai waktu pembicara menjelaskan keputusan/keyakinan diri sendiri secara pasti yang berdas. Pastikan 'A' mewakili Kata Kerja, 'B' mewakili Kata Sifat い (Bentuk Biasa), 'C' mewakili Kata Sifat な (Bentuk Biasa ~だ -> ~な), 'D' mewakili Kata Benda.",
+    "ui_notes": "Berdasarkan bukti 'kemarin dia menelepon', si pembicara memutuskan bahwa 'Sdr. Miller pasti datang hari ini'.",
+    "examples": [
+      {
+        "jp": "ミラーさんはきょう来るでしょうか。……来るはずですよ。きのう電話がありましたから。",
+        "id": "Apakah sdr. Miller datang hari ini? ……Harusnya datang. Sebab kemarin dia menelepon."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Keyakinan/Kepastian"
+    ]
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "id": "i_bab12_1",
+    "chapter": "Bab 12",
+    "level": "A2.1",
+    "title": "ナA-／イA- そうです — Kelihatannya ...",
+    "meaning": "Pola kalimat untuk menyatakan kesan atau dugaan berdasarkan apa yang terlihat (penampilan). 'そうです' berarti 'kelihatannya' atau 'sepertinya'. Untuk kata sifat-na (ナA), gunakan langsung kata sifat + 'そうです'. Untuk kata sifat-i (イA), hilangkan 'い' dan tambahkan 'そうです'. Sangat berguna saat mengomentari makanan berdasarkan penampilan. Artinya 'Kelihatannya [sifat]'.",
+    "formula_template": "{A} そうです / {B} → {C} そうです",
+    "variables": {
+      "A": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} そうです / {B} → {C} そうです' untuk percakapan: Pola kalimat untuk menyatakan kesan atau dugaan berdasarkan apa yang terlihat (penampilan). 'そうです' berarti 'ke. Pastikan 'A' mewakili ナA, 'B' mewakili イA-i, 'C' mewakili イA-.",
+    "ui_notes": "Untuk kata sifat-i: おいしい (enak) → おいしそう (kelihatan enak), 辛い (pedas) → 辛そう (kelihatan pedas), 甘い (manis) → 甘そう (kelihatan manis). Untuk kata sifat-na: きれい (cantik) → きれいそう (kelihatan cantik), 便利 (praktis) → 便利そう (kelihatan praktis). Jangan gunakan untuk kata kerja.",
+    "examples": [
+      {
+        "jp": "そのお弁当、おいしそうですね。",
+        "id": "Bekal itu kelihatannya enak ya."
+      },
+      {
+        "jp": "この料理、辛そうですね。",
+        "id": "Masakan ini kelihatannya pedas ya."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Kesan",
+      "Penampilan",
+      "Makanan"
+    ]
+  },
+  {
+    "id": "i_bab12_2",
+    "chapter": "Bab 12",
+    "level": "A2.1",
+    "title": "イA-くて、〜 — Rasanya ... dan ...",
+    "meaning": "Pola untuk menggabungkan dua kata sifat-i (イA) untuk mendeskripsikan rasa atau kualitas makanan. Ubah kata sifat pertama dengan mengubah 'い' menjadi 'くて', lalu diikuti kata sifat kedua. Sangat berguna saat memberikan kesan tentang makanan yang baru dicicipi. Artinya '[Sifat1], dan [Sifat2]'.",
+    "formula_template": "{A} → {B} {C}",
+    "variables": {
+      "A": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} → {B} {C}' untuk percakapan: Pola untuk menggabungkan dua kata sifat-i (イA) untuk mendeskripsikan rasa atau kualitas makanan. Ubah kata sif. Pastikan 'A' mewakili イA-い, 'B' mewakili イA-くて, 'C' mewakili イA.",
+    "ui_notes": "Untuk kata sifat-na (ナA), gunakan 'で' sebagai penghubung: にぎやかで便利です (ramai dan praktis). Untuk menggabungkan kata sifat-i (イA) dan kata sifat-na (ナA): 甘くて、おしゃれなケーキ (Kue yang manis dan modis). Bisa juga menggabungkan lebih dari 2 sifat dengan pola yang sama.",
+    "examples": [
+      {
+        "jp": "この卵焼き、甘くておいしいですね。",
+        "id": "Telur dadar gulung ini manis dan enak ya."
+      },
+      {
+        "jp": "このスープ、熱くて辛いです。",
+        "id": "Sup ini panas dan pedas."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Rasa",
+      "Deskripsi",
+      "Makanan"
+    ]
+  },
+  {
+    "id": "i_bab12_3",
+    "chapter": "Bab 12",
+    "level": "A2.1",
+    "title": "V-てみます — Mencoba Melakukan",
+    "meaning": "Pola kalimat untuk menyatakan bahwa seseorang mencoba melakukan sesuatu, biasanya untuk pertama kalinya atau untuk melihat bagaimana hasilnya. 'V-てみる' berarti 'mencoba melakukan'. Digunakan saat mencicipi makanan baru atau mencoba pengalaman baru. Artinya 'Mencoba [melakukan]'.",
+    "formula_template": "{A} みます",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} みます' untuk percakapan: Pola kalimat untuk menyatakan bahwa seseorang mencoba melakukan sesuatu, biasanya untuk pertama kalinya atau u. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
+    "ui_notes": "'V-てみる' memiliki nuansa 'eksperimen' atau 'coba-coba'. Berbeda dengan 'V-る' yang berarti melakukan secara serius. Contoh: 行ってみる (Mencoba pergi - mungkin baru pertama kali atau hanya coba) vs 行く (Pergi - pasti pergi). Bentuk lampau: 食べてみました (Sudah mencoba makan).",
+    "examples": [
+      {
+        "jp": "よかったら、この卵焼き、食べてみてください。",
+        "id": "Kalau mau, coba makan telur dadar gulung ini."
+      },
+      {
+        "jp": "このケーキを食べてみました。",
+        "id": "Saya mencoba makan kue ini."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Mencoba",
+      "Pengalaman",
+      "Makanan"
+    ]
+  },
+  {
+    "id": "i_bab12_4",
+    "chapter": "Bab 12",
+    "level": "A2.1",
+    "title": "〜とか (〜toka) — Seperti ...",
+    "meaning": "Pola untuk memberikan contoh atau daftar hal-hal yang tidak lengkap. 'とか' digunakan di antara kata benda untuk menunjukkan bahwa ada hal-hal lain selain yang disebutkan. Sangat berguna saat menjelaskan bahan makanan atau isi suatu masakan. Artinya 'Seperti [N1], [N2], dan lain-lain'.",
+    "formula_template": "{A} とか {B} とか",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} とか {B} とか' untuk percakapan: Pola untuk memberikan contoh atau daftar hal-hal yang tidak lengkap. 'とか' digunakan di antara kata benda untuk. Pastikan 'A' mewakili N1, 'B' mewakili N2.",
+    "ui_notes": "'とか' adalah bentuk kasual dari 'や' (dan - daftar tidak lengkap). Perbedaan dengan 'や': 'や' lebih sering digunakan dalam tulisan, sedangkan 'とか' lebih sering digunakan dalam percakapan. Bisa juga menggunakan '〜たり〜たり' untuk daftar aktivitas: 食べたり飲んだり (makan, minum, dan lain-lain).",
+    "examples": [
+      {
+        "jp": "鶏肉とか、エビとか、きのことかが入ってます。",
+        "id": "Ada ayam, udang, jamur, dan lain-lain di dalamnya."
+      },
+      {
+        "jp": "果物とか、野菜とかを食べます。",
+        "id": "Saya makan buah-buahan, sayuran, dan lain-lain."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Contoh",
+      "Bahan",
+      "Makanan"
+    ]
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "i_bab16_1",
+    "chapter": "Bab 16",
+    "level": "A1",
+    "title": "これ/それ/あれはいくらですか？",
+    "meaning": "Pola pertanyaan untuk menanyakan harga suatu barang dengan menggunakan kata penunjuk. 'これ' (ini - dekat pembicara), 'それ' (itu - dekat lawan bicara), 'あれ' (itu - jauh dari keduanya). 'いくら' berarti 'berapa harga'. Sangat berguna saat berbelanja. Artinya 'Berapa harga ini/itu?'.",
+    "formula_template": "{A} は いくらですか？",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は いくらですか？' untuk percakapan: Pola pertanyaan untuk menanyakan harga suatu barang dengan menggunakan kata penunjuk. 'これ' (ini - dekat pembic. Pastikan 'A' mewakili これ/それ/あれ.",
+    "ui_notes": "Partikel 'は' sering dihilangkan dalam percakapan sehari-hari. Contoh: これいくら？ (Ini berapa? - kasual). Untuk menanyakan harga secara lebih sopan: これはいくらですか？ atau これはおいくらですか？ (lebih sopan dengan 'お' di depan).",
+    "examples": [
+      {
+        "jp": "これ、いくらですか？",
+        "id": "Berapa harga ini?"
+      },
+      {
+        "jp": "あれはいくらですか？",
+        "id": "Berapa harga itu?"
+      }
+    ],
+    "tags": [
+      "A1",
+      "Harga",
+      "Berbelanja",
+      "Pertanyaan",
+      "Penunjuk"
+    ]
+  },
+  {
+    "id": "i_bab16_2",
+    "chapter": "Bab 16",
+    "level": "A1",
+    "title": "この/その/あのN",
+    "meaning": "Pola untuk menunjukkan benda tertentu dengan kata penunjuk + kata benda. 'この' berarti 'ini' (benda di dekat pembicara), 'その' berarti 'itu' (benda di dekat lawan bicara), 'あの' berarti 'itu' (benda jauh dari keduanya). Berbeda dengan 'これ/それ/あれ' yang berdiri sendiri, 'この/その/あの' harus diikuti kata benda. Artinya '[Benda] ini/itu'.",
+    "formula_template": "{A} {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} {B}' untuk percakapan: Pola untuk menunjukkan benda tertentu dengan kata penunjuk + kata benda. 'この' berarti 'ini' (benda di dekat pe. Pastikan 'A' mewakili この/その/あの, 'B' mewakili Kata Benda.",
+    "ui_notes": "Perbedaan: 'これ' (ini - kata benda sendiri) vs 'この[N]' ([N] ini). Contoh: これはいいです (Ini bagus) vs この本はいいです (Buku ini bagus). Untuk pertanyaan 'yang mana', gunakan 'どの' (which): どのカレンダーですか？ (Kalender yang mana?).",
+    "examples": [
+      {
+        "jp": "そのカレンダー、いくらですか？",
+        "id": "Berapa harga kalender itu?"
+      },
+      {
+        "jp": "この靴はいくらですか？",
+        "id": "Berapa harga sepatu ini?"
+      }
+    ],
+    "tags": [
+      "A1",
+      "Harga",
+      "Berbelanja",
+      "Penunjuk",
+      "Pertanyaan"
+    ]
+  },
+  {
+    "id": "i_bab16_3",
+    "chapter": "Bab 16",
+    "level": "A1",
+    "title": "【kuantitas】ずつ ([Kuantitas] zutsu)",
+    "meaning": "Pola untuk menyatakan bahwa setiap item memiliki jumlah yang sama atau memesan beberapa jenis barang dengan jumlah yang sama. 'ずつ' berarti 'masing-masing' atau 'setiap'. Digunakan saat memesan beberapa jenis barang dengan jumlah yang sama, misalnya 2 buah kue coklat dan 2 buah kue keju. Artinya '[Jumlah] masing-masing'.",
+    "formula_template": "{A} ずつ",
+    "variables": {
+      "A": {
+        "type": [
+          "counter",
+          "noun"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ずつ' untuk percakapan: Pola untuk menyatakan bahwa setiap item memiliki jumlah yang sama atau memesan beberapa jenis barang dengan ju. Pastikan 'A' mewakili Jumlah.",
+    "ui_notes": "'ずつ' juga bisa digunakan untuk menyatakan 'sedikit demi sedikit': 少しずつ (sedikit demi sedikit). Atau 'satu per satu': 一つずつ (satu per satu). Sangat berguna di toko makanan atau saat membeli oleh-oleh.",
+    "examples": [
+      {
+        "jp": "チョコレートケーキとチーズケーキ、2個ずつお願いします。",
+        "id": "Kue coklat dan kue keju, masing-masing 2 potong."
+      },
+      {
+        "jp": "りんごを3つずつください。",
+        "id": "Tolong apel masing-masing 3 buah."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Jumlah",
+      "Berbelanja",
+      "Memesan",
+      "Counter"
+    ]
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "id": "n3_bab27_1",
+    "chapter": "Bab 27",
+    "level": "N3",
+    "title": "〜といいなあ",
+    "meaning": "Menyatakan sebuah keinginan & harapan.",
+    "formula_template": "{A}/{B}/{C} だ/{D}だ といい(のに)なあ / {V4}/{V5} 〜たら / {V6}/{V7}だったら / {V8}ば {V9} 〜ければ / {V10}/{V11}なら(ば) (いいのに)なあ.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "V4": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "V5": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V6": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V7": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "V8": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "V9": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V10": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V11": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}/{B}/{C} だ/{D}だ といい(のに)なあ / {V4}/{V5} 〜たら / {V6}/{V7}だったら / {V8}ば {V9} 〜ければ / {V10}/{V11}なら(ば) (いいのに)なあ.' untuk mengekspresikan: Menyatakan sebuah keinginan & harapan..",
+    "ui_notes": "Menyatakan sebuah keinginan & harapan.",
+    "examples": [
+      {
+        "jp": "もっと日本語がうまく話せたらいいなあ。",
+        "id": "Seandainya saya bisa berbicara bahasa Jepang lebih lancar."
+      },
+      {
+        "jp": "明日、雨が降らないといいなあ。",
+        "id": "Semoga besok tidak turun hujan."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pengandaian"
+    ]
+  },
+  {
+    "id": "n3_bab27_2",
+    "chapter": "Bab 27",
+    "level": "N3",
+    "title": "〜ばよかった",
+    "meaning": "Menunjukkan adanya penyesalan (\"coba...\").",
+    "formula_template": "{A}ば / {B}なければ / {C}たら / {D}なかったら よかった.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "D": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}ば / {B}なければ / {C}たら / {D}なかったら よかった.' untuk mengekspresikan: Menunjukkan adanya penyesalan (\"coba...\")..",
+    "ui_notes": "Menunjukkan adanya penyesalan (\"coba...\").",
+    "examples": [
+      {
+        "jp": "遅刻してしまった。もっと早く家を出ればよかった。",
+        "id": "Saya terlambat. Seandainya saya keluar rumah lebih awal."
+      },
+      {
+        "jp": "田中さんにあんなことを言わなければよかった。",
+        "id": "Seandainya saya tidak mengatakan hal seperti itu kepada Tanaka-san."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pengandaian"
+    ]
+  },
+  {
+    "id": "n3_bab27_3",
+    "chapter": "Bab 27",
+    "level": "N3",
+    "title": "〜ば〜のに",
+    "meaning": "Menyatakan suatu hal yang disayangkan (\"coba... sayang sekali\").",
+    "formula_template": "{A}ば〜のに / {B}たら〜のに.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}ば〜のに / {B}たら〜のに.' untuk mengekspresikan: Menyatakan suatu hal yang disayangkan (\"coba... sayang sekali\")..",
+    "ui_notes": "Menyatakan suatu hal yang disayangkan (\"coba... sayang sekali\").",
+    "examples": [
+      {
+        "jp": "昨日のパーティー、楽しかったよ。君も行けばよかったのに。",
+        "id": "Pesta kemarin seru lho. Padahal seharusnya kamu ikut pergi."
+      },
+      {
+        "jp": "もう少し安かったら買うのになあ。",
+        "id": "Seandainya sedikit lebih murah pasti kubeli."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pengandaian"
+    ]
+  },
+  {
+    "id": "n3_bab27_4",
+    "chapter": "Bab 27",
+    "level": "N3",
+    "title": "〜かなあ",
+    "meaning": "(1) Menyatakan keinginan, harapan, (2) menyatakan rasa ragu.",
+    "formula_template": "{A}る かな(あ) / {B}ない かな(あ).",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}る かな(あ) / {B}ない かな(あ).' untuk mengekspresikan: (1) Menyatakan keinginan, harapan, (2) menyatakan rasa ragu..",
+    "ui_notes": "(1) Menyatakan keinginan, harapan, (2) menyatakan rasa ragu.",
+    "examples": [
+      {
+        "jp": "バス、早く来ないかなあ。",
+        "id": "Kira-kira bisnya bisa datang lebih cepat tidak ya."
+      },
+      {
+        "jp": "この実験、うまくいくかな。",
+        "id": "Kira-kira eksperimen ini bakal berhasil tidak ya."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pengandaian"
+    ]
+  }
+]

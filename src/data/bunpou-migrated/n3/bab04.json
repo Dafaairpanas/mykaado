@@ -1,0 +1,194 @@
+[
+  {
+    "id": "n3_bab04_1",
+    "chapter": "Bab 04",
+    "level": "N3",
+    "title": "〜ようにする",
+    "meaning": "digunakan untuk mengungkapkan sebuah usaha, kebiasaan",
+    "formula_template": "[{A}る / {B}ない] ようにする",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}る / {B}ない] ようにする' untuk mengekspresikan: digunakan untuk mengungkapkan sebuah usaha, kebiasaan.",
+    "ui_notes": "digunakan untuk mengungkapkan sebuah usaha, kebiasaan",
+    "examples": [
+      {
+        "jp": "忘れ物をしないようにしましょう。",
+        "id": "mari usahakan tidak meninggalkan barang"
+      },
+      {
+        "jp": "毎食後、歯をみがくようにしています。",
+        "id": "setiap selesai makan saya usahakan untuk menggosok gigi"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Perubahan"
+    ]
+  },
+  {
+    "id": "n3_bab04_2",
+    "chapter": "Bab 04",
+    "level": "N3",
+    "title": "〜ようになる",
+    "meaning": "jika menggunakan kata kerja potensial, terdapat perubahan dari tidak bisa menjadi bisa",
+    "formula_template": "[{A}る / {B}れる] ようになる",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}る / {B}れる] ようになる' untuk mengekspresikan: jika menggunakan kata kerja potensial, terdapat perubahan dari tidak bisa menjadi bisa.",
+    "ui_notes": "jika menggunakan kata kerja potensial, terdapat perubahan dari tidak bisa menjadi bisa",
+    "examples": [
+      {
+        "jp": "最近、納豆が食べられるようになりました。",
+        "id": "akhir-akhir ini saya bisa makan natto"
+      },
+      {
+        "jp": "大学生になってから自分で弁当を作るようになりました。",
+        "id": "setelah jadi mahasiswa, saya jadi bikin bento sendiri"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Perubahan"
+    ]
+  },
+  {
+    "id": "n3_bab04_3",
+    "chapter": "Bab 04",
+    "level": "N3",
+    "title": "〜ように",
+    "meaning": "sering digunakan dengan kata kerja potensial; ✓ dan kata kerja yang menyatakan keadaan (bukan keinginan); ✓ keadaan seperti itu lah yang diinginkan oleh pembica",
+    "formula_template": "[{A}る / {B}ない / {C}れる] ように",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}る / {B}ない / {C}れる] ように' untuk mengekspresikan: sering digunakan dengan kata kerja potensial; ✓ dan kata kerja yang menyatakan keadaan (bukan keinginan); ✓ ke.",
+    "ui_notes": "sering digunakan dengan kata kerja potensial; ✓ dan kata kerja yang menyatakan keadaan (bukan keinginan); ✓ keadaan seperti itu lah yang diinginkan oleh pembicara",
+    "examples": [
+      {
+        "jp": "忘れないように、手帳に書いておこう。",
+        "id": "supaya tidak lupa, tulis di buku agenda dulu"
+      },
+      {
+        "jp": "みんなに聞こえるようにもっと大きな声で話してください。",
+        "id": "supaya terdengar oleh semua, tolong bicara dengan suara lebih besar"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Perubahan"
+    ]
+  },
+  {
+    "id": "n3_bab04_4",
+    "chapter": "Bab 04",
+    "level": "N3",
+    "title": "〜ために",
+    "meaning": "untuk mewujudkan cita-cita, tujuan & sebuah keinginan yang kuat; ✓ biasanya dengan kata kerja yang mengandung maksud, niat & keinginan (bukan keadaan).",
+    "formula_template": "[{A}る / {B}の] ために",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}る / {B}の] ために' untuk mengekspresikan: untuk mewujudkan cita-cita, tujuan & sebuah keinginan yang kuat; ✓ biasanya dengan kata kerja yang mengandung .",
+    "ui_notes": "untuk mewujudkan cita-cita, tujuan & sebuah keinginan yang kuat; ✓ biasanya dengan kata kerja yang mengandung maksud, niat & keinginan (bukan keadaan).",
+    "examples": [
+      {
+        "jp": "家を買うために貯金をしている。",
+        "id": "saya menabung demi (untuk) beli rumah"
+      },
+      {
+        "jp": "働くために学校をやめた。",
+        "id": "saya berhenti sekolah untuk bekerja"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Perubahan"
+    ]
+  }
+]

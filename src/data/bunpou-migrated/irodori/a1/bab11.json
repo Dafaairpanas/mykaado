@@ -1,0 +1,158 @@
+[
+  {
+    "id": "i_bab11_1",
+    "chapter": "Bab 11",
+    "level": "A1",
+    "title": "Nは何ですか？",
+    "meaning": "Pola pertanyaan untuk menanyakan sesuatu tentang topik tertentu. 'Nは' adalah topik yang dibicarakan, dan '何ですか' berarti 'apa?'. Sangat berguna untuk menanyakan hobi, pekerjaan, atau informasi lain tentang seseorang. Artinya 'Apa [topik]nya?'.",
+    "formula_template": "{A} は 何ですか？",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は 何ですか？' untuk percakapan: Pola pertanyaan untuk menanyakan sesuatu tentang topik tertentu. 'Nは' adalah topik yang dibicarakan, dan '何ですか. Pastikan 'A' mewakili Topik.",
+    "ui_notes": "Bisa juga digunakan untuk menanyakan hal lain: これは何ですか？ (Apa ini?). Untuk jawaban, gunakan pola yang sudah dipelajari: 趣味は映画を見ることです (Hobi saya adalah menonton film).",
+    "examples": [
+      {
+        "jp": "趣味は何ですか？",
+        "id": "Apa hobimu?"
+      },
+      {
+        "jp": "仕事は何ですか？",
+        "id": "Apa pekerjaanmu?"
+      }
+    ],
+    "tags": [
+      "A1",
+      "Hobi",
+      "Pertanyaan",
+      "Informasi Pribadi"
+    ]
+  },
+  {
+    "id": "i_bab11_2",
+    "chapter": "Bab 11",
+    "level": "A1",
+    "title": "どんなN",
+    "meaning": "Pola pertanyaan untuk menanyakan jenis atau tipe dari suatu kata benda. 'どんな' berarti 'seperti apa' atau 'jenis apa'. Digunakan untuk menanyakan preferensi yang lebih spesifik. Artinya 'N seperti apa?' atau 'Jenis N apa?'.",
+    "formula_template": "どんな {A}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'どんな {A}' untuk percakapan: Pola pertanyaan untuk menanyakan jenis atau tipe dari suatu kata benda. 'どんな' berarti 'seperti apa' atau 'jeni. Pastikan 'A' mewakili Kata Benda.",
+    "ui_notes": "Perbedaan: '何' (nan) = 'apa' (benda tertentu), 'どんな' (donna) = 'seperti apa' (jenis/kategori). Contoh: 何の本？ (Buku apa? - judul spesifik) vs どんな本？ (Buku seperti apa? - genre/kategori).",
+    "examples": [
+      {
+        "jp": "どんなスポーツが好きですか？",
+        "id": "Olahraga seperti apa yang kamu suka?"
+      },
+      {
+        "jp": "どんな音楽を聞きますか？",
+        "id": "Musik seperti apa yang kamu dengar?"
+      }
+    ],
+    "tags": [
+      "A1",
+      "Hobi",
+      "Pertanyaan",
+      "Preferensi"
+    ]
+  },
+  {
+    "id": "i_bab11_3",
+    "chapter": "Bab 11",
+    "level": "A1",
+    "title": "あまり〜ない",
+    "meaning": "Kata keterangan yang berarti 'tidak terlalu' atau 'tidak begitu'. Selalu diikuti dengan bentuk negatif (〜ない). Digunakan untuk menyatakan bahwa sesuatu tidak terlalu sering terjadi atau tidak terlalu disukai. Artinya 'tidak begitu [aktivitas/sifat]'.",
+    "formula_template": "あまり {A}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'あまり {A}' untuk percakapan: Kata keterangan yang berarti 'tidak terlalu' atau 'tidak begitu'. Selalu diikuti dengan bentuk negatif (〜ない). . Pastikan 'A' mewakili Bentuk Negatif.",
+    "ui_notes": "Kata keterangan frekuensi yang selalu diikuti negatif: 'あまり' (tidak terlalu) dan 'ぜんぜん' (tidak sama sekali). Contoh: ぜんぜん食べません (Tidak makan sama sekali). 'あまり' bisa digunakan dengan kata sifat juga: あまり大きくない (Tidak begitu besar).",
+    "examples": [
+      {
+        "jp": "スポーツはあまり好きじゃないです。",
+        "id": "Saya tidak begitu suka olahraga."
+      },
+      {
+        "jp": "あまり食べません。",
+        "id": "Saya tidak begitu banyak makan."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Frekuensi",
+      "Negatif",
+      "Preferensi"
+    ]
+  },
+  {
+    "id": "i_bab11_4",
+    "chapter": "Bab 11",
+    "level": "A1",
+    "title": "Frekuensi: いつも / たいてい / よく / ときどき / あまり / ぜんぜん",
+    "meaning": "Kata keterangan frekuensi untuk menyatakan seberapa sering suatu kegiatan dilakukan. Dari yang paling sering (100%) hingga tidak pernah (0%). 'いつも' (selalu), 'たいてい' (biasanya), 'よく' (sering), 'ときどき' (kadang-kadang), 'あまり' (tidak terlalu - dengan negatif), 'ぜんぜん' (tidak pernah - dengan negatif).",
+    "formula_template": "{A} {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "adv"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} {B}' untuk percakapan: Kata keterangan frekuensi untuk menyatakan seberapa sering suatu kegiatan dilakukan. Dari yang paling sering (. Pastikan 'A' mewakili Frekuensi, 'B' mewakili Kata Kerja.",
+    "ui_notes": "Urutan frekuensi dari tinggi ke rendah: いつも (100%) > たいてい (80%) > よく (60%) > ときどき (40%) > あまり〜ない (20%) > ぜんぜん〜ない (0%). 'ぜんぜん' dan 'あまり' harus diikuti bentuk negatif. Posisi dalam kalimat: sebelum kata kerja.",
+    "examples": [
+      {
+        "jp": "休みの日はたいてい映画を見ます。",
+        "id": "Di hari libur, biasanya saya menonton film."
+      },
+      {
+        "jp": "よく友だちと遊びます。",
+        "id": "Saya sering bermain dengan teman."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Frekuensi",
+      "Kebiasaan",
+      "Rutinitas"
+    ]
+  }
+]

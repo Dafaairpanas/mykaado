@@ -1,0 +1,221 @@
+[
+  {
+    "id": "m_bab17_1",
+    "chapter": "Bab 17",
+    "level": "N5",
+    "title": "ABentuk ない",
+    "meaning": "Bentuk yang disambung pada ない disebut bentuk ない. Ini merupakan dasar konjugasi untuk kalimat negatif dan pola kalimat tertentu.",
+    "formula_template": "Kelompok I: Bunyi kolom い diganti kolom あ ない | Kelompok II: Bentuk ます diganti ない | Kelompok III: します -> しない, きます -> こない",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'Kelompok I: Bunyi kolom い diganti kolom あ ない | Kelompok II: Bentuk ます diganti ない | Kelompok III: します -> しない, きます -> こない' untuk menyatakan: Bentuk yang disambung pada ない disebut bentuk ない. Ini merupakan dasar konjugasi untuk kalimat negatif dan pola .",
+    "ui_notes": "Pengecualian untuk Kelompok I: Jika bunyi terakhirnya vokal い (contoh: かいます), maka tidak diganti dengan あ melainkan わ (contoh: かわない).",
+    "examples": [
+      {
+        "jp": "かきます → かかない",
+        "id": "menulis -> tidak menulis"
+      },
+      {
+        "jp": "たべます → たべない",
+        "id": "makan -> tidak makan"
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Kerja",
+      "Konjugasi"
+    ]
+  },
+  {
+    "id": "m_bab17_2",
+    "chapter": "Bab 17",
+    "level": "N5",
+    "title": "A ないで ください",
+    "meaning": "Pola kalimat ini dipakai jika meminta atau memerintah kepada lawan bicara supaya tidak melakukan sesuatu hal (Jangan......!). Dapat juga menyatakan perhatian kepada lawan bicara untuk tidak perlu berbuat sesuatu hal.",
+    "formula_template": "{A} で ください",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} で ください' untuk menyatakan: Pola kalimat ini dipakai jika meminta atau memerintah kepada lawan bicara supaya tidak melakukan sesuatu hal (. Pastikan 'A' mewakili Kata Kerja (Bentuk ない).",
+    "ui_notes": "Pola kalimat ini dipakai jika meminta atau memerintah kepada lawan bicara supaya tidak melakukan sesuatu hal (Jangan......!). Dapat juga menyatakan perhatian kepada lawan bicara untuk tidak perlu berbuat sesuatu hal.",
+    "examples": [
+      {
+        "jp": "ここで 写真を 撮らないで ください。",
+        "id": "Jangan mengambil foto di sini!"
+      },
+      {
+        "jp": "わたしは 元気ですから、心配しないで ください。",
+        "id": "Karena saya sehat, jangan khawatir."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Kerja",
+      "Larangan"
+    ]
+  },
+  {
+    "id": "m_bab17_3",
+    "chapter": "Bab 17",
+    "level": "N5",
+    "title": "A なければ なりません",
+    "meaning": "Pola kalimat ini menunjukkan keharusan (Harus......).",
+    "formula_template": "{A} ければ なりません",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ければ なりません' untuk menyatakan: Pola kalimat ini menunjukkan keharusan (Harus......).. Pastikan 'A' mewakili Kata Kerja (Bentuk ない, hilangkan い).",
+    "ui_notes": "Perlu hati-hati bahwa meskipun menggunakan bentuk negatif, pola kalimat ini TIDAK berarti negatif, melainkan bermakna positif/keharusan.",
+    "examples": [
+      {
+        "jp": "薬を 飲まなければ なりません。",
+        "id": "Harus minum obat."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Kerja",
+      "Keharusan"
+    ]
+  },
+  {
+    "id": "m_bab17_4",
+    "chapter": "Bab 17",
+    "level": "N5",
+    "title": "A なくても いいです",
+    "meaning": "Pola kalimat ini menunjukkan bahwa tidak perlu melakukan sesuatu hal (Tidak perlu......).",
+    "formula_template": "{A} くても いいです",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} くても いいです' untuk menyatakan: Pola kalimat ini menunjukkan bahwa tidak perlu melakukan sesuatu hal (Tidak perlu......).. Pastikan 'A' mewakili Kata Kerja (Bentuk ない, hilangkan い).",
+    "ui_notes": "Pola kalimat ini menunjukkan bahwa tidak perlu melakukan sesuatu hal (Tidak perlu......).",
+    "examples": [
+      {
+        "jp": "あした 来なくても いいです。",
+        "id": "Besok tidak perlu datang."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Kerja",
+      "Tidak Harus"
+    ]
+  },
+  {
+    "id": "m_bab17_5",
+    "chapter": "Bab 17",
+    "level": "N5",
+    "title": "Pentopikan Objek (Objek は)",
+    "meaning": "Jika menyatakan objek langsung sebagai topik, maka partikel を dihilangkan kemudian membubuhkan partikel は, lalu diletakkan paling di depan dalam kalimat.",
+    "formula_template": "{A} は [Keterangan] {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は [Keterangan] {B}' untuk menyatakan: Jika menyatakan objek langsung sebagai topik, maka partikel を dihilangkan kemudian membubuhkan partikel は, lal. Pastikan 'A' mewakili Kata Benda (Objek), 'B' mewakili Kata Kerja.",
+    "ui_notes": "Bentuk aslinya adalah kalimat dengan partikel を (contoh: 昼ごはんを 食べます). Partikel を diganti dengan は untuk menyoroti objek tersebut sebagai topik pembicaraan.",
+    "examples": [
+      {
+        "jp": "荷物は ここに 置かないで ください。",
+        "id": "Barangnya jangan diletakkan di sini."
+      },
+      {
+        "jp": "昼ごはんは 会社の 食堂で 食べます。",
+        "id": "Makan siangnya makan di kantin perusahaan."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Partikel",
+      "Topik"
+    ]
+  },
+  {
+    "id": "m_bab17_6",
+    "chapter": "Bab 17",
+    "level": "N5",
+    "title": "A までに B",
+    "meaning": "Menunjukkan batas waktu aksi atau peristiwa harus diselesaikan.",
+    "formula_template": "{A} までに {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "time"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} までに {B}' untuk menyatakan: Menunjukkan batas waktu aksi atau peristiwa harus diselesaikan.. Pastikan 'A' mewakili Kata Benda (waktu), 'B' mewakili Kata Kerja.",
+    "ui_notes": "Perlu hati-hati untuk tidak menyamakannya dengan partikel まで. まで menunjukkan titik akhir aksi yang sedang berlangsung (contoh: 5時まで 働きます - Bekerja sampai pukul lima), sedangkan までに menunjukkan batas waktu (tenggat waktu/deadline).",
+    "examples": [
+      {
+        "jp": "会議は 5時までに 終わります。",
+        "id": "Rapat selesai sebelum pukul lima."
+      },
+      {
+        "jp": "土曜日までに 本を 返さなければ なりません。",
+        "id": "Mengembalikan buku sampai dengan hari Sabtu."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Partikel",
+      "Batas Waktu"
+    ]
+  }
+]

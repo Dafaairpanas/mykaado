@@ -1,0 +1,233 @@
+[
+  {
+    "id": "i_bab16_1",
+    "chapter": "Bab 16",
+    "level": "A2.2",
+    "title": "V-ろ／V-るな — Perintah / Larangan",
+    "meaning": "Pola perintah dan larangan dalam bentuk kasual yang digunakan dalam situasi darurat atau instruksi singkat. 'V-ろ' adalah bentuk perintah (do V!), sedangkan 'V-るな' adalah bentuk larangan (jangan V!). Sangat umum digunakan dalam pengumuman darurat atau poster peringatan. Artinya 'Lakukan V!' / 'Jangan V!'.",
+    "formula_template": "{A} / {B} な",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} / {B} な' untuk percakapan: Pola perintah dan larangan dalam bentuk kasual yang digunakan dalam situasi darurat atau instruksi singkat. 'V. Pastikan 'A' mewakili Kata Kerja Bentuk Perintah, 'B' mewakili Kata Kerja Bentuk Kamus.",
+    "ui_notes": "Bentuk perintah: Kelompok 1: 行く→行け, 急ぐ→急げ, 走る→走れ. Kelompok 2: 食べる→食べろ, 見る→見ろ. Kelompok 3: する→しろ, 来る→来い. Bentuk larangan: 行くな (Jangan pergi), 食べるな (Jangan makan). Dalam situasi formal, gunakan '〜てください' (tolong V) dan '〜ないでください' (tolong jangan V).",
+    "examples": [
+      {
+        "jp": "急げ。こっちに集まれ。",
+        "id": "Cepat! Kumpul ke sini!"
+      },
+      {
+        "jp": "走るな。",
+        "id": "Jangan lari!"
+      }
+    ],
+    "tags": [
+      "B1",
+      "Perintah",
+      "Larangan",
+      "Bencana"
+    ]
+  },
+  {
+    "id": "i_bab16_2",
+    "chapter": "Bab 16",
+    "level": "A2.2",
+    "title": "V-ないようにしてください — Mohon Jangan V",
+    "meaning": "Pola permintaan yang sopan untuk meminta seseorang tidak melakukan sesuatu. 'V-ないように' berarti 'agar tidak V', dan 'してください' berarti 'tolong lakukan'. Lebih sopan daripada 'V-ないでください'. Sangat berguna dalam instruksi keselamatan atau evakuasi. Artinya 'Mohon jangan [melakukan V]'.",
+    "formula_template": "{A} ようにしてください",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ようにしてください' untuk percakapan: Pola permintaan yang sopan untuk meminta seseorang tidak melakukan sesuatu. 'V-ないように' berarti 'agar tidak V', . Pastikan 'A' mewakili Kata Kerja Negatif.",
+    "ui_notes": "Tingkat kesopanan: V-ないで (jangan - kasual) → V-ないでください (tolong jangan - sopan) → V-ないようにしてください (mohon jangan - sangat sopan/formal). 'ように' dalam pola ini berarti 'agar', menunjukkan tujuan atau usaha untuk menghindari sesuatu.",
+    "examples": [
+      {
+        "jp": "できるだけ煙を吸わないようにしてください。",
+        "id": "Mohon sebisa mungkin jangan menghirup asap."
+      },
+      {
+        "jp": "あわてて動かないようにしてください。",
+        "id": "Mohon jangan bergerak dengan panik."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Larangan",
+      "Keselamatan",
+      "Bencana"
+    ]
+  },
+  {
+    "id": "i_bab16_3",
+    "chapter": "Bab 16",
+    "level": "A2.2",
+    "title": "V-（られ）なくなります (V-（rare）nakunarimasu) — Menjadi Tidak Bisa V",
+    "meaning": "Pola untuk menyatakan bahwa kemampuan untuk melakukan sesuatu hilang atau menjadi tidak mungkin. 'V-（られ）なく' adalah bentuk negatif dari potensial, dan 'なります' berarti 'menjadi'. Sangat berguna saat menjelaskan situasi darurat atau perubahan kondisi. Artinya 'Menjadi tidak bisa [melakukan V]'.",
+    "formula_template": "{A} なります",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} なります' untuk percakapan: Pola untuk menyatakan bahwa kemampuan untuk melakukan sesuatu hilang atau menjadi tidak mungkin. 'V-（られ）なく' ad. Pastikan 'A' mewakili Kata Kerja Potensial Negatif.",
+    "ui_notes": "Bentuk potensial negatif: 行ける→行けなくなる (menjadi tidak bisa pergi), 見られる→見られなくなる (menjadi tidak bisa melihat). 'なる' berarti 'menjadi' dan menunjukkan perubahan dari waktu ke waktu. Berbeda dengan 'V-られない' yang hanya menyatakan 'tidak bisa' secara statis.",
+    "examples": [
+      {
+        "jp": "ドアが開かなくなると、外に逃げられなくなります。",
+        "id": "Kalau pintu menjadi tidak bisa dibuka, Anda menjadi tidak bisa melarikan diri ke luar."
+      },
+      {
+        "jp": "足が痛くて、歩けなくなりました。",
+        "id": "Karena kaki sakit, saya menjadi tidak bisa berjalan."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Kemampuan",
+      "Perubahan",
+      "Bencana"
+    ]
+  },
+  {
+    "id": "i_bab16_4",
+    "chapter": "Bab 16",
+    "level": "A2.2",
+    "title": "Sても、〜 (S te mo, ~) — Meskipun S ...",
+    "meaning": "Pola untuk menyatakan bahwa meskipun suatu kondisi terjadi, hasilnya tetap seperti yang disebutkan. '〜ても' berarti 'meskipun' atau 'bahkan jika'. Sangat berguna dalam instruksi keselamatan atau pengumuman bencana. Artinya 'Meskipun [S], [akibat]'.",
+    "formula_template": "{A} も、{B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} も、{B}' untuk percakapan: Pola untuk menyatakan bahwa meskipun suatu kondisi terjadi, hasilnya tetap seperti yang disebutkan. '〜ても' bera. Pastikan 'A' mewakili Klausa (Bentuk te), 'B' mewakili Akibat.",
+    "ui_notes": "Untuk kata sifat: 高くても (meskipun mahal), 安くても (meskipun murah). Untuk kata benda: 学生でも (meskipun pelajar), 子供でも (meskipun anak kecil). '〜ても' sering digunakan dengan kata tanya: 何をしても (apa pun yang dilakukan), どこに行っても (ke mana pun pergi).",
+    "examples": [
+      {
+        "jp": "大きな地震が来ても、あわてて動かないでください。",
+        "id": "Meskipun gempa besar datang, tolong jangan bergerak panik."
+      },
+      {
+        "jp": "雨が降っても、行きます。",
+        "id": "Meskipun hujan, saya akan pergi."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Konsesi",
+      "Bencana",
+      "Instruksi"
+    ]
+  },
+  {
+    "id": "i_bab16_5",
+    "chapter": "Bab 16",
+    "level": "A2.2",
+    "title": "Sかどうか、〜 (S ka dou ka, ~) — Apakah S atau Tidak ...",
+    "meaning": "Pola untuk menyatakan pertanyaan tidak langsung tentang apakah suatu kondisi benar atau tidak. 'かどうか' berarti 'apakah atau tidak'. Sangat berguna saat menyatakan ketidakpastian tentang informasi atau situasi. Artinya 'Apakah [S] atau tidak, ...'.",
+    "formula_template": "{A} かどうか、{B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} かどうか、{B}' untuk percakapan: Pola untuk menyatakan pertanyaan tidak langsung tentang apakah suatu kondisi benar atau tidak. 'かどうか' berarti . Pastikan 'A' mewakili Klausa (Bentuk Biasa), 'B' mewakili Klausa.",
+    "ui_notes": "'かどうか' hanya digunakan untuk pertanyaan ya/tidak (bukan kata tanya). Untuk pertanyaan dengan kata tanya, gunakan '[kata tanya] + か'. Contoh: 何時に来るかわかりますか？ (Apakah Anda tahu jam berapa datang?). Klausa sebelum 'かどうか' harus dalam bentuk biasa.",
+    "examples": [
+      {
+        "jp": "店が開いているかどうか、わからないけど…。",
+        "id": "Saya tidak tahu apakah tokonya buka atau tidak, tapi..."
+      },
+      {
+        "jp": "行くかどうか、まだ決めていません。",
+        "id": "Saya belum memutuskan apakah akan pergi atau tidak."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Ketidakpastian",
+      "Pertanyaan",
+      "Informasi"
+    ]
+  }
+]

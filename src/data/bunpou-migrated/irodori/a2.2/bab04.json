@@ -1,0 +1,258 @@
+[
+  {
+    "id": "i_bab04_1",
+    "chapter": "Bab 04",
+    "level": "A2.2",
+    "title": "Nなら、〜 (N nara, ~) — Kalau N, ...",
+    "meaning": "Pola untuk menyatakan kondisi atau topik tertentu, sering digunakan saat memberikan rekomendasi. 'なら' berarti 'kalau' atau 'mengenai' dan menunjukkan bahwa pembicaraan terfokus pada topik yang disebutkan. Sangat berguna saat merekomendasikan restoran atau tempat. Artinya 'Kalau [N], ...' atau 'Mengenai [N], ...'.",
+    "formula_template": "{A} なら、{B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} なら、{B}' untuk percakapan: Pola untuk menyatakan kondisi atau topik tertentu, sering digunakan saat memberikan rekomendasi. 'なら' berarti . Pastikan 'A' mewakili Topik, 'B' mewakili Rekomendasi/Saran.",
+    "ui_notes": "Perbedaan dengan 'と' dan 'ば': 'なら' digunakan ketika topik sudah disebutkan atau diketahui. 'なら' sering digunakan dalam percakapan untuk merespon pertanyaan: A: いいレストランはありますか？ (Ada restoran bagus?) B: イタリアンなら、あそこがいいですよ (Kalau masakan Italia, di sana bagus).",
+    "examples": [
+      {
+        "jp": "この近くなら、「平兵衛」がおすすめです。",
+        "id": "Kalau di dekat sini, 'Heibee' yang saya rekomendasikan."
+      },
+      {
+        "jp": "ラーメンなら、あの店が一番おいしいです。",
+        "id": "Kalau ramen, toko itu yang paling enak."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Rekomendasi",
+      "Kondisi",
+      "Restoran"
+    ]
+  },
+  {
+    "id": "i_bab04_2",
+    "chapter": "Bab 04",
+    "level": "A2.2",
+    "title": "V-て、〜／V-ないで、〜 — Lakukan dengan ... / Tanpa ...",
+    "meaning": "Pola untuk memberikan instruksi tentang cara melakukan sesuatu, terutama cara makan. 'V-て' menunjukkan cara melakukan suatu tindakan, sedangkan 'V-ないで' menunjukkan cara tanpa melakukan sesuatu. Sangat berguna saat menjelaskan cara menyantap masakan. Artinya 'Lakukan [V1], lalu [V2]' / 'Tanpa [V1], [V2]'.",
+    "formula_template": "{A} {B} / {C} {D}",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "D": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} {B} / {C} {D}' untuk percakapan: Pola untuk memberikan instruksi tentang cara melakukan sesuatu, terutama cara makan. 'V-て' menunjukkan cara me. Pastikan 'A' mewakili Kata Kerja Bentuk te, 'B' mewakili Tindakan, 'C' mewakili Kata Kerja Negatif + で, 'D' mewakili Tindakan.",
+    "ui_notes": "'V-ないで' adalah bentuk negatif dari 'V-て' yang berarti 'tanpa melakukan V'. Contoh: 砂糖を入れないでコーヒーを飲みます (Minum kopi tanpa gula). 'V-て' juga bisa berarti 'dengan cara' atau 'setelah melakukan'. Dalam instruksi makan, '〜てください' sering digunakan untuk meminta melakukan sesuatu.",
+    "examples": [
+      {
+        "jp": "こちらの野菜の天ぷらは、つゆにつけて食べてください。",
+        "id": "Tempura sayur yang ini, tolong makan dengan dicelupkan ke kuah."
+      },
+      {
+        "jp": "エビはつゆにつけないで、塩をかけて食べてください。",
+        "id": "Udang, tolong makan tanpa dicelupkan ke kuah, tapi diberi garam."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Instruksi",
+      "Cara Makan",
+      "Restoran"
+    ]
+  },
+  {
+    "id": "i_bab04_3",
+    "chapter": "Bab 04",
+    "level": "A2.2",
+    "title": "V-ちゃだめです — Tidak Boleh V",
+    "meaning": "Pola untuk menyatakan larangan atau hal yang tidak boleh dilakukan. 'ちゃ' adalah bentuk kasual dari 'ては', dan 'だめです' berarti 'tidak boleh' atau 'tidak baik'. Digunakan untuk memberikan peringatan tentang cara memasak atau makan yang salah. Artinya 'Tidak boleh [melakukan V]'.",
+    "formula_template": "{A} ちゃだめです",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ちゃだめです' untuk percakapan: Pola untuk menyatakan larangan atau hal yang tidak boleh dilakukan. 'ちゃ' adalah bentuk kasual dari 'ては', dan '. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
+    "ui_notes": "Bentuk lebih sopan: V-てはいけません. 'ちゃ' adalah kependekan dari 'ては' dalam percakapan sehari-hari. Contoh: ここで食べてはいけません (Tidak boleh makan di sini) → ここで食べちゃだめ (kasual). Gunakan 'ちゃだめ' untuk peringatan ringan, dan 'てはいけません' untuk aturan resmi.",
+    "examples": [
+      {
+        "jp": "一度にそんなにたくさんお肉を入れちゃだめですよ。",
+        "id": "Tidak boleh memasukkan daging sebanyak itu sekaligus lho."
+      },
+      {
+        "jp": "熱いから、触っちゃだめですよ。",
+        "id": "Karena panas, tidak boleh disentuh lho."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Larangan",
+      "Peringatan",
+      "Memasak"
+    ]
+  },
+  {
+    "id": "i_bab04_4",
+    "chapter": "Bab 04",
+    "level": "A2.2",
+    "title": "V-てから、〜 (V-te kara, ~) — Setelah V, ...",
+    "meaning": "Pola untuk menyatakan urutan waktu: melakukan tindakan pertama, lalu melakukan tindakan kedua setelahnya. 'V-てから' berarti 'setelah melakukan V'. Sangat berguna saat memberikan instruksi memasak atau urutan makan. Artinya 'Setelah [V1], [V2]'.",
+    "formula_template": "{A} から、{B}",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} から、{B}' untuk percakapan: Pola untuk menyatakan urutan waktu: melakukan tindakan pertama, lalu melakukan tindakan kedua setelahnya. 'V-て. Pastikan 'A' mewakili Kata Kerja 1 Bentuk te, 'B' mewakili Kata Kerja 2.",
+    "ui_notes": "Berbeda dengan 'V-て' (lalu) yang hanya menyatakan urutan, 'V-てから' menekankan bahwa tindakan pertama harus selesai sepenuhnya sebelum tindakan kedua dimulai. Contoh: 日本に来てから、日本語を勉強しました (Setelah datang ke Jepang, saya belajar bahasa Jepang).",
+    "examples": [
+      {
+        "jp": "うどんは、お肉と野菜を食べてから、入れましょう。",
+        "id": "Untuk udon, setelah makan daging dan sayuran, masukkan (udon) ya."
+      },
+      {
+        "jp": "手を洗ってから、食べてください。",
+        "id": "Setelah cuci tangan, tolong makan."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Urutan",
+      "Setelah",
+      "Instruksi"
+    ]
+  },
+  {
+    "id": "i_bab04_5",
+    "chapter": "Bab 04",
+    "level": "A2.2",
+    "title": "S1が、S2 (S1 ga, S2) — S1, Tetapi S2",
+    "meaning": "Pola untuk menyatakan kontras atau pertentangan antara dua klausa. 'が' berarti 'tetapi' atau 'meskipun'. Berbeda dengan 'けど' yang lebih kasual, 'が' lebih formal dan sering digunakan dalam tulisan atau situasi formal. Sangat berguna dalam ulasan restoran. Artinya '[S1], tetapi [S2]'.",
+    "formula_template": "{A} が、{B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} が、{B}' untuk percakapan: Pola untuk menyatakan kontras atau pertentangan antara dua klausa. 'が' berarti 'tetapi' atau 'meskipun'. Berbe. Pastikan 'A' mewakili Klausa 1, 'B' mewakili Klausa 2.",
+    "ui_notes": "Perbedaan: 'が' (tetapi - formal) vs 'けど' (tetapi - kasual) vs 'けれども' (tetapi - sangat formal). 'が' juga bisa digunakan sebagai partikel penanda subjek dalam fungsi lain. Dalam ulasan, 'が' sangat umum digunakan untuk memberikan kelebihan dan kekurangan. Contoh: サービスはいいですが、値段が高いです (Pelayanannya bagus, tetapi harganya mahal).",
+    "examples": [
+      {
+        "jp": "お店は新しくてきれいですが、お昼は混んでいます。",
+        "id": "Restorannya baru dan bersih, tetapi siang hari ramai."
+      },
+      {
+        "jp": "この料理はおいしいですが、ちょっと高いです。",
+        "id": "Masakan ini enak, tetapi agak mahal."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Kontras",
+      "Ulasan",
+      "Penghubung"
+    ]
+  }
+]

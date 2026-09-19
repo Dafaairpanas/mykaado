@@ -1,0 +1,162 @@
+[
+  {
+    "id": "n3_bab26_1",
+    "chapter": "Bab 26",
+    "level": "N3",
+    "title": "〜上（あ）げる",
+    "meaning": "Menyatakan hal yang dilakukan telah selesai.",
+    "formula_template": "{A}ます (ます dicoret) 上（あ）がる / 上（あ）げる (例: 作り上げる／調べ上げる／育て上げる).",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}ます (ます dicoret) 上（あ）がる / 上（あ）げる (例: 作り上げる／調べ上げる／育て上げる).' untuk mengekspresikan: Menyatakan hal yang dilakukan telah selesai..",
+    "ui_notes": "Menyatakan hal yang dilakukan telah selesai.",
+    "examples": [
+      {
+        "jp": "やっとレポートを書き上げた。",
+        "id": "Akhirnya saya selesai menulis laporan."
+      },
+      {
+        "jp": "ケーキが焼き上がりましたよ。",
+        "id": "Kuenya sudah selesai dipanggang lho."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab26_2",
+    "chapter": "Bab 26",
+    "level": "N3",
+    "title": "〜切（き）る",
+    "meaning": "Menyatakan semua sudah... (sampai selesai, habis).",
+    "formula_template": "{A}ます 切（き）る / 切（き）れる / 切（き）れない (例: 飲み切る／走り切る／泳ぎ切る／売り切れる).",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}ます 切（き）る / 切（き）れる / 切（き）れない (例: 飲み切る／走り切る／泳ぎ切る／売り切れる).' untuk mengekspresikan: Menyatakan semua sudah... (sampai selesai, habis)..",
+    "ui_notes": "Menyatakan semua sudah... (sampai selesai, habis).",
+    "examples": [
+      {
+        "jp": "ご飯の量が多くて、食べ切れないよ。",
+        "id": "Porsi nasinya banyak sekali, saya tidak sanggup menghabiskannya."
+      },
+      {
+        "jp": "長い小説を、2日間で読み切った。",
+        "id": "Saya selesai membaca novel panjang itu dalam 2 hari."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab26_3",
+    "chapter": "Bab 26",
+    "level": "N3",
+    "title": "〜かけ",
+    "meaning": "(1) Masih belum selesai (di tengah-tengah), (2) hampir mau...",
+    "formula_template": "{A}ます かける / かけの {B}/ かけだ (例: 食べかける／帰りかける／落ちかける／失敗しかける).",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}ます かける / かけの {B}/ かけだ (例: 食べかける／帰りかける／落ちかける／失敗しかける).' untuk mengekspresikan: (1) Masih belum selesai (di tengah-tengah), (2) hampir mau....",
+    "ui_notes": "(1) Masih belum selesai (di tengah-tengah), (2) hampir mau...",
+    "examples": [
+      {
+        "jp": "この本はまだ読みかけだ。",
+        "id": "Buku ini masih setengah dibaca (belum selesai dibaca)."
+      },
+      {
+        "jp": "息子はやりかけの宿題をおいて、遊びに出かけてしまった。",
+        "id": "Anak laki-laki saya meninggalkan PR yang belum selesai lalu pergi bermain."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab26_4",
+    "chapter": "Bab 26",
+    "level": "N3",
+    "title": "〜たて",
+    "meaning": "Bernuansa positif (masih fresh, segar, hangat dll).",
+    "formula_template": "{A}ます たての {B}/ たてだ. ✓ 炊きたてのご飯／ペンキ塗りたて／入社したて／習いたて. ✗ 読みたて／寝たて／食べたて.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}ます たての {B}/ たてだ. ✓ 炊きたてのご飯／ペンキ塗りたて／入社したて／習いたて. ✗ 読みたて／寝たて／食べたて.' untuk mengekspresikan: Bernuansa positif (masih fresh, segar, hangat dll)..",
+    "ui_notes": "Bernuansa positif (masih fresh, segar, hangat dll).",
+    "examples": [
+      {
+        "jp": "焼きたてのパンはおいしい。",
+        "id": "Roti yang baru matang itu lezat."
+      },
+      {
+        "jp": "あのスーパーは、とりたての野菜を売っている。",
+        "id": "Supermarket itu menjual sayuran yang baru dipetik."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

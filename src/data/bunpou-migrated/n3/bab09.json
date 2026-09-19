@@ -1,0 +1,214 @@
+[
+  {
+    "id": "n3_bab09_1",
+    "chapter": "Bab 09",
+    "level": "N3",
+    "title": "KATA SIFAT -> KATA BENDA",
+    "meaning": "merubah bentuk kata sifat menjadi kata benda; ✓ banyak digunakan untuk mengungkapkan perasaan, karakter & tingkatan",
+    "formula_template": "{A} (coret い) → さ / {B} (coret な) → さ (※ いい → よさ) | 例: うれしさ、あつさ、あまさ、まじめさ",
+    "variables": {
+      "A": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} (coret い) → さ / {B} (coret な) → さ (※ いい → よさ) | 例: うれしさ、あつさ、あまさ、まじめさ' untuk mengekspresikan: merubah bentuk kata sifat menjadi kata benda; ✓ banyak digunakan untuk mengungkapkan perasaan, karakter & ting.",
+    "ui_notes": "merubah bentuk kata sifat menjadi kata benda; ✓ banyak digunakan untuk mengungkapkan perasaan, karakter & tingkatan",
+    "examples": [
+      {
+        "jp": "大きさは違うが、君と同じかばんを持っているよ。",
+        "id": "besarnya beda, tapi saya punya tas yang sama dengan punya kamu"
+      },
+      {
+        "jp": "子どもに命の大切さを教えなければならない。",
+        "id": "(kita) harus mengajarkan kepada anak tentang pentingnya sebuah jiwa/nyawa"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab09_2",
+    "chapter": "Bab 09",
+    "level": "N3",
+    "title": "KATA SIFAT -> KATA BENDA",
+    "meaning": "merubah bentuk kata sifat menjadi kata benda; ✓ banyak digunakan untuk mengungkapkan sebuah keadaan, karakter",
+    "formula_template": "{A} (coret い) → み / {B} (coret な) → み | 例: かなしみ、いたみ、よわみ、しんけんみ | ✗ Tidak bisa: おおきみ、あつみ、うれしみ、まじめみ",
+    "variables": {
+      "A": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} (coret い) → み / {B} (coret な) → み | 例: かなしみ、いたみ、よわみ、しんけんみ | ✗ Tidak bisa: おおきみ、あつみ、うれしみ、まじめみ' untuk mengekspresikan: merubah bentuk kata sifat menjadi kata benda; ✓ banyak digunakan untuk mengungkapkan sebuah keadaan, karakter.",
+    "ui_notes": "merubah bentuk kata sifat menjadi kata benda; ✓ banyak digunakan untuk mengungkapkan sebuah keadaan, karakter",
+    "examples": [
+      {
+        "jp": "戦争が終わわった今でも、この国の苦しみはまだ続いている。",
+        "id": "penderitaan negara ini masih berkelanjutan meskipun saat ini perang sudah selesai"
+      },
+      {
+        "jp": "田中さんの強みは、2ヵ国語が話せるということです。",
+        "id": "kekuatan tanaka-san adalah mampu berbicara 2 bahasa"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab09_3",
+    "chapter": "Bab 09",
+    "level": "N3",
+    "title": "〜こと",
+    "meaning": "dapat berfungsi sebagai pembentuk kata benda",
+    "formula_template": "[{A}(biasa) / {B} (biasa) / {C} な / {D}の / {V4}である] こと",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "V4": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} な / {D}の / {V4}である] こと' untuk mengekspresikan: dapat berfungsi sebagai pembentuk kata benda.",
+    "ui_notes": "dapat berfungsi sebagai pembentuk kata benda",
+    "examples": [
+      {
+        "jp": "来週のテストのことで、質問があります。",
+        "id": "saya ada pertanyaan perihal ujian minggu depan"
+      },
+      {
+        "jp": "田中さんが入院したことを知っていますか。",
+        "id": "apakah kamu tahu tanaka-san masuk rumah sakit?"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab09_4",
+    "chapter": "Bab 09",
+    "level": "N3",
+    "title": "〜の",
+    "meaning": "berfungsi sebagai pembentuk kata benda sama seperti 〜こと; ✓ 〜の lebih kasual, 〜こと formal; ✓ ketika 〜こと merupakan bagian dari pola kalimat, maka tidak bisa diganti",
+    "formula_template": "[{A}(biasa) / {B} (biasa) / {C} な / {D}な] の",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} な / {D}な] の' untuk mengekspresikan: berfungsi sebagai pembentuk kata benda sama seperti 〜こと; ✓ 〜の lebih kasual, 〜こと formal; ✓ ketika 〜こと merupakan.",
+    "ui_notes": "berfungsi sebagai pembentuk kata benda sama seperti 〜こと; ✓ 〜の lebih kasual, 〜こと formal; ✓ ketika 〜こと merupakan bagian dari pola kalimat, maka tidak bisa digantikan 〜の",
+    "examples": [
+      {
+        "jp": "田中さんに電話するのをすっかり忘れていました。",
+        "id": "saya benar-benar lupa menelpon tanaka-san"
+      },
+      {
+        "jp": "日曜日に混んだところへ行くのは、あまり好きではありません。",
+        "id": "hari minggu pergi ke tempat yang ramai itu saya tidak begitu suka"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

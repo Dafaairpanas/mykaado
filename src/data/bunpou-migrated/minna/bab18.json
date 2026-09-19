@@ -1,0 +1,204 @@
+[
+  {
+    "id": "m_bab18_1",
+    "chapter": "Bab 18",
+    "level": "N5",
+    "title": "A/ BBentuk Kamus こと が できます",
+    "meaning": "できます adalah Kata Kerja yang menunjukkan hal yang dapat dilakukan atas kemampuan yang dimiliki orang itu, atau aksi yang memungkinkan dengan kondisi itu (Dapat/Bisa...).",
+    "formula_template": "{A}/ {B} こと が できます",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}/ {B} こと が できます' untuk menyatakan: できます adalah Kata Kerja yang menunjukkan hal yang dapat dilakukan atas kemampuan yang dimiliki orang itu, atau . Pastikan 'A' mewakili Kata Benda, 'B' mewakili Kata Kerja (Bentuk Kamus).",
+    "ui_notes": "Objek untuk できます ditunjuk dengan が. Untuk Kata Benda, dipakai yang bersifat aksi (seperti mengemudi, belanja, ski, dansa) atau yang menunjukkan keterampilan (seperti bahasa, piano).",
+    "examples": [
+      {
+        "jp": "ミラーさんは 日本語が できます。",
+        "id": "Sdr. Miller bisa berbahasa Jepang."
+      },
+      {
+        "jp": "雪が たくさん 降りましたから、ことしは スキーが できます。",
+        "id": "Karena salju turun banyak, tahun ini dapat bermain ski."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Kerja",
+      "Kemampuan/Kemungkinan"
+    ]
+  },
+  {
+    "id": "m_bab18_2",
+    "chapter": "Bab 18",
+    "level": "N5",
+    "title": "わたしの 趣味は A/ BBentuk Kamus こと です",
+    "meaning": "Pola kalimat ini digunakan untuk menyatakan hobi. Jika memakai Kata Kerja Bentuk Kamus + こと, maka dapat menunjukkan isi hobi secara lebih konkret dibandingkan sekadar menggunakan Kata Benda.",
+    "formula_template": "わたしの 趣味は {A}/ {B} こと です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'わたしの 趣味は {A}/ {B} こと です' untuk menyatakan: Pola kalimat ini digunakan untuk menyatakan hobi. Jika memakai Kata Kerja Bentuk Kamus + こと, maka dapat menunj. Pastikan 'A' mewakili Kata Benda, 'B' mewakili Kata Kerja (Bentuk Kamus).",
+    "ui_notes": "Pola kalimat ini digunakan untuk menyatakan hobi. Jika memakai Kata Kerja Bentuk Kamus + こと, maka dapat menunjukkan isi hobi secara lebih konkret dibandingkan sekadar menggunakan Kata Benda.",
+    "examples": [
+      {
+        "jp": "わたしの 趣味は 音楽です。",
+        "id": "Hobi saya adalah musik."
+      },
+      {
+        "jp": "わたしの 趣味は 音楽を 聞く ことです。",
+        "id": "Hobi saya adalah mendengarkan musik."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Pola Kalimat",
+      "Hobi"
+    ]
+  },
+  {
+    "id": "m_bab18_3",
+    "chapter": "Bab 18",
+    "level": "N5",
+    "title": "A Bentuk Kamus / Bの / Kata Keterangan Bilangan (jangka C) まえに、D",
+    "meaning": "Menyatakan bahwa sebelum terjadi Kata Kerja1 (atau acara/waktu tertentu), terjadi aksi pada Kata Kerja2 (Sebelum..., melakukan...).",
+    "formula_template": "{A} / {B} の / Keterangan {C} まえに、~",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "time"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} / {B} の / Keterangan {C} まえに、~' untuk menyatakan: Menyatakan bahwa sebelum terjadi Kata Kerja1 (atau acara/waktu tertentu), terjadi aksi pada Kata Kerja2 (Sebel. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus), 'B' mewakili Kata Benda, 'C' mewakili Waktu.",
+    "ui_notes": "Kata Kerja di depan まえに selalu berbentuk Bentuk Kamus, terlepas dari waktu lampau atau bukan lampau pada kalimat induk (Kata Kerja2). Kata Benda di depan の biasanya bersifat aksi. Kata keterangan bilangan tidak perlu memakai の.",
+    "examples": [
+      {
+        "jp": "日本へ 来る まえに、日本語を 勉強 しました。",
+        "id": "Sebelum datang di Jepang, belajar bahasa Jepang."
+      },
+      {
+        "jp": "寝る まえに、本を 読みます。",
+        "id": "Sebelum tidur, membaca buku."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Keterangan",
+      "Urutan Waktu"
+    ]
+  },
+  {
+    "id": "m_bab18_4",
+    "chapter": "Bab 18",
+    "level": "N5",
+    "title": "なかなか",
+    "meaning": "Kata keterangan ini menyertai ekspresi negatif di belakangnya, dan menunjukkan arti yang tidak mudah untuk melakukan atau tidak dapat melakukan sebagaimana apa yang diharapkan.",
+    "formula_template": "なかなか {A}",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'なかなか {A}' untuk menyatakan: Kata keterangan ini menyertai ekspresi negatif di belakangnya, dan menunjukkan arti yang tidak mudah untuk mel. Pastikan 'A' mewakili Kata Kerja (Bentuk Negatif).",
+    "ui_notes": "Kata keterangan ini menyertai ekspresi negatif di belakangnya, dan menunjukkan arti yang tidak mudah untuk melakukan atau tidak dapat melakukan sebagaimana apa yang diharapkan.",
+    "examples": [
+      {
+        "jp": "日本では なかなか 馬を 見る ことが できません。",
+        "id": "Di Jepang tidak mudah untuk melihat kuda."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Keterangan",
+      "Tingkat Kesulitan"
+    ]
+  },
+  {
+    "id": "m_bab18_5",
+    "chapter": "Bab 18",
+    "level": "N5",
+    "title": "ぜひ",
+    "meaning": "Dipakai bersama dengan ekspresi yang menunjukkan harapan si pembicara, dan berfungsi untuk menekankannya (seperti \"Ingin sekali...\" atau \"Sungguh diharapkan...\").",
+    "formula_template": "ぜひ Ekspresi Harapan (~たいです / ~て ください)",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'ぜひ Ekspresi Harapan (~たいです / ~て ください)' untuk menyatakan: Dipakai bersama dengan ekspresi yang menunjukkan harapan si pembicara, dan berfungsi untuk menekankannya (sepe.",
+    "ui_notes": "Dipakai bersama dengan ekspresi yang menunjukkan harapan si pembicara, dan berfungsi untuk menekankannya (seperti \"Ingin sekali...\" atau \"Sungguh diharapkan...\").",
+    "examples": [
+      {
+        "jp": "ぜひ 北海道へ 行きたいです。",
+        "id": "Ingin sekali pergi ke Hokkaido."
+      },
+      {
+        "jp": "ぜひ 遊びに 来て ください。",
+        "id": "Sungguh diharapkan untuk datang bermain."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Keterangan",
+      "Penekanan"
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "n3_bab02_1",
+    "chapter": "Bab 02",
+    "level": "N3",
+    "title": "〜ないと",
+    "meaning": "bentuk pendek dari 〜ないといけない atau 〜なければならない",
+    "formula_template": "{A}ないと | 〜なくちゃ | 〜なきゃ",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}ないと | 〜なくちゃ | 〜なきゃ' untuk mengekspresikan: bentuk pendek dari 〜ないといけない atau 〜なければならない.",
+    "ui_notes": "bentuk pendek dari 〜ないといけない atau 〜なければならない",
+    "examples": [
+      {
+        "jp": "明日は早く出かけるから、もう寝ないと。",
+        "id": "karena besok berangkat cepat, (jam segini) sudah harus tidur"
+      },
+      {
+        "jp": "試験まであと1ヵ月だ。がんばって勉強しないと。",
+        "id": "ujian kurang satu bulan lagi... harus semangat belajar"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Bentuk Kasual"
+    ]
+  },
+  {
+    "id": "n3_bab02_2",
+    "chapter": "Bab 02",
+    "level": "N3",
+    "title": "〜ちゃった",
+    "meaning": "sering digunakan dalam bahasa lisan; ✓ menjelaskan sesuatu yang dilakukan sampai selesai, habis; ✓ dalam konteks tertentu ada perasaan kecewa, menyesal, tidak s",
+    "formula_template": "{A}てしまう → ちゃう | {B}でしまう → じゃう",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}てしまう → ちゃう | {B}でしまう → じゃう' untuk mengekspresikan: sering digunakan dalam bahasa lisan; ✓ menjelaskan sesuatu yang dilakukan sampai selesai, habis; ✓ dalam konte.",
+    "ui_notes": "sering digunakan dalam bahasa lisan; ✓ menjelaskan sesuatu yang dilakukan sampai selesai, habis; ✓ dalam konteks tertentu ada perasaan kecewa, menyesal, tidak sengaja (~ちゃった)",
+    "examples": [
+      {
+        "jp": "A:「ここにあったチョコレートは？」 B:「あ、食べちゃった。」",
+        "id": "eh, coklat yang ada disini mana? / yah, udah aku makan"
+      },
+      {
+        "jp": "試験が終わった！今日は飲んじゃおう！",
+        "id": "ujiannya telah selesai! hari ini ayo kita minum-minum"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Bentuk Kasual"
+    ]
+  },
+  {
+    "id": "n3_bab02_3",
+    "chapter": "Bab 02",
+    "level": "N3",
+    "title": "〜とく",
+    "meaning": "sering digunakan dalam bahasa lisan; ✓ melakukan sesuatu perbuatan sebagai sebuah persiapan; ✓ bisa juga untuk mempertahankan suatu kondisi atau keadaan",
+    "formula_template": "{A}ておく → とく | {B}でおく → どく",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}ておく → とく | {B}でおく → どく' untuk mengekspresikan: sering digunakan dalam bahasa lisan; ✓ melakukan sesuatu perbuatan sebagai sebuah persiapan; ✓ bisa juga untuk.",
+    "ui_notes": "sering digunakan dalam bahasa lisan; ✓ melakukan sesuatu perbuatan sebagai sebuah persiapan; ✓ bisa juga untuk mempertahankan suatu kondisi atau keadaan",
+    "examples": [
+      {
+        "jp": "テストで間違ったところを、ノートに書いとこう。",
+        "id": "bagian yang salah di ujian, ayo tulis di buku catatan terlebih dahulu"
+      },
+      {
+        "jp": "これ洗濯しといて。",
+        "id": "ini tolong dicuci dulu ya"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Bentuk Kasual"
+    ]
+  }
+]

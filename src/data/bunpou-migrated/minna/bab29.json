@@ -1,0 +1,212 @@
+[
+  {
+    "id": "m_bab29_1",
+    "chapter": "Bab 29",
+    "level": "N4",
+    "title": "A形 います",
+    "meaning": "Digunakan untuk menyatakan hal yang berlangsung atas akibat dari aksi (keadaan/hasil dari suatu perbuatan yang masih berlanjut). Kata kerja yang digunakan adalah kata kerja yang mengalami perubahan sebelum dan sesudah aksi tersebut (intransitif) seperti あきます, しまります, つきます, きえます, こわれます, われます.",
+    "formula_template": "{A} います",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} います' untuk menyatakan: Digunakan untuk menyatakan hal yang berlangsung atas akibat dari aksi (keadaan/hasil dari suatu perbuatan yang. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Jika menggambarkan keadaan di depan mata secara langsung, subjek dinyatakan dengan partikel が. Jika subjek dianggap sebagai topik (sudah diketahui/dibicarakan), digunakan partikel は.",
+    "examples": [
+      {
+        "jp": "窓が割れています。",
+        "id": "Kaca jendela pecah."
+      },
+      {
+        "jp": "電気がついています。",
+        "id": "Listrik menyala."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Keadaan Berlanjut"
+    ]
+  },
+  {
+    "id": "m_bab29_2",
+    "chapter": "Bab 29",
+    "level": "N4",
+    "title": "A形 しまいました／しまいます",
+    "meaning": "～てしまいました menyatakan bahwa aksi telah selesai (secara total). ～てしまいます menyatakan bahwa aksi akan selesai pada suatu titik di masa depan. Selain itu, pola ini adakalanya digunakan untuk menyatakan perasaan penyesalan, kesulitan, atau kekecewaan si pembicara.",
+    "formula_template": "{A} しまいました / しまいます",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} しまいました / しまいます' untuk menyatakan: ～てしまいました menyatakan bahwa aksi telah selesai (secara total). ～てしまいます menyatakan bahwa aksi akan selesai pada s. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Penggunaan yang mengandung unsur 'penyesalan' biasanya digunakan pada situasi yang merugikan atau tidak terduga, seperti kehilangan barang atau barang rusak.",
+    "examples": [
+      {
+        "jp": "シュミットさんが持って来たワインはみんなで飲んでしまいました。",
+        "id": "Anggur yang dibawa oleh sdr. Schmidt telah diminum oleh semuanya."
+      },
+      {
+        "jp": "漢字の宿題はもうやってしまいました。",
+        "id": "PR mengenai huruf Kanji telah saya selesaikan."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Selesai/Penyesalan"
+    ]
+  },
+  {
+    "id": "m_bab29_3",
+    "chapter": "Bab 29",
+    "level": "N4",
+    "title": "A（場所）に 行きます／来ます／帰ります",
+    "meaning": "Untuk menggantikan Kata Bantu へ yang menunjuk arah, digunakan Kata Bantu に untuk menyatakan titik sampainya. Kata kerja seperti いきます, きます, dan かえります dapat menggunakan partikel へ atau partikel に untuk tempat tujuan.",
+    "formula_template": "{A} に 行きます / 来ます / 帰ります",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に 行きます / 来ます / 帰ります' untuk menyatakan: Untuk menggantikan Kata Bantu へ yang menunjuk arah, digunakan Kata Bantu に untuk menyatakan titik sampainya. K. Pastikan 'A' mewakili Kata Benda (Tempat).",
+    "ui_notes": "Untuk menggantikan Kata Bantu へ yang menunjuk arah, digunakan Kata Bantu に untuk menyatakan titik sampainya. Kata kerja seperti いきます, きます, dan かえります dapat menggunakan partikel へ atau partikel に untuk tempat tujuan.",
+    "examples": [
+      {
+        "jp": "どこかで財布を落としてしまったんです。……それは大変ですね。すぐ交番に行かないと。",
+        "id": "Dompet (Saya) terjatuh di suatu tempat. ......Susah, ya. Harus pergi ke pos polisi dengan segera."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Partikel",
+      "Titik Sampai/Tujuan"
+    ]
+  },
+  {
+    "id": "m_bab29_4",
+    "chapter": "Bab 29",
+    "level": "N4",
+    "title": "それ／その／そう",
+    "meaning": "Kata petunjuk (Kelompok そ) yang digunakan untuk menunjuk isi yang dijelaskan oleh lawan bicara tepat sebelumnya dalam percakapan, atau menunjukkan isi dari kalimat yang terdapat pada kalimat sebelumnya dalam suatu cerita.",
+    "formula_template": "それ / その ({A}) / そう ({B})",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'それ / その ({A}) / そう ({B})' untuk menyatakan: Kata petunjuk (Kelompok そ) yang digunakan untuk menunjuk isi yang dijelaskan oleh lawan bicara tepat sebelumny. Pastikan 'A' mewakili Kata Benda, 'B' mewakili Kata Kerja.",
+    "ui_notes": "Penggunaan そ merujuk pada hal yang sudah sama-sama diketahui konteksnya melalui kalimat yang baru saja diucapkan.",
+    "examples": [
+      {
+        "jp": "来月から大阪の本社に転勤なんです。……それはおめでとうございます。",
+        "id": "Mulai bulan depan, (saya) pindah ke kantor pusat di Osaka. ......Oh, saya mengucapkan selamat!"
+      },
+      {
+        "jp": "あのう、途中でやめたい場合は？……その場合は、近くの係員に名前を言って、帰ってください。",
+        "id": "Anu..., kalau mau berhenti setengah jalan? ......Untuk masalah itu, beritahukan nama (Anda) kepada staf terdekat, lalu silakan pulang."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Petunjuk",
+      "Referensi Konteks"
+    ]
+  },
+  {
+    "id": "m_bab29_5",
+    "chapter": "Bab 29",
+    "level": "N4",
+    "title": "ありました",
+    "meaning": "Kata ありました di sini bukan bermaksud bahwa 'pernah ada tas di situ' di masa lalu, melainkan menyatakan bahwa pembicara (atau lawan bicara) baru saja 'menemukan keberadaan' benda yang sedang dicari. (Akhirnya ketemu / Ada).",
+    "formula_template": "[Benda が] ありました",
+    "variables": {},
+    "ai_instruction": "Gunakan pola '[Benda が] ありました' untuk menyatakan: Kata ありました di sini bukan bermaksud bahwa 'pernah ada tas di situ' di masa lalu, melainkan menyatakan bahwa pem.",
+    "ui_notes": "Kata ありました di sini bukan bermaksud bahwa 'pernah ada tas di situ' di masa lalu, melainkan menyatakan bahwa pembicara (atau lawan bicara) baru saja 'menemukan keberadaan' benda yang sedang dicari. (Akhirnya ketemu / Ada).",
+    "examples": [
+      {
+        "jp": "［かばんが］ありましたよ。",
+        "id": "[Tasnya] Ada."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Penemuan Benda"
+    ]
+  },
+  {
+    "id": "m_bab29_6",
+    "chapter": "Bab 29",
+    "level": "N4",
+    "title": "どこかで／どこかに",
+    "meaning": "Kata bantu へ dan を di belakang どこか (suatu tempat) dan なにか (sesuatu) dapat dihilangkan, sedangkan Kata Bantu で dan に di belakang どこかで dan どこかに tidak dapat dihilangkan.",
+    "formula_template": "どこか で / に {A}",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'どこか で / に {A}' untuk menyatakan: Kata bantu へ dan を di belakang どこか (suatu tempat) dan なにか (sesuatu) dapat dihilangkan, sedangkan Kata Bantu で . Pastikan 'A' mewakili Kata Kerja.",
+    "ui_notes": "Partikel で digunakan jika di suatu tempat itu terjadi suatu aktivitas (hilang), partikel に digunakan jika menunjuk titik lokasi keberadaan (ada).",
+    "examples": [
+      {
+        "jp": "どこかで財布をなくしてしまいました。",
+        "id": "Entah di mana (saya) kehilangan dompet."
+      },
+      {
+        "jp": "どこかに電話がありますか。",
+        "id": "Apakah ada telepon dari suatu tempat?"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Partikel",
+      "Kata Tanya Tak Tentu"
+    ]
+  }
+]

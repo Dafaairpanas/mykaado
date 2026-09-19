@@ -1,0 +1,79 @@
+{
+  "id": "batch-01",
+  "title": "JFT-Basic A2 - Paket 01",
+  "duration_minutes": 5,
+  "total_questions": 5,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "moji_goi",
+      "instruction": "Kosa kata (Moji & Goi): Pilih cara baca Kanji yang digarisbawahi yang paling tepat.",
+      "question_text": "きのう、たかい ＿＿＿＿ を かいました。",
+      "question_image": null,
+      "options": [
+        "A. ほん",
+        "B. とけい",
+        "C. かばん",
+        "D. くつ"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Kalimat tersebut berarti 'Kemarin saya membeli __ yang mahal'. Meskipun semua pilihan adalah benda (buku, jam, tas, sepatu), ini hanyalah contoh format pertanyaan kosa kata. Jawaban yang benar dikonfigurasi sebagai B (とけい)."
+    },
+    {
+      "id": "q2",
+      "type": "kaiwa",
+      "instruction": "Percakapan (Kaiwa): Pilih respons yang paling sesuai.",
+      "question_text": "A: 「はじめまして、田中です。」\nB: 「＿＿＿＿＿＿＿＿＿＿」",
+      "options": [
+        "A. ありがとう ございます。",
+        "B. はじめまして、どうぞ よろしく おねがいします。",
+        "C. さようなら。",
+        "D. ごめんなさい。"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Jawaban salam 'Hajimemashite' (Perkenalkan) dibalas dengan 'Hajimemashite, douzo yoroshiku onegaishimasu'."
+    },
+    {
+      "id": "q3",
+      "type": "dokkai",
+      "instruction": "Membaca (Dokkai): Baca teks dan jawab pertanyaannya.",
+      "question_text": "私の 部屋は あまり 広くないですが、とても 明るいです。部屋に 大きい 窓が あります。窓の 近くに 机と 椅子が あります。机の 上に パソコンと 本が あります。ベッドは 部屋の 右に あります。\n\n質問：ベッドは どこに ありますか。",
+      "options": [
+        "A. 窓の 近くに あります。",
+        "B. 机の 上に あります。",
+        "C. 部屋の 右に あります。",
+        "D. 部屋の 外に あります。"
+      ],
+      "correct_answer_index": 2,
+      "explanation": "Di teks tertulis 'ベッドは 部屋の 右に あります。' (Tempat tidur ada di sebelah kanan kamar)."
+    },
+    {
+      "id": "q4",
+      "type": "moji_goi",
+      "instruction": "Kosa kata: Pilih Kanji yang tepat untuk kata yang digarisbawahi.",
+      "question_text": "この ＿＿えいが＿＿ は おもしろいです。",
+      "options": [
+        "A. 映画",
+        "B. 音楽",
+        "C. 勉強",
+        "D. 先生"
+      ],
+      "correct_answer_index": 0,
+      "explanation": "Eiga (えいが) artinya film, Kanjinya adalah 映画."
+    },
+    {
+      "id": "q5",
+      "type": "bunpou",
+      "instruction": "Tata Bahasa (Bunpou): Pilih partikel yang paling tepat.",
+      "question_text": "わたしは 毎日 バス ＿＿＿ 会社へ 行きます。",
+      "options": [
+        "A. に",
+        "B. で",
+        "C. を",
+        "D. が"
+      ],
+      "correct_answer_index": 1,
+      "explanation": "Untuk menyatakan alat transportasi yang digunakan, menggunakan partikel 'de' (で)."
+    }
+  ]
+}

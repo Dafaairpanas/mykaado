@@ -1,0 +1,208 @@
+[
+  {
+    "id": "n3_bab25_1",
+    "chapter": "Bab 25",
+    "level": "N3",
+    "title": "〜はもちろん",
+    "meaning": "〜はもちろん",
+    "formula_template": "{A}はもちろん {B}も / [文] のはもちろん〜(も).",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}はもちろん {B}も / [文] のはもちろん〜(も).' untuk mengekspresikan: 〜はもちろん.",
+    "ui_notes": "〜はもちろん",
+    "examples": [
+      {
+        "jp": "彼は、勉強はもちろん、スポーツもよくできる。",
+        "id": "Dia tentu saja pandai belajar, dan juga jago berolahraga."
+      },
+      {
+        "jp": "キャベツは炒めて食べるのはもちろん、生で食べてもおいしいです。",
+        "id": "Kubis tentu saja enak ditumis, dimakan mentah pun juga enak."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab25_2",
+    "chapter": "Bab 25",
+    "level": "N3",
+    "title": "〜ばかりか",
+    "meaning": "Kalimat setelahnya sering menggunakan 〜も、〜さえ、〜まで.",
+    "formula_template": "{A}(biasa) / {B}(biasa) / {C} な / {D} ばかりか…(も) / ばかりでなく…(も).",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}(biasa) / {B}(biasa) / {C} な / {D} ばかりか…(も) / ばかりでなく…(も).' untuk mengekspresikan: Kalimat setelahnya sering menggunakan 〜も、〜さえ、〜まで..",
+    "ui_notes": "Kalimat setelahnya sering menggunakan 〜も、〜さえ、〜まで.",
+    "examples": [
+      {
+        "jp": "サントスさんは日本語ばかりか、中国語もペラペラだ。",
+        "id": "Santos-san tidak hanya bahasa Jepang, bahasa Mandarin pun fasih."
+      },
+      {
+        "jp": "あの店は味が悪いばかりか、店員の態度もひどい。",
+        "id": "Toko itu tidak hanya rasanya buruk, sikap pelayannya pun payah."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab25_3",
+    "chapter": "Bab 25",
+    "level": "N3",
+    "title": "〜に比（くら）べて",
+    "meaning": "Kalimat perbandingan, sama seperti より. ※それに比べて.",
+    "formula_template": "{A}に / {B}〜のに 比（くら）べて / 比（くら）べ.",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}に / {B}〜のに 比（くら）べて / 比（くら）べ.' untuk mengekspresikan: Kalimat perbandingan, sama seperti より. ※それに比べて..",
+    "ui_notes": "Kalimat perbandingan, sama seperti より. ※それに比べて.",
+    "examples": [
+      {
+        "jp": "試験の問題は昨年に比べて易しくなった。",
+        "id": "Soal ujian menjadi lebih mudah dibandingkan tahun lalu."
+      },
+      {
+        "jp": "店で買うのに比べ、通信販売は便利だが、欠点もある。",
+        "id": "Dibandingkan beli di toko, belanja online praktis tetapi ada juga kekurangannya."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab25_4",
+    "chapter": "Bab 25",
+    "level": "N3",
+    "title": "〜に対（たい）して",
+    "meaning": "〜に対（たい）して",
+    "formula_template": "{A}に / {B}〜のに 対（たい）して / 対（たい）し / 対（たい）しては / 対（たい）しても / 対（たい）する {C}. ※それに対して.",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}に / {B}〜のに 対（たい）して / 対（たい）し / 対（たい）しては / 対（たい）しても / 対（たい）する {C}. ※それに対して.' untuk mengekspresikan: 〜に対（たい）して.",
+    "ui_notes": "〜に対（たい）して",
+    "examples": [
+      {
+        "jp": "田中先生は、生徒に対して厳しい。",
+        "id": "Tanaka sensei bersikap tegas terhadap murid-muridnya."
+      },
+      {
+        "jp": "まじめな長男に対して、次男は遊んでばかりで学校もよく休む。",
+        "id": "Berbeda dengan anak sulung yang rajin, anak kedua main melulu dan sering bolos sekolah."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

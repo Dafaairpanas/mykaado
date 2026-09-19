@@ -1,0 +1,154 @@
+[
+  {
+    "id": "i_bab14_1",
+    "chapter": "Bab 14",
+    "level": "A1",
+    "title": "【tempat】にNがありますか？ ([Tempat] ni N ga arimasu ka?)",
+    "meaning": "Pola pertanyaan untuk menanyakan keberadaan suatu fasilitas atau benda di sekitar lokasi tertentu. 'に' menunjukkan lokasi, dan 'がありますか' berarti 'apakah ada?'. Sangat berguna saat mencari toilet, ATM, atau fasilitas umum lainnya saat bepergian. Artinya 'Apakah ada [N] di [tempat]?'.",
+    "formula_template": "{A} に {B} が ありますか？",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に {B} が ありますか？' untuk percakapan: Pola pertanyaan untuk menanyakan keberadaan suatu fasilitas atau benda di sekitar lokasi tertentu. 'に' menunju. Pastikan 'A' mewakili Tempat, 'B' mewakili Fasilitas/Benda.",
+    "ui_notes": "Gunakan 'は' untuk menekankan topik (N-nya ada tidak?). Untuk lokasi: 'この近く' (dekat sini), 'この辺' (sekitar sini), 'ここ' (di sini). Untuk orang, gunakan 'いますか' bukan 'ありますか'. Contoh: 田中さんはここにいますか？ (Apakah Tanaka ada di sini?).",
+    "examples": [
+      {
+        "jp": "この近くにコンビニはありますか？",
+        "id": "Apakah ada convenience store di dekat sini?"
+      },
+      {
+        "jp": "この辺にトイレはありますか？",
+        "id": "Apakah ada toilet di sekitar sini?"
+      }
+    ],
+    "tags": [
+      "A1",
+      "Fasilitas Umum",
+      "Lokasi",
+      "Pertanyaan"
+    ]
+  },
+  {
+    "id": "i_bab14_2",
+    "chapter": "Bab 14",
+    "level": "A1",
+    "title": "Nの【posisi】にいます (N no [posisi] ni imasu)",
+    "meaning": "Pola kalimat untuk menyatakan posisi diri sendiri atau orang lain dengan menunjukkan lokasi relatif terhadap suatu benda. 'の' menghubungkan benda acuan dengan posisi, dan 'にいます' berarti 'berada' (untuk orang). Sangat berguna saat memberi tahu lokasi melalui telepon. Artinya 'Berada di [posisi] dari [N]'.",
+    "formula_template": "{A} の {B} に います",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} の {B} に います' untuk percakapan: Pola kalimat untuk menyatakan posisi diri sendiri atau orang lain dengan menunjukkan lokasi relatif terhadap s. Pastikan 'A' mewakili Benda Acuan, 'B' mewakili Posisi.",
+    "ui_notes": "Posisi yang umum: 前 (mae - depan), 後ろ (ushiro - belakang), 横 (yoko - samping), 中 (naka - dalam), 上 (ue - atas), 下 (shita - bawah), 隣 (tonari - sebelah). Untuk benda, gunakan 'あります' bukan 'います'.",
+    "examples": [
+      {
+        "jp": "改札の前にいます。",
+        "id": "Saya berada di depan pintu gerbang (pintu tiket)."
+      },
+      {
+        "jp": "駅の東口にいます。",
+        "id": "Saya berada di pintu timur stasiun."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Lokasi",
+      "Posisi",
+      "Telepon",
+      "Komunikasi"
+    ]
+  },
+  {
+    "id": "i_bab14_3",
+    "chapter": "Bab 14",
+    "level": "A1",
+    "title": "ナA-なNですね / イA-いNですね",
+    "meaning": "Pola kalimat untuk menyatakan kesan atau komentar tentang sesuatu yang dilihat, dengan kata sifat sebelum kata benda. 'な' digunakan untuk kata sifat-na (ナA), dan 'い' langsung untuk kata sifat-i (イA). 'ですね' di akhir berarti '... ya' (mencari persetujuan). Artinya '[Ini] [kata sifat] [benda] ya'.",
+    "formula_template": "{A} な {B} ですね / {C} {D} ですね",
+    "variables": {
+      "A": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} な {B} ですね / {C} {D} ですね' untuk percakapan: Pola kalimat untuk menyatakan kesan atau komentar tentang sesuatu yang dilihat, dengan kata sifat sebelum kata. Pastikan 'A' mewakili Kata Sifat-na, 'B' mewakili Kata Benda, 'C' mewakili Kata Sifat-i, 'D' mewakili Kata Benda.",
+    "ui_notes": "Ini adalah cara alami untuk memulai percakapan atau memberikan komentar tentang lingkungan sekitar. Kata sifat-na (ナA): にぎやかな (ramai), 静かな (tenang), 有名な (terkenal). Kata sifat-i (イA): 広い (luas), 高い (tinggi/mahal), 大きい (besar).",
+    "examples": [
+      {
+        "jp": "にぎやかな通りですね。",
+        "id": "Jalan yang ramai ya."
+      },
+      {
+        "jp": "広い公園ですね。",
+        "id": "Taman yang luas ya."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Kesan",
+      "Komentar",
+      "Kota",
+      "Kata Sifat"
+    ]
+  }
+]

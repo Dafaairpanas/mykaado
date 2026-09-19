@@ -1,0 +1,207 @@
+[
+  {
+    "id": "i_bab02_1",
+    "chapter": "Bab 02",
+    "level": "A2.2",
+    "title": "N1はN2が ナA-です／イA-いです — N1 Memiliki N2 yang ...",
+    "meaning": "Pola untuk mendeskripsikan penampilan atau ciri fisik seseorang dengan menyebutkan bagian tubuh tertentu yang menonjol. 'N1は' adalah orang yang dideskripsikan, 'N2が' adalah bagian tubuh yang disebutkan, dan kata sifat di akhir menunjukkan sifatnya. Sangat berguna saat menjelaskan ciri-ciri fisik orang. Artinya '[N1] memiliki [N2] yang [sifat]'.",
+    "formula_template": "{A} は {B} が {C} です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は {B} が {C} です' untuk percakapan: Pola untuk mendeskripsikan penampilan atau ciri fisik seseorang dengan menyebutkan bagian tubuh tertentu yang . Pastikan 'A' mewakili Orang, 'B' mewakili Bagian Tubuh, 'C' mewakili Kata Sifat.",
+    "ui_notes": "Pola ini sangat umum untuk mendeskripsikan penampilan. Contoh lain: 背が高い (tinggi badan tinggi), 鼻が高い (hidung mancung), 顔が小さい (wajah kecil). Untuk pertanyaan, gunakan: どんな人ですか？ (Orang seperti apa?). Perhatikan bahwa partikel 'が' digunakan untuk bagian tubuh yang dideskripsikan, bukan 'は'.",
+    "examples": [
+      {
+        "jp": "江口さんは、髪が短いです。",
+        "id": "Eguchi memiliki rambut pendek."
+      },
+      {
+        "jp": "田中さんは、目が大きいです。",
+        "id": "Tanaka memiliki mata besar."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Penampilan",
+      "Deskripsi",
+      "Fisik"
+    ]
+  },
+  {
+    "id": "i_bab02_2",
+    "chapter": "Bab 02",
+    "level": "A2.2",
+    "title": "V-ている人 — Orang yang Sedang Melakukan V",
+    "meaning": "Pola untuk mengidentifikasi atau mendeskripsikan seseorang berdasarkan aktivitas yang sedang mereka lakukan. 'V-ている' adalah bentuk sedang melakukan, dan '人' berarti 'orang'. Sangat berguna saat mencari seseorang atau menjelaskan ciri orang berdasarkan tindakannya. Artinya 'Orang yang sedang [melakukan V]'.",
+    "formula_template": "{A} いる人",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} いる人' untuk percakapan: Pola untuk mengidentifikasi atau mendeskripsikan seseorang berdasarkan aktivitas yang sedang mereka lakukan. '. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
+    "ui_notes": "Bentuk kasual: V-てる人 (contoh: 読んでる人 - orang yang sedang membaca). Untuk menjelaskan orang berdasarkan pakaian: 赤いシャツを着ている人 (Orang yang memakai kemeja merah). Untuk menjelaskan orang berdasarkan posisi: 立っている人 (Orang yang sedang berdiri), 座っている人 (Orang yang sedang duduk).",
+    "examples": [
+      {
+        "jp": "ナインさんは、帽子をかぶっている人です。",
+        "id": "Nain adalah orang yang sedang memakai topi."
+      },
+      {
+        "jp": "加藤さんは、あそこでコピーをしている人です。",
+        "id": "Kato adalah orang yang sedang fotokopi di sana."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Identifikasi",
+      "Penampilan",
+      "Aktivitas"
+    ]
+  },
+  {
+    "id": "i_bab02_3",
+    "chapter": "Bab 02",
+    "level": "A2.2",
+    "title": "Sよ — Informasi Baru / Penekanan",
+    "meaning": "Partikel 'よ' di akhir kalimat untuk memberikan informasi baru kepada lawan bicara atau menekankan suatu poin. 'よ' menunjukkan bahwa pembicara menyampaikan informasi yang mungkin belum diketahui pendengar. Sangat berguna saat memberikan petunjuk atau mengoreksi orang. Artinya '[Informasi] lho' atau '[Informasi] ya'.",
+    "formula_template": "{A} よ",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} よ' untuk percakapan: Partikel 'よ' di akhir kalimat untuk memberikan informasi baru kepada lawan bicara atau menekankan suatu poin. . Pastikan 'A' mewakili Kalimat.",
+    "ui_notes": "'よ' memiliki beberapa fungsi: (1) Memberi informasi baru: あそこにありますよ (Ada di sana lho). (2) Menekankan: それは違いますよ (Itu salah lho). (3) Mengingatkan: 忘れないでくださいよ (Tolong jangan lupa ya). Jangan gunakan 'よ' saat informasi sudah diketahui bersama, karena bisa terdengar sok tahu.",
+    "examples": [
+      {
+        "jp": "原さんは、座って本を読んでる人ですよ。",
+        "id": "Hara adalah orang yang sedang duduk membaca buku lho."
+      },
+      {
+        "jp": "あそこにいる人ですよ。",
+        "id": "Orang yang di sana lho."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Partikel",
+      "Informasi",
+      "Penekanan"
+    ]
+  },
+  {
+    "id": "i_bab02_4",
+    "chapter": "Bab 02",
+    "level": "A2.2",
+    "title": "Sし、〜 (S shi, ~) — Selain Itu ...",
+    "meaning": "Pola untuk menyatakan beberapa alasan, sifat, atau informasi secara bersamaan. 'し' digunakan di akhir setiap klausa untuk menunjukkan bahwa ada beberapa poin yang disebutkan. Sangat berguna saat menjelaskan alasan mengapa seseorang atau sesuatu itu menarik atau baik. Artinya '[Klausa1], dan juga [Klausa2], [Klausa3], ...'.",
+    "formula_template": "{A} し、{B} し、{C}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} し、{B} し、{C}' untuk percakapan: Pola untuk menyatakan beberapa alasan, sifat, atau informasi secara bersamaan. 'し' digunakan di akhir setiap k. Pastikan 'A' mewakili Klausa 1, 'B' mewakili Klausa 2, 'C' mewakili Klausa 3.",
+    "ui_notes": "Biasanya menggunakan minimal 2 klausa dengan 'し'. Klausa terakhir tidak perlu diikuti 'し' jika sudah jelas. Untuk kalimat yang lebih sopan, gunakan 'ますし' atau 'ですし'. Contoh: あそこは便利ですし、安いですし、いいですね (Di sana praktis dan murah, bagus ya).",
+    "examples": [
+      {
+        "jp": "三船敏郎は、演技が上手だし、本当にかっこいいです。",
+        "id": "Mifune Toshiro, selain aktingnya bagus, juga sangat keren."
+      },
+      {
+        "jp": "このレストランは安いし、おいしいし、よく行きます。",
+        "id": "Restoran ini murah, enak, dan saya sering pergi ke sana."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Alasan",
+      "Penghubung",
+      "Penjelasan"
+    ]
+  }
+]

@@ -1,0 +1,193 @@
+[
+  {
+    "id": "m_bab28_1",
+    "chapter": "Bab 28",
+    "level": "N4",
+    "title": "A（ます形） ながら B",
+    "meaning": "Menyatakan bahwa pelaku yang sama melakukan aksi 1 dan aksi 2 secara bersamaan. Kata Kerja 2 merupakan aksi utama. Pola ini juga digunakan jika melakukan dua hal dengan terus-menerus dalam suatu jangka waktu tertentu.",
+    "formula_template": "{A} ながら {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ながら {B}' untuk menyatakan: Menyatakan bahwa pelaku yang sama melakukan aksi 1 dan aksi 2 secara bersamaan. Kata Kerja 2 merupakan aksi ut. Pastikan 'A' mewakili Kata Kerja 1 (Bentuk ます - hilangkan ます), 'B' mewakili Kata Kerja 2.",
+    "ui_notes": "Aksi utama diletakkan pada Kata Kerja 2 (setelah ながら).",
+    "examples": [
+      {
+        "jp": "音楽を聞きながら食事します。",
+        "id": "Makan sambil mendengarkan musik."
+      },
+      {
+        "jp": "働きながら日本語を勉強しています。",
+        "id": "Belajar bahasa Jepang sambil bekerja."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Aksi Bersamaan"
+    ]
+  },
+  {
+    "id": "m_bab28_2",
+    "chapter": "Bab 28",
+    "level": "N4",
+    "title": "A形 います (Kebiasaan)",
+    "meaning": "Digunakan ketika menyatakan perbuatan yang berulang kali sebagai kebiasaan. Jika kebiasaan tersebut dilakukan pada masa lampau, bentuknya berubah menjadi Kata Kerja Bentuk ていました.",
+    "formula_template": "{A} います / いました",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} います / いました' untuk menyatakan: Digunakan ketika menyatakan perbuatan yang berulang kali sebagai kebiasaan. Jika kebiasaan tersebut dilakukan . Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Digunakan ketika menyatakan perbuatan yang berulang kali sebagai kebiasaan. Jika kebiasaan tersebut dilakukan pada masa lampau, bentuknya berubah menjadi Kata Kerja Bentuk ていました.",
+    "examples": [
+      {
+        "jp": "毎朝ジョギングをしています。",
+        "id": "Setiap pagi, saya joging."
+      },
+      {
+        "jp": "子どものとき、毎晩8時に寝ていました。",
+        "id": "Ketika masih kecil, setiap malam saya tidur pukul delapan."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Kebiasaan"
+    ]
+  },
+  {
+    "id": "m_bab28_3",
+    "chapter": "Bab 28",
+    "level": "N4",
+    "title": "普通形 し、普通形 し、～",
+    "meaning": "Menjelaskan lebih dari dua hal yang mirip (setaraf) mengenai suatu topik. Seringkali mengemukakan semuanya kelebihan atau semuanya kekurangan, serta menyatakan alasan secara berurutan.",
+    "formula_template": "Bentuk Biasa し、Bentuk Biasa し、~",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'Bentuk Biasa し、Bentuk Biasa し、~' untuk menyatakan: Menjelaskan lebih dari dua hal yang mirip (setaraf) mengenai suatu topik. Seringkali mengemukakan semuanya kel.",
+    "ui_notes": "Pola kalimat ini sering digunakan bersama partikel も. Untuk membuat alasan lebih jelas, sering ditambahkan それに (lagi pula/tambahan pula). Adakalanya し paling belakang diganti dengan から.",
+    "examples": [
+      {
+        "jp": "鈴木さんはピアノも弾けるし、歌も歌えるし、ダンスもできます。",
+        "id": "Sdr. Suzuki bisa bermain piano, bisa bernyanyi, juga bisa berdansa."
+      },
+      {
+        "jp": "田中さんはまじめだし、中国語も上手だし、それに経験もあります。",
+        "id": "Sdr. Tanaka rajin, pandai bahasa Tionghoa, lagi pula berpengalaman."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Partikel",
+      "Alasan/Penjabaran Setaraf"
+    ]
+  },
+  {
+    "id": "m_bab28_4",
+    "chapter": "Bab 28",
+    "level": "N4",
+    "title": "それで",
+    "meaning": "Kata sambung untuk menjelaskan kesimpulan yang ditemukan berdasarkan hal yang telah dijelaskan sebelumnya sebagai alasan. (Oleh karena itu / Jadi).",
+    "formula_template": "{A} (Alasan). それで {B} (Kesimpulan).",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} (Alasan). それで {B} (Kesimpulan).' untuk menyatakan: Kata sambung untuk menjelaskan kesimpulan yang ditemukan berdasarkan hal yang telah dijelaskan sebelumnya seba. Pastikan 'A' mewakili Kalimat 1, 'B' mewakili Kalimat 2.",
+    "ui_notes": "Kata sambung untuk menjelaskan kesimpulan yang ditemukan berdasarkan hal yang telah dijelaskan sebelumnya sebagai alasan. (Oleh karena itu / Jadi).",
+    "examples": [
+      {
+        "jp": "将来小説家になりたいです。それで今はアルバイトをしながら小説を書いています。",
+        "id": "(Saya) Ingin menjadi pengarang novel pada masa depan. Oleh karena itu, sekarang menulis novel sambil bekerja paruh waktu."
+      },
+      {
+        "jp": "ここはコーヒーもおいしいし、食事もできるし……。……それで人気があるんですね。",
+        "id": "Di sini kopinya enak, dan juga bisa makan... ……Oleh karena itu, populer, ya."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Sambung",
+      "Kesimpulan"
+    ]
+  },
+  {
+    "id": "m_bab28_5",
+    "chapter": "Bab 28",
+    "level": "N4",
+    "title": "～ とき ＋ 助詞",
+    "meaning": "Karena とき pada dasarnya berfungsi sebagai Kata Benda, maka dapat digunakan dengan menyertai Kata Bantu (partikel) seperti は, や, dan lainnya di belakangnya.",
+    "formula_template": "~ とき Kata Bantu (Partikel)",
+    "variables": {},
+    "ai_instruction": "Gunakan pola '~ とき Kata Bantu (Partikel)' untuk menyatakan: Karena とき pada dasarnya berfungsi sebagai Kata Benda, maka dapat digunakan dengan menyertai Kata Bantu (partik.",
+    "ui_notes": "Karena とき pada dasarnya berfungsi sebagai Kata Benda, maka dapat digunakan dengan menyertai Kata Bantu (partikel) seperti は, や, dan lainnya di belakangnya.",
+    "examples": [
+      {
+        "jp": "勉強するときは、音楽を聞きません。",
+        "id": "Ketika belajar tidak mendengar musik."
+      },
+      {
+        "jp": "疲れたときや寂しいとき、よく田舎の青い空を思い出します。",
+        "id": "Ketika lelah atau sepi, saya sering ingat langit biru kampung halaman."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Benda",
+      "Keterangan Waktu"
+    ]
+  }
+]

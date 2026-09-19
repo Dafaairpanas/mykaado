@@ -1,0 +1,250 @@
+[
+  {
+    "id": "n3_bab31_1",
+    "chapter": "Bab 31",
+    "level": "N3",
+    "title": "もし〜たなら",
+    "meaning": "seandainya",
+    "formula_template": "もし {A}た(な)ら / {B} 〜かった(な)ら / {C} 〜だった(な)ら / {D}だった(な)ら",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'もし {A}た(な)ら / {B} 〜かった(な)ら / {C} 〜だった(な)ら / {D}だった(な)ら' untuk mengekspresikan: seandainya.",
+    "ui_notes": "seandainya",
+    "examples": [
+      {
+        "jp": "もし試験を受けていたなら、合格していたと思う。",
+        "id": "seandainya saya ikut ujian, saya pikir saya lulus"
+      },
+      {
+        "jp": "もし彼が社長でなかったなら、会社はつぶれていたと思う。",
+        "id": "kalau dia bukan direkturnya, saya pikir perusahaan ini akan hancur"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pengandaian"
+    ]
+  },
+  {
+    "id": "n3_bab31_2",
+    "chapter": "Bab 31",
+    "level": "N3",
+    "title": "もし〜としても",
+    "meaning": "dalam bahasa Indonesia : \"meskipun seandainya...\", \"meskipun misalnya...\"",
+    "formula_template": "もし [{A}(biasa) / {B} (biasa) / {C} だ / {D}だ] としても / としたって",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'もし [{A}(biasa) / {B} (biasa) / {C} だ / {D}だ] としても / としたって' untuk mengekspresikan: dalam bahasa Indonesia : \"meskipun seandainya...\", \"meskipun misalnya...\".",
+    "ui_notes": "dalam bahasa Indonesia : \"meskipun seandainya...\", \"meskipun misalnya...\"",
+    "examples": [
+      {
+        "jp": "もし休みが取れたとしても、旅行には行かないつもりです。",
+        "id": "meskipun misalnya saya bisa mengambil libur, saya tidak punya maksud untuk pergi wisata"
+      },
+      {
+        "jp": "もしお金がたくさんあったとしても、そんなものは買わない。",
+        "id": "meskipun seandainya saya punya banyak uang, saya tidak akan membeli barang seperti itu"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pengandaian"
+    ]
+  },
+  {
+    "id": "n3_bab31_3",
+    "chapter": "Bab 31",
+    "level": "N3",
+    "title": "もしも〜なら／ても",
+    "meaning": "memberikan penekanan pada kata「もし」\"seandainya\"",
+    "formula_template": "もしも [{A}(biasa) / {B} (biasa) / {C} / {D}] 〜なら | もしも [{V4}たら / {V5} 〜かったら / {V6} 〜だったら / {V7}だったら] | もしも [{V8}ても / {V9} 〜くても / {V10} 〜でも / {V11}でも]",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "V4": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "V5": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V6": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V7": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "V8": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "V9": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V10": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V11": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'もしも [{A}(biasa) / {B} (biasa) / {C} / {D}] 〜なら | もしも [{V4}たら / {V5} 〜かったら / {V6} 〜だったら / {V7}だったら] | もしも [{V8}ても / {V9} 〜くても / {V10} 〜でも / {V11}でも]' untuk mengekspresikan: memberikan penekanan pada kata「もし」\"seandainya\".",
+    "ui_notes": "memberikan penekanan pada kata「もし」\"seandainya\"",
+    "examples": [
+      {
+        "jp": "もしも生まれ変われるなら、男になりたい。",
+        "id": "seandainya saya terlahir kembali, saya ingin jadi laki-laki"
+      },
+      {
+        "jp": "もしも地震が起きても、この家、丈夫だから倒れないでしょう。",
+        "id": "meskipun misalnya terjadi gempa bumi, rumah ini kuat, jadi mungkin tidak akan roboh"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pengandaian"
+    ]
+  }
+]

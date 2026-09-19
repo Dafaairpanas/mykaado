@@ -1,0 +1,217 @@
+[
+  {
+    "id": "i_bab01_1",
+    "chapter": "Bab 01",
+    "level": "A2.2",
+    "title": "N1というN2 — N2 yang Disebut N1",
+    "meaning": "Pola untuk menjelaskan atau mendefinisikan sesuatu dengan menyebutkan nama atau istilahnya. 'という' berarti 'yang disebut' atau 'yang bernama'. Digunakan saat memperkenalkan nama tempat, orang, atau istilah baru. Sangat berguna saat menjelaskan arti kata atau memperkenalkan tempat asal. Artinya '[N2] yang disebut [N1]' atau '[N1] berarti [N2]'.",
+    "formula_template": "{A} という {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} という {B}' untuk percakapan: Pola untuk menjelaskan atau mendefinisikan sesuatu dengan menyebutkan nama atau istilahnya. 'という' berarti 'yan. Pastikan 'A' mewakili Nama, 'B' mewakili Penjelasan.",
+    "ui_notes": "Untuk menjelaskan arti kata: [Kata] は [Arti] という意味です. Untuk memperkenalkan nama: [Nama] という [Kategori]. Contoh: 富士山という山 (Gunung yang bernama Fuji), 田中さんという人 (Orang yang bernama Tanaka).",
+    "examples": [
+      {
+        "jp": "ホアは「花」という意味です。",
+        "id": "'Hoa' berarti 'bunga'."
+      },
+      {
+        "jp": "ジョグジャカルタという町があります。",
+        "id": "Ada kota yang bernama Yogyakarta."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Perkenalan",
+      "Penjelasan",
+      "Definisi"
+    ]
+  },
+  {
+    "id": "i_bab01_2",
+    "chapter": "Bab 01",
+    "level": "A2.2",
+    "title": "V-たばかりです — Baru Saja Melakukan V",
+    "meaning": "Pola untuk menyatakan bahwa suatu tindakan baru saja selesai dilakukan. 'たばかり' berarti 'baru saja' dan digunakan untuk menunjukkan bahwa waktu yang berlalu sejak tindakan itu sangat singkat. Sangat berguna saat memperkenalkan diri sebagai pendatang baru. Artinya 'Baru saja [melakukan V]'.",
+    "formula_template": "{A} ばかりです",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ばかりです' untuk percakapan: Pola untuk menyatakan bahwa suatu tindakan baru saja selesai dilakukan. 'たばかり' berarti 'baru saja' dan digunak. Pastikan 'A' mewakili Kata Kerja Bentuk Lampau.",
+    "ui_notes": "Berbeda dengan 'V-たところです' yang juga berarti 'baru saja', tetapi 'V-たばかり' memiliki nuansa 'masih sangat baru' dan bisa merujuk pada waktu yang lebih lama (hari, minggu) daripada 'V-たところ' yang biasanya merujuk pada beberapa menit yang lalu. Contoh: 日本に来たばかりで、まだよくわかりません (Saya baru saja datang ke Jepang, jadi masih belum begitu paham).",
+    "examples": [
+      {
+        "jp": "先週、日本に来たばかりです。",
+        "id": "Saya baru saja datang ke Jepang minggu lalu."
+      },
+      {
+        "jp": "この仕事を始めたばかりです。",
+        "id": "Saya baru saja memulai pekerjaan ini."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Waktu",
+      "Baru Saja",
+      "Pengalaman"
+    ]
+  },
+  {
+    "id": "i_bab01_3",
+    "chapter": "Bab 01",
+    "level": "A2.2",
+    "title": "V-ていました — Sedang Melakukan / Kebiasaan Lampau",
+    "meaning": "Pola untuk menyatakan kegiatan yang sedang berlangsung di masa lalu atau kebiasaan yang dilakukan di masa lalu. Bentuk lampau dari 'V-ています'. Digunakan saat menceritakan pengalaman kerja sebelumnya atau kegiatan yang dulu biasa dilakukan. Artinya '(Dulu) sedang [melakukan V]' atau 'Dulu biasa [melakukan V]'.",
+    "formula_template": "{A} いました",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} いました' untuk percakapan: Pola untuk menyatakan kegiatan yang sedang berlangsung di masa lalu atau kebiasaan yang dilakukan di masa lalu. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
+    "ui_notes": "'V-ていました' adalah bentuk lampau dari 'V-ています'. Digunakan untuk menyatakan: (1) Aktivitas yang sedang berlangsung di masa lalu: 昨日の3時に、テレビを見ていました (Saya sedang menonton TV jam 3 kemarin). (2) Kebiasaan di masa lalu: 子供のとき、よく泳いでいました (Waktu kecil, saya sering berenang).",
+    "examples": [
+      {
+        "jp": "ベトナムでは、ホテルで働いていました。",
+        "id": "Di Vietnam, saya (dulu) bekerja di hotel."
+      },
+      {
+        "jp": "学生のとき、よく図書館で勉強していました。",
+        "id": "Saat masih pelajar, saya sering belajar di perpustakaan."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Lampau",
+      "Kebiasaan",
+      "Pengalaman"
+    ]
+  },
+  {
+    "id": "i_bab01_4",
+    "chapter": "Bab 01",
+    "level": "A2.2",
+    "title": "それ／そこ — Kata Penunjuk Kontekstual",
+    "meaning": "Kata penunjuk yang merujuk pada sesuatu yang sudah disebutkan sebelumnya dalam percakapan atau teks. 'それ' digunakan untuk benda/informasi, 'そこ' digunakan untuk tempat. Sangat berguna untuk menghindari pengulangan kata dan membuat kalimat lebih alami. Artinya 'Itu' / 'Di situ'.",
+    "formula_template": "{A} → それ / そこ",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} → それ / そこ' untuk percakapan: Kata penunjuk yang merujuk pada sesuatu yang sudah disebutkan sebelumnya dalam percakapan atau teks. 'それ' digu. Pastikan 'A' mewakili Informasi Sebelumnya.",
+    "ui_notes": "Perbedaan: 'これ/ここ' (ini/di sini - dekat pembicara), 'それ/そこ' (itu/di situ - dekat lawan bicara atau sudah disebutkan), 'あれ/あそこ' (itu/di sana - jauh dari keduanya). Dalam konteks merujuk pada informasi sebelumnya, 'それ' dan 'そこ' paling sering digunakan.",
+    "examples": [
+      {
+        "jp": "ジョグジャカルタという町があります。そこからバスで4時間です。",
+        "id": "Ada kota bernama Yogyakarta. Dari sana (Yogyakarta) 4 jam dengan bus."
+      },
+      {
+        "jp": "新しいレストランがオープンしました。それに行きました。",
+        "id": "Restoran baru telah buka. Saya pergi ke itu."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Penunjuk",
+      "Konteks",
+      "Referensi"
+    ]
+  },
+  {
+    "id": "i_bab01_5",
+    "chapter": "Bab 01",
+    "level": "A2.2",
+    "title": "Penghubung Kalimat: 〜て / 〜から / 〜けど",
+    "meaning": "Tiga pola untuk menghubungkan kalimat dengan makna yang berbeda. '〜て' untuk urutan atau sebab-akibat ringan, '〜から' untuk sebab/alasan yang jelas, '〜けど' untuk kontras. Sangat berguna saat menceritakan tentang tempat asal atau pengalaman. Artinya '[Kalimat1], dan/lalu/karena/tetapi [Kalimat2]'.",
+    "formula_template": "{A} て / から / けど {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} て / から / けど {B}' untuk percakapan: Tiga pola untuk menghubungkan kalimat dengan makna yang berbeda. '〜て' untuk urutan atau sebab-akibat ringan, '. Pastikan 'A' mewakili Kalimat1, 'B' mewakili Kalimat2.",
+    "ui_notes": "'〜て' paling umum digunakan untuk menghubungkan kalimat dengan makna 'dan' atau 'lalu'. '〜から' menunjukkan alasan yang kuat. '〜けど' (atau '〜けれど' lebih formal) menunjukkan kontras. Untuk kata sifat-na, gunakan 'で' (静かで...), untuk kata sifat-i gunakan 'くて' (安くて...), untuk kata benda gunakan 'で' (学生で...).",
+    "examples": [
+      {
+        "jp": "お茶の畑がたくさんあって、のんびりしています。",
+        "id": "Ada banyak kebun teh, dan suasananya santai. (〜て - dan)"
+      },
+      {
+        "jp": "ここは静かだから、勉強しやすいです。",
+        "id": "Karena di sini tenang, mudah belajar. (〜から - karena)"
+      }
+    ],
+    "tags": [
+      "B1",
+      "Penghubung",
+      "Sebab",
+      "Kontras"
+    ]
+  }
+]

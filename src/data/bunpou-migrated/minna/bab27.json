@@ -1,0 +1,249 @@
+[
+  {
+    "id": "m_bab27_1",
+    "chapter": "Bab 27",
+    "level": "N4",
+    "title": "可能A",
+    "meaning": "Menyatakan kemampuan dari pelaku, atau kemungkinan untuk melakukan suatu perbuatan dalam kondisi tertentu. Kata Kerja Potensial tidak menyatakan gerakan, melainkan keadaan. Objek dari Kata Kerja Transitif yang awalnya menggunakan を berubah menjadi が.",
+    "formula_template": "Gol I: ~います -> ~えます | Gol II: ~ます -> ~られます | Gol III: きます -> こられます, します -> できます",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'Gol I: ~います -> ~えます | Gol II: ~ます -> ~られます | Gol III: きます -> こられます, します -> できます' untuk menyatakan: Menyatakan kemampuan dari pelaku, atau kemungkinan untuk melakukan suatu perbuatan dalam kondisi tertentu. Kat.",
+    "ui_notes": "Kata Kerja Potensial dikonjugasi sebagai Kata Kerja Kelompok II. 'わかります' sudah bermakna kebisaan, maka tidak diubah menjadi 'わかれます'.",
+    "examples": [
+      {
+        "jp": "わたしは日本語が話せます。",
+        "id": "Saya bisa berbahasa Jepang."
+      },
+      {
+        "jp": "一人で病院へ行けますか。",
+        "id": "Bisa pergi ke rumah sakit sendiri?"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Kemampuan/Kemungkinan"
+    ]
+  },
+  {
+    "id": "m_bab27_2",
+    "chapter": "Bab 27",
+    "level": "N4",
+    "title": "見えます / 聞こえます",
+    "meaning": "Menyatakan suatu objek yang dapat ditangkap dalam wawasan secara alami (見えます), atau bunyi yang sampai di telinga secara alami (聞こえます), dengan tidak sengaja. Berbeda dengan 見られます / 聞けます yang merupakan bentuk potensial dan memerlukan kesengajaan.",
+    "formula_template": "{A} が 見えます / 聞こえます",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} が 見えます / 聞こえます' untuk menyatakan: Menyatakan suatu objek yang dapat ditangkap dalam wawasan secara alami (見えます), atau bunyi yang sampai di telin. Pastikan 'A' mewakili Kata Benda.",
+    "ui_notes": "Objek untuk 見えます dan 聞こえます dinyatakan dengan partikel が.",
+    "examples": [
+      {
+        "jp": "新幹線から富士山が見えます。",
+        "id": "Dari Shinkansen terlihat Gunung Fuji."
+      },
+      {
+        "jp": "ラジオの音が聞こえます。",
+        "id": "Terdengar suara radio."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Persepsi Spontan"
+    ]
+  },
+  {
+    "id": "m_bab27_3",
+    "chapter": "Bab 27",
+    "level": "N4",
+    "title": "できます (Selesai/Rampung)",
+    "meaning": "Kata できます di sini bermakna 'menimbulkan', 'rampung', 'selesai', atau 'dibuat'.",
+    "formula_template": "{A} が できます",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} が できます' untuk menyatakan: Kata できます di sini bermakna 'menimbulkan', 'rampung', 'selesai', atau 'dibuat'.. Pastikan 'A' mewakili Kata Benda.",
+    "ui_notes": "Kata できます di sini bermakna 'menimbulkan', 'rampung', 'selesai', atau 'dibuat'.",
+    "examples": [
+      {
+        "jp": "駅の前に大きいスーパーができました。",
+        "id": "Di depan stasiun, telah dibangun pasar swalayan besar."
+      },
+      {
+        "jp": "時計の修理はいつできますか。",
+        "id": "Kapan perbaikan jam akan selesai?"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Penyelesaian"
+    ]
+  },
+  {
+    "id": "m_bab27_4",
+    "chapter": "Bab 27",
+    "level": "N4",
+    "title": "～しか～ません",
+    "meaning": "しか dibubuhkan pada Kata Benda atau Keterangan Bilangan dan selalu diikuti kata kerja bentuk negatif. Bermakna 'hanya' dengan menyangkal semua yang lain (bernuansa tidak sempurna/terbatas).",
+    "formula_template": "{A}/ Kata Keterangan Bilangan しか {B}Negatif (ません)",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}/ Kata Keterangan Bilangan しか {B}Negatif (ません)' untuk menyatakan: しか dibubuhkan pada Kata Benda atau Keterangan Bilangan dan selalu diikuti kata kerja bentuk negatif. Bermakna . Pastikan 'A' mewakili Kata Benda, 'B' mewakili Kata Kerja.",
+    "ui_notes": "Jika dibubuhkan pada Kata Benda, partikel が atau を dihilangkan. Berbeda dengan だけ yang bisa digunakan bersama kalimat bernuansa positif.",
+    "examples": [
+      {
+        "jp": "ローマ字しか書けません。",
+        "id": "Hanya bisa menulis huruf latin saja."
+      },
+      {
+        "jp": "ローマ字だけ書けます。",
+        "id": "Bisa menulis huruf latin saja."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Partikel",
+      "Pembatasan Negatif"
+    ]
+  },
+  {
+    "id": "m_bab27_5",
+    "chapter": "Bab 27",
+    "level": "N4",
+    "title": "A は (Perbandingan)",
+    "meaning": "Selain untuk menyatakan topik, partikel は berfungsi untuk menyatakan perbandingan atau kekontrasan antara dua hal.",
+    "formula_template": "{A} は {B} が、 {C} は {D}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は {B} が、 {C} は {D}' untuk menyatakan: Selain untuk menyatakan topik, partikel は berfungsi untuk menyatakan perbandingan atau kekontrasan antara dua . Pastikan 'A' mewakili Kata Benda 1, 'B' mewakili Kalimat 1, 'C' mewakili Kata Benda 2, 'D' mewakili Kalimat 2.",
+    "ui_notes": "Selain untuk menyatakan topik, partikel は berfungsi untuk menyatakan perbandingan atau kekontrasan antara dua hal.",
+    "examples": [
+      {
+        "jp": "ワインは飲みますが、ビールは飲みません。",
+        "id": "(Saya) Minum anggur, tetapi tidak minum bir."
+      },
+      {
+        "jp": "きのうは山が見えましたが、きょうは見えません。",
+        "id": "Kemarin gunung terlihat, tetapi hari ini tidak terlihat."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Partikel",
+      "Perbandingan/Kontras"
+    ]
+  },
+  {
+    "id": "m_bab27_6",
+    "chapter": "Bab 27",
+    "level": "N4",
+    "title": "助詞 ＋ は",
+    "meaning": "Jika partikel は (sebagai topik) dibubuhkan pada Kata Benda yang sudah disertai partikel lain (selain が dan を), maka partikel は dibubuhkan di belakangnya (misal: には, では, からは).",
+    "formula_template": "{A} Partikel (selain が/を) は",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} Partikel (selain が/を) は' untuk menyatakan: Jika partikel は (sebagai topik) dibubuhkan pada Kata Benda yang sudah disertai partikel lain (selain が dan を),. Pastikan 'A' mewakili Kata Benda.",
+    "ui_notes": "Jika partikel aslinya adalah が atau を, partikel tersebut dihilangkan dan diganti langsung dengan は.",
+    "examples": [
+      {
+        "jp": "日本では馬を見ることができません。",
+        "id": "Di Jepang tidak bisa melihat kuda."
+      },
+      {
+        "jp": "天気のいい日には海が見えるんです。",
+        "id": "Pada hari yang bercuaca baik, laut terlihat."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Partikel",
+      "Topikalisasi"
+    ]
+  }
+]

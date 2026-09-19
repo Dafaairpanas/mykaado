@@ -1,0 +1,177 @@
+[
+  {
+    "id": "m_bab48_1",
+    "chapter": "Bab 48",
+    "level": "N4",
+    "title": "使役A(BKausatif)",
+    "meaning": "Digunakan untuk menyatakan paksaan (menyuruh) atau persetujuan (membiarkan/mengizinkan) seseorang melakukan sesuatu. Kata Kerja Kausatif dikonjugasi sebagai Kata Kerja Kelompok II.",
+    "formula_template": "Gol I: [i] -> [a]せます/せる | Gol II: ~ます -> ~させます/させる | Gol III: きます -> こさせます/こさせる, します -> させます/させる",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'Gol I: [i] -> [a]せます/せる | Gol II: ~ます -> ~させます/させる | Gol III: きます -> こさせます/こさせる, します -> させます/させる' untuk menyatakan: Digunakan untuk menyatakan paksaan (menyuruh) atau persetujuan (membiarkan/mengizinkan) seseorang melakukan se.",
+    "ui_notes": "Umumnya digunakan oleh orang yang posisinya di atas terhadap orang di bawahnya (orang tua ke anak, atasan ke bawahan). JANGAN digunakan kepada orang yang lebih tinggi posisinya atau setara yang tidak bisa kita paksa/izinkan.",
+    "examples": [
+      {
+        "jp": "部長は 部下に コピーさせました。",
+        "id": "Kepala bagian menyuruh bawahannya memfotokopi."
+      },
+      {
+        "jp": "母は 子どもに 部屋を 掃除させました。",
+        "id": "Ibu menyuruh anak membersihkan kamar."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Perubahan Bentuk"
+    ]
+  },
+  {
+    "id": "m_bab48_2",
+    "chapter": "Bab 48",
+    "level": "N4",
+    "title": "A（人） を B（使役形：自C）",
+    "meaning": "Pola kalimat kausatif jika kata kerja asalnya adalah Kata Kerja Intransitif (tidak memerlukan objek). Pelaku yang disuruh/diizinkan ditunjuk dengan partikel を.",
+    "formula_template": "{A} は {B} を {C}Intransitif Kausatif",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "C": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は {B} を {C}Intransitif Kausatif' untuk menyatakan: Pola kalimat kausatif jika kata kerja asalnya adalah Kata Kerja Intransitif (tidak memerlukan objek). Pelaku y. Pastikan 'A' mewakili Kata Benda 1 (Penyuruh), 'B' mewakili Kata Benda 2 (Pelaku), 'C' mewakili Kata Kerja.",
+    "ui_notes": "[Perhatian] Jika Kata Kerja Intransitif tersebut sudah menggunakan 'Kata Benda (tempat) を' (misal: みちをあるく), maka pelaku yang disuruh dinyatakan dengan に agar partikel を tidak ganda. (Contoh: わたしは子どもに道の右側を歩かせます。)",
+    "examples": [
+      {
+        "jp": "部長はミラーさんをアメリカへ出張させます。",
+        "id": "Kepala Bagian menyuruh sdr. Miller dinas ke Amerika Serikat."
+      },
+      {
+        "jp": "わたしは娘を自由に遊ばせました。",
+        "id": "Saya membiarkan anak perempuan saya bermain dengan bebas."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Kausatif Intransitif"
+    ]
+  },
+  {
+    "id": "m_bab48_3",
+    "chapter": "Bab 48",
+    "level": "N4",
+    "title": "A1（人） に B2 を C（使役形：他D）",
+    "meaning": "Pola kalimat kausatif jika kata kerja asalnya adalah Kata Kerja Transitif (sudah memiliki objek dengan を). Pelaku yang disuruh/diizinkan ditunjuk dengan partikel に.",
+    "formula_template": "{A} は {B} に {C} を {D}Transitif Kausatif",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "D": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は {B} に {C} を {D}Transitif Kausatif' untuk menyatakan: Pola kalimat kausatif jika kata kerja asalnya adalah Kata Kerja Transitif (sudah memiliki objek dengan を). Pel. Pastikan 'A' mewakili Kata Benda (Penyuruh), 'B' mewakili Kata Benda 1 (Pelaku), 'C' mewakili Kata Benda 2 (Objek), 'D' mewakili Kata Kerja.",
+    "ui_notes": "Untuk menyatakan permintaan dari bawahan ke atasan, gunakan ~ていただきます atau ~てもらいます, BUKAN bentuk kausatif. (Benar: 部長に説明していただきました; Salah: 部長を説明させました).",
+    "examples": [
+      {
+        "jp": "朝は忙しいですから、娘に朝ごはんの準備を手伝わせます。",
+        "id": "Karena pagi hari sibuk, saya menyuruh anak perempuan saya membantu saya untuk mempersiapkan sarapan."
+      },
+      {
+        "jp": "先生は生徒に自由に意見を言わせました。",
+        "id": "Guru membiarkan siswanya untuk mengutarakan pendapat secara bebas."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Kausatif Transitif"
+    ]
+  },
+  {
+    "id": "m_bab48_4",
+    "chapter": "Bab 48",
+    "level": "N4",
+    "title": "使役A形 いただけませんか",
+    "meaning": "Ungkapan untuk meminta persetujuan/izin akan perbuatan sendiri secara sopan (Tolong izinkan saya ~ / Minta agar saya dibiarkan ~).",
+    "formula_template": "{A}Kausatif (Bentuk て) いただけませんか",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}Kausatif (Bentuk て) いただけませんか' untuk menyatakan: Ungkapan untuk meminta persetujuan/izin akan perbuatan sendiri secara sopan (Tolong izinkan saya ~ / Minta aga. Pastikan 'A' mewakili Kata Kerja.",
+    "ui_notes": "Perbedaan dengan ～ていただけませんか (Pel.26): Pada '紹介していただけませんか' (Pel.26), pelakunya adalah lawan bicara. Pada '帰らせていただけませんか' (Pel.48), pelakunya adalah si pembicara sendiri.",
+    "examples": [
+      {
+        "jp": "友達の結婚式があるので、早く帰らせていただけませんか。",
+        "id": "Mohon izinkan saya pulang cepat sebab ada pesta pernikahan teman?"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Meminta Izin Sopan"
+    ]
+  }
+]

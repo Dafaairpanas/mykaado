@@ -1,0 +1,213 @@
+[
+  {
+    "id": "m_bab24_1",
+    "chapter": "Bab 24",
+    "level": "N5",
+    "title": "くれます",
+    "meaning": "Digunakan jika orang lain yang memberikan sesuatu kepada pembicara (diri sendiri) atau keluarga si pembicara. Berbeda dengan あげます yang tidak bisa digunakan untuk konteks ini.",
+    "formula_template": "{A} ({B} lain) は {C} (Saya/Keluarga) に {D}を くれます",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ({B} lain) は {C} (Saya/Keluarga) に {D}を くれます' untuk menyatakan: Digunakan jika orang lain yang memberikan sesuatu kepada pembicara (diri sendiri) atau keluarga si pembicara. . Pastikan 'A' mewakili Pemberi, 'B' mewakili Orang, 'C' mewakili Penerima, 'D' mewakili Kata Benda.",
+    "ui_notes": "Kata あげます tidak dapat dipakai jika orang lain memberikan sesuatu kepada kita.",
+    "examples": [
+      {
+        "jp": "佐藤さんは わたしに クリスマスカードを くれました。",
+        "id": "Sdr. Sato memberikan saya kartu Natal."
+      },
+      {
+        "jp": "佐藤さんは 妹に お菓子を くれました。",
+        "id": "Sdr. Sato memberikan adik kue."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Kerja",
+      "Memberi (ke saya)"
+    ]
+  },
+  {
+    "id": "m_bab24_2",
+    "chapter": "Bab 24",
+    "level": "N5",
+    "title": "ABentuk て あげます",
+    "meaning": "Dipakai ketika menunjukkan bahwa perbuatan tersebut memberikan kebaikan atau keuntungan dari pelaku (subjek) kepada orang lain.",
+    "formula_template": "{A} あげます",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} あげます' untuk menyatakan: Dipakai ketika menunjukkan bahwa perbuatan tersebut memberikan kebaikan atau keuntungan dari pelaku (subjek) k. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Perlu hati-hati menggunakan ungkapan ini kepada atasan karena memberi kesan memaksa orang untuk menerima kebaikan. Untuk atasan lebih baik gunakan ~ましょうか.",
+    "examples": [
+      {
+        "jp": "わたしは 木村さんに 本を 貸して あげました。",
+        "id": "Saya meminjamkan Sdr. Kimura buku."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Kerja",
+      "Membantu/Melakukan untuk orang lain"
+    ]
+  },
+  {
+    "id": "m_bab24_3",
+    "chapter": "Bab 24",
+    "level": "N5",
+    "title": "ABentuk て もらいます",
+    "meaning": "Menunjukkan bahwa si penerima bantuan dijadikan subjek dan dengan perbuatan itu si pembicara (atau subjek) menerima kebaikan/keuntungan dari orang lain.",
+    "formula_template": "{A} もらいます",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} もらいます' untuk menyatakan: Menunjukkan bahwa si penerima bantuan dijadikan subjek dan dengan perbuatan itu si pembicara (atau subjek) men. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Jika subjeknya わたし, biasanya subjek itu dihilangkan.",
+    "examples": [
+      {
+        "jp": "わたしは 山田さんに 図書館の 電話番号を 教えて もらいました。",
+        "id": "Saya diberikan nomor telepon perpustakaan oleh Sdr. Yamada."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Kerja",
+      "Menerima perbuatan baik"
+    ]
+  },
+  {
+    "id": "m_bab24_4",
+    "chapter": "Bab 24",
+    "level": "N5",
+    "title": "ABentuk て くれます",
+    "meaning": "Menunjukkan bahwa pelaku dijadikan subjek dan dengan perbuatan itu si pembicara dianggap sebagai penerima kebaikan atau keuntungan.",
+    "formula_template": "{A} くれます",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} くれます' untuk menyatakan: Menunjukkan bahwa pelaku dijadikan subjek dan dengan perbuatan itu si pembicara dianggap sebagai penerima keba. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Penerima perbuatan biasanya わたし, dan partikel penunjuk penerima seperti わたしに, わたしを, atau わたしの sering dihilangkan.",
+    "examples": [
+      {
+        "jp": "母は ［わたしに］ セーターを 送って くれました。",
+        "id": "Ibu saya mengirimkan saya sweater."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Kerja",
+      "Orang lain melakukan untuk saya"
+    ]
+  },
+  {
+    "id": "m_bab24_5",
+    "chapter": "Bab 24",
+    "level": "N5",
+    "title": "A は B が C",
+    "meaning": "Pola ini digunakan ketika objek dari sebuah kalimat (Kata Benda1) dijadikan sebagai topik pembicaraan. Subjek pelaku (Kata Benda2) kemudian ditandai dengan partikel が.",
+    "formula_template": "{A} は {B} が {C}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "C": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は {B} が {C}' untuk menyatakan: Pola ini digunakan ketika objek dari sebuah kalimat (Kata Benda1) dijadikan sebagai topik pembicaraan. Subjek . Pastikan 'A' mewakili Kata Benda1 (Objek/Topik), 'B' mewakili Kata Benda2 (Subjek/Pelaku), 'C' mewakili Kata Kerja.",
+    "ui_notes": "Topik (Kata Benda1 は) dapat dihilangkan jika sudah saling dipahami oleh pembicara dan lawan bicara.",
+    "examples": [
+      {
+        "jp": "おいしい ワインですね。……ええ、［この ワインは］ 佐藤さんが くれました。",
+        "id": "Anggur yang enak ya. ……Ya, [anggur ini] Sdr. Sato yang berikan."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Partikel",
+      "Topik Objek"
+    ]
+  }
+]

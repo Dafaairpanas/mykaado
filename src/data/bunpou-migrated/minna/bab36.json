@@ -1,0 +1,174 @@
+[
+  {
+    "id": "m_bab36_1",
+    "chapter": "Bab 36",
+    "level": "N4",
+    "title": "A／ない形 ように、B",
+    "meaning": "Menunjukkan tujuan dari Kata Kerja di belakangnya untuk mencapai keadaan yang dinyatakan oleh ～ように (Supaya / Agar).",
+    "formula_template": "{A} ように、{B}",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ように、{B}' untuk menyatakan: Menunjukkan tujuan dari Kata Kerja di belakangnya untuk mencapai keadaan yang dinyatakan oleh ～ように (Supaya / A. Pastikan 'A' mewakili Kata Kerja 1 (Bentuk Kamus / Bentuk ない), 'B' mewakili Kata Kerja 2.",
+    "ui_notes": "Sebelum ように, digunakan Kata Kerja yang bukan menyatakan keinginan/kesengajaan (Contoh: Kata Kerja Potensial, わかります, みえます, きこえます, なります, dll), atau Kata Kerja Bentuk Negatif.",
+    "examples": [
+      {
+        "jp": "速く泳げるように、毎日練習しています。",
+        "id": "Setiap hari (saya) berlatih agar bisa berenang dengan cepat."
+      },
+      {
+        "jp": "忘れないように、メモしてください。",
+        "id": "Tolong dicatat supaya tidak lupa."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Tujuan/Harapan"
+    ]
+  },
+  {
+    "id": "m_bab36_2",
+    "chapter": "Bab 36",
+    "level": "N4",
+    "title": "A ようになります",
+    "meaning": "Menyatakan perubahan dari keadaan tidak bisa menjadi keadaan bisa (menjadi bisa). Jika digunakan dengan kata kerja biasa (bukan potensial), bermakna mendapat kebiasaan baru yang sebelumnya tidak ada.",
+    "formula_template": "{A} ようになります",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ようになります' untuk menyatakan: Menyatakan perubahan dari keadaan tidak bisa menjadi keadaan bisa (menjadi bisa). Jika digunakan dengan kata k. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus).",
+    "ui_notes": "Jika menjawab dengan \"Tidak (いいえ)\" untuk pertanyaan ～ようになりましたか, gunakan \"まだ + Kata Kerja Bentuk Negatif\" (contoh: まだ弾けません).",
+    "examples": [
+      {
+        "jp": "毎日練習すれば、泳げるようになります。",
+        "id": "Kalau setiap hari berlatih, bisa berenang."
+      },
+      {
+        "jp": "やっと自転車に乗れるようになりました。",
+        "id": "Akhirnya bisa bersepeda."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Perubahan Kemampuan/Kebiasaan"
+    ]
+  },
+  {
+    "id": "m_bab36_3",
+    "chapter": "Bab 36",
+    "level": "N4",
+    "title": "A／ない形 ように します",
+    "meaning": "～ようにしています menyatakan bahwa seseorang berusaha untuk melakukan (atau tidak melakukan) suatu aksi secara berkesinambungan (kebiasaan). ～ようにしてください adalah ekspresi untuk meminta orang lain agar berusaha mencapai suatu aksi secara halus (lebih halus dari ～てください).",
+    "formula_template": "{A} ようにします / ようにしています / ようにしてください",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ようにします / ようにしています / ようにしてください' untuk menyatakan: ～ようにしています menyatakan bahwa seseorang berusaha untuk melakukan (atau tidak melakukan) suatu aksi secara berkesi. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus / Bentuk ない).",
+    "ui_notes": "Pola ～ようにしてください tidak dapat digunakan untuk permintaan yang harus dilakukan pada saat itu juga (contoh salah: すみませんが、塩を取るようにしてください).",
+    "examples": [
+      {
+        "jp": "毎日運動して、何でも食べるようにしています。",
+        "id": "Setiap hari berolahraga dan berusaha untuk makan apa saja."
+      },
+      {
+        "jp": "歯に悪いですから、甘い物を食べないようにしています。",
+        "id": "Karena tidak baik untuk gigi, maka berusaha tidak makan makanan manis."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Usaha/Permintaan Halus"
+    ]
+  },
+  {
+    "id": "m_bab36_4",
+    "chapter": "Bab 36",
+    "level": "N4",
+    "title": "形容詞 → 副詞 (～く ／ ～に)",
+    "meaning": "Jika Kata Sifat menerangkan Kata Sifat atau Kata Kerja lain (berfungsi sebagai kata keterangan/adverbia), ubah Kata Sifat い menjadi ～く, dan Kata Sifat な menjadi ～に.",
+    "formula_template": "{A} く / {B} に {C}",
+    "variables": {
+      "A": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} く / {B} に {C}' untuk menyatakan: Jika Kata Sifat menerangkan Kata Sifat atau Kata Kerja lain (berfungsi sebagai kata keterangan/adverbia), ubah. Pastikan 'A' mewakili Kata Sifat い (hilangkan い), 'B' mewakili Kata Sifat な (hilangkan な), 'C' mewakili Kata Kerja.",
+    "ui_notes": "Contoh: 早い -> 早く, 上手な -> 上手に.",
+    "examples": [
+      {
+        "jp": "早く上手にお茶がたてられるようになりたいです。",
+        "id": "(Saya) ingin menjadi cepat pandai membuat teh."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Perubahan Kata",
+      "Kata Keterangan/Adverbia"
+    ]
+  }
+]

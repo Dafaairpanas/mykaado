@@ -1,0 +1,184 @@
+[
+  {
+    "id": "n3_bab07_1",
+    "chapter": "Bab 07",
+    "level": "N3",
+    "title": "〜ばかり",
+    "meaning": "melulu",
+    "formula_template": "[{A}(coret だ) / {B}て / {C}てばかりいる] ばかり",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}(coret だ) / {B}て / {C}てばかりいる] ばかり' untuk mengekspresikan: melulu.",
+    "ui_notes": "melulu",
+    "examples": [
+      {
+        "jp": "この店のお客さんは女性ばかりです。",
+        "id": "customer toko ini perempuan melulu (yang datang perempuan terus)"
+      },
+      {
+        "jp": "弟は、テレビを見てばかりいる。",
+        "id": "adik saya nonton tv melulu (nonton tv terus-terusan)"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab07_2",
+    "chapter": "Bab 07",
+    "level": "N3",
+    "title": "〜だけしか",
+    "meaning": "untuk memberi penekanan pada kata \"hanya\"",
+    "formula_template": "{A}だけしか {B}ない",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}だけしか {B}ない' untuk mengekspresikan: untuk memberi penekanan pada kata \"hanya\".",
+    "ui_notes": "untuk memberi penekanan pada kata \"hanya\"",
+    "examples": [
+      {
+        "jp": "このコンサートは、会員だけしか入れません。",
+        "id": "konser ini hanya bisa dimasuki (ditonton) oleh member saja"
+      },
+      {
+        "jp": "今日はお客様が一人だけしか来ませんでした。",
+        "id": "hari ini customer yang datang hanya satu orang saja"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab07_3",
+    "chapter": "Bab 07",
+    "level": "N3",
+    "title": "〜さえ",
+    "meaning": "sering digunakan dalam kalimat yang mempunyai kesan negatif; ✓ biasanya pembicara merasa kesal, heran, tidak habis pikir",
+    "formula_template": "[{A}/ {B}に / {C}で] さえ",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}/ {B}に / {C}で] さえ' untuk mengekspresikan: sering digunakan dalam kalimat yang mempunyai kesan negatif; ✓ biasanya pembicara merasa kesal, heran, tidak h.",
+    "ui_notes": "sering digunakan dalam kalimat yang mempunyai kesan negatif; ✓ biasanya pembicara merasa kesal, heran, tidak habis pikir",
+    "examples": [
+      {
+        "jp": "そんなこと、子どもでさえ知っている。",
+        "id": "hal seperti itu anak kecil pun tahu"
+      },
+      {
+        "jp": "ひらがなさ particulate/え書けないんですから、漢字なんて書けません。",
+        "id": "menulis hiragana saja tidak bisa, apalagi huruf kanji"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab07_4",
+    "chapter": "Bab 07",
+    "level": "N3",
+    "title": "〜こそ",
+    "meaning": "digunakan untuk memberi penekanan; ✓ biasanya tidak digunakan dalam kalimat yang bernuansa negatif",
+    "formula_template": "{A}こそ / 〜からこそ (alasan)",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}こそ / 〜からこそ (alasan)' untuk mengekspresikan: digunakan untuk memberi penekanan; ✓ biasanya tidak digunakan dalam kalimat yang bernuansa negatif.",
+    "ui_notes": "digunakan untuk memberi penekanan; ✓ biasanya tidak digunakan dalam kalimat yang bernuansa negatif",
+    "examples": [
+      {
+        "jp": "辛い時こそ、大切なことを学べるチャンスだ。",
+        "id": "justru di masa-masa sulit lah kesempatan bisa mempelajari hal-hal penting"
+      },
+      {
+        "jp": "愛情があるからこそ、しかるんです。",
+        "id": "justru karena ada rasa sayang, makanya marah"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

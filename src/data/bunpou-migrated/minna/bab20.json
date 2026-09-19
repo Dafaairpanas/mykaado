@@ -1,0 +1,244 @@
+[
+  {
+    "id": "m_bab20_1",
+    "chapter": "Bab 20",
+    "level": "N5",
+    "title": "Bentuk Sopan dan Bentuk Biasa",
+    "meaning": "Bentuk kalimat yang diakhiri です, ます disebut bentuk sopan, dipakai untuk atasan atau orang yang baru dikenal. Bentuk yang dipakai pada kalimat biasa (kasual) disebut bentuk biasa, digunakan untuk teman akrab, rekan, atau keluarga.",
+    "formula_template": "Bentuk Sopan (です/ます) -> Bentuk Biasa (Kamus/ない/た/だ)",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'Bentuk Sopan (です/ます) -> Bentuk Biasa (Kamus/ない/た/だ)' untuk menyatakan: Bentuk kalimat yang diakhiri です, ます disebut bentuk sopan, dipakai untuk atasan atau orang yang baru dikenal. B.",
+    "ui_notes": "Pada umumnya, surat tertulis dalam bentuk sopan. Untuk makalah, laporan, dan catatan harian dipakai bentuk biasa.",
+    "examples": [
+      {
+        "jp": "あした 東京へ 行きます。 -> あした 東京へ 行く。",
+        "id": "Besok pergi ke Tokyo."
+      },
+      {
+        "jp": "毎日 忙しいです。 -> 毎日 忙しい。",
+        "id": "Setiap hari sibuk."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Gaya Bahasa",
+      "Bentuk Biasa"
+    ]
+  },
+  {
+    "id": "m_bab20_2",
+    "chapter": "Bab 20",
+    "level": "N5",
+    "title": "ATanya Bentuk Biasa",
+    "meaning": "Dalam kalimat tanya dengan bentuk biasa, pada umumnya partikel か tidak dibubuhkan pada akhir kalimat, tetapi diungkapkan dengan nada yang naik pada suku kata terakhir.",
+    "formula_template": "Bentuk Biasa (Intonasi Naik / ➚)",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'Bentuk Biasa (Intonasi Naik / ➚)' untuk menyatakan: Dalam kalimat tanya dengan bentuk biasa, pada umumnya partikel か tidak dibubuhkan pada akhir kalimat, tetapi d.",
+    "ui_notes": "Dalam kalimat tanya dengan bentuk biasa, pada umumnya partikel か tidak dibubuhkan pada akhir kalimat, tetapi diungkapkan dengan nada yang naik pada suku kata terakhir.",
+    "examples": [
+      {
+        "jp": "コーヒーを 飲む？ (➚)",
+        "id": "Mau minum kopi?"
+      },
+      {
+        "jp": "……うん、飲む。 (➘)",
+        "id": "……Ya, mau minum."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kalimat Tanya",
+      "Percakapan Kasual"
+    ]
+  },
+  {
+    "id": "m_bab20_3",
+    "chapter": "Bab 20",
+    "level": "N5",
+    "title": "ATanya B/ C",
+    "meaning": "Dalam kalimat tanya dari Kata Benda atau Kata Sifat Bentuk な, bentuk biasa だ (dari です) dihilangkan. Untuk jawaban positif, だ sering dihilangkan atau ditambahkan partikel penutup (seperti よ/ね) demi menghaluskan nada ungkapan.",
+    "formula_template": "{A}/ {B} (tanpa だ) ?",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}/ {B} (tanpa だ) ?' untuk menyatakan: Dalam kalimat tanya dari Kata Benda atau Kata Sifat Bentuk な, bentuk biasa だ (dari です) dihilangkan. Untuk jawa. Pastikan 'A' mewakili Kata Benda, 'B' mewakili Kata Sifat な.",
+    "ui_notes": "Jika dijawab dengan bentuk だ saja (tanpa partikel akhir), memberi kesan kasar dan keras.",
+    "examples": [
+      {
+        "jp": "今晩 暇？",
+        "id": "Nanti malam luang?"
+      },
+      {
+        "jp": "……うん、暇／暇だ／暇だよ。",
+        "id": "……Ya, luang. (digunakan oleh pria/wanita)"
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Benda",
+      "Kata Sifat な"
+    ]
+  },
+  {
+    "id": "m_bab20_4",
+    "chapter": "Bab 20",
+    "level": "N5",
+    "title": "Penghilangan Partikel",
+    "meaning": "Dalam kalimat bentuk biasa, jika sudah dapat mengerti hubungan dari konteks kalimat sebelum dan sesudahnya, maka partikel seperti を, へ, は, atau が adakalanya dihilangkan.",
+    "formula_template": "{A} (Partikel Dihilangkan) {B}/ {C}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} (Partikel Dihilangkan) {B}/ {C}' untuk menyatakan: Dalam kalimat bentuk biasa, jika sudah dapat mengerti hubungan dari konteks kalimat sebelum dan sesudahnya, ma. Pastikan 'A' mewakili Kata Benda, 'B' mewakili Kata Kerja, 'C' mewakili Kata Sifat.",
+    "ui_notes": "Partikel で, に, から, まで, dan と tidak dihilangkan sebab konteksnya bisa menjadi tidak jelas.",
+    "examples": [
+      {
+        "jp": "ごはん［を］ 食べる？",
+        "id": "Mau makan?"
+      },
+      {
+        "jp": "あした 京都［へ］ 行かない？",
+        "id": "Bagaimana kalau besok ke Kyoto?"
+      }
+    ],
+    "tags": [
+      "N5",
+      "Partikel",
+      "Percakapan Kasual"
+    ]
+  },
+  {
+    "id": "m_bab20_5",
+    "chapter": "Bab 20",
+    "level": "N5",
+    "title": "Penghilangan い pada ABentuk ている",
+    "meaning": "Dalam percakapan bentuk biasa, huruf い dari Kata Kerja Bentuk ている (yang menunjukkan keadaan/sedang berlangsung) sering dihilangkan menjadi てる.",
+    "formula_template": "{A} る / ない (menghilangkan い)",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} る / ない (menghilangkan い)' untuk menyatakan: Dalam percakapan bentuk biasa, huruf い dari Kata Kerja Bentuk ている (yang menunjukkan keadaan/sedang berlangsung. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Dalam percakapan bentuk biasa, huruf い dari Kata Kerja Bentuk ている (yang menunjukkan keadaan/sedang berlangsung) sering dihilangkan menjadi てる.",
+    "examples": [
+      {
+        "jp": "辞書、持って ［い］る？",
+        "id": "Punya kamus?"
+      },
+      {
+        "jp": "……うん、持って ［い］る。",
+        "id": "……Ya, punya."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Kerja",
+      "Bentuk Singkat"
+    ]
+  },
+  {
+    "id": "m_bab20_6",
+    "chapter": "Bab 20",
+    "level": "N5",
+    "title": "けど",
+    "meaning": "けど mempunyai fungsi yang sama dengan partikel が (sebagai kata sambung 'tetapi' atau pembuka pembicaraan), dan sering digunakan dalam percakapan sehari-hari.",
+    "formula_template": "{A} (Bentuk Biasa) けど、 {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} (Bentuk Biasa) けど、 {B}' untuk menyatakan: けど mempunyai fungsi yang sama dengan partikel が (sebagai kata sambung 'tetapi' atau pembuka pembicaraan), dan . Pastikan 'A' mewakili Kalimat 1, 'B' mewakili Kalimat 2.",
+    "ui_notes": "けど mempunyai fungsi yang sama dengan partikel が (sebagai kata sambung 'tetapi' atau pembuka pembicaraan), dan sering digunakan dalam percakapan sehari-hari.",
+    "examples": [
+      {
+        "jp": "その カレー［は］ おいしい？ ……うん、辛いけど、おいしい。",
+        "id": "Kare itu enak? ……Ya, pedas, tetapi enak."
+      },
+      {
+        "jp": "相撲の チケット［が］ あるけど、いっしょに 行かない？",
+        "id": "Punya tiket sumo, bagaimana kalau kita pergi sama-sama?"
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Sambung",
+      "Percakapan Kasual"
+    ]
+  }
+]

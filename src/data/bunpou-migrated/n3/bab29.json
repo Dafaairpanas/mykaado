@@ -1,0 +1,300 @@
+[
+  {
+    "id": "n3_bab29_1",
+    "chapter": "Bab 29",
+    "level": "N3",
+    "title": "たとえ〜ても",
+    "meaning": "たとえ〜ても",
+    "formula_template": "たとえ {A}ても / {B} 〜くても / {C} 〜でも / {D}でも.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'たとえ {A}ても / {B} 〜くても / {C} 〜でも / {D}でも.' untuk mengekspresikan: たとえ〜ても.",
+    "ui_notes": "たとえ〜ても",
+    "examples": [
+      {
+        "jp": "たとえ反対されても留学します。",
+        "id": "Meskipun ditentang, saya tetap akan kuliah di luar negeri."
+      },
+      {
+        "jp": "たとえ元気じゃなくても、家族への手紙には元気だと書きます。",
+        "id": "Meskipun sedang tidak sehat, di surat untuk keluarga saya tulis saya sehat-sehat saja."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pengandaian",
+      "Konjungsi"
+    ]
+  },
+  {
+    "id": "n3_bab29_2",
+    "chapter": "Bab 29",
+    "level": "N3",
+    "title": "もしかすると〜",
+    "meaning": "もしかすると〜",
+    "formula_template": "もしかすると／もしかしたら {A}/{B}(biasa) / {C} / {D} かもしれない.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'もしかすると／もしかしたら {A}/{B}(biasa) / {C} / {D} かもしれない.' untuk mengekspresikan: もしかすると〜.",
+    "ui_notes": "もしかすると〜",
+    "examples": [
+      {
+        "jp": "もしかすると彼の話はうそかもしれない。",
+        "id": "Bisa jadi ceritanya itu bohong."
+      },
+      {
+        "jp": "もしかしたら、明日行けないかもしれません。",
+        "id": "Mungkin saja besok saya tidak bisa pergi."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pengandaian",
+      "Konjungsi"
+    ]
+  },
+  {
+    "id": "n3_bab29_3",
+    "chapter": "Bab 29",
+    "level": "N3",
+    "title": "〜とは限（かぎ）らない",
+    "meaning": "Dalam bhs Indo: \"belum tentu...\", \"tidak selalu...\", \"tidak pasti...\". ※ bisa juga digunakan dengan いつも／全部／だれでも.",
+    "formula_template": "必ずしも {A}/{B}(biasa) / {C} だ / {D}だ 〜とは限（かぎ）らない.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '必ずしも {A}/{B}(biasa) / {C} だ / {D}だ 〜とは限（かぎ）らない.' untuk mengekspresikan: Dalam bhs Indo: \"belum tentu...\", \"tidak selalu...\", \"tidak pasti...\". ※ bisa juga digunakan dengan いつも／全部／だれで.",
+    "ui_notes": "Dalam bhs Indo: \"belum tentu...\", \"tidak selalu...\", \"tidak pasti...\". ※ bisa juga digunakan dengan いつも／全部／だれでも.",
+    "examples": [
+      {
+        "jp": "金持ちが必ずしも幸福だとは限らない。",
+        "id": "Orang kaya belum tentu bahagia."
+      },
+      {
+        "jp": "高いものが必ずしもいいものだとは限らない。",
+        "id": "Barang mahal belum tentu barang bagus."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pengandaian",
+      "Konjungsi"
+    ]
+  },
+  {
+    "id": "n3_bab29_4",
+    "chapter": "Bab 29",
+    "level": "N3",
+    "title": "まるで〜ようだ",
+    "meaning": "Mengibaratkan suatu hal (\"ibarat\", \"seakan-akan\").",
+    "formula_template": "まるで {A}(biasa) / {B}の よう ／ まるで {C}/{D}(biasa) / {V4} / {V5} みたい.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "C": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "D": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V4": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V5": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'まるで {A}(biasa) / {B}の よう ／ まるで {C}/{D}(biasa) / {V4} / {V5} みたい.' untuk mengekspresikan: Mengibaratkan suatu hal (\"ibarat\", \"seakan-akan\")..",
+    "ui_notes": "Mengibaratkan suatu hal (\"ibarat\", \"seakan-akan\").",
+    "examples": [
+      {
+        "jp": "合格した！まるで夢のようだ。",
+        "id": "Aku lulus! Rasanya seperti mimpi."
+      },
+      {
+        "jp": "彼の日本語はまるで日本人が話しているみたいに聞こえる。",
+        "id": "Bahasa Jepangnya terdengar persis seperti orang Jepang asli yang berbicara."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pengandaian",
+      "Konjungsi"
+    ]
+  },
+  {
+    "id": "n3_bab29_5",
+    "chapter": "Bab 29",
+    "level": "N3",
+    "title": "だけど",
+    "meaning": "Sering digunakan dalam bahasa kasual, informal. Mempunyai makna sama seperti 「けれども」「しかし」.",
+    "formula_template": "{A} は だけど です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は だけど です' untuk mengekspresikan: Sering digunakan dalam bahasa kasual, informal. Mempunyai makna sama seperti 「けれども」「しかし」..",
+    "ui_notes": "Sering digunakan dalam bahasa kasual, informal. Mempunyai makna sama seperti 「けれども」「しかし」.",
+    "examples": [
+      {
+        "jp": "旅行に行きたい。だけどひまがない。",
+        "id": "Saya ingin pergi liburan. Tetapi tidak punya waktu luang."
+      },
+      {
+        "jp": "よくカラオケに行く。だけど歌は下手だ。",
+        "id": "Saya sering pergi karaoke. Namun suara saya jelek."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pengandaian",
+      "Konjungsi"
+    ]
+  }
+]

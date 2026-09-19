@@ -1,0 +1,300 @@
+[
+  {
+    "id": "n3_bab24_1",
+    "chapter": "Bab 24",
+    "level": "N3",
+    "title": "〜んだって",
+    "meaning": "Umumnya hanya digunakan dalam bahasa lisan. ※ bisa juga `〜までだって／〜からだって／〜だけだって`. ※ perempuan sering menggunakan `〜ですって`.",
+    "formula_template": "{A}(biasa) / {B}(biasa) / {C} な / {D}な (んだ)って.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}(biasa) / {B}(biasa) / {C} な / {D}な (んだ)って.' untuk mengekspresikan: Umumnya hanya digunakan dalam bahasa lisan. ※ bisa juga `〜までだって／〜からだって／〜だけだって`. ※ perempuan sering menggunakan.",
+    "ui_notes": "Umumnya hanya digunakan dalam bahasa lisan. ※ bisa juga `〜までだって／〜からだって／〜だけだって`. ※ perempuan sering menggunakan `〜ですって`.",
+    "examples": [
+      {
+        "jp": "A:「田中さん、結婚してるんだって。」 B:「へー、知らなかった。」",
+        "id": "A: \"Katanya Tanaka-san sudah menikah lho.\" B: \"Wah, aku tidak tahu.\""
+      },
+      {
+        "jp": "試験の範囲は、教科書の最初から50ページまでだって。。",
+        "id": "Katanya cakupan ujian dari awal buku teks sampai halaman 50."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab24_2",
+    "chapter": "Bab 24",
+    "level": "N3",
+    "title": "〜だもん",
+    "meaning": "Bahasa santai yang sering digunakan oleh anak kecil (tapi orang dewasa juga bisa pakai). ※ bisa digunakan dengan `だって・・・〜(んだ)もん`.",
+    "formula_template": "{A}(biasa) / {B}(biasa) / {C} な / {D}な (んだ)もん.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}(biasa) / {B}(biasa) / {C} な / {D}な (んだ)もん.' untuk mengekspresikan: Bahasa santai yang sering digunakan oleh anak kecil (tapi orang dewasa juga bisa pakai). ※ bisa digunakan deng.",
+    "ui_notes": "Bahasa santai yang sering digunakan oleh anak kecil (tapi orang dewasa juga bisa pakai). ※ bisa digunakan dengan `だって・・・〜(んだ)もん`.",
+    "examples": [
+      {
+        "jp": "A:「どうして食べないの？」 B:「だって、まずいんだもん。」",
+        "id": "A: \"Kenapa tidak dimakan?\" B: \"Habisnya tidak enak sih.\""
+      },
+      {
+        "jp": "今日の試験、できなかった。勉強しなかったんだもん。仕方がない。",
+        "id": "Ujian hari ini tidak bisa. Habisnya tidak belajar sih, mau bagaimana lagi."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab24_3",
+    "chapter": "Bab 24",
+    "level": "N3",
+    "title": "つまり",
+    "meaning": "Menjelaskan sesuatu dengan kata-kata/penyampaian lain, menyimpulkan suatu hal.",
+    "formula_template": "{A}。つまり、{B}。",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}。つまり、{B}。' untuk mengekspresikan: Menjelaskan sesuatu dengan kata-kata/penyampaian lain, menyimpulkan suatu hal..",
+    "ui_notes": "Menjelaskan sesuatu dengan kata-kata/penyampaian lain, menyimpulkan suatu hal.",
+    "examples": [
+      {
+        "jp": "父の兄、つまり私の伯父は、医者をしている。",
+        "id": "Kakak laki-laki ayah, yaitu paman saya, berprofesi sebagai dokter."
+      },
+      {
+        "jp": "明日から会社に来なくていいと言われた。つまりクビということだ。",
+        "id": "Dikatakan mulai besok tidak perlu datang ke kantor lagi. Maksudnya adalah dipecat."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab24_4",
+    "chapter": "Bab 24",
+    "level": "N3",
+    "title": "そのため（に）",
+    "meaning": "Kata penghubung menjelaskan alasan, lebih formal daripada だから.",
+    "formula_template": "{A}。そのため（に）、{B}。",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}。そのため（に）、{B}。' untuk mengekspresikan: Kata penghubung menjelaskan alasan, lebih formal daripada だから..",
+    "ui_notes": "Kata penghubung menjelaskan alasan, lebih formal daripada だから.",
+    "examples": [
+      {
+        "jp": "隣の駅で事故があったらしい。そのために電車が遅れている。",
+        "id": "Tampaknya ada kecelakaan di stasiun sebelah. Karena itu keretanya terlambat."
+      },
+      {
+        "jp": "留学するつもりだ。そのために、バイトしてお金をためている。",
+        "id": "Saya berencana kuliah di luar negeri. Karena itu, saya bekerja paruh waktu untuk menabung uang."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab24_5",
+    "chapter": "Bab 24",
+    "level": "N3",
+    "title": "その結果（けっか）",
+    "meaning": "Menjelaskan sebab-akibat.",
+    "formula_template": "{A} は その結果（けっか） です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は その結果（けっか） です' untuk mengekspresikan: Menjelaskan sebab-akibat..",
+    "ui_notes": "Menjelaskan sebab-akibat.",
+    "examples": [
+      {
+        "jp": "父は、人の何倍も努力した。その結果、仕事で成功した。",
+        "id": "Ayah berusaha berlipat ganda dari orang lain. Hasilnya, sukses dalam pekerjaannya."
+      },
+      {
+        "jp": "ほとんど勉強しなかった。その結果、入学試験に落ちてしまった。。",
+        "id": "Hampir tidak belajar sama sekali. Akibatnya, gagal dalam ujian masuk."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab24_6",
+    "chapter": "Bab 24",
+    "level": "N3",
+    "title": "なぜなら（ば）",
+    "meaning": "Bentuk lain: なぜかというと & どうしてかというと. Sering bersama 〜から.",
+    "formula_template": "{A} は なぜなら（ば） です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は なぜなら（ば） です' untuk mengekspresikan: Bentuk lain: なぜかというと & どうしてかというと. Sering bersama 〜から..",
+    "ui_notes": "Bentuk lain: なぜかというと & どうしてかというと. Sering bersama 〜から.",
+    "examples": [
+      {
+        "jp": "来週、国に帰る予定です。なぜなら、親友の結婚式に出席するからです。",
+        "id": "Minggu depan berencana pulang ke negara asal. Alasannya adalah karena akan menghadiri pernikahan sahabat."
+      },
+      {
+        "jp": "学校を変えた。なぜかというと、ぼくのレベルのクラスがなかったから。",
+        "id": "Saya pindah sekolah. Alasannya adalah karena tidak ada kelas yang sesuai dengan level saya."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "i_bab08_1",
+    "chapter": "Bab 08",
+    "level": "A1",
+    "title": "【tempat】でV-ます ([Tempat] de V-masu)",
+    "meaning": "Pola kalimat untuk menyatakan lokasi terjadinya suatu aktivitas atau tindakan. Partikel 'で' menunjukkan tempat di mana suatu kegiatan dilakukan. Berbeda dengan 'に' yang menunjukkan lokasi keberadaan, 'で' menunjukkan lokasi aktivitas. Artinya 'melakukan [aktivitas] di [tempat]'.",
+    "formula_template": "{A} で {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} で {B}' untuk percakapan: Pola kalimat untuk menyatakan lokasi terjadinya suatu aktivitas atau tindakan. Partikel 'で' menunjukkan tempat. Pastikan 'A' mewakili Tempat, 'B' mewakili Kata Kerja.",
+    "ui_notes": "Perbedaan penting: 'で' untuk aktivitas (tempat melakukan sesuatu), 'に' untuk keberadaan (tempat benda/orang berada). Contoh: 食堂で食べます (Makan di kantin - aktivitas) vs 食堂にいます (Berada di kantin - keberadaan).",
+    "examples": [
+      {
+        "jp": "ここで着替えます。",
+        "id": "Saya berganti pakaian di sini."
+      },
+      {
+        "jp": "会議室で打ち合わせをします。",
+        "id": "Saya melakukan rapat di ruang rapat."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Tempat Kerja",
+      "Lokasi",
+      "Aktivitas",
+      "Partikel"
+    ]
+  },
+  {
+    "id": "i_bab08_2",
+    "chapter": "Bab 08",
+    "level": "A1",
+    "title": "【orang】は【tempat】にいます ([Orang] wa [tempat] ni imasu)",
+    "meaning": "Pola kalimat untuk menyatakan keberadaan seseorang atau makhluk hidup di suatu tempat. 'に' menunjukkan lokasi, dan 'います' berarti 'ada' (untuk orang/hewan). Berbeda dengan 'あります' yang digunakan untuk benda mati. Artinya '[Orang] ada di [tempat]'.",
+    "formula_template": "{A} は {B} に います",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は {B} に います' untuk percakapan: Pola kalimat untuk menyatakan keberadaan seseorang atau makhluk hidup di suatu tempat. 'に' menunjukkan lokasi,. Pastikan 'A' mewakili Orang, 'B' mewakili Tempat.",
+    "ui_notes": "Gunakan 'います' untuk orang dan hewan. Gunakan 'あります' untuk benda mati dan tanaman (meskipun tanaman hidup, secara gramatikal dianggap benda mati dalam konteks ini). Untuk pertanyaan, tambahkan 'か' di akhir: 山田さんは食堂にいますか？ (Apakah Yamada ada di kantin?).",
+    "examples": [
+      {
+        "jp": "山田さんは食堂にいます。",
+        "id": "Yamada ada di kantin."
+      },
+      {
+        "jp": "社長は事務所にいます。",
+        "id": "Presiden direktur ada di kantor."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Tempat Kerja",
+      "Keberadaan",
+      "Orang",
+      "Partikel"
+    ]
+  },
+  {
+    "id": "i_bab08_3",
+    "chapter": "Bab 08",
+    "level": "A1",
+    "title": "【benda】は【ここ/そこ/あそこ】にあります ([Benda] wa [koko/soko/asoko] ni arimasu)",
+    "meaning": "Pola kalimat untuk menyatakan letak suatu benda menggunakan kata penunjuk tempat. 'ここ' (di sini - dekat pembicara), 'そこ' (di situ - dekat lawan bicara), 'あそこ' (di sana - jauh dari keduanya). Digunakan untuk menunjukkan lokasi benda dengan lebih spesifik. Artinya '[Benda] ada di [sini/situ/sana]'.",
+    "formula_template": "{A} は {B} に あります",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は {B} に あります' untuk percakapan: Pola kalimat untuk menyatakan letak suatu benda menggunakan kata penunjuk tempat. 'ここ' (di sini - dekat pembic. Pastikan 'A' mewakili Benda, 'B' mewakili ここ/そこ/あそこ.",
+    "ui_notes": "Perbedaan: 'ここ' (ini tempat saya/bicara), 'そこ' (tempat di dekat lawan bicara), 'あそこ' (tempat jauh dari keduanya). 'どこ' (di mana) untuk pertanyaan. Contoh: はさみはどこにありますか？ (Di mana gunting?). Untuk benda di dalam ruangan, bisa gunakan 'こちら/そちら/あちら' untuk lebih sopan.",
+    "examples": [
+      {
+        "jp": "はさみはそこにあります。",
+        "id": "Gunting ada di situ."
+      },
+      {
+        "jp": "コピー機はあそこにあります。",
+        "id": "Mesin fotokopi ada di sana."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Tempat Kerja",
+      "Lokasi",
+      "Benda",
+      "Penunjuk"
+    ]
+  },
+  {
+    "id": "i_bab08_4",
+    "chapter": "Bab 08",
+    "level": "A1",
+    "title": "Nの【posisi】にあります (N no [posisi] ni arimasu)",
+    "meaning": "Pola kalimat untuk menyatakan lokasi benda secara lebih spesifik dengan menunjukkan posisi relatif terhadap benda lain. 'の' menghubungkan benda dengan posisinya. Posisi bisa berupa: 上 (ue - atas), 下 (shita - bawah), 中 (naka - dalam), 前 (mae - depan), 後ろ (ushiro - belakang), 横 (yoko - samping), dll.",
+    "formula_template": "{A} の {B} に {C} が あります",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} の {B} に {C} が あります' untuk percakapan: Pola kalimat untuk menyatakan lokasi benda secara lebih spesifik dengan menunjukkan posisi relatif terhadap be. Pastikan 'A' mewakili Benda Acuan, 'B' mewakili Posisi, 'C' mewakili Benda.",
+    "ui_notes": "Posisi yang umum: 上 (ue - atas), 下 (shita - bawah), 中 (naka - dalam), 前 (mae - depan), 後ろ (ushiro - belakang), 横 (yoko - samping), 隣 (tonari - di samping/sebelah), 間 (aida - di antara). Untuk pertanyaan, gunakan: どこにありますか？ (Di mana ada?).",
+    "examples": [
+      {
+        "jp": "引き出しの中にあります。",
+        "id": "Ada di dalam laci."
+      },
+      {
+        "jp": "机の上に置いてあります。",
+        "id": "Ada di atas meja."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Tempat Kerja",
+      "Lokasi",
+      "Posisi",
+      "Partikel"
+    ]
+  }
+]

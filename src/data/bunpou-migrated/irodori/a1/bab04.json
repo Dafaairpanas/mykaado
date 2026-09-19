@@ -1,0 +1,162 @@
+[
+  {
+    "id": "i_bab04_1",
+    "chapter": "Bab 04",
+    "level": "A1",
+    "title": "N1とN2",
+    "meaning": "Partikel 'と' berarti 'dan'. Digunakan untuk menggabungkan dua kata benda (orang, benda, tempat, dll.) dalam satu frasa. Sering digunakan saat memperkenalkan anggota keluarga atau menyebutkan dua hal sekaligus.",
+    "formula_template": "{A} と {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} と {B}' untuk percakapan: Partikel 'と' berarti 'dan'. Digunakan untuk menggabungkan dua kata benda (orang, benda, tempat, dll.) dalam sa. Pastikan 'A' mewakili Kata Benda 1, 'B' mewakili Kata Benda 2.",
+    "ui_notes": "Partikel 'と' hanya digunakan untuk menggabungkan kata benda (nomina), bukan kata kerja atau kalimat. Dalam percakapan sehari-hari, bagian akhir 'です' sering mengikuti frasa ini untuk melengkapi pernyataan.",
+    "examples": [
+      {
+        "jp": "夫と子どもです。",
+        "id": "(Itu) suami dan anak."
+      },
+      {
+        "jp": "父と母です。",
+        "id": "(Itu) ayah dan ibu."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Keluarga",
+      "Partikel"
+    ]
+  },
+  {
+    "id": "i_bab04_2",
+    "chapter": "Bab 04",
+    "level": "A1",
+    "title": "〜歳ですか？",
+    "meaning": "Pola pertanyaan untuk menanyakan usia seseorang. '〜歳' dibaca '~sai' berarti 'umur ~ tahun', dan 'ですか' adalah partikel tanya. '何歳' (nan-sai) berarti 'berapa umur'.",
+    "formula_template": "{A} 歳ですか？ / 何歳ですか？",
+    "variables": {
+      "A": {
+        "type": [
+          "counter",
+          "noun"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} 歳ですか？ / 何歳ですか？' untuk percakapan: Pola pertanyaan untuk menanyakan usia seseorang. '〜歳' dibaca '~sai' berarti 'umur ~ tahun', dan 'ですか' adalah p. Pastikan 'A' mewakili Angka.",
+    "ui_notes": "⚠️ Dalam budaya Jepang, menanyakan usia kepada orang yang lebih tua atau atasan bisa dianggap tidak sopan. Gunakan hanya jika situasinya tepat (misalnya dengan teman sebaya). Untuk usia 1, 8, 10, 20, dan pertanyaan 'berapa' ada pengecualian bacaan: 1歳 (issai), 8歳 (hassai), 10歳 (jussai/ttssai), 20歳 (hatachi), 何歳 (nan-sai).",
+    "examples": [
+      {
+        "jp": "何歳ですか？",
+        "id": "Berapa umur?"
+      },
+      {
+        "jp": "25歳です。",
+        "id": "Umur 25 tahun."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Usia",
+      "Pertanyaan"
+    ]
+  },
+  {
+    "id": "i_bab04_3",
+    "chapter": "Bab 04",
+    "level": "A1",
+    "title": "〜に住んでいます",
+    "meaning": "Digunakan untuk menyatakan tempat tinggal. 'に' adalah partikel yang menunjukkan lokasi, '住んでいます' (sunde imasu) adalah bentuk 'te-iru' dari '住む' (sumu) yang berarti 'tinggal' dan menunjukkan keadaan sedang tinggal.",
+    "formula_template": "{A} に住んでいます",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に住んでいます' untuk percakapan: Digunakan untuk menyatakan tempat tinggal. 'に' adalah partikel yang menunjukkan lokasi, '住んでいます' (sunde imasu). Pastikan 'A' mewakili Tempat.",
+    "ui_notes": "Jika subjeknya adalah orang lain, pastikan konteksnya jelas. Bentuk '住んでいます' menunjukkan keadaan tinggal saat ini (bukan sementara). Untuk menyatakan tempat tinggal orang lain, bisa gunakan nama orang + は + [tempat] + に住んでいます.",
+    "examples": [
+      {
+        "jp": "家族はフィリピンに住んでいます。",
+        "id": "Keluarga tinggal di Filipina."
+      },
+      {
+        "jp": "東京に住んでいます。",
+        "id": "Saya tinggal di Tokyo."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Tempat Tinggal",
+      "Keadaan"
+    ]
+  },
+  {
+    "id": "i_bab04_4",
+    "chapter": "Bab 04",
+    "level": "A1",
+    "title": "N1のN2",
+    "meaning": "Partikel 'の' menunjukkan hubungan kepemilikan atau afiliasi antara dua kata benda. N1 adalah pemilik, N2 adalah benda/orang yang dimiliki. Setara dengan kata 'milik' atau 'dari' dalam bahasa Indonesia. Juga bisa digunakan untuk menyatakan hubungan seperti 'N2 dari N1' atau 'N2 milik N1'.",
+    "formula_template": "{A} の {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} の {B}' untuk percakapan: Partikel 'の' menunjukkan hubungan kepemilikan atau afiliasi antara dua kata benda. N1 adalah pemilik, N2 adala. Pastikan 'A' mewakili Pemilik, 'B' mewakili Benda/Orang.",
+    "ui_notes": "'の' juga bisa digunakan untuk menunjukkan hubungan lain seperti: 1) Kepemilikan: 私の本 (buku saya); 2) Asal: 日本の車 (mobil Jepang); 3) Posisi/jabatan: 会社の社長 (presiden perusahaan). Dalam percakapan, 'N1のN2' sering digunakan untuk menjelaskan hubungan antara orang dan benda/orang lain.",
+    "examples": [
+      {
+        "jp": "私の母です。",
+        "id": "(Ini) ibu saya."
+      },
+      {
+        "jp": "ペットのジョンです。",
+        "id": "(Ini) John, hewan peliharaan saya."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Kepemilikan",
+      "Partikel"
+    ]
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "id": "n3_bab10_1",
+    "chapter": "Bab 10",
+    "level": "N3",
+    "title": "〜という",
+    "meaning": "yang bernama, yang disebut, artinya",
+    "formula_template": "{A}という {B}/ {C}というもの／こと",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}という {B}/ {C}というもの／こと' untuk mengekspresikan: yang bernama, yang disebut, artinya.",
+    "ui_notes": "yang bernama, yang disebut, artinya",
+    "examples": [
+      {
+        "jp": "お金はいりません。無料ということです。",
+        "id": "tidak perlu uang... artinya (maksudnya) gratis!"
+      },
+      {
+        "jp": "さっき、木村さんという人から電話がありましたよ。",
+        "id": "tadi ada telepon dari seseorang yang bernama kimura"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab10_2",
+    "chapter": "Bab 10",
+    "level": "N3",
+    "title": "〜というのは",
+    "meaning": "yang dimaksud.... adalah",
+    "formula_template": "{A}というのは / {B}っていうのは | 例: {C}というのは {D}という意味（いみ）だ / {V4}というのは {V5}のことだ",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "V4": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "V5": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}というのは / {B}っていうのは | 例: {C}というのは {D}という意味（いみ）だ / {V4}というのは {V5}のことだ' untuk mengekspresikan: yang dimaksud.... adalah.",
+    "ui_notes": "yang dimaksud.... adalah",
+    "examples": [
+      {
+        "jp": "「デジカメ」というのは、デジタルカメラを短くした言い方です。",
+        "id": "\"dejikame\" adalah kependekan dari \"digital kamera\""
+      },
+      {
+        "jp": "A: 「電車で「カクテイ」っていうのは何のことですか。」",
+        "id": "istilah \"kakutei\" dalam kereta itu maksudnya apa?"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab10_3",
+    "chapter": "Bab 10",
+    "level": "N3",
+    "title": "〜というの／こと",
+    "meaning": "membendakan kalimat untuk dijadikan subjek atau objek",
+    "formula_template": "{A}(biasa) [というの / っていうの / ということ / っていうこと]",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}(biasa) [というの / っていうの / ということ / っていうこと]' untuk mengekspresikan: membendakan kalimat untuk dijadikan subjek atau objek.",
+    "ui_notes": "membendakan kalimat untuk dijadikan subjek atau objek",
+    "examples": [
+      {
+        "jp": "田中さんが医者だというのを知らなかった。",
+        "id": "saya tidak tahu bahwa rin-san adalah seorang dokter"
+      },
+      {
+        "jp": "こんなによく遅刻をするというのは問題です。",
+        "id": "kamu sering terlambat seperti ini adalah sebuah masalah"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

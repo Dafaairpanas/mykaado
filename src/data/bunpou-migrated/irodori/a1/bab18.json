@@ -1,0 +1,173 @@
+[
+  {
+    "id": "i_bab18_1",
+    "chapter": "Bab 18",
+    "level": "A1",
+    "title": "V-たいです",
+    "meaning": "Pola kalimat untuk menyatakan keinginan melakukan suatu tindakan. Dibentuk dengan mengubah kata kerja bentuk 'ます' (tanpa 'ます') menjadi 'たい' dan menambahkan 'です'. Digunakan untuk mengungkapkan apa yang ingin dilakukan, bukan keinginan memiliki benda. Artinya 'Ingin melakukan [aktivitas]'.",
+    "formula_template": "{A} たいです",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} たいです' untuk percakapan: Pola kalimat untuk menyatakan keinginan melakukan suatu tindakan. Dibentuk dengan mengubah kata kerja bentuk '. Pastikan 'A' mewakili Kata Kerja Bentuk Masu tanpa masu.",
+    "ui_notes": "Partikel yang digunakan biasanya 'が' untuk objek yang diinginkan, tetapi 'を' juga bisa digunakan dalam percakapan modern. Contoh: コーヒーを飲みたいです (Saya ingin minum kopi). Untuk menyatakan tidak ingin: V-たくないです. Contoh: 行きたくないです (Tidak ingin pergi).",
+    "examples": [
+      {
+        "jp": "炊飯器が買いたいです。",
+        "id": "Saya ingin membeli penanak nasi."
+      },
+      {
+        "jp": "温泉に入りたいです。",
+        "id": "Saya ingin berendam di pemandian air panas."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Keinginan",
+      "Rencana",
+      "Liburan"
+    ]
+  },
+  {
+    "id": "i_bab18_2",
+    "chapter": "Bab 18",
+    "level": "A1",
+    "title": "どこかV-ます",
+    "meaning": "Pola kalimat untuk menyatakan pergi ke suatu tempat yang tidak spesifik atau belum ditentukan. 'どこか' berarti 'suatu tempat' atau 'ke mana saja'. Digunakan saat ingin menyatakan keinginan pergi ke suatu tempat tanpa menyebutkan tujuan spesifik. Artinya 'Pergi ke suatu tempat' atau 'Ke mana saja'.",
+    "formula_template": "どこか {A}",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'どこか {A}' untuk percakapan: Pola kalimat untuk menyatakan pergi ke suatu tempat yang tidak spesifik atau belum ditentukan. 'どこか' berarti '. Pastikan 'A' mewakili Kata Kerja.",
+    "ui_notes": "Pola serupa: '何か' (sesuatu), '誰か' (seseorang). Semua digunakan untuk menyatakan 'sesuatu yang tidak spesifik'. Contoh: 何か食べたいです (Saya ingin makan sesuatu). 'どこか' selalu diikuti kata kerja positif (bukan negatif). Untuk negatif gunakan 'どこも' (tidak ke mana pun).",
+    "examples": [
+      {
+        "jp": "どこか旅行したいです。",
+        "id": "Saya ingin pergi bepergian ke suatu tempat."
+      },
+      {
+        "jp": "どこか行きましょう。",
+        "id": "Ayo pergi ke suatu tempat."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Keinginan",
+      "Tempat",
+      "Rencana"
+    ]
+  },
+  {
+    "id": "i_bab18_3",
+    "chapter": "Bab 18",
+    "level": "A1",
+    "title": "【tempat】へ行きます ([Tempat] e ikimasu)",
+    "meaning": "Pola kalimat untuk menyatakan tujuan pergi ke suatu tempat. Partikel 'へ' (dibaca 'e') menunjukkan arah tujuan, dan '行きます' berarti 'pergi'. Mirip dengan partikel 'に', tetapi 'へ' lebih menekankan arah daripada tujuan spesifik. Sering digunakan dalam perencanaan perjalanan. Artinya 'Pergi ke [tempat]'.",
+    "formula_template": "{A} へ 行きます",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} へ 行きます' untuk percakapan: Pola kalimat untuk menyatakan tujuan pergi ke suatu tempat. Partikel 'へ' (dibaca 'e') menunjukkan arah tujuan,. Pastikan 'A' mewakili Tempat.",
+    "ui_notes": "Partikel 'へ' dan 'に' sering digunakan bergantian untuk tujuan. Perbedaan halus: 'に' lebih menekankan pada titik tujuan, 'へ' lebih menekankan pada arah. Dalam percakapan sehari-hari, keduanya bisa digunakan. Contoh: 東京に行きます (Pergi ke Tokyo) / 東京へ行きます (Menuju Tokyo).",
+    "examples": [
+      {
+        "jp": "京都へ行きたいです。",
+        "id": "Saya ingin pergi ke Kyoto."
+      },
+      {
+        "jp": "北海道へ旅行します。",
+        "id": "Saya bepergian ke Hokkaido."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Tujuan",
+      "Pergi",
+      "Liburan",
+      "Partikel"
+    ]
+  },
+  {
+    "id": "i_bab18_4",
+    "chapter": "Bab 18",
+    "level": "A1",
+    "title": "S1。あと / それから / それに / でも S2。",
+    "meaning": "Berbagai kata penghubung untuk menggabungkan kalimat dan memberikan informasi tambahan atau kontras. 'あと' berarti 'lagi' atau 'dan juga'. 'それから' berarti 'lalu' atau 'dan kemudian'. 'それに' berarti 'di samping itu' atau 'apalagi'. 'でも' berarti 'tetapi' atau 'meskipun demikian'. Sangat berguna untuk menulis postingan liburan yang natural.",
+    "formula_template": "{A}。あと / それから / それに / でも {B}。",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}。あと / それから / それに / でも {B}。' untuk percakapan: Berbagai kata penghubung untuk menggabungkan kalimat dan memberikan informasi tambahan atau kontras. 'あと' bera. Pastikan 'A' mewakili Kalimat 1, 'B' mewakili Kalimat 2.",
+    "ui_notes": "Perbedaan: 'あと' dan 'それから' untuk menambahkan informasi (seperti 'dan juga'). 'それに' untuk menambahkan informasi positif (seperti 'apalagi'). 'でも' untuk kontras (seperti 'tetapi'). Dalam postingan media sosial, gunakan ini untuk membuat tulisan lebih mengalir dan natural.",
+    "examples": [
+      {
+        "jp": "気持ちよかったです。それに、景色もきれいでした。",
+        "id": "Perasaannya enak. Di samping itu, pemandangannya juga indah."
+      },
+      {
+        "jp": "おいしかったです。でも、ちょっと高かったです。",
+        "id": "Enak. Tapi, agak mahal."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Penghubung",
+      "Liburan",
+      "Menulis",
+      "Kesan"
+    ]
+  }
+]

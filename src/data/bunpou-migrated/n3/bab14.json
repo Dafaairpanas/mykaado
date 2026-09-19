@@ -1,0 +1,208 @@
+[
+  {
+    "id": "n3_bab14_1",
+    "chapter": "Bab 14",
+    "level": "N3",
+    "title": "〜として",
+    "meaning": "sebagai",
+    "formula_template": "{A} [として / としては / としても / としての {B}]",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} [として / としては / としても / としての {B}]' untuk mengekspresikan: sebagai.",
+    "ui_notes": "sebagai",
+    "examples": [
+      {
+        "jp": "彼は歌手として有名だ。",
+        "id": "dia terkenal sebagai penyanyi"
+      },
+      {
+        "jp": "彼は外国人だが、日本代表として試合に出る。",
+        "id": "dia orang asing tapi tampil di pertandingan sebagai perwakilan negara Jepang"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab14_2",
+    "chapter": "Bab 14",
+    "level": "N3",
+    "title": "〜にしては",
+    "meaning": "untuk menyatakan kenyataan yang diluar ekspektasi",
+    "formula_template": "[{A}(biasa) / {B}(biasa)] にしては (※ それにしては [kata penghubung])",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B}(biasa)] にしては (※ それにしては [kata penghubung])' untuk mengekspresikan: untuk menyatakan kenyataan yang diluar ekspektasi.",
+    "ui_notes": "untuk menyatakan kenyataan yang diluar ekspektasi",
+    "examples": [
+      {
+        "jp": "外国人にしては日本語が上手だ。",
+        "id": "bagi dia (yang merupakan) orang asing, dia pandai berbahasa Jepang"
+      },
+      {
+        "jp": "初めてにしては、よくできました。",
+        "id": "buat orang yang melakukan untuk pertama kali, (kamu) sudah melakukannya dengan baik"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab14_3",
+    "chapter": "Bab 14",
+    "level": "N3",
+    "title": "〜にしても",
+    "meaning": "meskipun... (saya ngerti, tapi)",
+    "formula_template": "[{A}(biasa) / {B} (biasa) / {C} (tanpa だ) / {D}(tanpa だ)] にしても (※ それにしても [kata penghubung])",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} (tanpa だ) / {D}(tanpa だ)] にしても (※ それにしても [kata penghubung])' untuk mengekspresikan: meskipun... (saya ngerti, tapi).",
+    "ui_notes": "meskipun... (saya ngerti, tapi)",
+    "examples": [
+      {
+        "jp": "これは、100円にしても、高いと思う。",
+        "id": "ini meskipun 100 yen, tapi menurut saya mahal"
+      },
+      {
+        "jp": "遅れるとは聞いていたけど、それにしても田中さん、遅いね。",
+        "id": "saya sudah tahu (dengar) dia akan terlambat, meskipun begitu, tanaka-san lama yah!"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab14_4",
+    "chapter": "Bab 14",
+    "level": "N3",
+    "title": "〜としたら",
+    "meaning": "biasa digunakan dalam kalimat pengandaian",
+    "formula_template": "[{A}(biasa) / {B} (biasa) / {C} だ / {D}だ] としたら / とすれば",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} だ / {D}だ] としたら / とすれば' untuk mengekspresikan: biasa digunakan dalam kalimat pengandaian.",
+    "ui_notes": "biasa digunakan dalam kalimat pengandaian",
+    "examples": [
+      {
+        "jp": "その話が本当だとしたら、うれしいです。",
+        "id": "seandainya cerita itu benar, saya senang"
+      },
+      {
+        "jp": "飛行機で行くとしたら、いくらぐらいかかりますか。",
+        "id": "kalau pergi menggunakan pesawat, butuh biaya berapa?"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

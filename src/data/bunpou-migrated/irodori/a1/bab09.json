@@ -1,0 +1,131 @@
+[
+  {
+    "id": "i_bab09_1",
+    "chapter": "Bab 09",
+    "level": "A1",
+    "title": "【waktu】にV-ます ([Waktu] ni V-masu)",
+    "meaning": "Pola kalimat untuk menyatakan waktu terjadinya suatu aktivitas. Partikel 'に' digunakan untuk menunjukkan waktu spesifik (jam, hari, tanggal). Berbeda dengan 'で' untuk lokasi aktivitas, 'に' untuk waktu aktivitas. Artinya 'melakukan [aktivitas] pada [waktu]'.",
+    "formula_template": "{A} に {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "time"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に {B}' untuk percakapan: Pola kalimat untuk menyatakan waktu terjadinya suatu aktivitas. Partikel 'に' digunakan untuk menunjukkan waktu. Pastikan 'A' mewakili Waktu, 'B' mewakili Kata Kerja.",
+    "ui_notes": "'ごろ' (goro) berarti 'sekitar' dan digunakan setelah waktu untuk menunjukkan perkiraan. Tidak perlu partikel 'に' setelah 'ごろ'. Contoh: 8時ごろ起きます (Bangun sekitar jam 8). Untuk hari, gunakan 'に' seperti: 月曜日に働きます (Bekerja pada hari Senin).",
+    "examples": [
+      {
+        "jp": "5時に起きます。",
+        "id": "Saya bangun jam 5."
+      },
+      {
+        "jp": "11時ごろ寝ます。",
+        "id": "Saya tidur sekitar jam 11."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Waktu",
+      "Jadwal",
+      "Rutinitas",
+      "Partikel"
+    ]
+  },
+  {
+    "id": "i_bab09_2",
+    "chapter": "Bab 09",
+    "level": "A1",
+    "title": "【waktu】から【waktu】まで ([Waktu] kara [waktu] made)",
+    "meaning": "Pola kalimat untuk menyatakan rentang waktu dari titik awal hingga titik akhir. 'から' berarti 'dari' dan 'まで' berarti 'sampai'. Digunakan untuk menjelaskan durasi atau jadwal suatu kegiatan. Artinya 'dari [waktu] sampai [waktu]'.",
+    "formula_template": "{A} から {B} まで",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "time"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "time"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} から {B} まで' untuk percakapan: Pola kalimat untuk menyatakan rentang waktu dari titik awal hingga titik akhir. 'から' berarti 'dari' dan 'まで' b. Pastikan 'A' mewakili Waktu Awal, 'B' mewakili Waktu Akhir.",
+    "ui_notes": "Bisa juga digunakan untuk menyatakan rentang hari atau tanggal. Contoh: 月曜日から金曜日まで (dari Senin sampai Jumat). Untuk menanyakan rentang waktu, gunakan: 何時から何時までですか？ (Dari jam berapa sampai jam berapa?).",
+    "examples": [
+      {
+        "jp": "12時から1時まで昼休みです。",
+        "id": "Istirahat siang dari jam 12 sampai jam 1."
+      },
+      {
+        "jp": "9時から5時まで働きます。",
+        "id": "Saya bekerja dari jam 9 sampai jam 5."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Waktu",
+      "Jadwal",
+      "Rentang Waktu",
+      "Partikel"
+    ]
+  },
+  {
+    "id": "i_bab09_3",
+    "chapter": "Bab 09",
+    "level": "A1",
+    "title": "【hari/waktu】がいいです ([Hari/Waktu] ga ii desu)",
+    "meaning": "Pola kalimat untuk menyatakan pilihan waktu atau hari yang dianggap baik/nyaman. 'が' menandakan subjek (waktu yang dipilih), dan 'いいです' berarti 'bagus'. Sangat berguna saat menentukan jadwal pertemuan atau janji. Artinya '[Hari/waktu] itu bagus' atau 'Saya pilih [hari/waktu]'.",
+    "formula_template": "{A} が いいです",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "time"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} が いいです' untuk percakapan: Pola kalimat untuk menyatakan pilihan waktu atau hari yang dianggap baik/nyaman. 'が' menandakan subjek (waktu . Pastikan 'A' mewakili Hari/Waktu.",
+    "ui_notes": "Untuk menanyakan pilihan waktu orang lain: いつがいいですか？ (Kapan yang bagus?). Untuk menawarkan pilihan: 水曜日はどうですか？ (Bagaimana kalau Rabu?). Bisa juga digunakan untuk pilihan benda: これがいいです。 (Saya pilih ini.)",
+    "examples": [
+      {
+        "jp": "私は土曜日がいいです。",
+        "id": "Saya pilih hari Sabtu (bagus)."
+      },
+      {
+        "jp": "明日の午後がいいです。",
+        "id": "Besok siang itu bagus."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Waktu",
+      "Jadwal",
+      "Pilihan",
+      "Pertemuan"
+    ]
+  }
+]

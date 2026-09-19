@@ -1,0 +1,197 @@
+[
+  {
+    "id": "n3_bab18_1",
+    "chapter": "Bab 18",
+    "level": "N3",
+    "title": "〜がる",
+    "meaning": "untuk menyatakan keinginan orang ke-3 untuk menyatakan perasaan (kata sifat) yang ditunjukkan dalam sebuah perbuatan",
+    "formula_template": "{A}たい (coret い) がる / がって / がらないで | {B} (coret い) がる / がって / がらないで | {C} (coret だ) がる / がって / がらないで | 例: 痛（いた）がる / 怖（こわ）がる / 欲（ほ）しがる / 残念（ざんねん）がる / 得意（とくい）がる / 見（み）たがる / 食（た）べたがる",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}たい (coret い) がる / がって / がらないで | {B} (coret い) がる / がって / がらないで | {C} (coret だ) がる / がって / がらないで | 例: 痛（いた）がる / 怖（こわ）がる / 欲（ほ）しがる / 残念（ざんねん）がる / 得意（とくい）がる / 見（み）たがる / 食（た）べたがる' untuk mengekspresikan: untuk menyatakan keinginan orang ke-3 untuk menyatakan perasaan (kata sifat) yang ditunjukkan dalam sebuah per.",
+    "ui_notes": "untuk menyatakan keinginan orang ke-3 untuk menyatakan perasaan (kata sifat) yang ditunjukkan dalam sebuah perbuatan",
+    "examples": [
+      {
+        "jp": "田中さんが、あなたに会いたがっていましたよ。",
+        "id": "tanaka-san ingin bertemu denganmu lho"
+      },
+      {
+        "jp": "息子が全然学校に行きたがらないんです。",
+        "id": "anak laki-laki saya sama sekali tidak mau pergi ke sekolah"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab18_2",
+    "chapter": "Bab 18",
+    "level": "N3",
+    "title": "〜がる／〜がっている (Lanjutan)",
+    "meaning": "〜がる／〜がっている (Lanjutan)",
+    "formula_template": "{A} は 〜がる／〜がっている (Lanjutan) です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は 〜がる／〜がっている (Lanjutan) です' untuk mengekspresikan: 〜がる／〜がっている (Lanjutan).",
+    "ui_notes": "〜がる／〜がっている (Lanjutan)",
+    "examples": [
+      {
+        "jp": "怖がらないでください。",
+        "id": "jangan (merasa) takut"
+      },
+      {
+        "jp": "恥ずかしがらないで、前に出てきてください。",
+        "id": "jangan (merasa) malu, silahkan maju ke depan"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab18_3",
+    "chapter": "Bab 18",
+    "level": "N3",
+    "title": "〜てほしい",
+    "meaning": "Digunakan ketika pembicara ingin agar orang lain melakukan sesuatu untuknya.",
+    "formula_template": "{A}て / {B}ないで ほしい / もらいたい.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}て / {B}ないで ほしい / もらいたい.' untuk mengekspresikan: Digunakan ketika pembicara ingin agar orang lain melakukan sesuatu untuknya..",
+    "ui_notes": "Digunakan ketika pembicara ingin agar orang lain melakukan sesuatu untuknya.",
+    "examples": [
+      {
+        "jp": "あのう、教科書を見せてほしいんですが。",
+        "id": "Permisi, saya ingin Anda memperlihatkan buku pelajarannya."
+      },
+      {
+        "jp": "あなたに教えてもらいたいことがあります。",
+        "id": "Ada hal yang ingin saya minta Anda ajarkan kepada saya."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab18_4",
+    "chapter": "Bab 18",
+    "level": "N3",
+    "title": "〜ふりをする",
+    "meaning": "Pura-pura...",
+    "formula_template": "{A}(biasa) / {B} (biasa) / {C} な / {D}の ふりをする.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}(biasa) / {B} (biasa) / {C} な / {D}の ふりをする.' untuk mengekspresikan: Pura-pura....",
+    "ui_notes": "Pura-pura...",
+    "examples": [
+      {
+        "jp": "彼はそのことについて知っているふりをしているが、本当は知らないと思う。",
+        "id": "Dia pura-pura tahu tentang hal itu, tapi menurutku sebenarnya tidak tahu."
+      },
+      {
+        "jp": "田中さんは独身のふりをしているが、結婚していて3人も子どもがいる。",
+        "id": "Tanaka-san pura-pura lajang, padahal sudah menikah dan punya 3 anak."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

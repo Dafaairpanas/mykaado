@@ -1,0 +1,123 @@
+[
+  {
+    "id": "i_bab10_1",
+    "chapter": "Bab 10",
+    "level": "A1",
+    "title": "V-てください",
+    "meaning": "Pola kalimat untuk meminta atau memerintah seseorang melakukan sesuatu dengan sopan. 'て' adalah bentuk sambung kata kerja, dan 'ください' berarti 'tolong'. Digunakan di tempat kerja atau situasi sehari-hari untuk memberi instruksi atau permintaan. Artinya 'Tolong lakukan [aktivitas]'.",
+    "formula_template": "{A} ください",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ください' untuk percakapan: Pola kalimat untuk meminta atau memerintah seseorang melakukan sesuatu dengan sopan. 'て' adalah bentuk sambung. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
+    "ui_notes": "Bentuk kasualnya adalah 'V-て' saja (tanpa ください) untuk teman dekat. Contoh: 手伝って。 (Tolong bantu.) Untuk permintaan yang lebih sopan, gunakan 'V-ていただけますか？' (Bisa tolong ...?). Perhatikan bahwa kata kerja bentuk 'て' memiliki aturan konjugasi yang berbeda-beda tergantung jenis kata kerjanya.",
+    "examples": [
+      {
+        "jp": "ちょっと手伝ってください。",
+        "id": "Tolong bantu sebentar."
+      },
+      {
+        "jp": "この書類をコピーしてください。",
+        "id": "Tolong fotokopi dokumen ini."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Instruksi",
+      "Permintaan",
+      "Tempat Kerja",
+      "Sopan"
+    ]
+  },
+  {
+    "id": "i_bab10_2",
+    "chapter": "Bab 10",
+    "level": "A1",
+    "title": "Nですね — Konfirmasi",
+    "meaning": "Pola kalimat untuk mengonfirmasi atau memverifikasi informasi yang baru saja didengar. 'ですね' di akhir kalimat berarti '... ya?' atau '... kan?'. Digunakan untuk memastikan bahwa pemahaman Anda benar, terutama saat menerima instruksi di tempat kerja. Sangat berguna untuk menghindari kesalahpahaman.",
+    "formula_template": "{A} ですね",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ですね' untuk percakapan: Pola kalimat untuk mengonfirmasi atau memverifikasi informasi yang baru saja didengar. 'ですね' di akhir kalimat . Pastikan 'A' mewakili Informasi.",
+    "ui_notes": "Partikel 'ね' memiliki banyak fungsi: (1) Konfirmasi: そうですね (Ya, benar), (2) Mencari persetujuan: いい天気ですね (Cuaca bagus ya?), (3) Menegaskan: そうですよね (Benar kan?). Dalam konteks kerja, gunakan untuk memastikan instruksi: これでよろしいですね？ (Ini sudah benar ya?).",
+    "examples": [
+      {
+        "jp": "30ですね。",
+        "id": "30 ya? (untuk mengonfirmasi jumlah)"
+      },
+      {
+        "jp": "コピーは30枚ですね。",
+        "id": "Fotokopinya 30 lembar ya?"
+      }
+    ],
+    "tags": [
+      "A1",
+      "Konfirmasi",
+      "Tempat Kerja",
+      "Verifikasi"
+    ]
+  },
+  {
+    "id": "i_bab10_3",
+    "chapter": "Bab 10",
+    "level": "A1",
+    "title": "N、貸してください / 借りてもいいですか？ (N, kashite kudasai / karite mo ii desu ka?)",
+    "meaning": "Dua pola untuk meminjam barang di tempat kerja. '貸してください' berarti 'Tolong pinjamkan' (meminta orang lain meminjamkan barangnya). '借りてもいいですか' berarti 'Bolehkah saya pinjam?' (meminta izin untuk meminjam). Keduanya sopan dan umum digunakan di kantor.",
+    "formula_template": "{A} 貸してください / {B} 借りてもいいですか？",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} 貸してください / {B} 借りてもいいですか？' untuk percakapan: Dua pola untuk meminjam barang di tempat kerja. '貸してください' berarti 'Tolong pinjamkan' (meminta orang lain memin. Pastikan 'A' mewakili Barang, 'B' mewakili Barang.",
+    "ui_notes": "Perbedaan: '貸す' (kasu) = meminjamkan (dari pembicara ke orang lain). '借りる' (kariru) = meminjam (dari orang lain ke pembicara). Bentuk lain: '使ってもいいですか？' (Bolehkah saya pakai?) untuk barang yang tidak perlu dipinjam, hanya digunakan di tempat.",
+    "examples": [
+      {
+        "jp": "ホチキス、貸してください。",
+        "id": "Tolong pinjamkan stapler."
+      },
+      {
+        "jp": "すみません。借りてもいいですか？",
+        "id": "Maaf, bolehkah saya pinjam?"
+      }
+    ],
+    "tags": [
+      "A1",
+      "Meminjam",
+      "Tempat Kerja",
+      "Permintaan",
+      "Sopan"
+    ]
+  }
+]

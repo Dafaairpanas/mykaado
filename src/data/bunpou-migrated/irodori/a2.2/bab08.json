@@ -1,0 +1,149 @@
+[
+  {
+    "id": "i_bab08_1",
+    "chapter": "Bab 08",
+    "level": "A2.2",
+    "title": "もうV-ました／まだV-て（い）ません (Mou V-mashita / Mada V-temasen) — Sudah V / Belum V",
+    "meaning": "Pola untuk menanyakan atau menyatakan apakah suatu tindakan sudah selesai dilakukan atau belum. 'もう' berarti 'sudah' dan diikuti bentuk lampau positif. 'まだ' berarti 'belum' dan diikuti bentuk negatif. Sangat berguna saat menanyakan status acara atau pendaftaran. Artinya 'Sudah [V]?' / 'Belum [V]'.",
+    "formula_template": "もう {A} か？ / まだ {B} いません",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'もう {A} か？ / まだ {B} いません' untuk percakapan: Pola untuk menanyakan atau menyatakan apakah suatu tindakan sudah selesai dilakukan atau belum. 'もう' berarti '. Pastikan 'A' mewakili Kata Kerja Bentuk Lampau, 'B' mewakili Kata Kerja Bentuk te.",
+    "ui_notes": "'まだV-ていません' adalah bentuk formal, sedangkan 'まだV-てません' adalah bentuk kasual yang sering digunakan dalam percakapan. Jawaban untuk 'もう〜ましたか？': はい、もう〜ました (Ya, sudah) / いいえ、まだです (Tidak, belum). Untuk 'まだ〜ていません', jawabannya bisa: はい、まだです (Ya, belum) atau いいえ、もう〜ました (Tidak, sudah).",
+    "examples": [
+      {
+        "jp": "A: スピーチコンテストは、もう始まりましたか？ B: まだ始まってません。",
+        "id": "A: Lomba pidato sudah dimulai? B: Belum dimulai."
+      },
+      {
+        "jp": "もう申し込みましたか？",
+        "id": "Sudah mendaftar?"
+      }
+    ],
+    "tags": [
+      "B1",
+      "Status",
+      "Acara",
+      "Pendaftaran"
+    ]
+  },
+  {
+    "id": "i_bab08_2",
+    "chapter": "Bab 08",
+    "level": "A2.2",
+    "title": "まだV-ます — Masih V",
+    "meaning": "Pola untuk menyatakan bahwa suatu aktivitas masih berlangsung atau belum selesai. 'まだ' berarti 'masih' dan diikuti bentuk positif dari kata kerja. Berbeda dengan 'まだV-ていません' yang berarti 'belum', 'まだV-ます' berarti 'masih melakukan'. Sangat berguna saat menanyakan apakah acara masih berlangsung. Artinya 'Masih [melakukan V]'.",
+    "formula_template": "まだ {A} ます",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'まだ {A} ます' untuk percakapan: Pola untuk menyatakan bahwa suatu aktivitas masih berlangsung atau belum selesai. 'まだ' berarti 'masih' dan dii. Pastikan 'A' mewakili Kata Kerja.",
+    "ui_notes": "Perbedaan penting: 'まだV-ています' = masih melakukan V (sedang berlangsung), 'まだV-ていません' = belum melakukan V (belum dimulai). Contoh: まだ食べています (Masih makan) vs まだ食べていません (Belum makan). Dalam konteks acara, 'まだやってます' berarti acara masih berlangsung, 'まだ始まっていません' berarti acara belum dimulai.",
+    "examples": [
+      {
+        "jp": "イベント、まだやってますか？",
+        "id": "Acaranya masih berlangsung?"
+      },
+      {
+        "jp": "まだ開いていますか？",
+        "id": "Masih buka?"
+      }
+    ],
+    "tags": [
+      "B1",
+      "Status",
+      "Berlangsung",
+      "Acara"
+    ]
+  },
+  {
+    "id": "i_bab08_3",
+    "chapter": "Bab 08",
+    "level": "A2.2",
+    "title": "【kata tanya】＋ S（bentuk biasa）か、〜 — Apakah ...?",
+    "meaning": "Pola untuk membuat pertanyaan tidak langsung dengan kata tanya. 'か' digunakan di dalam klausa untuk menunjukkan pertanyaan, dan diikuti kata kerja seperti 'わかります' (tahu) atau '教えてください' (tolong beri tahu). Sangat berguna saat bertanya tentang informasi acara. Artinya 'Apakah [S]?' atau 'Tahukah Anda [S]?'.",
+    "formula_template": "{A} {B} か {C}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} {B} か {C}' untuk percakapan: Pola untuk membuat pertanyaan tidak langsung dengan kata tanya. 'か' digunakan di dalam klausa untuk menunjukka. Pastikan 'A' mewakili Kata Tanya, 'B' mewakili Klausa (Bentuk Biasa), 'C' mewakili Kata Kerja.",
+    "ui_notes": "Klausa di dalam 'か' harus dalam bentuk biasa (bukan bentuk sopan): 何時からか (bukan 何時からですかか). Kata tanya yang umum: 何 (apa), どこ (di mana), いつ (kapan), 誰 (siapa), どのように (bagaimana). Untuk pertanyaan ya/tidak, gunakan 'かどうか': 行くかどうかわかりますか？ (Apakah Anda tahu akan pergi atau tidak?).",
+    "examples": [
+      {
+        "jp": "明日のフリーマーケットは、何時からか、わかりますか？",
+        "id": "Apakah Anda tahu pasar loak besok mulai jam berapa?"
+      },
+      {
+        "jp": "このイベントに、どうやって申し込むか教えてください。",
+        "id": "Tolong beri tahu cara mendaftar untuk acara ini."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Pertanyaan",
+      "Informasi",
+      "Acara"
+    ]
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "i_bab16_1",
+    "chapter": "Bab 16",
+    "level": "A2.1",
+    "title": "V-るといいですよ — Sebaiknya ...",
+    "meaning": "Pola kalimat untuk memberikan saran atau rekomendasi kepada seseorang. 'V-ると' berarti 'jika V', dan 'いいですよ' berarti 'bagus lho'. Digunakan untuk memberikan saran kesehatan atau tips yang bermanfaat. Artinya 'Sebaiknya [melakukan V]' atau 'Akan lebih baik jika [V]'.",
+    "formula_template": "{A} といいですよ",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} といいですよ' untuk percakapan: Pola kalimat untuk memberikan saran atau rekomendasi kepada seseorang. 'V-ると' berarti 'jika V', dan 'いいですよ' be. Pastikan 'A' mewakili Kata Kerja Bentuk Kamus.",
+    "ui_notes": "Bentuk kasual: V-るといいよ. Untuk memberikan saran yang lebih lembut, gunakan 'V-たらいいですよ' (sama artinya, tetapi lebih lembut). Contoh: 休んだらいいですよ (Sebaiknya istirahat). 'といいです' juga bisa berarti 'semoga' dalam konteks lain: いい天気になりますように (Semoga cuaca menjadi bagus).",
+    "examples": [
+      {
+        "jp": "よく眠れないときは、ぬるいお風呂にゆっくり入るといいですよ。",
+        "id": "Saat tidak bisa tidur nyenyak, sebaiknya berendam pelan-pelan di air hangat."
+      },
+      {
+        "jp": "野菜をたくさん食べるといいですよ。",
+        "id": "Sebaiknya makan banyak sayur."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Saran",
+      "Kesehatan",
+      "Rekomendasi"
+    ]
+  },
+  {
+    "id": "i_bab16_2",
+    "chapter": "Bab 16",
+    "level": "A2.1",
+    "title": "V-すぎます — Terlalu ...",
+    "meaning": "Pola untuk menyatakan bahwa suatu tindakan atau keadaan berlebihan. 'すぎます' berarti 'terlalu' dan ditambahkan ke bentuk 'ます' tanpa 'ます' dari kata kerja. Digunakan untuk mengakui kebiasaan buruk atau perilaku berlebihan yang mempengaruhi kesehatan. Artinya 'Terlalu [melakukan V]'.",
+    "formula_template": "{A} すぎます",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} すぎます' untuk percakapan: Pola untuk menyatakan bahwa suatu tindakan atau keadaan berlebihan. 'すぎます' berarti 'terlalu' dan ditambahkan k. Pastikan 'A' mewakili Kata Kerja Bentuk Masu tanpa masu.",
+    "ui_notes": "Bisa juga digunakan dengan kata sifat: 大きすぎます (terlalu besar), 高すぎます (terlalu mahal), 暑すぎます (terlalu panas). Untuk kata sifat-i, hilangkan 'い' dan tambahkan 'すぎます': あつい → あつすぎます. Untuk kata sifat-na: 静かすぎます (terlalu sepi). Bentuk negatif: すぎない (tidak terlalu).",
+    "examples": [
+      {
+        "jp": "昨日、飲みすぎました。",
+        "id": "Kemarin saya terlalu banyak minum (alkohol)."
+      },
+      {
+        "jp": "食べすぎないようにしています。",
+        "id": "Saya berusaha untuk tidak kebanyakan makan."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Berlebihan",
+      "Kebiasaan",
+      "Kesehatan"
+    ]
+  },
+  {
+    "id": "i_bab16_3",
+    "chapter": "Bab 16",
+    "level": "A2.1",
+    "title": "V1-たり、V2-たりします (V1-tari, V2-tari shimasu) — Kadang ... Kadang ...",
+    "meaning": "Pola untuk menyatakan contoh-contoh aktivitas yang dilakukan (tidak lengkap). '〜たり' digunakan setelah bentuk lampau (bentuk 'た') dari kata kerja, dan diakhiri dengan 'します'. Digunakan untuk menjelaskan berbagai kegiatan yang dilakukan untuk menjaga kesehatan. Artinya 'Kadang [V1], kadang [V2], dan lain-lain'.",
+    "formula_template": "{A} り、{B} りします",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} り、{B} りします' untuk percakapan: Pola untuk menyatakan contoh-contoh aktivitas yang dilakukan (tidak lengkap). '〜たり' digunakan setelah bentuk l. Pastikan 'A' mewakili Kata Kerja Bentuk Lampau た, 'B' mewakili Kata Kerja Bentuk Lampau た.",
+    "ui_notes": "'〜たり〜たり' digunakan untuk memberikan contoh, bukan daftar lengkap. Bisa digunakan dengan hanya satu 'たり': 本を読んだりします (Melakukan hal-hal seperti membaca buku). Untuk kata sifat: 暑かったり寒かったり (Kadang panas, kadang dingin). Bentuk kasual: たりする.",
+    "examples": [
+      {
+        "jp": "ジョギングしたり、ときどき家でヨガをしたりしてます。",
+        "id": "Saya jogging, dan kadang-kadang yoga di rumah, dan lain-lain."
+      },
+      {
+        "jp": "休みの日は、映画を見たり、本を読んだりします。",
+        "id": "Di hari libur, saya menonton film, membaca buku, dan lain-lain."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Contoh",
+      "Aktivitas",
+      "Kebiasaan"
+    ]
+  },
+  {
+    "id": "i_bab16_4",
+    "chapter": "Bab 16",
+    "level": "A2.1",
+    "title": "V-るようにしています — Saya Berusaha untuk ...",
+    "meaning": "Pola untuk menyatakan usaha atau kebiasaan yang dilakukan secara sadar untuk mencapai tujuan. 'ように' berarti 'agar' atau 'sehingga', dan 'しています' berarti 'melakukan'. Digunakan untuk menjelaskan upaya menjaga kesehatan atau kebiasaan baik. Artinya 'Saya berusaha untuk [melakukan V]' atau 'Saya membiasakan diri untuk [V]'.",
+    "formula_template": "{A} ようにしています",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ようにしています' untuk percakapan: Pola untuk menyatakan usaha atau kebiasaan yang dilakukan secara sadar untuk mencapai tujuan. 'ように' berarti 'a. Pastikan 'A' mewakili Kata Kerja Bentuk Kamus.",
+    "ui_notes": "Bentuk negatif: V-ないようにしています (Saya berusaha untuk tidak V). Contoh: 夜遅くに食べないようにしています (Saya berusaha untuk tidak makan larut malam). Berbeda dengan 'V-ています' yang hanya menyatakan kebiasaan, 'V-るようにしています' menekankan usaha sadar untuk melakukan atau tidak melakukan sesuatu.",
+    "examples": [
+      {
+        "jp": "できるだけ、野菜をたくさん食べるようにしています。",
+        "id": "Saya berusaha untuk makan sayur sebanyak mungkin."
+      },
+      {
+        "jp": "健康のために、食べすぎないようにしています。",
+        "id": "Demi kesehatan, saya berusaha untuk tidak kebanyakan makan."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Usaha",
+      "Kebiasaan",
+      "Kesehatan"
+    ]
+  }
+]

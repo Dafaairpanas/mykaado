@@ -1,0 +1,98 @@
+[
+  {
+    "id": "n3_bab23_1",
+    "chapter": "Bab 23",
+    "level": "N3",
+    "title": "〜っけ？",
+    "meaning": "Mengkonfirmasi sesuatu ketika lupa akan suatu hal / bicara kepada diri sendiri. ※ `〜でしたっけ／〜ましたっけ` juga bisa.",
+    "formula_template": "{A}たっけ / {B} 〜かったっけ / {C} だっけ・だったっけ / {D}だっけ・だったっけ.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}たっけ / {B} 〜かったっけ / {C} だっけ・だったっけ / {D}だっけ・だったっけ.' untuk mengekspresikan: Mengkonfirmasi sesuatu ketika lupa akan suatu hal / bicara kepada diri sendiri. ※ `〜でしたっけ／〜ましたっけ` juga bisa..",
+    "ui_notes": "Mengkonfirmasi sesuatu ketika lupa akan suatu hal / bicara kepada diri sendiri. ※ `〜でしたっけ／〜ましたっけ` juga bisa.",
+    "examples": [
+      {
+        "jp": "国へ帰るのは、来週だっけ？",
+        "id": "Pulang ke negara asal minggu depan, kan ya?"
+      },
+      {
+        "jp": "明日のパーティーのこと、話したっけ？",
+        "id": "Soal pesta besok, sudah kubicarakan belum ya?"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab23_2",
+    "chapter": "Bab 23",
+    "level": "N3",
+    "title": "〜しかない",
+    "meaning": "Mengungkapkan perasaan pasrah (tidak ada cara/jalan/pilihan lain).",
+    "formula_template": "{A}る しかない.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}る しかない.' untuk mengekspresikan: Mengungkapkan perasaan pasrah (tidak ada cara/jalan/pilihan lain)..",
+    "ui_notes": "Mengungkapkan perasaan pasrah (tidak ada cara/jalan/pilihan lain).",
+    "examples": [
+      {
+        "jp": "できるまで、やるしかない。",
+        "id": "Sampai bisa, tidak ada pilihan selain terus mencoba."
+      },
+      {
+        "jp": "直せないから、新しいのを買うしかなかった。",
+        "id": "Karena tidak bisa diperbaiki, terpaksa harus membeli yang baru."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

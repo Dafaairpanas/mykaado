@@ -1,0 +1,200 @@
+[
+  {
+    "id": "n3_bab16_1",
+    "chapter": "Bab 16",
+    "level": "N3",
+    "title": "〜ついでに",
+    "meaning": "kalimat setelahnya biasanya merupakan hal yang bersifat ringan",
+    "formula_template": "[{A}る / {B}た / {C}の] ついでに",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}る / {B}た / {C}の] ついでに' untuk mengekspresikan: kalimat setelahnya biasanya merupakan hal yang bersifat ringan.",
+    "ui_notes": "kalimat setelahnya biasanya merupakan hal yang bersifat ringan",
+    "examples": [
+      {
+        "jp": "散歩のついでに、この手紙を出してきてくれませんか。",
+        "id": "sekalian jalan-jalan, boleh tolong kirimkan surat ini"
+      },
+      {
+        "jp": "郵便局へ行ったついでに、はがきを買ってきた。",
+        "id": "sekalian pergi ke kantor pos, saya beli kartu pos"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab16_2",
+    "chapter": "Bab 16",
+    "level": "N3",
+    "title": "〜たびに",
+    "meaning": "biasanya tidak digunakan untuk kebiasaan atau hal yang lumrah terjadi; ✓ biasanya tidak diikuti kalimat negatif dibelakangnya",
+    "formula_template": "[{A}る / {B}る。その / {C}の] たびに / たび (※ ✗ たびには)",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}る / {B}る。その / {C}の] たびに / たび (※ ✗ たびには)' untuk mengekspresikan: biasanya tidak digunakan untuk kebiasaan atau hal yang lumrah terjadi; ✓ biasanya tidak diikuti kalimat negati.",
+    "ui_notes": "biasanya tidak digunakan untuk kebiasaan atau hal yang lumrah terjadi; ✓ biasanya tidak diikuti kalimat negatif dibelakangnya",
+    "examples": [
+      {
+        "jp": "買い物のたびに、袋をたくさんもらう。",
+        "id": "setiap kali belanja saya mendapat banyak kantong"
+      },
+      {
+        "jp": "この曲を聞くたびに、ふるさとを思い出す。",
+        "id": "setiap kali mendengar lagu ini, mengingatkan saya akan kampung halaman"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab16_3",
+    "chapter": "Bab 16",
+    "level": "N3",
+    "title": "〜たとたん",
+    "meaning": "Kalimat setelahnya tidak berbentuk \"keinginan\" (termasuk perintah); ✓ Kalimat setelahnya mengandung unsur diluar dugaan (bukan hal yang wajar/lumrah terjadi)",
+    "formula_template": "[{A}たとたん / とたんに / {B}た。そのとたん]",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}たとたん / とたんに / {B}た。そのとたん]' untuk mengekspresikan: Kalimat setelahnya tidak berbentuk \"keinginan\" (termasuk perintah); ✓ Kalimat setelahnya mengandung unsur dilu.",
+    "ui_notes": "Kalimat setelahnya tidak berbentuk \"keinginan\" (termasuk perintah); ✓ Kalimat setelahnya mengandung unsur diluar dugaan (bukan hal yang wajar/lumrah terjadi)",
+    "examples": [
+      {
+        "jp": "窓を開けたとたん、強い風が入ってきた。",
+        "id": "begitu buka jendela, angin kencang masuk"
+      },
+      {
+        "jp": "お酒を飲んだとたん、顔が赤くなった。",
+        "id": "begitu minum sake, muka saya menjadi merah"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab16_4",
+    "chapter": "Bab 16",
+    "level": "N3",
+    "title": "〜最中に",
+    "meaning": "ditengah-tengah sedang...",
+    "formula_template": "[{A}ている / {B}の] 最中（さいちゅう）に",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}ている / {B}の] 最中（さいちゅう）に' untuk mengekspresikan: ditengah-tengah sedang....",
+    "ui_notes": "ditengah-tengah sedang...",
+    "examples": [
+      {
+        "jp": "食事の最中に、お客さんが来た。",
+        "id": "di tengah-tengah sedang makan, ada tamu datang"
+      },
+      {
+        "jp": "彼はよく会議の最中に居眠りをする。",
+        "id": "dia sering tidur di tengah-tengah rapat"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

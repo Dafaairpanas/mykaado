@@ -1,0 +1,212 @@
+[
+  {
+    "id": "n3_bab19_1",
+    "chapter": "Bab 19",
+    "level": "N3",
+    "title": "〜にとって",
+    "meaning": "〜にとって",
+    "formula_template": "{A} にとって / にとっては / にとっても.",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} にとって / にとっては / にとっても.' untuk mengekspresikan: 〜にとって.",
+    "ui_notes": "〜にとって",
+    "examples": [
+      {
+        "jp": "あなたにとって、いちばん大切なものは何ですか。",
+        "id": "Bagi Anda, apakah hal yang paling berharga?"
+      },
+      {
+        "jp": "このあたりに人々にとっては、車は必需品です。",
+        "id": "Bagi orang-orang di sekitar sini, mobil adalah kebutuhan pokok."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab19_2",
+    "chapter": "Bab 19",
+    "level": "N3",
+    "title": "〜わりに",
+    "meaning": "Digunakan untuk sesuatu yang tidak sesuai kenyataannya / perbedaan mencolok antara kenyataan dengan apa yang dipikirkan.",
+    "formula_template": "{A}(biasa) / {B}(biasa) / {C} な / {D}の わりに / わりには. (例: 高（たか）いわりに / 大変（たいへん）なわりの).",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}(biasa) / {B}(biasa) / {C} な / {D}の わりに / わりには. (例: 高（たか）いわりに / 大変（たいへん）なわりの).' untuk mengekspresikan: Digunakan untuk sesuatu yang tidak sesuai kenyataannya / perbedaan mencolok antara kenyataan dengan apa yang d.",
+    "ui_notes": "Digunakan untuk sesuatu yang tidak sesuai kenyataannya / perbedaan mencolok antara kenyataan dengan apa yang dipikirkan.",
+    "examples": [
+      {
+        "jp": "年のわりには若く見える。",
+        "id": "Kelihatan muda dibandingkan usianya."
+      },
+      {
+        "jp": "お金がない(と言っている)わりに、よく買い物をするね。",
+        "id": "Meskipun bilang tidak punya uang, ternyata sering belanja ya."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab19_3",
+    "chapter": "Bab 19",
+    "level": "N3",
+    "title": "〜くせに",
+    "meaning": "Umumnya untuk mengejek/meremehkan orang lain. Tidak sama dengan 〜のに yang mengandung ketidakpuasan.",
+    "formula_template": "{A}(biasa) / {B}(biasa) / {C} な / {D}の くせに. (例: できないくせに / 学生（がくせい）のくせに).",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}(biasa) / {B}(biasa) / {C} な / {D}の くせに. (例: できないくせに / 学生（がくせい）のくせに).' untuk mengekspresikan: Umumnya untuk mengejek/meremehkan orang lain. Tidak sama dengan 〜のに yang mengandung ketidakpuasan..",
+    "ui_notes": "Umumnya untuk mengejek/meremehkan orang lain. Tidak sama dengan 〜のに yang mengandung ketidakpuasan.",
+    "examples": [
+      {
+        "jp": "知っているくせに、教えてくれない。",
+        "id": "Padahal tahu, tapi tidak mau memberitahu."
+      },
+      {
+        "jp": "元気なくせに、病気のふりをしている。",
+        "id": "Padahal sehat, tapi pura-pura sakit."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab19_4",
+    "chapter": "Bab 19",
+    "level": "N3",
+    "title": "〜なんか／〜なんて／〜など",
+    "meaning": "(1) memberi contoh, (2) meremehkan/menyepelekan, (3) merendahkan diri. KK/KS/KB (biasa) atau Kalimat -> なんて / など.",
+    "formula_template": "{A}て / {B} 〜く / {C} で / {D} なんか / なんて / など.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}て / {B} 〜く / {C} で / {D} なんか / なんて / など.' untuk mengekspresikan: (1) memberi contoh, (2) meremehkan/menyepelekan, (3) merendahkan diri. KK/KS/KB (biasa) atau Kalimat -> なんて / .",
+    "ui_notes": "(1) memberi contoh, (2) meremehkan/menyepelekan, (3) merendahkan diri. KK/KS/KB (biasa) atau Kalimat -> なんて / など.",
+    "examples": [
+      {
+        "jp": "お化粧なんかしてはいけません。/ 納豆なんて嫌いだ。/ A:「泣いてるの？」 B:「泣いてなんかいないよ！」/ 日本語でスピーチなどできません。。",
+        "id": "Tidak boleh memakai riasan/make up segala."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

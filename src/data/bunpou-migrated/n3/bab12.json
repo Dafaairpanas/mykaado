@@ -1,0 +1,176 @@
+[
+  {
+    "id": "n3_bab12_1",
+    "chapter": "Bab 12",
+    "level": "N3",
+    "title": "〜てごらん",
+    "meaning": "digunakan dari atasan ke bawahan, orang tua ke anak, guru ke murid",
+    "formula_template": "{A}てごらん (なさい)",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}てごらん (なさい)' untuk mengekspresikan: digunakan dari atasan ke bawahan, orang tua ke anak, guru ke murid.",
+    "ui_notes": "digunakan dari atasan ke bawahan, orang tua ke anak, guru ke murid",
+    "examples": [
+      {
+        "jp": "わからなかったら、先生に聞いてごらん。",
+        "id": "kalau tidak tahu silahkan coba tanya ke sensei"
+      },
+      {
+        "jp": "もう一度やってごらんなさい。",
+        "id": "coba lakukan sekali lagi"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Perintah"
+    ]
+  },
+  {
+    "id": "n3_bab12_2",
+    "chapter": "Bab 12",
+    "level": "N3",
+    "title": "〜ようにいう",
+    "meaning": "bilang supaya...",
+    "formula_template": "[{A}るよう(に) / {B}ないよう(に)] [言（い）う / 頼（たの）む]",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}るよう(に) / {B}ないよう(に)] [言（い）う / 頼（たの）む]' untuk mengekspresikan: bilang supaya....",
+    "ui_notes": "bilang supaya...",
+    "examples": [
+      {
+        "jp": "田中さんに、私の部屋に来るよう言ってください。",
+        "id": "tolong bilang ke tanaka-san supaya datang ke ruangan saya"
+      },
+      {
+        "jp": "妻に、家ではたばこを吸わないよう言われています。",
+        "id": "saya dibilang oleh istri supaya tidak merokok (kalau) di rumah"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Perintah"
+    ]
+  },
+  {
+    "id": "n3_bab12_3",
+    "chapter": "Bab 12",
+    "level": "N3",
+    "title": "〜てくれと言われる",
+    "meaning": "dibilang supaya...",
+    "formula_template": "[{A}てくれと / {B}ないでくれと] [言（い）われる / 頼（たの）まれる]",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}てくれと / {B}ないでくれと] [言（い）われる / 頼（たの）まれる]' untuk mengekspresikan: dibilang supaya....",
+    "ui_notes": "dibilang supaya...",
+    "examples": [
+      {
+        "jp": "友達に、田中さんの電話番号を教えてくれと頼まれた。",
+        "id": "saya diminta teman untuk memberitahu nomor telepon tanaka-san"
+      },
+      {
+        "jp": "大家に、玄関の前に自転車を置かないでくれと言われた。",
+        "id": "saya dibilang oleh pemilik rumah (apartemen) agar tidak meletakkan sepeda di depan pintu"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Perintah"
+    ]
+  },
+  {
+    "id": "n3_bab12_4",
+    "chapter": "Bab 12",
+    "level": "N3",
+    "title": "禁止／命令 〜と言われる",
+    "meaning": "dibilang supaya...",
+    "formula_template": "[{A} と / {B}るな と (larangan)] [言（い）われる / 注意（ちゅうい）される / 怒（おこ）られる / しかられる]",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A} と / {B}るな と (larangan)] [言（い）われる / 注意（ちゅうい）される / 怒（おこ）られる / しかられる]' untuk mengekspresikan: dibilang supaya....",
+    "ui_notes": "dibilang supaya...",
+    "examples": [
+      {
+        "jp": "医者に酒を飲むなと言われた。",
+        "id": "saya dibilangin dokter untuk tidak minum"
+      },
+      {
+        "jp": "先生に、もっと勉強しろと言われた。",
+        "id": "saya dibilang sensei agar belajar lebih giat lagi"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Perintah"
+    ]
+  }
+]

@@ -1,0 +1,214 @@
+[
+  {
+    "id": "m_bab15_1",
+    "chapter": "Bab 15",
+    "level": "N5",
+    "title": "ABentuk ても いいですか",
+    "meaning": "Ini adalah ungkapan untuk meminta izin (Boleh......?).",
+    "formula_template": "{A} も いいですか",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} も いいですか' untuk menyatakan: Ini adalah ungkapan untuk meminta izin (Boleh......?).. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Untuk menjawab tidak memberi izin, bisa dengan menolak secara tidak langsung (すみません、ちょっと……) atau memakai ekspresi larangan (～てはいけません) sambil memberikan alasan.",
+    "examples": [
+      {
+        "jp": "写真を 撮っても いいですか。",
+        "id": "Boleh mengambil foto?"
+      },
+      {
+        "jp": "ここで たばこを 吸っても いいですか。……ええ、［吸っても］ いいですよ。",
+        "id": "Boleh merokok di sini? ……Ya, boleh [merokok]."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Kerja",
+      "Meminta Izin"
+    ]
+  },
+  {
+    "id": "m_bab15_2",
+    "chapter": "Bab 15",
+    "level": "N5",
+    "title": "ABentuk ては いけません",
+    "meaning": "Ekspresi ini menunjukkan arti larangan (Tidak boleh......).",
+    "formula_template": "{A} は いけません",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は いけません' untuk menyatakan: Ekspresi ini menunjukkan arti larangan (Tidak boleh......).. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Ekspresi ini tidak dapat dipakai oleh bawahan terhadap atasan.",
+    "examples": [
+      {
+        "jp": "ここで たばこを 吸っては いけません。禁煙ですから。",
+        "id": "Tidak boleh merokok di sini. Sebab dilarang merokok."
+      },
+      {
+        "jp": "ここに 入っては いけません。",
+        "id": "Tidak boleh masuk ke sini."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Kerja",
+      "Larangan"
+    ]
+  },
+  {
+    "id": "m_bab15_3",
+    "chapter": "Bab 15",
+    "level": "N5",
+    "title": "ABentuk て います (Keadaan & Kebiasaan)",
+    "meaning": "Selain menunjukkan aksi yang sedang berlangsung, pola ini juga menunjukkan keadaan yang berlanjut sebagai hasil dari suatu tindakan di masa lalu (seperti menikah, tahu, punya, tinggal), serta menunjukkan perbuatan dari kebiasaan/pekerjaan yang berlangsung berulang-ulang dalam jangka waktu lama.",
+    "formula_template": "{A} います",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} います' untuk menyatakan: Selain menunjukkan aksi yang sedang berlangsung, pola ini juga menunjukkan keadaan yang berlanjut sebagai hasi. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Bentuk negatif dari 知って います (tahu) adalah 知りません (tidak tahu), BUKAN 知って いません. もって います mempunyai dua arti: sedang memegang dan memiliki.",
+    "examples": [
+      {
+        "jp": "わたしは 結婚して います。",
+        "id": "Saya telah menikah. (Keadaan)"
+      },
+      {
+        "jp": "わたしは 田中さんを 知って います。",
+        "id": "Saya kenal Sdr. Tanaka. (Keadaan)"
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Kerja",
+      "Keadaan",
+      "Kebiasaan"
+    ]
+  },
+  {
+    "id": "m_bab15_4",
+    "chapter": "Bab 15",
+    "level": "N5",
+    "title": "Aに B",
+    "meaning": "Partikel に digunakan bersama Kata Kerja tertentu (seperti はいります, すわります, のります, dll) untuk menunjukkan titik/tempat akhir di mana subjek berada setelah melakukan aksi tersebut.",
+    "formula_template": "{A} に {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に {B}' untuk menyatakan: Partikel に digunakan bersama Kata Kerja tertentu (seperti はいります, すわります, のります, dll) untuk menunjukkan titik/tem. Pastikan 'A' mewakili Kata Benda (Tempat), 'B' mewakili Kata Kerja.",
+    "ui_notes": "Partikel に digunakan bersama Kata Kerja tertentu (seperti はいります, すわります, のります, dll) untuk menunjukkan titik/tempat akhir di mana subjek berada setelah melakukan aksi tersebut.",
+    "examples": [
+      {
+        "jp": "ここに 座っても いいですか。",
+        "id": "Boleh duduk di sini?"
+      },
+      {
+        "jp": "ここに 入っては いけません。",
+        "id": "Tidak boleh masuk ke sini."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Partikel",
+      "Titik Tujuan"
+    ]
+  },
+  {
+    "id": "m_bab15_5",
+    "chapter": "Bab 15",
+    "level": "N5",
+    "title": "A に B を C",
+    "meaning": "Partikel に menunjukkan tempat di mana objek (Kata Benda2) berada atau ditempatkan akibat dari melakukan sebuah aksi.",
+    "formula_template": "{A} に {B} を {C}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "C": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に {B} を {C}' untuk menyatakan: Partikel に menunjukkan tempat di mana objek (Kata Benda2) berada atau ditempatkan akibat dari melakukan sebuah. Pastikan 'A' mewakili Kata Benda1 (Tempat), 'B' mewakili Kata Benda2 (Objek), 'C' mewakili Kata Kerja.",
+    "ui_notes": "Partikel に menunjukkan tempat di mana objek (Kata Benda2) berada atau ditempatkan akibat dari melakukan sebuah aksi.",
+    "examples": [
+      {
+        "jp": "ここに 車を 止めて ください。",
+        "id": "Hentikan mobil di sini."
+      },
+      {
+        "jp": "ここに 住所を 書いて ください。",
+        "id": "Tuliskan alamat di sini."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Partikel",
+      "Lokasi Hasil Tindakan"
+    ]
+  }
+]

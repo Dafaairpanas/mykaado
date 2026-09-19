@@ -1,0 +1,142 @@
+[
+  {
+    "id": "i_bab06_1",
+    "chapter": "Bab 06",
+    "level": "A2.1",
+    "title": "Nに行きたいんですが… (N ni ikitai n desu ga…) — Saya Mau Pergi ke N",
+    "meaning": "Pola kalimat untuk menyatakan keinginan pergi ke suatu tempat, diikuti dengan pertanyaan atau permintaan bantuan. 'に行きたい' berarti 'ingin pergi ke', 'んですが' adalah bentuk penjelasan + penghubung yang sopan untuk mengantarkan pertanyaan. Sangat berguna saat menanyakan arah atau informasi. Artinya 'Saya mau pergi ke N (sebenarnya)...'.",
+    "formula_template": "{A} に 行きたいんですが、{B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に 行きたいんですが、{B}' untuk percakapan: Pola kalimat untuk menyatakan keinginan pergi ke suatu tempat, diikuti dengan pertanyaan atau permintaan bantu. Pastikan 'A' mewakili Tempat, 'B' mewakili Pertanyaan/Permintaan.",
+    "ui_notes": "'んですが' (atau 'のですが') di akhir kalimat pertama memberikan nuansa 'sebenarnya...' dan membuat pertanyaan lebih halus/sopan. Ini adalah cara yang sangat umum untuk memulai pertanyaan di Jepang. Untuk tujuan yang sudah disebutkan sebelumnya, cukup sebut 'そこ' (situ) atau 'あそこ' (sana).",
+    "examples": [
+      {
+        "jp": "マルイチデパートに行きたいんですが…。",
+        "id": "Saya mau pergi ke Departemen Store Maruichi (sebenarnya)..."
+      },
+      {
+        "jp": "郵便局に行きたいんですが、どうやって行きますか？",
+        "id": "Saya mau pergi ke kantor pos, bagaimana cara perginya?"
+      }
+    ],
+    "tags": [
+      "A2",
+      "Arah",
+      "Pertanyaan",
+      "Sopan",
+      "Tujuan"
+    ]
+  },
+  {
+    "id": "i_bab06_2",
+    "chapter": "Bab 06",
+    "level": "A2.1",
+    "title": "V-て、〜 — Instruksi / Petunjuk Arah",
+    "meaning": "Pola untuk memberikan instruksi atau petunjuk arah dengan menghubungkan beberapa tindakan. Bentuk 'て' dari kata kerja digunakan untuk menyatakan urutan tindakan, sering diikuti dengan 'ください' untuk instruksi sopan. Sangat penting saat memberi atau menerima petunjuk jalan. Artinya 'Lakukan [tindakan1], lalu [tindakan2]'.",
+    "formula_template": "{A} {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} {B}' untuk percakapan: Pola untuk memberikan instruksi atau petunjuk arah dengan menghubungkan beberapa tindakan. Bentuk 'て' dari kat. Pastikan 'A' mewakili Kata Kerja Bentuk te, 'B' mewakili Instruksi Berikutnya.",
+    "ui_notes": "Bentuk 'て' dari kata kerja umum untuk arah: 行く→行って (iku→itte - pergi), 曲がる→曲がって (magaru→magatte - belok), 渡る→渡って (wataru→watatte - menyeberang), 歩く→歩いて (aruku→aruite - berjalan). Untuk memberikan instruksi dengan sopan, tambahkan 'ください' di akhir.",
+    "examples": [
+      {
+        "jp": "まっすぐ行って、左に曲がってください。",
+        "id": "Lurus terus, lalu belok kiri."
+      },
+      {
+        "jp": "この道をまっすぐ行って、2つ目の信号を右に曲がってください。",
+        "id": "Jalan lurus di jalan ini, lalu belok kanan di lampu lalu lintas yang ke-2."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Arah",
+      "Instruksi",
+      "Perjalanan"
+    ]
+  },
+  {
+    "id": "i_bab06_3",
+    "chapter": "Bab 06",
+    "level": "A2.1",
+    "title": "N1じゃなくて、N2 (N1 janakute, N2) — Bukan N1, tapi N2",
+    "meaning": "Pola untuk mengoreksi atau memperjelas informasi dengan mengatakan 'bukan N1, tetapi N2'. 'じゃなくて' adalah bentuk negatif dari 'で' (penghubung) yang berarti 'bukan'. Sangat berguna saat memberikan arah dan mengoreksi kesalahan. Artinya 'Bukan N1, tapi N2'.",
+    "formula_template": "{A} じゃなくて、{B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} じゃなくて、{B}' untuk percakapan: Pola untuk mengoreksi atau memperjelas informasi dengan mengatakan 'bukan N1, tetapi N2'. 'じゃなくて' adalah bentu. Pastikan 'A' mewakili N1, 'B' mewakili N2.",
+    "ui_notes": "'じゃなくて' adalah bentuk kasual sopan dari 'ではなくて' (yang lebih formal). Digunakan untuk mengoreksi dengan halus. Untuk kata sifat-i: 安くなくて、高いです (Bukan murah, tapi mahal). Untuk kata kerja: 歩かなくて、バスで行きます (Bukan berjalan kaki, tapi naik bus).",
+    "examples": [
+      {
+        "jp": "1つ目じゃなくて、2つ目です。",
+        "id": "Bukan yang pertama, tapi yang kedua."
+      },
+      {
+        "jp": "右じゃなくて、左です。",
+        "id": "Bukan kanan, tapi kiri."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Koreksi",
+      "Arah",
+      "Penjelasan"
+    ]
+  }
+]

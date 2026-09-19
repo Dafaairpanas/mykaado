@@ -1,0 +1,161 @@
+[
+  {
+    "id": "n3_bab11_1",
+    "chapter": "Bab 11",
+    "level": "N3",
+    "title": "〜というより",
+    "meaning": "daripada..., bukan.... tapi...",
+    "formula_template": "[{A}/{B}/{C}(biasa)] [というより / というか]",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}/{B}/{C}(biasa)] [というより / というか]' untuk mengekspresikan: daripada..., bukan.... tapi....",
+    "ui_notes": "daripada..., bukan.... tapi...",
+    "examples": [
+      {
+        "jp": "前の車は遅すぎて、走るというよりはっているようだ。",
+        "id": "mobil depan lambat sekali, dari pada (disebut) berjalan, (lebih tepat disebut) merangkak"
+      },
+      {
+        "jp": "今日は涼しいというより寒いくらいだった。",
+        "id": "hari ini (lebih tepat disebut) dingin daripada sejuk"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab11_2",
+    "chapter": "Bab 11",
+    "level": "N3",
+    "title": "〜というと",
+    "meaning": "kalau ngomongin soal...",
+    "formula_template": "[{A}/{B}/{C}(biasa)] [というと / といえば / といったら]",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}/{B}/{C}(biasa)] [というと / といえば / といったら]' untuk mengekspresikan: kalau ngomongin soal....",
+    "ui_notes": "kalau ngomongin soal...",
+    "examples": [
+      {
+        "jp": "京都というと、お寺をイメージします。",
+        "id": "kalau membahas tentang kyoto, saya membayangkan temple"
+      },
+      {
+        "jp": "日本の食べ物といえば、おすしがいちばん有名だと思います。",
+        "id": "kalau membicarakan makanan Jepang, menurut saya sushi yang paling terkenal"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab11_3",
+    "chapter": "Bab 11",
+    "level": "N3",
+    "title": "〜といっても",
+    "meaning": "meskipun dikatakan... tapi",
+    "formula_template": "[{A}/{B}/{C}(biasa)] といっても",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}/{B}/{C}(biasa)] といっても' untuk mengekspresikan: meskipun dikatakan... tapi.",
+    "ui_notes": "meskipun dikatakan... tapi",
+    "examples": [
+      {
+        "jp": "週末は旅行しました。",
+        "id": "weekend lalu saya berwisata"
+      },
+      {
+        "jp": "旅行といっても、近くの温泉に行っただけですが。",
+        "id": "meskipun dikatakan wisata, tapi hanya pergi ke onsen terdekat"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

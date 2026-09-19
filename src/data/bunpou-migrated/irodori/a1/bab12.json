@@ -1,0 +1,170 @@
+[
+  {
+    "id": "i_bab12_1",
+    "chapter": "Bab 12",
+    "level": "A1",
+    "title": "【tanggal】に【tempat】で【acara】があります ([Tanggal] ni [tempat] de [acara] ga arimasu)",
+    "meaning": "Pola kalimat untuk menyatakan bahwa suatu acara akan diadakan pada waktu dan tempat tertentu. 'に' menunjukkan waktu, 'で' menunjukkan tempat, dan 'があります' berarti 'ada'. Sangat berguna saat membaca pengumuman atau undangan acara. Artinya 'Ada acara [acara] di [tempat] pada [tanggal]'.",
+    "formula_template": "{A} に {B} で {C} が あります",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "time"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に {B} で {C} が あります' untuk percakapan: Pola kalimat untuk menyatakan bahwa suatu acara akan diadakan pada waktu dan tempat tertentu. 'に' menunjukkan . Pastikan 'A' mewakili Tanggal, 'B' mewakili Tempat, 'C' mewakili Acara.",
+    "ui_notes": "Urutan dalam kalimat: [Waktu] に [Tempat] で [Acara] が あります。Untuk waktu yang spesifik seperti hari dan tanggal, gunakan partikel 'に'. Untuk waktu yang lebih umum (seperti 'besok' atau 'minggu depan'), 'に' bisa dihilangkan.",
+    "examples": [
+      {
+        "jp": "日曜日にさくら公園でタイフェスティバルがあります。",
+        "id": "Ada festival Thailand di Taman Sakura pada hari Minggu."
+      },
+      {
+        "jp": "来週の土曜日に市民ホールでコンサートがあります。",
+        "id": "Ada konser di Balai Warga pada hari Sabtu minggu depan."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Acara",
+      "Undangan",
+      "Lokasi",
+      "Waktu"
+    ]
+  },
+  {
+    "id": "i_bab12_2",
+    "chapter": "Bab 12",
+    "level": "A1",
+    "title": "Nに行きます",
+    "meaning": "Pola kalimat untuk menyatakan pergi ke suatu acara atau tempat. 'に' menunjukkan tujuan, dan '行きます' berarti 'pergi'. Digunakan untuk menanyakan atau menyatakan kehadiran di suatu acara. Artinya 'Pergi ke [acara/tempat]'.",
+    "formula_template": "{A} に 行きます",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に 行きます' untuk percakapan: Pola kalimat untuk menyatakan pergi ke suatu acara atau tempat. 'に' menunjukkan tujuan, dan '行きます' berarti 'pe. Pastikan 'A' mewakili Acara/Tempat.",
+    "ui_notes": "Untuk tujuan berupa tempat fisik (bukan acara), tetap gunakan pola yang sama: 東京に行きます (Pergi ke Tokyo). Untuk pertanyaan, tambahkan 'か' di akhir. Untuk menyatakan tidak pergi, gunakan: 行きません (tidak pergi).",
+    "examples": [
+      {
+        "jp": "明日の忘年会に行きますか？",
+        "id": "Apakah kamu pergi ke pesta akhir tahun besok?"
+      },
+      {
+        "jp": "夏祭りに行きます。",
+        "id": "Saya pergi ke festival musim panas."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Acara",
+      "Pergi",
+      "Kehadiran"
+    ]
+  },
+  {
+    "id": "i_bab12_3",
+    "chapter": "Bab 12",
+    "level": "A1",
+    "title": "V-ませんか？ — Ajakan",
+    "meaning": "Pola kalimat untuk mengajak seseorang melakukan sesuatu bersama. Bentuk negatif dari kata kerja + 'か' digunakan sebagai ajakan yang sopan. Secara harfiah berarti 'Tidak mau [aktivitas]?', tetapi dalam praktiknya berarti 'Mau [aktivitas] bersama?' atau 'Bagaimana kalau kita [aktivitas]?'. Sangat umum digunakan untuk mengajak teman atau rekan kerja.",
+    "formula_template": "{A} ませんか？",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ませんか？' untuk percakapan: Pola kalimat untuk mengajak seseorang melakukan sesuatu bersama. Bentuk negatif dari kata kerja + 'か' digunaka. Pastikan 'A' mewakili Kata Kerja Bentuk Masu tanpa masu.",
+    "ui_notes": "Cara merespon ajakan: Menerima: はい、いいですね (Ya, bagus). / はい、行きましょう (Ya, ayo pergi). Menolak dengan sopan: すみません、ちょっと… (Maaf, agak...). / また今度お願いします (Lain kali saja). 'V-ませんか' lebih sopan daripada 'V-ましょうか'.",
+    "examples": [
+      {
+        "jp": "いっしょに行きませんか？",
+        "id": "Bagaimana kalau kita pergi bersama?"
+      },
+      {
+        "jp": "映画を見ませんか？",
+        "id": "Bagaimana kalau kita menonton film?"
+      }
+    ],
+    "tags": [
+      "A1",
+      "Ajakan",
+      "Sopan",
+      "Komunikasi"
+    ]
+  },
+  {
+    "id": "i_bab12_4",
+    "chapter": "Bab 12",
+    "level": "A1",
+    "title": "V-ましょう — Ayo ...",
+    "meaning": "Pola kalimat untuk mengajak atau menawarkan melakukan sesuatu bersama, atau menyatakan niat untuk melakukan sesuatu. Bentuk ini lebih langsung daripada 'V-ませんか' dan sering digunakan saat sudah ada kesepakatan atau saat menyatakan rencana. Artinya 'Ayo [aktivitas]' atau 'Saya akan [aktivitas]'.",
+    "formula_template": "{A} ましょう",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ましょう' untuk percakapan: Pola kalimat untuk mengajak atau menawarkan melakukan sesuatu bersama, atau menyatakan niat untuk melakukan se. Pastikan 'A' mewakili Kata Kerja Bentuk Masu tanpa masu.",
+    "ui_notes": "Perbedaan: 'V-ませんか' = ajakan yang lebih sopan (masih menanyakan pendapat), 'V-ましょう' = ajakan yang lebih tegas/bersemangat (sudah ada kesepakatan). Contoh penggunaan: A: 映画を見ませんか？ (Mau nonton film?) B: いいですね。見ましょう！ (Bagus! Ayo nonton!)",
+    "examples": [
+      {
+        "jp": "また今度行きましょう。",
+        "id": "Ayo pergi lain kali."
+      },
+      {
+        "jp": "みんなで食べに行きましょう。",
+        "id": "Ayo pergi makan bersama-sama."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Ajakan",
+      "Rencana",
+      "Komunikasi"
+    ]
+  }
+]

@@ -1,0 +1,658 @@
+{
+  "id": "n5-paket-01",
+  "title": "Tes Level N5 - Bunpou",
+  "duration_minutes": 30,
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "n5_bunpou_25",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "ここは病院(びょういん)ですから、大(おお)きな声(こえ)で話(はな)さ（　　　）ください。ほかの患者(かんじゃ)さんが寝(ね)ています。",
+      "options": [
+        "A. ないで",
+        "B. ない",
+        "C. なくて",
+        "D. ないと"
+      ],
+      "correct_answer_index": 0
+    },
+    {
+      "id": "n5_bunpou_3",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "駅(えき)から会社(かいしゃ)（　　　）は歩(ある)いて20分(ぷん)ぐらいかかりますが、駅(えき)から家(いえ)までは10分(ぷん)しかかかりません。",
+      "options": [
+        "A. や",
+        "B. だけ",
+        "C. まで",
+        "D. くらい"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "id": "n5_bunpou_1",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "昨日(きのう)は朝(あさ)から雨(あめ)が降(ふ)っていました（　　　）、傘(かさ)を持(も)って学校(がっこう)へ行(い)きましたが、帰(かえ)るときには雨(あめ)がやんでいました。",
+      "options": [
+        "A. まで",
+        "B. から",
+        "C. ので",
+        "D. けれども"
+      ],
+      "correct_answer_index": 3
+    },
+    {
+      "id": "n5_bunpou_4",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "休(やす)みの日(ひ)は、映画(えいが)を見(み)たり、友達(ともだち)と買(か)い物(もの)をしたり（　　　）、家(いえ)で料理(りょうり)をしたりします。",
+      "options": [
+        "A. します",
+        "B. います",
+        "C. まで",
+        "D. だけ"
+      ],
+      "correct_answer_index": 0
+    },
+    {
+      "id": "n5_bunpou_15",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "この部屋(へや)は暗(くら)いので、電気(でんき)をつけて、もっと明(あか)る（　　　）。",
+      "options": [
+        "A. にしましょう",
+        "B. くしましょう",
+        "C. くなりましょう",
+        "D. になりましょう"
+      ],
+      "correct_answer_index": 1
+    },
+    {
+      "id": "n5_bunpou_14",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "まだ宿題(しゅくだい)をして（　　　）ので、遊(あそ)びに行(い)くことができません。",
+      "options": [
+        "A. います",
+        "B. いません",
+        "C. しまいます",
+        "D. あります"
+      ],
+      "correct_answer_index": 1
+    },
+    {
+      "id": "n5_bunpou_12",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "仕事(しごと)がとても忙(いそが)しい日(ひ)は、昼(ひる)ご飯(はん)を食(た)べる時間(じかん)がない（　　　）あります。",
+      "options": [
+        "A. まで",
+        "B. たり",
+        "C. ことも",
+        "D. だけ"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "id": "n5_bunpou_21",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "来週(らいしゅう)は仕事(しごと)が休(やす)みなので、家族(かぞく)と一緒(いっしょ)に京都(きょうと)へ旅行(りょこう)に（　　　）です。",
+      "options": [
+        "A. 行(い)ってたい",
+        "B. 行(い)くほしい",
+        "C. 行(い)きほしい",
+        "D. 行(い)きたい"
+      ],
+      "correct_answer_index": 3
+    },
+    {
+      "id": "n5_bunpou_7",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "スーパーでは、野菜(やさい)（　　　）果物(くだもの)を買(か)いましたが、肉(にく)は買(か)いませんでした。",
+      "options": [
+        "A. から",
+        "B. まで",
+        "C. や",
+        "D. だけ"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "id": "n5_bunpou_11",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "私(わたし)は日本(にほん)へ行(い)ったこと（　　　）ありますが、北海道(ほっかいどう)へ行(い)ったことはまだありません。",
+      "options": [
+        "A. に",
+        "B. を",
+        "C. が",
+        "D. で"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "id": "n5_bunpou_6",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "家(いえ)から駅(えき)までは10分(ぷん)（　　　）ですから、電車(でんしゃ)の時間(じかん)の15分前(ふんまえ)に家(いえ)を出(で)れば大丈夫(だいじょうぶ)です。",
+      "options": [
+        "A. だけ",
+        "B. ぐらい",
+        "C. まで",
+        "D. しか"
+      ],
+      "correct_answer_index": 1
+    },
+    {
+      "id": "n5_bunpou_22",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "この荷物(にもつ)は重(おも)くて一人(ひとり)では持(も)てないので、少(すこ)し手伝(てつだ)って（　　　）です。",
+      "options": [
+        "A. するん",
+        "B. ほしい",
+        "C. ください",
+        "D. いたい"
+      ],
+      "correct_answer_index": 1
+    },
+    {
+      "id": "n5_bunpou_17",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "春(はる)になると、少(すこ)しずつ暖(あたた)か（　　　）ので、冬(ふゆ)の厚(あつ)いコートは必要(ひつよう)なくなります。",
+      "options": [
+        "A. くなります",
+        "B. にします",
+        "C. になります",
+        "D. くします"
+      ],
+      "correct_answer_index": 0
+    },
+    {
+      "id": "n5_bunpou_20",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "誕生日(たんじょうび)が近(ちか)いので、今年(ことし)は新(あたら)しい時計(とけい)（　　　）欲(ほ)しいです。",
+      "options": [
+        "A. に",
+        "B. で",
+        "C. を",
+        "D. が"
+      ],
+      "correct_answer_index": 3
+    },
+    {
+      "id": "n5_bunpou_19",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "明日(あした)は朝(あさ)から大切(たいせつ)な会議(かいぎ)があるので、会社(かいしゃ)にはいつも（　　　）早(はや)く着(つ)くでしょう。",
+      "options": [
+        "A. より",
+        "B. まで",
+        "C. から",
+        "D. ぐらい"
+      ],
+      "correct_answer_index": 0
+    },
+    {
+      "id": "n5_bunpou_24",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "明日(あした)は試験(しけん)がありますから、今夜(こんや)はテレビを見(み)ないで、早(はや)く寝(ね)る（　　　）です。",
+      "options": [
+        "A. こと",
+        "B. から",
+        "C. ほしい",
+        "D. つもり"
+      ],
+      "correct_answer_index": 3
+    },
+    {
+      "id": "n5_bunpou_9",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "先週(せんしゅう)、学校(がっこう)の近(ちか)くで大(おお)きな事故(じこ)（　　　）ありました。そのため、道(みち)がとても混(こ)んでいました。",
+      "options": [
+        "A. が",
+        "B. に",
+        "C. で",
+        "D. を"
+      ],
+      "correct_answer_index": 0
+    },
+    {
+      "id": "n5_bunpou_10",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "公園(こうえん)のベンチの近(ちか)くに小(ちい)さい猫(ねこ)（　　　）います。誰(だれ)かが毎日(まいにち)えさをあげているようです。",
+      "options": [
+        "A. で",
+        "B. が",
+        "C. を",
+        "D. に"
+      ],
+      "correct_answer_index": 1
+    },
+    {
+      "id": "n5_bunpou_13",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "今(いま)、母(はは)は台所(だいどころ)で夕(ゆう)ご飯(はん)を作(つく)って（　　　）ので、もう少(すこ)し待(ま)ってください。",
+      "options": [
+        "A. います",
+        "B. あります",
+        "C. ください",
+        "D. しまいます"
+      ],
+      "correct_answer_index": 0
+    },
+    {
+      "id": "n5_bunpou_5",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "冷蔵庫(れいぞうこ)の中(なか)には、卵(たまご)が二(ふた)つ（　　　）ありません。買(か)い物(もの)に行(い)かなければなりません。",
+      "options": [
+        "A. まで",
+        "B. ぐらい",
+        "C. しか",
+        "D. だけ"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "id": "n5_bunpou_8",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "日本語(にほんご)の勉強(べんきょう)は難(むずか)しい（　　　）、毎日(まいにち)少(すこ)しずつ勉強(べんきょう)すると楽(たの)しくなります。",
+      "options": [
+        "A. まで",
+        "B. けれども",
+        "C. から",
+        "D. ので"
+      ],
+      "correct_answer_index": 1
+    },
+    {
+      "id": "n5_bunpou_23",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "旅行(りょこう)の前(まえ)に、ホテルだけは早(はや)く予約(よやく)して（　　　）と思(おも)っています。",
+      "options": [
+        "A. おきたい",
+        "B. しまいたい",
+        "C. ほしい",
+        "D. ください"
+      ],
+      "correct_answer_index": 0
+    },
+    {
+      "id": "n5_bunpou_18",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "私は一人(ひとり)で料理(りょうり)を作(つく)ること（　　　）できますが、まだ上手(じょうず)ではありません。",
+      "options": [
+        "A. が",
+        "B. を",
+        "C. に",
+        "D. で"
+      ],
+      "correct_answer_index": 0
+    },
+    {
+      "id": "n5_bunpou_2",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "明日(あした)は朝(あさ)早(はや)く起(お)きなければならない（　　　）、今夜(こんや)はテレビを見(み)ないで早(はや)く寝(ね)ます。",
+      "options": [
+        "A. まで",
+        "B. たり",
+        "C. ので",
+        "D. だけ"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "id": "n5_bunpou_16",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "来月(らいげつ)からこの町(まち)に新(あたら)しい駅(えき)ができるので、今(いま)より便利(べんり)（　　　）と思(おも)います。",
+      "options": [
+        "A. くします",
+        "B. になります",
+        "C. にします",
+        "D. くなります"
+      ],
+      "correct_answer_index": 1
+    },
+    {
+      "id": "n5_bunpou_34",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "この町(まち)にはいろいろな食(た)べ物(もの)がありますが、私(わたし)は日本(にほん)の食(た)べ物(もの)（　　　）、寿司(すし)が一番(いちばん)好(す)きです。",
+      "options": [
+        "A. より",
+        "B. だけ",
+        "C. の中(なか)で",
+        "D. まで"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "id": "n5_bunpou_41",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "私(わたし)は料理(りょうり)を作(つく)る（　　　）が好(す)きなので、休(やす)みの日(ひ)は家族(かぞく)のためにいろいろな料理(りょうり)を作(つく)ります。",
+      "options": [
+        "A. ため",
+        "B. ところ",
+        "C. の",
+        "D. こと"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "id": "n5_bunpou_46",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "旅行(りょこう)へ行(い)く前(まえ)に、必要(ひつよう)な物(もの)を全部(ぜんぶ)バッグに入(い)れて（　　　）つもりでしたが、パスポートを忘(わす)れてしまいました。",
+      "options": [
+        "A. なる",
+        "B. おく",
+        "C. ある",
+        "D. いる"
+      ],
+      "correct_answer_index": 1
+    },
+    {
+      "id": "n5_bunpou_38",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "週末(しゅうまつ)、友達(ともだち)と新(あたら)しい服(ふく)を買(か)い（　　　）ショッピングモールへ行(い)きます。",
+      "options": [
+        "A. で",
+        "B. が",
+        "C. を",
+        "D. に"
+      ],
+      "correct_answer_index": 3
+    },
+    {
+      "id": "n5_bunpou_33",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "明日(あした)大切(たいせつ)な試験(しけん)がありますから、今夜(こんや)は遅(おそ)くまでゲームをし（　　　）方(ほう)がいいです。",
+      "options": [
+        "A. ない",
+        "B. なくて",
+        "C. た",
+        "D. ないで"
+      ],
+      "correct_answer_index": 3
+    },
+    {
+      "id": "n5_bunpou_26",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "この漢字(かんじ)の意味(いみ)が分(わ)からないので、先生(せんせい)、もう一度(いちど)説明(せつめい)して（　　　）。",
+      "options": [
+        "A. もらえませんか",
+        "B. くれませんか",
+        "C. ください",
+        "D. あげませんか"
+      ],
+      "correct_answer_index": 1
+    },
+    {
+      "id": "n5_bunpou_28",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "この図書館(としょかん)では、本(ほん)を借(か)りたまま返(かえ)さ（　　　）。",
+      "options": [
+        "A. てはいけません",
+        "B. なくてもいいです",
+        "C. なければなりません",
+        "D. ないでください"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "id": "n5_bunpou_40",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "私(わたし)の兄(あに)は子供(こども)のころから絵(え)を描(か)く（　　　）が上手(じょうず)で、今(いま)は絵(え)の仕事(しごと)をしています。",
+      "options": [
+        "A. の",
+        "B. もの",
+        "C. ため",
+        "D. こと"
+      ],
+      "correct_answer_index": 0
+    },
+    {
+      "id": "n5_bunpou_27",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "明日(あした)はみんなで公園(こうえん)を掃除(そうじ)する予定(よてい)です。9時(じ)に駅(えき)に集(あつ)まって、一緒(いっしょ)に（　　　）。",
+      "options": [
+        "A. 行(い)きません",
+        "B. 行(い)ってください",
+        "C. 行(い)きたいです",
+        "D. 行(い)きましょう"
+      ],
+      "correct_answer_index": 3
+    },
+    {
+      "id": "n5_bunpou_29",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "この部屋(へや)は誰(だれ)も使(つか)っていませんから、ここに荷物(にもつ)を置(お)い（　　　）ですよ。",
+      "options": [
+        "A. てはいけません",
+        "B. てもいい",
+        "C. なければなりません",
+        "D. なくてもいい"
+      ],
+      "correct_answer_index": 1
+    },
+    {
+      "id": "n5_bunpou_30",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "明日(あした)のテストは簡単(かんたん)ですから、全部(ぜんぶ)覚(おぼ)え（　　　）です。",
+      "options": [
+        "A. てはいけないの",
+        "B. てもいい",
+        "C. てはならないの",
+        "D. なくてもいい"
+      ],
+      "correct_answer_index": 3
+    },
+    {
+      "id": "n5_bunpou_32",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "風邪(かぜ)を早(はや)く治(なお)したいなら、今日は無理(むり)をしないで、早(はや)く寝(ね)た（　　　）いいですよ。",
+      "options": [
+        "A. より",
+        "B. だけ",
+        "C. 方(ほう)が",
+        "D. まで"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "id": "n5_bunpou_37",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "寝(ね)る（　　　）に、歯(は)を磨(みが)いて、部屋(へや)の電気(でんき)を消(け)るようにしています。",
+      "options": [
+        "A. まで",
+        "B. 後(あと)",
+        "C. 前(まえ)",
+        "D. てから"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "id": "n5_bunpou_47",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "この公園(こうえん)では、犬(いぬ)を連(つ)れて来(き)てもいいですが、ほかの人(ひと)が困(こま)るので、犬(いぬ)を一人(ひとり)で歩(ある)かせ（　　　）ください。",
+      "options": [
+        "A. ません",
+        "B. なくて",
+        "C. ないで",
+        "D. ない"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "id": "n5_bunpou_44",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "この店(みせ)では、外国(がいこく)のお客(きゃく)さん（　　　）日本人(にほんじん)のお客(きゃく)さんもたくさん来(き)ます。",
+      "options": [
+        "A. や",
+        "B. しか",
+        "C. より",
+        "D. だけ"
+      ],
+      "correct_answer_index": 0
+    },
+    {
+      "id": "n5_bunpou_48",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "私は毎朝(まいあさ)6時(じ)に起(お)きて、シャワーを浴(あ)びてから朝(あさ)ご飯(はん)を食(た)べます。朝(あさ)ご飯(はん)を食(た)べ（　　　）、会社(かいしゃ)へ行(い)きます。",
+      "options": [
+        "A. 前(まえ)に",
+        "B. たり",
+        "C. てから",
+        "D. までに"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "id": "n5_bunpou_45",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "この荷物(にもつ)は一人(ひとり)で持(も)つことができます（　　　）、重(おも)いので、二人(ふたり)で持(も)ったほうが安全(あんぜん)です。",
+      "options": [
+        "A. まで",
+        "B. から",
+        "C. けれども",
+        "D. ので"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "id": "n5_bunpou_35",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "この二(ふた)つのホテルなら、駅(えき)から近(ちか)いホテル（　　　）方(ほう)がいいと思(おも)います。",
+      "options": [
+        "A. の",
+        "B. より",
+        "C. の中(なか)で",
+        "D. だけ"
+      ],
+      "correct_answer_index": 0
+    },
+    {
+      "id": "n5_bunpou_36",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "朝(あさ)ご飯(はん)を食(た)べ（　　　）学校(がっこう)へ行(い)ったので、午前中(ごぜんちゅう)も元気(げんき)に勉強(べんきょう)できました。",
+      "options": [
+        "A. てから",
+        "B. 前(まえ)に",
+        "C. まで",
+        "D. たり"
+      ],
+      "correct_answer_index": 0
+    },
+    {
+      "id": "n5_bunpou_31",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "会社(かいしゃ)に入(はい)る前(まえ)に、名前(なまえ)と住所(じゅうしょ)を書(か)か（　　　）。",
+      "options": [
+        "A. なくてもいいです",
+        "B. てもいいです",
+        "C. なければなりません",
+        "D. ないでください"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "id": "n5_bunpou_49",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "この町(まち)には「さくら病院(びょういん)」（　　　）大(おお)きな病院(びょういん)があります。駅(えき)から歩(ある)いて行(い)くこともできます。",
+      "options": [
+        "A. とき",
+        "B. という",
+        "C. と",
+        "D. とても"
+      ],
+      "correct_answer_index": 1
+    },
+    {
+      "id": "n5_bunpou_50",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "私(わたし)は日本(にほん)の季節(きせつ)の中(なか)で春(はる)が一番(いちばん)好(す)きです。暖(あたた)かくなります（　　　）、桜(さくら)の花(はな)もきれいですから、毎年(まいとし)春(はる)になると友達(ともだち)と公園(こうえん)へ桜(さくら)を見(み)に行(い)きます。",
+      "options": [
+        "A. から",
+        "B. だけ",
+        "C. けれども",
+        "D. まで"
+      ],
+      "correct_answer_index": 0
+    },
+    {
+      "id": "n5_bunpou_39",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "昨日(きのう)は仕事(しごと)が終(お)わるのが遅(おそ)くて、家(いえ)に着(つ)いたときには夜(よる)の12時(じ)を（　　　）いました。",
+      "options": [
+        "A. 過(す)ぎて",
+        "B. 来(き)て",
+        "C. 行(い)って",
+        "D. して"
+      ],
+      "correct_answer_index": 0
+    },
+    {
+      "id": "n5_bunpou_43",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "A：「今度(こんど)の休(やす)みに何(なに)をしたいですか。」\nB：「海(うみ)へ行(い)ったり、（　　　）、おいしい魚(さかな)を食(た)べたりしたいです。」",
+      "options": [
+        "A. 泳(およ)ぐまで",
+        "B. 泳(およ)ぐしか",
+        "C. 泳(およ)いだり",
+        "D. 泳(およ)ぐだけ"
+      ],
+      "correct_answer_index": 2
+    },
+    {
+      "id": "n5_bunpou_42",
+      "type": "bunpou",
+      "instruction": "Pilih jawaban yang paling tepat.",
+      "question_text": "駅(えき)から学校(がっこう)まで歩(ある)くと30分(ぷん)（　　　）かかりますが、自転車(じてんしゃ)なら10分(ぷん)ぐらいです。",
+      "options": [
+        "A. まで",
+        "B. だけ",
+        "C. くらい",
+        "D. しか"
+      ],
+      "correct_answer_index": 2
+    }
+  ]
+}

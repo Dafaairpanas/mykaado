@@ -1,0 +1,826 @@
+[
+  {
+    "id": "kj-n5-001",
+    "kanji": "安",
+    "onyomi": "アン",
+    "kunyomi": "やす.い, やす.まる, やす, やす.らか",
+    "meaning": "santai, murah, rendah, tenang, segar",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-002",
+    "kanji": "一",
+    "onyomi": "イチ, イツ",
+    "kunyomi": "ひと-, ひと.つ",
+    "meaning": "satu, satu radikal (no. 1)",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-003",
+    "kanji": "飲",
+    "onyomi": "イン, オン",
+    "kunyomi": "の.む, -の.み",
+    "meaning": "minum, merokok, mengonsumsi",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-004",
+    "kanji": "右",
+    "onyomi": "ウ, ユウ",
+    "kunyomi": "みぎ",
+    "meaning": "benar",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-005",
+    "kanji": "雨",
+    "onyomi": "ウ",
+    "kunyomi": "あめ, あま-, -さめ",
+    "meaning": "hujan",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-006",
+    "kanji": "駅",
+    "onyomi": "エキ",
+    "kunyomi": "",
+    "meaning": "stasiun",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-007",
+    "kanji": "円",
+    "onyomi": "エン",
+    "kunyomi": "まる.い, まる, まど, まど.か, まろ.やか",
+    "meaning": "lingkaran, yen, bulat",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-008",
+    "kanji": "下",
+    "onyomi": "カ, ゲ",
+    "kunyomi": "した, しも, もと, さ.げる, さ.がる, くだ.る, くだ.り, くだ.す, -くだ.す, くだ.さる, お.ろす, お.りる",
+    "meaning": "di bawah, ke bawah, turun, memberikan, rendah",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-009",
+    "kanji": "何",
+    "onyomi": "カ",
+    "kunyomi": "なに, なん, なに-, なん-",
+    "meaning": "apa",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-010",
+    "kanji": "火",
+    "onyomi": "カ",
+    "kunyomi": "ひ, -び, ほ-",
+    "meaning": "empat",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-011",
+    "kanji": "花",
+    "onyomi": "カ, ケ",
+    "kunyomi": "はな",
+    "meaning": "bunga",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-012",
+    "kanji": "会",
+    "onyomi": "カイ, エ",
+    "kunyomi": "あ.う, あ.わせる, あつ.まる",
+    "meaning": "pertemuan, pertemuan, pesta, perkumpulan, wawancara",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-013",
+    "kanji": "外",
+    "onyomi": "ガイ, ゲ",
+    "kunyomi": "そと, ほか, はず.す, はず.れる, と-",
+    "meaning": "di luar",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-014",
+    "kanji": "学",
+    "onyomi": "ガク",
+    "kunyomi": "まな.ぶ",
+    "meaning": "studi, pembelajaran, ilmu pengetahuan",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-015",
+    "kanji": "間",
+    "onyomi": "カン, ケン",
+    "kunyomi": "あいだ, ま, あい",
+    "meaning": "interval, spasi",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-016",
+    "kanji": "気",
+    "onyomi": "キ, ケ",
+    "kunyomi": "いき, き",
+    "meaning": "jiwa, pikiran, udara, suasana, suasana hati",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-017",
+    "kanji": "休",
+    "onyomi": "キュウ",
+    "kunyomi": "やす.む, やす.まる, やす.める",
+    "meaning": "istirahat, hari libur, pensiun, tidur",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-018",
+    "kanji": "魚",
+    "onyomi": "ギョ",
+    "kunyomi": "うお, さかな, -ざかな",
+    "meaning": "ikan",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-019",
+    "kanji": "金",
+    "onyomi": "キン, コン, ゴン",
+    "kunyomi": "かね, かな-, -がね",
+    "meaning": "emas",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-020",
+    "kanji": "九",
+    "onyomi": "キュウ, ク",
+    "kunyomi": "ここの, ここの.つ",
+    "meaning": "sembilan",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-021",
+    "kanji": "空",
+    "onyomi": "クウ",
+    "kunyomi": "そら, あ.く, あ.き, あ.ける, から, す.く, す.かす, むな.しい",
+    "meaning": "kosong, langit, kekosongan, tak berpenghuni, ruang hampa",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-022",
+    "kanji": "月",
+    "onyomi": "ゲツ, ガツ",
+    "kunyomi": "つき",
+    "meaning": "bulan, bulan",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-023",
+    "kanji": "見",
+    "onyomi": "ケン",
+    "kunyomi": "み.る, み.える, み.せる",
+    "meaning": "lihat, harapan, peluang, gagasan, pendapat",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-024",
+    "kanji": "言",
+    "onyomi": "ゲン, ゴン",
+    "kunyomi": "い.う, こと",
+    "meaning": "katakanlah, kata",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-025",
+    "kanji": "古",
+    "onyomi": "コ",
+    "kunyomi": "ふる.い, ふる-, -ふる.す",
+    "meaning": "lama",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-026",
+    "kanji": "五",
+    "onyomi": "ゴ",
+    "kunyomi": "いつ, いつ.つ",
+    "meaning": "lima",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-027",
+    "kanji": "午",
+    "onyomi": "ゴ",
+    "kunyomi": "うま",
+    "meaning": "siang hari, tanda Kuda, pukul 11.00–13.00, tanda ketujuh dalam zodiak Tiongkok",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-028",
+    "kanji": "後",
+    "onyomi": "ゴ, コウ",
+    "kunyomi": "のち, うし.ろ, うしろ, あと, おく.れる",
+    "meaning": "di belakang, di belakang, nanti",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-029",
+    "kanji": "語",
+    "onyomi": "ゴ",
+    "kunyomi": "かた.る, かた.らう",
+    "meaning": "kata, ucapan, bahasa",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-030",
+    "kanji": "口",
+    "onyomi": "コウ, ク",
+    "kunyomi": "くち",
+    "meaning": "mulut",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-031",
+    "kanji": "校",
+    "onyomi": "コウ, キョウ",
+    "kunyomi": "",
+    "meaning": "ujian, sekolah, pencetakan, salinan, koreksi",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-032",
+    "kanji": "行",
+    "onyomi": "コウ, ギョウ, アン",
+    "kunyomi": "い.く, ゆ.く, -ゆ.き, -ゆき, -い.き, -いき, おこな.う, おこ.なう",
+    "meaning": "pergi, perjalanan, melaksanakan, melakukan, bertindak",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-033",
+    "kanji": "高",
+    "onyomi": "コウ",
+    "kunyomi": "たか.い, たか, -だか, たか.まる, たか.める",
+    "meaning": "tinggi, tinggi, mahal",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-034",
+    "kanji": "国",
+    "onyomi": "コク",
+    "kunyomi": "くに",
+    "meaning": "negara",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-035",
+    "kanji": "今",
+    "onyomi": "コン, キン",
+    "kunyomi": "いま",
+    "meaning": "sekarang",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-036",
+    "kanji": "左",
+    "onyomi": "サ, シャ",
+    "kunyomi": "ひだり",
+    "meaning": "kiri",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-037",
+    "kanji": "三",
+    "onyomi": "サン, ゾウ",
+    "kunyomi": "み, み.つ, みっ.つ",
+    "meaning": "tiga",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-038",
+    "kanji": "山",
+    "onyomi": "サン, セン",
+    "kunyomi": "やま",
+    "meaning": "gunung",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-039",
+    "kanji": "四",
+    "onyomi": "シ",
+    "kunyomi": "よ, よ.つ, よっ.つ, よん",
+    "meaning": "empat",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-040",
+    "kanji": "子",
+    "onyomi": "シ, ス, ツ",
+    "kunyomi": "こ, -こ, ね",
+    "meaning": "Anak, zodiak Tikus, pukul 23.00–01.00, zodiak Tionghoa yang pertama",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-041",
+    "kanji": "時",
+    "onyomi": "ジ",
+    "kunyomi": "とき, -どき",
+    "meaning": "waktu, jam",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-042",
+    "kanji": "耳",
+    "onyomi": "ジ",
+    "kunyomi": "みみ",
+    "meaning": "telinga",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-043",
+    "kanji": "七",
+    "onyomi": "シチ",
+    "kunyomi": "なな, なな.つ, なの",
+    "meaning": "tujuh",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-044",
+    "kanji": "社",
+    "onyomi": "シャ",
+    "kunyomi": "やしろ",
+    "meaning": "perusahaan, firma, kantor, perkumpulan, tempat suci",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-045",
+    "kanji": "車",
+    "onyomi": "シャ",
+    "kunyomi": "くるま",
+    "meaning": "karena",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-046",
+    "kanji": "手",
+    "onyomi": "シュ, ズ",
+    "kunyomi": "て, て-, -て, た-",
+    "meaning": "tangan",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-047",
+    "kanji": "週",
+    "onyomi": "シュウ",
+    "kunyomi": "",
+    "meaning": "minggu",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-048",
+    "kanji": "十",
+    "onyomi": "ジュウ, ジッ, ジュッ",
+    "kunyomi": "とお, と, そ",
+    "meaning": "ini",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-049",
+    "kanji": "出",
+    "onyomi": "シュツ, スイ",
+    "kunyomi": "で.る, -で, だ.す, -だ.す, い.でる, い.だす",
+    "meaning": "keluar, pergi, keluar rumah, muncul, memadamkan",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-050",
+    "kanji": "書",
+    "onyomi": "ショ",
+    "kunyomi": "か.く, -が.き, -がき",
+    "meaning": "tulis",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-051",
+    "kanji": "女",
+    "onyomi": "ジョ, ニョ, ニョウ",
+    "kunyomi": "おんな, め",
+    "meaning": "wanita, perempuan",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-052",
+    "kanji": "小",
+    "onyomi": "ショウ",
+    "kunyomi": "ちい.さい, こ-, お-, さ-",
+    "meaning": "sedikit, kecil",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-053",
+    "kanji": "少",
+    "onyomi": "ショウ",
+    "kunyomi": "すく.ない, すこ.し",
+    "meaning": "sedikit, kecil",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-054",
+    "kanji": "上",
+    "onyomi": "ジョウ, ショウ, シャン",
+    "kunyomi": "うえ, -うえ, うわ-, かみ, あ.げる, -あ.げる, あ.がる, -あ.がる, あ.がり, -あ.がり, のぼ.る, のぼ.り, のぼ.せる, のぼ.す, たてまつ.る",
+    "meaning": "di atas, ke atas",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-055",
+    "kanji": "食",
+    "onyomi": "ショク, ジキ",
+    "kunyomi": "く.う, く.らう, た.べる, は.む",
+    "meaning": "makan, makanan",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-056",
+    "kanji": "新",
+    "onyomi": "シン",
+    "kunyomi": "あたら.しい, あら.た, あら-, にい-",
+    "meaning": "baru",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-057",
+    "kanji": "人",
+    "onyomi": "ジン, ニン",
+    "kunyomi": "ひと, -り, -と",
+    "meaning": "orang",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-058",
+    "kanji": "水",
+    "onyomi": "スイ",
+    "kunyomi": "みず, みず-",
+    "meaning": "air",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-059",
+    "kanji": "生",
+    "onyomi": "セイ, ショウ",
+    "kunyomi": "い.きる, い.かす, い.ける, う.まれる, うま.れる, う.まれ, うまれ, う.む, お.う, は.える, は.やす, き, なま, なま-, な.る, な.す, む.す, -う",
+    "meaning": "hidup, sejati, kelahiran",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-060",
+    "kanji": "西",
+    "onyomi": "セイ, サイ, ス",
+    "kunyomi": "にし",
+    "meaning": "Barat, Spanyol",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-061",
+    "kanji": "先",
+    "onyomi": "セン",
+    "kunyomi": "さき, ま.ず",
+    "meaning": "sebelum, di depan, sebelumnya, masa depan, prioritas",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-062",
+    "kanji": "千",
+    "onyomi": "セン",
+    "kunyomi": "ち",
+    "meaning": "ribu",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-063",
+    "kanji": "川",
+    "onyomi": "セン",
+    "kunyomi": "かわ",
+    "meaning": "sungai, sungai, atau radikal sungai tiga goresan (no. 47)",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-064",
+    "kanji": "前",
+    "onyomi": "ゼン",
+    "kunyomi": "まえ, -まえ",
+    "meaning": "di depan, sebelum",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-065",
+    "kanji": "足",
+    "onyomi": "ソク",
+    "kunyomi": "あし, た.りる, た.る, た.す",
+    "meaning": "kaki, telapak kaki, cukup, rak untuk sepasang alas kaki",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-066",
+    "kanji": "多",
+    "onyomi": "タ",
+    "kunyomi": "おお.い, まさ.に, まさ.る",
+    "meaning": "banyak, sering, sangat",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-067",
+    "kanji": "大",
+    "onyomi": "ダイ, タイ",
+    "kunyomi": "おお-, おお.きい, -おお.いに",
+    "meaning": "besar, luas",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-068",
+    "kanji": "男",
+    "onyomi": "ダン, ナン",
+    "kunyomi": "おとこ, お",
+    "meaning": "jika tidak",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-069",
+    "kanji": "中",
+    "onyomi": "チュウ",
+    "kunyomi": "なか, うち, あた.る",
+    "meaning": "di dalam, di dalam, tengah, rata-rata, pusat",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-070",
+    "kanji": "長",
+    "onyomi": "チョウ",
+    "kunyomi": "なが.い, おさ",
+    "meaning": "panjang, pemimpin, atasan, senior",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-071",
+    "kanji": "天",
+    "onyomi": "テン",
+    "kunyomi": "あまつ, あめ, あま-",
+    "meaning": "langit, langit, kekaisaran",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-072",
+    "kanji": "店",
+    "onyomi": "テン",
+    "kunyomi": "みせ, たな",
+    "meaning": "besar, toko",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-073",
+    "kanji": "電",
+    "onyomi": "デン",
+    "kunyomi": "",
+    "meaning": "listrik",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-074",
+    "kanji": "土",
+    "onyomi": "ド, ト",
+    "kunyomi": "つち",
+    "meaning": "tanah, bumi, permukaan tanah, Turki",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-075",
+    "kanji": "東",
+    "onyomi": "トウ",
+    "kunyomi": "ひがし",
+    "meaning": "timur",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-076",
+    "kanji": "道",
+    "onyomi": "ドウ, トウ",
+    "kunyomi": "みち, いう",
+    "meaning": "jalan raya, jalan, kawasan, perjalanan, rute",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-077",
+    "kanji": "読",
+    "onyomi": "ドク, トク, トウ",
+    "kunyomi": "よ.む, -よ.み",
+    "meaning": "baca",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-078",
+    "kanji": "南",
+    "onyomi": "ナン, ナ",
+    "kunyomi": "みなみ",
+    "meaning": "selatan",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-079",
+    "kanji": "二",
+    "onyomi": "ニ, ジ",
+    "kunyomi": "ふた, ふた.つ, ふたたび",
+    "meaning": "dua, dua radikal (no. 7)",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-080",
+    "kanji": "日",
+    "onyomi": "ニチ, ジツ",
+    "kunyomi": "ひ, -び, -か",
+    "meaning": "hari, matahari, Jepang, penghitung hari",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-081",
+    "kanji": "入",
+    "onyomi": "ニュウ, ジュ",
+    "kunyomi": "い.る, -い.る, -い.り, い.れる, -い.れ, はい.る",
+    "meaning": "masukkan, sisipkan",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-082",
+    "kanji": "年",
+    "onyomi": "ネン",
+    "kunyomi": "とし",
+    "meaning": "tahun, penghitung tahun",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-083",
+    "kanji": "買",
+    "onyomi": "バイ",
+    "kunyomi": "か.う",
+    "meaning": "untuk membeli",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-084",
+    "kanji": "白",
+    "onyomi": "ハク, ビャク",
+    "kunyomi": "しろ, しら-, しろ.い",
+    "meaning": "putih",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-085",
+    "kanji": "八",
+    "onyomi": "ハチ, ハツ",
+    "kunyomi": "や, や.つ, やっ.つ, よう",
+    "meaning": "delapan, radikal delapan (no. 12)",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-086",
+    "kanji": "半",
+    "onyomi": "ハン",
+    "kunyomi": "なか.ば",
+    "meaning": "setengah, tengah, bilangan ganjil, semi-, sebagian-",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-087",
+    "kanji": "百",
+    "onyomi": "ヒャク, ビャク",
+    "kunyomi": "もも",
+    "meaning": "seratus",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-088",
+    "kanji": "父",
+    "onyomi": "フ",
+    "kunyomi": "ちち",
+    "meaning": "ayah",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-089",
+    "kanji": "分",
+    "onyomi": "ブン, フン, ブ",
+    "kunyomi": "わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ",
+    "meaning": "bagian, menit, segmen, porsi, derajat",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-090",
+    "kanji": "聞",
+    "onyomi": "ブン, モン",
+    "kunyomi": "き.く, き.こえる",
+    "meaning": "mendengar, bertanya, mendengarkan",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-091",
+    "kanji": "母",
+    "onyomi": "ボ",
+    "kunyomi": "はは, も",
+    "meaning": "ibu",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-092",
+    "kanji": "北",
+    "onyomi": "ホク",
+    "kunyomi": "きた",
+    "meaning": "utara",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-093",
+    "kanji": "本",
+    "onyomi": "ホン",
+    "kunyomi": "もと",
+    "meaning": "buku, hadiah, utama, asal, sejati",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-094",
+    "kanji": "毎",
+    "onyomi": "マイ",
+    "kunyomi": "ごと, -ごと.に",
+    "meaning": "setiap",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-095",
+    "kanji": "万",
+    "onyomi": "マン, バン",
+    "kunyomi": "よろず",
+    "meaning": "sepuluh ribu, 10.000",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-096",
+    "kanji": "名",
+    "onyomi": "メイ, ミョウ",
+    "kunyomi": "な, -な",
+    "meaning": "nama, terkenal, terkemuka, reputasi",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-097",
+    "kanji": "木",
+    "onyomi": "ボク, モク",
+    "kunyomi": "き, こ-",
+    "meaning": "pohon, kayu",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-098",
+    "kanji": "目",
+    "onyomi": "モク, ボク",
+    "kunyomi": "め, -め, ま-",
+    "meaning": "mata, kelas, pandangan, wawasan, pengalaman",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-099",
+    "kanji": "友",
+    "onyomi": "ユウ",
+    "kunyomi": "とも",
+    "meaning": "teman",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-100",
+    "kanji": "来",
+    "onyomi": "ライ, タイ",
+    "kunyomi": "く.る, きた.る, きた.す, き.たす, き.たる, き, こ",
+    "meaning": "datang, jatuh tempo, berikutnya, menyebabkan, menjadi",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-101",
+    "kanji": "立",
+    "onyomi": "リツ, リュウ, リットル",
+    "kunyomi": "た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て, -だ.てる",
+    "meaning": "berdiri, bangkit, mendirikan, membangun",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-102",
+    "kanji": "六",
+    "onyomi": "ロク, リク",
+    "kunyomi": "む, む.つ, むっ.つ, むい",
+    "meaning": "enam",
+    "level": "N5"
+  },
+  {
+    "id": "kj-n5-103",
+    "kanji": "話",
+    "onyomi": "ワ",
+    "kunyomi": "はな.す, はなし",
+    "meaning": "cerita, obrolan",
+    "level": "N5"
+  }
+]

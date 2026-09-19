@@ -1,0 +1,234 @@
+[
+  {
+    "id": "n3_bab32_1",
+    "chapter": "Bab 32",
+    "level": "N3",
+    "title": "〜ことになる",
+    "meaning": "menjelaskan sesuatu yang telah ditetapkan bersama (bukan atas keinginan diri sendiri)",
+    "formula_template": "[{A}る / {B}ない] 〜ことになる",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}る / {B}ない] 〜ことになる' untuk mengekspresikan: menjelaskan sesuatu yang telah ditetapkan bersama (bukan atas keinginan diri sendiri).",
+    "ui_notes": "menjelaskan sesuatu yang telah ditetapkan bersama (bukan atas keinginan diri sendiri)",
+    "examples": [
+      {
+        "jp": "明日、新しい企画についての会議が行われることになっている。",
+        "id": "besok telah diputuskan akan diadakan rapat mengenai rencana baru"
+      },
+      {
+        "jp": "今度、大阪に転勤することになりました。",
+        "id": "saya telah diputuskan nanti akan pindah ke kantor di osaka"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab32_2",
+    "chapter": "Bab 32",
+    "level": "N3",
+    "title": "〜ことにする",
+    "meaning": "menjelaskan sesuatu yang diputuskan atas keinginan pembicara",
+    "formula_template": "[{A}る / {B}ない] 〜ことにする",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}る / {B}ない] 〜ことにする' untuk mengekspresikan: menjelaskan sesuatu yang diputuskan atas keinginan pembicara.",
+    "ui_notes": "menjelaskan sesuatu yang diputuskan atas keinginan pembicara",
+    "examples": [
+      {
+        "jp": "毎朝、30分ジョギングすることにしています。",
+        "id": "saya memutuskan untuk joging selama 30 menit setiap pagi"
+      },
+      {
+        "jp": "「あれ？買い物に行かないの？」「うん、明日行くことにした。」",
+        "id": "eh kamu gak pergi belanja?! enggak, (saya putuskan) besok saja"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab32_3",
+    "chapter": "Bab 32",
+    "level": "N3",
+    "title": "〜ことは〜が…",
+    "meaning": "...nya sih...",
+    "formula_template": "[{A}ることは {B}る／〜ます / {C} いことは {D} い / {V4} なことは {V5} だ] が／けど／けれど",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V4": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V5": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}ることは {B}る／〜ます / {C} いことは {D} い / {V4} なことは {V5} だ] が／けど／けれど' untuk mengekspresikan: ...nya sih....",
+    "ui_notes": "...nya sih...",
+    "examples": [
+      {
+        "jp": "ピアノは、弾けることは弾けますが、うまくありません。",
+        "id": "kalau piano, bisanya sih bisa, tapi tidak jago"
+      },
+      {
+        "jp": "このバッグ、高いことは高いけれど、すごく使いやすいです。",
+        "id": "tas ini, mahalnya sih mahal, tapi enak dipakai"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab32_4",
+    "chapter": "Bab 32",
+    "level": "N3",
+    "title": "〜ないことはない",
+    "meaning": "bukannya tidak",
+    "formula_template": "[{A}ない / {B}られない / {C} 〜くない / {D} 〜じゃない] 〜ことはない",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}ない / {B}られない / {C} 〜くない / {D} 〜じゃない] 〜ことはない' untuk mengekspresikan: bukannya tidak.",
+    "ui_notes": "bukannya tidak",
+    "examples": [
+      {
+        "jp": "鶏肉は、食べないことはないですが、あまり好きではありません。",
+        "id": "kalau daging ayam, bukan berarti tidak makan, tapi saya kurang suka"
+      },
+      {
+        "jp": "走れば間に合わないことはないよ。急ごう！",
+        "id": "kalau (kita) lari, bukan tidak mungkin akan keburu, ayo cepetan!"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+{
+  "id": "batch-01",
+  "title": "Simulasi JFT-Basic A2 - Paket 01",
+  "description": "Latihan simulasi standar mencakup Dokkai (bacaan), Choukai (menyimak), Tanda/Gambar, dan Tata Bahasa praktis.",
+  "timeLimitMinutes": 45,
+  "passingScorePercent": 60,
+  "questions": [
+    {
+      "id": 1,
+      "type": "dokkai",
+      "category": "読解 (Membaca)",
+      "story": "さくらアパートの みなさんへ\n\n来週の 月曜日（１０月１５日）の 朝９時から １２時まで、水道（すいどう）の 工事を します。\nこの時間は 水を 使うことが できません。\nお風呂や 洗濯、料理は 朝９時までに 終わらせるか、１２時過ぎに してください。\nご不便を おかけしますが、よろしくお願いします。\n\nアパート管理事務所より",
+      "image": "",
+      "audio": "",
+      "question": "アパートの人は、月曜日の午前１０時に何ができませんか。",
+      "options": [
+        "アパートの外に出ること",
+        "水を飲むことや料理すること",
+        "管理事務所に行くこと",
+        "電気を使うこと"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Dalam pengumuman dijelaskan bahwa ada perbaikan saluran air (水道の工事) dari jam 9 sampai 12 siang, sehingga air tidak bisa digunakan (水を使うことができません). Oleh karena itu, jam 10 pagi tidak bisa menggunakan air untuk minum/masak."
+    },
+    {
+      "id": 2,
+      "type": "dokkai",
+      "category": "読解 (Membaca)",
+      "story": "キムさん\n\nお疲れ様です。林です。\n今日の午後の会議ですが、部屋が変更になりました。\n予定していた２階の第１会議室はエアコンが故障しているため、４階の大会議室で行います。\n時間は変更なく、１４時からです。資料は私が持っていきます。\nよろしくお願いします。",
+      "image": "",
+      "audio": "",
+      "question": "午後の会議はどこで行われますか。",
+      "options": [
+        "２階の第１会議室",
+        "２階の大会議室",
+        "４階の第１会議室",
+        "４階の大会議室"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Ruang rapat dipindah karena AC rusak, sehingga rapat diadakan di lantai 4 ruang rapat besar (４階の大会議室)."
+    },
+    {
+      "id": 3,
+      "type": "gambar",
+      "category": "文字・語彙 (Gambar & Tanda)",
+      "story": "",
+      "image": "/jft/images/sample-sign.svg",
+      "audio": "",
+      "question": "駅のホームにこのマークがあります。どういう意味ですか。",
+      "options": [
+        "ここでタバコを吸ってはいけません（禁煙）",
+        "ここで走ってはいけません",
+        "携帯電話を使ってはいけません",
+        "飲食をしてはいけません"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Tanda tersebut adalah tanda dilarang merokok (禁煙 / きんえん)."
+    },
+    {
+      "id": 4,
+      "type": "choukai",
+      "category": "聴解 (Menyimak)",
+      "story": "",
+      "image": "",
+      "audio": "/jft/audio/sample-choukai.mp3",
+      "audioScript": "男の人：すみません、この近くにコンビニはありますか。\n女の人：ええ、この道をまっすぐ行って、二つ目の信号を右に曲がると、左側にありますよ。\n男の人：二つ目の信号を右ですね。ありがとうございます。\n女の人：いいえ、どういたしまして。",
+      "question": "男の人はこれからどこへ行きますか。コンビニはどこにありますか。",
+      "options": [
+        "二つ目の信号を左に曲がった右側",
+        "二つ目の信号を右に曲がった左側",
+        "一つ目の信号を右に曲がったところ",
+        "この道をまっすぐ行った突き当たり"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Dalam audio, wanita menginstruksikan: '二つ目の信号を右に曲がると、左側にありますよ' (Belok kanan di lampu merah kedua, ada di sebelah kiri)."
+    },
+    {
+      "id": 5,
+      "type": "standard",
+      "category": "文法 (Tata Bahasa)",
+      "story": "",
+      "image": "",
+      "audio": "",
+      "question": "私は 日本へ 行く（　　）、毎日 日本語を 勉強しています。",
+      "options": [
+        "ために",
+        "ように",
+        "あとで",
+        "まえに"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Untuk menyatakan tujuan tindakan dengan kata kerja berkehendak (行く), digunakan pola '〜ために' (Untuk pergi ke Jepang, saya belajar bahasa Jepang setiap hari)."
+    },
+    {
+      "id": 6,
+      "type": "standard",
+      "category": "文法 (Tata Bahasa)",
+      "story": "",
+      "image": "",
+      "audio": "",
+      "question": "熱が あるので、今日は 早く（　　）も いいですか。",
+      "options": [
+        "帰る",
+        "帰って",
+        "帰らない",
+        "帰ります"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Pola permohonan izin adalah bentuk '〜てもいいですか'. Bentuk te dari 帰る adalah 帰って."
+    }
+  ]
+}

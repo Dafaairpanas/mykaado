@@ -1,0 +1,268 @@
+[
+  {
+    "id": "n3_bab21_1",
+    "chapter": "Bab 21",
+    "level": "N3",
+    "title": "〜くらい／ほど",
+    "meaning": "Menunjukkan derajat/tingkatan suatu tindakan & keadaan dengan suatu contoh. ほど -> formal & くらい -> kasual.",
+    "formula_template": "{A}る / {B} 〜い / {C} な / {D} くらい / ぐらい / ほど だ / に / の {V4}.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "V4": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}る / {B} 〜い / {C} な / {D} くらい / ぐらい / ほど だ / に / の {V4}.' untuk mengekspresikan: Menunjukkan derajat/tingkatan suatu tindakan & keadaan dengan suatu contoh. ほど -> formal & くらい -> kasual..",
+    "ui_notes": "Menunjukkan derajat/tingkatan suatu tindakan & keadaan dengan suatu contoh. ほど -> formal & くらい -> kasual.",
+    "examples": [
+      {
+        "jp": "それは米粒くらいの大きさです。",
+        "id": "Ukurannya kira-kira sebesar butiran beras."
+      },
+      {
+        "jp": "この洗剤は、おもしろいほど汚れが落ちる。",
+        "id": "Deterjen ini membersihkan kotoran hingga sangat menakjubkan."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab21_2",
+    "chapter": "Bab 21",
+    "level": "N3",
+    "title": "〜ほど",
+    "meaning": "〜ほど",
+    "formula_template": "{A} 〜い / {B} な ほど / {C}ほど.",
+    "variables": {
+      "A": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} 〜い / {B} な ほど / {C}ほど.' untuk mengekspresikan: 〜ほど.",
+    "ui_notes": "〜ほど",
+    "examples": [
+      {
+        "jp": "若い人ほど朝寝坊をする。",
+        "id": "Semakin muda orangnya, semakin sering bangun kesiangan."
+      },
+      {
+        "jp": "伝統的なものは、古いほど価値がある。",
+        "id": "Barang tradisional semakin tua semakin bernilai tinggi."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab21_3",
+    "chapter": "Bab 21",
+    "level": "N3",
+    "title": "〜ば〜ほど",
+    "meaning": "〜ば〜ほど",
+    "formula_template": "{A}ば {B}るほど / {C} 〜ければ {D} 〜いほど / {V4} 〜ならば {V5} 〜なほど (※ {V6} 〜であれば {V7} 〜であるほど).",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V4": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V5": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V6": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V7": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}ば {B}るほど / {C} 〜ければ {D} 〜いほど / {V4} 〜ならば {V5} 〜なほど (※ {V6} 〜であれば {V7} 〜であるほど).' untuk mengekspresikan: 〜ば〜ほど.",
+    "ui_notes": "〜ば〜ほど",
+    "examples": [
+      {
+        "jp": "彼のことを知れば知るほど好きになる。/ 荷物は少なければ少ないほどいい。/ 試験は簡単ならば簡単なほど嬉しい。/ 仕事は、大変であれば大変であるほど、やる気がでます。。",
+        "id": "Semakin mengenalnya, semakin saya menyukainya."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab21_4",
+    "chapter": "Bab 21",
+    "level": "N3",
+    "title": "〜くらい／ほど〜はない",
+    "meaning": "〜くらい／ほど〜はない",
+    "formula_template": "{A}くらい / {B}ほど {C}[人] はいない / {D}[物・事] はない.",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}くらい / {B}ほど {C}[人] はいない / {D}[物・事] はない.' untuk mengekspresikan: 〜くらい／ほど〜はない.",
+    "ui_notes": "〜くらい／ほど〜はない",
+    "examples": [
+      {
+        "jp": "彼女くらい親切な人はいない。",
+        "id": "Tidak ada orang yang seramah dia."
+      },
+      {
+        "jp": "今年ほど雪の降った年はなかった。",
+        "id": "Tidak ada tahun di mana salju turun sebanyak tahun ini."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

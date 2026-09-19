@@ -1,0 +1,250 @@
+[
+  {
+    "id": "m_bab49_1",
+    "chapter": "Bab 49",
+    "level": "N4",
+    "title": "A（尊敬語：受身形と同じ）",
+    "meaning": "Menyatakan rasa hormat terhadap orang yang melakukan aksi (Kata Hormat). Bentuknya sama persis dengan Kata Kerja Pasif dan dikonjugasi sebagai Kata Kerja Kelompok II.",
+    "formula_template": "Gol I: [i] -> [a]れます | Gol II: ~ます -> ~られます | Gol III: きます -> こられます, します -> されます",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'Gol I: [i] -> [a]れます | Gol II: ~ます -> ~られます | Gol III: きます -> こられます, します -> されます' untuk menyatakan: Menyatakan rasa hormat terhadap orang yang melakukan aksi (Kata Hormat). Bentuknya sama persis dengan Kata Ker.",
+    "ui_notes": "Menyatakan rasa hormat terhadap orang yang melakukan aksi (Kata Hormat). Bentuknya sama persis dengan Kata Kerja Pasif dan dikonjugasi sebagai Kata Kerja Kelompok II.",
+    "examples": [
+      {
+        "jp": "中村さんは7時に来られます。",
+        "id": "Sdri. Nakamura akan datang pada pukul tujuh."
+      },
+      {
+        "jp": "お酒をやめられたんですか。",
+        "id": "Apakah sudah berhenti mimun sake?"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Keigo/Hormat"
+    ]
+  },
+  {
+    "id": "m_bab49_2",
+    "chapter": "Bab 49",
+    "level": "N4",
+    "title": "お A（ます形） に なります",
+    "meaning": "Bentuk ini pada umumnya dianggap lebih halus daripada Kata Kerja Hormat (bentuk pasif). Digunakan untuk meninggikan perbuatan orang lain.",
+    "formula_template": "お {A} に なります",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'お {A} に なります' untuk menyatakan: Bentuk ini pada umumnya dianggap lebih halus daripada Kata Kerja Hormat (bentuk pasif). Digunakan untuk mening. Pastikan 'A' mewakili Kata Kerja (Bentuk ます - hilangkan ます).",
+    "ui_notes": "Tidak dapat digunakan pada Kata Kerja yang terdiri dari satu suku kata pada bentuk ます-nya (seperti 見ます, 寝ます) serta tidak berlaku untuk Kata Kerja Kelompok III.",
+    "examples": [
+      {
+        "jp": "社長はもうお帰りになりました。",
+        "id": "Direktur sudah pulang."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Keigo/Hormat"
+    ]
+  },
+  {
+    "id": "m_bab49_3",
+    "chapter": "Bab 49",
+    "level": "N4",
+    "title": "特別な尊敬語",
+    "meaning": "Beberapa Kata Kerja memiliki bentuk Kata Hormat Khusus tersendiri. Menyatakan rasa hormat yang setingkat dengan pola \"お ～ になります\".",
+    "formula_template": "Kata Hormat Khusus (いらっしゃいます、召し上がります、おっしゃいます、なさいます、くださいます dll)",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'Kata Hormat Khusus (いらっしゃいます、召し上がります、おっしゃいます、なさいます、くださいます dll)' untuk menyatakan: Beberapa Kata Kerja memiliki bentuk Kata Hormat Khusus tersendiri. Menyatakan rasa hormat yang setingkat denga.",
+    "ui_notes": "いらっしゃいます, なさいます, くださいます, おっしゃいます adalah Kata Kerja Kelompok I, tetapi perlu hati-hati untuk konjugasi bentuk kamus, nai, dan ta (contoh: いらっしゃる, いらっしゃらない, いらっしゃった).",
+    "examples": [
+      {
+        "jp": "ワット先生は研究室にいらっしゃいます。",
+        "id": "Apakah Bapak Watt ada di laboratori?"
+      },
+      {
+        "jp": "どうぞ召し上がってください。",
+        "id": "Silakan dimakan!"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Keigo/Hormat"
+    ]
+  },
+  {
+    "id": "m_bab49_4",
+    "chapter": "Bab 49",
+    "level": "N4",
+    "title": "お／ご ～ ください",
+    "meaning": "Pola kalimat ini adalah bentuk hormat dari Kata Kerja Bentuk て ください (Tolong / Silakan).",
+    "formula_template": "お {A}Gol I & II (Bentuk ます - hilangkan ます) ください / ご {B}Gol III (Aksi) ください",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'お {A}Gol I & II (Bentuk ます - hilangkan ます) ください / ご {B}Gol III (Aksi) ください' untuk menyatakan: Pola kalimat ini adalah bentuk hormat dari Kata Kerja Bentuk て ください (Tolong / Silakan).. Pastikan 'A' mewakili Kata Kerja, 'B' mewakili Kata Benda.",
+    "ui_notes": "Kata Kerja yang suku kata pertamanya Bentuk ます seperti みます dan ねます tidak menggunakan bentuk ini. Untuk Kata Kerja yang memiliki Kata Hormat Khusus (seperti いらっしゃいます), digunakan Bentuk て ください dari Kata Hormat Khusus tersebut.",
+    "examples": [
+      {
+        "jp": "どうぞお入りください。",
+        "id": "Silakan masuk!"
+      },
+      {
+        "jp": "忘れ物にご注意ください。",
+        "id": "Hati-hati barang bawaan Anda agar tidak ketinggalan!"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Permintaan Halus"
+    ]
+  },
+  {
+    "id": "m_bab49_5",
+    "chapter": "Bab 49",
+    "level": "N4",
+    "title": "お／ご ＋ A／形容詞／副詞",
+    "meaning": "Membubuhkan awalan お atau ご pada Kata Benda, Kata Sifat, dan Kata Keterangan untuk menyatakan rasa hormat kepada pemilik Kata Benda tersebut, atau orang yang sedang dalam keadaan tersebut.",
+    "formula_template": "お Kata asli bahasa Jepang / ご Kata dari bahasa Tionghoa",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'お Kata asli bahasa Jepang / ご Kata dari bahasa Tionghoa' untuk menyatakan: Membubuhkan awalan お atau ご pada Kata Benda, Kata Sifat, dan Kata Keterangan untuk menyatakan rasa hormat kepa.",
+    "ui_notes": "Umumnya お dibubuhkan pada kata asli bahasa Jepang (contoh: お国, お名前, お元気, お忙しい), sedangkan ご dibubuhkan pada kata yang berasal dari bahasa Tionghoa (contoh: ご家族, ご意見, ご熱心).",
+    "examples": [
+      {
+        "jp": "部長の奥様もごいっしょにゴルフに行かれます。",
+        "id": "Istri kepala bagian juga bersama-sama pergi ke golf."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Prefiks",
+      "Keigo/Hormat"
+    ]
+  },
+  {
+    "id": "m_bab49_6",
+    "chapter": "Bab 49",
+    "level": "N4",
+    "title": "敬語と普通形",
+    "meaning": "Menyatakan rasa hormat terhadap orang yang menjadi topik. Apabila tidak perlu menyatakan rasa hormat terhadap lawan bicara (misal berbicara dengan teman akrab), maka kata halus (Keigo) digunakan dalam kalimat Bentuk Biasa.",
+    "formula_template": "Kata Halus (Keigo) diubah ke Bentuk Biasa (Futsuukei)",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'Kata Halus (Keigo) diubah ke Bentuk Biasa (Futsuukei)' untuk menyatakan: Menyatakan rasa hormat terhadap orang yang menjadi topik. Apabila tidak perlu menyatakan rasa hormat terhadap .",
+    "ui_notes": "Menyatakan rasa hormat terhadap orang yang menjadi topik. Apabila tidak perlu menyatakan rasa hormat terhadap lawan bicara (misal berbicara dengan teman akrab), maka kata halus (Keigo) digunakan dalam kalimat Bentuk Biasa.",
+    "examples": [
+      {
+        "jp": "部長は何時にいらっしゃる？",
+        "id": "Kepala bagian datang pada pukul berapa?"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Keigo Kasual"
+    ]
+  },
+  {
+    "id": "m_bab49_7",
+    "chapter": "Bab 49",
+    "level": "N4",
+    "title": "A（ます形） まして",
+    "meaning": "Jika ingin berbicara dengan halus (sangat sopan), adakalanya Kata Kerja Bentuk て (sebagai penghubung kalimat) diubah menjadi Kata Kerja (Bentuk ます) + まして.",
+    "formula_template": "{A} まして",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} まして' untuk menyatakan: Jika ingin berbicara dengan halus (sangat sopan), adakalanya Kata Kerja Bentuk て (sebagai penghubung kalimat) . Pastikan 'A' mewakili Kata Kerja (Bentuk ます - hilangkan ます).",
+    "ui_notes": "Jika ingin berbicara dengan halus (sangat sopan), adakalanya Kata Kerja Bentuk て (sebagai penghubung kalimat) diubah menjadi Kata Kerja (Bentuk ます) + まして.",
+    "examples": [
+      {
+        "jp": "ハンスがゆうべ熱を出しまして、けさもまだ下がらないんです。",
+        "id": "Tadi malam Hans deman, dan pagi ini demam belum turun juga."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Penghubung Halus"
+    ]
+  },
+  {
+    "id": "m_bab49_8",
+    "chapter": "Bab 49",
+    "level": "N4",
+    "title": "～ますので",
+    "meaning": "Apabila Bentuk Biasa ので (karena/sebab) ingin dijadikan lebih halus, adakalanya dipakai Bentuk Sopan (～ます / ～です) + ので.",
+    "formula_template": "{A} ので / {B} ですので",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ので / {B} ですので' untuk menyatakan: Apabila Bentuk Biasa ので (karena/sebab) ingin dijadikan lebih halus, adakalanya dipakai Bentuk Sopan (～ます / ～です. Pastikan 'A' mewakili Kata Kerja (Bentuk ます), 'B' mewakili Kata Benda.",
+    "ui_notes": "Apabila Bentuk Biasa ので (karena/sebab) ingin dijadikan lebih halus, adakalanya dipakai Bentuk Sopan (～ます / ～です) + ので.",
+    "examples": [
+      {
+        "jp": "きょうは学校を休ませますので、先生によろしくお伝えください。",
+        "id": "Tolong sampaikan salam kepada guru karena hari ini saya menyuruh anak saya untuk tidak masuk sekolah!"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Konjungsi",
+      "Alasan Sopan"
+    ]
+  }
+]

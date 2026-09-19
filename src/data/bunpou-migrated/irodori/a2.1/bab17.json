@@ -1,0 +1,137 @@
+[
+  {
+    "id": "i_bab17_1",
+    "chapter": "Bab 17",
+    "level": "A2.1",
+    "title": "〜から持って来た飾りです — Ini Hiasan yang Dibawa dari ...",
+    "meaning": "Pola kalimat untuk menjelaskan asal atau sumber suatu benda yang dibawa. '〜から' berarti 'dari', '持って来た' adalah bentuk lampau dari '持って来る' (membawa datang), dan '飾り' berarti 'hiasan' atau benda yang dibawa. Digunakan saat memberikan oleh-oleh atau menjelaskan benda yang dibawa saat berkunjung. Artinya 'Ini adalah hiasan/benda yang dibawa dari [tempat]'.",
+    "formula_template": "{A} から 持って来た {B} です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} から 持って来た {B} です' untuk percakapan: Pola kalimat untuk menjelaskan asal atau sumber suatu benda yang dibawa. '〜から' berarti 'dari', '持って来た' adalah . Pastikan 'A' mewakili Tempat, 'B' mewakili Benda.",
+    "ui_notes": "Untuk menyebutkan benda lain selain hiasan: お土産 (oleh-oleh), お菓子 (makanan ringan), お酒 (minuman beralkohol). Bentuk lampau '持って来た' (membawa datang) menunjukkan bahwa benda tersebut sudah dibawa ke tempat sekarang. '持って行った' (membawa pergi) digunakan jika benda dibawa ke tempat lain.",
+    "examples": [
+      {
+        "jp": "ネパールから持って来た飾りです。",
+        "id": "Ini adalah hiasan yang saya bawa dari Nepal."
+      },
+      {
+        "jp": "インドネシアから持って来たお土産です。",
+        "id": "Ini adalah oleh-oleh yang saya bawa dari Indonesia."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Oleh-oleh",
+      "Berkunjung",
+      "Sumber"
+    ]
+  },
+  {
+    "id": "i_bab17_2",
+    "chapter": "Bab 17",
+    "level": "A2.1",
+    "title": "〜にもらったんです — Menerima dari ...",
+    "meaning": "Pola kalimat untuk menyatakan bahwa seseorang menerima sesuatu dari orang lain. '〜に' menunjukkan pemberi (orang yang memberikannya), 'もらった' adalah bentuk lampau dari 'もらう' (menerima), dan 'んです' memberikan penjelasan. Digunakan saat menjelaskan asal usul benda yang dimiliki atau diterima. Artinya '(Saya) menerima [benda] dari [orang]'.",
+    "formula_template": "{A} に {B} を もらったんです",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に {B} を もらったんです' untuk percakapan: Pola kalimat untuk menyatakan bahwa seseorang menerima sesuatu dari orang lain. '〜に' menunjukkan pemberi (oran. Pastikan 'A' mewakili Orang, 'B' mewakili Benda.",
+    "ui_notes": "Perbedaan: 'もらう' (menerima) dari sudut pandang penerima, 'あげる' (memberi) dari sudut pandang pemberi, 'くれる' (memberi) dari sudut pandang penerima untuk pemberi yang dekat. Contoh: 友達がくれた (Teman memberi saya - dari sudut pandang penerima). 'もらったんです' memberikan nuansa penjelasan tentang bagaimana benda itu didapatkan.",
+    "examples": [
+      {
+        "jp": "このマグカップ、誕生日に友だちにもらったんです。",
+        "id": "Mug ini, saya terima dari teman pada hari ulang tahun."
+      },
+      {
+        "jp": "このペンは先生にもらったんです。",
+        "id": "Pena ini, saya terima dari guru."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Menerima",
+      "Pemberian",
+      "Penjelasan"
+    ]
+  },
+  {
+    "id": "i_bab17_3",
+    "chapter": "Bab 17",
+    "level": "A2.1",
+    "title": "〜がくれたものです — Diberi oleh ...",
+    "meaning": "Pola kalimat untuk menyatakan bahwa seseorang memberi sesuatu kepada pembicara. '〜が' menunjukkan pemberi (subjek yang memberi), 'くれた' adalah bentuk lampau dari 'くれる' (memberi kepada saya), dan 'ものです' berarti 'benda yang'. Digunakan saat menjelaskan sumber benda yang diterima, dengan fokus pada pemberi. Artinya '(Ini adalah) benda yang diberikan oleh [orang]'.",
+    "formula_template": "{A} が くれた {B} です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} が くれた {B} です' untuk percakapan: Pola kalimat untuk menyatakan bahwa seseorang memberi sesuatu kepada pembicara. '〜が' menunjukkan pemberi (subj. Pastikan 'A' mewakili Orang, 'B' mewakili Benda.",
+    "ui_notes": "'くれる' digunakan ketika pemberi memberikan sesuatu KEPADA pembicara atau orang yang dekat dengan pembicara. Berbeda dengan 'あげる' yang digunakan ketika pemberi (pembicara) memberikan sesuatu KEPADA orang lain. 'くれたものです' bisa disingkat menjadi 'くれたの' dalam percakapan kasual.",
+    "examples": [
+      {
+        "jp": "これは、兄がくれたお守りです。",
+        "id": "Ini adalah azimat yang diberikan oleh kakak laki-laki saya."
+      },
+      {
+        "jp": "これは彼女がくれたプレゼントです。",
+        "id": "Ini adalah hadiah yang diberikan oleh pacar saya."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Memberi",
+      "Pemberian",
+      "Penjelasan"
+    ]
+  }
+]

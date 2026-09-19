@@ -1,0 +1,230 @@
+[
+  {
+    "id": "n3_bab22_1",
+    "chapter": "Bab 22",
+    "level": "N3",
+    "title": "〜ことはない",
+    "meaning": "〜ことはない",
+    "formula_template": "{A}る ことはない.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}る ことはない.' untuk mengekspresikan: 〜ことはない.",
+    "ui_notes": "〜ことはない",
+    "examples": [
+      {
+        "jp": "君があやまることはないよ。",
+        "id": "Kamu tidak perlu meminta maaf."
+      },
+      {
+        "jp": "来ることはありません。郵送でいいですよ。",
+        "id": "Tidak perlu datang. Cukup lewat pos saja."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab22_2",
+    "chapter": "Bab 22",
+    "level": "N3",
+    "title": "〜ということだ",
+    "meaning": "Digunakan untuk menyampaikan pesan (formal) & mendefinisikan \"arti\" suatu hal. ※ KK bentuk \"perintah\", \"maksud\" dll juga bisa digunakan.",
+    "formula_template": "{A}(biasa) / {B}(biasa) / {C} だ / {D}だ / {V4} ということだ.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "V4": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}(biasa) / {B}(biasa) / {C} だ / {D}だ / {V4} ということだ.' untuk mengekspresikan: Digunakan untuk menyampaikan pesan (formal) & mendefinisikan \"arti\" suatu hal. ※ KK bentuk \"perintah\", \"maksud.",
+    "ui_notes": "Digunakan untuk menyampaikan pesan (formal) & mendefinisikan \"arti\" suatu hal. ※ KK bentuk \"perintah\", \"maksud\" dll juga bisa digunakan.",
+    "examples": [
+      {
+        "jp": "田中さんから電話があって、少し遅れるということです。",
+        "id": "Ada telepon dari Tanaka-san bahwa dia akan sedikit terlambat."
+      },
+      {
+        "jp": "試験の結果は70%、つまり合格ということだ。",
+        "id": "Hasil ujian 70%, artinya lulus."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab22_3",
+    "chapter": "Bab 22",
+    "level": "N3",
+    "title": "〜ことだ",
+    "meaning": "Digunakan untuk memberikan nasehat, saran (termasuk peringatan). Biasanya tidak digunakan kepada orang yang posisinya di atas (guru, atasan dll).",
+    "formula_template": "{A}る / {B}ない ことだ.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}る / {B}ない ことだ.' untuk mengekspresikan: Digunakan untuk memberikan nasehat, saran (termasuk peringatan). Biasanya tidak digunakan kepada orang yang po.",
+    "ui_notes": "Digunakan untuk memberikan nasehat, saran (termasuk peringatan). Biasanya tidak digunakan kepada orang yang posisinya di atas (guru, atasan dll).",
+    "examples": [
+      {
+        "jp": "暖かくして、ゆっくり休むことだ。",
+        "id": "Sebaiknya hangatkan tubuh dan istirahatlah yang cukup."
+      },
+      {
+        "jp": "無理をしないことです。",
+        "id": "Sebaiknya jangan memaksakan diri."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab22_4",
+    "chapter": "Bab 22",
+    "level": "N3",
+    "title": "KATA TANYA 〜ことか",
+    "meaning": "Digunakan untuk menekankan perasaan ketika pembicara \"merasa sangat...\".",
+    "formula_template": "どんなに / どれほど / どれだけ / 何度 / 何時間 {A}る ことか / {B}た ことか / {C} い ことか / {D} かった ことか / {V4} な ことか / {V5} だった ことか.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V4": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V5": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'どんなに / どれほど / どれだけ / 何度 / 何時間 {A}る ことか / {B}た ことか / {C} い ことか / {D} かった ことか / {V4} な ことか / {V5} だった ことか.' untuk mengekspresikan: Digunakan untuk menekankan perasaan ketika pembicara \"merasa sangat...\"..",
+    "ui_notes": "Digunakan untuk menekankan perasaan ketika pembicara \"merasa sangat...\".",
+    "examples": [
+      {
+        "jp": "合格できたら、どんなにうれしいことか。",
+        "id": "Betapa bahagianya jika saya bisa lulus."
+      },
+      {
+        "jp": "何度注意したことか。",
+        "id": "Sudah tak terhitung berapa kali saya memperingatkannya."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

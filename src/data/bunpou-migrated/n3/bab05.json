@@ -1,0 +1,148 @@
+[
+  {
+    "id": "n3_bab05_1",
+    "chapter": "Bab 05",
+    "level": "N3",
+    "title": "〜ように",
+    "meaning": "sering digunakan dalam kalimat pembuka",
+    "formula_template": "[{A}(biasa) / {B}の] ように",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B}の] ように' untuk mengekspresikan: sering digunakan dalam kalimat pembuka.",
+    "ui_notes": "sering digunakan dalam kalimat pembuka",
+    "examples": [
+      {
+        "jp": "皆様ご存じのように、試験の内容が変わわります。",
+        "id": "seperti yang semua ketahui, isi (materi) ujiannya akan berubah"
+      },
+      {
+        "jp": "ここに書いてあるように、今度の木曜日、授業は午前中だけです。",
+        "id": "seperti yang tertulis di sini, kelas/kuliah kamis depan hanya pagi saja"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab05_2",
+    "chapter": "Bab 05",
+    "level": "N3",
+    "title": "〜ように",
+    "meaning": "mengungkapkan sebuah perintah yang ringan",
+    "formula_template": "[{A}る / {B}ない] ように",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}る / {B}ない] ように' untuk mengekspresikan: mengungkapkan sebuah perintah yang ringan.",
+    "ui_notes": "mengungkapkan sebuah perintah yang ringan",
+    "examples": [
+      {
+        "jp": "明日はもっと早く来るように。",
+        "id": "mohon agar besok datang lebih cepat"
+      },
+      {
+        "jp": "ここで、たばこを吸わないように。",
+        "id": "mohon agar tidak merokok disini"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab05_3",
+    "chapter": "Bab 05",
+    "level": "N3",
+    "title": "〜ように",
+    "meaning": "mengungkapkan sebuah doa & harapan",
+    "formula_template": "[{A}ます / {B}ません / {C}れます] ように",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}ます / {B}ません / {C}れます] ように' untuk mengekspresikan: mengungkapkan sebuah doa & harapan.",
+    "ui_notes": "mengungkapkan sebuah doa & harapan",
+    "examples": [
+      {
+        "jp": "合格しますように。",
+        "id": "mudah-mudahan saya bisa lulus"
+      },
+      {
+        "jp": "母の病気が治りますように。",
+        "id": "mudah-mudahan penyakit ibu sembuh"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

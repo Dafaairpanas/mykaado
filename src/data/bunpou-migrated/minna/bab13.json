@@ -1,0 +1,185 @@
+[
+  {
+    "id": "m_bab13_1",
+    "chapter": "Bab 13",
+    "level": "N5",
+    "title": "Aが 欲しいです",
+    "meaning": "ほしい adalah Kata Sifat い yang digunakan untuk menyatakan keinginan untuk memiliki benda/sesuatu. Objek untuk ほしい ditunjuk dengan partikel が.",
+    "formula_template": "{A} が 欲しいです",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} が 欲しいです' untuk menyatakan: ほしい adalah Kata Sifat い yang digunakan untuk menyatakan keinginan untuk memiliki benda/sesuatu. Objek untuk ほし. Pastikan 'A' mewakili Kata Benda.",
+    "ui_notes": "Tidak dapat menyatakan keinginan dari pihak ketiga selain si pembicara dan lawan bicara. Juga tidak dapat digunakan pada situasi untuk menawarkan sesuatu kepada lawan bicara (gunakan ekspresi seperti いかがですか).",
+    "examples": [
+      {
+        "jp": "わたしは 友達が 欲しいです。",
+        "id": "Saya ingin punya teman."
+      },
+      {
+        "jp": "今 何が いちばん 欲しいですか。…… 車が 欲しいです。",
+        "id": "Sekarang apa yang paling diinginkan? ……Ingin punya mobil."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Sifat",
+      "Keinginan Benda"
+    ]
+  },
+  {
+    "id": "m_bab13_2",
+    "chapter": "Bab 13",
+    "level": "N5",
+    "title": "A たいです",
+    "meaning": "Digunakan untuk menunjukkan keinginan untuk berbuat sesuatu. Perubahan bentuk 〜たい sama dengan Kata Sifat い.",
+    "formula_template": "{A} たいです",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} たいです' untuk menyatakan: Digunakan untuk menunjukkan keinginan untuk berbuat sesuatu. Perubahan bentuk 〜たい sama dengan Kata Sifat い.. Pastikan 'A' mewakili Kata Kerja (Bentuk ます dihilangkan).",
+    "ui_notes": "Objek dari 〜たい dapat ditunjuk dengan partikel を atau が. Sama seperti ほしいです, pola ini tidak dapat menyatakan keinginan pihak ketiga dan tidak tepat digunakan untuk menawarkan sesuatu (gunakan 〜ませんか).",
+    "examples": [
+      {
+        "jp": "わたしは 沖縄へ 行きたいです。",
+        "id": "Saya ingin pergi ke Okinawa."
+      },
+      {
+        "jp": "わたしは てんぷらを 食べたいです。",
+        "id": "Saya ingin makan Tempura."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Kerja",
+      "Keinginan Aksi"
+    ]
+  },
+  {
+    "id": "m_bab13_3",
+    "chapter": "Bab 13",
+    "level": "N5",
+    "title": "A へ ｛B / C｝ に 行きます／来ます／帰ります",
+    "meaning": "Menunjukkan tujuan kepergian atau kedatangan. Objek untuk aksi dari 行きます, 来ます, 帰ります ditunjuk dengan partikel に.",
+    "formula_template": "{A} へ {B} / {C} に 行きます/来ます/帰ります",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} へ {B} / {C} に 行きます/来ます/帰ります' untuk menyatakan: Menunjukkan tujuan kepergian atau kedatangan. Objek untuk aksi dari 行きます, 来ます, 帰ります ditunjuk dengan partikel に. Pastikan 'A' mewakili Kata Benda (Tempat), 'B' mewakili Kata Kerja (Bentuk ます), 'C' mewakili Kata Benda (Aksi/Acara).",
+    "ui_notes": "Jika Kata Kerja di depan に adalah Kata Benda + します (contoh: 買い物します, 勉強します), maka Kata Benda-nya saja yang digunakan (買い物に, 勉強に). Jika berupa acara (seperti お祭り), biasanya bermakna untuk menonton/mendengar.",
+    "examples": [
+      {
+        "jp": "神戸へ インド 料理を 食べに 行きます。",
+        "id": "Pergi makan masakan India ke Kobe."
+      },
+      {
+        "jp": "神戸へ 買い物に 行きます。",
+        "id": "Pergi ke Kobe untuk belanja."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Kerja",
+      "Tujuan Pergerakan"
+    ]
+  },
+  {
+    "id": "m_bab13_4",
+    "chapter": "Bab 13",
+    "level": "N5",
+    "title": "どこか／何か",
+    "meaning": "どこか berarti suatu tempat, dan なにか berarti sesuatu. Partikel へ atau を di belakang どこか atau なにか dapat dihilangkan.",
+    "formula_template": "どこか (へ) / 何か (を)",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'どこか (へ) / 何か (を)' untuk menyatakan: どこか berarti suatu tempat, dan なにか berarti sesuatu. Partikel へ atau を di belakang どこか atau なにか dapat dihilangka.",
+    "ui_notes": "Kata-kata yang menunjukkan waktu dapat diangkat sebagai topik dengan dibubuhkan は (contoh: 冬休みは).",
+    "examples": [
+      {
+        "jp": "冬休みは どこか［へ］ 行きましたか。……はい。北海道へ スキーに 行きました。",
+        "id": "Pada waktu liburan musim dingin pergi ke suatu tempat (mana)? ……Ya, pergi ke Hokkaido untuk bermain ski."
+      },
+      {
+        "jp": "のどが かわきましたから、何か［を］ 飲みたいです。",
+        "id": "Karena haus, ingin minum sesuatu."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Ganti",
+      "Sesuatu/Suatu Tempat"
+    ]
+  },
+  {
+    "id": "m_bab13_5",
+    "chapter": "Bab 13",
+    "level": "N5",
+    "title": "ご〜",
+    "meaning": "Awalan yang ditambahkan pada kata benda untuk menunjukkan penghormatan atau kesopanan.",
+    "formula_template": "ご {A}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'ご {A}' untuk menyatakan: Awalan yang ditambahkan pada kata benda untuk menunjukkan penghormatan atau kesopanan.. Pastikan 'A' mewakili Kata Benda.",
+    "ui_notes": "Awalan yang ditambahkan pada kata benda untuk menunjukkan penghormatan atau kesopanan.",
+    "examples": [
+      {
+        "jp": "ご注文は？",
+        "id": "Mau pesan apa?"
+      }
+    ],
+    "tags": [
+      "N5",
+      "Awalan",
+      "Kehormatan"
+    ]
+  }
+]

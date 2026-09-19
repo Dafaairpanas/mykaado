@@ -1,0 +1,231 @@
+[
+  {
+    "id": "m_bab31_1",
+    "chapter": "Bab 31",
+    "level": "N4",
+    "title": "Aの意向形",
+    "meaning": "Bentuk Biasa dari ~ましょう (Mari/Ayo). Digunakan dalam kalimat informal untuk mengajak, mengusulkan, atau menawarkan bantuan.",
+    "formula_template": "Gol I: bunyi [i] sebelum ます menjadi [o] う | Gol II: ~ます menjadi ~よう | Gol III: します menjadi しよう, きます menjadi こよう",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'Gol I: bunyi [i] sebelum ます menjadi [o] う | Gol II: ~ます menjadi ~よう | Gol III: します menjadi しよう, きます menjadi こよう' untuk menyatakan: Bentuk Biasa dari ~ましょう (Mari/Ayo). Digunakan dalam kalimat informal untuk mengajak, mengusulkan, atau menawar.",
+    "ui_notes": "Pada kalimat tanya Bentuk Biasa pada umumnya tidak membutuhkan partikel か, tetapi untuk kalimat tanya Bentuk Maksud yang menawarkan sesuatu (~ましょうか) diperlukan partikel か pada akhir kalimat.",
+    "examples": [
+      {
+        "jp": "ちょっと休まない？……うん、休もう。",
+        "id": "Bagaimana kalau beristirahat sebentar? ……Ya, mari beristirahat."
+      },
+      {
+        "jp": "手伝おうか。",
+        "id": "Mari saya bantu!"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Ajakan/Tawaran"
+    ]
+  },
+  {
+    "id": "m_bab31_2",
+    "chapter": "Bab 31",
+    "level": "N4",
+    "title": "A意向形 と 思っています",
+    "meaning": "Pola kalimat ini digunakan untuk menyatakan kehendak si pembicara kepada lawan bicaranya. Bentuk ~と思っています menyatakan bahwa kehendak tersebut sudah dipikirkan sejak suatu jangka waktu lalu dan saat ini masih dipertahankan.",
+    "formula_template": "{A} と 思っています / と 思います",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} と 思っています / と 思います' untuk menyatakan: Pola kalimat ini digunakan untuk menyatakan kehendak si pembicara kepada lawan bicaranya. Bentuk ~と思っています meny. Pastikan 'A' mewakili Kata Kerja (Bentuk Maksud).",
+    "ui_notes": "Kata Kerja Bentuk Maksud + と思っています dapat digunakan untuk menyatakan maksud orang ketiga (dia/mereka), sedangkan ~と思います hanya dapat menyatakan maksud secara spontan dari si pembicara sendiri (saya).",
+    "examples": [
+      {
+        "jp": "週末は海へ行こうと思っています。",
+        "id": "Pada akhir minggu ingin pergi ke laut."
+      },
+      {
+        "jp": "今から銀行へ行こうと思います。",
+        "id": "Sekarang mau pergi ke bank."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Kehendak/Maksud"
+    ]
+  },
+  {
+    "id": "m_bab31_3",
+    "chapter": "Bab 31",
+    "level": "N4",
+    "title": "A／ない形 つもりです",
+    "meaning": "Menyatakan kehendak, niat, atau rencana pribadi yang pasti. Menunjukkan ketepatan hati yang kukuh (kebulatan tekad) dibandingkan dengan ~意向形と思っています.",
+    "formula_template": "{A} / {B} つもりです",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} / {B} つもりです' untuk menyatakan: Menyatakan kehendak, niat, atau rencana pribadi yang pasti. Menunjukkan ketepatan hati yang kukuh (kebulatan t. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus), 'B' mewakili Kata Kerja (Bentuk ない).",
+    "ui_notes": "Untuk niat yang negatif (bermaksud tidak melakukan), biasanya menggunakan bentuk Kata Kerja (Bentuk ない) + つもりです.",
+    "examples": [
+      {
+        "jp": "国へ帰っても、日本語の勉強を続けるつもりです。",
+        "id": "Kalau pulang ke tanah air, (saya) ingin meneruskan belajar bahasa Jepang."
+      },
+      {
+        "jp": "あしたからはたばこを吸わないつもりです。",
+        "id": "Mulai besok, (saya) bermaksud tidak merokok."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Niat/Tekad"
+    ]
+  },
+  {
+    "id": "m_bab31_4",
+    "chapter": "Bab 31",
+    "level": "N4",
+    "title": "A／B の 予定です",
+    "meaning": "Digunakan untuk menjelaskan pernyataan rencana atau jadwal yang sudah resmi, pasti, atau ditetapkan (bukan sekadar niat/kemauan pribadi).",
+    "formula_template": "{A} / {B} の 予定です",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} / {B} の 予定です' untuk menyatakan: Digunakan untuk menjelaskan pernyataan rencana atau jadwal yang sudah resmi, pasti, atau ditetapkan (bukan sek. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus), 'B' mewakili Kata Benda.",
+    "ui_notes": "Digunakan untuk menjelaskan pernyataan rencana atau jadwal yang sudah resmi, pasti, atau ditetapkan (bukan sekadar niat/kemauan pribadi).",
+    "examples": [
+      {
+        "jp": "7月の終わりにドイツへ出張する予定です。",
+        "id": "Rencananya pada akhir bulan Juli (saya) dinas ke Jerman."
+      },
+      {
+        "jp": "旅行は1週間ぐらいの予定です。",
+        "id": "Rencananya perjalanan kurang lebih seminggu."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Jadwal/Rencana Pasti"
+    ]
+  },
+  {
+    "id": "m_bab31_5",
+    "chapter": "Bab 31",
+    "level": "N4",
+    "title": "まだ ～ていません",
+    "meaning": "Ekspresi ini menyatakan bahwa pada saat pembicaraan berlangsung, suatu kejadian belum terjadi atau suatu perbuatan belum selesai dilakukan.",
+    "formula_template": "まだ {A} いません",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'まだ {A} いません' untuk menyatakan: Ekspresi ini menyatakan bahwa pada saat pembicaraan berlangsung, suatu kejadian belum terjadi atau suatu perbu. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Tidak menggunakan ~ませんでした, karena hal/perbuatan tersebut masih dalam proses penantian untuk terjadi/selesai sampai saat ini.",
+    "examples": [
+      {
+        "jp": "銀行はまだ開いていません。",
+        "id": "Bank belum buka."
+      },
+      {
+        "jp": "レポートはもう書きましたか。……いいえ、まだ書いていません。",
+        "id": "Apakah (Anda) telah menulis laporan? ……Belum, belum menulisnya."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Belum Selesai"
+    ]
+  },
+  {
+    "id": "m_bab31_6",
+    "chapter": "Bab 31",
+    "level": "N4",
+    "title": "A ＝ B",
+    "meaning": "Kata kerja bentuk ます (dengan 'ます' dihilangkan) dapat berubah fungsi dan digunakan sebagai Kata Benda.",
+    "formula_template": "{A} -> Hilangkan ます",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} -> Hilangkan ます' untuk menyatakan: Kata kerja bentuk ます (dengan 'ます' dihilangkan) dapat berubah fungsi dan digunakan sebagai Kata Benda.. Pastikan 'A' mewakili Kata Kerja (Bentuk ます).",
+    "ui_notes": "Contoh perubahan lainnya: 遊びます -> 遊び (permainan/bermain), 答えます -> 答え (jawaban), 申し込みます -> 申し込み (pendaftaran), 楽しみます -> 楽しみ (kesenangan).",
+    "examples": [
+      {
+        "jp": "帰りの新幹線はどこから乗りますか。",
+        "id": "Naik dari mana Shinkansen untuk pulangnya?"
+      },
+      {
+        "jp": "休みは何曜日ですか。",
+        "id": "Hari apa hari libur?"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Perubahan Kata",
+      "Nominalisasi"
+    ]
+  }
+]

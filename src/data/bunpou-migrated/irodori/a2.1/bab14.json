@@ -1,0 +1,158 @@
+[
+  {
+    "id": "i_bab14_1",
+    "chapter": "Bab 14",
+    "level": "A2.1",
+    "title": "V-てもいいですか？ — Boleh ...?",
+    "meaning": "Pola kalimat untuk meminta izin melakukan sesuatu kepada rekan kerja atau atasan. 'V-ても' berarti 'bahkan jika V', dan 'いいですか' berarti 'apakah boleh?'. Digunakan saat ingin meninggalkan tempat kerja atau melakukan tindakan tertentu. Artinya 'Apakah boleh [melakukan]?'",
+    "formula_template": "{A} もいいですか？",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} もいいですか？' untuk percakapan: Pola kalimat untuk meminta izin melakukan sesuatu kepada rekan kerja atau atasan. 'V-ても' berarti 'bahkan jika . Pastikan 'A' mewakili Kata Kerja Bentuk te.",
+    "ui_notes": "Cara merespon: Menerima: はい、いいですよ (Ya, boleh) / どうぞ (Silakan). Menolak: すみません、ちょっと… (Maaf, agak...) / それはちょっと… (Itu agak...). Untuk izin yang lebih formal, gunakan 'V-てもよろしいですか？' (lebih sopan).",
+    "examples": [
+      {
+        "jp": "トイレに行って来てもいいですか？",
+        "id": "Apakah boleh pergi ke toilet (dan kembali)?"
+      },
+      {
+        "jp": "窓を開けてもいいですか？",
+        "id": "Apakah boleh membuka jendela?"
+      }
+    ],
+    "tags": [
+      "A2",
+      "Izin",
+      "Tempat Kerja",
+      "Sopan"
+    ]
+  },
+  {
+    "id": "i_bab14_2",
+    "chapter": "Bab 14",
+    "level": "A2.1",
+    "title": "V-てもいいでしょうか？ — Apakah Boleh ...?",
+    "meaning": "Pola yang lebih sopan untuk meminta izin, terutama kepada atasan atau orang yang lebih tua. 'でしょうか' adalah bentuk lebih sopan dan hati-hati dari 'ですか'. Memberikan nuansa keraguan dan rasa hormat yang lebih tinggi. Sangat cocok untuk situasi formal di tempat kerja. Artinya 'Apakah boleh [melakukan]?' (sangat sopan).",
+    "formula_template": "{A} もいいでしょうか？",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} もいいでしょうか？' untuk percakapan: Pola yang lebih sopan untuk meminta izin, terutama kepada atasan atau orang yang lebih tua. 'でしょうか' adalah ben. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
+    "ui_notes": "Tingkat kesopanan: V-てもいいですか？ (standar) < V-てもいいでしょうか？ (sangat sopan) < V-てもよろしいでしょうか？ (paling sopan). Gunakan 'でしょうか' saat meminta izin kepada atasan langsung atau dalam situasi formal. Jawaban yang diharapkan: はい、結構ですよ (Ya, tidak apa-apa) / はい、大丈夫です (Ya, boleh).",
+    "examples": [
+      {
+        "jp": "明日の午後、早退してもいいでしょうか？",
+        "id": "Apakah boleh pulang lebih awal besok siang?"
+      },
+      {
+        "jp": "来週、休みを取ってもいいでしょうか？",
+        "id": "Apakah boleh mengambil cuti minggu depan?"
+      }
+    ],
+    "tags": [
+      "A2",
+      "Izin",
+      "Tempat Kerja",
+      "Sangat Sopan"
+    ]
+  },
+  {
+    "id": "i_bab14_3",
+    "chapter": "Bab 14",
+    "level": "A2.1",
+    "title": "V-なければなりません — Harus ...",
+    "meaning": "Pola kalimat untuk menyatakan kewajiban atau keharusan melakukan sesuatu. 'V-なければ' berarti 'jika tidak V', dan 'なりません' berarti 'tidak menjadi' → 'tidak boleh tidak V' = 'harus V'. Digunakan untuk menjelaskan alasan ketidakhadiran atau kewajiban. Artinya 'Harus [melakukan V]'.",
+    "formula_template": "{A} なければなりません",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} なければなりません' untuk percakapan: Pola kalimat untuk menyatakan kewajiban atau keharusan melakukan sesuatu. 'V-なければ' berarti 'jika tidak V', dan. Pastikan 'A' mewakili Kata Kerja Bentuk Negatif tanpa nai.",
+    "ui_notes": "Bentuk kasual: V-なきゃ (ikanakya - harus pergi) atau V-なくちゃ (ikanakucha). Bentuk sopan: V-なければなりません. Dalam percakapan sehari-hari, 'なければなりません' sering disingkat menjadi 'なきゃ' atau 'なくちゃ'. Contoh: 行かなきゃ (Harus pergi - kasual).",
+    "examples": [
+      {
+        "jp": "ちょっと、役所に行かなければならないんです。",
+        "id": "Saya harus pergi ke kantor pemerintah sebentar."
+      },
+      {
+        "jp": "毎日、日本語を勉強しなければなりません。",
+        "id": "Saya harus belajar bahasa Jepang setiap hari."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Kewajiban",
+      "Keharusan",
+      "Alasan"
+    ]
+  },
+  {
+    "id": "i_bab14_4",
+    "chapter": "Bab 14",
+    "level": "A2.1",
+    "title": "〜んです ① — Penjelasan / Alasan",
+    "meaning": "Pola kalimat untuk memberikan penjelasan, alasan, atau informasi tambahan yang mendasari suatu situasi. 'ん' adalah bentuk kasual dari 'の' yang berfungsi sebagai nominalisasi, dan 'です' membuatnya sopan. Digunakan untuk menjelaskan mengapa seseorang melakukan sesuatu atau mengapa situasi terjadi. Artinya '(Faktanya) [penjelasan]'.",
+    "formula_template": "{A} んです",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} んです' untuk percakapan: Pola kalimat untuk memberikan penjelasan, alasan, atau informasi tambahan yang mendasari suatu situasi. 'ん' ad. Pastikan 'A' mewakili Kalimat Penjelasan.",
+    "ui_notes": "Bentuk '〜んです' sering digunakan untuk memberikan konteks atau alasan. Dalam bentuk pertanyaan: どうして遅れたんですか？ (Mengapa terlambat? - meminta penjelasan). Jawaban: 電車が遅れたんです (Kereta terlambat - penjelasan). Juga digunakan untuk menekankan informasi baru.",
+    "examples": [
+      {
+        "jp": "東京から、国の友だちが来るんです。",
+        "id": "(Faktanya) teman dari negara saya datang dari Tokyo."
+      },
+      {
+        "jp": "明日、病院に行くんです。",
+        "id": "(Faktanya) saya pergi ke rumah sakit besok."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Penjelasan",
+      "Alasan",
+      "Konteks"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "n3_bab06_1",
+    "chapter": "Bab 06",
+    "level": "N3",
+    "title": "〜ようと思う",
+    "meaning": "ketika subjek atau pembicara mempunyai keinginan atau niat akan melakukan suatu hal",
+    "formula_template": "{A} は 〜ようと思う です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は 〜ようと思う です' untuk mengekspresikan: ketika subjek atau pembicara mempunyai keinginan atau niat akan melakukan suatu hal.",
+    "ui_notes": "ketika subjek atau pembicara mempunyai keinginan atau niat akan melakukan suatu hal",
+    "examples": [
+      {
+        "jp": "会社をやめようと思っている。",
+        "id": "saya bermaksud ingin berhenti dari kantor"
+      },
+      {
+        "jp": "来年、国に帰ろうと思っています。",
+        "id": "tahun depan saya bermaksud ingin pulang ke negara"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab06_2",
+    "chapter": "Bab 06",
+    "level": "N3",
+    "title": "〜ようとする",
+    "meaning": "tidak mau, tidak ada niat",
+    "formula_template": "{A} は 〜ようとする です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は 〜ようとする です' untuk mengekspresikan: tidak mau, tidak ada niat.",
+    "ui_notes": "tidak mau, tidak ada niat",
+    "examples": [
+      {
+        "jp": "電車に乗ろうとしたときに、ドアが閉まって乗れなかった。",
+        "id": "pas ketika saya mau naik kereta, pintunya tertutup, jadi saya tidak bisa naik"
+      },
+      {
+        "jp": "ポチはぼくが出かけようとすると、ほえる。",
+        "id": "di saat saya mau keluar, pochi selalu menggonggong"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

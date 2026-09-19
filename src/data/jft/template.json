@@ -1,0 +1,82 @@
+{
+  "_comment": "TEMPLATE FORMAT SOAL SIMULASI JFT. Copy file ini menjadi batch-02.json, batch-03.json, dll.",
+  "id": "batch-template",
+  "title": "Judul Simulasi (Contoh: JFT-Basic Paket 02)",
+  "description": "Deskripsi singkat mengenai isi latihan simulasi ini.",
+  "timeLimitMinutes": 60,
+  "passingScorePercent": 60,
+  "questions": [
+    {
+      "id": 1,
+      "type": "dokkai",
+      "category": "読解 (Membaca)",
+      "story": "Tuliskan teks bacaan cerita panjang di sini.\nBisa menggunakan baris baru (enter) seperti ini.\nSatu teks cerita ini khusus untuk 1 soal ini.",
+      "image": "",
+      "audio": "",
+      "audioScript": "",
+      "question": "Tuliskan pertanyaan bacaan di sini?",
+      "options": [
+        "Pilihan A",
+        "Pilihan B",
+        "Pilihan C",
+        "Pilihan D"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Tuliskan penjelasan kenapa pilihan A benar."
+    },
+    {
+      "id": 2,
+      "type": "choukai",
+      "category": "聴解 (Menyimak)",
+      "story": "",
+      "image": "",
+      "audio": "/jft/audio/nama-file-audio.mp3",
+      "audioScript": "Teks naskah percakapan (opsional, akan ditampilkan saat sesi review pembahasan jawaban)",
+      "question": "Tuliskan pertanyaan dari audio percakapan di sini?",
+      "options": [
+        "Pilihan 1",
+        "Pilihan 2",
+        "Pilihan 3",
+        "Pilihan 4"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Penjelasan dari apa yang diucapkan di audio."
+    },
+    {
+      "id": 3,
+      "type": "gambar",
+      "category": "文字・語彙 (Gambar & Tanda)",
+      "story": "",
+      "image": "/jft/images/nama-gambar.png",
+      "audio": "",
+      "audioScript": "",
+      "question": "Pertanyaan mengenai gambar atau rambu di atas?",
+      "options": [
+        "Pilihan 1",
+        "Pilihan 2",
+        "Pilihan 3",
+        "Pilihan 4"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Penjelasan arti gambar."
+    },
+    {
+      "id": 4,
+      "type": "standard",
+      "category": "文法 (Tata Bahasa)",
+      "story": "",
+      "image": "",
+      "audio": "",
+      "audioScript": "",
+      "question": "Soal pilihan ganda biasa / tata bahasa / kosakata?",
+      "options": [
+        "Pilihan 1",
+        "Pilihan 2",
+        "Pilihan 3",
+        "Pilihan 4"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Penjelasan jawaban."
+    }
+  ]
+}

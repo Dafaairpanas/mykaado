@@ -1,0 +1,184 @@
+[
+  {
+    "id": "n3_bab08_1",
+    "chapter": "Bab 08",
+    "level": "N3",
+    "title": "〜について",
+    "meaning": "tentang, mengenai",
+    "formula_template": "{A}に [ついて / ついての {B}/ ついては / ついても]",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}に [ついて / ついての {B}/ ついては / ついても]' untuk mengekspresikan: tentang, mengenai.",
+    "ui_notes": "tentang, mengenai",
+    "examples": [
+      {
+        "jp": "日本文化について勉強する。",
+        "id": "saya belajar tentang budaya Jepang"
+      },
+      {
+        "jp": "「受験についての注意」を読む。",
+        "id": "saya membaca hal yang perlu diperhatikan mengenai ujian"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab08_2",
+    "chapter": "Bab 08",
+    "level": "N3",
+    "title": "〜に関して",
+    "meaning": "ungkapan ini lebih kaku daripada 〜について & sering digunakan dalam situasi formal",
+    "formula_template": "[{A}に / {B}〜のに] [関（かん）して / 関しては / 関しても / 関する {C}/ 関しての {D}]",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}に / {B}〜のに] [関（かん）して / 関しては / 関しても / 関する {C}/ 関しての {D}]' untuk mengekspresikan: ungkapan ini lebih kaku daripada 〜について & sering digunakan dalam situasi formal.",
+    "ui_notes": "ungkapan ini lebih kaku daripada 〜について & sering digunakan dalam situasi formal",
+    "examples": [
+      {
+        "jp": "農業に関する論文を読む。",
+        "id": "saya membaca makalah (hasil penelitian) yang berhubungan dengan pertanian"
+      },
+      {
+        "jp": "この問題に関して、ご意見ありませんか。",
+        "id": "sehubungan dengan masalah ini, apakah ada pendapat?"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab08_3",
+    "chapter": "Bab 08",
+    "level": "N3",
+    "title": "〜によると",
+    "meaning": "digunakan untuk menjelaskan sumber informasi berdasarkan apa",
+    "formula_template": "{A}に [よると / よれば]",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}に [よると / よれば]' untuk mengekspresikan: digunakan untuk menjelaskan sumber informasi berdasarkan apa.",
+    "ui_notes": "digunakan untuk menjelaskan sumber informasi berdasarkan apa",
+    "examples": [
+      {
+        "jp": "天気予報によれば、明日は晴れるらしい。",
+        "id": "menurut ramalan cuaca, besok katanya cerah"
+      },
+      {
+        "jp": "さっきの地震はテレビの速報によると震度3だそうだ。",
+        "id": "menurut berita di tv, katanya gempa yang tadi berkekuatan 3 skala richter (M 3)"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab08_4",
+    "chapter": "Bab 08",
+    "level": "N3",
+    "title": "〜によって",
+    "meaning": "digunakan untuk mengungkapkan sebuah (1) cara (2) keadaan \"tergantung\" (3) penyebab",
+    "formula_template": "{A}に [よって / よっては / より / よる {B}]",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}に [よって / よっては / より / よる {B}]' untuk mengekspresikan: digunakan untuk mengungkapkan sebuah (1) cara (2) keadaan \"tergantung\" (3) penyebab.",
+    "ui_notes": "digunakan untuk mengungkapkan sebuah (1) cara (2) keadaan \"tergantung\" (3) penyebab",
+    "examples": [
+      {
+        "jp": "彼は努力によって病気を克服した。",
+        "id": "dia mengatasi penyakit dengan cara berusaha"
+      },
+      {
+        "jp": "人によって考え方が違います。",
+        "id": "cara berpikir berbeda tergantung orangnya (setiap orang berbeda-beda)"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

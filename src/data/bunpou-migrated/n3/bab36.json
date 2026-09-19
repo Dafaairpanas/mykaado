@@ -1,0 +1,145 @@
+[
+  {
+    "id": "n3_bab36_1",
+    "chapter": "Bab 36",
+    "level": "N3",
+    "title": "あと／それと",
+    "meaning": "digunakan untuk menambahkan sesuatu",
+    "formula_template": "{A}。あと／それと、{B}。",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}。あと／それと、{B}。' untuk mengekspresikan: digunakan untuk menambahkan sesuatu.",
+    "ui_notes": "digunakan untuk menambahkan sesuatu",
+    "examples": [
+      {
+        "jp": "レタス一つとトマトを3個ください。それと、ピーマンも1袋ください。",
+        "id": "saya mau beli lettuce satu dan tomat tiga... lalu, peeman juga satu"
+      },
+      {
+        "jp": "言われたことはしました。あと、何をすればいいですか。",
+        "id": "saya sudah melakukan apa yang dibilang. berikutnya saya harus gimana?"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Konjungsi"
+    ]
+  },
+  {
+    "id": "n3_bab36_2",
+    "chapter": "Bab 36",
+    "level": "N3",
+    "title": "それとも",
+    "meaning": "digunakan untuk menghubungkan kalimat tanya; ✓ secara makna sama seperti あるいは、または (menghubungkan kalimat & kosakata)",
+    "formula_template": "{A}。それとも、{B}。",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}。それとも、{B}。' untuk mengekspresikan: digunakan untuk menghubungkan kalimat tanya; ✓ secara makna sama seperti あるいは、または (menghubungkan kalimat & kos.",
+    "ui_notes": "digunakan untuk menghubungkan kalimat tanya; ✓ secara makna sama seperti あるいは、または (menghubungkan kalimat & kosakata)",
+    "examples": [
+      {
+        "jp": "コーヒーにしますか。それとも紅茶にしますか。",
+        "id": "mau kopi atau teh?"
+      },
+      {
+        "jp": "来週にしましょうか。それともさ来週がいいですか。",
+        "id": "mau minggu depan saja? atau 2 minggu lagi?"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Konjungsi"
+    ]
+  },
+  {
+    "id": "n3_bab36_3",
+    "chapter": "Bab 36",
+    "level": "N3",
+    "title": "その上",
+    "meaning": "digunakan untuk menambahkan informasi; ✓ lebih formal daripada それに",
+    "formula_template": "{A} は その上 です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は その上 です' untuk mengekspresikan: digunakan untuk menambahkan informasi; ✓ lebih formal daripada それに.",
+    "ui_notes": "digunakan untuk menambahkan informasi; ✓ lebih formal daripada それに",
+    "examples": [
+      {
+        "jp": "この店の料理はおいしい。その上、値段も安い。",
+        "id": "masakan restoran ini enak. dan juga harganya murah"
+      },
+      {
+        "jp": "彼は、頭がいい。その上、スポーツも何でもできる。",
+        "id": "dia pandai. disamping itu, dia bisa olahraga dan apa saja"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Konjungsi"
+    ]
+  }
+]

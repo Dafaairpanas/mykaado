@@ -1,0 +1,209 @@
+[
+  {
+    "id": "i_bab08_1",
+    "chapter": "Bab 08",
+    "level": "A2.1",
+    "title": "もうV-ましたか？ — Sudah ...?",
+    "meaning": "Pola pertanyaan untuk menanyakan apakah seseorang sudah melakukan suatu tindakan di masa lalu. 'もう' berarti 'sudah', dan 'V-ましたか' adalah bentuk lampau sopan dari kata kerja. Digunakan untuk menanyakan pengalaman atau status suatu kegiatan. Artinya 'Apakah sudah [melakukan]?'.",
+    "formula_template": "もう {A} か？",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'もう {A} か？' untuk percakapan: Pola pertanyaan untuk menanyakan apakah seseorang sudah melakukan suatu tindakan di masa lalu. 'もう' berarti 's. Pastikan 'A' mewakili Kata Kerja Bentuk Lampau.",
+    "ui_notes": "Untuk jawaban positif: はい、もう行きました (Ya, sudah pergi). Untuk jawaban negatif: いいえ、まだです (Belum) atau いいえ、まだ行っていません (Belum pergi). 'もう' digunakan untuk tindakan yang sudah selesai, sedangkan 'まだ' untuk tindakan yang belum selesai.",
+    "examples": [
+      {
+        "jp": "新しいアウトレットモール、もう行きましたか？",
+        "id": "Apakah sudah pergi ke outlet mall yang baru?"
+      },
+      {
+        "jp": "もう昼ご飯を食べましたか？",
+        "id": "Apakah sudah makan siang?"
+      }
+    ],
+    "tags": [
+      "A2",
+      "Pengalaman",
+      "Pertanyaan",
+      "Lampau"
+    ]
+  },
+  {
+    "id": "i_bab08_2",
+    "chapter": "Bab 08",
+    "level": "A2.1",
+    "title": "V-たことがあります — Pernah ...",
+    "meaning": "Pola kalimat untuk menyatakan pengalaman masa lalu. 'V-た' adalah bentuk lampau dari kata kerja, 'こと' mengubahnya menjadi kata benda, dan 'があります' berarti 'ada'. Digunakan untuk menceritakan pengalaman atau menanyakan apakah seseorang pernah melakukan sesuatu. Artinya 'Pernah [melakukan]'.",
+    "formula_template": "{A} ことがあります",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ことがあります' untuk percakapan: Pola kalimat untuk menyatakan pengalaman masa lalu. 'V-た' adalah bentuk lampau dari kata kerja, 'こと' mengubahn. Pastikan 'A' mewakili Kata Kerja Bentuk Lampau.",
+    "ui_notes": "Bentuk negatif: 見たことがありません (Belum pernah melihat). Untuk jawaban positif: はい、あります (Ya, pernah). Untuk jawaban negatif: いいえ、ありません (Tidak, belum pernah). Berbeda dengan 'V-ました' yang menanyakan tindakan spesifik, 'V-たことがあります' menanyakan pengalaman secara umum.",
+    "examples": [
+      {
+        "jp": "プロレスを見たことがありますか？",
+        "id": "Apakah pernah menonton gulat profesional?"
+      },
+      {
+        "jp": "すしを食べたことがあります。",
+        "id": "Saya pernah makan sushi."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Pengalaman",
+      "Pertanyaan",
+      "Lampau"
+    ]
+  },
+  {
+    "id": "i_bab08_3",
+    "chapter": "Bab 08",
+    "level": "A2.1",
+    "title": "V-に行きませんか？ — Mau Pergi ...?",
+    "meaning": "Pola ajakan untuk pergi melakukan suatu aktivitas bersama. 'V-に' menunjukkan tujuan dari tindakan, dan '行きませんか' berarti 'tidak mau pergi?' yang secara sopan berarti 'mau pergi?'. Sangat berguna saat mengajak teman atau rekan kerja. Artinya 'Bagaimana kalau pergi [melakukan]?'.",
+    "formula_template": "{A} に行きませんか？",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に行きませんか？' untuk percakapan: Pola ajakan untuk pergi melakukan suatu aktivitas bersama. 'V-に' menunjukkan tujuan dari tindakan, dan '行きませんか. Pastikan 'A' mewakili Kata Kerja Bentuk Masu tanpa masu.",
+    "ui_notes": "Pola ini juga bisa digunakan dengan '来ます' (datang): 遊びに来てください (Tolong datang untuk bermain). Untuk kata kerja yang memiliki objek, gunakan 'を' sebelum 'に': 映画を見に行く (Pergi menonton film), 買い物をしに行く (Pergi berbelanja).",
+    "examples": [
+      {
+        "jp": "いっしょに食べに行きませんか？",
+        "id": "Bagaimana kalau pergi makan bersama?"
+      },
+      {
+        "jp": "映画を見に行きませんか？",
+        "id": "Bagaimana kalau pergi menonton film?"
+      }
+    ],
+    "tags": [
+      "A2",
+      "Ajakan",
+      "Pergi",
+      "Aktivitas"
+    ]
+  },
+  {
+    "id": "i_bab08_4",
+    "chapter": "Bab 08",
+    "level": "A2.1",
+    "title": "Nの前に／あとで — Sebelum / Sesudah N",
+    "meaning": "Pola kalimat untuk menyatakan urutan waktu: sebelum atau sesudah melakukan suatu kegiatan. '前に' berarti 'sebelum' dan 'あとで' berarti 'sesudah'. Digunakan untuk merencanakan aktivitas atau menjelaskan urutan tindakan. Artinya 'Sebelum [N]' / 'Setelah [N]'.",
+    "formula_template": "{A} の前に / {B} のあとで",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} の前に / {B} のあとで' untuk percakapan: Pola kalimat untuk menyatakan urutan waktu: sebelum atau sesudah melakukan suatu kegiatan. '前に' berarti 'sebel. Pastikan 'A' mewakili N, 'B' mewakili N.",
+    "ui_notes": "Untuk kata kerja, gunakan: [Kata Kerja Bentuk Kamus] + 前に (sebelum V) dan [Kata Kerja Bentuk Lampau] + あとで (setelah V). Contoh: 食べる前に手を洗います (Cuci tangan sebelum makan), 食べたあとで歯を磨きます (Sikat gigi setelah makan).",
+    "examples": [
+      {
+        "jp": "食事の前にお金をおろしたいです。",
+        "id": "Saya ingin mengambil uang sebelum makan."
+      },
+      {
+        "jp": "買い物のあとで、ゲームコーナーに行きませんか？",
+        "id": "Setelah belanja, bagaimana kalau pergi ke sudut game?"
+      }
+    ],
+    "tags": [
+      "A2",
+      "Urutan",
+      "Waktu",
+      "Rencana"
+    ]
+  },
+  {
+    "id": "i_bab08_5",
+    "chapter": "Bab 08",
+    "level": "A2.1",
+    "title": "V-たいんですが… (V-tai n desu ga…) — Saya Mau ...",
+    "meaning": "Pola kalimat untuk menyatakan keinginan melakukan sesuatu, diikuti dengan pertanyaan atau permintaan bantuan. 'V-たい' berarti 'ingin melakukan', 'んですが' adalah bentuk penjelasan + penghubung yang sopan. Sangat berguna saat memulai percakapan di toko atau dengan staf. Artinya 'Saya mau [melakukan] (sebenarnya)...'.",
+    "formula_template": "{A} たいんですが、{B}",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} たいんですが、{B}' untuk percakapan: Pola kalimat untuk menyatakan keinginan melakukan sesuatu, diikuti dengan pertanyaan atau permintaan bantuan. . Pastikan 'A' mewakili Kata Kerja Bentuk Masu tanpa masu, 'B' mewakili Pertanyaan/Permintaan.",
+    "ui_notes": "'んですが' (atau 'のですが') membuat pernyataan lebih halus dan sopan, terutama saat memulai percakapan dengan staf toko atau orang yang tidak dikenal. Untuk keinginan memiliki benda, gunakan 'Nがほしいんですが' (Saya mau N).",
+    "examples": [
+      {
+        "jp": "ジョギングシューズを買いたいんですが…。",
+        "id": "Saya mau membeli sepatu jogging (sebenarnya)..."
+      },
+      {
+        "jp": "新しいスマホを買いたいんですが、何がおすすめですか？",
+        "id": "Saya mau membeli smartphone baru, apa rekomendasinya?"
+      }
+    ],
+    "tags": [
+      "A2",
+      "Keinginan",
+      "Berbelanja",
+      "Sopan"
+    ]
+  }
+]

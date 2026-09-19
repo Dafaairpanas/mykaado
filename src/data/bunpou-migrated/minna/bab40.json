@@ -1,0 +1,238 @@
+[
+  {
+    "id": "m_bab40_1",
+    "chapter": "Bab 40",
+    "level": "N4",
+    "title": "疑問詞 ＋ 普通形 か、～",
+    "meaning": "Pola kalimat ini digunakan jika Kalimat Tanya yang mengandung Kata Tanya (seperti apa, kapan, dll) dimasukkan ke dalam kalimat lain (sebagai anak kalimat).",
+    "formula_template": "Kata Tanya {A}/ {B}-i / {C}-na / {D} か、~",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'Kata Tanya {A}/ {B}-i / {C}-na / {D} か、~' untuk menyatakan: Pola kalimat ini digunakan jika Kalimat Tanya yang mengandung Kata Tanya (seperti apa, kapan, dll) dimasukkan . Pastikan 'A' mewakili Kata Kerja, 'B' mewakili Kata Sifat, 'C' mewakili Kata Sifat, 'D' mewakili Kata Benda (Bentuk Biasa).",
+    "ui_notes": "Dengan catatan bahwa untuk Kata Sifat-na dan Kata Benda, bentuk biasannya (～だ) dihilangkan sebelum ditambah か.",
+    "examples": [
+      {
+        "jp": "JL107便は何時に到着するか、調べてください。",
+        "id": "Tolong dicek pukul berapa kedatangan penerbangan dengan nomor JL107!"
+      },
+      {
+        "jp": "結婚のお祝いは何がいいか、話しています。",
+        "id": "Sedang membicarakan tentang hadiah apa yang cocok untuk pernikahan."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Anak Kalimat Tanya"
+    ]
+  },
+  {
+    "id": "m_bab40_2",
+    "chapter": "Bab 40",
+    "level": "N4",
+    "title": "普通形 かどうか、～",
+    "meaning": "Pola kalimat ini digunakan jika Kalimat Tanya yang TIDAK mengandung Kata Tanya (pertanyaan Ya/Tidak) dimasukkan ke dalam kalimat lain.",
+    "formula_template": "{A}/ {B}-i / {C}-na / {D} かどうか、~",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}/ {B}-i / {C}-na / {D} かどうか、~' untuk menyatakan: Pola kalimat ini digunakan jika Kalimat Tanya yang TIDAK mengandung Kata Tanya (pertanyaan Ya/Tidak) dimasukka. Pastikan 'A' mewakili Kata Kerja, 'B' mewakili Kata Sifat, 'C' mewakili Kata Sifat, 'D' mewakili Kata Benda (Bentuk Biasa).",
+    "ui_notes": "Berhati-hatilah karena di belakang Bentuk Biasa か perlu ditambahkan どうか. Pada contoh ke-3, digunakan 'まちがいがないかどうか' (bukan あるかどうか) karena pembicara ingin memastikan hal yang 'まちがいがない' (tidak ada kesalahan).",
+    "examples": [
+      {
+        "jp": "忘年会に出席するかどうか、20日までに返事をください。",
+        "id": "Tolong berikan jawaban sampai dengan tanggal 20 bahwa apakah bisa hadir pada pesta akhir tahun atau tidak."
+      },
+      {
+        "jp": "その話はほんとうかどうか、わかりません。",
+        "id": "(Saya) Kurang tahu apakah cerita itu benar atau tidak."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Anak Kalimat Tanya (Ya/Tidak)"
+    ]
+  },
+  {
+    "id": "m_bab40_3",
+    "chapter": "Bab 40",
+    "level": "N4",
+    "title": "A形 みます",
+    "meaning": "Pola kalimat ini menyatakan arti melakukan aksi sebagai percobaan (mencoba melakukan sesuatu).",
+    "formula_template": "{A} みます",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} みます' untuk menyatakan: Pola kalimat ini menyatakan arti melakukan aksi sebagai percobaan (mencoba melakukan sesuatu).. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
+    "ui_notes": "Seperti contoh ke-3, kalau memakai bentuk ～てみたい (ingin coba), dapat menyampaikan harapan diri sendiri secara lunak atau secara tidak langsung daripada sekadar memakai ～たい.",
+    "examples": [
+      {
+        "jp": "もう一度考えてみます。",
+        "id": "Coba berpikir sekali lagi."
+      },
+      {
+        "jp": "このズボンをはいてみてもいいですか。",
+        "id": "Bolehkah mencoba memakai celana ini?"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Percobaan"
+    ]
+  },
+  {
+    "id": "m_bab40_4",
+    "chapter": "Bab 40",
+    "level": "N4",
+    "title": "形容詞い（～い） → ～さ",
+    "meaning": "Kata Sifat い dengan mengubah い ke さ pada akhir kata, dapat membuat Kata Benda (menyatakan tingkat/ukuran).",
+    "formula_template": "{A} さ",
+    "variables": {
+      "A": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} さ' untuk menyatakan: Kata Sifat い dengan mengubah い ke さ pada akhir kata, dapat membuat Kata Benda (menyatakan tingkat/ukuran).. Pastikan 'A' mewakili Kata Sifat い (hilangkan い).",
+    "ui_notes": "Contoh: 高い (tinggi) -> 高さ (tingginya), 長い (panjang) -> 長さ (panjangnya), 速い (cepat) -> 速さ (kecepatannya).",
+    "examples": [
+      {
+        "jp": "山の高さはどうやって測るか、知っていますか。",
+        "id": "Apakah (Anda) tahu bagaimana caranya untuk mengukur tingginya gunung?"
+      },
+      {
+        "jp": "新しい橋の長さは3,911メートルです。",
+        "id": "Panjangnya jembatan baru 3.911 meter."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Perubahan Kata",
+      "Nominalisasi Kata Sifat"
+    ]
+  },
+  {
+    "id": "m_bab40_5",
+    "chapter": "Bab 40",
+    "level": "N4",
+    "title": "～でしょうか",
+    "meaning": "Kalau ～でしょう digunakan pada Kalimat Pertanyaan, ungkapannya tidak meminta jawaban yang pasti (tidak mendesak), maka dapat memberi kesan yang lembut terhadap lawan bicara.",
+    "formula_template": "{A} でしょうか",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} でしょうか' untuk menyatakan: Kalau ～でしょう digunakan pada Kalimat Pertanyaan, ungkapannya tidak meminta jawaban yang pasti (tidak mendesak), . Pastikan 'A' mewakili Kalimat.",
+    "ui_notes": "Kalau ～でしょう digunakan pada Kalimat Pertanyaan, ungkapannya tidak meminta jawaban yang pasti (tidak mendesak), maka dapat memberi kesan yang lembut terhadap lawan bicara.",
+    "examples": [
+      {
+        "jp": "ハンスは学校でどうでしょうか。",
+        "id": "Bagaimana Hans di sekolah?"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Pertanyaan Sopan/Halus"
+    ]
+  }
+]

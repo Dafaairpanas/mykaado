@@ -1,0 +1,140 @@
+[
+  {
+    "id": "i_bab01_1",
+    "chapter": "Bab 01",
+    "level": "A2.1",
+    "title": "Bentuk Sopan & Bentuk Biasa (Keigo & Futsuukei)",
+    "meaning": "Dua tingkatan kesopanan dalam bahasa Jepang. Bentuk sopan (keigo) digunakan kepada orang yang lebih tua, atasan, atau yang baru dikenal. Bentuk biasa (futsuukei) digunakan kepada teman dekat atau keluarga. 'お久しぶりです' berarti 'sudah lama tidak bertemu' (sopan), sedangkan '久しぶり' adalah bentuk kasualnya. 'お元気ですか' berarti 'apakah Anda sehat?' (sopan), sedangkan '元気？' adalah bentuk kasualnya.",
+    "formula_template": "Sopan: お久しぶりです。お元気ですか？ / Biasa: 久しぶり。元気？",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'Sopan: お久しぶりです。お元気ですか？ / Biasa: 久しぶり。元気？' untuk percakapan: Dua tingkatan kesopanan dalam bahasa Jepang. Bentuk sopan (keigo) digunakan kepada orang yang lebih tua, atasa.",
+    "ui_notes": "Bentuk sopan digunakan di tempat kerja, dengan orang yang lebih tua, atau orang yang baru dikenal. Bentuk biasa digunakan dengan teman dekat, keluarga, atau orang yang lebih muda. 'お久しぶり' memiliki nuansa 'sudah lama sekali' dan lebih sopan daripada '久しぶり'.",
+    "examples": [
+      {
+        "jp": "お久しぶりです。お元気ですか？",
+        "id": "Sudah lama tidak bertemu. Apakah Anda sehat?"
+      },
+      {
+        "jp": "久しぶり。元気？",
+        "id": "Lama tidak bertemu. Sehat?"
+      }
+    ],
+    "tags": [
+      "A2",
+      "Salam",
+      "Sopan",
+      "Kasual"
+    ]
+  },
+  {
+    "id": "i_bab01_2",
+    "chapter": "Bab 01",
+    "level": "A2.1",
+    "title": "【durasi】になります ([Durasi] ni narimasu)",
+    "meaning": "Pola kalimat untuk menyatakan bahwa sudah berapa lama waktu telah berlalu sejak suatu peristiwa terjadi. 'になります' berarti 'menjadi' atau 'sudah mencapai'. Digunakan untuk menyatakan lamanya waktu tinggal atau bekerja di suatu tempat. Artinya 'Sudah [durasi] lamanya'.",
+    "formula_template": "{A} に なります",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に なります' untuk percakapan: Pola kalimat untuk menyatakan bahwa sudah berapa lama waktu telah berlalu sejak suatu peristiwa terjadi. 'になりま. Pastikan 'A' mewakili Durasi.",
+    "ui_notes": "Pola ini menggunakan 'V-て' (bentuk te) dari kata kerja + 'から' (dari) yang sering dihilangkan. Bentuk lengkapnya: 日本に来てから1年になります (Sudah 1 tahun sejak datang ke Jepang). Digunakan untuk menyatakan durasi yang sudah berlalu, bukan durasi yang akan datang.",
+    "examples": [
+      {
+        "jp": "日本に来て1年になります。",
+        "id": "Sudah 1 tahun saya datang ke Jepang."
+      },
+      {
+        "jp": "この会社で働いて3年になります。",
+        "id": "Sudah 3 tahun saya bekerja di perusahaan ini."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Durasi",
+      "Waktu",
+      "Pengalaman"
+    ]
+  },
+  {
+    "id": "i_bab01_3",
+    "chapter": "Bab 01",
+    "level": "A2.1",
+    "title": "【penanda waktu】（に）来ました ([Penanda waktu] kimashita)",
+    "meaning": "Pola kalimat untuk menyatakan kapan seseorang datang ke suatu tempat. 'に' adalah partikel waktu yang menunjukkan titik waktu spesifik (tanggal, bulan, tahun). '来ました' adalah bentuk lampau sopan dari '来る' (kuru) yang berarti 'datang'. Artinya 'Datang pada [waktu]'.",
+    "formula_template": "{A} (に) 来ました",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "time"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} (に) 来ました' untuk percakapan: Pola kalimat untuk menyatakan kapan seseorang datang ke suatu tempat. 'に' adalah partikel waktu yang menunjukk. Pastikan 'A' mewakili Waktu.",
+    "ui_notes": "Partikel 'に' digunakan untuk waktu yang spesifik seperti tanggal, bulan, tahun, atau hari dalam seminggu. Untuk waktu yang relatif (seperti '先週' - minggu lalu, '去年' - tahun lalu), partikel 'に' sering dihilangkan. '来ました' adalah bentuk lampau dari '来ます' (datang).",
+    "examples": [
+      {
+        "jp": "去年の9月に来ました。",
+        "id": "Saya datang pada bulan September tahun lalu."
+      },
+      {
+        "jp": "先週来ました。",
+        "id": "Saya datang minggu lalu."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Waktu",
+      "Kedatangan",
+      "Lampau"
+    ]
+  },
+  {
+    "id": "i_bab01_4",
+    "chapter": "Bab 01",
+    "level": "A2.1",
+    "title": "V-ています ① — Keadaan / Aktivitas Berkelanjutan",
+    "meaning": "Pola kalimat untuk menyatakan aktivitas yang sedang berlangsung atau keadaan yang sedang terjadi. 'V-ています' adalah bentuk 'te-iru' yang memiliki dua fungsi utama: (1) menyatakan tindakan yang sedang berlangsung saat ini, dan (2) menyatakan keadaan atau profesi yang sedang dijalani. Artinya 'Sedang melakukan [aktivitas]' atau 'Dalam keadaan [aktivitas]'.",
+    "formula_template": "{A} います",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} います' untuk percakapan: Pola kalimat untuk menyatakan aktivitas yang sedang berlangsung atau keadaan yang sedang terjadi. 'V-ています' ada. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
+    "ui_notes": "Fungsi 'V-ています': (1) Aktivitas berkelanjutan: 今、本を読んでいます (Saya sedang membaca buku sekarang). (2) Keadaan/profesi: 銀行で働いています (Saya bekerja di bank). Untuk pertanyaan tentang pekerjaan, '何をしていますか' sering digunakan untuk menanyakan profesi seseorang.",
+    "examples": [
+      {
+        "jp": "日本では、何をしていますか？",
+        "id": "Apa yang Anda lakukan di Jepang? (apa pekerjaan Anda?)"
+      },
+      {
+        "jp": "レストランで働いています。",
+        "id": "Saya bekerja di restoran (sedang bekerja)."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Keadaan",
+      "Aktivitas",
+      "Pekerjaan"
+    ]
+  }
+]

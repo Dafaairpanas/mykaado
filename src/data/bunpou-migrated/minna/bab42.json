@@ -1,0 +1,166 @@
+[
+  {
+    "id": "m_bab42_1",
+    "chapter": "Bab 42",
+    "level": "N4",
+    "title": "A／B の ＋ ために、～",
+    "meaning": "Menyatakan tujuan (untuk / demi). Jika menggunakan Kata Benda のために, adakalanya digunakan dengan maksud menguntungkan Kata Benda tersebut.",
+    "formula_template": "{A} / {B} の ために、~",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} / {B} の ために、~' untuk menyatakan: Menyatakan tujuan (untuk / demi). Jika menggunakan Kata Benda のために, adakalanya digunakan dengan maksud mengunt. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus), 'B' mewakili Kata Benda.",
+    "ui_notes": "Berbeda dengan ～ように (Pel. 36). Sebelum ために digunakan Kata Kerja Keinginan Bentuk Kamus (kemauan pembicara), sedangkan sebelum ように digunakan Kata Kerja Non-Keinginan (seperti potensial) atau Bentuk Negatif.",
+    "examples": [
+      {
+        "jp": "自分の店を持つために、貯金しています。",
+        "id": "Saya menabung uang untuk memiliki toko sendiri."
+      },
+      {
+        "jp": "引っ越しのために、車を借ります。",
+        "id": "Saya meminjam/menyewa mobil untuk pindah rumah."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Sambung",
+      "Tujuan/Alasan"
+    ]
+  },
+  {
+    "id": "m_bab42_2",
+    "chapter": "Bab 42",
+    "level": "N4",
+    "title": "A の ／ B ＋ に、～",
+    "meaning": "Pola kalimat ini digunakan bersama dengan kata sifat/kerja yang menyatakan penilaian atau ukuran (seperti つかいます, いいです, べんりです, やくにたちます, [じかん/おかね が] かかります dan lain-lainnya) untuk menyatakan kegunaan atau tujuannya.",
+    "formula_template": "{A} の に / {B} に [{C}/Sifat Kegunaan]",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "C": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} の に / {B} に [{C}/Sifat Kegunaan]' untuk menyatakan: Pola kalimat ini digunakan bersama dengan kata sifat/kerja yang menyatakan penilaian atau ukuran (seperti つかいま. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus), 'B' mewakili Kata Benda, 'C' mewakili Kata Kerja.",
+    "ui_notes": "Partikel に di sini menyatakan tujuan untuk suatu tindakan atau kegunaan spesifik.",
+    "examples": [
+      {
+        "jp": "このはさみは花を切るのに使います。",
+        "id": "Gunting ini digunakan untuk memotong bunga."
+      },
+      {
+        "jp": "このかばんは大きくて、旅行に便利です。",
+        "id": "Tas ini besar sehingga praktis untuk perjalanan."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Partikel",
+      "Kegunaan/Tujuan"
+    ]
+  },
+  {
+    "id": "m_bab42_3",
+    "chapter": "Bab 42",
+    "level": "N4",
+    "title": "数量詞 は／も",
+    "meaning": "Kata Bantu は yang dibubuhkan pada Kata Keterangan Bilangan menyatakan batas minimal yang dikisarkan oleh pembicara (setidaknya/paling tidak). Sedangkan Kata Bantu も menyatakan bahwa pembicara merasa jumlahnya banyak (sampai/hingga).",
+    "formula_template": "Kata Keterangan Bilangan (Jumlah/Kuantitas) は / も",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'Kata Keterangan Bilangan (Jumlah/Kuantitas) は / も' untuk menyatakan: Kata Bantu は yang dibubuhkan pada Kata Keterangan Bilangan menyatakan batas minimal yang dikisarkan oleh pembi.",
+    "ui_notes": "Kata Bantu は yang dibubuhkan pada Kata Keterangan Bilangan menyatakan batas minimal yang dikisarkan oleh pembicara (setidaknya/paling tidak). Sedangkan Kata Bantu も menyatakan bahwa pembicara merasa jumlahnya banyak (sampai/hingga).",
+    "examples": [
+      {
+        "jp": "わたしは［ボーナスの］半分は貯金するつもりです。……えっ、半分も貯金するんですか。",
+        "id": "Saya berencana menabung separuhnya [bonus]. ……Eh! menabung separuhnya?"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Partikel",
+      "Batas Minimal/Penekanan Jumlah"
+    ]
+  },
+  {
+    "id": "m_bab42_4",
+    "chapter": "Bab 42",
+    "level": "N4",
+    "title": "A（人） によって B（受身形）",
+    "meaning": "Jika Kata Kerja yang menyatakan penciptaan atau penemuan digunakan dalam bentuk pasif (Contoh: かきます, はつめいします, はっけんします dan lain-lainnya), maka subjek pelakunya ditunjuk dengan partikel によって, bukan dengan に.",
+    "formula_template": "{A} によって {B}Pasif (Penciptaan/Penemuan)",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} によって {B}Pasif (Penciptaan/Penemuan)' untuk menyatakan: Jika Kata Kerja yang menyatakan penciptaan atau penemuan digunakan dalam bentuk pasif (Contoh: かきます, はつめいします, . Pastikan 'A' mewakili Kata Benda (Pelaku/Penemu), 'B' mewakili Kata Kerja.",
+    "ui_notes": "Jika Kata Kerja yang menyatakan penciptaan atau penemuan digunakan dalam bentuk pasif (Contoh: かきます, はつめいします, はっけんします dan lain-lainnya), maka subjek pelakunya ditunjuk dengan partikel によって, bukan dengan に.",
+    "examples": [
+      {
+        "jp": "チキンラーメンは1958年に安藤百福さんによって発明されました。",
+        "id": "Chicken Ramen diciptakan oleh Bapak Ando Momofuku pada tahun 1958."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Partikel",
+      "Pelaku Pasif/Pencipta"
+    ]
+  }
+]

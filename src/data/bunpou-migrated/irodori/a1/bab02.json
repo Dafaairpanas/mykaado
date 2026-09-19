@@ -1,0 +1,65 @@
+[
+  {
+    "id": "i_bab02_1",
+    "chapter": "Bab 02",
+    "level": "A1",
+    "title": "もういちど、お願いします (Mou ichido, onegaishimasu)",
+    "meaning": "Ungkapan yang digunakan untuk meminta lawan bicara mengulang kembali apa yang baru saja dikatakan. Setara dengan 'Mohon sekali lagi' atau 'Bisa diulang lagi?'. Diucapkan ketika tidak mendengar atau tidak memahami perkataan lawan bicara.",
+    "formula_template": "もういちど、お願いします。",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'もういちど、お願いします。' untuk percakapan: Ungkapan yang digunakan untuk meminta lawan bicara mengulang kembali apa yang baru saja dikatakan. Setara deng.",
+    "ui_notes": "Bisa ditambahkan 'すみません' (sumimasen) di depan untuk membuatnya lebih sopan. Dalam situasi kasual, cukup gunakan 'もういちど' tanpa 'お願いします'.",
+    "examples": [
+      {
+        "jp": "もういちど、お願いします。",
+        "id": "Mohon sekali lagi."
+      },
+      {
+        "jp": "すみません、もういちどお願いします。",
+        "id": "Maaf, mohon diulang sekali lagi."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Meminta Pengulangan",
+      "Komunikasi"
+    ]
+  },
+  {
+    "id": "i_bab02_2",
+    "chapter": "Bab 02",
+    "level": "A1",
+    "title": "〜は日本語で何と言いますか？",
+    "meaning": "Pola kalimat untuk menanyakan bagaimana cara menyatakan suatu kata atau frasa dalam bahasa Jepang. '〜は' diisi dengan kata yang ingin ditanyakan, '日本語で' berarti 'dalam bahasa Jepang', dan '何と言いますか' berarti 'apa ucapannya?'. Setara dengan 'Bagaimana mengatakan ... dalam bahasa Jepang?'.",
+    "formula_template": "{A} は日本語で何と言いますか？",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は日本語で何と言いますか？' untuk percakapan: Pola kalimat untuk menanyakan bagaimana cara menyatakan suatu kata atau frasa dalam bahasa Jepang. '〜は' diisi . Pastikan 'A' mewakili Kata/Frasa.",
+    "ui_notes": "Kata tanya '何' dibaca 'nan' dalam pola ini. Untuk menanyakan bahasa lain, ganti '日本語' dengan nama bahasa lain, misalnya '英語で' (dalam bahasa Inggris), 'インドネシア語で' (dalam bahasa Indonesia).",
+    "examples": [
+      {
+        "jp": "これは日本語で何と言いますか？",
+        "id": "Bagaimana mengatakan ini dalam bahasa Jepang?"
+      },
+      {
+        "jp": "「ありがとう」は英語で何と言いますか？",
+        "id": "Bagaimana mengatakan 'arigatou' dalam bahasa Inggris?"
+      }
+    ],
+    "tags": [
+      "A1",
+      "Bertanya",
+      "Bahasa Jepang",
+      "Komunikasi"
+    ]
+  }
+]

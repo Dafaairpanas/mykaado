@@ -1,0 +1,235 @@
+[
+  {
+    "id": "m_bab03_1",
+    "chapter": "Bab 03",
+    "level": "N5",
+    "title": "ここ / そこ / あそこ / こちら / そちら / あちら",
+    "meaning": "Kata penunjuk tempat dan arah (di sini/situ/sana; sebelah sini/situ/sana).",
+    "formula_template": "{A} は {B} です",
+    "variables": {
+      "A": {
+        "type": [
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola ini untuk menunjukkan lokasi atau fasilitas 'B'. 'A' adalah kata penunjuk tempat (ここ/そこ/あそこ) atau ragam sopan penunjuk arah (こちら/そちら/あちら).",
+    "ui_notes": "ここ (dekat pembicara), そこ (dekat lawan bicara), あそこ (jauh dari keduanya). こちら/そちら/あちら adalah bentuk lebih sopannya.",
+    "examples": [
+      {
+        "jp": "ここは きょうしつです。",
+        "id": "Di sini adalah ruang kelas."
+      },
+      {
+        "jp": "あそこは じむしょです。",
+        "id": "Di sana adalah kantor."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Penunjuk",
+      "Tempat/Arah"
+    ]
+  },
+  {
+    "id": "m_bab03_2",
+    "chapter": "Bab 03",
+    "level": "N5",
+    "title": "A は B (Tempat) です",
+    "meaning": "Menyatakan keberadaan lokasi suatu benda, orang, atau fasilitas ('A berada di B').",
+    "formula_template": "{A} は {B} です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person",
+          "object",
+          "place"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola ini untuk menjelaskan posisi tempat subjek 'A'. 'A' adalah benda/orang/fasilitas, 'B' adalah tempat lokasinya.",
+    "ui_notes": "Pola ini menyatakan di mana subjek A berada. Jawaban bisa berupa nama tempat atau kata penunjuk seperti あそこ/あちら.",
+    "examples": [
+      {
+        "jp": "お手洗いはあそこです。",
+        "id": "Kamar kecil di sana."
+      },
+      {
+        "jp": "電話は2階です。",
+        "id": "Telepon di lantai dua."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Pola Kalimat",
+      "Keberadaan/Lokasi"
+    ]
+  },
+  {
+    "id": "m_bab03_3",
+    "chapter": "Bab 03",
+    "level": "N5",
+    "title": "A は どこ / どちら ですか",
+    "meaning": "Kalimat tanya menanyakan lokasi atau arah ('Di manakah A?').",
+    "formula_template": "{A} は {B} ですか",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "person",
+          "object",
+          "place"
+        ]
+      },
+      "B": {
+        "type": [
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola ini untuk menanyakan lokasi 'A'. Gunakan 'どこ' untuk ragam biasa, atau 'どちら' untuk ragam lebih sopan (juga bisa menanyakan nama negara/perusahaan asal).",
+    "ui_notes": "どこ menanyakan lokasi. どちら lebih sopan, dan selain tempat juga digunakan untuk menanyakan institusi/perusahaan/negara asal seseorang.",
+    "examples": [
+      {
+        "jp": "お手洗いはどこですか。……あそこです。",
+        "id": "Di mana kamar kecil? ……Di sana."
+      },
+      {
+        "jp": "エレベーターはどちらですか。……あちらです。",
+        "id": "Lift di sebelah mana? ……Di sebelah sana."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Tanya",
+      "Tempat/Arah"
+    ]
+  },
+  {
+    "id": "m_bab03_4",
+    "chapter": "Bab 03",
+    "level": "N5",
+    "title": "A の B (Asal Negara / Produsen)",
+    "meaning": "Menyatakan asal negara pembuat atau merek/perusahaan produsen ('B buatan A').",
+    "formula_template": "{A} の {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "place",
+          "person"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan partikel の untuk menyatakan negara asal pembuatan atau perusahaan pembuat 'A' dari produk 'B' (misal: にほんの くるま).",
+    "ui_notes": "Jika A adalah negara atau perusahaan, A の B berarti produk B dibuat oleh negara atau perusahaan A.",
+    "examples": [
+      {
+        "jp": "これはどこのコンピューターですか。……日本のコンピューターです。／……パワー電気のコンピューターです。",
+        "id": "Ini komputer buatan mana? ……Komputer buatan Jepang. / ……Komputer Power Elektronik."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Partikel",
+      "Asal Buatan"
+    ]
+  },
+  {
+    "id": "m_bab03_5",
+    "chapter": "Bab 03",
+    "level": "N5",
+    "title": "こ・そ・あ・ど (Sistem Kata Penunjuk)",
+    "meaning": "Sistem hierarki kata penunjuk bahasa Jepang berdasarkan kedekatan dengan pembicara dan lawan bicara.",
+    "formula_template": "{A} です",
+    "variables": {
+      "A": {
+        "type": [
+          "pronoun"
+        ],
+        "semantic": [
+          "place",
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan kata demonstratif dari deret こ (dekat pembicara), そ (dekat lawan bicara), あ (jauh), atau ど (tanya).",
+    "ui_notes": "Sistem Ko-So-A-Do terbagi menjadi: Benda (これ/それ/あれ/どれ), Benda Terikat (この/その/あの/どの), Tempat (ここ/そこ/あそこ/どこ), Arah/Sopan (こちら/そちら/あちら/どちら).",
+    "examples": [
+      {
+        "jp": "これは わたしのかばんです。",
+        "id": "Ini adalah tas saya."
+      },
+      {
+        "jp": "それは だれのですか。",
+        "id": "Itu milik siapa?"
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Penunjuk",
+      "Demonstratif"
+    ]
+  },
+  {
+    "id": "m_bab03_6",
+    "chapter": "Bab 03",
+    "level": "N5",
+    "title": "お国 (お- Sopan pada Asal Daerah/Negara)",
+    "meaning": "Menanyakan atau merujuk negara/daerah asal lawan bicara dengan sopan.",
+    "formula_template": "お国 は どちら ですか",
+    "variables": {},
+    "ai_instruction": "Gunakan frasa sopan 'お国は どちらですか' untuk menanyakan negara atau kampung halaman lawan bicara.",
+    "ui_notes": "Awalan お diletakkan di depan くに untuk menghormati negara asal lawan bicara. Jangan gunakan お pada negara sendiri.",
+    "examples": [
+      {
+        "jp": "[お]国はどちらですか。",
+        "id": "Berasal dari mana?"
+      }
+    ],
+    "tags": [
+      "N5",
+      "Prefiks",
+      "Bentuk Hormat/Sopan"
+    ]
+  }
+]

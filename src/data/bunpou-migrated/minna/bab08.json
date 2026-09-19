@@ -1,0 +1,349 @@
+[
+  {
+    "id": "m_bab08_1",
+    "chapter": "Bab 08",
+    "level": "N5",
+    "title": "Aは B［な］です ／ C（～い）です",
+    "meaning": "Kata Sifat berfungsi sebagai predikat untuk menunjukkan kondisi Kata Benda. Kalimat positif waktu non lampau diakhiri です untuk menunjukkan sikap hormat. Kata Sifat な disambung dengan です tanpa な, sedangkan Kata Sifat い disambung dengan bentuk yang sama.",
+    "formula_template": "{A} は {B} / {C} です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は {B} / {C} です' untuk menyatakan: Kata Sifat berfungsi sebagai predikat untuk menunjukkan kondisi Kata Benda. Kalimat positif waktu non lampau d. Pastikan 'A' mewakili Kata Benda, 'B' mewakili Kata Sifat な (tanpa な), 'C' mewakili Kata Sifat い.",
+    "ui_notes": "Untuk kalimat tanya, cara menjawabnya menggunakan Kata Sifat langsung, dan tidak dapat dijawab dengan menggunakan そうです atau ちがいます.",
+    "examples": [
+      {
+        "jp": "ワット先生は 親切です。",
+        "id": "Bapak Watt baik hati."
+      },
+      {
+        "jp": "富士山は 高いです。",
+        "id": "Gunung Fuji tinggi."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Sifat",
+      "Predikat"
+    ]
+  },
+  {
+    "id": "m_bab08_2",
+    "chapter": "Bab 08",
+    "level": "N5",
+    "title": "A［な］じゃ（では）ありません ／ B（～い） → ～くないです",
+    "meaning": "Bentuk negatif waktu non lampau untuk Kata Sifat. Untuk Kata Sifat な dibuat dengan menambahkan じゃ（では）ありません. Untuk Kata Sifat い dibuat dengan menghilangkan akhiran い lalu ditambahkan くないです.",
+    "formula_template": "{A} じゃ（では）ありません | {B} くないです",
+    "variables": {
+      "A": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} じゃ（では）ありません | {B} くないです' untuk menyatakan: Bentuk negatif waktu non lampau untuk Kata Sifat. Untuk Kata Sifat な dibuat dengan menambahkan じゃ（では）ありません. Un. Pastikan 'A' mewakili Kata Sifat な (tanpa な), 'B' mewakili Kata Sifat い (tanpa い).",
+    "ui_notes": "Pengecualian: Negatif untuk いいです (baik/bagus) adalah よくないです.",
+    "examples": [
+      {
+        "jp": "あそこは 静かじゃ（では）ありません。",
+        "id": "Di sana tidak sunyi."
+      },
+      {
+        "jp": "この 本は おもしろくないです。",
+        "id": "Buku ini tidak menarik."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Sifat",
+      "Negatif"
+    ]
+  },
+  {
+    "id": "m_bab08_3",
+    "chapter": "Bab 08",
+    "level": "N5",
+    "title": "A［な］ B／ C（～い） D",
+    "meaning": "Jika Kata Sifat menerangkan Kata Benda, letaknya adalah di depan Kata Benda tersebut. Kata Sifat な yang menerangkan Kata Benda selalu diikuti akhiran な.",
+    "formula_template": "{A} な {B}| {C} {D}",
+    "variables": {
+      "A": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} な {B}| {C} {D}' untuk menyatakan: Jika Kata Sifat menerangkan Kata Benda, letaknya adalah di depan Kata Benda tersebut. Kata Sifat な yang menera. Pastikan 'A' mewakili Kata Sifat な, 'B' mewakili Kata Benda, 'C' mewakili Kata Sifat い, 'D' mewakili Kata Benda.",
+    "ui_notes": "Jika Kata Sifat menerangkan Kata Benda, letaknya adalah di depan Kata Benda tersebut. Kata Sifat な yang menerangkan Kata Benda selalu diikuti akhiran な.",
+    "examples": [
+      {
+        "jp": "ワット先生は 親切な 先生です。",
+        "id": "Bapak Watt adalah guru yang baik hati."
+      },
+      {
+        "jp": "富士山は 高い 山です。",
+        "id": "Gunung Fuji adalah gunung yang tinggi."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Sifat",
+      "Menerangkan Benda"
+    ]
+  },
+  {
+    "id": "m_bab08_4",
+    "chapter": "Bab 08",
+    "level": "N5",
+    "title": "～が、～",
+    "meaning": "Partikel が menyambungkan kalimat yang menyatakan hal sebelum dan sesudah secara paradoksal (berarti 'tetapi'). Jika hal di depan positif, maka di belakang negatif, dan sebaliknya.",
+    "formula_template": "{A} が、 {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} が、 {B}' untuk menyatakan: Partikel が menyambungkan kalimat yang menyatakan hal sebelum dan sesudah secara paradoksal (berarti 'tetapi').. Pastikan 'A' mewakili Kalimat 1, 'B' mewakili Kalimat 2.",
+    "ui_notes": "Partikel が menyambungkan kalimat yang menyatakan hal sebelum dan sesudah secara paradoksal (berarti 'tetapi'). Jika hal di depan positif, maka di belakang negatif, dan sebaliknya.",
+    "examples": [
+      {
+        "jp": "日本の 食べ物は おいしいですが、高いです。",
+        "id": "Makanan Jepang enak, tetapi mahal."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Partikel",
+      "Konjungsi"
+    ]
+  },
+  {
+    "id": "m_bab08_5",
+    "chapter": "Bab 08",
+    "level": "N5",
+    "title": "とても／あまり",
+    "meaning": "Kata keterangan yang menyatakan tingkat dan diletakkan di depan Kata Sifat. とても (sangat) digunakan pada kalimat positif. あまり (tidak begitu) digunakan bersamaan dengan kalimat negatif.",
+    "formula_template": "とても {A} | あまり {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'とても {A} | あまり {B}' untuk menyatakan: Kata keterangan yang menyatakan tingkat dan diletakkan di depan Kata Sifat. とても (sangat) digunakan pada kalima. Pastikan 'A' mewakili Kata Sifat (Positif), 'B' mewakili Kata Sifat (Negatif).",
+    "ui_notes": "Kata keterangan yang menyatakan tingkat dan diletakkan di depan Kata Sifat. とても (sangat) digunakan pada kalimat positif. あまり (tidak begitu) digunakan bersamaan dengan kalimat negatif.",
+    "examples": [
+      {
+        "jp": "ペキンは とても 寒いです。",
+        "id": "Beijing sangat dingin."
+      },
+      {
+        "jp": "これは とても 有名な 映画です。",
+        "id": "Ini film yang sangat terkenal."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Keterangan",
+      "Tingkatan"
+    ]
+  },
+  {
+    "id": "m_bab08_6",
+    "chapter": "Bab 08",
+    "level": "N5",
+    "title": "Aは どうですか",
+    "meaning": "Menanyakan citra, pendapat, dan kesan mengenai hal yang dialami tentang tempat yang telah dikunjungi atau orang yang pernah dijumpai oleh lawan bicara (Bagaimana...?).",
+    "formula_template": "{A} は どうですか",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は どうですか' untuk menyatakan: Menanyakan citra, pendapat, dan kesan mengenai hal yang dialami tentang tempat yang telah dikunjungi atau oran. Pastikan 'A' mewakili Kata Benda.",
+    "ui_notes": "Menanyakan citra, pendapat, dan kesan mengenai hal yang dialami tentang tempat yang telah dikunjungi atau orang yang pernah dijumpai oleh lawan bicara (Bagaimana...?).",
+    "examples": [
+      {
+        "jp": "日本の 生活は どうですか。……楽しいです。",
+        "id": "Bagaimana kehidupan di Jepang? ……Senang."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Tanya",
+      "Kesan/Pendapat"
+    ]
+  },
+  {
+    "id": "m_bab08_7",
+    "chapter": "Bab 08",
+    "level": "N5",
+    "title": "A は どんな B ですか",
+    "meaning": "どんな adalah Kata Tanya untuk menanyakan keadaan atau sifat orang dan benda, kemudian digunakan untuk menerangkan Kata Benda.",
+    "formula_template": "{A} は どんな {B} ですか",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は どんな {B} ですか' untuk menyatakan: どんな adalah Kata Tanya untuk menanyakan keadaan atau sifat orang dan benda, kemudian digunakan untuk menerangka. Pastikan 'A' mewakili Kata Benda1, 'B' mewakili Kata Benda2.",
+    "ui_notes": "どんな adalah Kata Tanya untuk menanyakan keadaan atau sifat orang dan benda, kemudian digunakan untuk menerangkan Kata Benda.",
+    "examples": [
+      {
+        "jp": "奈良は どんな 町ですか。……古い 町です。",
+        "id": "Nara kota bagaimana? ……Kota yang lama."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Tanya",
+      "Keadaan/Sifat"
+    ]
+  },
+  {
+    "id": "m_bab08_8",
+    "chapter": "Bab 08",
+    "level": "N5",
+    "title": "そうですね",
+    "meaning": "Selain menyatakan persetujuan, そうですね juga dapat menunjukkan sikap dari lawan bicara yang sedang berpikir sebelum menjawab (bermakna 'Ya...').",
+    "formula_template": "そうですね",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'そうですね' untuk menyatakan: Selain menyatakan persetujuan, そうですね juga dapat menunjukkan sikap dari lawan bicara yang sedang berpikir sebel.",
+    "ui_notes": "Selain menyatakan persetujuan, そうですね juga dapat menunjukkan sikap dari lawan bicara yang sedang berpikir sebelum menjawab (bermakna 'Ya...').",
+    "examples": [
+      {
+        "jp": "お仕事は どうですか。……そうですね。忙しいですが、おもしろいです。",
+        "id": "Bagaimana pekerjaannya? ……Ya... Sibuk, tetapi menyenangkan."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Ungkapan",
+      "Jeda Berpikir"
+    ]
+  }
+]

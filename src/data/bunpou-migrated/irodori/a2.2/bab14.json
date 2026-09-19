@@ -1,0 +1,112 @@
+[
+  {
+    "id": "i_bab14_1",
+    "chapter": "Bab 14",
+    "level": "A2.2",
+    "title": "ナA-に／イA-く V — Melakukan V dengan Cara ...",
+    "meaning": "Pola untuk menyatakan cara melakukan suatu tindakan dengan mengubah kata sifat menjadi kata keterangan. Untuk kata sifat-na (ナA), ubah menjadi 'に'; untuk kata sifat-i (イA), ubah 'い' menjadi 'く'. Sangat berguna saat memberikan instruksi di salon atau menjelaskan cara melakukan sesuatu. Artinya 'Melakukan V dengan cara [sifat]' atau 'Melakukan V secara [sifat]'.",
+    "formula_template": "{A} に {B} / {C} く {D}",
+    "variables": {
+      "A": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} に {B} / {C} く {D}' untuk percakapan: Pola untuk menyatakan cara melakukan suatu tindakan dengan mengubah kata sifat menjadi kata keterangan. Untuk . Pastikan 'A' mewakili Kata Sifat-na, 'B' mewakili Kata Kerja, 'C' mewakili Kata Sifat-i tanpa い, 'D' mewakili Kata Kerja.",
+    "ui_notes": "Contoh lain: 静かにする (melakukan dengan tenang), 早く走る (berlari cepat), きれいに掃除する (membersihkan dengan rapi). Untuk kata sifat-i: 安くする (membuat menjadi murah), 大きくする (membuat menjadi besar). '全体的に' (secara keseluruhan) adalah kata keterangan yang sering digunakan di salon.",
+    "examples": [
+      {
+        "jp": "全体的に短く切ってください。",
+        "id": "Tolong potong secara keseluruhan dengan pendek."
+      },
+      {
+        "jp": "ゆっくり話してください。",
+        "id": "Tolong bicara pelan-pelan."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Cara",
+      "Instruksi",
+      "Salon"
+    ]
+  },
+  {
+    "id": "i_bab14_2",
+    "chapter": "Bab 14",
+    "level": "A2.2",
+    "title": "Nのために、〜 (N no tame ni, ~) — Untuk N / Demi N",
+    "meaning": "Pola untuk menyatakan tujuan atau manfaat untuk seseorang atau sesuatu. 'ために' berarti 'untuk' atau 'demi' dan digunakan dengan kata benda. Sangat berguna saat menjelaskan layanan yang disediakan untuk orang asing atau tujuan tertentu. Artinya 'Untuk [N]' atau 'Demi [N]'.",
+    "formula_template": "{A} のために、{B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} のために、{B}' untuk percakapan: Pola untuk menyatakan tujuan atau manfaat untuk seseorang atau sesuatu. 'ために' berarti 'untuk' atau 'demi' dan . Pastikan 'A' mewakili Kata Benda, 'B' mewakili Tindakan/Layanan.",
+    "ui_notes": "Untuk kata kerja, gunakan 'V-るために' (untuk melakukan V). Contoh: 日本に住むために、日本語を勉強しています (Saya belajar bahasa Jepang untuk tinggal di Jepang). Perbedaan: 'ために' untuk tujuan yang spesifik dan terencana, 'ように' untuk tujuan/usaha yang lebih umum. 'Nのために' bisa juga berarti 'karena N' dalam konteks tertentu.",
+    "examples": [
+      {
+        "jp": "外国の方のために、いろいろなサービスがあります。",
+        "id": "Untuk orang asing, ada berbagai layanan."
+      },
+      {
+        "jp": "健康のために、毎日運動しています。",
+        "id": "Demi kesehatan, saya berolahraga setiap hari."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Tujuan",
+      "Layanan",
+      "Manfaat"
+    ]
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "id": "i_bab11_1",
+    "chapter": "Bab 11",
+    "level": "A2.1",
+    "title": "V-て行きます／来ます — Membawa ...",
+    "meaning": "Pola kalimat untuk menyatakan bahwa seseorang membawa sesuatu saat pergi ke suatu tempat (て行きます) atau saat datang ke suatu tempat (て来ます). Kata kerja bentuk 'て' + '行きます' berarti 'pergi dengan melakukan' atau 'membawa untuk pergi', sedangkan 'て来ます' berarti 'datang dengan melakukan' atau 'membawa untuk datang'. Sangat berguna saat membicarakan persiapan acara atau pesta. Artinya 'Membawa [barang] untuk pergi/datang'.",
+    "formula_template": "{A} 行きます / 来ます",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} 行きます / 来ます' untuk percakapan: Pola kalimat untuk menyatakan bahwa seseorang membawa sesuatu saat pergi ke suatu tempat (て行きます) atau saat dat. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
+    "ui_notes": "Perbedaan: '買って行く' = membeli dan membawa pergi (dari lokasi sekarang ke tempat lain), '買って来る' = membeli dan membawa datang (ke lokasi sekarang). Contoh lain: 傘を持って行ってください (Tolong bawa payungnya pergi), お土産を買って来ました (Saya membeli oleh-oleh dan membawanya ke sini).",
+    "examples": [
+      {
+        "jp": "肉と野菜は、私が買って行きますよ。",
+        "id": "Daging dan sayur, saya yang akan membelinya (untuk dibawa pergi)."
+      },
+      {
+        "jp": "ケーキを持って来ました。",
+        "id": "Saya membawa kue (untuk datang ke sini)."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Membawa",
+      "Arah",
+      "Persiapan"
+    ]
+  },
+  {
+    "id": "i_bab11_2",
+    "chapter": "Bab 11",
+    "level": "A2.1",
+    "title": "N1とN2、どっちがいいですか？ (N1 to N2, docchi ga ii desu ka?) — Mana yang Lebih Baik?",
+    "meaning": "Pola pertanyaan untuk menanyakan pilihan antara dua hal. 'どっち' berarti 'mana' dan digunakan saat membandingkan dua pilihan. 'がいいですか' berarti 'yang bagus/mana yang lebih baik?'. 'どちら' adalah bentuk lebih formal dari 'どっち'. Sangat berguna saat memilih makanan atau barang di toko. Artinya 'N1 dan N2, mana yang lebih baik?'.",
+    "formula_template": "{A} と {B}、どっちがいいですか？",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} と {B}、どっちがいいですか？' untuk percakapan: Pola pertanyaan untuk menanyakan pilihan antara dua hal. 'どっち' berarti 'mana' dan digunakan saat membandingkan. Pastikan 'A' mewakili N1, 'B' mewakili N2.",
+    "ui_notes": "Jika membandingkan lebih dari dua hal, gunakan 'どれ' (yang mana): これとそれとあれ、どれがいいですか？ (Ini, itu, dan itu, mana yang lebih baik?). 'どちら' lebih sopan daripada 'どっち' dan digunakan dalam situasi formal.",
+    "examples": [
+      {
+        "jp": "チョコレートケーキとチーズケーキ、どっちがいいですか？",
+        "id": "Kue coklat dan kue keju, mana yang lebih baik?"
+      },
+      {
+        "jp": "赤と青、どっちがいいですか？",
+        "id": "Merah dan biru, mana yang lebih baik?"
+      }
+    ],
+    "tags": [
+      "A2",
+      "Perbandingan",
+      "Pilihan",
+      "Pertanyaan"
+    ]
+  },
+  {
+    "id": "i_bab11_3",
+    "chapter": "Bab 11",
+    "level": "A2.1",
+    "title": "Nのほうがいいです — N Lebih Baik",
+    "meaning": "Pola untuk menyatakan bahwa satu pilihan lebih baik dari yang lain. 'ほう' berarti 'sisi' atau 'arah', dan 'がいいです' berarti 'yang lebih baik'. Digunakan untuk memberikan pendapat atau rekomendasi saat memilih antara dua hal. Artinya '[N] yang lebih baik'.",
+    "formula_template": "{A} のほうがいいです",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} のほうがいいです' untuk percakapan: Pola untuk menyatakan bahwa satu pilihan lebih baik dari yang lain. 'ほう' berarti 'sisi' atau 'arah', dan 'がいいで. Pastikan 'A' mewakili N.",
+    "ui_notes": "Pola lengkap untuk membandingkan: [A] より [B] のほうが [sifat] です ([B] lebih [sifat] daripada [A]). Contoh: これよりあれのほうが大きいです (Itu lebih besar daripada ini). 'より' menunjukkan standar perbandingan. Dalam percakapan kasual, 'ほう' sering disingkat menjadi 'ほ'.",
+    "examples": [
+      {
+        "jp": "塩のほうがいいです。",
+        "id": "Yang lebih baik adalah garam."
+      },
+      {
+        "jp": "こちらのほうが安いですよ。",
+        "id": "Yang ini lebih murah lho."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Perbandingan",
+      "Pilihan",
+      "Rekomendasi"
+    ]
+  },
+  {
+    "id": "i_bab11_4",
+    "chapter": "Bab 11",
+    "level": "A2.1",
+    "title": "何でもいいです — Apa Saja Boleh",
+    "meaning": "Pola untuk menyatakan bahwa tidak ada preferensi khusus atau apapun boleh/diterima. '何でも' berarti 'apa saja', dan 'いいです' berarti 'boleh' atau 'baik'. Sangat berguna saat ditanya pilihan dan tidak ingin repot memilih. Artinya 'Apa saja boleh'.",
+    "formula_template": "何でも いいです",
+    "variables": {},
+    "ai_instruction": "Gunakan pola '何でも いいです' untuk percakapan: Pola untuk menyatakan bahwa tidak ada preferensi khusus atau apapun boleh/diterima. '何でも' berarti 'apa saja', .",
+    "ui_notes": "Variasi: どこでもいい (di mana saja boleh), いつでもいい (kapan saja boleh), だれでもいい (siapa saja boleh). Untuk situasi formal, gunakan 'どちらでも結構です' (sama saja / mana saja baik). Hati-hati menggunakan '何でもいい' karena terkadang dianggap tidak sopan jika terlalu sering digunakan.",
+    "examples": [
+      {
+        "jp": "A：何が食べたいですか？ B：何でもいいです。",
+        "id": "A: Mau makan apa? B: Apa saja boleh."
+      },
+      {
+        "jp": "A：どれにしますか？ B：何でもいいですよ。",
+        "id": "A: Mau ambil yang mana? B: Apa saja boleh kok."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Pilihan",
+      "Preferensi",
+      "Kasual"
+    ]
+  }
+]

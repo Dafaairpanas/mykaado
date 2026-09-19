@@ -1,0 +1,305 @@
+[
+  {
+    "id": "m_bab21_1",
+    "chapter": "Bab 21",
+    "level": "N5",
+    "title": "Bentuk Biasa と 思います",
+    "meaning": "Menyatakan dugaan, pikiran, atau pendapat si pembicara. Berarti 'Saya kira...' atau 'Saya pikir...'.",
+    "formula_template": "{A}/ {B}/ {C} と 思います",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}/ {B}/ {C} と 思います' untuk menyatakan: Menyatakan dugaan, pikiran, atau pendapat si pembicara. Berarti 'Saya kira...' atau 'Saya pikir...'.. Pastikan 'A' mewakili Kata Kerja, 'B' mewakili Kata Sifat, 'C' mewakili Kata Benda (Bentuk Biasa).",
+    "ui_notes": "Jika isi dugaan bersifat negatif, bentuk negatif diletakkan di depan と. Jika menanyakan pendapat tentang sesuatu, memakai ekspresi '～に ついて どう 思いますか'.",
+    "examples": [
+      {
+        "jp": "あした 雨が 降ると 思います。",
+        "id": "Saya kira besok hujan turun."
+      },
+      {
+        "jp": "ミラーさんは この ニュースを 知って いますか。……いいえ、知らないと 思います。",
+        "id": "Apakah Sdr. Miller tahu berita ini? ......Tidak, saya kira dia tidak tahu."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Pendapat / Dugaan"
+    ]
+  },
+  {
+    "id": "m_bab21_2",
+    "chapter": "Bab 21",
+    "level": "N5",
+    "title": "“A” / Bentuk Biasa と 言います",
+    "meaning": "Digunakan untuk menunjukkan isi ucapan. Berarti 'Mengatakan bahwa...'. Caranya ada dua: mengutip langsung dengan tanda kutip 「 」, atau mengutip tidak langsung dengan merangkum menggunakan Bentuk Biasa.",
+    "formula_template": "「{A}Kutipan」 と 言います / Bentuk Biasa と 言います",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '「{A}Kutipan」 と 言います / Bentuk Biasa と 言います' untuk menyatakan: Digunakan untuk menunjukkan isi ucapan. Berarti 'Mengatakan bahwa...'. Caranya ada dua: mengutip langsung deng. Pastikan 'A' mewakili Kalimat.",
+    "ui_notes": "Lawan bicara yang mendengarkan ungkapan pembicara ditunjukkan dengan partikel に. Bagian kutipan tidak dipengaruhi oleh waktu kalimat utama.",
+    "examples": [
+      {
+        "jp": "寝る まえに、「お休みなさい」と 言います。",
+        "id": "Sebelum tidur mengucapkan \"Selamat tidur\"."
+      },
+      {
+        "jp": "ミラーさんは 東京へ 出張すると 言いました。",
+        "id": "Sdr. Miller mengatakan bahwa dinas ke Tokyo."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Kutipan"
+    ]
+  },
+  {
+    "id": "m_bab21_3",
+    "chapter": "Bab 21",
+    "level": "N5",
+    "title": "Bentuk Biasa でしょう？",
+    "meaning": "Digunakan pada waktu bertanya dengan tujuan mendapatkan persetujuan dari lawan bicara atau menegaskan. Berarti '......., bukan?'. Diungkapkan dengan nada suara yang naik.",
+    "formula_template": "{A}/ {B} でしょう？ | {C} / {D} でしょう？",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}/ {B} でしょう？ | {C} / {D} でしょう？' untuk menyatakan: Digunakan pada waktu bertanya dengan tujuan mendapatkan persetujuan dari lawan bicara atau menegaskan. Berarti. Pastikan 'A' mewakili Kata Kerja, 'B' mewakili Kata Sifat い (Bentuk Biasa), 'C' mewakili Kata Sifat な, 'D' mewakili Kata Benda (Bentuk Biasa tanpa だ).",
+    "ui_notes": "Di depan でしょう dipakai bentuk biasa, tetapi untuk Kata Sifat な dan Kata Benda dilanjutkan dengan membuang だ (Bentuk ~だ menjadi ~でしょう).",
+    "examples": [
+      {
+        "jp": "あした パーティーに 行くでしょう？……ええ、行きます。",
+        "id": "Besok pergi ke pesta, bukan? ......Ya, pergi."
+      },
+      {
+        "jp": "北海道は 寒かったでしょう？……いいえ、そんなに 寒くなかったです。",
+        "id": "Hokkaido dingin, bukan? ......Tidak, tidak begitu dingin."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Ungkapan",
+      "Konfirmasi / Persetujuan"
+    ]
+  },
+  {
+    "id": "m_bab21_4",
+    "chapter": "Bab 21",
+    "level": "N5",
+    "title": "A で B が あります",
+    "meaning": "Jika Kata Benda2 menyatakan acara atau peristiwa seperti pesta, konser, perayaan, kejadian, bencana, dll, maka あります digunakan dalam maksud 'diadakan' atau 'terjadi'.",
+    "formula_template": "{A} で {B} が あります",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} で {B} が あります' untuk menyatakan: Jika Kata Benda2 menyatakan acara atau peristiwa seperti pesta, konser, perayaan, kejadian, bencana, dll, maka. Pastikan 'A' mewakili Kata Benda (Tempat), 'B' mewakili Kata Benda (Acara/Peristiwa).",
+    "ui_notes": "Jika Kata Benda2 menyatakan acara atau peristiwa seperti pesta, konser, perayaan, kejadian, bencana, dll, maka あります digunakan dalam maksud 'diadakan' atau 'terjadi'.",
+    "examples": [
+      {
+        "jp": "東京で 日本と ブラジルの サッカーの 試合が あります。",
+        "id": "Di Tokyo diadakan pertandingan sepak bola antara Jepang dan Brasil."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Keberadaan Peristiwa"
+    ]
+  },
+  {
+    "id": "m_bab21_5",
+    "chapter": "Bab 21",
+    "level": "N5",
+    "title": "A で",
+    "meaning": "Sesuatu adegan atau situasi yang sedang berlangsung di mana suatu kegiatan dilakukan, ditunjukkan dengan partikel で.",
+    "formula_template": "{A} で",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} で' untuk menyatakan: Sesuatu adegan atau situasi yang sedang berlangsung di mana suatu kegiatan dilakukan, ditunjukkan dengan parti. Pastikan 'A' mewakili Kata Benda (Adegan/Situasi).",
+    "ui_notes": "Sesuatu adegan atau situasi yang sedang berlangsung di mana suatu kegiatan dilakukan, ditunjukkan dengan partikel で.",
+    "examples": [
+      {
+        "jp": "会議で 何か 意見を 言いましたか。",
+        "id": "Di dalam rapat, apakah mengutarakan suatu pendapat?"
+      }
+    ],
+    "tags": [
+      "N5",
+      "Partikel",
+      "Keterangan Situasi"
+    ]
+  },
+  {
+    "id": "m_bab21_6",
+    "chapter": "Bab 21",
+    "level": "N5",
+    "title": "Aでも B",
+    "meaning": "Dipakai jika menawarkan atau mengusulkan sesuatu, atau menyatakan keinginan untuk menyebutkan satu contoh dari beberapa yang ada (bermakna 'Bagaimana kalau... atau sejenisnya').",
+    "formula_template": "{A} でも {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} でも {B}' untuk menyatakan: Dipakai jika menawarkan atau mengusulkan sesuatu, atau menyatakan keinginan untuk menyebutkan satu contoh dari. Pastikan 'A' mewakili Kata Benda, 'B' mewakili Kata Kerja (Tawaran/Usulan).",
+    "ui_notes": "Dipakai jika menawarkan atau mengusulkan sesuatu, atau menyatakan keinginan untuk menyebutkan satu contoh dari beberapa yang ada (bermakna 'Bagaimana kalau... atau sejenisnya').",
+    "examples": [
+      {
+        "jp": "ちょっと ビールでも 飲みませんか。",
+        "id": "Bagaimana kalau minum bir, atau...?"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Partikel",
+      "Tawaran / Usulan"
+    ]
+  },
+  {
+    "id": "m_bab21_7",
+    "chapter": "Bab 21",
+    "level": "N5",
+    "title": "A ないと……",
+    "meaning": "Ini adalah bentuk yang disingkat dari Kata Kerja (Bentuk ない) ないと いけません. Mempunyai arti kewajiban yang hampir sama dengan 'なければ なりません' (Harus...).",
+    "formula_template": "{A} と……",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} と……' untuk menyatakan: Ini adalah bentuk yang disingkat dari Kata Kerja (Bentuk ない) ないと いけません. Mempunyai arti kewajiban yang hampir s. Pastikan 'A' mewakili Kata Kerja (Bentuk ない).",
+    "ui_notes": "Merupakan bentuk percakapan yang lebih santai dan singkat.",
+    "examples": [
+      {
+        "jp": "もう 帰らないと……。",
+        "id": "Harus pulang..."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Kewajiban"
+    ]
+  }
+]

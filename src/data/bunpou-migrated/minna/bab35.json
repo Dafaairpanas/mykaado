@@ -1,0 +1,154 @@
+[
+  {
+    "id": "m_bab35_1",
+    "chapter": "Bab 35",
+    "level": "N4",
+    "title": "条件形（～ば／～なら）",
+    "meaning": "Pola kalimat ini menyatakan syarat yang diperlukan untuk mencapai hal-hal pada bagian belakang (klausa pokok). Dapat juga digunakan untuk merespon perkataan lawan bicara atau suatu keadaan untuk menyatakan keputusan si pembicara (Kalau/Jika...).",
+    "formula_template": "Gol I: ~[e]ば | Gol II: ~れば | Gol III: すれば, くれば | {A}-i: ~ければ | {B}-na / {C}: ~なら | Negatif: ~なければ",
+    "variables": {
+      "A": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'Gol I: ~[e]ば | Gol II: ~れば | Gol III: すれば, くれば | {A}-i: ~ければ | {B}-na / {C}: ~なら | Negatif: ~なければ' untuk menyatakan: Pola kalimat ini menyatakan syarat yang diperlukan untuk mencapai hal-hal pada bagian belakang (klausa pokok).. Pastikan 'A' mewakili Kata Sifat, 'B' mewakili Kata Sifat, 'C' mewakili Kata Benda.",
+    "ui_notes": "Pada dasarnya, pada bagian klausa pokok (belakang) tidak dapat diletakkan ekspresi keinginan, harapan, perintah, atau permintaan. TETAPI, pengecualian jika subjek klausa awal dan belakang berbeda, atau predikat awal berupa 'keadaan' (seperti ない, あります, Kata Sifat), maka ekspresi tersebut boleh digunakan. Berbeda dengan ~と (urutan pasti alami) dan ~たら (pengandaian bebas).",
+    "examples": [
+      {
+        "jp": "ボタンを押せば、窓が開きます。",
+        "id": "Kalau menekan tombol, jendelanya terbuka."
+      },
+      {
+        "jp": "彼が行けば、わたしも行きます。",
+        "id": "Kalau dia pergi, saya juga pergi."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Syarat/Pengandaian",
+      "Kata Kerja/Sifat"
+    ]
+  },
+  {
+    "id": "m_bab35_2",
+    "chapter": "Bab 35",
+    "level": "N4",
+    "title": "疑問詞 ＋ 条件形 いいですか",
+    "meaning": "Ekspresi untuk meminta masukan atau petunjuk dari lawan bicara (Sebaiknya saya... / Bagaimana caranya...). Maknanya sama dengan pola ~たらいいですか.",
+    "formula_template": "Kata Tanya {A} いいですか",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'Kata Tanya {A} いいですか' untuk menyatakan: Ekspresi untuk meminta masukan atau petunjuk dari lawan bicara (Sebaiknya saya... / Bagaimana caranya...). Mak. Pastikan 'A' mewakili Kata Kerja (Bentuk Syarat ~ば).",
+    "ui_notes": "どうすればいいですか adalah bentuk lain dari どうしたらいいですか dan keduanya memiliki arti serta penggunaan yang sama persis.",
+    "examples": [
+      {
+        "jp": "本を借りたいんですが、どうすればいいですか。",
+        "id": "Ingin meminjam buku, bagaimana caranya?"
+      },
+      {
+        "jp": "本を借りたいんですが、どうしたらいいですか。",
+        "id": "Ingin meminjam buku, bagaimana caranya? (Pel.26)"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Meminta Saran"
+    ]
+  },
+  {
+    "id": "m_bab35_3",
+    "chapter": "Bab 35",
+    "level": "N4",
+    "title": "A なら、～",
+    "meaning": "Digunakan jika merespon perkataan/topik dari lawan bicara, kemudian memberikan informasi, rekomendasi, atau saran mengenai hal tersebut.",
+    "formula_template": "{A} なら、~",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} なら、~' untuk menyatakan: Digunakan jika merespon perkataan/topik dari lawan bicara, kemudian memberikan informasi, rekomendasi, atau sa. Pastikan 'A' mewakili Kata Benda.",
+    "ui_notes": "Digunakan jika merespon perkataan/topik dari lawan bicara, kemudian memberikan informasi, rekomendasi, atau saran mengenai hal tersebut.",
+    "examples": [
+      {
+        "jp": "温泉に行きたいんですが、どこがいいですか。……温泉なら、白馬がいいですよ。",
+        "id": "Ingin pergi ke permandian air panas, yang bagus di mana? ……Kalau permandian air panas, Hakuba yang bagus."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Partikel",
+      "Saran/Topik"
+    ]
+  },
+  {
+    "id": "m_bab35_4",
+    "chapter": "Bab 35",
+    "level": "N4",
+    "title": "～は ありませんか (ATanya Negatif)",
+    "meaning": "Bentuk tanya negatif yang digunakan untuk menanyakan keberadaan sesuatu secara halus. Artinya sama dengan \"～はありますか\" (Apakah ada?), tetapi bertanya dengan \"～はありませんか\" dianggap cara bertanya yang menjaga perasaan lawan bicara (tidak menuntut).",
+    "formula_template": "{A} はありませんか",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} はありませんか' untuk menyatakan: Bentuk tanya negatif yang digunakan untuk menanyakan keberadaan sesuatu secara halus. Artinya sama dengan \"～はあ. Pastikan 'A' mewakili Kata Benda.",
+    "ui_notes": "Ketika menjawab pertanyaan bentuk ini, cukup menggunakan はい、あります (Ya, ada) atau いいえ、ありません (Tidak, tidak ada).",
+    "examples": [
+      {
+        "jp": "2、3日旅行をしようと思っているんですが、どこかいい所はありませんか。",
+        "id": "Saya pikir mau berjalan-jalan selama dua, tiga hari, apakah ada tempat yang Anda rekomendasikan?"
+      }
+    ],
+    "tags": [
+      "N4",
+      "Pola Kalimat",
+      "Pertanyaan Sopan"
+    ]
+  }
+]

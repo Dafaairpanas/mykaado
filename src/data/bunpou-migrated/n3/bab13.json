@@ -1,0 +1,158 @@
+[
+  {
+    "id": "n3_bab13_1",
+    "chapter": "Bab 13",
+    "level": "N3",
+    "title": "〜ても",
+    "meaning": "meskipun",
+    "formula_template": "{A}ても / {B} 〜くても / {C} 〜でも / {D}でも",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}ても / {B} 〜くても / {C} 〜でも / {D}でも' untuk mengekspresikan: meskipun.",
+    "ui_notes": "meskipun",
+    "examples": [
+      {
+        "jp": "必要なので、高くても買います。",
+        "id": "karena saya butuh, meskipun mahal (tetap) saya beli"
+      },
+      {
+        "jp": "調べてもわからなかったので、先生に聞いた。",
+        "id": "meskipun sudah mencari tahu, saya tidak tahu, jadi saya tanya ke guru"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pengandaian"
+    ]
+  },
+  {
+    "id": "n3_bab13_2",
+    "chapter": "Bab 13",
+    "level": "N3",
+    "title": "KATA TANYA 〜ても",
+    "meaning": "se...pun",
+    "formula_template": "[どんなに / いくら / (dan lain-lain)] [{A}ても / {B} 〜くても / {C} 〜でも / {D}でも] | 例: どんなに〜ても / どう〜ても / いくら〜ても / いつ〜ても / だれが〜ても / 何を〜ても",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[どんなに / いくら / (dan lain-lain)] [{A}ても / {B} 〜くても / {C} 〜でも / {D}でも] | 例: どんなに〜ても / どう〜ても / いくら〜ても / いつ〜ても / だれが〜ても / 何を〜ても' untuk mengekspresikan: se...pun.",
+    "ui_notes": "se...pun",
+    "examples": [
+      {
+        "jp": "いくらお酒を飲んでも顔色が変わらない。",
+        "id": "sebanyak apapun saya minum saka, wajah warna saya tidak berubah"
+      },
+      {
+        "jp": "私はどんなに暑くても寝るときはクーラーを消して寝ます。",
+        "id": "sepanas apapun, ketika tidur saya mematikan AC"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pengandaian"
+    ]
+  },
+  {
+    "id": "n3_bab13_3",
+    "chapter": "Bab 13",
+    "level": "N3",
+    "title": "〜ずに",
+    "meaning": "ungkapan ini terkesan lebih kaku & formal dari pada 〜ないで",
+    "formula_template": "{A}ない (coret ない) → ずに (※ しない → ✓ せずに / ✗ しずに)",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}ない (coret ない) → ずに (※ しない → ✓ せずに / ✗ しずに)' untuk mengekspresikan: ungkapan ini terkesan lebih kaku & formal dari pada 〜ないで.",
+    "ui_notes": "ungkapan ini terkesan lebih kaku & formal dari pada 〜ないで",
+    "examples": [
+      {
+        "jp": "辞書を使わずに書いたので、自信がありません。",
+        "id": "karena saya menulis tanpa menggunakan kamus, saya tidak percaya diri"
+      },
+      {
+        "jp": "昨夜、歯をみが込ずに寝てしまった。",
+        "id": "semalam saya tertidur tanpa gosok gigi"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pengandaian"
+    ]
+  }
+]

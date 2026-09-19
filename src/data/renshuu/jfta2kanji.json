@@ -1,0 +1,4906 @@
+[
+  {
+    "id": "jfta2_kanji_1",
+    "chapter": "JFT A2",
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "meaning": "Ikan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_2",
+    "chapter": "JFT A2",
+    "kanji": "肉",
+    "hiragana": "にく",
+    "meaning": "Daging",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_3",
+    "chapter": "JFT A2",
+    "kanji": "卵",
+    "hiragana": "たまご",
+    "meaning": "Telur",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_4",
+    "chapter": "JFT A2",
+    "kanji": "水",
+    "hiragana": "みず",
+    "meaning": "Air",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_5",
+    "chapter": "JFT A2",
+    "kanji": "食べます",
+    "hiragana": "たべます",
+    "meaning": "Makan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_6",
+    "chapter": "JFT A2",
+    "kanji": "飲みます",
+    "hiragana": "のみます",
+    "meaning": "Minum",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_7",
+    "chapter": "JFT A2",
+    "kanji": "大きい",
+    "hiragana": "おおきい",
+    "meaning": "Besar",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_8",
+    "chapter": "JFT A2",
+    "kanji": "小さい",
+    "hiragana": "ちいさい",
+    "meaning": "Kecil",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_9",
+    "chapter": "JFT A2",
+    "kanji": "新しい",
+    "hiragana": "あたらしい",
+    "meaning": "Baru",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_10",
+    "chapter": "JFT A2",
+    "kanji": "古い",
+    "hiragana": "ふるい",
+    "meaning": "Lama, usang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_11",
+    "chapter": "JFT A2",
+    "kanji": "～時",
+    "hiragana": "～じ",
+    "meaning": "~ jam",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_12",
+    "chapter": "JFT A2",
+    "kanji": "～分",
+    "hiragana": "～ふん、ぷん、ぶん",
+    "meaning": "~ menit",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_13",
+    "chapter": "JFT A2",
+    "kanji": "～半",
+    "hiragana": "～はん",
+    "meaning": "~ setengah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_14",
+    "chapter": "JFT A2",
+    "kanji": "月曜日",
+    "hiragana": "げつようび",
+    "meaning": "Senin",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_15",
+    "chapter": "JFT A2",
+    "kanji": "火曜日",
+    "hiragana": "かようび",
+    "meaning": "Selasa",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_16",
+    "chapter": "JFT A2",
+    "kanji": "水曜日",
+    "hiragana": "すいようび",
+    "meaning": "Rabo",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_17",
+    "chapter": "JFT A2",
+    "kanji": "木曜日",
+    "hiragana": "もくようび",
+    "meaning": "Kamis",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_18",
+    "chapter": "JFT A2",
+    "kanji": "金曜日",
+    "hiragana": "きんようび",
+    "meaning": "Jumat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_19",
+    "chapter": "JFT A2",
+    "kanji": "土曜日",
+    "hiragana": "どようび",
+    "meaning": "Sabtu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_20",
+    "chapter": "JFT A2",
+    "kanji": "日曜日",
+    "hiragana": "にちようび",
+    "meaning": "Minggu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_21",
+    "chapter": "JFT A2",
+    "kanji": "言います",
+    "hiragana": "いいます",
+    "meaning": "Berkata",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_22",
+    "chapter": "JFT A2",
+    "kanji": "話します",
+    "hiragana": "はなします",
+    "meaning": "Berbicara",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_23",
+    "chapter": "JFT A2",
+    "kanji": "読みます",
+    "hiragana": "よみます",
+    "meaning": "Membaca",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_24",
+    "chapter": "JFT A2",
+    "kanji": "見ます",
+    "hiragana": "みます",
+    "meaning": "Melihat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_25",
+    "chapter": "JFT A2",
+    "kanji": "聞きます",
+    "hiragana": "ききます",
+    "meaning": "Mendengarkan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_26",
+    "chapter": "JFT A2",
+    "kanji": "書きます",
+    "hiragana": "かきます",
+    "meaning": "Menulis",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_27",
+    "chapter": "JFT A2",
+    "kanji": "一",
+    "hiragana": "いち",
+    "meaning": "Satu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_28",
+    "chapter": "JFT A2",
+    "kanji": "二",
+    "hiragana": "に",
+    "meaning": "Dua",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_29",
+    "chapter": "JFT A2",
+    "kanji": "三",
+    "hiragana": "さん",
+    "meaning": "Tiga",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_30",
+    "chapter": "JFT A2",
+    "kanji": "四",
+    "hiragana": "よん、し",
+    "meaning": "Empat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_31",
+    "chapter": "JFT A2",
+    "kanji": "五",
+    "hiragana": "ご",
+    "meaning": "Lima",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_32",
+    "chapter": "JFT A2",
+    "kanji": "六",
+    "hiragana": "ろく",
+    "meaning": "Enam",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_33",
+    "chapter": "JFT A2",
+    "kanji": "七",
+    "hiragana": "なな、しち",
+    "meaning": "Tujuh",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_34",
+    "chapter": "JFT A2",
+    "kanji": "八",
+    "hiragana": "はち",
+    "meaning": "Delapan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_35",
+    "chapter": "JFT A2",
+    "kanji": "九",
+    "hiragana": "きゅう",
+    "meaning": "Sembilan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_36",
+    "chapter": "JFT A2",
+    "kanji": "十",
+    "hiragana": "じゅう",
+    "meaning": "Sepuluh",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_37",
+    "chapter": "JFT A2",
+    "kanji": "～年",
+    "hiragana": "～ねん",
+    "meaning": "~ tahun",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_38",
+    "chapter": "JFT A2",
+    "kanji": "～月",
+    "hiragana": "～がつ",
+    "meaning": "~ bulan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_39",
+    "chapter": "JFT A2",
+    "kanji": "～日",
+    "hiragana": "～にち",
+    "meaning": "~ tanggal 2",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_40",
+    "chapter": "JFT A2",
+    "kanji": "東",
+    "hiragana": "ひがし",
+    "meaning": "Timur",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_41",
+    "chapter": "JFT A2",
+    "kanji": "西",
+    "hiragana": "にし",
+    "meaning": "Barat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_42",
+    "chapter": "JFT A2",
+    "kanji": "南",
+    "hiragana": "みなみ",
+    "meaning": "Selatan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_43",
+    "chapter": "JFT A2",
+    "kanji": "北",
+    "hiragana": "きた",
+    "meaning": "Utara",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_44",
+    "chapter": "JFT A2",
+    "kanji": "～口",
+    "hiragana": "～ぐち",
+    "meaning": "~ pintu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_45",
+    "chapter": "JFT A2",
+    "kanji": "東口",
+    "hiragana": "ひがしぐち",
+    "meaning": "Pintu timur",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_46",
+    "chapter": "JFT A2",
+    "kanji": "西口",
+    "hiragana": "にしぐち",
+    "meaning": "Pintu barat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_47",
+    "chapter": "JFT A2",
+    "kanji": "南口",
+    "hiragana": "みなみぐち",
+    "meaning": "Pintu selatan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_48",
+    "chapter": "JFT A2",
+    "kanji": "北口",
+    "hiragana": "きたぐち",
+    "meaning": "Pintu utara",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_49",
+    "chapter": "JFT A2",
+    "kanji": "買います",
+    "hiragana": "かいます",
+    "meaning": "Membeli",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_50",
+    "chapter": "JFT A2",
+    "kanji": "買い物",
+    "hiragana": "かいもの",
+    "meaning": "Belanja",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_51",
+    "chapter": "JFT A2",
+    "kanji": "お金",
+    "hiragana": "おかね",
+    "meaning": "Uang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_52",
+    "chapter": "JFT A2",
+    "kanji": "～円",
+    "hiragana": "～えん",
+    "meaning": "~ yen",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_53",
+    "chapter": "JFT A2",
+    "kanji": "百",
+    "hiragana": "ひゃく",
+    "meaning": "100",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_54",
+    "chapter": "JFT A2",
+    "kanji": "千",
+    "hiragana": "せん",
+    "meaning": "1000",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_55",
+    "chapter": "JFT A2",
+    "kanji": "万",
+    "hiragana": "まん",
+    "meaning": "10000",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_56",
+    "chapter": "JFT A2",
+    "kanji": "百円",
+    "hiragana": "ひゃくえん",
+    "meaning": "100 yen",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_57",
+    "chapter": "JFT A2",
+    "kanji": "千円",
+    "hiragana": "せんえん",
+    "meaning": "1000 yen",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_58",
+    "chapter": "JFT A2",
+    "kanji": "一万円",
+    "hiragana": "いちまんえん",
+    "meaning": "10000 yen",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_59",
+    "chapter": "JFT A2",
+    "kanji": "行きます",
+    "hiragana": "いきます",
+    "meaning": "Pergi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_60",
+    "chapter": "JFT A2",
+    "kanji": "来ます",
+    "hiragana": "きます",
+    "meaning": "Dat ang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_61",
+    "chapter": "JFT A2",
+    "kanji": "会います",
+    "hiragana": "あいます",
+    "meaning": "Bertemu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_62",
+    "chapter": "JFT A2",
+    "kanji": "休みます",
+    "hiragana": "やすみます",
+    "meaning": "Libur,istirahat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_63",
+    "chapter": "JFT A2",
+    "kanji": "日本",
+    "hiragana": "にほん",
+    "meaning": "Jepang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_64",
+    "chapter": "JFT A2",
+    "kanji": "東京",
+    "hiragana": "とうきょう",
+    "meaning": "Tokyo",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_65",
+    "chapter": "JFT A2",
+    "kanji": "私",
+    "hiragana": "わたし",
+    "meaning": "Saya",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_66",
+    "chapter": "JFT A2",
+    "kanji": "父",
+    "hiragana": "ちち",
+    "meaning": "Ayah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_67",
+    "chapter": "JFT A2",
+    "kanji": "母",
+    "hiragana": "はは",
+    "meaning": "Ibu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_68",
+    "chapter": "JFT A2",
+    "kanji": "子供",
+    "hiragana": "こども",
+    "meaning": "Anak",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_69",
+    "chapter": "JFT A2",
+    "kanji": "男",
+    "hiragana": "おとこ",
+    "meaning": "Laki -laki",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_70",
+    "chapter": "JFT A2",
+    "kanji": "女",
+    "hiragana": "おんな",
+    "meaning": "Perempuan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_71",
+    "chapter": "JFT A2",
+    "kanji": "人",
+    "hiragana": "ひと",
+    "meaning": "Orang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_72",
+    "chapter": "JFT A2",
+    "kanji": "お父さん",
+    "hiragana": "おとうさん",
+    "meaning": "Ayah (orang lain)",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_73",
+    "chapter": "JFT A2",
+    "kanji": "お母さん",
+    "hiragana": "おかあさん",
+    "meaning": "Ibu (orang lain)",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_74",
+    "chapter": "JFT A2",
+    "kanji": "何人",
+    "hiragana": "なんにん",
+    "meaning": "Berapa orang?",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_75",
+    "chapter": "JFT A2",
+    "kanji": "国",
+    "hiragana": "くに",
+    "meaning": "Negara",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_76",
+    "chapter": "JFT A2",
+    "kanji": "外国",
+    "hiragana": "がいこく",
+    "meaning": "Luar negri",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_77",
+    "chapter": "JFT A2",
+    "kanji": "～語",
+    "hiragana": "～ご",
+    "meaning": "~ Bahasa",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_78",
+    "chapter": "JFT A2",
+    "kanji": "日本語",
+    "hiragana": "にほんご",
+    "meaning": "Bahasa jepang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_79",
+    "chapter": "JFT A2",
+    "kanji": "英語",
+    "hiragana": "えいご",
+    "meaning": "Bahasa inggris",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_80",
+    "chapter": "JFT A2",
+    "kanji": "中国語",
+    "hiragana": "ちゅうごくご",
+    "meaning": "Bahasa china",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_81",
+    "chapter": "JFT A2",
+    "kanji": "～人",
+    "hiragana": "～じん／～にん",
+    "meaning": "~ orang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_82",
+    "chapter": "JFT A2",
+    "kanji": "日本人",
+    "hiragana": "にほんじん",
+    "meaning": "Orang jepang 3",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_83",
+    "chapter": "JFT A2",
+    "kanji": "好き",
+    "hiragana": "すき",
+    "meaning": "Suka",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_84",
+    "chapter": "JFT A2",
+    "kanji": "本",
+    "hiragana": "ほん",
+    "meaning": "Buku",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_85",
+    "chapter": "JFT A2",
+    "kanji": "読書",
+    "hiragana": "どくしょ",
+    "meaning": "Bacaan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_86",
+    "chapter": "JFT A2",
+    "kanji": "何",
+    "hiragana": "なに",
+    "meaning": "Apa?",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_87",
+    "chapter": "JFT A2",
+    "kanji": "春",
+    "hiragana": "はる",
+    "meaning": "Musim semi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_88",
+    "chapter": "JFT A2",
+    "kanji": "夏",
+    "hiragana": "なつ",
+    "meaning": "Musim panas",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_89",
+    "chapter": "JFT A2",
+    "kanji": "秋",
+    "hiragana": "あき",
+    "meaning": "Musim gugur",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_90",
+    "chapter": "JFT A2",
+    "kanji": "冬",
+    "hiragana": "ふゆ",
+    "meaning": "Musim dingin",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_91",
+    "chapter": "JFT A2",
+    "kanji": "今",
+    "hiragana": "いま",
+    "meaning": "Sekarang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_92",
+    "chapter": "JFT A2",
+    "kanji": "花",
+    "hiragana": "はな",
+    "meaning": "Bunga",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_93",
+    "chapter": "JFT A2",
+    "kanji": "海",
+    "hiragana": "うみ",
+    "meaning": "Laut",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_94",
+    "chapter": "JFT A2",
+    "kanji": "山",
+    "hiragana": "やま",
+    "meaning": "Gunung",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_95",
+    "chapter": "JFT A2",
+    "kanji": "川",
+    "hiragana": "かわ",
+    "meaning": "Sungai",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_96",
+    "chapter": "JFT A2",
+    "kanji": "今日",
+    "hiragana": "きょう",
+    "meaning": "Hari ini",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_97",
+    "chapter": "JFT A2",
+    "kanji": "天気",
+    "hiragana": "てんき",
+    "meaning": "Cuaca",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_98",
+    "chapter": "JFT A2",
+    "kanji": "晴れ",
+    "hiragana": "はれ",
+    "meaning": "Cerah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_99",
+    "chapter": "JFT A2",
+    "kanji": "雨",
+    "hiragana": "あめ",
+    "meaning": "Hujan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_100",
+    "chapter": "JFT A2",
+    "kanji": "雪",
+    "hiragana": "ゆき",
+    "meaning": "Salju",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_101",
+    "chapter": "JFT A2",
+    "kanji": "雲",
+    "hiragana": "くも",
+    "meaning": "Mendung",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_102",
+    "chapter": "JFT A2",
+    "kanji": "風",
+    "hiragana": "かぜ",
+    "meaning": "Angin",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_103",
+    "chapter": "JFT A2",
+    "kanji": "空",
+    "hiragana": "そら",
+    "meaning": "Langit",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_104",
+    "chapter": "JFT A2",
+    "kanji": "町",
+    "hiragana": "まち",
+    "meaning": "Kota",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_105",
+    "chapter": "JFT A2",
+    "kanji": "店",
+    "hiragana": "みせ",
+    "meaning": "Toko",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_106",
+    "chapter": "JFT A2",
+    "kanji": "人気",
+    "hiragana": "にんき",
+    "meaning": "Popularitas, ketenaran",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_107",
+    "chapter": "JFT A2",
+    "kanji": "多い",
+    "hiragana": "おおい",
+    "meaning": "Banyak",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_108",
+    "chapter": "JFT A2",
+    "kanji": "少ない",
+    "hiragana": "すくない",
+    "meaning": "Sedikit",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_109",
+    "chapter": "JFT A2",
+    "kanji": "高い",
+    "hiragana": "たかい",
+    "meaning": "Mahal",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_110",
+    "chapter": "JFT A2",
+    "kanji": "安い",
+    "hiragana": "やすい",
+    "meaning": "Murah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_111",
+    "chapter": "JFT A2",
+    "kanji": "広い",
+    "hiragana": "ひろい",
+    "meaning": "Luas",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_112",
+    "chapter": "JFT A2",
+    "kanji": "道",
+    "hiragana": "みち",
+    "meaning": "Jalan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_113",
+    "chapter": "JFT A2",
+    "kanji": "通り",
+    "hiragana": "とおり",
+    "meaning": "Jalan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_114",
+    "chapter": "JFT A2",
+    "kanji": "右",
+    "hiragana": "みぎ",
+    "meaning": "Kanan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_115",
+    "chapter": "JFT A2",
+    "kanji": "左",
+    "hiragana": "ひだり",
+    "meaning": "Kiri",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_116",
+    "chapter": "JFT A2",
+    "kanji": "一つ",
+    "hiragana": "ひとつ",
+    "meaning": "Satu buah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_117",
+    "chapter": "JFT A2",
+    "kanji": "二つ",
+    "hiragana": "ふたつ",
+    "meaning": "Dua buah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_118",
+    "chapter": "JFT A2",
+    "kanji": "赤い",
+    "hiragana": "あかい",
+    "meaning": "Merah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_119",
+    "chapter": "JFT A2",
+    "kanji": "青い",
+    "hiragana": "あおい",
+    "meaning": "Biru",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_120",
+    "chapter": "JFT A2",
+    "kanji": "黒い",
+    "hiragana": "くろい",
+    "meaning": "Hitam",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_121",
+    "chapter": "JFT A2",
+    "kanji": "白い",
+    "hiragana": "しろい",
+    "meaning": "Putih",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_122",
+    "chapter": "JFT A2",
+    "kanji": "時間",
+    "hiragana": "じかん",
+    "meaning": "Waktu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_123",
+    "chapter": "JFT A2",
+    "kanji": "場所",
+    "hiragana": "ばしょ",
+    "meaning": "Tempat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_124",
+    "chapter": "JFT A2",
+    "kanji": "駅",
+    "hiragana": "えき",
+    "meaning": "Stasiun",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_125",
+    "chapter": "JFT A2",
+    "kanji": "",
+    "hiragana": "",
+    "meaning": "日 ひ Matahari 4",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_126",
+    "chapter": "JFT A2",
+    "kanji": "出かけます",
+    "hiragana": "でかけます",
+    "meaning": "Meninggalkan rumah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_127",
+    "chapter": "JFT A2",
+    "kanji": "待ちます",
+    "hiragana": "まちます",
+    "meaning": "Menunggu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_128",
+    "chapter": "JFT A2",
+    "kanji": "止まります",
+    "hiragana": "とまります",
+    "meaning": "Berhenti",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_129",
+    "chapter": "JFT A2",
+    "kanji": "食事",
+    "hiragana": "しょくじ",
+    "meaning": "Makan bersama",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_130",
+    "chapter": "JFT A2",
+    "kanji": "仕事",
+    "hiragana": "しごと",
+    "meaning": "Pekerjaan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_131",
+    "chapter": "JFT A2",
+    "kanji": "前",
+    "hiragana": "まえ",
+    "meaning": "Sebelum",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_132",
+    "chapter": "JFT A2",
+    "kanji": "後",
+    "hiragana": "あと",
+    "meaning": "Setelah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_133",
+    "chapter": "JFT A2",
+    "kanji": "朝",
+    "hiragana": "あさ",
+    "meaning": "Pagi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_134",
+    "chapter": "JFT A2",
+    "kanji": "昼",
+    "hiragana": "ひる",
+    "meaning": "Siang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_135",
+    "chapter": "JFT A2",
+    "kanji": "夜",
+    "hiragana": "よる",
+    "meaning": "Malam",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_136",
+    "chapter": "JFT A2",
+    "kanji": "乗ります",
+    "hiragana": "のります",
+    "meaning": "Naik",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_137",
+    "chapter": "JFT A2",
+    "kanji": "学校",
+    "hiragana": "がっこう",
+    "meaning": "Sekolahan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_138",
+    "chapter": "JFT A2",
+    "kanji": "小学校",
+    "hiragana": "しょうがっこう",
+    "meaning": "SD",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_139",
+    "chapter": "JFT A2",
+    "kanji": "中学校",
+    "hiragana": "ちゅうがっこう",
+    "meaning": "SMP",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_140",
+    "chapter": "JFT A2",
+    "kanji": "高校",
+    "hiragana": "こうこう",
+    "meaning": "SMA",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_141",
+    "chapter": "JFT A2",
+    "kanji": "大学",
+    "hiragana": "だいがく",
+    "meaning": "Universitas",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_142",
+    "chapter": "JFT A2",
+    "kanji": "先生",
+    "hiragana": "せんせい",
+    "meaning": "Guru",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_143",
+    "chapter": "JFT A2",
+    "kanji": "学生",
+    "hiragana": "がくせい",
+    "meaning": "Murid , siswa",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_144",
+    "chapter": "JFT A2",
+    "kanji": "～年生",
+    "hiragana": "～ねんせい",
+    "meaning": "Kelas ~",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_145",
+    "chapter": "JFT A2",
+    "kanji": "勉強",
+    "hiragana": "べんきょう",
+    "meaning": "Pelajaran",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_146",
+    "chapter": "JFT A2",
+    "kanji": "文化",
+    "hiragana": "ぶんか",
+    "meaning": "Kebudayaan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_147",
+    "chapter": "JFT A2",
+    "kanji": "音楽",
+    "hiragana": "おんがく",
+    "meaning": "Musik",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_148",
+    "chapter": "JFT A2",
+    "kanji": "旅行",
+    "hiragana": "りょこう",
+    "meaning": "Wisata",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_149",
+    "chapter": "JFT A2",
+    "kanji": "留学",
+    "hiragana": "りゅうがく",
+    "meaning": "Belajar di luar negri",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_150",
+    "chapter": "JFT A2",
+    "kanji": "友達",
+    "hiragana": "ともだち",
+    "meaning": "Teman",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_151",
+    "chapter": "JFT A2",
+    "kanji": "楽しい",
+    "hiragana": "たのしい",
+    "meaning": "Gembira",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_152",
+    "chapter": "JFT A2",
+    "kanji": "週",
+    "hiragana": "しゅう",
+    "meaning": "Minggu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_153",
+    "chapter": "JFT A2",
+    "kanji": "～回",
+    "hiragana": "～かい",
+    "meaning": "~kali",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_154",
+    "chapter": "JFT A2",
+    "kanji": "食べ物",
+    "hiragana": "たべもの",
+    "meaning": "Makanan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_155",
+    "chapter": "JFT A2",
+    "kanji": "飲物",
+    "hiragana": "のみもの",
+    "meaning": "Minuman",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_156",
+    "chapter": "JFT A2",
+    "kanji": "お茶",
+    "hiragana": "おちゃ",
+    "meaning": "Teh hijau",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_157",
+    "chapter": "JFT A2",
+    "kanji": "お酒",
+    "hiragana": "おさけ",
+    "meaning": "Sake",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_158",
+    "chapter": "JFT A2",
+    "kanji": "作ります",
+    "hiragana": "つくります",
+    "meaning": "Membuat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_159",
+    "chapter": "JFT A2",
+    "kanji": "持っていきます",
+    "hiragana": "もっていきます",
+    "meaning": "Membawa pergi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_160",
+    "chapter": "JFT A2",
+    "kanji": "お願いします",
+    "hiragana": "おねがいします",
+    "meaning": "Tolong",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_161",
+    "chapter": "JFT A2",
+    "kanji": "料理",
+    "hiragana": "りょうり",
+    "meaning": "Masakan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_162",
+    "chapter": "JFT A2",
+    "kanji": "味",
+    "hiragana": "あじ",
+    "meaning": "Rasa",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_163",
+    "chapter": "JFT A2",
+    "kanji": "色",
+    "hiragana": "いろ",
+    "meaning": "Warna",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_164",
+    "chapter": "JFT A2",
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "meaning": "Sayuran",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_165",
+    "chapter": "JFT A2",
+    "kanji": "少し",
+    "hiragana": "すこし",
+    "meaning": "Sedikit",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_166",
+    "chapter": "JFT A2",
+    "kanji": "中",
+    "hiragana": "なか",
+    "meaning": "Dalam",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_167",
+    "chapter": "JFT A2",
+    "kanji": "入っています",
+    "hiragana": "はいっています",
+    "meaning": "Masuk",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_168",
+    "chapter": "JFT A2",
+    "kanji": "会社",
+    "hiragana": "かいしゃ",
+    "meaning": "Perusahaan 5",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_169",
+    "chapter": "JFT A2",
+    "kanji": "本社",
+    "hiragana": "ほんしゃ",
+    "meaning": "Kantor pusat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_170",
+    "chapter": "JFT A2",
+    "kanji": "支社",
+    "hiragana": "ししゃ",
+    "meaning": "Kantor cabang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_171",
+    "chapter": "JFT A2",
+    "kanji": "出張",
+    "hiragana": "しゅっちょう",
+    "meaning": "Dinas luar kota",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_172",
+    "chapter": "JFT A2",
+    "kanji": "空港",
+    "hiragana": "くうこう",
+    "meaning": "Bandara",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_173",
+    "chapter": "JFT A2",
+    "kanji": "出発",
+    "hiragana": "しゅっぱつ",
+    "meaning": "Keberangkatan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_174",
+    "chapter": "JFT A2",
+    "kanji": "到着",
+    "hiragana": "とうちゃく",
+    "meaning": "Kedatangan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_175",
+    "chapter": "JFT A2",
+    "kanji": "午前",
+    "hiragana": "ごぜん",
+    "meaning": "AM",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_176",
+    "chapter": "JFT A2",
+    "kanji": "午後",
+    "hiragana": "ごご",
+    "meaning": "PM",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_177",
+    "chapter": "JFT A2",
+    "kanji": "自分",
+    "hiragana": "じぶん",
+    "meaning": "Sendiri",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_178",
+    "chapter": "JFT A2",
+    "kanji": "電話",
+    "hiragana": "でんわ",
+    "meaning": "Telepon",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_179",
+    "chapter": "JFT A2",
+    "kanji": "電気",
+    "hiragana": "でんき",
+    "meaning": "Listrik",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_180",
+    "chapter": "JFT A2",
+    "kanji": "電車",
+    "hiragana": "でんしゃ",
+    "meaning": "Kereta",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_181",
+    "chapter": "JFT A2",
+    "kanji": "車",
+    "hiragana": "くるま",
+    "meaning": "Mobil",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_182",
+    "chapter": "JFT A2",
+    "kanji": "送ります",
+    "hiragana": "おくります",
+    "meaning": "Mengirim",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_183",
+    "chapter": "JFT A2",
+    "kanji": "使います",
+    "hiragana": "つかいます",
+    "meaning": "Menggunakan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_184",
+    "chapter": "JFT A2",
+    "kanji": "借ります",
+    "hiragana": "かります",
+    "meaning": "Meminjam",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_185",
+    "chapter": "JFT A2",
+    "kanji": "体",
+    "hiragana": "からだ",
+    "meaning": "Badan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_186",
+    "chapter": "JFT A2",
+    "kanji": "頭",
+    "hiragana": "あたま",
+    "meaning": "Kepala",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_187",
+    "chapter": "JFT A2",
+    "kanji": "",
+    "hiragana": "",
+    "meaning": "目 め Mata",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_188",
+    "chapter": "JFT A2",
+    "kanji": "口",
+    "hiragana": "くち",
+    "meaning": "Mulut",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_189",
+    "chapter": "JFT A2",
+    "kanji": "耳",
+    "hiragana": "みみ",
+    "meaning": "Telinga",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_190",
+    "chapter": "JFT A2",
+    "kanji": "",
+    "hiragana": "",
+    "meaning": "手 て Tangan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_191",
+    "chapter": "JFT A2",
+    "kanji": "足",
+    "hiragana": "あし",
+    "meaning": "Kaki",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_192",
+    "chapter": "JFT A2",
+    "kanji": "上",
+    "hiragana": "うえ",
+    "meaning": "Atas",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_193",
+    "chapter": "JFT A2",
+    "kanji": "下",
+    "hiragana": "した",
+    "meaning": "Bawah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_194",
+    "chapter": "JFT A2",
+    "kanji": "毎～",
+    "hiragana": "まい～",
+    "meaning": "~ setiap",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_195",
+    "chapter": "JFT A2",
+    "kanji": "毎朝",
+    "hiragana": "まいあさ",
+    "meaning": "setiap pagi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_196",
+    "chapter": "JFT A2",
+    "kanji": "毎日",
+    "hiragana": "まいにち",
+    "meaning": "Setiap hari",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_197",
+    "chapter": "JFT A2",
+    "kanji": "週末",
+    "hiragana": "しゅうまつ",
+    "meaning": "Akhir pe kan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_198",
+    "chapter": "JFT A2",
+    "kanji": "元気",
+    "hiragana": "げんき",
+    "meaning": "Sehat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_199",
+    "chapter": "JFT A2",
+    "kanji": "外",
+    "hiragana": "そと",
+    "meaning": "Luar",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_200",
+    "chapter": "JFT A2",
+    "kanji": "起きます",
+    "hiragana": "おきます",
+    "meaning": "Bangun tidur",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_201",
+    "chapter": "JFT A2",
+    "kanji": "歩きます",
+    "hiragana": "あるきます",
+    "meaning": "Berjalan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_202",
+    "chapter": "JFT A2",
+    "kanji": "走ります",
+    "hiragana": "はしります",
+    "meaning": "Berlari",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_203",
+    "chapter": "JFT A2",
+    "kanji": "泳ぎます",
+    "hiragana": "およぎます",
+    "meaning": "Berenang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_204",
+    "chapter": "JFT A2",
+    "kanji": "お祝い",
+    "hiragana": "おいわい",
+    "meaning": "Perayaan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_205",
+    "chapter": "JFT A2",
+    "kanji": "誕生日",
+    "hiragana": "たんじょうび",
+    "meaning": "Ulang tahun",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_206",
+    "chapter": "JFT A2",
+    "kanji": "結婚",
+    "hiragana": "けっこん",
+    "meaning": "Pernikahan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_207",
+    "chapter": "JFT A2",
+    "kanji": "Gambar",
+    "hiragana": ",",
+    "meaning": "絵 えlukisan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_208",
+    "chapter": "JFT A2",
+    "kanji": "写真",
+    "hiragana": "しゃしん",
+    "meaning": "Foto",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_209",
+    "chapter": "JFT A2",
+    "kanji": "時計",
+    "hiragana": "とけい",
+    "meaning": "Jam",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_210",
+    "chapter": "JFT A2",
+    "kanji": "着ます",
+    "hiragana": "きます",
+    "meaning": "Memakai pakaian",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_211",
+    "chapter": "JFT A2",
+    "kanji": "先～",
+    "hiragana": "せん～",
+    "meaning": "~lalu 6",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_212",
+    "chapter": "JFT A2",
+    "kanji": "先週",
+    "hiragana": "せんしゅう",
+    "meaning": "Minggu lalu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_213",
+    "chapter": "JFT A2",
+    "kanji": "今月",
+    "hiragana": "こんげつ",
+    "meaning": "Bulan ini",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_214",
+    "chapter": "JFT A2",
+    "kanji": "来年",
+    "hiragana": "らいねん",
+    "meaning": "Tahun depan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_215",
+    "chapter": "JFT A2",
+    "kanji": "今年",
+    "hiragana": "ことし",
+    "meaning": "Tahun ini",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_216",
+    "chapter": "JFT A2",
+    "kanji": "去年",
+    "hiragana": "きょねん",
+    "meaning": "Tahun lalu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_217",
+    "chapter": "JFT A2",
+    "kanji": "家",
+    "hiragana": "いえ",
+    "meaning": "Rumah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_218",
+    "chapter": "JFT A2",
+    "kanji": "思います",
+    "hiragana": "おもいます",
+    "meaning": "Mengira",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_219",
+    "chapter": "JFT A2",
+    "kanji": "自己紹介",
+    "hiragana": "じこしょうかい",
+    "meaning": "Perkenalan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_220",
+    "chapter": "JFT A2",
+    "kanji": "名前",
+    "hiragana": "なまえ",
+    "meaning": "Nama",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_221",
+    "chapter": "JFT A2",
+    "kanji": "意味",
+    "hiragana": "いみ",
+    "meaning": "Arti",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_222",
+    "chapter": "JFT A2",
+    "kanji": "本屋",
+    "hiragana": "ほんや",
+    "meaning": "Toko buku",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_223",
+    "chapter": "JFT A2",
+    "kanji": "近く",
+    "hiragana": "ちかく",
+    "meaning": "Dekat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_224",
+    "chapter": "JFT A2",
+    "kanji": "住みます",
+    "hiragana": "すみます",
+    "meaning": "Tinggal",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_225",
+    "chapter": "JFT A2",
+    "kanji": "働きます",
+    "hiragana": "はたらきます",
+    "meaning": "Bekerja",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_226",
+    "chapter": "JFT A2",
+    "kanji": "～番目",
+    "hiragana": "～ばんめ",
+    "meaning": "Urutan yang ~",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_227",
+    "chapter": "JFT A2",
+    "kanji": "兄",
+    "hiragana": "あに",
+    "meaning": "Kakak laki2 (sendiri)",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_228",
+    "chapter": "JFT A2",
+    "kanji": "兄いさん",
+    "hiragana": "おにいさん",
+    "meaning": "Kakak laki2 (orang lain)",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_229",
+    "chapter": "JFT A2",
+    "kanji": "姉",
+    "hiragana": "あね",
+    "meaning": "Kakak perempuan (sendiri)",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_230",
+    "chapter": "JFT A2",
+    "kanji": "お姉さん",
+    "hiragana": "おねえさん",
+    "meaning": "Kakak perempuan (orang lain)",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_231",
+    "chapter": "JFT A2",
+    "kanji": "弟",
+    "hiragana": "おとうと",
+    "meaning": "Adik laki2 (sendiri)",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_232",
+    "chapter": "JFT A2",
+    "kanji": "妹",
+    "hiragana": "いもうと",
+    "meaning": "Adik perempuan (sendiri)",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_233",
+    "chapter": "JFT A2",
+    "kanji": "家族",
+    "hiragana": "かぞく",
+    "meaning": "Keluarga",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_234",
+    "chapter": "JFT A2",
+    "kanji": "長い",
+    "hiragana": "ながい",
+    "meaning": "Panjang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_235",
+    "chapter": "JFT A2",
+    "kanji": "短い",
+    "hiragana": "みじかい",
+    "meaning": "Pendek",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_236",
+    "chapter": "JFT A2",
+    "kanji": "低い",
+    "hiragana": "ひくい",
+    "meaning": "Rendah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_237",
+    "chapter": "JFT A2",
+    "kanji": "上手",
+    "hiragana": "じょうず",
+    "meaning": "Pandai",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_238",
+    "chapter": "JFT A2",
+    "kanji": "歌",
+    "hiragana": "うた",
+    "meaning": "Lagu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_239",
+    "chapter": "JFT A2",
+    "kanji": "歌います",
+    "hiragana": "うたいます",
+    "meaning": "Menyanyi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_240",
+    "chapter": "JFT A2",
+    "kanji": "客",
+    "hiragana": "きゃく",
+    "meaning": "Tamu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_241",
+    "chapter": "JFT A2",
+    "kanji": "注文",
+    "hiragana": "ちゅうもん",
+    "meaning": "Pesanan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_242",
+    "chapter": "JFT A2",
+    "kanji": "洋食",
+    "hiragana": "ようしょく",
+    "meaning": "Makanan barat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_243",
+    "chapter": "JFT A2",
+    "kanji": "和食",
+    "hiragana": "わしょく",
+    "meaning": "Makanan jepang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_244",
+    "chapter": "JFT A2",
+    "kanji": "牛肉",
+    "hiragana": "ぎゅうにく",
+    "meaning": "Daging sapi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_245",
+    "chapter": "JFT A2",
+    "kanji": "地方",
+    "hiragana": "ちほう",
+    "meaning": "Daerah ,wilayah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_246",
+    "chapter": "JFT A2",
+    "kanji": "有名",
+    "hiragana": "ゆうめい",
+    "meaning": "Terkenal",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_247",
+    "chapter": "JFT A2",
+    "kanji": "生",
+    "hiragana": "なま",
+    "meaning": "Mentah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_248",
+    "chapter": "JFT A2",
+    "kanji": "冷たい",
+    "hiragana": "つめたい",
+    "meaning": "Dingin (benda)",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_249",
+    "chapter": "JFT A2",
+    "kanji": "ご飯",
+    "hiragana": "ごはん",
+    "meaning": "Nasi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_250",
+    "chapter": "JFT A2",
+    "kanji": "塩",
+    "hiragana": "しお",
+    "meaning": "Garam",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_251",
+    "chapter": "JFT A2",
+    "kanji": "全部",
+    "hiragana": "ぜんぶ",
+    "meaning": "Semua",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_252",
+    "chapter": "JFT A2",
+    "kanji": "～方",
+    "hiragana": "～かた",
+    "meaning": "Cara~",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_253",
+    "chapter": "JFT A2",
+    "kanji": "食べ方",
+    "hiragana": "たべかた",
+    "meaning": "Cara makan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_254",
+    "chapter": "JFT A2",
+    "kanji": "熱い",
+    "hiragana": "あつい",
+    "meaning": "Panas 7",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_255",
+    "chapter": "JFT A2",
+    "kanji": "苦手",
+    "hiragana": "にがて",
+    "meaning": "Susah, berat,tidak begitu suka",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_256",
+    "chapter": "JFT A2",
+    "kanji": "入れます",
+    "hiragana": "いれます",
+    "meaning": "Memasukkan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_257",
+    "chapter": "JFT A2",
+    "kanji": "",
+    "hiragana": "",
+    "meaning": "木 き Pohon",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_258",
+    "chapter": "JFT A2",
+    "kanji": "森",
+    "hiragana": "もり",
+    "meaning": "Hutan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_259",
+    "chapter": "JFT A2",
+    "kanji": "島",
+    "hiragana": "しま",
+    "meaning": "Pulau",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_260",
+    "chapter": "JFT A2",
+    "kanji": "自然",
+    "hiragana": "しぜん",
+    "meaning": "Alam",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_261",
+    "chapter": "JFT A2",
+    "kanji": "船",
+    "hiragana": "ふね",
+    "meaning": "Kapal",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_262",
+    "chapter": "JFT A2",
+    "kanji": "暑い",
+    "hiragana": "あつい",
+    "meaning": "Panas",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_263",
+    "chapter": "JFT A2",
+    "kanji": "帰ります",
+    "hiragana": "かえります",
+    "meaning": "Pulang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_264",
+    "chapter": "JFT A2",
+    "kanji": "予約します",
+    "hiragana": "よやくします",
+    "meaning": "Memesan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_265",
+    "chapter": "JFT A2",
+    "kanji": "運転します",
+    "hiragana": "うんてんします",
+    "meaning": "Menyetir",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_266",
+    "chapter": "JFT A2",
+    "kanji": "～中",
+    "hiragana": "～ちゅう",
+    "meaning": "／～じゅう Sedang/dalam ~",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_267",
+    "chapter": "JFT A2",
+    "kanji": "旅行中",
+    "hiragana": "りょこうちゅう",
+    "meaning": "Sedang wisata",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_268",
+    "chapter": "JFT A2",
+    "kanji": "観光地",
+    "hiragana": "かんこうち",
+    "meaning": "Tempat wisata",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_269",
+    "chapter": "JFT A2",
+    "kanji": "女性",
+    "hiragana": "じょせい",
+    "meaning": "Wanita",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_270",
+    "chapter": "JFT A2",
+    "kanji": "男性",
+    "hiragana": "だんせい",
+    "meaning": "Pria",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_271",
+    "chapter": "JFT A2",
+    "kanji": "動物",
+    "hiragana": "どうぶつ",
+    "meaning": "Hewan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_272",
+    "chapter": "JFT A2",
+    "kanji": "空気",
+    "hiragana": "くうき",
+    "meaning": "Udara",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_273",
+    "chapter": "JFT A2",
+    "kanji": "料金",
+    "hiragana": "りょうきん",
+    "meaning": "Biaya / tarif",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_274",
+    "chapter": "JFT A2",
+    "kanji": "無料",
+    "hiragana": "むりょう",
+    "meaning": "Gratis",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_275",
+    "chapter": "JFT A2",
+    "kanji": "明るい",
+    "hiragana": "あかるい",
+    "meaning": "Terang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_276",
+    "chapter": "JFT A2",
+    "kanji": "便利",
+    "hiragana": "べんり",
+    "meaning": "Praktis",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_277",
+    "chapter": "JFT A2",
+    "kanji": "一年中",
+    "hiragana": "いちねんじゅう",
+    "meaning": "Dalam satu tahun",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_278",
+    "chapter": "JFT A2",
+    "kanji": "受付",
+    "hiragana": "うけつけ",
+    "meaning": "Penerima tamu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_279",
+    "chapter": "JFT A2",
+    "kanji": "広場",
+    "hiragana": "ひろば",
+    "meaning": "Lapangan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_280",
+    "chapter": "JFT A2",
+    "kanji": "問題",
+    "hiragana": "もんだい",
+    "meaning": "Soal, masalah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_281",
+    "chapter": "JFT A2",
+    "kanji": "同じ",
+    "hiragana": "おなじ",
+    "meaning": "Sama",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_282",
+    "chapter": "JFT A2",
+    "kanji": "集まります",
+    "hiragana": "あつまります",
+    "meaning": "Berkumpul",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_283",
+    "chapter": "JFT A2",
+    "kanji": "始まります",
+    "hiragana": "はじまります",
+    "meaning": "Mulai",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_284",
+    "chapter": "JFT A2",
+    "kanji": "終わります",
+    "hiragana": "おわります",
+    "meaning": "Selesai",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_285",
+    "chapter": "JFT A2",
+    "kanji": "中止します",
+    "hiragana": "ちゅうしします",
+    "meaning": "Mengurungkan ,membatalkan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_286",
+    "chapter": "JFT A2",
+    "kanji": "教えます",
+    "hiragana": "おしえます",
+    "meaning": "Memberitahu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_287",
+    "chapter": "JFT A2",
+    "kanji": "祭り",
+    "hiragana": "まつり",
+    "meaning": "Perayaan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_288",
+    "chapter": "JFT A2",
+    "kanji": "日本祭り",
+    "hiragana": "にほんまつり",
+    "meaning": "Perayaan jepang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_289",
+    "chapter": "JFT A2",
+    "kanji": "会場",
+    "hiragana": "かいじょう",
+    "meaning": "Ruang pertemuan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_290",
+    "chapter": "JFT A2",
+    "kanji": "入場料",
+    "hiragana": "にゅうじょうりょう",
+    "meaning": "Tarif masuk",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_291",
+    "chapter": "JFT A2",
+    "kanji": "参加者",
+    "hiragana": "さんかしゃ",
+    "meaning": "Peserta",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_292",
+    "chapter": "JFT A2",
+    "kanji": "急ぎます",
+    "hiragana": "いそぎます",
+    "meaning": "Buru -buru",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_293",
+    "chapter": "JFT A2",
+    "kanji": "決めます",
+    "hiragana": "きめます",
+    "meaning": "Menentukan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_294",
+    "chapter": "JFT A2",
+    "kanji": "知ります",
+    "hiragana": "しります",
+    "meaning": "Kenal, tahu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_295",
+    "chapter": "JFT A2",
+    "kanji": "正月",
+    "hiragana": "しょうがつ",
+    "meaning": "Tahun baru",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_296",
+    "chapter": "JFT A2",
+    "kanji": "年末",
+    "hiragana": "ねんまつ",
+    "meaning": "Akhir tahun",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_297",
+    "chapter": "JFT A2",
+    "kanji": "年始",
+    "hiragana": "ねんし",
+    "meaning": "Awal tahun 8",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_298",
+    "chapter": "JFT A2",
+    "kanji": "親",
+    "hiragana": "おや",
+    "meaning": "Orang tua",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_299",
+    "chapter": "JFT A2",
+    "kanji": "忙しい",
+    "hiragana": "いそがしい",
+    "meaning": "Sibuk",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_300",
+    "chapter": "JFT A2",
+    "kanji": "特別",
+    "hiragana": "とくべつ",
+    "meaning": "Istimewa, special",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_301",
+    "chapter": "JFT A2",
+    "kanji": "帰国",
+    "hiragana": "きこく",
+    "meaning": "Pulang ke negara",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_302",
+    "chapter": "JFT A2",
+    "kanji": "喜びます",
+    "hiragana": "よろこびます",
+    "meaning": "Merasa senang/gembira",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_303",
+    "chapter": "JFT A2",
+    "kanji": "幸せ",
+    "hiragana": "しあわせ",
+    "meaning": "Bahagia",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_304",
+    "chapter": "JFT A2",
+    "kanji": "成長",
+    "hiragana": "せいちょう",
+    "meaning": "Pertumbuhan, perkembangan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_305",
+    "chapter": "JFT A2",
+    "kanji": "長生き",
+    "hiragana": "ながいき",
+    "meaning": "Umur panjang, hidup lama",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_306",
+    "chapter": "JFT A2",
+    "kanji": "願い事",
+    "hiragana": "ねがいこと",
+    "meaning": "Keinginan, kemauan, harapan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_307",
+    "chapter": "JFT A2",
+    "kanji": "合格",
+    "hiragana": "ごうかく",
+    "meaning": "Lulus",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_308",
+    "chapter": "JFT A2",
+    "kanji": "試験",
+    "hiragana": "しけん",
+    "meaning": "Ujian",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_309",
+    "chapter": "JFT A2",
+    "kanji": "大人",
+    "hiragana": "おとな",
+    "meaning": "Orang Dewasa",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_310",
+    "chapter": "JFT A2",
+    "kanji": "～式（成人式）",
+    "hiragana": "～しき（せいじんしき）",
+    "meaning": "Upacara ~(upacara kedewasaan)",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_311",
+    "chapter": "JFT A2",
+    "kanji": "～市（さいたま市）",
+    "hiragana": "～し（さいたまし）",
+    "meaning": "Kota~(kota saitama)",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_312",
+    "chapter": "JFT A2",
+    "kanji": "商品",
+    "hiragana": "しょうひん",
+    "meaning": "Barang dagangan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_313",
+    "chapter": "JFT A2",
+    "kanji": "電気製品",
+    "hiragana": "でんきせいひん",
+    "meaning": "Peralatan listrik",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_314",
+    "chapter": "JFT A2",
+    "kanji": "電子レンジ",
+    "hiragana": "でんしレンジ",
+    "meaning": "Oven",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_315",
+    "chapter": "JFT A2",
+    "kanji": "～機（そうじ機）",
+    "hiragana": "～き（そうじき）",
+    "meaning": "Mesin~(mesin penghisap debu)",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_316",
+    "chapter": "JFT A2",
+    "kanji": "店員",
+    "hiragana": "てんいん",
+    "meaning": "Penjaga toko",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_317",
+    "chapter": "JFT A2",
+    "kanji": "調子",
+    "hiragana": "ちょうし",
+    "meaning": "Keadaan, kondisi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_318",
+    "chapter": "JFT A2",
+    "kanji": "悪い",
+    "hiragana": "わるい",
+    "meaning": "Jelek",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_319",
+    "chapter": "JFT A2",
+    "kanji": "動きます",
+    "hiragana": "うごきます",
+    "meaning": "Bergerak",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_320",
+    "chapter": "JFT A2",
+    "kanji": "考えます",
+    "hiragana": "かんがえます",
+    "meaning": "Berfikir",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_321",
+    "chapter": "JFT A2",
+    "kanji": "音",
+    "hiragana": "おと",
+    "meaning": "Suara",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_322",
+    "chapter": "JFT A2",
+    "kanji": "出ます",
+    "hiragana": "でます",
+    "meaning": "Keluar",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_323",
+    "chapter": "JFT A2",
+    "kanji": "機能",
+    "hiragana": "きのう",
+    "meaning": "Fungsi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_324",
+    "chapter": "JFT A2",
+    "kanji": "省エネ",
+    "hiragana": "しょうエネ",
+    "meaning": "Penghematan energy",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_325",
+    "chapter": "JFT A2",
+    "kanji": "日本製",
+    "hiragana": "にほんせい",
+    "meaning": "Produk/buatan jepang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_326",
+    "chapter": "JFT A2",
+    "kanji": "重い",
+    "hiragana": "おもい",
+    "meaning": "Berat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_327",
+    "chapter": "JFT A2",
+    "kanji": "軽い",
+    "hiragana": "かるい",
+    "meaning": "Ringan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_328",
+    "chapter": "JFT A2",
+    "kanji": "静か",
+    "hiragana": "しずか",
+    "meaning": "Tenang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_329",
+    "chapter": "JFT A2",
+    "kanji": "早く",
+    "hiragana": "はやく",
+    "meaning": "Cepat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_330",
+    "chapter": "JFT A2",
+    "kanji": "方（こっちの方）",
+    "hiragana": "ほう（こっちのほう）",
+    "meaning": "Arah(arah disini)",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_331",
+    "chapter": "JFT A2",
+    "kanji": "洗います",
+    "hiragana": "あらいます",
+    "meaning": "Mencuci",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_332",
+    "chapter": "JFT A2",
+    "kanji": "満足します",
+    "hiragana": "まんぞくします",
+    "meaning": "Puas, merasa puas",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_333",
+    "chapter": "JFT A2",
+    "kanji": "京都",
+    "hiragana": "きょうと",
+    "meaning": "Kyoto",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_334",
+    "chapter": "JFT A2",
+    "kanji": "神社",
+    "hiragana": "じんじゃ",
+    "meaning": "Kuil sinto",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_335",
+    "chapter": "JFT A2",
+    "kanji": "お寺",
+    "hiragana": "おてら",
+    "meaning": "Kuil",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_336",
+    "chapter": "JFT A2",
+    "kanji": "仏教",
+    "hiragana": "ぶっきょう",
+    "meaning": "Agama budha",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_337",
+    "chapter": "JFT A2",
+    "kanji": "歴史",
+    "hiragana": "れきし",
+    "meaning": "Sejarah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_338",
+    "chapter": "JFT A2",
+    "kanji": "世界",
+    "hiragana": "せかい",
+    "meaning": "Dunia",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_339",
+    "chapter": "JFT A2",
+    "kanji": "中心",
+    "hiragana": "ちゅうしん",
+    "meaning": "Pusat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_340",
+    "chapter": "JFT A2",
+    "kanji": "～世紀（８世紀）",
+    "hiragana": "～せいき（はっせいき）",
+    "meaning": "Abad~ 9",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_341",
+    "chapter": "JFT A2",
+    "kanji": "～的",
+    "hiragana": "～てき",
+    "meaning": "Berbau~ / ke~ an",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_342",
+    "chapter": "JFT A2",
+    "kanji": "日本的",
+    "hiragana": "にほんてき",
+    "meaning": "Berbau jepang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_343",
+    "chapter": "JFT A2",
+    "kanji": "歴史的",
+    "hiragana": "れきしてき",
+    "meaning": "Bersejarah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_344",
+    "chapter": "JFT A2",
+    "kanji": "飲食",
+    "hiragana": "いんしょく",
+    "meaning": "Makan minum",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_345",
+    "chapter": "JFT A2",
+    "kanji": "禁止",
+    "hiragana": "きんし",
+    "meaning": "Larangan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_346",
+    "chapter": "JFT A2",
+    "kanji": "説明",
+    "hiragana": "せつめい",
+    "meaning": "Penjelasan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_347",
+    "chapter": "JFT A2",
+    "kanji": "道具",
+    "hiragana": "どうぐ",
+    "meaning": "Peralatan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_348",
+    "chapter": "JFT A2",
+    "kanji": "博物館",
+    "hiragana": "はくぶつかん",
+    "meaning": "Museum",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_349",
+    "chapter": "JFT A2",
+    "kanji": "必要",
+    "hiragana": "ひつよう",
+    "meaning": "Keperluan, kebutuhan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_350",
+    "chapter": "JFT A2",
+    "kanji": "～階（２階）",
+    "hiragana": "～かい（にかい）",
+    "meaning": "Lantai ~ ( lantai 2 )",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_351",
+    "chapter": "JFT A2",
+    "kanji": "油",
+    "hiragana": "あぶら",
+    "meaning": "Minyak , oli",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_352",
+    "chapter": "JFT A2",
+    "kanji": "紙",
+    "hiragana": "かみ",
+    "meaning": "Kertas",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_353",
+    "chapter": "JFT A2",
+    "kanji": "温度",
+    "hiragana": "おんど",
+    "meaning": "Suhu , derajat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_354",
+    "chapter": "JFT A2",
+    "kanji": "活動",
+    "hiragana": "かつどう",
+    "meaning": "Kegiatan , aktivitas",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_355",
+    "chapter": "JFT A2",
+    "kanji": "会議室",
+    "hiragana": "かいぎしつ",
+    "meaning": "Ruang rapat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_356",
+    "chapter": "JFT A2",
+    "kanji": "寒い",
+    "hiragana": "さむい",
+    "meaning": "Dingin ( suhu )",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_357",
+    "chapter": "JFT A2",
+    "kanji": "出します",
+    "hiragana": "だします",
+    "meaning": "Mengeluarkan , mengirim (surat )",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_358",
+    "chapter": "JFT A2",
+    "kanji": "～度（２８度）",
+    "hiragana": "～ど（にじゅうはちど）",
+    "meaning": "~derajat ( 28 derajat )",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_359",
+    "chapter": "JFT A2",
+    "kanji": "～点（１００点）",
+    "hiragana": "～てん（１００てん）",
+    "meaning": "Nilai ~ ( nilai 100 )",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_360",
+    "chapter": "JFT A2",
+    "kanji": "服",
+    "hiragana": "ふく",
+    "meaning": "Baju , pakaian",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_361",
+    "chapter": "JFT A2",
+    "kanji": "自転車",
+    "hiragana": "じてんしゃ",
+    "meaning": "Sepeda",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_362",
+    "chapter": "JFT A2",
+    "kanji": "自動車",
+    "hiragana": "じどうしゃ",
+    "meaning": "Mobil",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_363",
+    "chapter": "JFT A2",
+    "kanji": "売ります",
+    "hiragana": "うります",
+    "meaning": "Menjual",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_364",
+    "chapter": "JFT A2",
+    "kanji": "貸します",
+    "hiragana": "かします",
+    "meaning": "Meminjamkan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_365",
+    "chapter": "JFT A2",
+    "kanji": "返します",
+    "hiragana": "かえします",
+    "meaning": "Mengembalikan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_366",
+    "chapter": "JFT A2",
+    "kanji": "変わります",
+    "hiragana": "かわります",
+    "meaning": "Mengganti",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_367",
+    "chapter": "JFT A2",
+    "kanji": "～用",
+    "hiragana": "～よう",
+    "meaning": "Urusan , keperluan ~",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_368",
+    "chapter": "JFT A2",
+    "kanji": "子供用",
+    "hiragana": "こどもよう",
+    "meaning": "Urusan anak",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_369",
+    "chapter": "JFT A2",
+    "kanji": "人生",
+    "hiragana": "じんせい",
+    "meaning": "Kehidupan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_370",
+    "chapter": "JFT A2",
+    "kanji": "歌手",
+    "hiragana": "かしゅ",
+    "meaning": "Penyanyi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_371",
+    "chapter": "JFT A2",
+    "kanji": "選手",
+    "hiragana": "せんしゅ",
+    "meaning": "Atlit, pemain",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_372",
+    "chapter": "JFT A2",
+    "kanji": "画家",
+    "hiragana": "がか",
+    "meaning": "Pelukis",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_373",
+    "chapter": "JFT A2",
+    "kanji": "作家",
+    "hiragana": "さっか",
+    "meaning": "Pengarang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_374",
+    "chapter": "JFT A2",
+    "kanji": "入学",
+    "hiragana": "にゅうがく",
+    "meaning": "Masuk sekolah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_375",
+    "chapter": "JFT A2",
+    "kanji": "卒業",
+    "hiragana": "そつぎょう",
+    "meaning": "Lulus",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_376",
+    "chapter": "JFT A2",
+    "kanji": "病気",
+    "hiragana": "びょうき",
+    "meaning": "Sakit",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_377",
+    "chapter": "JFT A2",
+    "kanji": "若い",
+    "hiragana": "わかい",
+    "meaning": "Muda",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_378",
+    "chapter": "JFT A2",
+    "kanji": "生まれます",
+    "hiragana": "うまれます",
+    "meaning": "Lahir",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_379",
+    "chapter": "JFT A2",
+    "kanji": "思い出",
+    "hiragana": "おもいで",
+    "meaning": "Kenang-kenangan, kenangan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_380",
+    "chapter": "JFT A2",
+    "kanji": "生活",
+    "hiragana": "せいかつ",
+    "meaning": "Kehidupan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_381",
+    "chapter": "JFT A2",
+    "kanji": "映画",
+    "hiragana": "えいが",
+    "meaning": "Film",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_382",
+    "chapter": "JFT A2",
+    "kanji": "夫",
+    "hiragana": "おっと",
+    "meaning": "Suami ( sendiri )",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_383",
+    "chapter": "JFT A2",
+    "kanji": "妻",
+    "hiragana": "つま",
+    "meaning": "Istri ( sendiri ) 10",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_384",
+    "chapter": "JFT A2",
+    "kanji": "両親",
+    "hiragana": "りょうしん",
+    "meaning": "Orang tua",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_385",
+    "chapter": "JFT A2",
+    "kanji": "不便",
+    "hiragana": "ふべん",
+    "meaning": "Tidak praktis",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_386",
+    "chapter": "JFT A2",
+    "kanji": "選びます",
+    "hiragana": "えらびます",
+    "meaning": "Memilih",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_387",
+    "chapter": "JFT A2",
+    "kanji": "寝ます",
+    "hiragana": "ねます",
+    "meaning": "Tidur",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_388",
+    "chapter": "JFT A2",
+    "kanji": "サッカー場",
+    "hiragana": "サッカーじょう",
+    "meaning": "Lapangan sepak bola",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_389",
+    "chapter": "JFT A2",
+    "kanji": "試合",
+    "hiragana": "しあい",
+    "meaning": "Pertandingan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_390",
+    "chapter": "JFT A2",
+    "kanji": "日曜日",
+    "hiragana": "にちようび",
+    "meaning": "Minggu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_391",
+    "chapter": "JFT A2",
+    "kanji": "強い",
+    "hiragana": "つよい",
+    "meaning": "Kuat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_392",
+    "chapter": "JFT A2",
+    "kanji": "弱い",
+    "hiragana": "よわい",
+    "meaning": "Lemah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_393",
+    "chapter": "JFT A2",
+    "kanji": "勝ちます",
+    "hiragana": "かちます",
+    "meaning": "Menang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_394",
+    "chapter": "JFT A2",
+    "kanji": "負けます",
+    "hiragana": "まけます",
+    "meaning": "Kalah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_395",
+    "chapter": "JFT A2",
+    "kanji": "～対～（２対１）",
+    "hiragana": "～たい～（にたいいち）",
+    "meaning": "~lawan~ ( 2 lawan 1 )",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_396",
+    "chapter": "JFT A2",
+    "kanji": "庭",
+    "hiragana": "にわ",
+    "meaning": "Halaman",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_397",
+    "chapter": "JFT A2",
+    "kanji": "公園",
+    "hiragana": "こうえん",
+    "meaning": "Taman",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_398",
+    "chapter": "JFT A2",
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "meaning": "Rumah sakit",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_399",
+    "chapter": "JFT A2",
+    "kanji": "交通",
+    "hiragana": "こうつう",
+    "meaning": "Lalu lintas",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_400",
+    "chapter": "JFT A2",
+    "kanji": "通勤",
+    "hiragana": "つうきん",
+    "meaning": "Perjalanan ke kantor",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_401",
+    "chapter": "JFT A2",
+    "kanji": "安全",
+    "hiragana": "あんぜん",
+    "meaning": "Keselamatan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_402",
+    "chapter": "JFT A2",
+    "kanji": "危ない",
+    "hiragana": "あぶない",
+    "meaning": "Bahaya",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_403",
+    "chapter": "JFT A2",
+    "kanji": "遠い",
+    "hiragana": "とおい",
+    "meaning": "Jauh",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_404",
+    "chapter": "JFT A2",
+    "kanji": "努めます",
+    "hiragana": "つとめます",
+    "meaning": "Bekerja",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_405",
+    "chapter": "JFT A2",
+    "kanji": "～以上（２時間以上）",
+    "hiragana": "～いじょう（にじかんいじょう）",
+    "meaning": "~ lebih ( 2 jam lebih )",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_406",
+    "chapter": "JFT A2",
+    "kanji": "～以下（６万円以下）",
+    "hiragana": "～いか（ろくまんえんいか）",
+    "meaning": "~kurang ( kurang dari 6 man yen )",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_407",
+    "chapter": "JFT A2",
+    "kanji": "海外",
+    "hiragana": "かいがい",
+    "meaning": "Luar negri",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_408",
+    "chapter": "JFT A2",
+    "kanji": "食生活",
+    "hiragana": "しょくせいかつ",
+    "meaning": "Susunan makanan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_409",
+    "chapter": "JFT A2",
+    "kanji": "健康",
+    "hiragana": "けんこう",
+    "meaning": "Kesehatan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_410",
+    "chapter": "JFT A2",
+    "kanji": "家庭料理",
+    "hiragana": "かていりょうり",
+    "meaning": "Masakan rumah tangga",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_411",
+    "chapter": "JFT A2",
+    "kanji": "材料",
+    "hiragana": "ざいりょう",
+    "meaning": "Bahan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_412",
+    "chapter": "JFT A2",
+    "kanji": "量",
+    "hiragana": "りょう",
+    "meaning": "Jumlah, kuantitas, banyaknya",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_413",
+    "chapter": "JFT A2",
+    "kanji": "米",
+    "hiragana": "こめ",
+    "meaning": "Beras",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_414",
+    "chapter": "JFT A2",
+    "kanji": "～食",
+    "hiragana": "～しょく",
+    "meaning": "Makan ~",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_415",
+    "chapter": "JFT A2",
+    "kanji": "朝食",
+    "hiragana": "ちょうしょく",
+    "meaning": "Makan pagi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_416",
+    "chapter": "JFT A2",
+    "kanji": "昼食",
+    "hiragana": "ちゅうしょく",
+    "meaning": "Makan siang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_417",
+    "chapter": "JFT A2",
+    "kanji": "夕食",
+    "hiragana": "ゆうしょく",
+    "meaning": "Makan malam",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_418",
+    "chapter": "JFT A2",
+    "kanji": "外食",
+    "hiragana": "がいしょく",
+    "meaning": "Makan di luar",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_419",
+    "chapter": "JFT A2",
+    "kanji": "定食",
+    "hiragana": "ていしょく",
+    "meaning": "Makanan dengan menu tetap",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_420",
+    "chapter": "JFT A2",
+    "kanji": "住所",
+    "hiragana": "じゅうしょ",
+    "meaning": "Alamat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_421",
+    "chapter": "JFT A2",
+    "kanji": "訪問",
+    "hiragana": "ほうもん",
+    "meaning": "Kunjungan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_422",
+    "chapter": "JFT A2",
+    "kanji": "経験",
+    "hiragana": "けいけん",
+    "meaning": "Pengalaman",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_423",
+    "chapter": "JFT A2",
+    "kanji": "親切",
+    "hiragana": "しんせつ",
+    "meaning": "Ramah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_424",
+    "chapter": "JFT A2",
+    "kanji": "座ります",
+    "hiragana": "すわります",
+    "meaning": "Duduk",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_425",
+    "chapter": "JFT A2",
+    "kanji": "立ちます",
+    "hiragana": "たちます",
+    "meaning": "Berdiri",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_426",
+    "chapter": "JFT A2",
+    "kanji": "～観（人生観）",
+    "hiragana": "～かん（じんせいかん）",
+    "meaning": "Pandangan ~ ( pandangan hidup ) 11",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_427",
+    "chapter": "JFT A2",
+    "kanji": "約～（約６年間）",
+    "hiragana": "やく～（やくろくねんかん）",
+    "meaning": "Kira2, sekitar ( sekitar 6 tahun )",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_428",
+    "chapter": "JFT A2",
+    "kanji": "計画",
+    "hiragana": "けいかく",
+    "meaning": "Rencana , program",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_429",
+    "chapter": "JFT A2",
+    "kanji": "自信",
+    "hiragana": "じしん",
+    "meaning": "Percaya diri",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_430",
+    "chapter": "JFT A2",
+    "kanji": "方法",
+    "hiragana": "ほうほう",
+    "meaning": "Cara",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_431",
+    "chapter": "JFT A2",
+    "kanji": "目的",
+    "hiragana": "もくてき",
+    "meaning": "Tujuan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_432",
+    "chapter": "JFT A2",
+    "kanji": "難しい",
+    "hiragana": "むずかしい",
+    "meaning": "Sulit",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_433",
+    "chapter": "JFT A2",
+    "kanji": "通じます",
+    "hiragana": "つうじます",
+    "meaning": "Mengalirkan,menguasai,berhubungan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_434",
+    "chapter": "JFT A2",
+    "kanji": "習います",
+    "hiragana": "ならいます",
+    "meaning": "Belajar kepada",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_435",
+    "chapter": "JFT A2",
+    "kanji": "学びます",
+    "hiragana": "まなびます",
+    "meaning": "Belajar",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_436",
+    "chapter": "JFT A2",
+    "kanji": "～級",
+    "hiragana": "～きゅう",
+    "meaning": "Kelas ,tingkat ~",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_437",
+    "chapter": "JFT A2",
+    "kanji": "初級",
+    "hiragana": "しょきゅう",
+    "meaning": "Kelas dasar",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_438",
+    "chapter": "JFT A2",
+    "kanji": "中級",
+    "hiragana": "ちゅうきゅう",
+    "meaning": "Kelas menengah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_439",
+    "chapter": "JFT A2",
+    "kanji": "上級",
+    "hiragana": "じょうきゅう",
+    "meaning": "Kelas atas",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_440",
+    "chapter": "JFT A2",
+    "kanji": "相手",
+    "hiragana": "あいて",
+    "meaning": "Pasangan, lawan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_441",
+    "chapter": "JFT A2",
+    "kanji": "気持ち",
+    "hiragana": "きもち",
+    "meaning": "Perasaan enak",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_442",
+    "chapter": "JFT A2",
+    "kanji": "恋人",
+    "hiragana": "こいびと",
+    "meaning": "Pacar",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_443",
+    "chapter": "JFT A2",
+    "kanji": "出会い",
+    "hiragana": "であい",
+    "meaning": "Pertemuan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_444",
+    "chapter": "JFT A2",
+    "kanji": "最近",
+    "hiragana": "さいきん",
+    "meaning": "Akhir-akhir ini",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_445",
+    "chapter": "JFT A2",
+    "kanji": "最高",
+    "hiragana": "さいこう",
+    "meaning": "Teratas, tertinggi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_446",
+    "chapter": "JFT A2",
+    "kanji": "出席",
+    "hiragana": "しゅっせき",
+    "meaning": "Kehadiran",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_447",
+    "chapter": "JFT A2",
+    "kanji": "招待",
+    "hiragana": "しょうたい",
+    "meaning": "Undangan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_448",
+    "chapter": "JFT A2",
+    "kanji": "～合う（知り合う）",
+    "hiragana": "～あう（しりあう）",
+    "meaning": "Cocok ~ ( kenal mengenal )",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_449",
+    "chapter": "JFT A2",
+    "kanji": "社会人",
+    "hiragana": "しゃかいじん",
+    "meaning": "Anggota masyarakat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_450",
+    "chapter": "JFT A2",
+    "kanji": "職場",
+    "hiragana": "しょくば",
+    "meaning": "Tempat kerja",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_451",
+    "chapter": "JFT A2",
+    "kanji": "給料",
+    "hiragana": "きゅうりょう",
+    "meaning": "Gaji",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_452",
+    "chapter": "JFT A2",
+    "kanji": "人間関係",
+    "hiragana": "にんげんかんけい",
+    "meaning": "Hubungan antar manusia",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_453",
+    "chapter": "JFT A2",
+    "kanji": "親友",
+    "hiragana": "しんゆう",
+    "meaning": "Teman karib",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_454",
+    "chapter": "JFT A2",
+    "kanji": "恋愛",
+    "hiragana": "れんあい",
+    "meaning": "Percintaan , asmara",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_455",
+    "chapter": "JFT A2",
+    "kanji": "相談",
+    "hiragana": "そうだん",
+    "meaning": "Musyawarah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_456",
+    "chapter": "JFT A2",
+    "kanji": "心",
+    "hiragana": "こころ",
+    "meaning": "Hati",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_457",
+    "chapter": "JFT A2",
+    "kanji": "心配",
+    "hiragana": "しんぱい",
+    "meaning": "Khawatir",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_458",
+    "chapter": "JFT A2",
+    "kanji": "不安",
+    "hiragana": "ふあん",
+    "meaning": "Kegelisahan, kekhawatiran",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_459",
+    "chapter": "JFT A2",
+    "kanji": "お客様",
+    "hiragana": "おきゃくさま",
+    "meaning": "Tamu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_460",
+    "chapter": "JFT A2",
+    "kanji": "手続き",
+    "hiragana": "てつづき",
+    "meaning": "Prosedur",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_461",
+    "chapter": "JFT A2",
+    "kanji": "飛行機",
+    "hiragana": "ひこうき",
+    "meaning": "Pesawat terbang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_462",
+    "chapter": "JFT A2",
+    "kanji": "変更",
+    "hiragana": "へんこう",
+    "meaning": "Perubahan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_463",
+    "chapter": "JFT A2",
+    "kanji": "予定",
+    "hiragana": "よてい",
+    "meaning": "Rencana",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_464",
+    "chapter": "JFT A2",
+    "kanji": "利用",
+    "hiragana": "りよう",
+    "meaning": "Penggunaan, pemakaian",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_465",
+    "chapter": "JFT A2",
+    "kanji": "忘れ物",
+    "hiragana": "わすれもの",
+    "meaning": "Benda yang tertinggal",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_466",
+    "chapter": "JFT A2",
+    "kanji": "助けます",
+    "hiragana": "たすけます",
+    "meaning": "Menolong",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_467",
+    "chapter": "JFT A2",
+    "kanji": "～航空（ＪＦ航空）",
+    "hiragana": "～こうくう（ＪＦこうくう）",
+    "meaning": "Penerbangan ~ ( penerbangan JF )",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_468",
+    "chapter": "JFT A2",
+    "kanji": "～便（１１５便）",
+    "hiragana": "～びん（いちいちごびん）",
+    "meaning": "Penerbangan , pos ( pos 115 )",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_469",
+    "chapter": "JFT A2",
+    "kanji": "体力",
+    "hiragana": "たいりょく",
+    "meaning": "Kekuatan 12",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_470",
+    "chapter": "JFT A2",
+    "kanji": "協力",
+    "hiragana": "きょうりょく",
+    "meaning": "Kerjasama",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_471",
+    "chapter": "JFT A2",
+    "kanji": "担当",
+    "hiragana": "たんとう",
+    "meaning": "Petugas",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_472",
+    "chapter": "JFT A2",
+    "kanji": "報告",
+    "hiragana": "ほうこく",
+    "meaning": "Melapor",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_473",
+    "chapter": "JFT A2",
+    "kanji": "連絡",
+    "hiragana": "れんらく",
+    "meaning": "Menghubungi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_474",
+    "chapter": "JFT A2",
+    "kanji": "募集",
+    "hiragana": "ぼしゅう",
+    "meaning": "Penerimaan, perekrutan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_475",
+    "chapter": "JFT A2",
+    "kanji": "輸出",
+    "hiragana": "ゆしゅつ",
+    "meaning": "Ekspor",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_476",
+    "chapter": "JFT A2",
+    "kanji": "輸入",
+    "hiragana": "ゆにゅう",
+    "meaning": "Impor",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_477",
+    "chapter": "JFT A2",
+    "kanji": "会話",
+    "hiragana": "かいわ",
+    "meaning": "Percakapan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_478",
+    "chapter": "JFT A2",
+    "kanji": "形",
+    "hiragana": "かたち",
+    "meaning": "Bentuk",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_479",
+    "chapter": "JFT A2",
+    "kanji": "漢字",
+    "hiragana": "かんじ",
+    "meaning": "Kanji",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_480",
+    "chapter": "JFT A2",
+    "kanji": "答え",
+    "hiragana": "こたえ",
+    "meaning": "Jawaban",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_481",
+    "chapter": "JFT A2",
+    "kanji": "質問",
+    "hiragana": "しつもん",
+    "meaning": "Pertanyaan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_482",
+    "chapter": "JFT A2",
+    "kanji": "正しい",
+    "hiragana": "ただしい",
+    "meaning": "Benar",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_483",
+    "chapter": "JFT A2",
+    "kanji": "読解",
+    "hiragana": "どっかい",
+    "meaning": "Bacaan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_484",
+    "chapter": "JFT A2",
+    "kanji": "表現",
+    "hiragana": "ひょうげん",
+    "meaning": "Pengucapan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_485",
+    "chapter": "JFT A2",
+    "kanji": "文",
+    "hiragana": "ぶん",
+    "meaning": "Kalimat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_486",
+    "chapter": "JFT A2",
+    "kanji": "文型",
+    "hiragana": "ぶんけい",
+    "meaning": "Pola kalimat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_487",
+    "chapter": "JFT A2",
+    "kanji": "文法",
+    "hiragana": "ぶんぽう",
+    "meaning": "Tata Bahasa",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_488",
+    "chapter": "JFT A2",
+    "kanji": "もう一度",
+    "hiragana": "もういちど",
+    "meaning": "Sekali lagi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_489",
+    "chapter": "JFT A2",
+    "kanji": "例",
+    "hiragana": "れい",
+    "meaning": "Contoh",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_490",
+    "chapter": "JFT A2",
+    "kanji": "練習",
+    "hiragana": "れんしゅう",
+    "meaning": "latihan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_491",
+    "chapter": "JFT A2",
+    "kanji": "～枚",
+    "hiragana": "～まい",
+    "meaning": "～lembar",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_492",
+    "chapter": "JFT A2",
+    "kanji": "今週",
+    "hiragana": "こんしゅう",
+    "meaning": "Minggu ini",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_493",
+    "chapter": "JFT A2",
+    "kanji": "今度",
+    "hiragana": "こんど",
+    "meaning": "Lain kali, yang akan datang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_494",
+    "chapter": "JFT A2",
+    "kanji": "横",
+    "hiragana": "よこ",
+    "meaning": "Sebelah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_495",
+    "chapter": "JFT A2",
+    "kanji": "押します",
+    "hiragana": "おします",
+    "meaning": "Menekan, mendorong",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_496",
+    "chapter": "JFT A2",
+    "kanji": "引きます",
+    "hiragana": "ひきます",
+    "meaning": "Menarik",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_497",
+    "chapter": "JFT A2",
+    "kanji": "温泉",
+    "hiragana": "おんせん",
+    "meaning": "Pemandian air panas",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_498",
+    "chapter": "JFT A2",
+    "kanji": "来週",
+    "hiragana": "らいしゅう",
+    "meaning": "Minggu depan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_499",
+    "chapter": "JFT A2",
+    "kanji": "犬",
+    "hiragana": "いぬ",
+    "meaning": "Anjing",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_500",
+    "chapter": "JFT A2",
+    "kanji": "夕方",
+    "hiragana": "ゆうがた",
+    "meaning": "Sore",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_501",
+    "chapter": "JFT A2",
+    "kanji": "季節",
+    "hiragana": "きせつ",
+    "meaning": "Musim",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_502",
+    "chapter": "JFT A2",
+    "kanji": "昨日",
+    "hiragana": "きのう",
+    "meaning": "Kemarin",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_503",
+    "chapter": "JFT A2",
+    "kanji": "明日",
+    "hiragana": "あした",
+    "meaning": "Besok",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_504",
+    "chapter": "JFT A2",
+    "kanji": "食堂",
+    "hiragana": "しょくどう",
+    "meaning": "Kantin",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_505",
+    "chapter": "JFT A2",
+    "kanji": "銀行",
+    "hiragana": "ぎんこう",
+    "meaning": "Bank",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_506",
+    "chapter": "JFT A2",
+    "kanji": "受付",
+    "hiragana": "うけつけ",
+    "meaning": "Resepsionis",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_507",
+    "chapter": "JFT A2",
+    "kanji": "門",
+    "hiragana": "もん",
+    "meaning": "Pintu gerbang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_508",
+    "chapter": "JFT A2",
+    "kanji": "登ります",
+    "hiragana": "のぼります",
+    "meaning": "Mendaki",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_509",
+    "chapter": "JFT A2",
+    "kanji": "教科書",
+    "hiragana": "きょうかしょ",
+    "meaning": "Buku panduan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_510",
+    "chapter": "JFT A2",
+    "kanji": "教室",
+    "hiragana": "きょうしつ",
+    "meaning": "Ruang kelas",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_511",
+    "chapter": "JFT A2",
+    "kanji": "参加します",
+    "hiragana": "さんかします",
+    "meaning": "Berpartisipasi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_512",
+    "chapter": "JFT A2",
+    "kanji": "用意します",
+    "hiragana": "よういします",
+    "meaning": "Menyiapkan 13",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_513",
+    "chapter": "JFT A2",
+    "kanji": "牛肉",
+    "hiragana": "ぎゅうにく",
+    "meaning": "Daging sapi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_514",
+    "chapter": "JFT A2",
+    "kanji": "豚肉",
+    "hiragana": "ぶたにく",
+    "meaning": "Daging babi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_515",
+    "chapter": "JFT A2",
+    "kanji": "皿",
+    "hiragana": "さら",
+    "meaning": "Piring",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_516",
+    "chapter": "JFT A2",
+    "kanji": "お湯",
+    "hiragana": "おゆ",
+    "meaning": "Air panas",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_517",
+    "chapter": "JFT A2",
+    "kanji": "調理方法",
+    "hiragana": "ちょうりほうほう",
+    "meaning": "Cara memasak",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_518",
+    "chapter": "JFT A2",
+    "kanji": "甘い",
+    "hiragana": "あまい",
+    "meaning": "Manis",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_519",
+    "chapter": "JFT A2",
+    "kanji": "辛い",
+    "hiragana": "からい",
+    "meaning": "Pedas",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_520",
+    "chapter": "JFT A2",
+    "kanji": "数字",
+    "hiragana": "すうじ",
+    "meaning": "Angka, bilangan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_521",
+    "chapter": "JFT A2",
+    "kanji": "机",
+    "hiragana": "つくえ",
+    "meaning": "Meja",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_522",
+    "chapter": "JFT A2",
+    "kanji": "都合",
+    "hiragana": "つごう",
+    "meaning": "Keadaan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_523",
+    "chapter": "JFT A2",
+    "kanji": "用事",
+    "hiragana": "ようじ",
+    "meaning": "Keperluan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_524",
+    "chapter": "JFT A2",
+    "kanji": "氏名",
+    "hiragana": "しめい",
+    "meaning": "Nama lengkap",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_525",
+    "chapter": "JFT A2",
+    "kanji": "理由",
+    "hiragana": "りゆう",
+    "meaning": "Alasan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_526",
+    "chapter": "JFT A2",
+    "kanji": "別に",
+    "hiragana": "べつに",
+    "meaning": "Beda -beda",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_527",
+    "chapter": "JFT A2",
+    "kanji": "連絡先",
+    "hiragana": "れんらくさき",
+    "meaning": "Alamat yang dapat dihubungi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_528",
+    "chapter": "JFT A2",
+    "kanji": "吸います",
+    "hiragana": "すいます",
+    "meaning": "Menghisap",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_529",
+    "chapter": "JFT A2",
+    "kanji": "取ります",
+    "hiragana": "とります",
+    "meaning": "Mengambil",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_530",
+    "chapter": "JFT A2",
+    "kanji": "伝えます",
+    "hiragana": "つたえます",
+    "meaning": "Menyampaikan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_531",
+    "chapter": "JFT A2",
+    "kanji": "熱",
+    "hiragana": "ねつ",
+    "meaning": "Demam",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_532",
+    "chapter": "JFT A2",
+    "kanji": "薬",
+    "hiragana": "くすり",
+    "meaning": "Obat",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_533",
+    "chapter": "JFT A2",
+    "kanji": "医者",
+    "hiragana": "いしゃ",
+    "meaning": "Dokter",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_534",
+    "chapter": "JFT A2",
+    "kanji": "～才",
+    "hiragana": "～さい",
+    "meaning": "Bakat ～ ／ umur ～",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_535",
+    "chapter": "JFT A2",
+    "kanji": "眠い",
+    "hiragana": "ねむい",
+    "meaning": "Ngantuk",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_536",
+    "chapter": "JFT A2",
+    "kanji": "記入します",
+    "hiragana": "きにゅうします",
+    "meaning": "Mengisi di kertas",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_537",
+    "chapter": "JFT A2",
+    "kanji": "顔",
+    "hiragana": "かお",
+    "meaning": "Wajah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_538",
+    "chapter": "JFT A2",
+    "kanji": "泣きます",
+    "hiragana": "なきます",
+    "meaning": "Menangis",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_539",
+    "chapter": "JFT A2",
+    "kanji": "会計",
+    "hiragana": "かいけい",
+    "meaning": "Pembayaran",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_540",
+    "chapter": "JFT A2",
+    "kanji": "電話番号",
+    "hiragana": "でんわばんごう",
+    "meaning": "Nomor telepon",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_541",
+    "chapter": "JFT A2",
+    "kanji": "牛乳",
+    "hiragana": "ぎゅうにゅう",
+    "meaning": "Susu sapi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_542",
+    "chapter": "JFT A2",
+    "kanji": "禁煙",
+    "hiragana": "きんえん",
+    "meaning": "Larangan merokok",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_543",
+    "chapter": "JFT A2",
+    "kanji": "自由",
+    "hiragana": "じゆう",
+    "meaning": "Bebas",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_544",
+    "chapter": "JFT A2",
+    "kanji": "切ります",
+    "hiragana": "きります",
+    "meaning": "Memotong",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_545",
+    "chapter": "JFT A2",
+    "kanji": "焼きます",
+    "hiragana": "やきます",
+    "meaning": "Memanggang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_546",
+    "chapter": "JFT A2",
+    "kanji": "旅館",
+    "hiragana": "りょかん",
+    "meaning": "Penginapan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_547",
+    "chapter": "JFT A2",
+    "kanji": "遊びます",
+    "hiragana": "あそびます",
+    "meaning": "Bermain",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_548",
+    "chapter": "JFT A2",
+    "kanji": "調べます",
+    "hiragana": "しらべます",
+    "meaning": "Memeriksa",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_549",
+    "chapter": "JFT A2",
+    "kanji": "事故",
+    "hiragana": "じこ",
+    "meaning": "Kecelakaan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_550",
+    "chapter": "JFT A2",
+    "kanji": "故障",
+    "hiragana": "こしょう",
+    "meaning": "Kerusakan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_551",
+    "chapter": "JFT A2",
+    "kanji": "指定席",
+    "hiragana": "していせき",
+    "meaning": "Tempat duduk yang ditetapkan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_552",
+    "chapter": "JFT A2",
+    "kanji": "光ります",
+    "hiragana": "ひかります",
+    "meaning": "Bercahaya , bersinar",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_553",
+    "chapter": "JFT A2",
+    "kanji": "お知らせ",
+    "hiragana": "おしらせ",
+    "meaning": "Pengumuman",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_554",
+    "chapter": "JFT A2",
+    "kanji": "水道",
+    "hiragana": "すいどう",
+    "meaning": "Ledeng",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_555",
+    "chapter": "JFT A2",
+    "kanji": "工事",
+    "hiragana": "こうじ",
+    "meaning": "Konstruksi 14",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_556",
+    "chapter": "JFT A2",
+    "kanji": "場合",
+    "hiragana": "ばあい",
+    "meaning": "Kesempatan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_557",
+    "chapter": "JFT A2",
+    "kanji": "条件",
+    "hiragana": "じょうけん",
+    "meaning": "Syarat -syarat, kondisi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_558",
+    "chapter": "JFT A2",
+    "kanji": "開きます",
+    "hiragana": "ひらきます",
+    "meaning": "Membuka",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_559",
+    "chapter": "JFT A2",
+    "kanji": "生産します",
+    "hiragana": "せいさんします",
+    "meaning": "Memproduksi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_560",
+    "chapter": "JFT A2",
+    "kanji": "体験",
+    "hiragana": "たいけん",
+    "meaning": "Percobaan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_561",
+    "chapter": "JFT A2",
+    "kanji": "国際交流",
+    "hiragana": "こくさいこうりゅう",
+    "meaning": "Pertukaran budaya internasional",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_562",
+    "chapter": "JFT A2",
+    "kanji": "申し込みます",
+    "hiragana": "もうしこみます",
+    "meaning": "Melamar (pekerjaan)",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_563",
+    "chapter": "JFT A2",
+    "kanji": "昨年",
+    "hiragana": "さくねん",
+    "meaning": "Tahun lalu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_564",
+    "chapter": "JFT A2",
+    "kanji": "毎年",
+    "hiragana": "まいとし",
+    "meaning": "Setiap tahun",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_565",
+    "chapter": "JFT A2",
+    "kanji": "袋",
+    "hiragana": "ふくろ",
+    "meaning": "Kantong plastik",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_566",
+    "chapter": "JFT A2",
+    "kanji": "店長",
+    "hiragana": "てんちょう",
+    "meaning": "Manajer toko",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_567",
+    "chapter": "JFT A2",
+    "kanji": "全員",
+    "hiragana": "ぜんいん",
+    "meaning": "Semuanya",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_568",
+    "chapter": "JFT A2",
+    "kanji": "習慣",
+    "hiragana": "しゅうかん",
+    "meaning": "Kebiasaan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_569",
+    "chapter": "JFT A2",
+    "kanji": "普通",
+    "hiragana": "ふつう",
+    "meaning": "Biasa",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_570",
+    "chapter": "JFT A2",
+    "kanji": "暗い",
+    "hiragana": "くらい",
+    "meaning": "Gelap",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_571",
+    "chapter": "JFT A2",
+    "kanji": "怒ります",
+    "hiragana": "おこります",
+    "meaning": "Marah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_572",
+    "chapter": "JFT A2",
+    "kanji": "入院します",
+    "hiragana": "にゅういんします",
+    "meaning": "Masuk rumah sakit",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_573",
+    "chapter": "JFT A2",
+    "kanji": "退院します",
+    "hiragana": "たいいんします",
+    "meaning": "Keluar rumah sakit",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_574",
+    "chapter": "JFT A2",
+    "kanji": "急に",
+    "hiragana": "きゅうに",
+    "meaning": "Tiba -tiba",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_575",
+    "chapter": "JFT A2",
+    "kanji": "営業します",
+    "hiragana": "えいぎょうします",
+    "meaning": "Mengusahakan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_576",
+    "chapter": "JFT A2",
+    "kanji": "案内します",
+    "hiragana": "あんないします",
+    "meaning": "Memandu",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_577",
+    "chapter": "JFT A2",
+    "kanji": "値段",
+    "hiragana": "ねだん",
+    "meaning": "Harga",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_578",
+    "chapter": "JFT A2",
+    "kanji": "価格",
+    "hiragana": "かかく",
+    "meaning": "Harga",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_579",
+    "chapter": "JFT A2",
+    "kanji": "消費税",
+    "hiragana": "しょうひぜい",
+    "meaning": "Pajak konsumen",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_580",
+    "chapter": "JFT A2",
+    "kanji": "税別",
+    "hiragana": "ぜいべつ",
+    "meaning": "Harga belum termasuk pajak",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_581",
+    "chapter": "JFT A2",
+    "kanji": "図書館",
+    "hiragana": "としょかん",
+    "meaning": "Perpustakaan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_582",
+    "chapter": "JFT A2",
+    "kanji": "開きます",
+    "hiragana": "あきます",
+    "meaning": "Terbuka",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_583",
+    "chapter": "JFT A2",
+    "kanji": "閉まります",
+    "hiragana": "しまります",
+    "meaning": "Tertutup",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_584",
+    "chapter": "JFT A2",
+    "kanji": "利用します",
+    "hiragana": "りようします",
+    "meaning": "Menggunakan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_585",
+    "chapter": "JFT A2",
+    "kanji": "窓口",
+    "hiragana": "まどぐち",
+    "meaning": "Pintu jendela",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_586",
+    "chapter": "JFT A2",
+    "kanji": "郵便局",
+    "hiragana": "ゆうびんきょく",
+    "meaning": "Kantor pos",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_587",
+    "chapter": "JFT A2",
+    "kanji": "近所",
+    "hiragana": "きんじょ",
+    "meaning": "Tetangga",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_588",
+    "chapter": "JFT A2",
+    "kanji": "自動",
+    "hiragana": "じどう",
+    "meaning": "Otomatis",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_589",
+    "chapter": "JFT A2",
+    "kanji": "危険",
+    "hiragana": "きけん",
+    "meaning": "Bahaya",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_590",
+    "chapter": "JFT A2",
+    "kanji": "～種類",
+    "hiragana": "～しゅるい",
+    "meaning": "～macam, jenis",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_591",
+    "chapter": "JFT A2",
+    "kanji": "消します",
+    "hiragana": "けします",
+    "meaning": "Memadamkan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_592",
+    "chapter": "JFT A2",
+    "kanji": "捨てます",
+    "hiragana": "すてます",
+    "meaning": "Membuang",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_593",
+    "chapter": "JFT A2",
+    "kanji": "分けます",
+    "hiragana": "わけます",
+    "meaning": "Membagi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_594",
+    "chapter": "JFT A2",
+    "kanji": "燃えます",
+    "hiragana": "もえます",
+    "meaning": "Terbakar",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_595",
+    "chapter": "JFT A2",
+    "kanji": "設定します",
+    "hiragana": "せっていします",
+    "meaning": "Mengeset,menyeting",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_596",
+    "chapter": "JFT A2",
+    "kanji": "地震",
+    "hiragana": "じしん",
+    "meaning": "Gempa",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_597",
+    "chapter": "JFT A2",
+    "kanji": "台風",
+    "hiragana": "たいふう",
+    "meaning": "Angin topan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_598",
+    "chapter": "JFT A2",
+    "kanji": "声",
+    "hiragana": "こえ",
+    "meaning": "Suara (benda hidup) 15",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_599",
+    "chapter": "JFT A2",
+    "kanji": "大切な",
+    "hiragana": "たいせつな",
+    "meaning": "Penting",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_600",
+    "chapter": "JFT A2",
+    "kanji": "進みます",
+    "hiragana": "すすみます",
+    "meaning": "Rekomendasi",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_601",
+    "chapter": "JFT A2",
+    "kanji": "授業",
+    "hiragana": "じゅぎょう",
+    "meaning": "Pelajaran",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_602",
+    "chapter": "JFT A2",
+    "kanji": "大変な",
+    "hiragana": "たいへんな",
+    "meaning": "Berat (perasaan)",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_603",
+    "chapter": "JFT A2",
+    "kanji": "困ります",
+    "hiragana": "こまります",
+    "meaning": "Susah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_604",
+    "chapter": "JFT A2",
+    "kanji": "違います",
+    "hiragana": "ちがいます",
+    "meaning": "Salah , berbeda",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_605",
+    "chapter": "JFT A2",
+    "kanji": "慣れます",
+    "hiragana": "なれます",
+    "meaning": "terbiasa",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_606",
+    "chapter": "JFT A2",
+    "kanji": "増えます",
+    "hiragana": "ふえます",
+    "meaning": "Bertambah",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_607",
+    "chapter": "JFT A2",
+    "kanji": "笑います",
+    "hiragana": "わらいます",
+    "meaning": "Tertawa",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_608",
+    "chapter": "JFT A2",
+    "kanji": "苦労します",
+    "hiragana": "くろうします",
+    "meaning": "Bersakit-sakit ( dalam usaha)",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_609",
+    "chapter": "JFT A2",
+    "kanji": "希望",
+    "hiragana": "きぼう",
+    "meaning": "Harapan, keinginan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_610",
+    "chapter": "JFT A2",
+    "kanji": "特に",
+    "hiragana": "とくに",
+    "meaning": "Terutama",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_611",
+    "chapter": "JFT A2",
+    "kanji": "建てます",
+    "hiragana": "たてます",
+    "meaning": "Mendirikan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_612",
+    "chapter": "JFT A2",
+    "kanji": "続けます",
+    "hiragana": "つづけます",
+    "meaning": "Melanjutkan",
+    "importantity": 1
+  },
+  {
+    "id": "jfta2_kanji_613",
+    "chapter": "JFT A2",
+    "kanji": "役に立ちます",
+    "hiragana": "やくにたちます",
+    "meaning": "Bermanfaat",
+    "importantity": 1
+  }
+]

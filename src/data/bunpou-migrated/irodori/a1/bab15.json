@@ -1,0 +1,109 @@
+[
+  {
+    "id": "i_bab15_1",
+    "chapter": "Bab 15",
+    "level": "A1",
+    "title": "Nがほしいんですが",
+    "meaning": "Pola kalimat untuk menyatakan keinginan memiliki atau membeli suatu barang, sekaligus mengawali pertanyaan atau permintaan. 'がほしい' berarti 'ingin [N]', 'んですが' adalah bentuk penjelasan + penghubung yang halus untuk mengantarkan pertanyaan. Sangat berguna saat berbelanja atau mencari barang. Artinya 'Saya mau N (sebenarnya)...' atau 'Saya butuh N...'.",
+    "formula_template": "{A} が ほしいんですが、{B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} が ほしいんですが、{B}' untuk percakapan: Pola kalimat untuk menyatakan keinginan memiliki atau membeli suatu barang, sekaligus mengawali pertanyaan ata. Pastikan 'A' mewakili Barang, 'B' mewakili Pertanyaan/Permintaan.",
+    "ui_notes": "'んですが' (atau 'のですが') di akhir memberikan nuansa 'sebenarnya...' dan membuat pertanyaan lebih sopan. Bisa juga diikuti langsung dengan permintaan: これがほしいんですが、ください。 (Saya mau ini, tolong berikan.) Untuk barang yang lebih abstrak (bukan benda fisik), gunakan '〜たいです' (ingin melakukan).",
+    "examples": [
+      {
+        "jp": "電池がほしいんですが、どこで買えますか？",
+        "id": "Saya mau baterai, di mana bisa membelinya?"
+      },
+      {
+        "jp": "延長コードがほしいんですが…。",
+        "id": "Saya mau kabel ekstensi (sebenarnya)..."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Berbelanja",
+      "Keinginan",
+      "Pertanyaan",
+      "Sopan"
+    ]
+  },
+  {
+    "id": "i_bab15_2",
+    "chapter": "Bab 15",
+    "level": "A1",
+    "title": "ナA-ですね / イA-いですね — Komentar Produk",
+    "meaning": "Pola kalimat untuk memberikan komentar atau kesan tentang suatu produk saat berbelanja. Untuk kata sifat-na (ナA), gunakan langsung kata sifat + 'ですね'. Untuk kata sifat-i (イA), gunakan bentuk 'い' + 'ですね'. Digunakan untuk memulai percakapan dengan teman atau staf toko. Artinya '[Produk] [sifat] ya.'",
+    "formula_template": "{A} は {B} ですね / {C} は {D} い ですね",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "D": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は {B} ですね / {C} は {D} い ですね' untuk percakapan: Pola kalimat untuk memberikan komentar atau kesan tentang suatu produk saat berbelanja. Untuk kata sifat-na (ナ. Pastikan 'A' mewakili Produk, 'B' mewakili Kata Sifat-na, 'C' mewakili Produk, 'D' mewakili Kata Sifat-i.",
+    "ui_notes": "Dalam percakapan kasual, 'ですね' sering disingkat menjadi 'だね' atau dihilangkan sama sekali, seperti contoh 'かわいい！'. Untuk kata sifat-na (ナA), bentuk kasualnya: おしゃれだね (Modis ya). Untuk kata sifat-i (イA): おもしろいね (Menarik ya). Ini adalah cara alami untuk menunjukkan ketertarikan atau memulai percakapan di toko.",
+    "examples": [
+      {
+        "jp": "このコート、おしゃれですね。",
+        "id": "Mantel ini modis ya. (ナA)"
+      },
+      {
+        "jp": "この傘、おもしろいですね。",
+        "id": "Payung ini menarik ya. (イA)"
+      }
+    ],
+    "tags": [
+      "A1",
+      "Berbelanja",
+      "Komentar",
+      "Produk",
+      "Kata Sifat"
+    ]
+  }
+]

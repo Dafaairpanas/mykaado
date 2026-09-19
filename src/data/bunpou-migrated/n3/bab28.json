@@ -1,0 +1,130 @@
+[
+  {
+    "id": "n3_bab28_1",
+    "chapter": "Bab 28",
+    "level": "N3",
+    "title": "〜まで",
+    "meaning": "〜まで",
+    "formula_template": "{A}る まで / {B}まで.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}る まで / {B}まで.' untuk mengekspresikan: 〜まで.",
+    "ui_notes": "〜まで",
+    "examples": [
+      {
+        "jp": "映画が始まるまで30分あります。",
+        "id": "Masih ada 30 menit sampai filmnya dimulai."
+      },
+      {
+        "jp": "連絡があるまで待っています。",
+        "id": "Saya menunggu sampai ada kabar/kontak."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab28_2",
+    "chapter": "Bab 28",
+    "level": "N3",
+    "title": "〜から〜にかけて",
+    "meaning": "〜から〜にかけて",
+    "formula_template": "{A}から {B}にかけて ({C}: 時／場所).",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}から {B}にかけて ({C}: 時／場所).' untuk mengekspresikan: 〜から〜にかけて.",
+    "ui_notes": "〜から〜にかけて",
+    "examples": [
+      {
+        "jp": "明日は昼から夕方にかけて雨でしょう。",
+        "id": "Besok kemungkinan hujan dari siang hingga sore hari."
+      },
+      {
+        "jp": "九州から本州にかけて梅雨入りしました。",
+        "id": "Musim hujan telah dimulai membentang dari Kyushu hingga Honshu."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab28_3",
+    "chapter": "Bab 28",
+    "level": "N3",
+    "title": "〜において",
+    "meaning": "Mempunyai fungsi yang sama seperti partikel で, sering digunakan dalam bahasa tulis formal.",
+    "formula_template": "{A}において.",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}において.' untuk mengekspresikan: Mempunyai fungsi yang sama seperti partikel で, sering digunakan dalam bahasa tulis formal..",
+    "ui_notes": "Mempunyai fungsi yang sama seperti partikel で, sering digunakan dalam bahasa tulis formal.",
+    "examples": [
+      {
+        "jp": "大阪において、国際会議が行われた。",
+        "id": "Konferensi internasional telah diselenggarakan di Osaka."
+      },
+      {
+        "jp": "結果はホームページにおいて発表されます。",
+        "id": "Hasilnya akan diumumkan di situs web."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

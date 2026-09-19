@@ -1,0 +1,284 @@
+[
+  {
+    "id": "n3_bab34_1",
+    "chapter": "Bab 34",
+    "level": "N3",
+    "title": "〜わけだ",
+    "meaning": "makanya, pantesan",
+    "formula_template": "[{A}(biasa) / {B} (biasa) / {C} な] 〜わけだ | [{D}ている／ていた / {V4}られる／させる] 〜わけだ",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "V4": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} な] 〜わけだ | [{D}ている／ていた / {V4}られる／させる] 〜わけだ' untuk mengekspresikan: makanya, pantesan.",
+    "ui_notes": "makanya, pantesan",
+    "examples": [
+      {
+        "jp": "暑いわけだ。気温が36度もある。",
+        "id": "pantas saja panas. suhu udaranya sampai 36 derajat"
+      },
+      {
+        "jp": "A:「田中さん、彼女にふられたらしいよ。」",
+        "id": "tanaka-san katanya diputusin pacarnya"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab34_2",
+    "chapter": "Bab 34",
+    "level": "N3",
+    "title": "〜わけではない",
+    "meaning": "bukannya, bukan berarti",
+    "formula_template": "[{A}(biasa) / {B} (biasa) / {C} な] 〜わけではない | [{D}ている／ていた / {V4}られる／させる] 〜わけではない",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "V4": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} な] 〜わけではない | [{D}ている／ていた / {V4}られる／させる] 〜わけではない' untuk mengekspresikan: bukannya, bukan berarti.",
+    "ui_notes": "bukannya, bukan berarti",
+    "examples": [
+      {
+        "jp": "きらいなわけではないが、肉はあまり食べない。",
+        "id": "bukannya saya tidak suka, tapi saya jarang makan daging"
+      },
+      {
+        "jp": "テレビは見ないわけではないが、音楽を聴いているほうの多い。",
+        "id": "bukannya tidak nonton tv, tapi saya lebih banyak mendengarkan musik"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab34_3",
+    "chapter": "Bab 34",
+    "level": "N3",
+    "title": "〜わけがない",
+    "meaning": "untuk menyangkal dengan kuat \"tidak mungkin\", \"tidak ada alasan\"",
+    "formula_template": "[{A}(biasa) / {B} (biasa) / {C} な] 〜わけがない | [{D}ている／ていた / {V4}られる／させる] 〜わけがない",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "V4": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} な] 〜わけがない | [{D}ている／ていた / {V4}られる／させる] 〜わけがない' untuk mengekspresikan: untuk menyangkal dengan kuat \"tidak mungkin\", \"tidak ada alasan\".",
+    "ui_notes": "untuk menyangkal dengan kuat \"tidak mungkin\", \"tidak ada alasan\"",
+    "examples": [
+      {
+        "jp": "強い相手に勝てるわけがない。",
+        "id": "tidak mungkin bisa menang dengan lawan yang kuat"
+      },
+      {
+        "jp": "A:「このパン、古くない？」",
+        "id": "roti ini udah lama yah?! (basi)"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab34_4",
+    "chapter": "Bab 34",
+    "level": "N3",
+    "title": "〜わけにはいかない",
+    "meaning": "menyatakan bahwa hal tersebut tidak mungkin dilakukan karena alasan tertentu",
+    "formula_template": "[{A}る / {B}ない / {C}ている / {D}させる] 〜わけにはいかない / 〜わけにもいかない",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "D": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}る / {B}ない / {C}ている / {D}させる] 〜わけにはいかない / 〜わけにもいかない' untuk mengekspresikan: menyatakan bahwa hal tersebut tidak mungkin dilakukan karena alasan tertentu.",
+    "ui_notes": "menyatakan bahwa hal tersebut tidak mungkin dilakukan karena alasan tertentu",
+    "examples": [
+      {
+        "jp": "大事な会議があるから、休むわけにはいかない。",
+        "id": "karena ada rapat penting, tidak ada alasan bagi saya untuk libur"
+      },
+      {
+        "jp": "社長の命令だから、従わないわけにはいかない。",
+        "id": "karena ini perintah direktur, tidak ada alasan bagi saya untuk tidak menaatinya"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

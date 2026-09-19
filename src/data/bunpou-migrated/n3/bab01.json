@@ -1,0 +1,121 @@
+[
+  {
+    "id": "n3_bab01_1",
+    "chapter": "Bab 01",
+    "level": "N3",
+    "title": "KALIMAT PASIF (1)",
+    "meaning": "sering digunakan pada saat menjelaskan fakta tanpa subjek atau pelaku",
+    "formula_template": "{A}れる／〜られる",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}れる／〜られる' untuk mengekspresikan: sering digunakan pada saat menjelaskan fakta tanpa subjek atau pelaku.",
+    "ui_notes": "sering digunakan pada saat menjelaskan fakta tanpa subjek atau pelaku",
+    "examples": [
+      {
+        "jp": "この本には、くわしい説明は書かれていません。",
+        "id": "di buku ini, penjelasan detailnya tidak tertulis"
+      },
+      {
+        "jp": "入学式は、このホールで行われます。",
+        "id": "upacara penerimaan siswa baru dilaksanakan di hall ini"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pasif",
+      "Kausatif"
+    ]
+  },
+  {
+    "id": "n3_bab01_2",
+    "chapter": "Bab 01",
+    "level": "N3",
+    "title": "KALIMAT PASIF (2)",
+    "meaning": "Sering digunakan ketika pembicara mengalami kesulitan, kesusahan, gangguan atau kebingungan akibat hal yang terjadi",
+    "formula_template": "({A}に) {B}れる／〜られる",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '({A}に) {B}れる／〜られる' untuk mengekspresikan: Sering digunakan ketika pembicara mengalami kesulitan, kesusahan, gangguan atau kebingungan akibat hal yang te.",
+    "ui_notes": "Sering digunakan ketika pembicara mengalami kesulitan, kesusahan, gangguan atau kebingungan akibat hal yang terjadi",
+    "examples": [
+      {
+        "jp": "友達の赤ちゃんを抱っこしたら、泣かれてしまった。",
+        "id": "setelah saya gendong anak teman, (saya) ditangisi (oleh bayi)"
+      },
+      {
+        "jp": "雨に降られて、服がぬれてしまった。",
+        "id": "baju saya basah karena kehujanan"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pasif",
+      "Kausatif"
+    ]
+  },
+  {
+    "id": "n3_bab01_3",
+    "chapter": "Bab 01",
+    "level": "N3",
+    "title": "KALIMAT KAUSATIF",
+    "meaning": "ungkapan untuk meminta izin dengan bentuk kausatif (izinkan saya, biarkan saya...)",
+    "formula_template": "{A}(さ)せて [ ください / 〜ませんか | もらえますか / 〜ませんか | いただけますか / 〜ませんか ]",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}(さ)せて [ ください / 〜ませんか | もらえますか / 〜ませんか | いただけますか / 〜ませんか ]' untuk mengekspresikan: ungkapan untuk meminta izin dengan bentuk kausatif (izinkan saya, biarkan saya...).",
+    "ui_notes": "ungkapan untuk meminta izin dengan bentuk kausatif (izinkan saya, biarkan saya...)",
+    "examples": [
+      {
+        "jp": "ちょっと気分が悪いので、早く帰らせてください。",
+        "id": "karena saya kurang enak badan, izinkan saya pulang lebih cepat"
+      },
+      {
+        "jp": "あなたの会社のお話を聞かせてください。",
+        "id": "izinkan saya mendengarkan cerita tentang perusahaan anda"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Pasif",
+      "Kausatif"
+    ]
+  }
+]

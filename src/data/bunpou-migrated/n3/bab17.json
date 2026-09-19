@@ -1,0 +1,202 @@
+[
+  {
+    "id": "n3_bab17_1",
+    "chapter": "Bab 17",
+    "level": "N3",
+    "title": "〜とおり",
+    "meaning": "〜とおり",
+    "formula_template": "{A}る / {B}た / {C}の とおり, {D}どおり.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}る / {B}た / {C}の とおり, {D}どおり.' untuk mengekspresikan: 〜とおり.",
+    "ui_notes": "〜とおり",
+    "examples": [
+      {
+        "jp": "先生が言ったとおり、試験は難しかった。/ 友達がかいてくれた地図のとおりに来たが、道に迷った。/ 雪が降ってきた。予報どおりだ。/ 私の言うとおりにしなさい！",
+        "id": "Sesuai yang dikatakan guru, ujiannya memang sulit."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab17_2",
+    "chapter": "Bab 17",
+    "level": "N3",
+    "title": "〜まま",
+    "meaning": "Menunjukkan hal/keadaan yang sama terjadi secara berkelanjutan.",
+    "formula_template": "{A}た / {B}ない / {C} (biasa) / {D} な / {V4}の まま.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "V4": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}た / {B}ない / {C} (biasa) / {D} な / {V4}の まま.' untuk mengekspresikan: Menunjukkan hal/keadaan yang sama terjadi secara berkelanjutan..",
+    "ui_notes": "Menunjukkan hal/keadaan yang sama terjadi secara berkelanjutan.",
+    "examples": [
+      {
+        "jp": "昨夜は、テレビをつけたまま寝てしまった。",
+        "id": "Tadi malam saya tertidur dalam kondisi televisi masih menyala."
+      },
+      {
+        "jp": "この野菜は、生のままで食べてもおいしいですよ。",
+        "id": "Sayuran ini enak dimakan meskipun dalam keadaan mentah."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab17_3",
+    "chapter": "Bab 17",
+    "level": "N3",
+    "title": "〜っぱなし",
+    "meaning": "Sering untuk hal negatif (yang tidak seharusnya dilakukan), mengandung rasa kecewa/tidak puas.",
+    "formula_template": "{A}ます (coret ます) → っぱなし.",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}ます (coret ます) → っぱなし.' untuk mengekspresikan: Sering untuk hal negatif (yang tidak seharusnya dilakukan), mengandung rasa kecewa/tidak puas..",
+    "ui_notes": "Sering untuk hal negatif (yang tidak seharusnya dilakukan), mengandung rasa kecewa/tidak puas.",
+    "examples": [
+      {
+        "jp": "窓を開けっぱなしで出てきた。",
+        "id": "Saya keluar rumah membiarkan jendela terbuka begitu saja."
+      },
+      {
+        "jp": "水を出しっぱなしにしないでください。",
+        "id": "Tolong jangan biarkan air mengalir terus-menerus."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab17_4",
+    "chapter": "Bab 17",
+    "level": "N3",
+    "title": "〜きり",
+    "meaning": "Menunjukkan bahwa hal tersebut sedikit.",
+    "formula_template": "{A} きり / きりだ / っきり / っきりだ.",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} きり / きりだ / っきり / っきりだ.' untuk mengekspresikan: Menunjukkan bahwa hal tersebut sedikit..",
+    "ui_notes": "Menunjukkan bahwa hal tersebut sedikit.",
+    "examples": [
+      {
+        "jp": "二人きりで話をしたいです。",
+        "id": "Saya ingin berbicara berdua saja."
+      },
+      {
+        "jp": "彼に会ったのは1回きりです。",
+        "id": "Saya hanya pernah bertemu dengannya satu kali saja."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

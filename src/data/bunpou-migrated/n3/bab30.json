@@ -1,0 +1,126 @@
+[
+  {
+    "id": "n3_bab30_1",
+    "chapter": "Bab 30",
+    "level": "N3",
+    "title": "ですから",
+    "meaning": "oleh karena itu",
+    "formula_template": "{A}。ですから、{B}。",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "v1",
+          "v2",
+          "v3",
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "action",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}。ですから、{B}。' untuk mengekspresikan: oleh karena itu.",
+    "ui_notes": "oleh karena itu",
+    "examples": [
+      {
+        "jp": "天気予報では午後から雨だそうです。ですから、傘を持っていったほうがいいですよ。",
+        "id": "kalau menurut ramalan cuaca, dari siang katanya akan hujan. oleh karena itu sebaiknya bawa payung"
+      },
+      {
+        "jp": "明日から旅行に行きます。ですから、申し訳ありませんが、来週のパーティーには出席できません。",
+        "id": "besok saya akan pergi berwisata. oleh karena itu, mohon maaf sekali, saya tidak bisa menghadiri pesta minggu depan"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Konjungsi"
+    ]
+  },
+  {
+    "id": "n3_bab30_2",
+    "chapter": "Bab 30",
+    "level": "N3",
+    "title": "ところが",
+    "meaning": "sering digunakan dalam bahasa resmi, formal",
+    "formula_template": "{A} は ところが です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は ところが です' untuk mengekspresikan: sering digunakan dalam bahasa resmi, formal.",
+    "ui_notes": "sering digunakan dalam bahasa resmi, formal",
+    "examples": [
+      {
+        "jp": "昨夜はコンサートに行くつもりだった。ところが、病気で行けなくなった。",
+        "id": "kemarin malam saya bermaksud pergi ke konser. akan tetapi, karena sakit saya tidak bisa pergi"
+      },
+      {
+        "jp": "田中さんは私より若いと思っていた。ところが、私より5歳も年上だった。",
+        "id": "saya kira tanaka-san lebih muda dari saya. akan tetapi ternyata dia lebih tua 5 tahun dari saya"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Konjungsi"
+    ]
+  },
+  {
+    "id": "n3_bab30_3",
+    "chapter": "Bab 30",
+    "level": "N3",
+    "title": "ところで",
+    "meaning": "digunakan untuk mengganti topik pembicaraan. ✓ umumnya banyak digunakan dalam situasi resmi, formal.",
+    "formula_template": "{A} は ところで です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は ところで です' untuk mengekspresikan: digunakan untuk mengganti topik pembicaraan. ✓ umumnya banyak digunakan dalam situasi resmi, formal..",
+    "ui_notes": "digunakan untuk mengganti topik pembicaraan. ✓ umumnya banyak digunakan dalam situasi resmi, formal.",
+    "examples": [
+      {
+        "jp": "もうすぐ、今年も終わりですね。ところで、お正月はどうなさいますか。",
+        "id": "sebentar lagi tahun ini akan selesai yah! ngomong-ngomong, tahun baru nanti apa yang akan kamu lakukan?"
+      },
+      {
+        "jp": "「明日、試験でしょ。がんばってね。ところで、来週の月曜日は空いてる？」",
+        "id": "besok ujian kan?! semangat ya! ngomong-ngomong, senin minggu depan kamu ada waktu?!"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Konjungsi"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "i_bab01_1",
+    "chapter": "Bab 01",
+    "level": "A1",
+    "title": "はじめまして",
+    "meaning": "Ungkapan salam saat pertama kali bertemu dengan seseorang. Setara dengan 'Salam kenal' atau 'Senang bertemu dengan Anda'. Diucapkan di awal perkenalan diri.",
+    "formula_template": "はじめまして。 {A}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'はじめまして。 {A}' untuk percakapan: Ungkapan salam saat pertama kali bertemu dengan seseorang. Setara dengan 'Salam kenal' atau 'Senang bertemu de. Pastikan 'A' mewakili Perkenalan Diri.",
+    "ui_notes": "Hanya diucapkan SATU KALI saat pertama kali bertemu seumur hidup dengan orang tersebut.",
+    "examples": [
+      {
+        "jp": "はじめまして。わたしは マルシアです。",
+        "id": "Salam kenal. Saya adalah Marcia."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Salam",
+      "Perkenalan"
+    ]
+  },
+  {
+    "id": "i_bab01_2",
+    "chapter": "Bab 01",
+    "level": "A1",
+    "title": "～から きました",
+    "meaning": "Digunakan untuk menyatakan asal negara atau daerah. 'Kara' berarti 'dari', dan 'kimashita' berarti 'telah datang'. Secara harfiah berarti 'telah datang dari...'.",
+    "formula_template": "{A} からきました",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} からきました' untuk percakapan: Digunakan untuk menyatakan asal negara atau daerah. 'Kara' berarti 'dari', dan 'kimashita' berarti 'telah data. Pastikan 'A' mewakili Nama Tempat/Negara.",
+    "ui_notes": "Sering digunakan berpasangan dengan nama dan diakhiri dengan 'yoroshiku onegaishimasu'.",
+    "examples": [
+      {
+        "jp": "インドネシアから きました。",
+        "id": "Saya berasal dari Indonesia."
+      },
+      {
+        "jp": "ジャカルタから きました。",
+        "id": "Saya berasal dari Jakarta."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Perkenalan",
+      "Asal Daerah"
+    ]
+  },
+  {
+    "id": "i_bab01_3",
+    "chapter": "Bab 01",
+    "level": "A1",
+    "title": "どうぞ よろしく（お願いします）",
+    "meaning": "Ungkapan yang diucapkan di akhir perkenalan diri. Secara harfiah sulit diterjemahkan, tetapi nuansanya adalah 'Mohon bantuannya' atau 'Senang berkenalan dengan Anda'.",
+    "formula_template": "どうぞ よろしく おねがいします。",
+    "variables": {},
+    "ai_instruction": "Gunakan pola 'どうぞ よろしく おねがいします。' untuk percakapan: Ungkapan yang diucapkan di akhir perkenalan diri. Secara harfiah sulit diterjemahkan, tetapi nuansanya adalah .",
+    "ui_notes": "'Douzo yoroshiku' adalah bentuk standar, penambahan 'onegaishimasu' membuatnya jauh lebih sopan. Biasakan untuk menundukkan kepala (ojigi) saat mengucapkan ini.",
+    "examples": [
+      {
+        "jp": "はじめまして。アリです。インドネシアからきました。どうぞよろしく おねがいします。",
+        "id": "Salam kenal. Saya Ari. Saya berasal dari Indonesia. Mohon bimbingannya/Senang berkenalan dengan Anda."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Salam",
+      "Perkenalan"
+    ]
+  }
+]

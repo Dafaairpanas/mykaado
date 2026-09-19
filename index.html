@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="theme-color" content="#FAF9F5">
+  <title>MyKaado</title>
+  
+  <!-- Preload fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&family=Klee+One:wght@400;600&display=swap" rel="stylesheet">
+  
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+
+  <style>
+    :root {
+      /* Base Colors - Light */
+      --bg-main: #FAF9F5;
+      --bg-card: #FFFFFF;
+      --bg-nav: #F0EFEA;
+      --text-main: #1A1918;
+      --text-muted: #6B6863;
+      --border-color: #1A1918;
+      --shadow-color: #1A1918;
+      
+      /* Accent Colors (Default: Matcha) */
+      --accent-color: #C0D684; 
+      --btn-text: #111111;
+
+      /* Feedback Colors (FSRS) */
+      --c-again: #FF7B72;
+      --c-hard: #F0A07B;
+      --c-good: #7BC0F0;
+      --c-easy: #89D99D;
+
+      /* Metrics */
+      --br-sm: 6px;
+      --br-md: 12px;
+      --br-lg: 20px;
+      --bw-sm: 2px;
+      --bw-md: 3px;
+      
+      --font-ui: 'Outfit', -apple-system, sans-serif;
+      --font-jp: "UD Digi Kyokasho N-R", "UD Digi Kyokasho N-B", "UD Digi Kyokasho", "Klee One", sans-serif;
+    }
+
+    /* Dark Mode (Neobrutalism Claude Vibe) */
+    [data-theme="dark"] {
+      --bg-main: #1C1B1A;
+      --bg-card: #272624;
+      --bg-nav: #22201F;
+      --text-main: #EAE8E3;
+      --text-muted: #9E9A94;
+      --border-color: #EAE8E3;
+      --shadow-color: #EAE8E3;
+    }
+
+    /* ========================================================
+       MODERN STYLE OVERRIDES (Sleek, Vercel-like)
+       ======================================================== */
+    [data-style="modern"] {
+      --br-sm: 8px;
+      --br-md: 16px;
+      --br-lg: 24px;
+      --bw-sm: 1px;
+      --bw-md: 1px;
+      --shadow-color: transparent;
+      --border-color: rgba(0, 0, 0, 0.1);
+      --bg-nav: #FFFFFF;
+    }
+    
+    [data-style="modern"][data-theme="dark"] {
+      --bg-main: #0A0A0A; /* True dark background for modern */
+      --bg-card: #141414;
+      --bg-nav: #0A0A0A;
+      --border-color: rgba(255, 255, 255, 0.1);
+    }
+
+    [data-style="modern"] .neobox {
+      box-shadow: 0 8px 24px rgba(0,0,0,0.05);
+    }
+    [data-style="modern"][data-theme="dark"] .neobox {
+      box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+    }
+
+    [data-style="modern"] .neobtn {
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+    [data-style="modern"] .neobtn:active {
+      transform: scale(0.96);
+      box-shadow: none;
+    }
+
+    /* Modern Flashcard & FSRS Buttons */
+    [data-style="modern"] .fc-face {
+      box-shadow: 0 10px 40px rgba(0,0,0,0.08);
+    }
+    [data-style="modern"][data-theme="dark"] .fc-face {
+      box-shadow: 0 10px 40px rgba(0,0,0,0.3);
+    }
+    [data-style="modern"] .fsrs-btn {
+      border-color: transparent;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      color: #FFFFFF !important;
+    }
+    [data-style="modern"] .btn-again { background-color: #EF4444; } /* Sleek Red */
+    [data-style="modern"] .btn-hard  { background-color: #F59E0B; } /* Sleek Orange */
+    [data-style="modern"] .btn-good  { background-color: #10B981; } /* Sleek Green */
+    [data-style="modern"] .btn-easy  { background-color: #3B82F6; } /* Sleek Blue */
+
+    /* Accordion Modern */
+    [data-style="modern"] .accordion-header {
+      box-shadow: none;
+    }
+    [data-style="modern"] .accordion-header:active { transform: none; opacity: 0.9; }
+
+
+    /* ========================================================
+       COLOR THEMES
+       ======================================================== */
+    [data-color="orange"] { --accent-color: #F0A07B; }
+    [data-theme="dark"][data-color="orange"] { --accent-color: #D36C42; }
+    [data-color="blue"] { --accent-color: #7BB4F0; }
+    [data-theme="dark"][data-color="blue"] { --accent-color: #4A83BF; }
+    [data-color="green"] { --accent-color: #89D99D; }
+    [data-theme="dark"][data-color="green"] { --accent-color: #58A86C; }
+    [data-color="yellow"] { --accent-color: #FFD54F; }
+    [data-theme="dark"][data-color="yellow"] { --accent-color: #C29F25; }
+    [data-color="purple"] { --accent-color: #C4B5FD; }
+    [data-theme="dark"][data-color="purple"] { --accent-color: #9282C8; }
+    [data-color="pink"] { --accent-color: #F9A8D4; }
+    [data-theme="dark"][data-color="pink"] { --accent-color: #C079A0; }
+    [data-color="crimson"] { --accent-color: #FF5A5F; }
+    [data-theme="dark"][data-color="crimson"] { --accent-color: #CC3333; }
+    [data-color="matcha"] { --accent-color: #C0D684; }
+    [data-theme="dark"][data-color="matcha"] { --accent-color: #8A9A5B; }
+    
+    /* Auto text color on accent */
+    .neobtn.primary, .accordion-header {
+      color: #111111; /* Default dark text for neobrutalism high contrast */
+    }
+    [data-style="modern"] .neobtn.primary, [data-style="modern"] .accordion-header {
+      color: #111111; 
+    }
+
+
+    /* ========================================================
+       GLOBAL LAYOUT
+       ======================================================== */
+    * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+
+    body {
+      font-family: var(--font-ui);
+      background-color: var(--bg-main);
+      color: var(--text-main);
+      transition: background-color 0.3s, color 0.3s;
+      overflow: hidden; 
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      width: 100vw;
+    }
+
+    .neobox {
+      border: var(--bw-sm) solid var(--border-color);
+      border-radius: var(--br-md);
+      box-shadow: 4px 4px 0px var(--shadow-color);
+      background-color: var(--bg-card);
+      transition: transform 0.1s, box-shadow 0.1s, background-color 0.3s, border-color 0.3s;
+    }
+    
+    .neobtn {
+      font-family: var(--font-ui);
+      font-weight: 600; cursor: pointer;
+      border: var(--bw-sm) solid var(--border-color);
+      border-radius: var(--br-sm);
+      box-shadow: 3px 3px 0px var(--shadow-color);
+      background-color: var(--bg-card);
+      color: var(--text-main);
+      display: inline-flex; align-items: center; justify-content: center;
+      gap: 0.5rem; padding: 0.5rem 1rem; transition: all 0.1s;
+    }
+    .neobtn:active { transform: translate(2px, 2px); box-shadow: 1px 1px 0px var(--shadow-color); }
+    .neobtn.primary { background-color: var(--accent-color); }
+
+    /* Typography JP */
+    .jp-text { font-family: var(--font-jp); }
+    .jp-xl { font-size: 5rem; font-weight: 600; line-height: 1.1; }
+
+    /* Container */
+    .container {
+      width: 100%; max-width: 1100px; margin: 0 auto; padding: 0 1.5rem;
+    }
+
+    /* Header */
+    .app-header {
+      background-color: var(--bg-main);
+      border-bottom: var(--bw-sm) solid var(--border-color);
+      z-index: 50;
+      transition: background-color 0.3s, border-color 0.3s;
+    }
+    .header-inner {
+      display: flex; align-items: center; justify-content: space-between; height: 64px;
+    }
+    .header-left { display: flex; align-items: center; gap: 2rem; }
+    .app-title { font-weight: 800; font-size: 1.25rem; letter-spacing: -0.03em; cursor: pointer; display: flex; align-items:center; gap:0.5rem;}
+    
+    /* Top Navigation (Desktop) */
+    .top-nav { display: none; align-items: center; gap: 1.5rem; }
+    .t-nav-btn {
+      background: none; border: none; font-family: var(--font-ui);
+      font-weight: 600; font-size: 0.95rem; color: var(--text-muted);
+      cursor: pointer; transition: 0.2s; padding: 0.5rem 0;
+      border-bottom: 3px solid transparent;
+    }
+    .t-nav-btn:hover { color: var(--text-main); }
+    .t-nav-btn.active { color: var(--text-main); border-bottom-color: var(--accent-color); }
+
+    .header-actions { display: flex; gap: 0.5rem; }
+    .icon-btn {
+      background: none; border: none; color: var(--text-main); cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+      padding: 0.5rem; border-radius: 50%;
+    }
+    .icon-btn:hover { background-color: var(--bg-nav); }
+
+    /* Main Content */
+    .main-content {
+      flex: 1; overflow-y: auto; padding-top: 2rem; padding-bottom: 6rem;
+    }
+
+    /* Views */
+    .view { display: none; animation: fadeIn 0.3s ease; }
+    .view.active { display: block; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+    /* Home / Index */
+    .menu-grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 1.5rem; margin-top: 1rem;
+    }
+    .menu-card {
+      padding: 2rem 1.5rem; cursor: pointer; text-align: center;
+      display: flex; flex-direction: column; align-items: center;
+    }
+    .menu-card:active { transform: translate(2px, 2px); box-shadow: 2px 2px 0px var(--shadow-color); }
+    [data-style="modern"] .menu-card:active { transform: scale(0.97); box-shadow: none; }
+    .mc-icon { width: 48px; height: 48px; color: var(--accent-color); margin-bottom: 1rem; }
+    .mc-title { font-weight: 800; font-size: 1.25rem; margin-bottom: 0.25rem; }
+    .mc-desc { font-size: 0.85rem; color: var(--text-muted); }
+
+    /* Bottom Nav (Mobile) */
+    .bottom-nav {
+      position: absolute; bottom: 0; left: 0; right: 0;
+      display: flex; justify-content: space-around;
+      padding: 0.75rem 0.5rem; padding-bottom: calc(0.75rem + env(safe-area-inset-bottom));
+      background-color: var(--bg-nav);
+      border-top: var(--bw-sm) solid var(--border-color);
+      z-index: 50; transition: background-color 0.3s;
+    }
+    .nav-item {
+      display: flex; flex-direction: column; align-items: center; gap: 0.25rem;
+      color: var(--text-muted); cursor: pointer; font-size: 0.7rem; font-weight: 600;
+      background: none; border: none; flex: 1; padding: 0.5rem 0;
+      border-radius: var(--br-sm); transition: all 0.2s;
+    }
+    .nav-item.active { color: var(--text-main); }
+    .nav-item.active .nav-icon {
+      background-color: var(--accent-color); border: var(--bw-sm) solid var(--border-color);
+      border-radius: 10px; color: var(--btn-text); box-shadow: 2px 2px 0px var(--border-color);
+      transform: translateY(-4px);
+    }
+    [data-style="modern"] .nav-item.active .nav-icon {
+      box-shadow: none; transform: translateY(-2px);
+    }
+    .nav-icon {
+      padding: 0.4rem; border-radius: 50%; display: flex; align-items: center; justify-content: center;
+      transition: all 0.2s;
+    }
+
+    /* Media Queries */
+    @media (min-width: 768px) {
+      .bottom-nav { display: none; }
+      .top-nav { display: flex; }
+      .main-content { padding-bottom: 2rem; }
+      .menu-grid { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+      .fc-wrapper { max-width: 800px; height: 450px; }
+      .fsrs-controls { max-width: 800px; }
+      .fc-stats { max-width: 800px; }
+    }
+
+    /* --- View 1: Flashcard --- */
+    .fc-stats {
+      display: flex; justify-content: space-between;
+      width: 100%; max-width: 400px; margin: 0 auto 1.5rem;
+      font-size: 0.85rem; font-weight: 600;
+    }
+    .fc-wrapper { perspective: 1000px; width: 100%; max-width: 400px; height: 400px; margin: 0 auto 2rem; }
+    .fc-card {
+      width: 100%; height: 100%; position: relative; transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+      transform-style: preserve-3d; cursor: pointer; border-radius: var(--br-lg);
+    }
+    .fc-card.flipped { transform: rotateY(180deg); }
+    .fc-face {
+      position: absolute; width: 100%; height: 100%; backface-visibility: hidden;
+      display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;
+      padding: 2rem; border: var(--bw-md) solid var(--border-color); border-radius: var(--br-lg);
+      background-color: var(--bg-card); box-shadow: 6px 6px 0px var(--shadow-color);
+    }
+    .fc-back { transform: rotateY(180deg); }
+    .fc-tag {
+      position: absolute; top: 1rem; right: 1rem; font-size: 0.75rem; font-weight: 800;
+      padding: 0.25rem 0.75rem; border: var(--bw-sm) solid var(--border-color); border-radius: 99px; background: var(--bg-nav);
+    }
+    .fsrs-controls {
+      display: flex; gap: 0.5rem; max-width: 500px; margin: 0 auto;
+      opacity: 0; pointer-events: none; transition: opacity 0.3s;
+    }
+    .fsrs-controls.show { opacity: 1; pointer-events: auto; }
+    .fsrs-btn { flex: 1; display: flex; flex-direction: column; padding: 0.5rem 0; font-size: 0.85rem; border-width: 2px; box-shadow: 2px 2px 0px var(--shadow-color); }
+    .fsrs-btn .time { font-size: 0.7rem; opacity: 0.8; margin-top: 2px; }
+    .btn-again { background-color: var(--c-again); color: #111; }
+    .btn-hard { background-color: var(--c-hard); color: #111; }
+    .btn-good { background-color: var(--c-good); color: #111; }
+    .btn-easy { background-color: var(--c-easy); color: #111; }
+
+    /* --- View 2: Kanji --- */
+    .kanji-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)); gap: 1rem; }
+    .kanji-item { aspect-ratio: 1; display: flex; align-items: center; justify-content: center; font-size: 2.5rem; cursor: pointer; }
+    .modal-overlay {
+      position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); backdrop-filter: blur(4px);
+      z-index: 200; display: flex; align-items: center; justify-content: center; opacity: 0; pointer-events: none; transition: opacity 0.2s;
+    }
+    .modal-overlay.active { opacity: 1; pointer-events: auto; }
+    .modal-content {
+      width: 90%; max-width: 320px; padding: 2rem; position: relative;
+      transform: translateY(20px); transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    }
+    .modal-overlay.active .modal-content { transform: translateY(0); }
+    .modal-close { position: absolute; top: 1rem; right: 1rem; }
+    .modal-grid { display: grid; grid-template-columns: 1fr 2fr; gap: 1rem; margin-top: 1.5rem; text-align: left; }
+    .modal-label { font-weight: 800; font-size: 0.85rem; color: var(--text-muted); }
+
+    /* --- View 3: Kotoba --- */
+    .toggles-bar {
+      display: flex; gap: 1rem; margin-bottom: 1.5rem; padding: 1rem; border-radius: var(--br-md);
+      background-color: var(--bg-nav); border: var(--bw-sm) solid var(--border-color); flex-wrap: wrap;
+    }
+    .toggle-label { display: flex; align-items: center; gap: 0.5rem; font-size: 0.85rem; font-weight: 600; cursor: pointer; }
+    .switch {
+      position: relative; width: 44px; height: 24px; border: var(--bw-sm) solid var(--border-color);
+      border-radius: 99px; background: var(--bg-card); transition: 0.2s;
+    }
+    .switch::after {
+      content: ''; position: absolute; top: 2px; left: 2px; width: calc(24px - 4px - var(--bw-sm)*2); height: calc(24px - 4px - var(--bw-sm)*2);
+      background: var(--text-main); border-radius: 50%; transition: 0.2s;
+    }
+    input:checked + .switch { background: var(--accent-color); }
+    input:checked + .switch::after { transform: translateX(20px); background: var(--btn-text); }
+    input[type="checkbox"] { display: none; }
+
+    .accordion-item { margin-bottom: 1rem; }
+    .accordion-header {
+      width: 100%; display: flex; justify-content: space-between; align-items: center; padding: 1rem;
+      background-color: var(--accent-color); font-weight: 800; font-size: 1.1rem;
+      border-radius: var(--br-md); border: var(--bw-sm) solid var(--border-color); box-shadow: 4px 4px 0px var(--shadow-color); cursor: pointer;
+    }
+    .accordion-header:active { transform: translate(2px, 2px); box-shadow: 2px 2px 0px var(--shadow-color); }
+    .accordion-content { display: none; padding: 1rem 0; }
+    .accordion-content.open { display: block; }
+    .vocab-list { display: flex; flex-direction: column; gap: 0.75rem; }
+    .vocab-item { display: flex; align-items: center; padding: 1rem; gap: 1rem; }
+    .v-kanji { font-size: 1.5rem; flex: 1; }
+    .v-kana { font-size: 1rem; color: var(--text-muted); flex: 1; }
+    .v-arti { font-size: 1rem; font-weight: 600; flex: 1.5; text-align: right;}
+    .hide-kanji .v-kanji, .hide-kana .v-kana, .hide-arti .v-arti { filter: blur(5px); opacity: 0.3; user-select: none; }
+
+    /* --- View 4: Bunpou --- */
+    .bunpou-card { margin-bottom: 1.5rem; }
+    .b-title { font-size: 1.25rem; font-weight: 800; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;}
+    .b-desc { font-size: 0.95rem; color: var(--text-muted); margin-bottom: 1rem; line-height: 1.5;}
+    .b-example { padding: 1rem; background: var(--bg-nav); border-left: 4px solid var(--accent-color); border-radius: 0 var(--br-sm) var(--br-sm) 0; }
+    .b-ex-jp { font-size: 1.1rem; margin-bottom: 0.25rem; }
+    .b-ex-id { font-size: 0.9rem; color: var(--text-muted); }
+
+    /* --- View 5: Renshuu --- */
+    .quiz-card { padding: 2rem; text-align: center; margin-bottom: 2rem; }
+    .q-question { font-size: 2rem; margin-bottom: 2rem; }
+    .q-options { display: grid; grid-template-columns: 1fr; gap: 1rem; }
+    @media (min-width: 768px) { .q-options { grid-template-columns: 1fr 1fr; } }
+    .q-option { padding: 1rem; font-size: 1.1rem; text-align: left; display: flex; justify-content: space-between; align-items: center; }
+
+    /* --- View 6: Settings --- */
+    .settings-group {
+      margin-bottom: 2rem;
+      padding: 1.5rem;
+    }
+    .sg-title { font-size: 1.1rem; font-weight: 800; margin-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem; }
+    
+    .theme-grid {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;
+    }
+    .theme-option {
+      padding: 1rem; text-align: center; cursor: pointer;
+      border: var(--bw-sm) solid var(--border-color); border-radius: var(--br-md);
+      background: var(--bg-nav); font-weight: 600; transition: 0.2s;
+    }
+    .theme-option.active {
+      background: var(--accent-color); color: #111; border-color: var(--border-color);
+    }
+    [data-style="modern"] .theme-option.active { color: #111; }
+
+    .color-grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(60px, 1fr)); gap: 1rem;
+    }
+    .color-btn {
+      aspect-ratio: 1; border-radius: 50%; border: var(--bw-md) solid var(--border-color);
+      cursor: pointer; transition: 0.2s; display: flex; align-items: center; justify-content: center;
+    }
+    .color-btn.active {
+      transform: scale(1.1);
+      box-shadow: 0 0 0 4px var(--bg-main), 0 0 0 6px var(--accent-color);
+    }
+
+  </style>
+</head>
+<body>
+
+  <!-- App Header -->
+  <header class="app-header">
+    <div class="header-inner container">
+      
+      <div class="header-left">
+        <div class="app-title" onclick="switchTab('home')">
+          <i data-lucide="book-open" style="width:24px; height:24px; color:var(--accent-color)"></i>
+          MyKaado
+        </div>
+        
+        <!-- Top Navigation for Desktop -->
+        <nav class="top-nav">
+          <button class="t-nav-btn nav-btn active" data-target="home" onclick="switchTab('home')">Dashboard</button>
+          <button class="t-nav-btn nav-btn" data-target="flashcard" onclick="switchTab('flashcard')">Flashcard</button>
+          <button class="t-nav-btn nav-btn" data-target="kanji" onclick="switchTab('kanji')">Kanji</button>
+          <button class="t-nav-btn nav-btn" data-target="kotoba" onclick="switchTab('kotoba')">Kotoba</button>
+          <button class="t-nav-btn nav-btn" data-target="bunpou" onclick="switchTab('bunpou')">Bunpou</button>
+          <button class="t-nav-btn nav-btn" data-target="renshuu" onclick="switchTab('renshuu')">Renshuu</button>
+        </nav>
+      </div>
+
+      <div class="header-actions">
+        <!-- Moved color picker to Settings view, just keeping a direct link to Settings -->
+        <button class="icon-btn nav-btn" data-target="settings" onclick="switchTab('settings')" title="Pengaturan">
+          <i data-lucide="settings"></i>
+        </button>
+      </div>
+      
+    </div>
+  </header>
+
+  <!-- Main Content Area -->
+  <main class="main-content">
+    <div class="container">
+      
+      <!-- VIEW 0: HOME / INDEX -->
+      <section id="view-home" class="view active">
+        <h2 style="font-size: 1.8rem; margin-bottom: 0.5rem;">Pilih menu untuk mulai belajar</h2>
+        <p style="color:var(--text-muted); margin-bottom: 2rem;">Akses semua materi dari dashboard ini.</p>
+        
+        <div class="menu-grid">
+          <div class="neobox menu-card" onclick="switchTab('flashcard')">
+             <i data-lucide="layers" class="mc-icon"></i>
+             <div class="jp-text" style="font-size:1.5rem; font-weight:800; margin-bottom:0.5rem">日本語</div>
+             <div class="mc-title">Flashcard</div>
+          </div>
+          <div class="neobox menu-card" onclick="switchTab('kanji')">
+             <i data-lucide="type" class="mc-icon"></i>
+             <div class="jp-text" style="font-size:1.5rem; font-weight:800; margin-bottom:0.5rem">漢字</div>
+             <div class="mc-title">Kanji Tunggal</div>
+          </div>
+          <div class="neobox menu-card" onclick="switchTab('kotoba')">
+             <i data-lucide="list" class="mc-icon"></i>
+             <div class="jp-text" style="font-size:1.5rem; font-weight:800; margin-bottom:0.5rem">言葉</div>
+             <div class="mc-title">List Kotoba</div>
+          </div>
+          <div class="neobox menu-card" onclick="switchTab('bunpou')">
+             <i data-lucide="book-open" class="mc-icon"></i>
+             <div class="jp-text" style="font-size:1.5rem; font-weight:800; margin-bottom:0.5rem">文法</div>
+             <div class="mc-title">Bunpou</div>
+          </div>
+          <div class="neobox menu-card" onclick="switchTab('renshuu')">
+             <i data-lucide="pen-tool" class="mc-icon"></i>
+             <div class="jp-text" style="font-size:1.5rem; font-weight:800; margin-bottom:0.5rem">練習</div>
+             <div class="mc-title">Renshuu</div>
+          </div>
+          <div class="neobox menu-card" onclick="switchTab('settings')">
+             <i data-lucide="settings" class="mc-icon" style="color:var(--text-main)"></i>
+             <div class="jp-text" style="font-size:1.5rem; font-weight:800; margin-bottom:0.5rem; opacity:0">設定</div>
+             <div class="mc-title">Settings</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- VIEW 1: FLASHCARD -->
+      <section id="view-flashcard" class="view">
+        <div class="fc-stats">
+          <div style="display:flex; gap:1rem;">
+            <span style="color:var(--c-good)">● New: 12</span>
+            <span style="color:var(--c-hard)">● Learning: 0</span>
+            <span style="color:var(--c-again)">● Review: 0</span>
+          </div>
+          <div style="color:var(--text-muted)">1/12</div>
+        </div>
+        
+        <div class="fc-wrapper" onclick="flipCard()">
+          <div class="fc-card" id="mainFlashcard">
+            <div class="fc-face">
+              <span class="fc-tag">N5</span>
+              <div class="jp-text jp-xl">足ります</div>
+            </div>
+            <div class="fc-face fc-back">
+              <div class="jp-text" style="font-size:1.5rem; color:var(--text-muted); margin-bottom: 1rem;">たります (tarimasu)</div>
+              <div style="font-size:2.5rem; font-weight:800; margin-bottom: 2rem;">Cukup</div>
+            </div>
+          </div>
+        </div>
+        <div class="fsrs-controls" id="fsrsControls">
+          <button class="neobtn fsrs-btn btn-again" onclick="nextCard('again')">Again <span class="time">1m</span></button>
+          <button class="neobtn fsrs-btn btn-hard" onclick="nextCard('hard')">Hard <span class="time">5m</span></button>
+          <button class="neobtn fsrs-btn btn-good" onclick="nextCard('good')">Good <span class="time">10m</span></button>
+          <button class="neobtn fsrs-btn btn-easy" onclick="nextCard('easy')">Easy <span class="time">15d</span></button>
+        </div>
+        <p id="hintFlip" style="text-align:center; margin-top:2rem; font-size:0.9rem; color:var(--text-muted)">Click card to flip</p>
+      </section>
+
+      <!-- VIEW 2: KANJI -->
+      <section id="view-kanji" class="view">
+        <h2 style="margin-bottom: 1.5rem;">Daftar Kanji (N5)</h2>
+        <div class="kanji-grid">
+          <div class="neobox kanji-item jp-text" onclick="openKanjiModal('日', 'Matahari / Hari', 'N5', 'ニチ、ジツ', 'ひ、-び、-か')">日</div>
+          <div class="neobox kanji-item jp-text" onclick="openKanjiModal('月', 'Bulan', 'N5', 'ゲツ、ガツ', 'つき')">月</div>
+          <div class="neobox kanji-item jp-text" onclick="openKanjiModal('火', 'Api', 'N5', 'カ', 'ひ、-び、ほ-')">火</div>
+          <div class="neobox kanji-item jp-text" onclick="openKanjiModal('水', 'Air', 'N5', 'スイ', 'みず')">水</div>
+          <div class="neobox kanji-item jp-text" onclick="openKanjiModal('木', 'Pohon', 'N5', 'ボク、モク', 'き、こ-')">木</div>
+          <div class="neobox kanji-item jp-text" onclick="openKanjiModal('金', 'Emas / Uang', 'N5', 'キン、コン、ゴン', 'かね、かな-')">金</div>
+          <div class="neobox kanji-item jp-text" onclick="openKanjiModal('土', 'Tanah', 'N5', 'ド、ト', 'つち')">土</div>
+          <div class="neobox kanji-item jp-text" onclick="openKanjiModal('人', 'Orang', 'N5', 'ジン、ニン', 'ひと')">人</div>
+        </div>
+      </section>
+
+      <!-- VIEW 3: KOTOBA -->
+      <section id="view-kotoba" class="view">
+        <h2 style="margin-bottom: 1rem;">Kotoba List</h2>
+        <div class="toggles-bar">
+          <label class="toggle-label"><input type="checkbox" id="t-kanji" checked><div class="switch"></div>Kanji</label>
+          <label class="toggle-label"><input type="checkbox" id="t-kana" checked><div class="switch"></div>Kana</label>
+          <label class="toggle-label"><input type="checkbox" id="t-arti" checked><div class="switch"></div>Arti</label>
+        </div>
+        <div class="accordion-item">
+          <div class="accordion-header" onclick="toggleAcc(this)">
+            <span>Bab 1: Perkenalan</span><i data-lucide="chevron-down"></i>
+          </div>
+          <div class="accordion-content open">
+            <div class="neobox vocab-list" id="vList1">
+              <div class="vocab-item"><div class="jp-text v-kanji">私</div><div class="jp-text v-kana">わたし</div><div class="v-arti">Saya</div></div>
+              <hr style="border:none; border-top:1px solid var(--border-color); opacity:0.2;">
+              <div class="vocab-item"><div class="jp-text v-kanji">学生</div><div class="jp-text v-kana">がくせい</div><div class="v-arti">Siswa</div></div>
+              <hr style="border:none; border-top:1px solid var(--border-color); opacity:0.2;">
+              <div class="vocab-item"><div class="jp-text v-kanji">先生</div><div class="jp-text v-kana">せんせい</div><div class="v-arti">Guru</div></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- VIEW 4: BUNPOU -->
+      <section id="view-bunpou" class="view">
+        <h2 style="margin-bottom: 1.5rem;">Tata Bahasa (Bunpou)</h2>
+        <div class="neobox bunpou-card" style="padding:1.5rem;">
+          <div class="b-title"><span class="fc-tag" style="position:static;">N5</span>〜は〜です (~wa ~desu)</div>
+          <p class="b-desc">Pola kalimat dasar untuk menyatakan "A adalah B". Partikel は dibaca "wa".</p>
+          <div class="b-example">
+            <div class="jp-text b-ex-jp">わたしは 学生 です。</div><div class="b-ex-id">Saya adalah siswa.</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- VIEW 5: RENSHUU -->
+      <section id="view-renshuu" class="view">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 1.5rem;">
+          <h2>Latihan (Renshuu)</h2>
+          <span style="font-size:0.85rem; color:var(--text-muted)">Soal 1/10</span>
+        </div>
+        <div class="neobox quiz-card">
+          <div style="display:flex; justify-content:center; margin-bottom:1rem; color:var(--accent-color)">
+            <i data-lucide="volume-2" style="width:32px; height:32px;"></i>
+          </div>
+          <div class="jp-text q-question">えんぴつ</div>
+          <div class="q-options">
+            <button class="neobtn q-option">A. Buku</button>
+            <button class="neobtn q-option">B. Pensil</button>
+            <button class="neobtn q-option">C. Tas</button>
+            <button class="neobtn q-option">D. Meja</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- VIEW 6: SETTINGS -->
+      <section id="view-settings" class="view">
+        <h2 style="font-size: 1.8rem; margin-bottom: 2rem;">Pengaturan</h2>
+        
+        <div class="neobox settings-group">
+          <div class="sg-title"><i data-lucide="layout"></i> Tampilan Antarmuka (UI Style)</div>
+          <p style="font-size:0.9rem; color:var(--text-muted); margin-bottom:1rem;">Pilih gaya desain aplikasi.</p>
+          <div class="theme-grid">
+            <div class="theme-option" id="style-neobrutalism" onclick="setStyle('neobrutalism')">Neobrutalism (Klasik)</div>
+            <div class="theme-option" id="style-modern" onclick="setStyle('modern')">Modern (Sleek)</div>
+          </div>
+        </div>
+
+        <div class="neobox settings-group">
+          <div class="sg-title"><i data-lucide="moon"></i> Mode Gelap / Terang</div>
+          <p style="font-size:0.9rem; color:var(--text-muted); margin-bottom:1rem;">Sesuaikan dengan kenyamanan matamu.</p>
+          <div class="theme-grid">
+            <div class="theme-option" id="theme-light" onclick="setThemeMode('light')">Light Mode</div>
+            <div class="theme-option" id="theme-dark" onclick="setThemeMode('dark')">Dark Mode</div>
+          </div>
+        </div>
+
+        <div class="neobox settings-group">
+          <div class="sg-title"><i data-lucide="palette"></i> Warna Aksen</div>
+          <p style="font-size:0.9rem; color:var(--text-muted); margin-bottom:1rem;">Pilih warna favoritmu, termasuk tema Matcha dan Torii Crimson.</p>
+          <div class="color-grid">
+            <button class="color-btn" data-c="matcha" style="background:#C0D684" onclick="setColor('matcha')" title="Matcha Green"></button>
+            <button class="color-btn" data-c="crimson" style="background:#FF5A5F" onclick="setColor('crimson')" title="Torii Crimson"></button>
+            <button class="color-btn" data-c="orange" style="background:#F0A07B" onclick="setColor('orange')" title="Orange"></button>
+            <button class="color-btn" data-c="blue" style="background:#7BB4F0" onclick="setColor('blue')" title="Blue"></button>
+            <button class="color-btn" data-c="green" style="background:#89D99D" onclick="setColor('green')" title="Green"></button>
+            <button class="color-btn" data-c="yellow" style="background:#FFD54F" onclick="setColor('yellow')" title="Yellow"></button>
+            <button class="color-btn" data-c="purple" style="background:#C4B5FD" onclick="setColor('purple')" title="Purple"></button>
+            <button class="color-btn" data-c="pink" style="background:#F9A8D4" onclick="setColor('pink')" title="Pink"></button>
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+  </main>
+
+  <!-- MOBILE BOTTOM NAVIGATION -->
+  <nav class="bottom-nav">
+    <button class="nav-item nav-btn active" data-target="home" onclick="switchTab('home')">
+      <div class="nav-icon"><i data-lucide="layout-grid"></i></div><span>Home</span>
+    </button>
+    <button class="nav-item nav-btn" data-target="flashcard" onclick="switchTab('flashcard')">
+      <div class="nav-icon"><i data-lucide="layers"></i></div><span>Flashcard</span>
+    </button>
+    <button class="nav-item nav-btn" data-target="kanji" onclick="switchTab('kanji')">
+      <div class="nav-icon"><i data-lucide="type"></i></div><span>Kanji</span>
+    </button>
+    <button class="nav-item nav-btn" data-target="kotoba" onclick="switchTab('kotoba')">
+      <div class="nav-icon"><i data-lucide="list"></i></div><span>Kotoba</span>
+    </button>
+    <!-- Pengaturan di bottom nav mobile -->
+    <button class="nav-item nav-btn" data-target="settings" onclick="switchTab('settings')">
+      <div class="nav-icon"><i data-lucide="settings"></i></div><span>Settings</span>
+    </button>
+  </nav>
+
+  <!-- Modal untuk Kanji -->
+  <div class="modal-overlay" id="kanjiModal" onclick="closeKanjiModal(event)">
+    <div class="neobox modal-content" onclick="event.stopPropagation()">
+      <button class="icon-btn modal-close" onclick="closeKanjiModal()"><i data-lucide="x"></i></button>
+      <div style="text-align:center; margin-bottom:1rem;">
+        <span class="fc-tag" style="position:static; display:inline-block;" id="mLevel">N5</span>
+      </div>
+      <div class="jp-text jp-xl" style="text-align:center; margin-bottom:1rem; color:var(--accent-color);" id="mKanji">日</div>
+      <div style="text-align:center; font-size:1.25rem; font-weight:800; margin-bottom:2rem;" id="mArti">Matahari</div>
+      <div class="modal-grid">
+        <div class="modal-label">Onyomi</div><div class="jp-text" style="font-weight:600;" id="mOn">ニチ、ジツ</div>
+        <div class="modal-label">Kunyomi</div><div class="jp-text" style="font-weight:600;" id="mKun">ひ、-び、-か</div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Initialize Lucide Icons
+    lucide.createIcons();
+
+    const htmlEl = document.documentElement;
+
+    // === LOAD SETTINGS ===
+    // 1. Color Mode (Dark/Light)
+    const savedTheme = localStorage.getItem('theme') || 'dark';
+    // 2. Accent Color (Matcha by default as requested)
+    const savedColor = localStorage.getItem('color') || 'matcha';
+    // 3. UI Style (Neobrutalism or Modern)
+    const savedStyle = localStorage.getItem('style') || 'modern';
+    
+    // Apply Settings
+    htmlEl.setAttribute('data-theme', savedTheme);
+    htmlEl.setAttribute('data-color', savedColor);
+    htmlEl.setAttribute('data-style', savedStyle);
+    
+    // Update Settings UI
+    function updateSettingsUI() {
+      // Theme
+      document.getElementById('theme-light').classList.toggle('active', htmlEl.getAttribute('data-theme') === 'light');
+      document.getElementById('theme-dark').classList.toggle('active', htmlEl.getAttribute('data-theme') === 'dark');
+      // Style
+      document.getElementById('style-neobrutalism').classList.toggle('active', htmlEl.getAttribute('data-style') === 'neobrutalism');
+      document.getElementById('style-modern').classList.toggle('active', htmlEl.getAttribute('data-style') === 'modern');
+      // Color
+      document.querySelectorAll('.color-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.getAttribute('data-c') === htmlEl.getAttribute('data-color'));
+      });
+    }
+    updateSettingsUI();
+
+    // === SETTINGS FUNCTIONS ===
+    function setThemeMode(mode) {
+      htmlEl.setAttribute('data-theme', mode);
+      localStorage.setItem('theme', mode);
+      updateSettingsUI();
+    }
+    
+    function setStyle(style) {
+      htmlEl.setAttribute('data-style', style);
+      localStorage.setItem('style', style);
+      updateSettingsUI();
+    }
+
+    function setColor(color) {
+      htmlEl.setAttribute('data-color', color);
+      localStorage.setItem('color', color);
+      updateSettingsUI();
+    }
+
+    // === TAB SWITCHING LOGIC ===
+    function switchTab(viewId) {
+      document.querySelectorAll('.nav-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.target === viewId);
+      });
+      document.querySelectorAll('.view').forEach(v => v.classList.remove('active'));
+      const activeView = document.getElementById('view-' + viewId);
+      if(activeView) activeView.classList.add('active');
+      document.querySelector('.main-content').scrollTop = 0;
+    }
+
+    // === FLASHCARD LOGIC ===
+    const fc = document.getElementById('mainFlashcard');
+    const fsrsControls = document.getElementById('fsrsControls');
+    const hintFlip = document.getElementById('hintFlip');
+
+    function flipCard() {
+      fc.classList.add('flipped');
+      fsrsControls.classList.add('show');
+      hintFlip.style.visibility = 'hidden';
+    }
+
+    function nextCard(response) {
+      fc.classList.remove('flipped');
+      fsrsControls.classList.remove('show');
+      hintFlip.style.visibility = 'visible';
+      
+      setTimeout(() => {
+        const kanjis = ['行く', '見る', '飲む', '書く'];
+        const random = kanjis[Math.floor(Math.random()*kanjis.length)];
+        document.querySelector('.fc-face:not(.fc-back) .jp-xl').innerText = random;
+      }, 300);
+    }
+
+    // === KANJI MODAL LOGIC ===
+    const kModal = document.getElementById('kanjiModal');
+    function openKanjiModal(kanji, arti, lvl, on, kun) {
+      document.getElementById('mKanji').innerText = kanji;
+      document.getElementById('mArti').innerText = arti;
+      document.getElementById('mLevel').innerText = lvl;
+      document.getElementById('mOn').innerText = on;
+      document.getElementById('mKun').innerText = kun;
+      kModal.classList.add('active');
+    }
+    function closeKanjiModal(e) {
+      if(e) e.stopPropagation();
+      kModal.classList.remove('active');
+    }
+
+    // === KOTOBA TOGGLES LOGIC ===
+    const tKanji = document.getElementById('t-kanji');
+    const tKana = document.getElementById('t-kana');
+    const tArti = document.getElementById('t-arti');
+    
+    function updateKotobaVisibility() {
+      const lists = document.querySelectorAll('.vocab-list');
+      lists.forEach(l => {
+        tKanji.checked ? l.classList.remove('hide-kanji') : l.classList.add('hide-kanji');
+        tKana.checked ? l.classList.remove('hide-kana') : l.classList.add('hide-kana');
+        tArti.checked ? l.classList.remove('hide-arti') : l.classList.add('hide-arti');
+      });
+    }
+    
+    tKanji.addEventListener('change', updateKotobaVisibility);
+    tKana.addEventListener('change', updateKotobaVisibility);
+    tArti.addEventListener('change', updateKotobaVisibility);
+
+    function toggleAcc(el) {
+      const content = el.nextElementSibling;
+      const icon = el.querySelector('i');
+      content.classList.toggle('open');
+      if(content.classList.contains('open')) {
+        icon.setAttribute('data-lucide', 'chevron-up');
+      } else {
+        icon.setAttribute('data-lucide', 'chevron-down');
+      }
+      lucide.createIcons();
+    }
+  </script>
+</body>
+</html>

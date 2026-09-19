@@ -1,0 +1,210 @@
+[
+  {
+    "id": "n3_bab35_1",
+    "chapter": "Bab 35",
+    "level": "N3",
+    "title": "決して〜ない",
+    "meaning": "menyatakan bahwa apapun yang terjadi, bagaimanapun juga, hal tersebut tidak akan dilakukan",
+    "formula_template": "決して（けっして） [{A}ない / {B} 〜くない / {C} 〜ではない / {D}ではない]",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '決して（けっして） [{A}ない / {B} 〜くない / {C} 〜ではない / {D}ではない]' untuk mengekspresikan: menyatakan bahwa apapun yang terjadi, bagaimanapun juga, hal tersebut tidak akan dilakukan.",
+    "ui_notes": "menyatakan bahwa apapun yang terjadi, bagaimanapun juga, hal tersebut tidak akan dilakukan",
+    "examples": [
+      {
+        "jp": "私は決して夢をあきらめません。",
+        "id": "(apapun yang terjadi) saya pasti tidak akan menyerah"
+      },
+      {
+        "jp": "「うそは決して申しません。」と彼は言った。",
+        "id": "dia bilang \"saya sama sekali tidak berbohong\""
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab35_2",
+    "chapter": "Bab 35",
+    "level": "N3",
+    "title": "まったく〜ない",
+    "meaning": "memberikan penekanan terhadap ketidakbisaan, ketidakmampuan",
+    "formula_template": "まったく [{A}ない / {B} 〜くない / {C} 〜ではない]",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'まったく [{A}ない / {B} 〜くない / {C} 〜ではない]' untuk mengekspresikan: memberikan penekanan terhadap ketidakbisaan, ketidakmampuan.",
+    "ui_notes": "memberikan penekanan terhadap ketidakbisaan, ketidakmampuan",
+    "examples": [
+      {
+        "jp": "私はまったく泳げない。",
+        "id": "saya sama sekali tidak bisa berenang"
+      },
+      {
+        "jp": "彼が怒っている理由は、私にはまったくわからない。",
+        "id": "saya sama sekali tidak mengerti alasan mengapa dia marah"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab35_3",
+    "chapter": "Bab 35",
+    "level": "N3",
+    "title": "めったにない",
+    "meaning": "menyatakan jumlah yang sedikit atau sesuatu yang jarang terjadi/dilakukan",
+    "formula_template": "{A}はめったにない / めったにない {B}ない",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}はめったにない / めったにない {B}ない' untuk mengekspresikan: menyatakan jumlah yang sedikit atau sesuatu yang jarang terjadi/dilakukan.",
+    "ui_notes": "menyatakan jumlah yang sedikit atau sesuatu yang jarang terjadi/dilakukan",
+    "examples": [
+      {
+        "jp": "こんなチャンスはめったにないよ。",
+        "id": "kesempatan seperti ini jarang ada"
+      },
+      {
+        "jp": "忙しくてめったに休みが取れない。",
+        "id": "karena sibuk, saya jarang bisa mengambil libur"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab35_4",
+    "chapter": "Bab 35",
+    "level": "N3",
+    "title": "少しも〜ない",
+    "meaning": "memberikan penekanan terhadap penyangkalan \"sedikitpun tidak\"",
+    "formula_template": "[少（すこ）しも / ちっとも] [{A}ない / {B} 〜くない / {C} 〜ではない]",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[少（すこ）しも / ちっとも] [{A}ない / {B} 〜くない / {C} 〜ではない]' untuk mengekspresikan: memberikan penekanan terhadap penyangkalan \"sedikitpun tidak\".",
+    "ui_notes": "memberikan penekanan terhadap penyangkalan \"sedikitpun tidak\"",
+    "examples": [
+      {
+        "jp": "あの人が話す英語は少しもわからない。",
+        "id": "sedikitpun saya tidak mengerti bahasa inggris yang dia bicarakan"
+      },
+      {
+        "jp": "スタイルのことは、少しも気にならない。",
+        "id": "mengenai gaya (tampilan fisik), sedikitpun saya tidak memperdulikannya"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  }
+]

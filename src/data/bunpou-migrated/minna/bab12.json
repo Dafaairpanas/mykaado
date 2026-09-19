@@ -1,0 +1,328 @@
+[
+  {
+    "id": "m_bab12_1",
+    "chapter": "Bab 12",
+    "level": "N5",
+    "title": "A Lampau untuk BNominal dan Adjektival な",
+    "meaning": "Mengubah kalimat Kata Benda atau Kata Sifat な ke dalam bentuk lampau. Untuk positif menggunakan でした, dan untuk negatif menggunakan じゃ（では）ありませんでした.",
+    "formula_template": "Positif Lampau: {A}/ {B} でした | Negatif Lampau: {C}/ {D} じゃ（では）ありませんでした",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "D": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'Positif Lampau: {A}/ {B} でした | Negatif Lampau: {C}/ {D} じゃ（では）ありませんでした' untuk menyatakan: Mengubah kalimat Kata Benda atau Kata Sifat な ke dalam bentuk lampau. Untuk positif menggunakan でした, dan untuk. Pastikan 'A' mewakili Kata Benda, 'B' mewakili Kata Sifat な, 'C' mewakili Kata Benda, 'D' mewakili Kata Sifat な.",
+    "ui_notes": "Bentuk non-lampau (sekarang/masa depan) positif menggunakan です dan negatif menggunakan じゃ（では）ありません.",
+    "examples": [
+      {
+        "jp": "きのうは 雨でした。",
+        "id": "Kemarin hujan."
+      },
+      {
+        "jp": "きのうの 試験は 簡単じゃ ありませんでした。",
+        "id": "Ujian kemarin tidak mudah."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Benda",
+      "Kata Sifat な",
+      "Waktu Lampau"
+    ]
+  },
+  {
+    "id": "m_bab12_2",
+    "chapter": "Bab 12",
+    "level": "N5",
+    "title": "A Lampau untuk BAdjektival い",
+    "meaning": "Mengubah kalimat Kata Sifat い ke dalam bentuk lampau. Akhiran い dihilangkan, untuk positif ditambah かったです, dan untuk negatif ditambah くなかったです.",
+    "formula_template": "Positif Lampau: {A} かったです | Negatif Lampau: {B} くなかったです",
+    "variables": {
+      "A": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'Positif Lampau: {A} かったです | Negatif Lampau: {B} くなかったです' untuk menyatakan: Mengubah kalimat Kata Sifat い ke dalam bentuk lampau. Akhiran い dihilangkan, untuk positif ditambah かったです, dan. Pastikan 'A' mewakili Kata Sifat い (tanpa い), 'B' mewakili Kata Sifat い (tanpa い).",
+    "ui_notes": "Pengecualian untuk いいです (baik/bagus): bentuk lampaunya adalah よかったです dan negatif lampaunya adalah よくなかったです.",
+    "examples": [
+      {
+        "jp": "きのうは 暑かったです。",
+        "id": "Kemarin panas."
+      },
+      {
+        "jp": "きのうの パーティーは あまり 楽しくなかったです。",
+        "id": "Pesta kemarin tidak begitu menyenangkan."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Sifat い",
+      "Waktu Lampau"
+    ]
+  },
+  {
+    "id": "m_bab12_3",
+    "chapter": "Bab 12",
+    "level": "N5",
+    "title": "A は B より Cです",
+    "meaning": "Menyatakan perbandingan. Menyatakan sifat atau kondisi Kata Benda1 dengan membandingkannya terhadap Kata Benda2 yang dianggap sebagai patokan. (Kata Benda1 LEBIH [Kata Sifat] DARIPADA Kata Benda2).",
+    "formula_template": "{A} は {B} より {C} です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} は {B} より {C} です' untuk menyatakan: Menyatakan perbandingan. Menyatakan sifat atau kondisi Kata Benda1 dengan membandingkannya terhadap Kata Benda. Pastikan 'A' mewakili Kata Benda1, 'B' mewakili Kata Benda2, 'C' mewakili Kata Sifat.",
+    "ui_notes": "Menyatakan perbandingan. Menyatakan sifat atau kondisi Kata Benda1 dengan membandingkannya terhadap Kata Benda2 yang dianggap sebagai patokan. (Kata Benda1 LEBIH [Kata Sifat] DARIPADA Kata Benda2).",
+    "examples": [
+      {
+        "jp": "この 車は あの 車より 大きいです。",
+        "id": "Mobil ini lebih besar daripada mobil itu."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Perbandingan",
+      "Lebih dari"
+    ]
+  },
+  {
+    "id": "m_bab12_4",
+    "chapter": "Bab 12",
+    "level": "N5",
+    "title": "A と B と どちらが Cですか",
+    "meaning": "Digunakan untuk membandingkan dan menanyakan pilihan di antara dua benda. Kata tanya どちら digunakan untuk seluruh benda yang dibandingkan (orang, benda, tempat, waktu). Jawabannya menggunakan pola ...の ほうが (lebih...).",
+    "formula_template": "Tanya: {A} と {B} と どちらが {C} ですか | Jawab: {D}/2 の ほうが {E} です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "E": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'Tanya: {A} と {B} と どちらが {C} ですか | Jawab: {D}/2 の ほうが {E} です' untuk menyatakan: Digunakan untuk membandingkan dan menanyakan pilihan di antara dua benda. Kata tanya どちら digunakan untuk selur. Pastikan 'A' mewakili Kata Benda1, 'B' mewakili Kata Benda2, 'C' mewakili Kata Sifat, 'D' mewakili Kata Benda1, 'E' mewakili Kata Sifat.",
+    "ui_notes": "Jika menyukai keduanya, bisa menjawab dengan どちらも 好きです (Dua-duanya suka).",
+    "examples": [
+      {
+        "jp": "サッカーと 野球と どちらが おもしろいですか。……サッカーの ほうが おもしろいです。",
+        "id": "Yang mana lebih menarik, sepak bola atau baseball? ……Sepak bola yang lebih menarik."
+      },
+      {
+        "jp": "ミラーさんと サントスさんと どちらが テニスが 上手ですか。",
+        "id": "Yang mana lebih pandai bermain tenis, Sdr. Miller atau Sdr. Santos?"
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Tanya",
+      "Perbandingan Dua Pilihan"
+    ]
+  },
+  {
+    "id": "m_bab12_5",
+    "chapter": "Bab 12",
+    "level": "N5",
+    "title": "A［の 中］で {何 / どこ / だれ / いつ} が いちばん Bですか",
+    "meaning": "Digunakan untuk menanyakan benda, tempat, orang, atau waktu yang memiliki tingkat maksimal (paling...) dari suatu ruang lingkup (Kata Benda1). Partikel で menunjukkan ruang lingkup tersebut.",
+    "formula_template": "Tanya: {A} ［の中］で Kata Tanya が いちばん {B} ですか | Jawab: {C} が いちばん {D} です",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "D": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'Tanya: {A} ［の中］で Kata Tanya が いちばん {B} ですか | Jawab: {C} が いちばん {D} です' untuk menyatakan: Digunakan untuk menanyakan benda, tempat, orang, atau waktu yang memiliki tingkat maksimal (paling...) dari su. Pastikan 'A' mewakili Kata Benda1, 'B' mewakili Kata Sifat, 'C' mewakili Kata Benda2, 'D' mewakili Kata Sifat.",
+    "ui_notes": "Kalimat tanya yang menanyakan subjek dari kalimat adjektival, menggunakan partikel が di belakang Kata Tanya (misal: 何が).",
+    "examples": [
+      {
+        "jp": "日本 料理［の 中］で 何が いちばん おいしいですか。……てんぷらが いちばん おいしいです。",
+        "id": "Apa yang paling enak [di antara] masakan Jepang? ……Tempura yang paling enak."
+      },
+      {
+        "jp": "ヨーロッパで どこが いちばん よかったですか。……スイスが いちばん よかったです。",
+        "id": "Daerah mana yang paling bagus di Eropa? ……Swiss yang paling bagus."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Kata Tanya",
+      "Perbandingan Paling / Superlatif"
+    ]
+  },
+  {
+    "id": "m_bab12_6",
+    "chapter": "Bab 12",
+    "level": "N5",
+    "title": "Aの (sebagai pengganti B)",
+    "meaning": "Partikel の dapat digunakan sebagai pengganti Kata Benda yang telah disebutkan sebelumnya untuk menghindari pengulangan, digabungkan dengan Kata Sifat (menjadi 'yang [Kata Sifat]').",
+    "formula_template": "{A} / {B} の",
+    "variables": {
+      "A": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i",
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} / {B} の' untuk menyatakan: Partikel の dapat digunakan sebagai pengganti Kata Benda yang telah disebutkan sebelumnya untuk menghindari pen. Pastikan 'A' mewakili Kata Sifat い (~い), 'B' mewakili Kata Sifat な (~な).",
+    "ui_notes": "Sama seperti penggunaan の pada Kata Benda1 の Kata Benda2 di pelajaran 2, namun di sini menerangkan Kata Sifat.",
+    "examples": [
+      {
+        "jp": "カリナさんの かばんは どれですか。……あの 赤くて、大きいのです。",
+        "id": "Yang mana tas Sdr. Karina? ……Yang merah dan besar itu."
+      }
+    ],
+    "tags": [
+      "N5",
+      "Partikel",
+      "Kata Ganti Benda"
+    ]
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "id": "m_bab50_1",
+    "chapter": "Bab 50",
+    "level": "N4",
+    "title": "お A（ます形） します",
+    "meaning": "Kata Merendahkan Diri I (Kenjougo I). Digunakan untuk merendahkan aksi pembicara demi menyatakan rasa hormat kepada lawan bicara, atau kepada orang yang dituju oleh aksi pembicara tersebut.",
+    "formula_template": "お {A}Golongan I & II (Bentuk ます - hilangkan ます) します",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'お {A}Golongan I & II (Bentuk ます - hilangkan ます) します' untuk menyatakan: Kata Merendahkan Diri I (Kenjougo I). Digunakan untuk merendahkan aksi pembicara demi menyatakan rasa hormat k. Pastikan 'A' mewakili Kata Kerja.",
+    "ui_notes": "Tidak dapat dipakai untuk Kata Kerja yang suku kata pertamanya pada Bentuk ます hanya memiliki satu huruf/suku kata, seperti みます (melihat) dan います (ada).",
+    "examples": [
+      {
+        "jp": "重そうですね。お持ちしましょうか。",
+        "id": "Kelihatannya berat, ya. Mari saya bawa!"
+      },
+      {
+        "jp": "私が社長にスケジュールをお知らせします。",
+        "id": "Saya yang menyampaikan jadwal kepada direktur."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Kenjougo/Merendahkan Diri"
+    ]
+  },
+  {
+    "id": "m_bab50_2",
+    "chapter": "Bab 50",
+    "level": "N4",
+    "title": "ご A（グループIII） します",
+    "meaning": "Pola Kata Merendahkan Diri I khusus untuk Kata Kerja Kelompok III (kebanyakan berasal dari kosakata bahasa Tionghoa). Makna dan fungsinya sama dengan pola 'お ～ します'.",
+    "formula_template": "ご {A}Golongan III (tanpa します) します",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola 'ご {A}Golongan III (tanpa します) します' untuk menyatakan: Pola Kata Merendahkan Diri I khusus untuk Kata Kerja Kelompok III (kebanyakan berasal dari kosakata bahasa Tio. Pastikan 'A' mewakili Kata Kerja.",
+    "ui_notes": "Sebagai pengecualian, terdapat kata kerja kelompok III yang dibubuhkan awalan 'お' bukan 'ご', contohnya: お電話します (menelepon) dan お約束します (berjanji).",
+    "examples": [
+      {
+        "jp": "江戸東京博物館へご案内します。",
+        "id": "Mari (saya) antarkan (Anda) ke Museum Edo Tokyo!"
+      },
+      {
+        "jp": "きょうの予定をご説明します。",
+        "id": "(Saya) Menjelaskan jadwal hari ini."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Kenjougo/Merendahkan Diri"
+    ]
+  },
+  {
+    "id": "m_bab50_3",
+    "chapter": "Bab 50",
+    "level": "N4",
+    "title": "特別な謙譲語I",
+    "meaning": "Beberapa kata kerja memiliki bentuk Kata Merendahkan Diri Khusus yang kata asalnya berubah total, digunakan untuk merendahkan diri dan menghormati lawan bicara yang terlibat dalam aksi tersebut.",
+    "formula_template": "{A}Merendahkan Diri Khusus (お目にかかります, 伺います, dll)",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}Merendahkan Diri Khusus (お目にかかります, 伺います, dll)' untuk menyatakan: Beberapa kata kerja memiliki bentuk Kata Merendahkan Diri Khusus yang kata asalnya berubah total, digunakan un. Pastikan 'A' mewakili Kata Kerja.",
+    "ui_notes": "Contoh: お目にかかります adalah bentuk Kenjougo dari 会います. 伺います adalah bentuk Kenjougo dari 行きます atau 来ます atau 聞きます.",
+    "examples": [
+      {
+        "jp": "社長の奥様にお目にかかりました。",
+        "id": "Bertemu dengan istri direktur."
+      },
+      {
+        "jp": "あしたはだれが手伝いに来てくれますか。……私が伺います。",
+        "id": "Besok siapa yang datang untuk membantu? ……Saya yang datang."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Kenjougo Khusus"
+    ]
+  },
+  {
+    "id": "m_bab50_4",
+    "chapter": "Bab 50",
+    "level": "N4",
+    "title": "謙譲語II（丁重語）",
+    "meaning": "Kata Merendahkan Diri II. Cara ungkapan untuk menjelaskan aksi pembicara (atau pihak pembicara) kepada lawan bicara secara halus. Berbeda dengan Kenjougo I, aksi ini tidak selalu harus melibatkan/ditujukan langsung kepada lawan bicara.",
+    "formula_template": "{A}Merendahkan Diri II (申します, 参ります, いたします, おります, dll)",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}Merendahkan Diri II (申します, 参ります, いたします, おります, dll)' untuk menyatakan: Kata Merendahkan Diri II. Cara ungkapan untuk menjelaskan aksi pembicara (atau pihak pembicara) kepada lawan b. Pastikan 'A' mewakili Kata Kerja.",
+    "ui_notes": "申します digunakan sebagai ganti 言います. 参りました sebagai ganti 来ました/行きました. Selain itu terdapat いたします (ganti します), dan (〜て) おります (ganti 〜て います).",
+    "examples": [
+      {
+        "jp": "私はミラーと申します。",
+        "id": "Saya Miller."
+      },
+      {
+        "jp": "アメリカから参りました。",
+        "id": "Datang dari Amerika Serikat."
+      }
+    ],
+    "tags": [
+      "N4",
+      "Kata Kerja",
+      "Kenjougo II/Halus"
+    ]
+  }
+]

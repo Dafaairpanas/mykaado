@@ -1,0 +1,124 @@
+[
+  {
+    "id": "i_bab13_1",
+    "chapter": "Bab 13",
+    "level": "A2.1",
+    "title": "〜んですが… (~n desu ga…) — Maaf, ...",
+    "meaning": "Pola kalimat untuk mengawali laporan atau pertanyaan tentang masalah yang sedang terjadi, terutama di tempat kerja. 'んですが' adalah bentuk penjelasan + penghubung yang sopan untuk mengantarkan laporan atau permintaan bantuan. Digunakan untuk melaporkan kesulitan atau masalah kepada atasan/rekan kerja. Artinya '(Maaf), [keadaan/masalah] (sebenarnya)...'",
+    "formula_template": "{A} んですが",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "place"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} んですが' untuk percakapan: Pola kalimat untuk mengawali laporan atau pertanyaan tentang masalah yang sedang terjadi, terutama di tempat k. Pastikan 'A' mewakili Keadaan/Masalah.",
+    "ui_notes": "'んですが' (atau 'のですが') membuat laporan lebih halus dan sopan. Biasanya diikuti dengan permintaan bantuan atau saran. Untuk melaporkan ke atasan, gunakan '〜んですが、どうしたらいいですか？' (..., apa yang harus saya lakukan?). 'んですが' juga bisa digunakan saat memulai percakapan untuk meminta bantuan.",
+    "examples": [
+      {
+        "jp": "会議室の電気がつかないんですが…。",
+        "id": "Lampu ruang rapat tidak menyala (sebenarnya)..."
+      },
+      {
+        "jp": "パソコンが動かないんですが…。",
+        "id": "Komputer tidak berfungsi (sebenarnya)..."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Tempat Kerja",
+      "Laporan",
+      "Masalah"
+    ]
+  },
+  {
+    "id": "i_bab13_2",
+    "chapter": "Bab 13",
+    "level": "A2.1",
+    "title": "V-そうです — Kelihatannya Akan ...",
+    "meaning": "Pola kalimat untuk menyatakan prediksi atau dugaan berdasarkan apa yang terlihat atau dirasakan, terutama untuk sesuatu yang akan terjadi. Berbeda dengan kata sifat 'そうです' (kelihatannya), untuk kata kerja gunakan bentuk 'ます' tanpa 'ます' + 'そうです'. Artinya 'Kelihatannya akan [melakukan V]' atau 'Sepertinya akan [V]'.",
+    "formula_template": "{A} そうです",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} そうです' untuk percakapan: Pola kalimat untuk menyatakan prediksi atau dugaan berdasarkan apa yang terlihat atau dirasakan, terutama untu. Pastikan 'A' mewakili Kata Kerja Bentuk Masu tanpa masu.",
+    "ui_notes": "Perbedaan: Kata sifat 'そう' (kelihatannya [sifat]) vs Kata kerja 'そう' (kelihatannya akan [V]). Untuk kata sifat: おいしそう (kelihatan enak). Untuk kata kerja: 降りそう (kelihatan akan turun hujan), 遅れそう (kelihatan akan terlambat). Bentuk negatif: なさそう (sepertinya tidak akan V).",
+    "examples": [
+      {
+        "jp": "どのぐらいかかりそうですか？",
+        "id": "Kelihatannya akan butuh waktu berapa lama?"
+      },
+      {
+        "jp": "もうすぐ終わりそうです。",
+        "id": "Kelihatannya akan segera selesai."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Prediksi",
+      "Estimasi",
+      "Tempat Kerja"
+    ]
+  },
+  {
+    "id": "i_bab13_3",
+    "chapter": "Bab 13",
+    "level": "A2.1",
+    "title": "V-ると、〜 (V-ru to, ~) — Kalau V, Maka ...",
+    "meaning": "Pola kalimat untuk menyatakan hubungan sebab-akibat yang pasti atau konsekuensi alami. 'と' berarti 'kalau' atau 'ketika', dan menunjukkan bahwa jika A terjadi, maka B akan terjadi secara otomatis. Sangat berguna saat menjelaskan cara kerja mesin atau instruksi. Artinya 'Kalau [V], maka [akibat]'.",
+    "formula_template": "{A} と、{B}",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} と、{B}' untuk percakapan: Pola kalimat untuk menyatakan hubungan sebab-akibat yang pasti atau konsekuensi alami. 'と' berarti 'kalau' ata. Pastikan 'A' mewakili Kata Kerja Bentuk Kamus, 'B' mewakili Akibat.",
+    "ui_notes": "'と' menyatakan hubungan yang pasti (bukan kemungkinan). Berbeda dengan 'たら' yang menyatakan kondisi hipotetis. Contoh: 春になると、花が咲く (Kalau musim semi tiba, bunga mekar - fakta umum). 'と' tidak bisa digunakan untuk menyatakan keinginan, ajakan, atau permintaan. Untuk instruksi manual, 'と' sangat umum digunakan.",
+    "examples": [
+      {
+        "jp": "このスタートボタンを押すと、コピーが始まります。",
+        "id": "Kalau tekan tombol start ini, mesin fotokopi akan mulai."
+      },
+      {
+        "jp": "このボタンを押すと、電気がつきます。",
+        "id": "Kalau tekan tombol ini, lampu akan menyala."
+      }
+    ],
+    "tags": [
+      "A2",
+      "Kondisi",
+      "Instruksi",
+      "Tempat Kerja"
+    ]
+  }
+]

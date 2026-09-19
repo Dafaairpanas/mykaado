@@ -1,0 +1,439 @@
+{
+  "id": "set1",
+  "title": "JFT-Basic Mock Test - Set 1",
+  "description": "Comprehensive JFT-Basic simulation with Vocabulary, Grammar, Reading, and Listening.",
+  "durationMinutes": 60,
+  "passingScore": 60,
+  "sections": [
+    {
+      "title": "文字・語彙 (Vocabulary & Kanji)",
+      "questions": [
+        {
+          "id": "v1",
+          "type": "gambar",
+          "text": "この絵は日本語で何と言いますか。",
+          "image": "/jft/images/set1/image.png",
+          "options": ["おふろ", "トイレ", "だいどころ", "げんかん"],
+          "correctAnswer": 1,
+          "points": 2
+        },
+        {
+          "id": "v2",
+          "type": "gambar",
+          "text": "この絵は日本語で何と言いますか。",
+          "image": "/jft/images/set1/image copy.png",
+          "options": ["まど", "ドア", "ベランダ", "かべ"],
+          "correctAnswer": 2,
+          "points": 2
+        },
+        {
+          "id": "v3",
+          "type": "gambar",
+          "text": "この人はどこにいますか。",
+          "image": "/jft/images/set1/image copy 2.png",
+          "options": ["そと", "まえ", "うしろ", "なか"],
+          "correctAnswer": 3,
+          "points": 2
+        },
+        {
+          "id": "v4",
+          "type": "gambar",
+          "text": "これは何ですか。",
+          "image": "/jft/images/set1/image copy 3.png",
+          "options": ["すいか", "りんご", "メロン", "みかん"],
+          "correctAnswer": 0,
+          "points": 2
+        },
+        {
+          "id": "v5",
+          "type": "gambar",
+          "text": "これは何ですか。",
+          "image": "/jft/images/set1/image copy 4.png",
+          "options": ["しお", "さとう", "しょうゆ", "ソース"],
+          "correctAnswer": 2,
+          "points": 2
+        },
+        {
+          "id": "v6",
+          "type": "gambar",
+          "text": "男の人は何をしていますか。",
+          "image": "/jft/images/set1/image copy 5.png",
+          "options": ["プレゼントを もらいます", "プレゼントを あげます", "プレゼントを 買います", "プレゼントを あけます"],
+          "correctAnswer": 1,
+          "points": 2
+        },
+        {
+          "id": "v7",
+          "type": "gambar",
+          "text": "ここはどこですか。",
+          "image": "/jft/images/set1/image copy 6.png",
+          "options": ["ゆうびんきょく", "ぎんこう", "けいさつ", "としょかん"],
+          "correctAnswer": 1,
+          "points": 2
+        },
+        {
+          "id": "v8",
+          "type": "gambar",
+          "text": "ここはどこですか。",
+          "image": "/jft/images/set1/image copy 7.png",
+          "options": ["びょういん", "がっこう", "たいしかん", "スーパー"],
+          "correctAnswer": 2,
+          "points": 2
+        },
+        {
+          "id": "v9",
+          "type": "gambar",
+          "text": "これは何ですか。",
+          "image": "/jft/images/set1/image copy 8.png",
+          "options": ["シャツ", "ズボン", "セーター", "コート"],
+          "correctAnswer": 2,
+          "points": 2
+        },
+        {
+          "id": "v10",
+          "type": "gambar",
+          "text": "これは何ですか。",
+          "image": "/jft/images/set1/image copy 9.png",
+          "options": ["ぼうし", "マフラー", "てぶくろ", "くつした"],
+          "correctAnswer": 1,
+          "points": 2
+        },
+        {
+          "id": "v11",
+          "type": "gambar",
+          "text": "下線の言葉はどう読みますか。",
+          "image": "/jft/images/set1/image copy 10.png",
+          "options": ["せんぶ", "ぜんぷ", "ぜんぶ", "せんぷ"],
+          "correctAnswer": 2,
+          "points": 2
+        },
+        {
+          "id": "v12",
+          "type": "gambar",
+          "text": "下線の言葉はどう読みますか。",
+          "image": "/jft/images/set1/image copy 11.png",
+          "options": ["れんがく", "れんらく", "ねんらく", "ねんがく"],
+          "correctAnswer": 1,
+          "points": 2
+        },
+        {
+          "id": "v13",
+          "type": "gambar",
+          "text": "下線の言葉はどう読みますか。",
+          "image": "/jft/images/set1/image copy 12.png",
+          "options": ["ようふう", "よふく", "よふう", "ようふく"],
+          "correctAnswer": 3,
+          "points": 2
+        },
+        {
+          "id": "v14",
+          "type": "gambar",
+          "text": "下線の言葉はどう読みますか。",
+          "image": "/jft/images/set1/image copy 13.png",
+          "options": ["ばんぐみ", "はんぐみ", "ばんくみ", "はんくみ"],
+          "correctAnswer": 0,
+          "points": 2
+        },
+        {
+          "id": "v15",
+          "type": "gambar",
+          "text": "下線の言葉はどう読みますか。",
+          "image": "/jft/images/set1/image copy 14.png",
+          "options": ["かばり", "かがり", "かざり", "かまり"],
+          "correctAnswer": 2,
+          "points": 2
+        },
+        {
+          "id": "v16",
+          "type": "gambar",
+          "text": "下線の言葉はどう書きますか。",
+          "image": "/jft/images/set1/image copy 15.png",
+          "options": ["引りない", "走りない", "足りない", "正りない"],
+          "correctAnswer": 2,
+          "points": 2
+        },
+        {
+          "id": "v17",
+          "type": "gambar",
+          "text": "下線の言葉はどう書きますか。",
+          "image": "/jft/images/set1/image copy 16.png",
+          "options": ["痛り", "通り", "道り", "運り"],
+          "correctAnswer": 1,
+          "points": 2
+        },
+        {
+          "id": "v18",
+          "type": "gambar",
+          "text": "下線の言葉はどう書きますか。",
+          "image": "/jft/images/set1/image copy 17.png",
+          "options": ["質門", "質答", "質問", "質文"],
+          "correctAnswer": 2,
+          "points": 2
+        },
+        {
+          "id": "v19",
+          "type": "gambar",
+          "text": "下線の言葉はどう書きますか。",
+          "image": "/jft/images/set1/image copy 18.png",
+          "options": ["弜い", "弱い", "強い", "弘い"],
+          "correctAnswer": 2,
+          "points": 2
+        },
+        {
+          "id": "v20",
+          "type": "gambar",
+          "text": "下線の言葉はどう書きますか。",
+          "image": "/jft/images/set1/image copy 19.png",
+          "options": ["急味", "意味", "意未", "注味"],
+          "correctAnswer": 1,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "title": "文法 (Grammar & Conversation)",
+      "questions": [
+        {
+          "id": "g1",
+          "type": "gambar",
+          "text": "（　）に何を入れますか。一番いいものをえらんでください。",
+          "image": "/jft/images/set1/image copy 20.png",
+          "options": ["に", "で", "を", "へ"],
+          "correctAnswer": 1,
+          "points": 2
+        },
+        {
+          "id": "g2",
+          "type": "gambar",
+          "text": "（　）に何を入れますか。",
+          "image": "/jft/images/set1/image copy 21.png",
+          "options": ["休む", "休んで", "休み", "休まない"],
+          "correctAnswer": 2,
+          "points": 2
+        },
+        {
+          "id": "g3",
+          "type": "gambar",
+          "text": "（　）に何を入れますか。",
+          "image": "/jft/images/set1/image copy 22.png",
+          "options": ["すきます", "すいて", "すかない", "すきました"],
+          "correctAnswer": 3,
+          "points": 2
+        },
+        {
+          "id": "g4",
+          "type": "gambar",
+          "text": "（　）に何を入れますか。",
+          "image": "/jft/images/set1/image copy 23.png",
+          "options": ["見", "見て", "見る", "見ない"],
+          "correctAnswer": 0,
+          "points": 2
+        },
+        {
+          "id": "g5",
+          "type": "gambar",
+          "text": "（　）に何を入れますか。",
+          "image": "/jft/images/set1/image copy 24.png",
+          "options": ["買う", "買って", "買った", "買わない"],
+          "correctAnswer": 2,
+          "points": 2
+        },
+        {
+          "id": "g6",
+          "type": "gambar",
+          "text": "（　）に何を入れますか。",
+          "image": "/jft/images/set1/image copy 25.png",
+          "options": ["や", "など", "と", "も"],
+          "correctAnswer": 1,
+          "points": 2
+        },
+        {
+          "id": "g7",
+          "type": "gambar",
+          "text": "（　）に何を入れますか。",
+          "image": "/jft/images/set1/image copy 26.png",
+          "options": ["かぶる", "かぶって", "かぶらない", "かぶっている"],
+          "correctAnswer": 3,
+          "points": 2
+        },
+        {
+          "id": "g8",
+          "type": "gambar",
+          "text": "（　）に何を入れますか。",
+          "image": "/jft/images/set1/image copy 27.png",
+          "options": ["弾く", "弾き", "弾いて", "弾かない"],
+          "correctAnswer": 0,
+          "points": 2
+        },
+        {
+          "id": "g9",
+          "type": "gambar",
+          "text": "（　）に何を入れますか。",
+          "image": "/jft/images/set1/image copy 28.png",
+          "options": ["で", "に", "を", "へ"],
+          "correctAnswer": 1,
+          "points": 2
+        },
+        {
+          "id": "g10",
+          "type": "gambar",
+          "text": "（　）に何を入れますか。",
+          "image": "/jft/images/set1/image copy 29.png",
+          "options": ["だんだん", "いつも", "たぶん", "きっと"],
+          "correctAnswer": 0,
+          "points": 2
+        },
+        {
+          "id": "g11",
+          "type": "gambar",
+          "text": "（　）に何を入れますか。",
+          "image": "/jft/images/set1/image copy 30.png",
+          "options": ["何でしょうか", "少しよろしいですか", "どうしましたか", "何と言っていましたか"],
+          "correctAnswer": 1,
+          "points": 2
+        },
+        {
+          "id": "g12",
+          "type": "gambar",
+          "text": "（　）に何を入れますか。",
+          "image": "/jft/images/set1/image copy 31.png",
+          "options": ["どうしましたか", "何と言っていましたか", "何のアナウンスですか", "誰ですか"],
+          "correctAnswer": 2,
+          "points": 2
+        },
+        {
+          "id": "g13",
+          "type": "gambar",
+          "text": "（　）に何を入れますか。",
+          "image": "/jft/images/set1/image copy 32.png",
+          "options": ["と言います", "と申します", "と呼びます", "と聞きます"],
+          "correctAnswer": 1,
+          "points": 2
+        },
+        {
+          "id": "g14",
+          "type": "gambar",
+          "text": "（　）に何を入れますか。",
+          "image": "/jft/images/set1/image copy 33.png",
+          "options": ["すみません", "ちょっと", "はい、どうぞ", "いいですね"],
+          "correctAnswer": 0,
+          "points": 2
+        },
+        {
+          "id": "g15",
+          "type": "gambar",
+          "text": "（　）に何を入れますか。",
+          "image": "/jft/images/set1/image copy 34.png",
+          "options": ["いつですか", "何時までですか", "どこですか", "だれですか"],
+          "correctAnswer": 1,
+          "points": 2
+        }
+      ]
+    },
+    {
+      "title": "読解 (Reading)",
+      "questions": [
+        {
+          "id": "r1",
+          "type": "gambar",
+          "text": "質問に答えてください。",
+          "image": "/jft/images/set1/image copy 35.png",
+          "options": ["朝と昼はパンです。", "昼と夜はパンです。", "朝と夜は食堂です。", "朝は食堂で、夜はパンです。"],
+          "correctAnswer": 0,
+          "points": 4
+        },
+        {
+          "id": "r2",
+          "type": "gambar",
+          "text": "質問に答えてください。",
+          "image": "/jft/images/set1/image copy 36.png",
+          "options": ["昨日", "これから", "明日", "今日"],
+          "correctAnswer": 1,
+          "points": 4
+        },
+        {
+          "id": "r3",
+          "type": "gambar",
+          "text": "質問に答えてください。",
+          "image": "/jft/images/set1/image copy 37.png",
+          "options": ["5100円", "15300円", "17850円", "5950円"],
+          "correctAnswer": 1,
+          "points": 4
+        },
+        {
+          "id": "r4",
+          "type": "gambar",
+          "text": "質問に答えてください。",
+          "image": "/jft/images/set1/image copy 38.png",
+          "options": ["金曜日の夜", "土曜日の昼", "土曜日の夜", "日曜日の夜"],
+          "correctAnswer": 1,
+          "points": 4
+        },
+        {
+          "id": "r5",
+          "type": "gambar",
+          "text": "質問に答えてください。",
+          "image": "/jft/images/set1/image copy 39.png",
+          "options": ["りんごが4つとみかんが5つ", "りんごが7つとみかんが3つ", "りんごが6つとみかんが3つ", "りんごが6つとみかんが5つ"],
+          "correctAnswer": 2,
+          "points": 4
+        }
+      ]
+    },
+    {
+      "title": "聴解 (Listening)",
+      "questions": [
+        {
+          "id": "l1",
+          "type": "choukai",
+          "text": "音声を聞いて、正しいものを選んでください。",
+          "image": "/jft/audio/set1/1.png",
+          "audio": "/jft/audio/set1/soal 1.m4a",
+          "options": ["A (バイク)", "B (電車)", "C (バス)"],
+          "correctAnswer": 0,
+          "points": 4
+        },
+        {
+          "id": "l2",
+          "type": "choukai",
+          "text": "音声を聞いて、正しいものを選んでください。",
+          "image": "/jft/audio/set1/2.png",
+          "audio": "/jft/audio/set1/soal 2.m4a",
+          "options": ["10分", "15分", "20分", "30分"],
+          "correctAnswer": 1,
+          "points": 4
+        },
+        {
+          "id": "l3",
+          "type": "choukai",
+          "text": "音声を聞いて、正しいものを選んでください。",
+          "image": "/jft/audio/set1/3.png",
+          "audio": "/jft/audio/set1/soal 3.m4a",
+          "options": ["A (高いビル)", "B (ドーム)", "C (川)"],
+          "correctAnswer": 2,
+          "points": 4
+        },
+        {
+          "id": "l4",
+          "type": "choukai",
+          "text": "音声を聞いて、正しいものを選んでください。",
+          "image": "/jft/audio/set1/4.png",
+          "audio": "/jft/audio/set1/soal 4.m4a",
+          "options": ["A (手前)", "B (ビルの上)", "C (運んでいる)"],
+          "correctAnswer": 0,
+          "points": 4
+        },
+        {
+          "id": "l5",
+          "type": "choukai",
+          "text": "音声を聞いて、正しいものを選んでください。",
+          "image": "/jft/audio/set1/5.png",
+          "audio": "/jft/audio/set1/soal 5.m4a",
+          "options": ["料理をした", "買い物に行った", "掃除をした", "何もしなかった"],
+          "correctAnswer": 0,
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

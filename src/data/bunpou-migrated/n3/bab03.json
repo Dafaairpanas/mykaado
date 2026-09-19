@@ -1,0 +1,250 @@
+[
+  {
+    "id": "n3_bab03_1",
+    "chapter": "Bab 03",
+    "level": "N3",
+    "title": "〜みたい",
+    "meaning": "merupakan bahasa lisan dari 「〜ようだ」; ✓ digunakan ketika pembicara mengambil kesimpulan atas hal yang didengar, dilihat & dirasakan",
+    "formula_template": "[{A}(biasa) / {B} (biasa) / {C} (coret だ) / {D}(coret だ)] みたいだ",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} (coret だ) / {D}(coret だ)] みたいだ' untuk mengekspresikan: merupakan bahasa lisan dari 「〜ようだ」; ✓ digunakan ketika pembicara mengambil kesimpulan atas hal yang didengar, .",
+    "ui_notes": "merupakan bahasa lisan dari 「〜ようだ」; ✓ digunakan ketika pembicara mengambil kesimpulan atas hal yang didengar, dilihat & dirasakan",
+    "examples": [
+      {
+        "jp": "明日は雨みたいね。",
+        "id": "besok sepertinya hujan"
+      },
+      {
+        "jp": "このアパートはだれも住んでいないみたいだ。",
+        "id": "apartemen ini sepertinya tidak ditinggali siapa-siapa"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Perumpamaan"
+    ]
+  },
+  {
+    "id": "n3_bab03_2",
+    "chapter": "Bab 03",
+    "level": "N3",
+    "title": "〜みたい",
+    "meaning": "digunakan untuk menjelaskan sesuatu dengan menunjukkan contoh atau mengibaratkan sesuatu",
+    "formula_template": "{A}(biasa) みたいだ / みたいに / みたいな {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}(biasa) みたいだ / みたいに / みたいな {B}' untuk mengekspresikan: digunakan untuk menjelaskan sesuatu dengan menunjukkan contoh atau mengibaratkan sesuatu.",
+    "ui_notes": "digunakan untuk menjelaskan sesuatu dengan menunjukkan contoh atau mengibaratkan sesuatu",
+    "examples": [
+      {
+        "jp": "彼の話し方は、女みたいだ。",
+        "id": "cara dia berbicara seperti perempuan"
+      },
+      {
+        "jp": "私は大阪みたいな賑やかな街が好きです。",
+        "id": "saya suka kota yang ramai seperti osaka"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Perumpamaan"
+    ]
+  },
+  {
+    "id": "n3_bab03_3",
+    "chapter": "Bab 03",
+    "level": "N3",
+    "title": "〜らしい",
+    "meaning": "ungkapan untuk menunjukkan ciri khas sebuah sifat, karakter atau keadaan",
+    "formula_template": "{A}らしい (※ 子（こ）どもらしい／女（おんな）らしい／男（おとこ）らしい／私（わたし）らしい／君（きみ）らしい)",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A}らしい (※ 子（こ）どもらしい／女（おんな）らしい／男（おとこ）らしい／私（わたし）らしい／君（きみ）らしい)' untuk mengekspresikan: ungkapan untuk menunjukkan ciri khas sebuah sifat, karakter atau keadaan.",
+    "ui_notes": "ungkapan untuk menunjukkan ciri khas sebuah sifat, karakter atau keadaan",
+    "examples": [
+      {
+        "jp": "今日は、春らしい暖かい日（ひでした。",
+        "id": "hari ini (cuacanya) hangat, (terasa sekali) musim semi nya"
+      },
+      {
+        "jp": "私は女性らしい洋服はあまり着ない。",
+        "id": "saya jarang memakai pakaian yang cewek banget"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Perumpamaan"
+    ]
+  },
+  {
+    "id": "n3_bab03_4",
+    "chapter": "Bab 03",
+    "level": "N3",
+    "title": "〜らしい",
+    "meaning": "mengungkapkan suatu hal berdasarkan informasi yang didapat dari luar (biasanya untuk gosip)",
+    "formula_template": "[{A}(biasa) / {B} (biasa) / {C} (coret だ) / {D}(coret だ)] らしい",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "adj-na"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "D": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} (coret だ) / {D}(coret だ)] らしい' untuk mengekspresikan: mengungkapkan suatu hal berdasarkan informasi yang didapat dari luar (biasanya untuk gosip).",
+    "ui_notes": "mengungkapkan suatu hal berdasarkan informasi yang didapat dari luar (biasanya untuk gosip)",
+    "examples": [
+      {
+        "jp": "最近、仕事大変らしいね。大丈夫？",
+        "id": "akhir-akhir ini denger-denger kerjaan lagi berat ya, kamu gapapa?!"
+      },
+      {
+        "jp": "あのレストランのハンバーグはとってもおいしいらしいよ。",
+        "id": "hamburg di restoran itu katanya enak"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Perumpamaan"
+    ]
+  },
+  {
+    "id": "n3_bab03_5",
+    "chapter": "Bab 03",
+    "level": "N3",
+    "title": "〜っぽい",
+    "meaning": "menerangkan sebuah sifat, karakter atau keadaan; ✓ sering digunakan dalam konteks negatif (tapi tidak selalu)",
+    "formula_template": "[{A}ます (coret ます) / {B} (coret い) / {C}(coret だ)] っぽい",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "adj-i"
+        ],
+        "semantic": [
+          "abstract"
+        ]
+      },
+      "C": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '[{A}ます (coret ます) / {B} (coret い) / {C}(coret だ)] っぽい' untuk mengekspresikan: menerangkan sebuah sifat, karakter atau keadaan; ✓ sering digunakan dalam konteks negatif (tapi tidak selalu).",
+    "ui_notes": "menerangkan sebuah sifat, karakter atau keadaan; ✓ sering digunakan dalam konteks negatif (tapi tidak selalu)",
+    "examples": [
+      {
+        "jp": "あの小学生は、大人っぽい。",
+        "id": "anak SD itu seperti orang dewasa (sifat dll seperti orang dewasa)"
+      },
+      {
+        "jp": "この料理は油っぽくていやだ。",
+        "id": "masakan ini seperti berminyak sekali, saya tidak suka (terasa banyak minyak)"
+      }
+    ],
+    "tags": [
+      "N3",
+      "Perumpamaan"
+    ]
+  }
+]

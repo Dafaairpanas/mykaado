@@ -1,0 +1,219 @@
+[
+  {
+    "id": "i_bab05_1",
+    "chapter": "Bab 05",
+    "level": "A2.2",
+    "title": "V-（られ）ます — Dapat / Bisa Melakukan V",
+    "meaning": "Pola untuk menyatakan kemampuan atau kemungkinan melakukan suatu tindakan. Bentuk potensial dibuat dengan mengubah kata kerja menjadi bentuk 'られる' (untuk kata kerja kelompok 2 dan 3) atau 'える' (untuk kata kerja kelompok 1). Sangat berguna saat menjelaskan apa yang bisa dilakukan di tempat wisata. Artinya 'Dapat [melakukan V]'.",
+    "formula_template": "{A} えます / {B} られます",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} えます / {B} られます' untuk percakapan: Pola untuk menyatakan kemampuan atau kemungkinan melakukan suatu tindakan. Bentuk potensial dibuat dengan meng. Pastikan 'A' mewakili Kata Kerja Kelompok 1, 'B' mewakili Kelompok 2 & 3.",
+    "ui_notes": "Bentuk potensial untuk kelompok 1 (godan): 読む→読める (bisa baca), 書く→書ける (bisa tulis), 話す→話せる (bisa bicara). Kelompok 2 (ichidan): 食べる→食べられる (bisa makan), 見る→見られる (bisa lihat). Kelompok 3: する→できる (bisa lakuakn), 来る→来られる (bisa datang). Dalam percakapan kasual, 'られる' sering disingkat menjadi 'れる' (例: 食べれる - bisa makan).",
+    "examples": [
+      {
+        "jp": "新鮮なカニとかウニとか食べられますよ。",
+        "id": "Anda bisa makan kepiting segar, bulu babi, dan lain-lain lho."
+      },
+      {
+        "jp": "ここで泳げますか？",
+        "id": "Bisa berenang di sini?"
+      }
+    ],
+    "tags": [
+      "B1",
+      "Kemampuan",
+      "Potensial",
+      "Wisata"
+    ]
+  },
+  {
+    "id": "i_bab05_2",
+    "chapter": "Bab 05",
+    "level": "A2.2",
+    "title": "〜ところ — Tempat untuk ...",
+    "meaning": "Pola untuk menyatakan tempat di mana suatu aktivitas dapat dilakukan. 'ところ' berarti 'tempat' atau 'bagian'. Digunakan bersama kata kerja potensial atau kata kerja biasa untuk menunjukkan tempat yang cocok untuk suatu aktivitas. Sangat berguna saat mencari tempat wisata atau fasilitas. Artinya 'Tempat untuk [melakukan V]'.",
+    "formula_template": "{A} ところ",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ところ' untuk percakapan: Pola untuk menyatakan tempat di mana suatu aktivitas dapat dilakukan. 'ところ' berarti 'tempat' atau 'bagian'. Di. Pastikan 'A' mewakili Kata Kerja.",
+    "ui_notes": "'〜ところ' juga bisa berarti 'saat akan' (V-るところ - akan segera V), 'saat sedang' (V-ているところ - sedang V), atau 'baru saja' (V-たところ - baru saja V). Dalam konteks tempat, gunakan bentuk kamus atau potensial. Contoh: 買い物するところ (tempat untuk berbelanja), 見学するところ (tempat untuk melihat).",
+    "examples": [
+      {
+        "jp": "遊べるところはありますか？",
+        "id": "Ada tempat untuk bermain?"
+      },
+      {
+        "jp": "食事するところを教えてください。",
+        "id": "Tolong beri tahu tempat untuk makan."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Tempat",
+      "Wisata",
+      "Fasilitas"
+    ]
+  },
+  {
+    "id": "i_bab05_3",
+    "chapter": "Bab 05",
+    "level": "A2.2",
+    "title": "S（bentuk biasa）って聞きました／言っていました — Mendengar / Orang Bilang bahwa ...",
+    "meaning": "Pola untuk melaporkan informasi yang didengar dari orang lain. 'って' adalah partikel kutipan kasual yang berarti 'bahwa', dan diikuti kata kerja '聞きました' (mendengar) atau '言っていました' (mengatakan). Sangat berguna saat berbagi rekomendasi wisata. Artinya 'Saya mendengar bahwa [informasi]' / '[Orang] mengatakan bahwa [informasi]'.",
+    "formula_template": "{A} って聞きました / 言っていました",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} って聞きました / 言っていました' untuk percakapan: Pola untuk melaporkan informasi yang didengar dari orang lain. 'って' adalah partikel kutipan kasual yang berart. Pastikan 'A' mewakili Informasi (Bentuk Biasa).",
+    "ui_notes": "'って' adalah bentuk kasual dari 'と' (kutipan). Dalam situasi formal, gunakan 'と': うどんがおいしいと聞きました. Untuk kata sifat-na dan kata benda, bentuk biasa 'だ' digunakan sebelum 'って': 便利だって, 学生だって. '〜そうです' (kabarnya) adalah alternatif yang lebih sopan.",
+    "examples": [
+      {
+        "jp": "うどんがおいしいって聞きました。",
+        "id": "Saya mendengar bahwa udon itu enak."
+      },
+      {
+        "jp": "バスが安くて便利だって先輩が言っていました。",
+        "id": "Senior mengatakan bahwa bus itu murah dan praktis."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Informasi",
+      "Kutipan",
+      "Rekomendasi"
+    ]
+  },
+  {
+    "id": "i_bab05_4",
+    "chapter": "Bab 05",
+    "level": "A2.2",
+    "title": "【kata tanya】V-たらいいですか？ — Sebaiknya Bagaimana?",
+    "meaning": "Pola untuk menanyakan cara atau metode terbaik untuk melakukan sesuatu. 'たら' adalah bentuk kondisional, dan 'いいですか' berarti 'apakah baik?'. Digunakan untuk meminta saran tentang transportasi, rute, atau rencana perjalanan. Artinya '[Kata tanya] yang terbaik?' atau 'Sebaiknya [kata tanya]?'.",
+    "formula_template": "{A} {B} らいいですか？",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object",
+          "abstract"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} {B} らいいですか？' untuk percakapan: Pola untuk menanyakan cara atau metode terbaik untuk melakukan sesuatu. 'たら' adalah bentuk kondisional, dan 'い. Pastikan 'A' mewakili Kata Tanya, 'B' mewakili Kata Kerja Bentuk Lampau.",
+    "ui_notes": "Pola ini menggunakan bentuk lampau + ら (contoh: 行く→行ったら, する→したら). Untuk pertanyaan tanpa kata tanya: どうしたらいいですか？ (Apa yang sebaiknya saya lakukan?). Untuk saran yang lebih langsung: V-たらいいですよ (Sebaiknya V).",
+    "examples": [
+      {
+        "jp": "日光に行くんですけど、何で行ったらいいですか？",
+        "id": "Saya mau pergi ke Nikko, sebaiknya naik apa?"
+      },
+      {
+        "jp": "何時に出発したらいいですか？",
+        "id": "Jam berapa sebaiknya berangkat?"
+      }
+    ],
+    "tags": [
+      "B1",
+      "Saran",
+      "Pertanyaan",
+      "Wisata"
+    ]
+  },
+  {
+    "id": "i_bab05_5",
+    "chapter": "Bab 05",
+    "level": "A2.2",
+    "title": "V-たほうがいいです／V-ないほうがいいです — Sebaiknya V / Sebaiknya Tidak V",
+    "meaning": "Pola untuk memberikan saran atau rekomendasi tentang tindakan yang sebaiknya dilakukan atau dihindari. 'ほうがいい' berarti 'lebih baik'. Menggunakan bentuk lampau untuk saran positif, dan bentuk negatif untuk saran negatif. Sangat berguna saat memberi tips perjalanan. Artinya 'Sebaiknya [V]' / 'Sebaiknya tidak [V]'.",
+    "formula_template": "{A} ほうがいいです / {B} ほうがいいです",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ほうがいいです / {B} ほうがいいです' untuk percakapan: Pola untuk memberikan saran atau rekomendasi tentang tindakan yang sebaiknya dilakukan atau dihindari. 'ほうがいい'. Pastikan 'A' mewakili Kata Kerja Bentuk Lampau, 'B' mewakili Kata Kerja Negatif.",
+    "ui_notes": "Bentuk kasual: V-たほうがいい / V-ないほうがいい. Untuk saran yang lebih lembut, gunakan: V-たほうがいいかもしれません (Mungkin lebih baik V). Jangan gunakan 'V-るほうがいい' (salah secara tata bahasa), selalu gunakan bentuk lampau untuk saran positif.",
+    "examples": [
+      {
+        "jp": "厚い上着を持って行ったほうがいいですよ。",
+        "id": "Sebaiknya bawa jaket tebal lho."
+      },
+      {
+        "jp": "できれば、日曜日は行かないほうがいいですよ。",
+        "id": "Kalau bisa, sebaiknya tidak pergi hari Minggu lho."
+      }
+    ],
+    "tags": [
+      "B1",
+      "Saran",
+      "Rekomendasi",
+      "Wisata"
+    ]
+  }
+]

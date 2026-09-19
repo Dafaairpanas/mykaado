@@ -1,0 +1,250 @@
+[
+  {
+    "id": "i_bab05_1",
+    "chapter": "Bab 05",
+    "level": "A1",
+    "title": "Nが好きです / 好きじゃないです",
+    "meaning": "Pola kalimat untuk menyatakan suka atau tidak suka terhadap sesuatu (biasanya makanan, minuman, atau aktivitas). '好き' adalah kata sifat yang berarti 'suka', dan partikel 'が' menunjukkan objek yang disukai. Bentuk negatifnya adalah '好きじゃないです' (tidak suka).",
+    "formula_template": "{A} が好きです / が好きじゃないです",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} が好きです / が好きじゃないです' untuk percakapan: Pola kalimat untuk menyatakan suka atau tidak suka terhadap sesuatu (biasanya makanan, minuman, atau aktivitas. Pastikan 'A' mewakili Benda/Aktivitas.",
+    "ui_notes": "Subjek (watashi wa) sering dihilangkan karena sudah jelas dari konteks. Untuk menyatakan lebih dari satu benda, gunakan partikel 'と' (dan). Perhatikan bahwa meskipun '好き' dalam bahasa Jepang mirip kata sifat, secara tata bahasa diikuti partikel 'が', bukan 'を'.",
+    "examples": [
+      {
+        "jp": "肉と野菜が好きです。",
+        "id": "Saya suka daging dan sayuran."
+      },
+      {
+        "jp": "魚は好きじゃないです。",
+        "id": "Saya tidak suka ikan."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Makanan",
+      "Preferensi"
+    ]
+  },
+  {
+    "id": "i_bab05_2",
+    "chapter": "Bab 05",
+    "level": "A1",
+    "title": "Nはちょっと…",
+    "meaning": "Cara halus dan sopan untuk menyatakan ketidaksukaan tanpa menolak secara langsung. 'ちょっと' berarti 'agak' atau 'sedikit', dan diakhiri dengan '...' (ditahan) untuk memberi kesan ragu-ragu. Ini adalah strategi komunikasi yang umum dalam budaya Jepang untuk menghindari konfrontasi langsung.",
+    "formula_template": "{A} はちょっと…",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "object"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} はちょっと…' untuk percakapan: Cara halus dan sopan untuk menyatakan ketidaksukaan tanpa menolak secara langsung. 'ちょっと' berarti 'agak' atau . Pastikan 'A' mewakili Benda.",
+    "ui_notes": "Ini adalah bentuk penolakan yang sopan. Lawan bicara biasanya akan memahami bahwa Anda tidak menyukai sesuatu tanpa Anda harus mengatakan 'tidak suka' secara langsung. Sangat berguna saat berada di restoran atau ditawari makanan tertentu.",
+    "examples": [
+      {
+        "jp": "わさびは、ちょっと…。",
+        "id": "Wasabi itu, agak (kurang suka)."
+      },
+      {
+        "jp": "辛いものは、ちょっと…。",
+        "id": "Makanan pedas itu, agak (kurang suka)."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Makanan",
+      "Sopan",
+      "Preferensi"
+    ]
+  },
+  {
+    "id": "i_bab05_3",
+    "chapter": "Bab 05",
+    "level": "A1",
+    "title": "V-ますか？ / V-る？",
+    "meaning": "Dua bentuk pertanyaan untuk menanyakan apakah seseorang mau melakukan sesuatu. 'V-ますか' adalah bentuk sopan yang digunakan dengan orang yang lebih tua atau belum akrab. 'V-る' (bentuk kamus/dictionary form) adalah bentuk kasual untuk teman dekat atau orang yang lebih muda.",
+    "formula_template": "{A} か？ / ？",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} か？ / ？' untuk percakapan: Dua bentuk pertanyaan untuk menanyakan apakah seseorang mau melakukan sesuatu. 'V-ますか' adalah bentuk sopan yan. Pastikan 'A' mewakili Kata Kerja Bentuk Masu/Kamus.",
+    "ui_notes": "Bentuk 'V-ますか' adalah bentuk sopan standar. 'V-る' (bentuk kamus) digunakan dalam percakapan kasual, dan sering diucapkan dengan intonasi naik di akhir kalimat tanpa partikel 'か'. Untuk menawarkan sesuatu secara lebih sopan, bisa gunakan '〜はいかがですか' (misalnya: お茶はいかがですか？ = Bagaimana dengan teh?).",
+    "examples": [
+      {
+        "jp": "お茶、飲みますか？",
+        "id": "Apakah mau minum teh? (sopan)"
+      },
+      {
+        "jp": "何、飲む？",
+        "id": "Mau minum apa? (kasual)"
+      }
+    ],
+    "tags": [
+      "A1",
+      "Pertanyaan",
+      "Minuman",
+      "Komunikasi"
+    ]
+  },
+  {
+    "id": "i_bab05_4",
+    "chapter": "Bab 05",
+    "level": "A1",
+    "title": "NをV-ます",
+    "meaning": "Pola kalimat untuk menyatakan bahwa seseorang memakan atau meminum sesuatu. Partikel 'を' menunjukkan objek yang dikenai tindakan (apa yang dimakan/diminum). Diikuti oleh kata kerja seperti '食べます' (makan) atau '飲みます' (minum).",
+    "formula_template": "{A} を {B}",
+    "variables": {
+      "A": {
+        "type": [
+          "noun"
+        ],
+        "semantic": [
+          "food"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} を {B}' untuk percakapan: Pola kalimat untuk menyatakan bahwa seseorang memakan atau meminum sesuatu. Partikel 'を' menunjukkan objek yan. Pastikan 'A' mewakili Benda/Makanan/Minuman, 'B' mewakili Kata Kerja.",
+    "ui_notes": "Partikel 'を' dibaca 'o' (bukan 'wo'). Dalam percakapan sehari-hari, partikel 'を' sering dihilangkan, terutama dalam situasi kasual. Contoh: コーヒー飲む？ (Mau minum kopi?). Kata kerja yang umum digunakan dengan partikel ini: 食べます (makan), 飲みます (minum), 買います (beli), 読みます (baca).",
+    "examples": [
+      {
+        "jp": "シリアルを食べます。",
+        "id": "Saya makan sereal."
+      },
+      {
+        "jp": "コーヒーを飲みます。",
+        "id": "Saya minum kopi."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Makanan",
+      "Minuman",
+      "Partikel"
+    ]
+  },
+  {
+    "id": "i_bab05_5",
+    "chapter": "Bab 05",
+    "level": "A1",
+    "title": "V-ません / V-ないです",
+    "meaning": "Dua bentuk negatif dari kata kerja yang sama-sama sopan. 'V-ません' adalah bentuk negatif sopan standar (lebih sering digunakan dalam situasi formal). 'V-ないです' adalah bentuk negatif sopan kasual (lebih sering digunakan dalam percakapan sehari-hari). Keduanya berarti 'tidak melakukan V'.",
+    "formula_template": "{A} ません / {B} ないです",
+    "variables": {
+      "A": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      },
+      "B": {
+        "type": [
+          "v1",
+          "v2",
+          "v3"
+        ],
+        "semantic": [
+          "action"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} ません / {B} ないです' untuk percakapan: Dua bentuk negatif dari kata kerja yang sama-sama sopan. 'V-ません' adalah bentuk negatif sopan standar (lebih se. Pastikan 'A' mewakili Kata Kerja Bentuk Masu, 'B' mewakili Kata Kerja Bentuk Kamus.",
+    "ui_notes": "'V-ません' dianggap sedikit lebih formal daripada 'V-ないです', tetapi keduanya bisa digunakan dalam situasi sehari-hari. 'V-ないです' sering lebih natural dalam percakapan santai. Bentuk negatif dari 'あります' (ada) adalah 'ありません' atau 'ないです'.",
+    "examples": [
+      {
+        "jp": "朝ご飯はあまり食べません。",
+        "id": "Saya tidak banyak makan sarapan."
+      },
+      {
+        "jp": "私も、食べないです。",
+        "id": "Saya juga tidak makan."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Negatif",
+      "Makanan"
+    ]
+  },
+  {
+    "id": "i_bab05_6",
+    "chapter": "Bab 05",
+    "level": "A1",
+    "title": "Frekuensi: よく / あまり〜ません",
+    "meaning": "Kata keterangan frekuensi yang sering digunakan dalam percakapan tentang makanan dan kebiasaan. 'よく' berarti 'sering' dan digunakan dengan pernyataan positif. 'あまり' berarti 'tidak terlalu' dan HARUS diikuti dengan bentuk negatif (〜ません / 〜ないです).",
+    "formula_template": "{A} よく V-ます / {B} あまり V-ません",
+    "variables": {
+      "A": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      },
+      "B": {
+        "type": [
+          "noun",
+          "pronoun"
+        ],
+        "semantic": [
+          "person"
+        ]
+      }
+    },
+    "ai_instruction": "Gunakan pola '{A} よく V-ます / {B} あまり V-ません' untuk percakapan: Kata keterangan frekuensi yang sering digunakan dalam percakapan tentang makanan dan kebiasaan. 'よく' berarti '. Pastikan 'A' mewakili Subjek, 'B' mewakili Subjek.",
+    "ui_notes": "Kata keterangan frekuensi lainnya: 'いつも' (selalu), 'たいてい' (biasanya), 'ときどき' (kadang-kadang), 'ぜんぜん' (tidak pernah - harus diikuti negatif). 'あまり' dan 'ぜんぜん' selalu diikuti bentuk negatif. 'よく' dan 'ときどき' diikuti bentuk positif.",
+    "examples": [
+      {
+        "jp": "パンと卵とヨーグルトをよく食べます。",
+        "id": "Saya sering makan roti, telur, dan yoghurt."
+      },
+      {
+        "jp": "朝ご飯はあまり食べません。",
+        "id": "Saya tidak terlalu banyak makan sarapan."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Frekuensi",
+      "Kebiasaan",
+      "Makanan"
+    ]
+  }
+]
