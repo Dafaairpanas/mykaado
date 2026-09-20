@@ -5,7 +5,8 @@ import { useRouter } from "next/navigation";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { FSRSEngine, type ReviewCard } from "@/lib/fsrs-engine";
-import { fetchSelectedDecks } from "@/lib/data-loader";
+import { fetchSelectedDecks, fetchAllCardsMap } from "@/lib/data-loader";
+import { db } from "@/lib/db";
 import { Rating, State } from "ts-fsrs";
 import { ArrowLeft } from "lucide-react";
 
@@ -36,6 +37,7 @@ export default function FlashcardPage() {
   const [isFlipped, setIsFlipped] = useState(false);
   const [isLoading, setIsLoading] = useState(true);
   const [cardStartTime, setCardStartTime] = useState(Date.now());
+  const [struggledCards, setStruggledCards] = useState<Map<string, ReviewCard>>(new Map());
   
   // Stats: learned = cards already reviewed, rev = re-queued cards remaining, new = unseen cards remaining
   const [stats, setStats] = useState({ learned: 0, rev: 0 });
@@ -78,6 +80,7 @@ export default function FlashcardPage() {
       // Baca config baru atau lama (backward compatibility)
       const savedConfig = localStorage.getItem("mykaado_flashcard_config");
       const savedDecksOnly = localStorage.getItem("mykaado_selected_decks");
+      const customCardsStr = localStorage.getItem("mykaado_custom_cards");
       
       let parsedConfig: FlashcardConfig;
       
@@ -97,6 +100,47 @@ export default function FlashcardPage() {
       }
       
       setConfig(parsedConfig);
+
+      if (customCardsStr) {
+        const customCardIds: string[] = JSON.parse(customCardsStr);
+        const map = await fetchAllCardsMap();
+        const customData = customCardIds.map(id => map.get(id)).filter(Boolean);
+        
+        const now = new Date();
+        const dueCards: ReviewCard[] = [];
+        const isKanjiDeck = customData.length > 0 && "onyomi" in customData[0];
+        const deckType = isKanjiDeck ? "kanji" : "kotoba";
+
+        const progressList = await db.progress.where('card_id').anyOf(customCardIds).toArray();
+        const progressMap = new Map(progressList.map(p => [p.card_id, p]));
+
+        for (const card of customData) {
+          let progress = progressMap.get(card.id);
+          if (!progress) {
+            progress = {
+              card_id: card.id,
+              type: deckType,
+              state: State.New,
+              due: now,
+              stability: 0,
+              difficulty: 0,
+              elapsed_days: 0,
+              scheduled_days: 0,
+              reps: 0,
+              lapses: 0,
+              last_review: null
+            };
+          }
+          dueCards.push({ card, progress, type: deckType });
+          dueCards.push({ card, progress, type: deckType }); // Duplicate 2x for Custom Session
+        }
+
+        setCards(shuffleArray(dueCards));
+        setStats({ learned: 0, rev: 0 });
+        setCardStartTime(Date.now());
+        setIsLoading(false);
+        return;
+      }
 
       const rawData = await fetchSelectedDecks(parsedConfig.selectedDecks);
       
@@ -150,7 +194,24 @@ export default function FlashcardPage() {
     
     const currentCard = cards[currentIndex];
     const durationMs = Date.now() - cardStartTime;
-    await FSRSEngine.rateCard(currentCard, rating, durationMs);
+    const key = (currentCard.card as any).id || (currentCard.card as any).title || (currentCard.card as any).kanji || (currentCard.card as any).kana || JSON.stringify(currentCard.card);
+    
+    let newUnmasteredState: boolean | undefined = undefined;
+
+    if (rating !== Rating.Easy) {
+      newUnmasteredState = true;
+      setStruggledCards(prev => {
+        const next = new Map(prev);
+        next.set(key, currentCard);
+        return next;
+      });
+    } else {
+      if (!struggledCards.has(key)) {
+        newUnmasteredState = false;
+      }
+    }
+    
+    await FSRSEngine.rateCard(currentCard, rating, durationMs, newUnmasteredState);
     
     // Flip card back first, then wait for animation to finish before advancing
     setIsFlipped(false);
@@ -217,11 +278,49 @@ export default function FlashcardPage() {
   }
 
   if (currentIndex >= cards.length) {
+    const struggledList = Array.from(struggledCards.values());
+    
+    const handleRelearn = () => {
+      // Multiply by 2x
+      const newCards: ReviewCard[] = [];
+      for (const item of struggledList) {
+        newCards.push(item);
+        newCards.push(item);
+      }
+      setCards(shuffleArray(newCards));
+      setCurrentIndex(0);
+      setStruggledCards(new Map());
+      setStats({ learned: 0, rev: 0 });
+      setCardStartTime(Date.now());
+    };
+
     return (
-      <div className="flex flex-col items-center justify-center h-[60vh] text-center px-4">
+      <div className="flex flex-col items-center justify-center min-h-[60vh] py-12 px-4 max-w-4xl mx-auto w-full">
         <h2 className="text-3xl font-bold mb-4">Selesai! 🎉</h2>
-        <p className="text-[var(--color-text-muted)] mb-8">Anda telah mereview semua kartu yang dijadwalkan hari ini.</p>
-        <Button variant="primary" onClick={() => router.push("/")}>Kembali ke Dashboard</Button>
+        <p className="text-[var(--color-text-muted)] mb-8 text-center">Anda telah mereview semua kartu yang dijadwalkan hari ini.</p>
+        
+        {struggledList.length > 0 && (
+          <div className="w-full bg-[var(--color-bg-card)] p-6 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[4px_4px_0px_var(--color-shadow-main)] mb-8">
+            <h3 className="text-xl font-bold mb-4 border-b-2 border-dashed border-[var(--color-border-main)] pb-2 text-center md:text-left">Kartu yang Perlu Diulang ({struggledList.length})</h3>
+            <div className="max-h-[300px] overflow-y-auto custom-scrollbar pr-2 space-y-2 mb-6">
+              {struggledList.map((item, idx) => {
+                const c = item.card as any;
+                const jp = c.title || c.kanji || c.kana;
+                return (
+                  <div key={idx} className="flex flex-col bg-[var(--color-bg-nav)] p-3 rounded border-[length:var(--bw-sm)] border-[var(--color-border-main)]">
+                    <span className="font-bold text-lg jp-text">{jp}</span>
+                    <span className="text-sm text-[var(--color-text-muted)]">{c.meaning}</span>
+                  </div>
+                );
+              })}
+            </div>
+            <Button variant="primary" className="w-full py-6 text-lg font-bold shadow-[2px_2px_0px_var(--color-shadow-main)]" onClick={handleRelearn}>
+              Ulangi Kartu Ini (2x)
+            </Button>
+          </div>
+        )}
+
+        <Button variant="default" onClick={() => router.push("/flashcard/setup")}>Kembali ke Setup</Button>
       </div>
     );
   }

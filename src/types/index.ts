@@ -60,6 +60,7 @@ export interface FSRSProgress {
   reps: number;
   lapses: number;
   last_review: Date | null;
+  unmastered?: boolean;
 }
 
 export interface ReviewHistory {

@@ -69,7 +69,7 @@ export class FSRSEngine {
   /**
    * Menilai kartu (Again=1, Hard=2, Good=3, Easy=4) dan menyimpan ke database
    */
-  static async rateCard(reviewCard: ReviewCard, rating: Rating, durationMs: number = 0): Promise<FSRSProgress> {
+  static async rateCard(reviewCard: ReviewCard, rating: Rating, durationMs: number = 0, unmastered?: boolean): Promise<FSRSProgress> {
     const now = new Date();
     
     // Convert FSRSProgress to ts-fsrs Card format
@@ -102,7 +102,8 @@ export class FSRSEngine {
       scheduled_days: nextLog.card.scheduled_days,
       reps: nextLog.card.reps,
       lapses: nextLog.card.lapses,
-      last_review: nextLog.card.last_review || now
+      last_review: nextLog.card.last_review || now,
+      unmastered: unmastered !== undefined ? unmastered : reviewCard.progress.unmastered
     };
 
     // Save to IndexedDB (Transaction for safety)

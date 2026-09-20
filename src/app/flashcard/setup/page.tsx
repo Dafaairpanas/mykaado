@@ -38,6 +38,36 @@ function SetupPageContent() {
   const [dragAction, setDragAction] = useState<"select" | "deselect">("select");
   const [draggedSet, setDraggedSet] = useState<Set<string>>(new Set());
 
+  // Restore previous configuration from localStorage
+  useEffect(() => {
+    const savedConfigStr = localStorage.getItem("mykaado_flashcard_config");
+    if (savedConfigStr) {
+      try {
+        const config = JSON.parse(savedConfigStr);
+        if (config.selectedDecks && Array.isArray(config.selectedDecks) && config.selectedDecks.length > 0) {
+          setSelectedDecks(config.selectedDecks);
+          
+          const firstDeck = config.selectedDecks[0];
+          let targetTab = "minna";
+          if (firstDeck.startsWith("ir_")) targetTab = "irodori";
+          else if (firstDeck.startsWith("n3_")) targetTab = "n3";
+          else if (firstDeck.startsWith("kj_")) targetTab = "kanji";
+
+          if (!window.location.search.includes("filter") && targetTab !== "minna") {
+            router.replace(`?filter=${targetTab}`);
+          }
+        }
+        if (config.grades && Array.isArray(config.grades)) setSelectedGrades(config.grades);
+        if (config.levels && Array.isArray(config.levels)) setSelectedLevels(config.levels);
+        if (config.studyMode) setStudyMode(config.studyMode);
+        if (config.hideLabel !== undefined) setHideLabel(config.hideLabel);
+      } catch (e) {
+        console.error("Failed to parse previous flashcard config", e);
+      }
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
   // Helpers
   const toggleArrayItem = (setter: React.Dispatch<React.SetStateAction<any[]>>, item: any) => {
     setter(prev => prev.includes(item) ? prev.filter(i => i !== item) : [...prev, item]);
@@ -160,8 +190,17 @@ function SetupPageContent() {
     setSelectedDecks(prev => [...new Set([...prev, ...ids])]);
   };
 
+  const selectSource = (sourceId: string) => {
+    const source = activeSources.find(s => s.id === sourceId);
+    if (!source) return;
+    const ids = source.chapters.map(c => c.id);
+    setSelectedDecks(prev => [...new Set([...prev, ...ids])]);
+  };
+
   const clearSelection = () => {
-    setSelectedDecks([]);
+    if (activeSources.length === 0) return;
+    const idsToClear = new Set(activeSources.flatMap(s => s.chapters.map(c => c.id)));
+    setSelectedDecks(prev => prev.filter(id => !idsToClear.has(id)));
   };
 
   // --- Drag to Select Handlers ---
@@ -231,6 +270,7 @@ function SetupPageContent() {
       hideLabel
     };
     
+    localStorage.removeItem("mykaado_custom_cards");
     localStorage.setItem("mykaado_flashcard_config", JSON.stringify(config));
     router.push("/flashcard");
   };
@@ -391,7 +431,24 @@ function SetupPageContent() {
             
             {activeTab === "irodori" && (
               <div className="flex flex-wrap gap-1.5 mb-4">
+                <Button variant="default" size="sm" onClick={() => selectSource('irodori_a1')}>Irodori A1</Button>
+                <Button variant="default" size="sm" onClick={() => selectSource('irodori_a2_1')}>Irodori A2-1</Button>
+                <Button variant="default" size="sm" onClick={() => selectSource('irodori_a2_2')}>Irodori A2-2</Button>
                 <Button variant="default" size="sm" onClick={selectAll}>All Irodori</Button>
+                <Button variant="default" size="sm" onClick={clearSelection} className="text-[var(--color-fsrs-again)] !border-[var(--color-fsrs-again)]">Clear</Button>
+              </div>
+            )}
+            
+            {activeTab === "n3" && (
+              <div className="flex flex-wrap gap-1.5 mb-4">
+                <Button variant="default" size="sm" onClick={selectAll}>All N3</Button>
+                <Button variant="default" size="sm" onClick={clearSelection} className="text-[var(--color-fsrs-again)] !border-[var(--color-fsrs-again)]">Clear</Button>
+              </div>
+            )}
+            
+            {activeTab === "kanji" && (
+              <div className="flex flex-wrap gap-1.5 mb-4">
+                <Button variant="default" size="sm" onClick={selectAll}>All Kanji</Button>
                 <Button variant="default" size="sm" onClick={clearSelection} className="text-[var(--color-fsrs-again)] !border-[var(--color-fsrs-again)]">Clear</Button>
               </div>
             )}

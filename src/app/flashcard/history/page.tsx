@@ -17,7 +17,7 @@ export default function HistoryPage() {
 
   // Tab 1: Review Log
   const [historyItems, setHistoryItems] = useState<any[]>([]);
-  const [logFilter, setLogFilter] = useState<number | "all">("all");
+  const [selectedCards, setSelectedCards] = useState<Set<string>>(new Set());
 
   // Tab 2: Progress
   const [progressStats, setProgressStats] = useState<any[]>([]);
@@ -33,17 +33,53 @@ export default function HistoryPage() {
       const map = await fetchAllCardsMap();
       setCardsMap(map);
 
-      // Load History Items for Log
+      // Group History by Card
       const histories = await db.history.toArray();
-      const latestHistoryByCard = new Map<string, any>();
+      const historyByCard = new Map<string, any[]>();
       histories.forEach(h => {
-        const existing = latestHistoryByCard.get(h.card_id);
-        if (!existing || new Date(h.reviewed_at) > new Date(existing.reviewed_at)) {
-          latestHistoryByCard.set(h.card_id, h);
+        if (!historyByCard.has(h.card_id)) historyByCard.set(h.card_id, []);
+        historyByCard.get(h.card_id)!.push(h);
+      });
+
+      const unmasteredCards = new Map<string, any>();
+      const masteredCards = new Set<string>(); // for Progress calculation
+
+      const progressList = await db.progress.toArray();
+      const progressMap = new Map(progressList.map(p => [p.card_id, p]));
+
+      historyByCard.forEach((cardHistories, cardId) => {
+        // Sort ascending by time
+        cardHistories.sort((a, b) => new Date(a.reviewed_at).getTime() - new Date(b.reviewed_at).getTime());
+        
+        const prog = progressMap.get(cardId);
+        if (prog && prog.unmastered !== undefined) {
+          if (prog.unmastered) {
+            unmasteredCards.set(cardId, cardHistories[cardHistories.length - 1]);
+          } else {
+            masteredCards.add(cardId);
+          }
+        } else {
+          // Fallback logic
+          let firstReviewOfLatestSession = cardHistories[0];
+
+          for (let i = cardHistories.length - 1; i > 0; i--) {
+             const curr = new Date(cardHistories[i].reviewed_at).getTime();
+             const prev = new Date(cardHistories[i - 1].reviewed_at).getTime();
+             if (curr - prev > 60 * 60 * 1000) { // 1 hour gap
+                firstReviewOfLatestSession = cardHistories[i];
+                break;
+             }
+          }
+
+          if (firstReviewOfLatestSession.rating === 4) {
+            masteredCards.add(cardId);
+          } else {
+            unmasteredCards.set(cardId, cardHistories[cardHistories.length - 1]);
+          }
         }
       });
       
-      const enrichedHistory = Array.from(latestHistoryByCard.values())
+      const enrichedHistory = Array.from(unmasteredCards.values())
         .map(h => ({
           ...h,
           cardData: map.get(h.card_id)
@@ -51,10 +87,6 @@ export default function HistoryPage() {
         .filter(h => h.cardData);
       
       setHistoryItems(enrichedHistory);
-
-      // Load Progress
-      const progresses = await db.progress.toArray();
-      const progressSet = new Set(progresses.filter(p => p.reps > 0).map(p => p.card_id));
       
       // Better way for progress: iterate over all cards in map
       const statsMap: Record<string, { total: number, learned: number }> = {
@@ -73,7 +105,7 @@ export default function HistoryPage() {
 
         if (bucket) {
           statsMap[bucket].total++;
-          if (progressSet.has(id)) statsMap[bucket].learned++;
+          if (masteredCards.has(id)) statsMap[bucket].learned++;
         }
       });
 
@@ -95,9 +127,12 @@ export default function HistoryPage() {
       const days = [];
       for (let i = 6; i >= 0; i--) {
         const d = new Date(now.getTime() - i * 24 * 60 * 60 * 1000);
-        const dateStr = d.toISOString().split('T')[0];
+        const dateStr = `${d.getFullYear()}-${d.getMonth()}-${d.getDate()}`;
         
-        const dayHistories = recentHistories.filter(h => new Date(h.reviewed_at).toISOString().split('T')[0] === dateStr);
+        const dayHistories = recentHistories.filter(h => {
+          const hd = new Date(h.reviewed_at);
+          return `${hd.getFullYear()}-${hd.getMonth()}-${hd.getDate()}` === dateStr;
+        });
         const cardsReviewed = new Set(dayHistories.map(h => h.card_id)).size;
         const durationMs = dayHistories.reduce((sum, h) => sum + (h.review_duration_ms || 0), 0);
         
@@ -124,18 +159,34 @@ export default function HistoryPage() {
   };
 
   const handlePracticeFiltered = () => {
-    const cardsToPractice = historyItems
-      .filter(h => logFilter === "all" || h.rating === logFilter)
-      .map(h => h.card_id);
+    const cardsToPractice = selectedCards.size > 0 
+      ? Array.from(selectedCards)
+      : historyItems.map(h => h.card_id);
       
     if (cardsToPractice.length === 0) return;
     
-    alert(`Fitur memainkan set kartu custom (jumlah: ${cardsToPractice.length}) segera hadir! (butuh update ke FSRSEngine)`);
+    localStorage.setItem("mykaado_custom_cards", JSON.stringify(cardsToPractice));
+    router.push("/flashcard");
   };
 
-  const filteredLog = historyItems
-    .filter(h => logFilter === "all" || h.rating === logFilter)
-    .sort((a, b) => new Date(b.reviewed_at).getTime() - new Date(a.reviewed_at).getTime());
+  const filteredLog = [...historyItems].sort((a, b) => new Date(b.reviewed_at).getTime() - new Date(a.reviewed_at).getTime());
+
+  const handleSelectAll = (e: React.ChangeEvent<HTMLInputElement>) => {
+    if (e.target.checked) {
+      setSelectedCards(new Set(filteredLog.map(i => i.card_id)));
+    } else {
+      setSelectedCards(new Set());
+    }
+  };
+
+  const handleSelect = (cardId: string, checked: boolean) => {
+    setSelectedCards(prev => {
+      const next = new Set(prev);
+      if (checked) next.add(cardId);
+      else next.delete(cardId);
+      return next;
+    });
+  };
 
   if (isLoading) {
     return <div className="flex h-screen items-center justify-center font-bold">Memuat data...</div>;
@@ -183,20 +234,12 @@ export default function HistoryPage() {
         <div className="flex flex-col gap-4">
           <div className="flex justify-between items-center bg-[var(--color-bg-card)] p-4 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]">
             <div className="flex gap-2 items-center">
-              <select 
-                value={logFilter} 
-                onChange={(e) => setLogFilter(e.target.value === "all" ? "all" : Number(e.target.value))}
-                className="font-bold text-sm bg-[var(--color-bg-main)] px-3 py-2 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] cursor-pointer"
-              >
-                <option value="all">Semua Rating</option>
-                <option value="1">🔴 Again</option>
-                <option value="2">🟡 Hard</option>
-                <option value="3">🟢 Good</option>
-                <option value="4">🔵 Easy</option>
-              </select>
+              <span className="font-bold text-sm bg-[var(--color-bg-main)] px-3 py-2 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)]">
+                Kartu Belum Dikuasai
+              </span>
             </div>
             <Button variant="primary" onClick={handlePracticeFiltered} disabled={filteredLog.length === 0}>
-              <Play className="w-4 h-4 mr-2 fill-current" /> Practice Filtered ({filteredLog.length})
+              <Play className="w-4 h-4 mr-2 fill-current" /> Practice {selectedCards.size > 0 ? `Selected (${selectedCards.size})` : `All (${filteredLog.length})`}
             </Button>
           </div>
 
@@ -205,6 +248,14 @@ export default function HistoryPage() {
               <table className="w-full text-left border-collapse">
                 <thead className="bg-[var(--color-bg-nav)] sticky top-0 z-10 border-b-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)]">
                   <tr>
+                    <th className="p-3 w-10 text-center">
+                      <input 
+                        type="checkbox" 
+                        className="w-4 h-4 accent-[var(--color-accent)] cursor-pointer"
+                        checked={filteredLog.length > 0 && selectedCards.size === filteredLog.length}
+                        onChange={handleSelectAll}
+                      />
+                    </th>
                     <th className="p-3 font-black text-sm uppercase">Kartu</th>
                     <th className="p-3 font-black text-sm uppercase">Rating Terakhir</th>
                     <th className="p-3 font-black text-sm uppercase">Tanggal</th>
@@ -214,10 +265,18 @@ export default function HistoryPage() {
                 <tbody>
                   {filteredLog.length === 0 ? (
                     <tr>
-                      <td colSpan={4} className="p-8 text-center font-bold text-[var(--color-text-muted)]">Tidak ada data</td>
+                      <td colSpan={5} className="p-8 text-center font-bold text-[var(--color-text-muted)]">Tidak ada data</td>
                     </tr>
                   ) : filteredLog.map((item) => (
                     <tr key={item.card_id} className="border-b-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] last:border-0 hover:bg-[var(--color-bg-nav)] transition-colors">
+                      <td className="p-3 text-center">
+                        <input 
+                          type="checkbox" 
+                          className="w-4 h-4 accent-[var(--color-accent)] cursor-pointer"
+                          checked={selectedCards.has(item.card_id)}
+                          onChange={(e) => handleSelect(item.card_id, e.target.checked)}
+                        />
+                      </td>
                       <td className="p-3">
                         <div className="font-normal text-lg jp-text">{item.cardData.kanji || item.cardData.kana}</div>
                         <div className="text-sm font-bold text-[var(--color-text-muted)]">{item.cardData.meaning}</div>

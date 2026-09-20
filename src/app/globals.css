@@ -124,6 +124,22 @@ body {
 [data-theme="dark"][data-color="crimson"] { --accent-color: #CC3333; }
 [data-color="matcha"] { --accent-color: #C0D684; }
 [data-theme="dark"][data-color="matcha"] { --accent-color: #8A9A5B; }
+[data-color="teal"] { --accent-color: #38B2AC; }
+[data-theme="dark"][data-color="teal"] { --accent-color: #2C7A7B; }
+[data-color="indigo"] { --accent-color: #667EEA; }
+[data-theme="dark"][data-color="indigo"] { --accent-color: #4C51BF; }
+[data-color="rose"] { --accent-color: #F56565; }
+[data-theme="dark"][data-color="rose"] { --accent-color: #C53030; }
+[data-color="cyan"] { --accent-color: #0BC5EA; }
+[data-theme="dark"][data-color="cyan"] { --accent-color: #0987A0; }
+[data-color="amber"] { --accent-color: #F6AD55; }
+[data-theme="dark"][data-color="amber"] { --accent-color: #C05621; }
+[data-color="lime"] { --accent-color: #A0D468; }
+[data-theme="dark"][data-color="lime"] { --accent-color: #8CC152; }
+[data-color="violet"] { --accent-color: #B794F4; }
+[data-theme="dark"][data-color="violet"] { --accent-color: #805AD5; }
+[data-color="sakura"] { --accent-color: #FFB7B2; }
+[data-theme="dark"][data-color="sakura"] { --accent-color: #E2849A; }
 
 /* Animations */
 @keyframes fade-in-up {
