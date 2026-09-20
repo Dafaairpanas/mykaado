@@ -3,265 +3,100 @@
     "id": "m_bab38_1",
     "chapter": "Bab 38",
     "level": "N4",
-    "title": "の (Pembentuk A)",
-    "meaning": "Partikel の di sini berfungsi untuk membentuk/merubah Kata Kerja, Kata Sifat, atau kalimat biasa menjadi Kata Benda (Nominalisasi). Kata yang disambung dengan の harus dalam bentuk biasa, bukan bentuk sopan (~ます/~です).",
-    "formula_template": "{A}/ {B} の",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}/ {B} の' untuk menyatakan: Partikel の di sini berfungsi untuk membentuk/merubah Kata Kerja, Kata Sifat, atau kalimat biasa menjadi Kata B. Pastikan 'A' mewakili Kata Kerja, 'B' mewakili Kata Sifat (Bentuk Biasa).",
-    "ui_notes": "Ekspresi yang terbentuk sebagai Kata Benda ini dapat menjadi berbagai unsur kalimat, seperti topik (は), subjek (が), atau objek (を).",
+    "title": "〜のは / 〜のが (Menjadikan Kata Kerja sebagai Benda)",
+    "meaning": "Bila Anda menyematkan partikel 'の' (No) langsung di belakang suatu kata kerja, maka kata kerja (tindakan) tersebut akan berubah fungsinya menjadi sebuah kata benda abstrak yang bermakna 'Hal / Kegiatan / Aktivitas'. Proses ini disebut nominalisasi.",
+    "formula_template": "[Kata Kerja Bentuk Kamus] + の + [は / が / を]",
+    "ui_notes": "Cara paling mudah untuk memahaminya adalah dengan menambahkan kata 'Hal...' (seperti imbuhan '-ing' dalam bahasa Inggris, misal: Play -> Playing).\n- Gunakan [のは] jika bagian belakang kalimat berupa kata sifat penilaian umum (Menyenangkan/Sulit).\n- Gunakan [のが] jika bagian belakang kalimat berkaitan dengan bakat atau selera pribadi (Suka/Benci/Mahir).",
     "examples": [
       {
-        "jp": "本を 読むのが 好きです。",
-        "id": "Saya suka membaca buku."
+        "jp": "テニスを するのは おもしろいです。",
+        "id": "(Aktivitas / Hal) bermain tenis itu sangat menyenangkan/menarik."
       },
       {
-        "jp": "漢字を 覚えるのは たいへんです。",
-        "id": "Menghafal kanji itu sulit."
+        "jp": "わたしは 花を 育てるのが 好きです。",
+        "id": "Saya sangat menyukai (Aktivitas / Hal) memelihara bunga."
+      },
+      {
+        "jp": "東京の 人は 歩くのが 速いです。",
+        "id": "Orang (warga) Tokyo itu berjalan (aktivitasnya) sangat cepat."
       }
     ],
     "tags": [
       "N4",
-      "Partikel",
-      "Nominalisasi"
+      "Nominalisasi (No)",
+      "Kata Benda Abstrak"
     ]
   },
   {
     "id": "m_bab38_2",
     "chapter": "Bab 38",
     "level": "N4",
-    "title": "A の は 形容詞 です",
-    "meaning": "Pola kalimat ini menggunakan Kata Kerja Bentuk Kamus yang dinominalisasikan dengan の sebagai topik kalimat (ditandai dengan は), lalu diterangkan oleh Kata Sifat. Digunakan untuk menjelaskan suatu perbuatan secara konkret.",
-    "formula_template": "{A} の は {B} です",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} の は {B} です' untuk menyatakan: Pola kalimat ini menggunakan Kata Kerja Bentuk Kamus yang dinominalisasikan dengan の sebagai topik kalimat (di. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus), 'B' mewakili Kata Sifat.",
-    "ui_notes": "Kata Sifat yang sering digunakan untuk pola ini adalah むずかしい (sulit), やさしい (mudah), おもしろい (menarik), たのしい (menyenangkan), たいへん[な] (berat/susah), dan lain-lain.",
+    "title": "〜のを 忘れました (Lupa Melakukan Sesuatu)",
+    "meaning": "Pola nominalisasi ini digunakan secara khusus untuk menyatakan bahwa Anda lalai atau telah lupa melakukan suatu tugas atau aktivitas.",
+    "formula_template": "[Kata Kerja Bentuk Kamus] + のを 忘れました",
+    "ui_notes": "Perbedaan Makna:\nPola ini secara spesifik berarti Anda 'Lupa melakukan aksinya/tugasnya'. Ini berbeda dengan konteks 'Lupa membawa wujud bendanya / Ketinggalan barangnya'.",
     "examples": [
       {
-        "jp": "テニスをするのはおもしろいです。",
-        "id": "Bermain tenis menarik."
+        "jp": "牛乳を 買うのを 忘れました。",
+        "id": "Ya ampun, saya lupa (untuk) membeli susu."
       },
       {
-        "jp": "テニスを見るのはおもしろいです。",
-        "id": "Menonton tenis menarik."
+        "jp": "車の 窓を 閉めるのを 忘れました。",
+        "id": "Saya lupa menutup jendela mobil."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Topikalisasi Aksi"
+      "Kelalaian",
+      "Lupa Melakukan"
     ]
   },
   {
     "id": "m_bab38_3",
     "chapter": "Bab 38",
     "level": "N4",
-    "title": "A の が 形容詞 です",
-    "meaning": "Kata Kerja Bentuk Kamus yang dinominalisasikan dengan の menjadi sasaran/subjek (ditandai dengan が) dari Kata Sifat. Biasanya menyatakan kesukaan, keterampilan, atau kemampuan.",
-    "formula_template": "{A} の が {B} です",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} の が {B} です' untuk menyatakan: Kata Kerja Bentuk Kamus yang dinominalisasikan dengan の menjadi sasaran/subjek (ditandai dengan が) dari Kata S. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus), 'B' mewakili Kata Sifat.",
-    "ui_notes": "Kata Sifat yang sering digunakan pada pola ini adalah すき[な] (suka), きらい[な] (benci), じょうず[な] (pandai), へた[な] (tidak pandai), はやい (cepat), おそい (lambat), dan lain-lain.",
+    "title": "〜のを 知って いますか (Tahukah Anda Bahwa...)",
+    "meaning": "Pola ini digunakan saat mencoba bertanya apakah lawan bicara Anda mengetahui suatu kejadian, rumor, atau fakta tertentu yang sedang dibicarakan.",
+    "formula_template": "[Klausa Fakta (Bentuk Biasa)] + のを 知って いますか",
+    "ui_notes": "Etika Menjawab:\n- Jika Anda sudah mengetahuinya sejak awal: \"はい、知って います\" (Ya, saya sudah tahu).\n- Jika Anda sama sekali tidak tahu (dan baru mengetahui informasinya saat itu juga): \"いいえ、知りませんでした\" (Tidak, tadinya saya sama sekali tidak tahu).",
     "examples": [
       {
-        "jp": "わたしは花を育てるのが好きです。",
-        "id": "Saya suka memelihara bunga."
+        "jp": "鈴木さんが 来月 結婚するのを 知って いますか。",
+        "id": "Tahukah Anda (fakta) bahwa Sdr. Suzuki akan menikah pada bulan depan?"
       },
       {
-        "jp": "東京の人は歩くのが速いです。",
-        "id": "Orang di Tokyo berjalannya cepat."
+        "jp": "木村さんに 赤ちゃんが 生まれたのを 知って いますか。 ……いいえ、知りませんでした。",
+        "id": "Tahukah Anda bahwa Sdri. Kimura baru saja melahirkan? ……Tidak, tadinya saya tidak tahu."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Subjek Aksi"
+      "Menanyakan Fakta",
+      "Tahukah Anda"
     ]
   },
   {
     "id": "m_bab38_4",
     "chapter": "Bab 38",
     "level": "N4",
-    "title": "A の を 忘れました",
-    "meaning": "Pola ini menggunakan nominalisasi の yang ditandai dengan を sebagai objek dari kata kerja 忘れました (lupa). Berfungsi menjelaskan hal spesifik/konkret yang dilupakan.",
-    "formula_template": "{A} の を 忘れました",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} の を 忘れました' untuk menyatakan: Pola ini menggunakan nominalisasi の yang ditandai dengan を sebagai objek dari kata kerja 忘れました (lupa). Berfung. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus).",
-    "ui_notes": "Pola ini menggunakan nominalisasi の yang ditandai dengan を sebagai objek dari kata kerja 忘れました (lupa). Berfungsi menjelaskan hal spesifik/konkret yang dilupakan.",
+    "title": "〜のは [A] です (Fokus Titik Penekanan)",
+    "meaning": "Pola ini sangat berguna untuk memusatkan atau menarik perhatian audiens langsung ke satu jawaban/fakta spesifik di akhir kalimat (biasanya berupa keterangan tempat, waktu, atau subjek utama).",
+    "formula_template": "[Klausa Keterangan (Bentuk Biasa tanpa だ)] + のは [Fokus Penekanan] です",
+    "ui_notes": "Pola ini sering dipakai saat ingin meralat anggapan keliru dari orang lain, atau ingin menegaskan suatu informasi penting di dalam kalimat.",
     "examples": [
       {
-        "jp": "牛乳を買うのを忘れました。",
-        "id": "Lupa membeli susu."
+        "jp": "初めて 会ったのは いつですか。 ……3年まえです。",
+        "id": "(Momen/Waktu) kita pertama kali bertemu adalah kapan? ……(Yaitu pada) Tiga tahun yang lalu."
       },
       {
-        "jp": "車の窓を閉めるのを忘れました。",
-        "id": "Lupa menutup jendela mobil."
+        "jp": "バンコクで 生まれたんですか。 ……いいえ、生まれたのは チェンマイです。",
+        "id": "Apakah kamu lahir di Bangkok? ……Bukan, (tempat) kelahiran saya adalah (di) Chiang Mai."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Objek Aksi"
-    ]
-  },
-  {
-    "id": "m_bab38_5",
-    "chapter": "Bab 38",
-    "level": "N4",
-    "title": "普通形 の を 知っていますか",
-    "meaning": "Digunakan ketika menanyakan apakah (lawan bicara) tahu atau tidak mengenai suatu fakta atau isi kalimat secara konkret.",
-    "formula_template": "{A}(Bentuk Biasa) の を 知っていますか",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}(Bentuk Biasa) の を 知っていますか' untuk menyatakan: Digunakan ketika menanyakan apakah (lawan bicara) tahu atau tidak mengenai suatu fakta atau isi kalimat secara. Pastikan 'A' mewakili Kalimat.",
-    "ui_notes": "Perbedaan 知りません dan 知りませんでした: Gunakan 知りませんでした jika baru mendapat informasi/tahu dari pertanyaan tersebut. Gunakan 知りません jika sebelumnya memang tidak tahu dan sesudah ditanya pun tetap tidak memiliki informasi tersebut (misal ditanya alamat, tapi penanya tidak memberi tahu alamatnya).",
-    "examples": [
-      {
-        "jp": "鈴木さんが来月結婚するのを知っていますか。",
-        "id": "Apakah Anda tahu sdr. Suzuki akan menikah pada bulan depan?"
-      },
-      {
-        "jp": "木村さんに赤ちゃんが生まれたのを知っていますか。……いいえ、知りませんでした。",
-        "id": "Apakah Anda tahu bahwa sdri. Kimura telah melahirkan? ……Tidak, tidak tahu."
-      }
-    ],
-    "tags": [
-      "N4",
-      "Pola Kalimat",
-      "Menanyakan Fakta"
-    ]
-  },
-  {
-    "id": "m_bab38_6",
-    "chapter": "Bab 38",
-    "level": "N4",
-    "title": "普通形 の は A です",
-    "meaning": "Pola kalimat ini adalah cara ungkapan untuk menekankan atau menyoroti Kata Benda 2. Bagian sebelum 'のは' berisi penjelasan (Bentuk Biasa) mengenai Kata Benda 2 tersebut.",
-    "formula_template": "{A}(Bentuk Biasa) の は {B} です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}(Bentuk Biasa) の は {B} です' untuk menyatakan: Pola kalimat ini adalah cara ungkapan untuk menekankan atau menyoroti Kata Benda 2. Bagian sebelum 'のは' berisi. Pastikan 'A' mewakili Kalimat, 'B' mewakili Kata Benda 2.",
-    "ui_notes": "Pola ini sering digunakan untuk mengoreksi perkataan lawan bicara atau menekankan suatu poin spesifik (kapan, di mana, siapa). Unsur subjek/pokok pada anak kalimat sebelum ~のは ditandai dengan partikel が, bukan は.",
-    "examples": [
-      {
-        "jp": "初めて会ったのはいつですか。……3年まえです。",
-        "id": "Kapan pertama kali bertemu? ……Tiga tahun yang lalu."
-      },
-      {
-        "jp": "バンコクで生まれたんですか。……いいえ、生まれたのはチェンマイです。",
-        "id": "Lahir di Bangkok? ……Tidak, lahirnya di Chiang Mai."
-      }
-    ],
-    "tags": [
-      "N4",
-      "Pola Kalimat",
-      "Penekanan Fakta/Cleft Sentence"
+      "Titik Fokus",
+      "Penekanan Jawaban"
     ]
   }
 ]

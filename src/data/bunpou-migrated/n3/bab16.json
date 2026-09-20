@@ -4,40 +4,9 @@
     "chapter": "Bab 16",
     "level": "N3",
     "title": "〜ついでに",
-    "meaning": "kalimat setelahnya biasanya merupakan hal yang bersifat ringan",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa seseorang melakukan hal lain sekalian ketika sedang melakukan hal utama. Artinya 'sekalian...', 'sambil...', 'selagi...'. Tindakan yang dilakukan setelahnya biasanya bersifat ringan, tidak direncanakan khusus, atau hanya kesempatan belaka. Hal utama dikerjakan lebih dulu, lalu hal tambahan dilakukan karena ada kesempatan. Sering dipakai untuk permintaan atau tindakan sehari-hari.",
     "formula_template": "[{A}る / {B}た / {C}の] ついでに",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}る / {B}た / {C}の] ついでに' untuk mengekspresikan: kalimat setelahnya biasanya merupakan hal yang bersifat ringan.",
-    "ui_notes": "kalimat setelahnya biasanya merupakan hal yang bersifat ringan",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus + ついでに. Contoh: 散歩する (sanpo suru) → 散歩するついでに (sekalian jalan-jalan). (2) Kata kerja bentuk lampau + ついでに. Contoh: 行く (iku) → 行った (itta) → 行ったついでに (sekalian sudah pergi). (3) Kata benda + の + ついでに. Contoh: 散歩 (sanpo) → 散歩のついでに (sekalian jalan-jalan). Contoh pemakaian: 散歩のついでに、この手紙を出してきてくれませんか (sekalian jalan-jalan, boleh tolong kirimkan surat ini?). 郵便局へ行ったついでに、はがきを買ってきた (sekalian pergi ke kantor pos, saya beli kartu pos). Catatan: kalimat setelah ついでに biasanya hal ringan, bukan hal besar atau penting. Perbedaan dengan 〜ながら: 〜ながら = melakukan dua hal bersamaan, 〜ついでに = melakukan hal tambahan karena ada kesempatan.",
     "examples": [
       {
         "jp": "散歩のついでに、この手紙を出してきてくれませんか。",
@@ -58,40 +27,9 @@
     "chapter": "Bab 16",
     "level": "N3",
     "title": "〜たびに",
-    "meaning": "biasanya tidak digunakan untuk kebiasaan atau hal yang lumrah terjadi; ✓ biasanya tidak diikuti kalimat negatif dibelakangnya",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa setiap kali suatu hal terjadi, hal lain selalu ikut terjadi atau dilakukan. Artinya 'setiap kali...', 'tiap kali...'. Sering dipakai untuk kejadian yang berulang dan memiliki hubungan sebab-akibat atau kebiasaan. Biasanya tidak digunakan untuk kebiasaan yang terlalu lumrah atau sehari-hari, dan biasanya tidak diikuti kalimat negatif di belakangnya. Cenderung dipakai untuk hal yang lebih khusus atau bermakna.",
     "formula_template": "[{A}る / {B}る。その / {C}の] たびに / たび (※ ✗ たびには)",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}る / {B}る。その / {C}の] たびに / たび (※ ✗ たびには)' untuk mengekspresikan: biasanya tidak digunakan untuk kebiasaan atau hal yang lumrah terjadi; ✓ biasanya tidak diikuti kalimat negati.",
-    "ui_notes": "biasanya tidak digunakan untuk kebiasaan atau hal yang lumrah terjadi; ✓ biasanya tidak diikuti kalimat negatif dibelakangnya",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus + たびに. Contoh: 聞く (kiku) → 聞くたびに (setiap kali mendengar). 買い物する (kaimono suru) → 買い物のたびに (setiap kali belanja). (2) Kata benda + の + たびに. Contoh: 買い物 (kaimono) → 買い物のたびに (setiap kali belanja). Contoh pemakaian: 買い物のたびに、袋をたくさんもらう (setiap kali belanja saya mendapat banyak kantong). この曲を聞くたびに、ふるさとを思い出す (setiap kali mendengar lagu ini, mengingatkan saya akan kampung halaman). Catatan: tidak boleh たびには. Biasanya tidak diikuti kalimat negatif. Perbedaan dengan 〜たら: 〜たら = kalau/setelah (sekali), 〜たびに = setiap kali (berulang).",
     "examples": [
       {
         "jp": "買い物のたびに、袋をたくさんもらう。",
@@ -112,32 +50,9 @@
     "chapter": "Bab 16",
     "level": "N3",
     "title": "〜たとたん",
-    "meaning": "Kalimat setelahnya tidak berbentuk \"keinginan\" (termasuk perintah); ✓ Kalimat setelahnya mengandung unsur diluar dugaan (bukan hal yang wajar/lumrah terjadi)",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa begitu suatu tindakan selesai dilakukan, seketika itu juga terjadi hal lain yang biasanya di luar dugaan. Artinya 'begitu...', 'seketika setelah...'. Kalimat setelahnya tidak boleh berbentuk keinginan, ajakan, atau perintah, dan biasanya mengandung unsur di luar dugaan (bukan hal yang wajar/lumrah). Pola ini menekankan pada kejadian mendadak yang terjadi tepat setelah tindakan pertama.",
     "formula_template": "[{A}たとたん / とたんに / {B}た。そのとたん]",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}たとたん / とたんに / {B}た。そのとたん]' untuk mengekspresikan: Kalimat setelahnya tidak berbentuk \"keinginan\" (termasuk perintah); ✓ Kalimat setelahnya mengandung unsur dilu.",
-    "ui_notes": "Kalimat setelahnya tidak berbentuk \"keinginan\" (termasuk perintah); ✓ Kalimat setelahnya mengandung unsur diluar dugaan (bukan hal yang wajar/lumrah terjadi)",
+    "ui_notes": "Cara membentuk: Kata kerja bentuk lampau (た形) + とたん(に). Contoh: 開ける (akeru) → 開けた (aketa) → 開けたとたん (begitu membuka). 飲む (nomu) → 飲んだ (nonda) → 飲んだとたん (begitu minum). Contoh pemakaian: 窓を開けたとたん、強い風が入ってきた (begitu buka jendela, angin kencang masuk). お酒を飲んだとたん、顔が赤くなった (begitu minum sake, muka saya menjadi merah). Catatan: kalimat setelahnya tidak boleh berupa keinginan, ajakan, atau perintah (× 飲んだとたん、行こう). Harus mengandung unsur di luar dugaan. Perbedaan dengan 〜たら: 〜たら = kalau/setelah (netral), 〜たとたん = begitu... langsung... (mendadak, di luar dugaan).",
     "examples": [
       {
         "jp": "窓を開けたとたん、強い風が入ってきた。",
@@ -158,30 +73,9 @@
     "chapter": "Bab 16",
     "level": "N3",
     "title": "〜最中に",
-    "meaning": "ditengah-tengah sedang...",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa sesuatu terjadi di tengah-tengah saat sedang melakukan hal lain. Artinya 'di tengah-tengah sedang...', 'ketika sedang asyik...'. Sering mengandung nuansa bahwa kejadian yang datang mengganggu atau tidak terduga, karena muncul saat seseorang sedang fokus atau sibuk melakukan sesuatu. Fokusnya pada momen 'sedang dalam proses'.",
     "formula_template": "[{A}ている / {B}の] 最中（さいちゅう）に",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}ている / {B}の] 最中（さいちゅう）に' untuk mengekspresikan: ditengah-tengah sedang....",
-    "ui_notes": "ditengah-tengah sedang...",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk ている + 最中に. Contoh: 食事している (shokuji shite iru) → 食事している最中に (di tengah-tengah sedang makan). 会議をしている (kaigi o shite iru) → 会議をしている最中に (di tengah-tengah sedang rapat). (2) Kata benda + の + 最中に. Contoh: 食事 (shokuji) → 食事の最中に (di tengah-tengah makan). 会議 (kaigi) → 会議の最中に (di tengah-tengah rapat). Contoh pemakaian: 食事の最中に、お客さんが来た (di tengah-tengah sedang makan, ada tamu datang). 彼はよく会議の最中に居眠りをする (dia sering tidur di tengah-tengah rapat). Perbedaan dengan 〜とき: 〜とき = ketika/saat (netral), 〜最中に = di tengah-tengah sedang... (menekankan proses yang sedang berlangsung dan biasanya terganggu).",
     "examples": [
       {
         "jp": "食事の最中に、お客さんが来た。",

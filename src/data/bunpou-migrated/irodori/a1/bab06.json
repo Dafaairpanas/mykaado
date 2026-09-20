@@ -6,17 +6,6 @@
     "title": "N、お願いします / ください (N, onegaishimasu / kudasai)",
     "meaning": "Dua cara sopan untuk memesan atau meminta sesuatu. 'お願いします' (onegaishimasu) berarti 'mohon' dan digunakan secara luas di restoran, toko, dan situasi formal. 'ください' (kudasai) berarti 'tolong berikan' dan lebih langsung, cocok saat meminta benda fisik atau barang tertentu.",
     "formula_template": "{A} お願いします / ください",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "food"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} お願いします / ください' untuk percakapan: Dua cara sopan untuk memesan atau meminta sesuatu. 'お願いします' (onegaishimasu) berarti 'mohon' dan digunakan seca. Pastikan 'A' mewakili Barang/Makanan/Minuman.",
     "ui_notes": "Perbedaan: 'お願いします' lebih halus dan sering digunakan saat memesan makanan/minuman di restoran. 'ください' lebih cocok saat meminta benda fisik di toko atau konter. Dalam situasi sangat formal, gunakan 'お願いいたします' (onegai itashimasu) - lebih sopan lagi.",
     "examples": [
       {
@@ -42,18 +31,6 @@
     "title": "Nにします",
     "meaning": "Digunakan untuk menyatakan pilihan atau keputusan, terutama saat memilih menu makanan/minuman. '〜にします' berarti 'saya putuskan/ambil'. Sering diucapkan setelah melihat menu dan memutuskan apa yang akan dipesan.",
     "formula_template": "{A} にします",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} にします' untuk percakapan: Digunakan untuk menyatakan pilihan atau keputusan, terutama saat memilih menu makanan/minuman. '〜にします' berarti. Pastikan 'A' mewakili Pilihan.",
     "ui_notes": "Sering digunakan saat makan bersama dan semua orang menyebutkan pilihan mereka. Bisa juga digunakan untuk memilih barang lain, tidak hanya makanan. Contoh: これにします。 (Saya ambil ini.)",
     "examples": [
       {
@@ -79,26 +56,6 @@
     "title": "N、【bilangan】お願いします / ください (N, [suuji] onegaishimasu / kudasai)",
     "meaning": "Pola untuk memesan beberapa item dengan jumlah tertentu. 'お願いします' atau 'ください' digunakan di akhir. Untuk menyebutkan jumlah, gunakan kata bantu hitung (counter) yang sesuai dengan jenis benda. Untuk sebagian besar makanan/minuman di restoran, gunakan '〜つ' (hitotsu, futatsu, mittsu...) untuk jumlah 1-10.",
     "formula_template": "{A} {B} お願いします / ください",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "counter",
-          "noun"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} {B} お願いします / ください' untuk percakapan: Pola untuk memesan beberapa item dengan jumlah tertentu. 'お願いします' atau 'ください' digunakan di akhir. Untuk menyeb. Pastikan 'A' mewakili Barang, 'B' mewakili Jumlah.",
     "ui_notes": "Cara menghitung: 1つ (hitotsu), 2つ (futatsu), 3つ (mittsu), 4つ (yottsu), 5つ (itsutsu), 6つ (muttsu), 7つ (nanatsu), 8つ (yattsu), 9つ (kokonotsu), 10つ (tou). Untuk benda lain bisa menggunakan counter berbeda: 〜枚 (mai) untuk benda tipis, 〜本 (hon) untuk benda panjang, dll.",
     "examples": [
       {
@@ -124,17 +81,6 @@
     "title": "N（は）ありますか？ (N arimasu ka?)",
     "meaning": "Pertanyaan untuk menanyakan ketersediaan suatu barang. 'ありますか' berarti 'apakah ada?'. Partikel 'は' bisa ditambahkan setelah N untuk memberi penekanan pada topik (N-nya ada? atau kalau N-nya bagaimana?). Sangat berguna di restoran, toko, atau saat mencari barang tertentu.",
     "formula_template": "{A} (は) ありますか？",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} (は) ありますか？' untuk percakapan: Pertanyaan untuk menanyakan ketersediaan suatu barang. 'ありますか' berarti 'apakah ada?'. Partikel 'は' bisa ditamb. Pastikan 'A' mewakili Barang.",
     "ui_notes": "Untuk benda hidup (orang, hewan), gunakan 'いますか' bukan 'ありますか'. Contoh: 田中さんはいますか？ (Apakah Tanaka ada?). 'ありますか' juga bisa digunakan untuk menanyakan ketersediaan waktu: 時間はありますか？ (Ada waktu?).",
     "examples": [
       {

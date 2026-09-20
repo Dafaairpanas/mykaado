@@ -1,123 +1,98 @@
 [
   {
-    "id": "i_bab10_1",
+    "id": "i_a1_bab10_1",
     "chapter": "Bab 10",
     "level": "A1",
-    "title": "V-てください",
-    "meaning": "Pola kalimat untuk meminta atau memerintah seseorang melakukan sesuatu dengan sopan. 'て' adalah bentuk sambung kata kerja, dan 'ください' berarti 'tolong'. Digunakan di tempat kerja atau situasi sehari-hari untuk memberi instruksi atau permintaan. Artinya 'Tolong lakukan [aktivitas]'.",
-    "formula_template": "{A} ください",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ください' untuk percakapan: Pola kalimat untuk meminta atau memerintah seseorang melakukan sesuatu dengan sopan. 'て' adalah bentuk sambung. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
-    "ui_notes": "Bentuk kasualnya adalah 'V-て' saja (tanpa ください) untuk teman dekat. Contoh: 手伝って。 (Tolong bantu.) Untuk permintaan yang lebih sopan, gunakan 'V-ていただけますか？' (Bisa tolong ...?). Perhatikan bahwa kata kerja bentuk 'て' memiliki aturan konjugasi yang berbeda-beda tergantung jenis kata kerjanya.",
+    "title": "Meminta Tolong / Instruksi (Bentuk 〜て)",
+    "meaning": "Tongkat Komando! Jurus mutlak untuk menyuruh, meminta tolong, atau memberi instruksi aksi kepada bawahan atau rekan kerja. Harus memakai Kata Kerja sakti \"Bentuk-TE\".",
+    "formula_template": "1. [K.Kerja Bentuk-TE] + ください (Formal Sopan)\n2. [K.Kerja Bentuk-TE] + くれる？ (Santai Biasa)\n3. [K.Kerja Bentuk-TE Murni] (Gaul / Ke Bawahan)",
+    "ui_notes": "3 TINGKATAN KESOPANAN MENYURUH:\n1. **〜てください** : Sopan. Cocok di lingkungan kerja profesional (Tolong tuliskan).\n2. **〜てくれる？** : Santai ke Rekan. (Bisa tolong ambilin?).\n3. **〜て (Murni)** : Kasual Kasar. HANYA untuk teman karib/sohib nongkrong (Tunggu bentar!).",
     "examples": [
       {
-        "jp": "ちょっと手伝ってください。",
-        "id": "Tolong bantu sebentar."
+        "jp": "ちょっと、手伝って ください。",
+        "id": "TOLONGLAH BANTU hamba (pekerjaan ini) sebentar (Sopan)."
       },
       {
-        "jp": "この書類をコピーしてください。",
-        "id": "Tolong fotokopi dokumen ini."
+        "jp": "そこのドライバー、取って。",
+        "id": "AMBILIN obeng di situ! (Perintah murni ke bawahan/sohib)."
+      },
+      {
+        "jp": "窓、閉めて くれる？",
+        "id": "BISA TOLONG TUTUPIN jendelanya? (Santai ke rekan sejawat)."
+      },
+      {
+        "jp": "ここに、名前と電話番号を 書いて ください。 ……はい、わかりました。",
+        "id": "TOLONG TULISKAN nama dan nomor telepon Anda di (kolom) sini. ...... Baik, saya mengerti laksanakan."
       }
     ],
     "tags": [
       "A1",
-      "Instruksi",
-      "Permintaan",
-      "Tempat Kerja",
-      "Sopan"
+      "Instruksi Komando",
+      "Meminta Tolong Tekudasai"
     ]
   },
   {
-    "id": "i_bab10_2",
+    "id": "i_a1_bab10_2",
     "chapter": "Bab 10",
     "level": "A1",
-    "title": "Nですね — Konfirmasi",
-    "meaning": "Pola kalimat untuk mengonfirmasi atau memverifikasi informasi yang baru saja didengar. 'ですね' di akhir kalimat berarti '... ya?' atau '... kan?'. Digunakan untuk memastikan bahwa pemahaman Anda benar, terutama saat menerima instruksi di tempat kerja. Sangat berguna untuk menghindari kesalahpahaman.",
-    "formula_template": "{A} ですね",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ですね' untuk percakapan: Pola kalimat untuk mengonfirmasi atau memverifikasi informasi yang baru saja didengar. 'ですね' di akhir kalimat . Pastikan 'A' mewakili Informasi.",
-    "ui_notes": "Partikel 'ね' memiliki banyak fungsi: (1) Konfirmasi: そうですね (Ya, benar), (2) Mencari persetujuan: いい天気ですね (Cuaca bagus ya?), (3) Menegaskan: そうですよね (Benar kan?). Dalam konteks kerja, gunakan untuk memastikan instruksi: これでよろしいですね？ (Ini sudah benar ya?).",
+    "title": "Mengkonfirmasi Ulang Instruksi (〜ですね)",
+    "meaning": "Gema Kejelasan! Jurus sakti untuk menghindari 'Miskom' di kantor. Mengulangi poin pesanan/instruksi bos untuk memastikan bahwa otak Anda telah menyerap informasi dengan benar.",
+    "formula_template": "[Poin Penting/Angka yang Dikonfirmasi] + ですね",
+    "ui_notes": "Bubuhi partikel **「ね (Ne)」** di ekor kalimat agar terdengar seperti mencari validasi dari lawan bicara (\"Oh, ini 30 lembar YA KAN?\").",
     "examples": [
       {
-        "jp": "30ですね。",
-        "id": "30 ya? (untuk mengonfirmasi jumlah)"
+        "jp": "これ、コピー、30枚 お願い。 ……はい、30ですね。",
+        "id": "Tolong ya, dokumen ini difotokopi sebanyak 30 lembar. ...... Siap laksanakan, 30 lembar YA KAN (Konfirmasi kejelasan)."
       },
       {
-        "jp": "コピーは30枚ですね。",
-        "id": "Fotokopinya 30 lembar ya?"
+        "jp": "これ、今日の午後 5時までに お願いします。 ……はい、5時ですね。",
+        "id": "Tolong kerjakan target ini selambatnya sampai jam 05:00 sore ini. ...... Baik dimengerti, selambatnya jam 05:00 YA."
+      },
+      {
+        "jp": "会議は、1時から です。 ……すみません。何時ですか？ ……1時。13時です。",
+        "id": "Rapat dimulai dari jam 1. ...... Mohon maaf (kurang denger/paham). JAM BERAPA mulainya? ...... Jam 1. Tepatnya Jam 13:00."
       }
     ],
     "tags": [
       "A1",
-      "Konfirmasi",
-      "Tempat Kerja",
-      "Verifikasi"
+      "Gema Konfirmasi",
+      "Mengulang Info (Desune)"
     ]
   },
   {
-    "id": "i_bab10_3",
+    "id": "i_a1_bab10_3",
     "chapter": "Bab 10",
     "level": "A1",
-    "title": "N、貸してください / 借りてもいいですか？ (N, kashite kudasai / karite mo ii desu ka?)",
-    "meaning": "Dua pola untuk meminjam barang di tempat kerja. '貸してください' berarti 'Tolong pinjamkan' (meminta orang lain meminjamkan barangnya). '借りてもいいですか' berarti 'Bolehkah saya pinjam?' (meminta izin untuk meminjam). Keduanya sopan dan umum digunakan di kantor.",
-    "formula_template": "{A} 貸してください / {B} 借りてもいいですか？",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} 貸してください / {B} 借りてもいいですか？' untuk percakapan: Dua pola untuk meminjam barang di tempat kerja. '貸してください' berarti 'Tolong pinjamkan' (meminta orang lain memin. Pastikan 'A' mewakili Barang, 'B' mewakili Barang.",
-    "ui_notes": "Perbedaan: '貸す' (kasu) = meminjamkan (dari pembicara ke orang lain). '借りる' (kariru) = meminjam (dari orang lain ke pembicara). Bentuk lain: '使ってもいいですか？' (Bolehkah saya pakai?) untuk barang yang tidak perlu dipinjam, hanya digunakan di tempat.",
+    "title": "Seni Meminjam Barang (貸してください / いいですか)",
+    "meaning": "Peminjam Berkelas! 4 variasi jurus permohonan sakti untuk meminjam paksa barang/ATK milik teman kantor.",
+    "formula_template": "1. [Benda] + 貸してください (Tolong Pinjamkan)\n2. [Benda] + 借りてもいいですか？ (Bolehkah saya pinjam?)\n3. [Benda] + いいですか？ (Boleh pakai? *Sambil Nunjuk*)\n4. [Benda] + ありますか？ (Punya nggak? *Basa-basi*)",
+    "ui_notes": "JALAN PINTAS (SHORTCUT) NOMOR 3:\nKalau Anda mager mikir grammar ribet, tinggal tunjuk saja barangnya (Misal: Isolasi) lalu teriakkan **「これ、いいですか？」** (Ini, boleh ngikut pakai?). Sangat natural dan disukai orang lapangan!",
     "examples": [
       {
-        "jp": "ホチキス、貸してください。",
-        "id": "Tolong pinjamkan stapler."
+        "jp": "ホチキス、貸して ください。",
+        "id": "TOLONG PINJAMKAN alat stapler (kepada saya)."
       },
       {
-        "jp": "すみません。借りてもいいですか？",
-        "id": "Maaf, bolehkah saya pinjam?"
+        "jp": "すみません。借りても いいですか？",
+        "id": "Mohon dimaafkan. APAKAH BOLEH HAMBA MEMINJAMNYA?"
+      },
+      {
+        "jp": "これ、いいですか？",
+        "id": "Ini, BOLEH DIPAKAI (DIPINJAM) NGGAK?"
+      },
+      {
+        "jp": "スマホの充電器、ありますか？",
+        "id": "(Charger) Pengisi daya smartphone, ADA/PUNYA NGGAK?"
+      },
+      {
+        "jp": "すみません。これ、いいですか？ ……のり？ いいよ。どうぞ。",
+        "id": "Permisi. Benda ini, BOLEH NGGAK DIPAKAI/DIPINJAM? ...... Maksudnya Lem? Boleh dong ah. Silakan."
       }
     ],
     "tags": [
       "A1",
-      "Meminjam",
-      "Tempat Kerja",
-      "Permintaan",
-      "Sopan"
+      "Pinjam Meminjam Kantor",
+      "Boleh Nggak (Iidesuka)"
     ]
   }
 ]

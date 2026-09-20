@@ -1,0 +1,78 @@
+[
+  {
+    "id": "irodori_a2.1_bab7_1",
+    "chapter": 7,
+    "level": "A2.1",
+    "title": "Nはどうですか？",
+    "meaning": "Bagaimana kalau [N]?",
+    "formula_template": "Kata Benda (Waktu/Tempat) + はどうですか？",
+    "ui_notes": "Cara ini digunakan untuk memberikan suatu usulan dan menanyakan pendapat lawan bicara apakah ia setuju atau tidak. Pada materi ini, polanya dipakai untuk menyepakati waktu atau tempat janjian bertemu.",
+    "examples": [
+      {
+        "japanese": "6時はどうですか？",
+        "indonesian": "Bagaimana kalau pukul 6:00?",
+        "romaji": "Rokuji wa dou desu ka?"
+      },
+      {
+        "japanese": "Ａ： 明日の待ち合わせ、どうしますか？\nＢ： ホテルのロビーはどうですか？\nＡ： わかりました。ロビーですね。",
+        "indonesian": "A: Bagaimana dengan janji bertemu besok?\nB: Bagaimana kalau bertemu di lobi hotel?\nA: Baik. Lobi hotel, ya.",
+        "romaji": "A: Ashita no machiawase, dou shimasu ka?\nB: Hoteru no robii wa dou desu ka?\nA: Wakarimashita. Robii desu ne."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 7", "usulan", "bagaimana kalau"]
+  },
+  {
+    "id": "irodori_a2.1_bab7_2",
+    "chapter": 7,
+    "level": "A2.1",
+    "title": "Nでもいいですか？",
+    "meaning": "Apakah boleh kalau [N]?",
+    "formula_template": "Kata Benda (Waktu/Tempat) + でもいいですか？",
+    "ui_notes": "Digunakan untuk memberikan usulan alternatif (usulan lain) ketika kamu tidak bisa menerima usulan awal dari lawan bicara. Ungkapan ini menanyakan apakah lawan bicara tidak keberatan dengan penggantinya.",
+    "examples": [
+      {
+        "japanese": "6時半でもいいですか？",
+        "indonesian": "Bagaimana kalau pukul 6:30?",
+        "romaji": "Rokujihan de mo ii desu ka?"
+      },
+      {
+        "japanese": "Ａ： 明日の待ち合わせ、「平和の鳥」の像の前はどうですか？\nＢ： ちょっとわかりません。駅の改札でもいいですか？\nＡ： いいですよ。",
+        "indonesian": "A: Untuk janji bertemu besok, bagaimana kalau kita bertemu di depan patung Heiwa no Tori?\nB: Saya tidak tahu tempat itu. Bagaimana kalau kita bertemu di area gerbang tiket stasiun?\nA: Baik.",
+        "romaji": "A: Ashita no machiawase, 'Heiwa no Tori' no zou no mae wa dou desu ka?\nB: Chotto wakarimasen. Eki no kaisatsu de mo ii desu ka?\nA: Ii desu yo."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 7", "usulan alternatif", "izin"]
+  },
+  {
+    "id": "irodori_a2.1_bab7_3",
+    "chapter": 7,
+    "level": "A2.1",
+    "title": "N で、～ / V-て、～ 〈penyebab / alasan / 原因・理由〉",
+    "meaning": "Karena [N / V], (maka) ...",
+    "formula_template": "Kata Benda + で, ～ ATAU Kata Kerja-て, ～",
+    "ui_notes": "Pola ini digunakan untuk menyatakan sebab atau alasan dari sebuah kejadian/kondisi.\n\n* **Kata Benda**: Tambahkan partikel **で** (Contoh: 事故で = Karena kecelakaan).\n* **Kata Kerja**: Ubah kata kerja menjadi **bentuk-て**. Ternyata, bentuk-て tidak hanya dipakai untuk mengurutkan kejadian, tetapi juga bisa berfungsi sebagai penunjuk alasan.",
+    "examples": [
+      {
+        "japanese": "事故で電車が止まりました。",
+        "indonesian": "Kereta berhenti karena kecelakaan.",
+        "romaji": "Jiko de densha ga tomarimashita."
+      },
+      {
+        "japanese": "ねぼうして、今、起きました。",
+        "indonesian": "Saya baru saja bangun, karena bangun kesiangan.",
+        "romaji": "Neboushite, ima, okimashita."
+      },
+      {
+        "japanese": "渋滞で、30分ぐらい遅れます。",
+        "indonesian": "Saya akan terlambat sekitar 30 menit karena macet.",
+        "romaji": "Juutai de, sanjuppun gurai okuremasu."
+      },
+      {
+        "japanese": "道に迷って、ちょっと遅れます。",
+        "indonesian": "Saya datang agak terlambat karena tersesat di jalan.",
+        "romaji": "Michi ni mayotte, chotto okuremasu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 7", "alasan", "karena", "te-form"]
+  }
+]

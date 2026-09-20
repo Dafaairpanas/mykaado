@@ -4,46 +4,9 @@
     "chapter": "Bab 31",
     "level": "N3",
     "title": "もし〜たなら",
-    "meaning": "seandainya",
+    "meaning": "Pola ini digunakan untuk menyatakan pengandaian tentang sesuatu yang sudah terjadi di masa lalu, tetapi kenyataannya tidak terjadi. Artinya 'seandainya (dulu)...', 'kalau saja (tadi)...'. Karena memakai bentuk lampau (たなら), pola ini mengandung nuansa penyesalan atau membayangkan situasi yang berbeda dari kenyataan. Sering dipakai untuk merenung atau berandai-andai.",
     "formula_template": "もし {A}た(な)ら / {B} 〜かった(な)ら / {C} 〜だった(な)ら / {D}だった(な)ら",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'もし {A}た(な)ら / {B} 〜かった(な)ら / {C} 〜だった(な)ら / {D}だった(な)ら' untuk mengekspresikan: seandainya.",
-    "ui_notes": "seandainya",
+    "ui_notes": "Cara membentuk: もし + kata kerja/kata sifat bentuk lampau + (な)ら. (1) Kata kerja bentuk lampau + ら. Contoh: 受ける (ukeru) → 受けていた (ukete ita) → もし試験を受けていたなら (seandainya dulu ikut ujian). (2) Kata sifat-i bentuk lampau + ら. Contoh: 安い (yasui) → 安かった (yasukatta) → もし安かったなら (seandainya dulu murah). (3) Kata sifat-na/kata benda bentuk lampau + ら. Contoh: 社長だ (shachou da) → 社長だった (shachou datta) → もし彼が社長でなかったなら (kalau dia bukan direkturnya). Contoh pemakaian: もし試験を受けていたなら、合格していたと思う (seandainya saya ikut ujian, saya pikir saya lulus). もし彼が社長でなかったなら、会社はつぶれていたと思う (kalau dia bukan direkturnya, saya pikir perusahaan ini akan hancur). Perbedaan dengan 〜たら: 〜たら = kalau/setelah (netral, bisa untuk masa depan), もし〜たなら = seandainya (dulu) — fokus pada masa lalu yang tidak terjadi.",
     "examples": [
       {
         "jp": "もし試験を受けていたなら、合格していたと思う。",
@@ -64,46 +27,9 @@
     "chapter": "Bab 31",
     "level": "N3",
     "title": "もし〜としても",
-    "meaning": "dalam bahasa Indonesia : \"meskipun seandainya...\", \"meskipun misalnya...\"",
+    "meaning": "Pola ini digunakan untuk menyatakan 'meskipun seandainya...', 'meskipun misalnya...'. Artinya pembicara membayangkan suatu kondisi hipotetis (meskipun terjadi), tetapi hasil atau pendiriannya tetap sama. Sering dipakai untuk menegaskan bahwa keputusan atau sikap tidak akan berubah meskipun kondisi tertentu terpenuhi. Bentuk 〜としたって lebih kasual.",
     "formula_template": "もし [{A}(biasa) / {B} (biasa) / {C} だ / {D}だ] としても / としたって",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'もし [{A}(biasa) / {B} (biasa) / {C} だ / {D}だ] としても / としたって' untuk mengekspresikan: dalam bahasa Indonesia : \"meskipun seandainya...\", \"meskipun misalnya...\".",
-    "ui_notes": "dalam bahasa Indonesia : \"meskipun seandainya...\", \"meskipun misalnya...\"",
+    "ui_notes": "Cara membentuk: もし + kalimat bentuk biasa + としても. (1) Kata kerja bentuk biasa + としても. Contoh: 休みが取れる (yasumi ga toreru) → もし休みが取れたとしても (meskipun seandainya bisa ambil libur). (2) Kata sifat-i bentuk biasa + としても. Contoh: 忙しい (isogashii) → もし忙しいとしても (meskipun seandainya sibuk). (3) Kata sifat-na + だ + としても. Contoh: 元気だ (genki da) → もし元気だとしても (meskipun seandainya sehat). (4) Kata benda + だ + としても. Contoh: 学生だ (gakusei da) → もし学生だとしても (meskipun seandainya dia pelajar). Contoh pemakaian: もし休みが取れたとしても、旅行には行かないつもりです (meskipun misalnya saya bisa mengambil libur, saya tidak punya maksud untuk pergi wisata). もしお金がたくさんあったとしても、そんなものは買わない (meskipun seandainya saya punya banyak uang, saya tidak akan membeli barang seperti itu). Bentuk kasual 〜としたって: もし宝くじに当たったとしたって、仕事はやめない (meskipun seandainya menang lotre, saya tidak akan berhenti kerja). Perbedaan dengan 〜ても: 〜ても = meskipun (netral), もし〜としても = meskipun seandainya (hipotetis, lebih kuat).",
     "examples": [
       {
         "jp": "もし休みが取れたとしても、旅行には行かないつもりです。",
@@ -124,114 +50,9 @@
     "chapter": "Bab 31",
     "level": "N3",
     "title": "もしも〜なら／ても",
-    "meaning": "memberikan penekanan pada kata「もし」\"seandainya\"",
+    "meaning": "Pola ini adalah bentuk penekanan dari もし, yaitu もしも. Artinya 'seandainya...', 'andaikan...', 'kalau misalnya...'. Kata もしも memberikan nuansa yang lebih kuat dan lebih dramatis daripada もし saja. Bisa digabung dengan 〜なら (kalau), 〜たら (kalau/setelah), atau 〜ても (meskipun). Sering dipakai untuk membayangkan situasi yang sangat hipotetis atau tidak nyata.",
     "formula_template": "もしも [{A}(biasa) / {B} (biasa) / {C} / {D}] 〜なら | もしも [{V4}たら / {V5} 〜かったら / {V6} 〜だったら / {V7}だったら] | もしも [{V8}ても / {V9} 〜くても / {V10} 〜でも / {V11}でも]",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "V4": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "V5": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "V6": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "V7": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "V8": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "V9": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "V10": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "V11": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'もしも [{A}(biasa) / {B} (biasa) / {C} / {D}] 〜なら | もしも [{V4}たら / {V5} 〜かったら / {V6} 〜だったら / {V7}だったら] | もしも [{V8}ても / {V9} 〜くても / {V10} 〜でも / {V11}でも]' untuk mengekspresikan: memberikan penekanan pada kata「もし」\"seandainya\".",
-    "ui_notes": "memberikan penekanan pada kata「もし」\"seandainya\"",
+    "ui_notes": "Cara membentuk: もしも + kalimat pengandaian. (1) もしも + 〜なら. Contoh: 生まれ変われる (umarekawareru) → もしも生まれ変われるなら (seandainya bisa terlahir kembali). (2) もしも + 〜たら. Contoh: 地震が起きる (jishin ga okiru) → もしも地震が起きたら (seandainya terjadi gempa). (3) もしも + 〜ても. Contoh: 地震が起きる (jishin ga okiru) → もしも地震が起きても (meskipun seandainya terjadi gempa). Contoh pemakaian: もしも生まれ変われるなら、男になりたい (seandainya saya terlahir kembali, saya ingin jadi laki-laki). もしも地震が起きても、この家、丈夫だから倒れないでしょう (meskipun misalnya terjadi gempa bumi, rumah ini kuat, jadi mungkin tidak akan roboh). Perbedaan もし dan もしも: もし = seandainya (netral), もしも = seandainya (lebih kuat, dramatis, sering dalam cerita/angan-angan).",
     "examples": [
       {
         "jp": "もしも生まれ変われるなら、男になりたい。",

@@ -4,181 +4,93 @@
     "chapter": "Bab 01",
     "level": "N5",
     "title": "A は B です",
-    "meaning": "Menyatakan identitas, status, atau sifat. A adalah B.",
-    "formula_template": "{A} は {B} です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person",
-          "object",
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "profession",
-          "nationality",
-          "age",
-          "name",
-          "person",
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola ini untuk membuat kalimat pernyataan positif. 'A' bertindak sebagai subjek/topik, 'B' sebagai predikat. Jangan gunakan kata kerja.",
-    "ui_notes": "Partikel は dibaca わ. です menyatakan maksud penilaian dan kepastian, juga menunjukkan sikap sopan.",
+    "meaning": "Partikel 'は' (wa) menunjukkan bahwa kata sebelumnya adalah topik utama kalimat (subjek). Si pembicara memakai 'は' untuk mengangkat sebuah topik yang ingin dibicarakannya, kemudian melanjutkannya dengan penjelasan (predikat). Akhiran 'です' (desu) pada Kata Benda berfungsi menegaskan kalimat dengan nada sopan dan pasti.",
+    "formula_template": "[A] は [B] です",
+    "ui_notes": "Secara penulisan, partikel ini ditulis dengan huruf 'ha' (は), tetapi dilafalkan sebagai 'wa'. Jika kalimatnya diubah menjadi bentuk negatif atau lampau, maka akhiran 'です' akan ikut berubah bentuk.",
     "examples": [
       {
         "jp": "わたしは マイク・ミラーです。",
-        "id": "Saya Mike Miller."
+        "id": "Saya (adalah) Mike Miller."
       },
       {
         "jp": "わたしは 会社員です。",
-        "id": "Saya pegawai perusahaan."
+        "id": "Saya (adalah) pegawai perusahaan."
       }
     ],
     "tags": [
       "N5",
-      "Partikel",
-      "Topik"
+      "Perkenalan",
+      "Subjek"
     ]
   },
   {
     "id": "m_bab01_2",
     "chapter": "Bab 01",
     "level": "N5",
-    "title": "A は B じゃありません",
-    "meaning": "Bentuk negatif untuk です. A bukan B.",
-    "formula_template": "{A} は {B} じゃありません",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person",
-          "object",
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "profession",
-          "nationality",
-          "name",
-          "person",
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola ini untuk membuat kalimat penyangkalan nominal negatif. 'A' adalah subjek/topik yang bukan 'B'. Dalam ragam formal tertulis gunakan では ありません.",
-    "ui_notes": "じゃ ありません digunakan dalam percakapan sehari-hari. では ありません digunakan dalam situasi resmi atau bahasa tertulis.",
+    "title": "A は B じゃ (では) ありません",
+    "meaning": "Bentuk negatif dari 'です'. Digunakan untuk menyangkal predikat kalimat nominal (Kata Benda). Secara harfiah berarti '[A] bukanlah [B]'.",
+    "formula_template": "[A] は [B] じゃ (では) ありません",
+    "ui_notes": "Bentuk 'じゃ ありません' lebih sering digunakan dalam percakapan sehari-hari karena terdengar natural. Sedangkan 'では ありません' bernuansa lebih kaku dan formal, biasanya diucapkan dalam pidato resmi atau digunakan dalam bahasa tertulis. Huruf 'は' pada 'では' juga dilafalkan sebagai 'wa'.",
     "examples": [
       {
-        "jp": "サントスさんは 学生じゃ（では）ありません。",
-        "id": "Sdr. Santos bukan mahasiswa."
+        "jp": "サントスさんは 学生じゃ ありません。",
+        "id": "Sdr. Santos bukan(lah) mahasiswa."
       }
     ],
     "tags": [
       "N5",
-      "Predikat",
-      "Negatif"
+      "Negatif",
+      "Penyangkalan"
     ]
   },
   {
     "id": "m_bab01_3",
     "chapter": "Bab 01",
     "level": "N5",
-    "title": "A は B ですか",
-    "meaning": "Kalimat tanya nominal untuk mengonfirmasi identitas atau status. Apakah A adalah B?",
-    "formula_template": "{A} は {B} ですか",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person",
-          "object",
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "profession",
-          "nationality",
-          "name",
-          "person",
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola ini untuk membuat kalimat tanya interogatif apakah 'A' adalah 'B'. Buatkan juga respons konfirmasi 'はい、〜です' atau 'いいえ、〜じゃありません'.",
-    "ui_notes": "Partikel か di akhir kalimat berfungsi sebagai tanda tanya dengan intonasi naik. Jawaban ya memakai はい, jawaban bukan memakai いいえ.",
+    "title": "A は B ですか (Kalimat Tanya)",
+    "meaning": "Partikel 'か' (ka) yang diletakkan pada akhir kalimat berfungsi sebagai tanda tanya. Hal ini menyatakan perasaan ketidakpastian atau keinginan untuk mengetahui sesuatu dari si pembicara. Susunan kata di dalam kalimat tidak perlu diubah, cukup menambahkan 'か' di belakang.",
+    "formula_template": "[A] は [B] ですか",
+    "ui_notes": "Kalimat tanya selalu diucapkan dengan intonasi naik pada akhir suku kata 'か'. Untuk pertanyaan ya/tidak, dijawab dengan awalan 'はい' (Ya) atau 'いいえ' (Tidak/Bukan). Selain itu, kita juga bisa menggunakan kata tanya spesifik (seperti 'どなた' / 'だれ' untuk menanyakan siapa).",
     "examples": [
       {
-        "jp": "ミラーさんは アメリカ人ですか。……はい、アメリカ人です。",
-        "id": "Apakah Sdr. Miller orang Amerika? ......Ya, orang Amerika."
+        "jp": "ミラーさんは アメリカ人ですか。",
+        "id": "Apakah Sdr. Miller orang Amerika?"
       },
       {
-        "jp": "ミラーさんは 先生ですか。……いいえ、先生じゃ ありません。",
-        "id": "Apakah Sdr. Miller guru? ......Bukan, dia bukan guru."
+        "jp": "はい、アメリカ人です。",
+        "id": "Ya, (beliau) orang Amerika."
+      },
+      {
+        "jp": "ミラーさんは 先生ですか。",
+        "id": "Apakah Sdr. Miller guru?"
+      },
+      {
+        "jp": "いいえ、先生じゃ ありません。",
+        "id": "Bukan, (dia) bukan guru."
+      },
+      {
+        "jp": "あの方は どなたですか。",
+        "id": "Siapakah orang itu (beliau)?"
+      },
+      {
+        "jp": "[あの方は] ミラーさんです。",
+        "id": "[Beliau] (adalah) Sdr. Miller."
       }
     ],
     "tags": [
       "N5",
-      "Partikel",
-      "Tanya"
+      "Tanya",
+      "Konfirmasi"
     ]
   },
   {
     "id": "m_bab01_4",
     "chapter": "Bab 01",
     "level": "N5",
-    "title": "A も B です",
-    "meaning": "Menyatakan kesamaan status atau sifat dengan subjek sebelumnya ('juga').",
-    "formula_template": "{A} も {B} です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person",
-          "object",
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "profession",
-          "nationality",
-          "person",
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola ini ketika subjek 'A' memiliki predikat 'B' yang sama dengan subjek sebelumnya. Partikel も menggantikan partikel は.",
-    "ui_notes": "Partikel も berarti \"juga\", digunakan untuk menggantikan partikel は ketika predikat yang dibicarakan sama dengan kalimat sebelumnya.",
+    "title": "Partikel も (Juga)",
+    "meaning": "Partikel 'も' (mo) memiliki arti 'juga' atau 'pun'. Digunakan sebagai pengganti partikel 'は' apabila subjek yang sedang dibicarakan memiliki properti, status, atau predikat yang persis sama dengan subjek di kalimat sebelumnya.",
+    "formula_template": "[A] も [B] です",
+    "ui_notes": "Penggunaan partikel 'も' menekankan adanya kesamaan. Ingat, 'も' menggantikan 'は', sehingga Anda tidak boleh menggabungkannya menjadi 'はも' atau 'もは'.",
     "examples": [
       {
         "jp": "ミラーさんは 会社員です。グプタさんも 会社員です。",
@@ -195,81 +107,48 @@
     "id": "m_bab01_5",
     "chapter": "Bab 01",
     "level": "N5",
-    "title": "A の B",
-    "meaning": "Menyatakan kepemilikan, afiliasi, atau kualifikasi kata benda ('B milik/bagian dari A').",
-    "formula_template": "{A} の {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person",
-          "place",
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "profession",
-          "object",
-          "person",
-          "place"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola ini untuk menghubungkan dua kata benda. 'A' menerangkan 'B' (misal afiliasi perusahaan, kepemilikan orang, atau asal negara).",
-    "ui_notes": "Partikel の berfungsi menghubungkan dua kata benda, di mana kata benda pertama menerangkan atau memiliki kata benda kedua.",
+    "title": "A の B (Kepemilikan / Afiliasi)",
+    "meaning": "Partikel 'の' (no) berfungsi menyambungkan dua Kata Benda menjadi satu kesatuan frasa. 'の' menunjukkan bahwa Kata Benda yang berada di depan (A) menerangkan, memiliki, atau merupakan asal afiliasi dari Kata Benda yang ada di belakangnya (B).",
+    "formula_template": "[A] の [B]",
+    "ui_notes": "Dalam bahasa Jepang, kata yang menerangkan selalu diletakkan di depan kata yang diterangkan (A menerangkan B). Konsep ini berkebalikan dengan tata bahasa Indonesia yang menerapkan hukum D-M (Diterangkan-Menerangkan).",
     "examples": [
       {
-        "jp": "ミラーさんは IMC の 社員です。",
-        "id": "Sdr. Miller pegawai perusahaan IMC."
+        "jp": "ミラーさんは IMCの 社員です。",
+        "id": "Sdr. Miller (adalah) pegawai perusahaan IMC."
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Penghubung"
+      "Kepemilikan"
     ]
   },
   {
     "id": "m_bab01_6",
     "chapter": "Bab 01",
     "level": "N5",
-    "title": "A さん",
-    "meaning": "Panggilan hormat / sopan untuk lawan bicara atau orang ketiga (setara 'Tuan / Nyonya / Sdr.').",
-    "formula_template": "{A} さん",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "person",
-          "name"
-        ]
-      }
-    },
-    "ai_instruction": "Bubuhkan akhiran 'さん' setelah nama orang atau marga lawan bicara/orang ketiga. JANGAN pernah gunakan 'さん' pada nama diri sendiri.",
-    "ui_notes": "Akhiran さん digunakan untuk menghormati orang lain. Jangan pernah memanggil diri sendiri dengan さん. Untuk anak kecil biasanya memakai ちゃん atau くん.",
+    "title": "〜さん (Gelar Kesopanan)",
+    "meaning": "Gelar kehormatan (honorifik) '~さん' (san) dibubuhkan di belakang marga atau nama orang lain (baik lawan bicara maupun orang ketiga). Tujuannya adalah untuk menunjukkan rasa hormat dan kesopanan.",
+    "formula_template": "[Nama/Marga] さん",
+    "ui_notes": "SANGAT PENTING: Anda TIDAK BOLEH membubuhkan '~さん' di belakang nama Anda sendiri. Untuk memanggil anak kecil yang sudah akrab, Anda dapat menggunakan '~ちゃん' (chan). Selain itu, untuk memanggil lawan bicara yang namanya sudah Anda ketahui, sebaiknya sebut namanya + さん daripada menggunakan 'あなた' (Anda), karena 'あなた' bisa terkesan kurang sopan kecuali kepada orang yang sangat dekat (seperti pasangan).",
     "examples": [
       {
-        "jp": "あの 方は ミラーさんです。",
+        "jp": "あの方は ミラーさんです。",
         "id": "Beliau Sdr. Miller."
       },
       {
-        "jp": "鈴木：ミラーさんは 学生ですか。ミラー：いいえ、会社員です。",
-        "id": "Suzuki: Apakah Sdr. Miller mahasiswa? Miller: Bukan, saya pegawai perusahaan."
+        "jp": "鈴木：ミラーさんは、学生ですか。",
+        "id": "Suzuki: Apakah Sdr. Miller mahasiswa?"
+      },
+      {
+        "jp": "ミラー：いいえ、会社員です。",
+        "id": "Miller: Bukan, saya pegawai perusahaan."
       }
     ],
     "tags": [
       "N5",
-      "Akhiran",
-      "Sopan Santun"
+      "Sapaan",
+      "Kesopanan"
     ]
   }
 ]

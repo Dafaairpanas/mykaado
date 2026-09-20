@@ -4,20 +4,9 @@
     "chapter": "Bab 19",
     "level": "N3",
     "title": "〜にとって",
-    "meaning": "〜にとって",
+    "meaning": "Pola ini digunakan untuk menyatakan sudut pandang atau penilaian dari seseorang/sesuatu. Artinya 'bagi...', 'menurut...', 'untuk...'. Fungsinya menyatakan bahwa suatu hal dinilai dari perspektif pihak tertentu. Varian bentuknya: 〜にとって (bagi...), 〜にとっては (bagi... [penekanan]), 〜にとっても (bagi... juga). Pola ini biasanya diikuti dengan penilaian, perasaan, atau keadaan yang bersifat subjektif dari sudut pandang tersebut.",
     "formula_template": "{A} にとって / にとっては / にとっても.",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} にとって / にとっては / にとっても.' untuk mengekspresikan: 〜にとって.",
-    "ui_notes": "〜にとって",
+    "ui_notes": "Cara membentuk: Kata benda (orang/kelompok) + にとって. Contoh: あなた (anata) → あなたにとって (bagi Anda). 人々 (hitobito) → 人々にとって (bagi orang-orang). Kata benda + にとっては (penekanan). Contoh: このあたりに人々にとっては (bagi orang-orang di sekitar sini). Kata benda + にとっても (juga bagi). Contoh: 私にとっても (bagi saya juga). Contoh pemakaian: あなたにとって、いちばん大切なものは何ですか (bagi Anda, apakah hal yang paling berharga?). このあたりに人々にとっては、車は必需品です (bagi orang-orang di sekitar sini, mobil adalah kebutuhan pokok). Perbedaan dengan 〜として: 〜として = sebagai (peran), 〜にとって = bagi/untuk (sudut pandang penilaian).",
     "examples": [
       {
         "jp": "あなたにとって、いちばん大切なものは何ですか。",
@@ -38,46 +27,9 @@
     "chapter": "Bab 19",
     "level": "N3",
     "title": "〜わりに",
-    "meaning": "Digunakan untuk sesuatu yang tidak sesuai kenyataannya / perbedaan mencolok antara kenyataan dengan apa yang dipikirkan.",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa kenyataan tidak sesuai dengan apa yang diperkirakan dari suatu kondisi. Artinya 'meskipun seharusnya...', 'padahal...', 'dibandingkan dengan...'. Ada perbedaan mencolok antara kenyataan dan ekspektasi. Varian 〜わりには lebih menekankan perbandingan. Sering mengandung nuansa heran, kagum, atau kritik.",
     "formula_template": "{A}(biasa) / {B}(biasa) / {C} な / {D}の わりに / わりには. (例: 高（たか）いわりに / 大変（たいへん）なわりの).",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}(biasa) / {B}(biasa) / {C} な / {D}の わりに / わりには. (例: 高（たか）いわりに / 大変（たいへん）なわりの).' untuk mengekspresikan: Digunakan untuk sesuatu yang tidak sesuai kenyataannya / perbedaan mencolok antara kenyataan dengan apa yang d.",
-    "ui_notes": "Digunakan untuk sesuatu yang tidak sesuai kenyataannya / perbedaan mencolok antara kenyataan dengan apa yang dipikirkan.",
+    "ui_notes": "Cara membentuk: (1) Kata kerja/kata sifat-i bentuk biasa + わりに. Contoh: 高い (takai) → 高いわりに (padahal mahal). 年の (toshi no) → 年のわりには (dibandingkan usianya). (2) Kata sifat-na + な + わりに. Contoh: 大変な (taihen na) → 大変なわりに (padahal susah). (3) Kata benda + の + わりに. Contoh: 年の (toshi no) → 年のわりに (dibandingkan usia). Contoh pemakaian: 年のわりには若く見える (kelihatan muda dibandingkan usianya). お金がない(と言っている)わりに、よく買い物をするね (meskipun bilang tidak punya uang, ternyata sering belanja ya). Varian 〜わりには menekankan perbandingan: 彼は若いわりには、考え方が大人だ (meskipun masih muda, cara berpikirnya dewasa). Perbedaan dengan 〜にしては: 〜わりに = perbandingan dengan proporsi/keadaan yang wajar, 〜にしては = perbandingan dengan ekspektasi kategori.",
     "examples": [
       {
         "jp": "年のわりには若く見える。",
@@ -98,46 +50,9 @@
     "chapter": "Bab 19",
     "level": "N3",
     "title": "〜くせに",
-    "meaning": "Umumnya untuk mengejek/meremehkan orang lain. Tidak sama dengan 〜のに yang mengandung ketidakpuasan.",
+    "meaning": "Pola ini digunakan untuk mengejek atau meremehkan orang lain. Artinya 'padahal...', 'walaupun...', 'meskipun...'. Nuansanya lebih kasar dan mengandung kritik, sindiran, atau rasa tidak suka. Berbeda dengan 〜のに yang hanya menyatakan ketidakpuasan atau penyesalan, 〜くせに secara eksplisit merendahkan atau mengejek pihak lain. Karena itu, pola ini sebaiknya tidak dipakai kepada atasan atau orang yang dihormati.",
     "formula_template": "{A}(biasa) / {B}(biasa) / {C} な / {D}の くせに. (例: できないくせに / 学生（がくせい）のくせに).",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}(biasa) / {B}(biasa) / {C} な / {D}の くせに. (例: できないくせに / 学生（がくせい）のくせに).' untuk mengekspresikan: Umumnya untuk mengejek/meremehkan orang lain. Tidak sama dengan 〜のに yang mengandung ketidakpuasan..",
-    "ui_notes": "Umumnya untuk mengejek/meremehkan orang lain. Tidak sama dengan 〜のに yang mengandung ketidakpuasan.",
+    "ui_notes": "Cara membentuk: (1) Kata kerja/kata sifat-i bentuk biasa + くせに. Contoh: 知っている (shitte iru) → 知っているくせに (padahal tahu). できない (dekinai) → できないくせに (padahal tidak bisa). (2) Kata sifat-na + な + くせに. Contoh: 元気な (genki na) → 元気なくせに (padahal sehat). (3) Kata benda + の + くせに. Contoh: 学生 (gakusei) → 学生のくせに (padahal pelajar). Contoh pemakaian: 知っているくせに、教えてくれない (padahal tahu, tapi tidak mau memberitahu). 元気なくせに、病気のふりをしている (padahal sehat, tapi pura-pura sakit). Perbedaan dengan 〜のに: 〜のに = ketidakpuasan/penyesalan (netral), 〜くせに = mengejek/meremehkan (kasar, negatif).",
     "examples": [
       {
         "jp": "知っているくせに、教えてくれない。",
@@ -158,46 +73,9 @@
     "chapter": "Bab 19",
     "level": "N3",
     "title": "〜なんか／〜なんて／〜など",
-    "meaning": "(1) memberi contoh, (2) meremehkan/menyepelekan, (3) merendahkan diri. KK/KS/KB (biasa) atau Kalimat -> なんて / など.",
+    "meaning": "Pola ini memiliki beberapa fungsi: (1) memberi contoh, artinya 'seperti...', 'misalnya...'; (2) meremehkan atau menyepelekan, artinya '... segala', '... begituan'; (3) merendahkan diri, artinya '... saya ini tidak seberapa'. Bentuk 〜なんか dan 〜なんて lebih kasual dan sering bernuansa meremehkan, sedangkan 〜など lebih netral/formal. KK/KS/KB bentuk biasa atau kalimat + なんて / など.",
     "formula_template": "{A}て / {B} 〜く / {C} で / {D} なんか / なんて / など.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}て / {B} 〜く / {C} で / {D} なんか / なんて / など.' untuk mengekspresikan: (1) memberi contoh, (2) meremehkan/menyepelekan, (3) merendahkan diri. KK/KS/KB (biasa) atau Kalimat -> なんて / .",
-    "ui_notes": "(1) memberi contoh, (2) meremehkan/menyepelekan, (3) merendahkan diri. KK/KS/KB (biasa) atau Kalimat -> なんて / など.",
+    "ui_notes": "Cara membentuk: (1) Kata benda + なんか / なんて / など. Contoh: お化粧 (okeshou) → お化粧なんか (make up segala). 納豆 (nattou) → 納豆なんて (nattou begituan). (2) Kata kerja bentuk て + なんか. Contoh: 泣く (naku) → 泣いて (naite) → 泣いてなんか (menangis segala). (3) Kata sifat-i: く + なんか. Contoh: 高い (takai) → 高くなくなんか (tidak mahal kok). (4) Kata sifat-na/kata benda: で + なんか. Contoh: 元気でなんか (sehat segala). Contoh pemakaian: お化粧なんかしてはいけません (tidak boleh memakai riasan/make up segala). 納豆なんて嫌いだ (nattou begituan, aku benci). A:「泣いてるの？」 B:「泣いてなんかいないよ！」 (A: kamu menangis? B: aku tidak menangis kok!). 日本語でスピーチなどできません (pidato dengan bahasa Jepang, saya tidak bisa). Perbedaan: なんか/なんて = kasual, sering meremehkan; など = netral/formal, sering untuk memberi contoh.",
     "examples": [
       {
         "jp": "お化粧なんかしてはいけません。/ 納豆なんて嫌いだ。/ A:「泣いてるの？」 B:「泣いてなんかいないよ！」/ 日本語でスピーチなどできません。。",

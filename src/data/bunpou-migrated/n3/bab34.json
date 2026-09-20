@@ -4,58 +4,9 @@
     "chapter": "Bab 34",
     "level": "N3",
     "title": "〜わけだ",
-    "meaning": "makanya, pantesan",
+    "meaning": "Pola ini digunakan untuk menyatakan kesimpulan atau pemahaman setelah mengetahui alasan/penyebabnya. Artinya 'pantas saja...', 'makanya...', 'ternyata memang...'. Pembicara awalnya mungkin heran atau belum paham, lalu setelah tahu faktanya, dia menyimpulkan 'oh, pantas saja'. Sering dipakai untuk menegaskan bahwa suatu keadaan memang wajar berdasarkan informasi yang baru diketahui.",
     "formula_template": "[{A}(biasa) / {B} (biasa) / {C} な] 〜わけだ | [{D}ている／ていた / {V4}られる／させる] 〜わけだ",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "V4": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} な] 〜わけだ | [{D}ている／ていた / {V4}られる／させる] 〜わけだ' untuk mengekspresikan: makanya, pantesan.",
-    "ui_notes": "makanya, pantesan",
+    "ui_notes": "Cara membentuk: (1) Kata kerja/kata sifat-i bentuk biasa + わけだ. Contoh: 暑い (atsui) → 暑いわけだ (pantas saja panas). (2) Kata sifat-na + な + わけだ. Contoh: 元気な (genki na) → 元気なわけだ (pantas saja sehat). (3) Kata kerja bentuk ている/ていた + わけだ. Contoh: 知っている (shitte iru) → 知っているわけだ (pantas saja tahu). Contoh pemakaian: 暑いわけだ。気温が36度もある (pantas saja panas. Suhu udaranya sampai 36 derajat). A:「田中さん、彼女にふられたらしいよ。」 (Tanaka-san katanya diputusin pacarnya). Perbedaan dengan 〜はずだ: 〜わけだ = kesimpulan setelah tahu fakta (pantas saja), 〜はずだ = keyakinan berdasarkan logika (seharusnya). Perbedaan dengan 〜のだ: 〜わけだ lebih menekankan kesimpulan logis, 〜のだ lebih umum (penjelasan).",
     "examples": [
       {
         "jp": "暑いわけだ。気温が36度もある。",
@@ -76,58 +27,9 @@
     "chapter": "Bab 34",
     "level": "N3",
     "title": "〜わけではない",
-    "meaning": "bukannya, bukan berarti",
+    "meaning": "Pola ini digunakan untuk menyangkal sebagian atau meluruskan kesalahpahaman. Artinya 'bukannya...', 'bukan berarti...'. Pembicara tidak sepenuhnya menolak, tetapi menjelaskan bahwa kesimpulan yang mungkin diambil orang lain tidak sepenuhnya benar. Sering dipakai untuk mengoreksi generalisasi yang terlalu luas.",
     "formula_template": "[{A}(biasa) / {B} (biasa) / {C} な] 〜わけではない | [{D}ている／ていた / {V4}られる／させる] 〜わけではない",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "V4": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} な] 〜わけではない | [{D}ている／ていた / {V4}られる／させる] 〜わけではない' untuk mengekspresikan: bukannya, bukan berarti.",
-    "ui_notes": "bukannya, bukan berarti",
+    "ui_notes": "Cara membentuk: (1) Kata kerja/kata sifat-i bentuk biasa + わけではない. Contoh: 嫌いだ (kirai da) → 嫌いなわけではない (bukannya tidak suka). (2) Kata sifat-na + な + わけではない. Contoh: 嫌いな (kirai na) → 嫌いなわけではない (bukannya tidak suka). (3) Kata kerja bentuk ている/ていた + わけではない. Contoh: 見ている (mite iru) → 見ているわけではない (bukannya sedang menonton). Contoh pemakaian: きらいなわけではないが、肉はあまり食べない (bukannya saya tidak suka, tapi saya jarang makan daging). テレビは見ないわけではないが、音楽を聴いているほうの多い (bukannya tidak nonton TV, tapi saya lebih banyak mendengarkan musik). Perbedaan dengan 〜ないことはない: 〜ないことはない = bukannya tidak (double negative, lebih halus), 〜わけではない = bukan berarti (meluruskan kesalahpahaman). Perbedaan dengan 〜というわけではない: 〜というわけではない lebih menekankan 'bukan berarti bahwa...'.",
     "examples": [
       {
         "jp": "きらいなわけではないが、肉はあまり食べない。",
@@ -148,58 +50,9 @@
     "chapter": "Bab 34",
     "level": "N3",
     "title": "〜わけがない",
-    "meaning": "untuk menyangkal dengan kuat \"tidak mungkin\", \"tidak ada alasan\"",
+    "meaning": "Pola ini digunakan untuk menyangkal dengan kuat. Artinya 'tidak mungkin...', 'tidak ada alasan...', 'mustahil...'. Pembicara sangat yakin bahwa sesuatu tidak mungkin terjadi berdasarkan logika atau akal sehat. Nuansanya tegas dan sering emosional. Berbeda dengan 〜はずがない yang juga berarti 'tidak mungkin', 〜わけがない lebih menekankan pada penalaran atau alasan logis.",
     "formula_template": "[{A}(biasa) / {B} (biasa) / {C} な] 〜わけがない | [{D}ている／ていた / {V4}られる／させる] 〜わけがない",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "V4": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} な] 〜わけがない | [{D}ている／ていた / {V4}られる／させる] 〜わけがない' untuk mengekspresikan: untuk menyangkal dengan kuat \"tidak mungkin\", \"tidak ada alasan\".",
-    "ui_notes": "untuk menyangkal dengan kuat \"tidak mungkin\", \"tidak ada alasan\"",
+    "ui_notes": "Cara membentuk: (1) Kata kerja/kata sifat-i bentuk biasa + わけがない. Contoh: 勝てる (kateru) → 勝てるわけがない (tidak mungkin menang). (2) Kata sifat-na + な + わけがない. Contoh: 元気な (genki na) → 元気なわけがない (tidak mungkin sehat). (3) Kata kerja bentuk ている/ていた + わけがない. Contoh: 知っている (shitte iru) → 知っているわけがない (tidak mungkin tahu). Contoh pemakaian: 強い相手に勝てるわけがない (tidak mungkin bisa menang dengan lawan yang kuat). A:「このパン、古くない？」 (roti ini udah lama yah?! Basi). Perbedaan dengan 〜はずがない: 〜はずがない = tidak mungkin (berdasarkan keyakinan/ekspektasi), 〜わけがない = tidak mungkin (berdasarkan logika/penalaran kuat). Keduanya sering bisa saling menggantikan, tetapi 〜わけがない lebih tegas.",
     "examples": [
       {
         "jp": "強い相手に勝てるわけがない。",
@@ -220,52 +73,9 @@
     "chapter": "Bab 34",
     "level": "N3",
     "title": "〜わけにはいかない",
-    "meaning": "menyatakan bahwa hal tersebut tidak mungkin dilakukan karena alasan tertentu",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa suatu hal tidak mungkin atau tidak boleh dilakukan karena alasan tertentu (sosial, moral, atau situasional). Artinya 'tidak bisa...', 'tidak boleh...', 'tidak ada alasan untuk...'. Pembicara sebenarnya mungkin ingin melakukan, tetapi ada kendala atau tanggung jawab yang mencegahnya. Bentuk negatif 〜ないわけにはいかない berarti 'harus...' (tidak bisa tidak melakukan).",
     "formula_template": "[{A}る / {B}ない / {C}ている / {D}させる] 〜わけにはいかない / 〜わけにもいかない",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "C": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "D": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}る / {B}ない / {C}ている / {D}させる] 〜わけにはいかない / 〜わけにもいかない' untuk mengekspresikan: menyatakan bahwa hal tersebut tidak mungkin dilakukan karena alasan tertentu.",
-    "ui_notes": "menyatakan bahwa hal tersebut tidak mungkin dilakukan karena alasan tertentu",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus + わけにはいかない. Contoh: 休む (yasumu) → 休むわけにはいかない (tidak bisa libur). (2) Kata kerja bentuk negatif + わけにはいかない. Contoh: 従う (shitagau) → 従わない (shitagawanai) → 従わないわけにはいかない (tidak bisa tidak menaati / harus menaati). (3) Kata kerja bentuk ている + わけにはいかない. Contoh: 寝ている (nete iru) → 寝ているわけにはいかない (tidak bisa tidur). (4) Kata kerja bentuk kausatif + わけにはいかない. Contoh: させる (saseru) → させるわけにはいかない (tidak bisa membiarkan/menyuruh). Contoh pemakaian: 大事な会議があるから、休むわけにはいかない (karena ada rapat penting, tidak ada alasan bagi saya untuk libur). 社長の命令だから、従わないわけにはいかない (karena ini perintah direktur, tidak ada alasan bagi saya untuk tidak menaatinya). Perbedaan dengan 〜てはいけない: 〜てはいけない = larangan (tidak boleh), 〜わけにはいかない = tidak bisa karena alasan sosial/moral (bukan larangan formal). Perbedaan dengan 〜なければならない: 〜なければならない = kewajiban pribadi, 〜ないわけにはいかない = tidak bisa tidak (karena keadaan).",
     "examples": [
       {
         "jp": "大事な会議があるから、休むわけにはいかない。",

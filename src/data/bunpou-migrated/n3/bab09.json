@@ -4,28 +4,9 @@
     "chapter": "Bab 09",
     "level": "N3",
     "title": "KATA SIFAT -> KATA BENDA",
-    "meaning": "merubah bentuk kata sifat menjadi kata benda; ✓ banyak digunakan untuk mengungkapkan perasaan, karakter & tingkatan",
+    "meaning": "Pola ini mengubah bentuk kata sifat menjadi kata benda dengan menambahkan akhiran 〜さ. Banyak digunakan untuk mengungkapkan perasaan, karakter, dan tingkatan/derajat. Artinya menjadi 'tingkat ...-nya', '...-nya' (sebagai sifat yang terukur). Contoh: うれしい (senang) → うれしさ (kegembiraan), あつい (panas) → あつさ (panasnya/tingkat kepanasan), あまい (manis) → あまさ (kemanisan), まじめだ (serius) → まじめさ (keseriusan). Akhiran 〜さ menekankan pada kadar atau derajat sifat tersebut, sehingga bisa diukur atau dibandingkan.",
     "formula_template": "{A} (coret い) → さ / {B} (coret な) → さ (※ いい → よさ) | 例: うれしさ、あつさ、あまさ、まじめさ",
-    "variables": {
-      "A": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} (coret い) → さ / {B} (coret な) → さ (※ いい → よさ) | 例: うれしさ、あつさ、あまさ、まじめさ' untuk mengekspresikan: merubah bentuk kata sifat menjadi kata benda; ✓ banyak digunakan untuk mengungkapkan perasaan, karakter & ting.",
-    "ui_notes": "merubah bentuk kata sifat menjadi kata benda; ✓ banyak digunakan untuk mengungkapkan perasaan, karakter & tingkatan",
+    "ui_notes": "Cara membentuk: (1) Kata sifat-i: coret い, lalu + さ. Contoh: 大きい (ookii) → 大きさ (ukuran/besarnya). 暑い (atsui) → 暑さ (panasnya). 甘い (amai) → 甘さ (kemanisan). (2) Kata sifat-na: coret な, lalu + さ. Contoh: まじめだ (majime da) → まじめさ (keseriusan). 便利だ (benri da) → 便利さ (kepraktisan). (3) Pengecualian: いい (ii) → よさ (yosa), bukan いさ. Pola 〜さ sering dipakai untuk menyatakan ukuran, tingkat, atau kadar. Contoh: 大きさは違うが、君と同じかばんを持っているよ (besarnya beda, tapi saya punya tas yang sama dengan punya kamu). 子どもに命の大切さを教えなければならない (harus mengajarkan kepada anak tentang pentingnya sebuah nyawa).",
     "examples": [
       {
         "jp": "大きさは違うが、君と同じかばんを持っているよ。",
@@ -46,28 +27,9 @@
     "chapter": "Bab 09",
     "level": "N3",
     "title": "KATA SIFAT -> KATA BENDA",
-    "meaning": "merubah bentuk kata sifat menjadi kata benda; ✓ banyak digunakan untuk mengungkapkan sebuah keadaan, karakter",
+    "meaning": "Pola ini mengubah bentuk kata sifat menjadi kata benda dengan menambahkan akhiran 〜み. Banyak digunakan untuk mengungkapkan sebuah keadaan atau karakter yang bersifat internal/emosional, bukan kadar yang terukur. Contoh: かなしい (sedih) → かなしみ (kesedihan), いたい (sakit) → いたみ (rasa sakit), よわい (lemah) → よわみ (kelemahan), しんけんだ (serius) → しんけんみ (keseriusan). Akhiran 〜み menekankan pada keadaan atau nuansa yang dirasakan, bukan derajat yang bisa diukur. Tidak semua kata sifat bisa memakai 〜み; hanya kata-kata tertentu yang sudah lazim. Contoh yang TIDAK bisa: おおきみ, あつみ, うれしみ, まじめみ.",
     "formula_template": "{A} (coret い) → み / {B} (coret な) → み | 例: かなしみ、いたみ、よわみ、しんけんみ | ✗ Tidak bisa: おおきみ、あつみ、うれしみ、まじめみ",
-    "variables": {
-      "A": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} (coret い) → み / {B} (coret な) → み | 例: かなしみ、いたみ、よわみ、しんけんみ | ✗ Tidak bisa: おおきみ、あつみ、うれしみ、まじめみ' untuk mengekspresikan: merubah bentuk kata sifat menjadi kata benda; ✓ banyak digunakan untuk mengungkapkan sebuah keadaan, karakter.",
-    "ui_notes": "merubah bentuk kata sifat menjadi kata benda; ✓ banyak digunakan untuk mengungkapkan sebuah keadaan, karakter",
+    "ui_notes": "Cara membentuk: (1) Kata sifat-i: coret い, lalu + み. Contoh: 悲しい (kanashii) → 悲しみ (kesedihan). 痛い (itai) → 痛み (rasa sakit). 弱い (yowai) → 弱み (kelemahan). (2) Kata sifat-na: coret な, lalu + み. Contoh: 真剣だ (shinken da) → 真剣み (keseriusan). Pola 〜み terbatas pada kata sifat tertentu yang sudah menjadi kosakata tetap. Tidak bisa dibuat bebas seperti 〜さ. Contoh pemakaian: 戦争が終わった今でも、この国の苦しみはまだ続いている (penderitaan negara ini masih berkelanjutan meskipun saat ini perang sudah selesai). 田中さんの強みは、2ヵ国語が話せるということです (kekuatan Tanaka-san adalah mampu berbicara 2 bahasa). Perbedaan 〜さ dan 〜み: 〜さ = kadar/derajat yang terukur, 〜み = keadaan/nuansa yang dirasakan.",
     "examples": [
       {
         "jp": "戦争が終わわった今でも、この国の苦しみはまだ続いている。",
@@ -88,54 +50,9 @@
     "chapter": "Bab 09",
     "level": "N3",
     "title": "〜こと",
-    "meaning": "dapat berfungsi sebagai pembentuk kata benda",
+    "meaning": "Pola ini berfungsi sebagai pembentuk kata benda (nominalizer). Artinya mengubah seluruh frasa/kalimat sebelumnya menjadi sebuah 'hal' atau 'perkara' yang bisa menjadi subjek, objek, atau pelengkap. Contoh: 入院したこと (hal masuk rumah sakit), テストのこと (perihal ujian). 〜こと bersifat lebih formal dibandingkan 〜の. Selain sebagai nominalizer, 〜こと juga dipakai dalam berbagai pola tetap seperti 〜ことがある, 〜ことにしている, 〜ことになる, dan sebagainya. Karena itu, jika 〜こと sudah menjadi bagian dari pola kalimat tertentu, tidak bisa digantikan dengan 〜の.",
     "formula_template": "[{A}(biasa) / {B} (biasa) / {C} な / {D}の / {V4}である] こと",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "V4": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} な / {D}の / {V4}である] こと' untuk mengekspresikan: dapat berfungsi sebagai pembentuk kata benda.",
-    "ui_notes": "dapat berfungsi sebagai pembentuk kata benda",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk biasa + こと. Contoh: 入院する (nyuuin suru) → 入院すること (hal dirawat inap). 入院した (nyuuin shita) → 入院したこと (hal sudah dirawat inap). (2) Kata sifat-i bentuk biasa + こと. Contoh: 大切だ (taisetsu da) → 大切なこと (hal penting). (3) Kata sifat-na + な + こと. Contoh: 大切な (taisetsu na) → 大切なこと (hal penting). (4) Kata benda + の + こと. Contoh: テスト (tesuto) → テストのこと (perihal ujian). Pola ini sering dipakai sebagai subjek atau objek: 田中さんが入院したことを知っていますか (apakah kamu tahu Tanaka-san masuk rumah sakit?). 来週のテストのことで、質問があります (saya ada pertanyaan perihal ujian minggu depan).",
     "examples": [
       {
         "jp": "来週のテストのことで、質問があります。",
@@ -156,46 +73,9 @@
     "chapter": "Bab 09",
     "level": "N3",
     "title": "〜の",
-    "meaning": "berfungsi sebagai pembentuk kata benda sama seperti 〜こと; ✓ 〜の lebih kasual, 〜こと formal; ✓ ketika 〜こと merupakan bagian dari pola kalimat, maka tidak bisa diganti",
+    "meaning": "Pola ini juga berfungsi sebagai pembentuk kata benda (nominalizer), sama seperti 〜こと. Bedanya, 〜の lebih kasual (percakapan sehari-hari), sedangkan 〜こと lebih formal (tulisan resmi, pidato, dokumen). Namun, ketika 〜こと merupakan bagian dari pola kalimat tertentu (seperti 〜ことがある, 〜ことにする, 〜ことになる, 〜ことだ), maka tidak bisa digantikan dengan 〜の. Jadi 〜の dan 〜こと kadang bisa saling menggantikan, tetapi tidak selalu.",
     "formula_template": "[{A}(biasa) / {B} (biasa) / {C} な / {D}な] の",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} な / {D}な] の' untuk mengekspresikan: berfungsi sebagai pembentuk kata benda sama seperti 〜こと; ✓ 〜の lebih kasual, 〜こと formal; ✓ ketika 〜こと merupakan.",
-    "ui_notes": "berfungsi sebagai pembentuk kata benda sama seperti 〜こと; ✓ 〜の lebih kasual, 〜こと formal; ✓ ketika 〜こと merupakan bagian dari pola kalimat, maka tidak bisa digantikan 〜の",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk biasa + の. Contoh: 電話する (denwa suru) → 電話するの (hal menelepon). 行く (iku) → 行くの (hal pergi). (2) Kata sifat-i bentuk biasa + の. Contoh: 好きだ (suki da) → 好きなの (yang saya suka). (3) Kata sifat-na + な + の. Contoh: 静かな (shizuka na) → 静かなの (yang tenang). (4) Kata benda + な + の. Contoh: 学生なの (yang merupakan pelajar). Contoh pemakaian: 田中さんに電話するのをすっかり忘れていました (saya benar-benar lupa menelpon Tanaka-san). 日曜日に混んだところへ行くのは、あまり好きではありません (hari Minggu pergi ke tempat yang ramai itu saya tidak begitu suka). Perbedaan 〜の dan 〜こと: 〜の = kasual, 〜こと = formal. Jika 〜こと adalah bagian dari pola tetap, tidak bisa diganti 〜の.",
     "examples": [
       {
         "jp": "田中さんに電話するのをすっかり忘れていました。",

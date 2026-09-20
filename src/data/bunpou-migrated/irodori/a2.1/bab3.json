@@ -1,0 +1,181 @@
+[
+  {
+    "id": "irodori_a2.1_bab3_1",
+    "chapter": 3,
+    "level": "A2.1",
+    "title": "N に / [ナA]-に / [イA]-く なります",
+    "meaning": "Menjadi [N/Kata Sifat] (Perubahan)",
+    "formula_template": "N に / ナA-に / イA-く + なります",
+    "ui_notes": "Kata **なります（なる）** menunjukkan perubahan. Pada materi ini digunakan untuk menggambarkan perubahan iklim atau musim.\n\n* **Kata Benda (N) & Kata Sifat-ナ**: Gunakan **～になります**.\n* **Kata Sifat-イ**: Ubah bunyi **「い」** di akhir kata menjadi **「く」**, lalu tambah **なります** (menjadi **～くなります**).",
+    "examples": [
+      {
+        "japanese": "春は桜の花が咲きます。暖かくなります。",
+        "indonesian": "Pada musim semi, bunga sakura bermekaran. Udara menjadi hangat.",
+        "romaji": "Haru wa sakura no hana ga sakimasu. Atatakaku narimasu."
+      },
+      {
+        "japanese": "夏は学校が休みになります。",
+        "indonesian": "Pada musim panas sekolah libur.",
+        "romaji": "Natsu wa gakkou ga yasumi ni narimasu."
+      },
+      {
+        "japanese": "花が咲いて、公園がきれいに見りました。",
+        "indonesian": "Bunga bermekaran, taman pun menjadi indah.",
+        "romaji": "Hana ga saite, kouen ga kirei ni narimashita."
+      },
+      {
+        "japanese": "Ａ： ちょっと、すずしくなりましたね。\nＢ： そうですね。",
+        "indonesian": "A: Sudah mulai dingin, ya?\nB: Ya.",
+        "romaji": "A: Chotto, suzushiku narimashita ne.\nB: Sou desu ne."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 3", "perubahan", "narimasu"]
+  },
+  {
+    "id": "irodori_a2.1_bab3_2",
+    "chapter": 3,
+    "level": "A2.1",
+    "title": "いちばん [ナA]-です / [イA]-いです",
+    "meaning": "Paling [Kata Sifat]",
+    "formula_template": "いちばん + Kata Sifat + です",
+    "ui_notes": "Kata **いちばん** pada dasarnya berarti \"nomor satu / urutan pertama\". Namun, apabila diletakkan sebelum kata sifat, maknanya menjadi **\"paling\"** (superlatif).",
+    "examples": [
+      {
+        "japanese": "秋がいちばん好きです。",
+        "indonesian": "Saya paling suka musim gugur.",
+        "romaji": "Aki ga ichiban suki desu."
+      },
+      {
+        "japanese": "Ａ： 好きな季節はいつですか？\nＢ： 春がいちばん好きです。",
+        "indonesian": "A: Musim apakah yang Anda sukai?\nB: Saya paling suka musim semi.",
+        "romaji": "A: Suki na kisetsu wa itsu desu ka?\nB: Haru ga ichiban suki desu."
+      },
+      {
+        "japanese": "日本では、8月がいちばん暑いです。",
+        "indonesian": "Bulan Agustus adalah bulan terpanas di Jepang.",
+        "romaji": "Nihon de wa, hachigatsu ga ichiban atsui desu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 3", "paling", "ichiban", "superlatif"]
+  },
+  {
+    "id": "irodori_a2.1_bab3_3",
+    "chapter": 3,
+    "level": "A2.1",
+    "title": "[イA]-い のが好きです / 苦手です",
+    "meaning": "Suka / Tidak tahan dengan yang [Kata Sifat]",
+    "formula_template": "イA-い + のが + 好きです / 苦手です",
+    "ui_notes": "Sama seperti menambahkan **の** pada kata kerja untuk membuatnya menjadi kata benda (Bab 2), kita juga bisa menambahkan **の** pada **Kata Sifat-イ**.\n\n* **好きです** = Suka.\n* **苦手（にがて）です** = Tidak suka / Tidak tahan / Kurang jago. Ini adalah ungkapan eufemistis (pelembutan) yang lebih halus dibandingkan **好きじゃないです**, sehingga sering dipakai dalam percakapan.\n* Pada bentuk negatif seperti **～のは好きじゃないです**, partikel **が** sering berubah menjadi **は**.",
+    "examples": [
+      {
+        "japanese": "私は暑いのが好きです。寒いのが苦手です。",
+        "indonesian": "Saya suka cuaca panas. Tidak tahan dengan cuaca dingin.",
+        "romaji": "Watashi wa atsui no ga suki desu. Samui no ga nigate desu."
+      },
+      {
+        "japanese": "寒いのはあまり好きじゃないです。",
+        "indonesian": "Saya tidak begitu suka cuaca dingin.",
+        "romaji": "Samui no wa amari suki janai desu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 3", "suka", "nigate", "kata sifat i"]
+  },
+  {
+    "id": "irodori_a2.1_bab3_4",
+    "chapter": 3,
+    "level": "A2.1",
+    "title": "[ナA]-ですから / [イA]-いですから",
+    "meaning": "Karena [Kata Sifat]",
+    "formula_template": "Kata Sifat + です + から",
+    "ui_notes": "Kata **から** di akhir kalimat menunjukkan alasan (karena). Pada bagian ini, kalimat diakhiri dengan alasan mengapa menyukai sesuatu.\n\n* Meskipun materi ini fokus pada gabungan kata sifat dengan **ですから**, kata kerja (V) juga bisa dipakai sebelum **から**.",
+    "examples": [
+      {
+        "japanese": "秋が好きです。もみじの景色がきれいですから。",
+        "indonesian": "Saya suka musim gugur, karena pemandangan dedaunan yang memerah [momiji] sangat indah.",
+        "romaji": "Aki ga suki desu. Momiji no keshiki ga kirei desu kara."
+      },
+      {
+        "japanese": "Ａ： 好きな季節はいつですか？\nＢ： 秋です。\nＡ： どうしてですか？\nＢ： 果物がおいしいですから。",
+        "indonesian": "A: Musim apa yang Anda sukai?\nB: Musim gugur.\nA: Mengapa?\nB: Karena buah-buahan terasa lebih enak.",
+        "romaji": "A: Suki na kisetsu wa itsu desu ka?\nB: Aki desu.\nA: Doushite desu ka?\nB: Kudamono ga oishii desu kara."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 3", "kara", "karena", "alasan"]
+  },
+  {
+    "id": "irodori_a2.1_bab3_5",
+    "chapter": 3,
+    "level": "A2.1",
+    "title": "S1から、S2",
+    "meaning": "Karena S1, maka S2",
+    "formula_template": "Kalimat 1 (Alasan) + から, Kalimat 2 (Akibat)",
+    "ui_notes": "Fungsi **から** di sini digunakan untuk menghubungkan dua kalimat dalam satu rangkaian. **Kalimat S1** adalah alasan (karena) dari **Kalimat S2**.",
+    "examples": [
+      {
+        "japanese": "暑いのが大好きですから、夏が好きです。",
+        "indonesian": "Saya suka musim panas, karena sangat menyukai cuaca panas.",
+        "romaji": "Atsui no ga daisuki desu kara, natsu ga suki desu."
+      },
+      {
+        "japanese": "果物がおいしいですから、秋が好きです。",
+        "indonesian": "Saya suka musim gugur karena buah-buahan terasa lebih enak.",
+        "romaji": "Kudamono ga oishii desu kara, aki ga suki desu."
+      },
+      {
+        "japanese": "夏休みがありますから、夏がいちばん好きです。",
+        "indonesian": "Saya paling suka musim panas karena ada liburan musim panas.",
+        "romaji": "Natsuyasumi ga arimasu kara, natsu ga ichiban suki desu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 3", "kara", "penyambung", "karena"]
+  },
+  {
+    "id": "irodori_a2.1_bab3_6",
+    "chapter": 3,
+    "level": "A2.1",
+    "title": "N1やN2",
+    "meaning": "N1, N2, dan lain-lain (Memberi contoh)",
+    "formula_template": "N1 + や + N2",
+    "ui_notes": "Partikel **や** digunakan untuk menggabungkan dua benda (sama seperti **と**). Bedanya, **や** digunakan saat kita hanya memberikan *sebagian contoh* dari hal-hal lain yang juga ada (implisit ada yang lain).\n\n* Kadang ditambahkan kata **など** di belakangnya sehingga polanya menjadi: **N1やN2など** (N1, N2, dan lain-lain).",
+    "examples": [
+      {
+        "japanese": "海や山で遊ぶのも楽しいです。",
+        "indonesian": "Menyenangkan juga main di laut dan di gunung (serta tempat lain).",
+        "romaji": "Umi ya yama de asobu no mo tanoshii desu."
+      },
+      {
+        "japanese": "春は、桜やチューリップなどの花が咲きます。",
+        "indonesian": "Pada musim semi, bunga-bunga seperti sakura, tulip, dan lain-lain bermekaran.",
+        "romaji": "Haru wa, sakura ya chuurippu nado no hana ga sakimasu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 3", "partikel ya", "dan", "contoh"]
+  },
+  {
+    "id": "irodori_a2.1_bab3_7",
+    "chapter": 3,
+    "level": "A2.1",
+    "title": "N1とか（N2とか）",
+    "meaning": "Misalnya N1, (dan N2)",
+    "formula_template": "N1 + とか (+ N2 + とか)",
+    "ui_notes": "Digunakan untuk menyatakan contoh. Bedanya dengan **や**, kalau menggunakan **とか** kamu cukup menyebutkan *satu contoh saja* (bisa pakai N1とか tanpa harus ada N2).\n\n* **とか** lebih kasual dan banyak digunakan dalam percakapan lisan dibanding **や**.\n* Walaupun di bab ini hanya dicontohkan dengan kata benda, sebenarnya **とか** juga bisa ditempelkan ke kata sifat dan kata kerja, dan bisa berada di tengah maupun akhir kalimat.",
+    "examples": [
+      {
+        "japanese": "秋は果物がおいしいですよね。ぶどうとか梨とか。",
+        "indonesian": "Pada musim gugur buah-buahan memang enak, ya? Misalnya buah anggur, pir.",
+        "romaji": "Aki wa kudamono ga oishii desu yo ne. Budou toka nashi toka."
+      },
+      {
+        "japanese": "夏休みに、どこか旅行に行きたいですね。北海道とか。",
+        "indonesian": "Rasanya ingin jalan-jalan ya saat liburan musim panas nanti. Misalnya ke Hokkaido.",
+        "romaji": "Natsuyasumi ni, dokoka ryokou ni ikitai desu ne. Hokkaido toka."
+      },
+      {
+        "japanese": "Ａ： どんなスポーツが好きですか？\nＢ： スキーとか、スケートとか、ウィンタースポーツが大好きです。",
+        "indonesian": "A: Olahraga apa yang Anda sukai?\nB: Saya sangat suka olahraga musim dingin, misalnya ski, ice skating.",
+        "romaji": "A: Donna supootsu ga suki desu ka?\nB: Sukii toka, sukeeto toka, wintaa supootsu ga daisuki desu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 3", "toka", "misalnya", "contoh"]
+  }
+]

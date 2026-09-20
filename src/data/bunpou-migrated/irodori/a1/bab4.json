@@ -1,0 +1,114 @@
+[
+  {
+    "id": "i_a1_bab4_1",
+    "chapter": "Bab 4",
+    "level": "A1",
+    "title": "Partikel Penggabung (〜と / Dan)",
+    "meaning": "Lem Perekat Benda! Partikel murni yang bertugas menjejalkan dan merangkai dua atau lebih benda/orang dalam satu paket genggaman secara berurutan. Artinya murni \"DAN\".",
+    "formula_template": "[Kata Benda 1] + と + [Kata Benda 2]",
+    "ui_notes": "",
+    "examples": [
+      {
+        "jp": "夫と 子どもです。",
+        "id": "Ini (foto) suami DAN anak(ku)."
+      },
+      {
+        "jp": "私の 家族です。父と 母と 姉です。",
+        "id": "Ini (foto) keluarga saya. Ada Ayah, DAN Ibu, DAN (juga) kakak perempuan."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Perangkai Kata",
+      "Partikel Dan (To)"
+    ]
+  },
+  {
+    "id": "i_a1_bab4_2",
+    "chapter": "Bab 4",
+    "level": "A1",
+    "title": "Menanyakan Identitas (Kata Tanya + ですか？)",
+    "meaning": "Pola introgasi standar! Membunyikan alarm pertanyaan dengan menempelkan Kata Tanya (Siapa, Di mana, Berapa, Apa) dengan ekor penutup 'ですか？' (Intonasi memuncak).",
+    "formula_template": "[Kata Tanya: だれ / どこ / 何歳 / いくつ] + ですか？",
+    "ui_notes": "BUKU PINTAR MENANYAKAN UMUR:\n- **何歳 (Nan sai)**: Berapa umurmu? (Formal biasa)\n- **いくつ (Ikutsu)**: Secara harfiah artinya 'Berapa banyak buah?'. Tapi untuk umur artinya sama. Agar terdengar sopan dan beradab kepada atasan, tambahkan Awalan 'O' (お) di depannya menjadi **「おいくつですか？」**.\n- NGOBROL KASUAL: Kalau lagi kongkow bareng sohib, buang saja 'ですか' nya (Contoh: 何歳？ / Umur berapa luh?).",
+    "examples": [
+      {
+        "jp": "何歳ですか？ ……15歳です。",
+        "id": "BERAPA UMUR (mu)? ...... 15 tahun."
+      },
+      {
+        "jp": "おいくつですか？ ……90歳です。",
+        "id": "(Kepada sesepuh:) Sudi kiranya BERAPAKAH USIA Tuan? ...... 90 tahun."
+      },
+      {
+        "jp": "何歳？ ……ひ・み・つ。",
+        "id": "Umur berapa nih? ...... Ra-ha-si-a (Manja)."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Introgasi Identitas",
+      "Kata Tanya Desuka"
+    ]
+  },
+  {
+    "id": "i_a1_bab4_3",
+    "chapter": "Bab 4",
+    "level": "A1",
+    "title": "〜に 住んでいます (Saya Tinggal di...)",
+    "meaning": "Menancapkan Bendera Domisili! Jurus wajib untuk melaporkan di kota atau benua mana napas dan tubuh Anda bernaung alias bermukim (Tempat Tinggal).",
+    "formula_template": "[Nama Kota / Negara / Wilayah] + に + 住んでいます",
+    "ui_notes": "Hafalkan bentuk '住んでいます (Sunde imasu)' ini SEBAGAI SATU KESATUAN FRASA JADI (Bermakna: Sedang/Tengah berdomisili). Jika Anda mau mengintrogasi rumah calon mertua, tinggal keluarkan senjata kata tanya: **「どこに住んでいますか？」** (Tinggal di mana?).",
+    "examples": [
+      {
+        "jp": "家族は、フィリピンに 住んでいます。",
+        "id": "Keluarga (saya) SEDANG BERMUKIM TINGGAL DI negara Filipina."
+      },
+      {
+        "jp": "どこに 住んでいますか？ ……東京に 住んでいます。",
+        "id": "(Anda) TINGGAL DI MANA? ...... (Saya) Tinggal bermukim di ibukota Tokyo."
+      },
+      {
+        "jp": "ご家族は？ ……家族は、ミャンマーに 住んでいます。",
+        "id": "Gimana kalau kabar keluargamu? ...... Keluarga (Saya) TINGGAL DI negara Myanmar."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Deklarasi Domisili",
+      "Tinggal di (Sunde-imasu)"
+    ]
+  },
+  {
+    "id": "i_a1_bab4_4",
+    "chapter": "Bab 4",
+    "level": "A1",
+    "title": "Kepemilikan & Atribut Benda (N1 の N2)",
+    "meaning": "Rantai Penghubung Serba Bisa! Partikel 'の' berfungsi bagai kawat penyambung 2 Kata Benda. Benda yang DUDUK DI DEPAN bertugas menerangkan atau memonopoli benda yang nongkrong DI BELAKANG.",
+    "formula_template": "[Pemilik / Atribut Penjelas] + の + [Benda Utama]",
+    "ui_notes": "DUA JURUS UTAMA PARTIKEL (の):\n1. **Hak Milik / Keterangan**: Benda 1 menguasai Benda 2 (Contoh: 私の子ども / Anak milik SAYA. 日本語の先生 / Guru spesialis BAHASA JEPANG).\n2. **Penyetaraan (Alias / Yaitu)**: Benda 1 sama wujudnya dengan Benda 2 (Contoh: 妹のマリー / Adik saya (YANG BERNAMA) Marie. ペットのジョン / Hewan peliharaan (YANG BERNAMA) John).",
+    "examples": [
+      {
+        "jp": "私の 母です。",
+        "id": "Ini Ibu (MILIK) saya."
+      },
+      {
+        "jp": "ペットの ジョンです。",
+        "id": "Ini hewan peliharaan (YANG BERNAMA) John."
+      },
+      {
+        "jp": "これは、私の 家族の 写真です。",
+        "id": "Ini adalah Foto (TENTANG) Keluarga (MILIK) Saya (Disambung 2x!)."
+      },
+      {
+        "jp": "これ、だれですか？ ……私の 兄の 友だちです。",
+        "id": "Ini penampakan (wajah) siapa? ...... Ini adalah Teman (MILIK) Kakak laki-lakinya (MILIK) saya."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Hak Milik Atribut",
+      "Partikel Penjelas (No)"
+    ]
+  }
+]

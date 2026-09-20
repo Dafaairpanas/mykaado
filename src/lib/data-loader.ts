@@ -60,7 +60,7 @@ export const KOTOBA_SOURCES: DeckSource[] = [
   },
   {
     id: "n3",
-    title: "JLPT N3",
+    title: "Sou N3",
     type: "kotoba",
     chapters: Array.from({ length: 35 }, (_, i) => {
       const num = String(i + 1).padStart(2, '0');
@@ -84,7 +84,8 @@ export const KANJI_SOURCES: DeckSource[] = [
       { id: "kj_n3", label: "JLPT N3", file: () => import(`@/data/kanji/n3.json`) },
       { id: "kj_n2", label: "JLPT N2", file: () => import(`@/data/kanji/n2.json`) },
       { id: "kj_n1", label: "JLPT N1", file: () => import(`@/data/kanji/n1.json`) },
-      { id: "kj_irodori", label: "Irodori Dasar", file: () => import(`@/data/kanji/irodorikanjidasar.json`) }
+      { id: "kj_irodori", label: "Irodori Dasar", file: () => import(`@/data/kanji/irodorikanjidasar.json`) },
+      { id: "kj_jfta2", label: "JFT A2 Kanji", file: () => import(`@/data/renshuu/jfta2kanji.json`) }
     ]
   }
 ];
@@ -144,7 +145,7 @@ export const BUNPOU_SOURCES: DeckSource[] = [
   },
   {
     id: "bunpou_n3",
-    title: "JLPT N3",
+    title: "Sou N3",
     type: "bunpou",
     chapters: Array.from({ length: 35 }, (_, i) => {
       const num = String(i + 1).padStart(2, '0');

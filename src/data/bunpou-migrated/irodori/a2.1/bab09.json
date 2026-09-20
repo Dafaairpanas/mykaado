@@ -6,27 +6,6 @@
     "title": "Nで — Dengan / Menggunakan",
     "meaning": "Pola untuk menyatakan alat, cara, atau media yang digunakan untuk melakukan sesuatu. 'で' menunjukkan sarana atau metode. Sangat berguna saat menceritakan bagaimana cara belajar bahasa Jepang atau melakukan suatu aktivitas. Artinya 'Dengan [N]' atau 'Menggunakan [N]'.",
     "formula_template": "{A} で {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} で {B}' untuk percakapan: Pola untuk menyatakan alat, cara, atau media yang digunakan untuk melakukan sesuatu. 'で' menunjukkan sarana at. Pastikan 'A' mewakili Alat/Media, 'B' mewakili Kata Kerja.",
     "ui_notes": "'で' untuk alat/cara berbeda dengan 'で' untuk lokasi. Contoh: 車で行きます (Pergi dengan mobil - alat), 学校で勉強します (Belajar di sekolah - lokasi). Untuk bahasa: 日本語で話します (Berbicara dalam bahasa Jepang - media). Juga bisa digunakan untuk bahan: 木で作ります (Membuat dari kayu).",
     "examples": [
       {
@@ -52,36 +31,6 @@
     "title": "N1はN2が 〜です — N1 memiliki N2 yang ...",
     "meaning": "Pola untuk mendeskripsikan suatu hal dengan menyebutkan bagian atau aspek tertentu yang menonjol. 'N1は' adalah topik utama, 'N2が' adalah bagian yang dideskripsikan, dan kata sifat di akhir menunjukkan sifatnya. Sangat berguna saat menjelaskan karakteristik bahasa, orang, atau benda. Artinya '[N1] memiliki [N2] yang [sifat]'.",
     "formula_template": "{A} は {B} が {C} です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は {B} が {C} です' untuk percakapan: Pola untuk mendeskripsikan suatu hal dengan menyebutkan bagian atau aspek tertentu yang menonjol. 'N1は' adalah. Pastikan 'A' mewakili Topik, 'B' mewakili Bagian, 'C' mewakili Kata Sifat.",
     "ui_notes": "Pola ini sangat umum untuk mendeskripsikan bagian dari sesuatu. Contoh lain: 彼は髪が長いです (Dia memiliki rambut panjang), この町は人が多いです (Kota ini memiliki banyak orang). Perhatikan bahwa subjek utama (N1) dan bagian yang dideskripsikan (N2) dihubungkan dengan partikel 'は' dan 'が'.",
     "examples": [
       {
@@ -107,37 +56,6 @@
     "title": "NはV-るのが 〜です — Melakukan N itu ...",
     "meaning": "Pola untuk menyatakan pendapat tentang suatu aktivitas. 'Nは' adalah topik, 'V-るのが' mengubah kata kerja menjadi kata benda, dan kata sifat di akhir menunjukkan kesan atau pendapat. Sangat berguna saat memberikan komentar tentang belajar bahasa atau aktivitas lain. Artinya 'Melakukan [N] itu [sifat]'.",
     "formula_template": "{A} は {B} のが {C} です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は {B} のが {C} です' untuk percakapan: Pola untuk menyatakan pendapat tentang suatu aktivitas. 'Nは' adalah topik, 'V-るのが' mengubah kata kerja menjadi. Pastikan 'A' mewakili Topik, 'B' mewakili Kata Kerja, 'C' mewakili Kata Sifat.",
     "ui_notes": "Pola ini membandingkan aspek berbeda dari suatu topik. Contoh: 日本語は話すのは簡単だけど、読むのは難しいです (Bahasa Jepang, berbicara itu mudah tapi membaca itu sulit). 'の' berfungsi sebagai nominalisasi (mengubah kata kerja menjadi kata benda).",
     "examples": [
       {
@@ -163,19 +81,6 @@
     "title": "V-てもらえませんか？ — Bisa Minta Tolong ...?",
     "meaning": "Pola permintaan yang sangat sopan untuk meminta bantuan seseorang melakukan sesuatu. 'V-てもらう' berarti 'menerima tindakan dari orang lain', dan bentuk negatif tanya 'もらえませんか' berarti 'tidak bisakah saya menerima...?' = 'bisakah Anda...?'. Sangat sopan dan umum digunakan di tempat kerja. Artinya 'Bisakah saya minta tolong [melakukan]?'.",
     "formula_template": "{A} もらえませんか？",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} もらえませんか？' untuk percakapan: Pola permintaan yang sangat sopan untuk meminta bantuan seseorang melakukan sesuatu. 'V-てもらう' berarti 'menerim. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
     "ui_notes": "Tingkat kesopanan: V-てください (tolong - standar) → V-ていただけますか？ (lebih sopan) → V-てもらえませんか？ (sangat sopan). Untuk permintaan yang lebih santai: V-てくれる？ (bisa tolong? - kasual). Gunakan bentuk ini saat meminta bantuan kepada atasan atau orang yang lebih tua.",
     "examples": [
       {
@@ -201,19 +106,6 @@
     "title": "V-方 — Cara Melakukan V",
     "meaning": "Pola untuk menyatakan cara atau metode melakukan suatu tindakan. '方' (kata) berarti 'cara', dan digabungkan dengan bentuk 'ます' tanpa 'ます' dari kata kerja. Sangat berguna saat menanyakan cara membaca, menulis, atau melakukan sesuatu. Artinya 'Cara [melakukan V]'.",
     "formula_template": "{A} 方",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} 方' untuk percakapan: Pola untuk menyatakan cara atau metode melakukan suatu tindakan. '方' (kata) berarti 'cara', dan digabungkan de. Pastikan 'A' mewakili Kata Kerja Bentuk Masu tanpa masu.",
     "ui_notes": "Contoh lain: 使い方 (tsukaikata - cara menggunakan), 作り方 (tsukurikata - cara membuat), 言い方 (iikata - cara mengucapkan). Untuk menanyakan cara melakukan sesuatu: どうやって + V-ますか？ (Bagaimana cara V?). '〜方' sering digunakan dengan kata benda menggunakan 'の': 日本語の勉強の仕方 (cara belajar bahasa Jepang).",
     "examples": [
       {

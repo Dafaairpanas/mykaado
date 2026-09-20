@@ -3,223 +3,158 @@
     "id": "m_bab07_1",
     "chapter": "Bab 07",
     "level": "N5",
-    "title": "A（alat/sarana）で B",
-    "meaning": "Partikel で menunjukkan sarana dan cara suatu tindakan dilakukan.",
-    "formula_template": "{A} で {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} で {B}' untuk menyatakan: Partikel で menunjukkan sarana dan cara suatu tindakan dilakukan.. Pastikan 'A' mewakili Kata Benda (alat/sarana), 'B' mewakili Kata Kerja.",
-    "ui_notes": "Partikel で menunjukkan sarana dan cara suatu tindakan dilakukan.",
+    "title": "Alat/Sarana/Bahasa で (Alat Bantu Aksi)",
+    "meaning": "Melanjutkan materi tentang partikel 'で', selain sebagai penunjuk kendaraan, 'で' juga digunakan luas untuk menunjukkan alat, perkakas, media, atau bahkan bahasa yang digunakan (\"dengan / menggunakan\") untuk melakukan suatu pekerjaan.",
+    "formula_template": "[Alat/Media/Bahasa] で [Kata Kerja]",
+    "ui_notes": "Benda yang menjadi alat di sini tidak harus bersifat fisik (seperti sendok, gunting, komputer). Bahasa (seperti bahasa Jepang, bahasa Inggris) juga dianggap sebagai sarana/alat komunikasi dan memakai partikel 'で'.",
     "examples": [
       {
-        "jp": "はしで食べます。",
-        "id": "Makan dengan sumpit."
+        "jp": "はしで 食べます。",
+        "id": "Makan dengan (menggunakan) sumpit."
       },
       {
-        "jp": "日本語でレポートを書きます。",
-        "id": "Menulis laporan dalam bahasa Jepang."
+        "jp": "日本語で レポートを 書きます。",
+        "id": "Menulis laporan dalam (menggunakan) bahasa Jepang."
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Sarana/Cara"
+      "Alat"
     ]
   },
   {
     "id": "m_bab07_2",
     "chapter": "Bab 07",
     "level": "N5",
-    "title": "“Kata/A” は 〜語で 何ですか",
-    "meaning": "Digunakan ketika menanyakan bagaimana cara mengatakan arti kata atau kalimat dalam bahasa lain.",
-    "formula_template": "“Kata/{A}” は Bahasa 語で 何ですか",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '“Kata/{A}” は Bahasa 語で 何ですか' untuk menyatakan: Digunakan ketika menanyakan bagaimana cara mengatakan arti kata atau kalimat dalam bahasa lain.. Pastikan 'A' mewakili Kalimat.",
-    "ui_notes": "Digunakan ketika menanyakan bagaimana cara mengatakan arti kata atau kalimat dalam bahasa lain.",
+    "title": "A は B語で 何ですか (Menanyakan Terjemahan)",
+    "meaning": "Ini adalah struktur kalimat jitu yang bisa Anda pakai jika Anda tidak tahu bagaimana mengucapkan atau menerjemahkan sebuah kata asing ke dalam bahasa target (atau sebaliknya).",
+    "formula_template": "[Kata Asli] は [Bahasa Target] で 何ですか",
+    "ui_notes": "Anda bisa mengisi A dengan kosakata bahasa Indonesia lalu mengisi B dengan 'Nihongo' (Jepang) untuk bertanya kepada guru/teman.",
     "examples": [
       {
-        "jp": "「ありがとう」は英語で何ですか。……「Thank you」です。",
-        "id": "Apa bahasa Inggris dari “Arigatou”? …… “Thank you”."
+        "jp": "「ありがとう」は 英語で 何ですか。",
+        "id": "Apa bahasa Inggris dari 'Arigatou'?"
       },
       {
-        "jp": "「Thank you」は日本語で何ですか。……「ありがとう」です。",
-        "id": "Apa bahasa Jepang dari “Thank you”? …… “Arigatou”."
+        "jp": "……「Thank you」です。",
+        "id": "……'Thank you'."
+      },
+      {
+        "jp": "「Thank you」は 日本語で 何ですか。",
+        "id": "Apa bahasa Jepang dari 'Thank you'?"
+      },
+      {
+        "jp": "……「ありがとう」です。",
+        "id": "……'Arigatou'."
       }
     ],
     "tags": [
       "N5",
-      "Frasa",
-      "Tanya Kata"
+      "Kata Tanya",
+      "Bahasa"
     ]
   },
   {
     "id": "m_bab07_3",
     "chapter": "Bab 07",
     "level": "N5",
-    "title": "A1（B）に C2 を あげます",
-    "meaning": "Menunjukkan arti memberi barang atau informasi. Kata kerja seperti あげます (memberi), かします (meminjamkan), おしえます (mengajar) memerlukan lawan penerima yang ditandai dengan partikel に.",
-    "formula_template": "{A} に {B} を あげます / かします / おしえます",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} に {B} を あげます / かします / おしえます' untuk menyatakan: Menunjukkan arti memberi barang atau informasi. Kata kerja seperti あげます (memberi), かします (meminjamkan), おしえます (. Pastikan 'A' mewakili Kata Benda 1 (orang penerima), 'B' mewakili Kata Benda 2 (objek).",
-    "ui_notes": "Subjek kalimat (yang memberi) biasanya adalah pembicara (わたしは), dan sering dihilangkan.",
+    "title": "Orang に A を あげます (Memberikan Benda)",
+    "meaning": "Partikel 'に' digunakan untuk menunjukkan 'target/penerima' dari suatu tindakan perlakuan. Pola ini dipasangkan dengan kata kerja aksi yang sifatnya memberi keluar dari diri Anda, seperti memberi (あげます), meminjamkan (かします), dan mengajarkan (おしえます).",
+    "formula_template": "[Penerima] に [Benda] を [あげます/かします/おしえます]",
+    "ui_notes": "Si pemberi (biasanya diri sendiri/pembicara) menjadi subjek dan ditandai dengan 'は', sedangkan si penerima (lawan bicara/orang lain) ditandai dengan 'に'. Pola ini TIDAK DIGUNAKAN ketika orang lain memberikan sesuatu KEPADA Anda (akan dipelajari di bab lain).",
     "examples": [
       {
-        "jp": "木村さんに花をあげました。",
-        "id": "Saya memberikan Sdr. Kimura bunga."
+        "jp": "わたしは 木村さんに 花を あげました。",
+        "id": "Saya memberikan bunga kepada (target) Sdr. Kimura."
       },
       {
-        "jp": "イーさんに本を貸しました。",
-        "id": "Saya meminjamkan buku kepada Sdr. Lee."
+        "jp": "李さんに 本を 貸しました。",
+        "id": "Saya meminjamkan buku kepada (target) Sdr. Lee."
+      },
+      {
+        "jp": "山田さんに 英語を 教えます。",
+        "id": "Saya mengajarkan bahasa Inggris kepada (target) Sdr. Yamada."
       }
     ],
     "tags": [
       "N5",
-      "Partikel",
-      "Pemberian"
+      "Pemberian",
+      "Partikel"
     ]
   },
   {
     "id": "m_bab07_4",
     "chapter": "Bab 07",
     "level": "N5",
-    "title": "A1（B）に C2 を もらいます",
-    "meaning": "Menunjukkan arti menerima barang atau informasi. Kata kerja seperti もらいます (menerima), かります (meminjam), ならいます (belajar dari) memerlukan lawan pemberi yang ditandai dengan partikel に atau から.",
-    "formula_template": "{A} に/から {B} を もらいます / かります / ならいます",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} に/から {B} を もらいます / かります / ならいます' untuk menyatakan: Menunjukkan arti menerima barang atau informasi. Kata kerja seperti もらいます (menerima), かります (meminjam), ならいます (. Pastikan 'A' mewakili Kata Benda 1 (orang pemberi), 'B' mewakili Kata Benda 2 (objek).",
-    "ui_notes": "Partikel から dapat digunakan sebagai pengganti に. Jika lawan/sumbernya bukan orang melainkan organisasi (perusahaan, sekolah, bank), maka yang digunakan adalah partikel から, bukan に.",
+    "title": "Orang に/から A を もらいます (Menerima Benda)",
+    "meaning": "Kebalikan dari pola sebelumnya, jika Anda menggunakan kata kerja penerimaan masuk (mendapatkan/もらいます, meminjam/かります, diajarkan/ならいます), maka partikel 'に' berfungsi sebagai sumber: DARI SIAPA benda/ilmu tersebut berasal.",
+    "formula_template": "[Pemberi] に (atau から) [Benda] を [もらいます/かります/ならいます]",
+    "ui_notes": "Dalam pola kalimat (penerimaan) ini, partikel 'に' bersinonim murni dengan partikel 'から' (dari). Anda bebas mengganti 'に' dengan 'から'. SANGAT PENTING: Jika pihak yang memberikan (sumber) bukanlah manusia melainkan sebuah institusi (bank, sekolah, perusahaan), Anda WAJIB menggunakan 'から', bukan 'に'.",
     "examples": [
       {
-        "jp": "山田さんに花をもらいました。",
+        "jp": "わたしは 山田さんに 花を もらいました。",
         "id": "Saya mendapatkan bunga dari Sdr. Yamada."
       },
       {
-        "jp": "カリナさんにCDを借りました。",
+        "jp": "カリナさんに CDを 借りました。",
         "id": "Saya meminjam CD dari Karina."
+      },
+      {
+        "jp": "ワンさんに 中国語を 習います。",
+        "id": "Saya belajar bahasa Tionghoa dari Sdr. Wang."
+      },
+      {
+        "jp": "山田さんから 花を もらいました。",
+        "id": "Saya mendapatkan bunga dari Sdr. Yamada."
+      },
+      {
+        "jp": "銀行から お金を 借りました。",
+        "id": "Saya meminjam uang dari (sumber) bank."
       }
     ],
     "tags": [
       "N5",
-      "Partikel",
-      "Penerimaan"
+      "Penerimaan",
+      "Partikel"
     ]
   },
   {
     "id": "m_bab07_5",
     "chapter": "Bab 07",
     "level": "N5",
-    "title": "もう Aました",
-    "meaning": "Kata adverbia もう berarti 'sudah', digunakan dengan kata kerja bentuk lampau (ました) untuk menunjukkan bahwa suatu perbuatan telah selesai dilakukan saat ini.",
-    "formula_template": "もう {A}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'もう {A}' untuk menyatakan: Kata adverbia もう berarti 'sudah', digunakan dengan kata kerja bentuk lampau (ました) untuk menunjukkan bahwa suat. Pastikan 'A' mewakili Kata Kerja (Bentuk -mashita).",
-    "ui_notes": "Jawaban negatif untuk pertanyaan ini tidak boleh menggunakan kata kerja ませんでした, karena perbuatannya masih bisa/akan dilakukan, bukan mutlak tidak dilakukan di masa lampau.",
+    "title": "もう Kata Kerja ました (Sudah Selesai)",
+    "meaning": "Kata keterangan 'もう' (mou) berarti \"sudah\". Jika digabungkan dengan kata kerja bentuk lampau ('ました'), ini berarti sebuah perbuatan telah 100% selesai diselesaikan hingga ke titik saat ini (sepadan dengan Perfect Tense).",
+    "formula_template": "もう [Kata Kerja] ました",
+    "ui_notes": "SANGAT KRUSIAL: Saat ditanya \"Apakah sudah...\" (もう〜ましたか), jika perbuatannya belum selesai, Anda DILARANG KERAS menjawab 'いいえ、〜ませんでした' karena itu berarti Anda menolak dan tidak melakukannya di masa lalu. Jawaban yang benar adalah 'いいえ、まだです' (Belum) atau bentuk kata kerja continuous 'まだ〜ていません' (Belum [lagi tidak] melakukan).",
     "examples": [
       {
-        "jp": "もう荷物を送りましたか。……はい、[もう]送りました。",
-        "id": "Apakah barang sudah dikirim? …… Ya, sudah dikirim."
+        "jp": "もう 荷物を 送りましたか。",
+        "id": "Apakah barang sudah (selesai) dikirim?"
       },
       {
-        "jp": "もう荷物を送りましたか。……いいえ、まだ送っていません。/ いいえ、まだです。",
-        "id": "Apakah barang sudah dikirim? …… Belum, belum dikirim. / Belum."
+        "jp": "……はい、もう 送りました。",
+        "id": "……Ya, sudah dikirim."
+      },
+      {
+        "jp": "……いいえ、まだです。",
+        "id": "……Belum (masih ditunda)."
       }
     ],
     "tags": [
       "N5",
-      "Adverbia",
-      "Aspek Selesai"
+      "Waktu",
+      "Penyelesaian"
     ]
   },
   {
     "id": "m_bab07_6",
     "chapter": "Bab 07",
     "level": "N5",
-    "title": "助詞の省略",
-    "meaning": "Menghilangkan partikel. Dalam kalimat percakapan, jika konteks dan arti dari hubungan kalimat sebelum dan sesudahnya sudah jelas, partikel sering kali dihilangkan.",
-    "formula_template": "Penghilangan partikel topik (は) atau partikel objek (を)",
-    "variables": {},
-    "ai_instruction": "Gunakan pola 'Penghilangan partikel topik (は) atau partikel objek (を)' untuk menyatakan: Menghilangkan partikel. Dalam kalimat percakapan, jika konteks dan arti dari hubungan kalimat sebelum dan sesu.",
-    "ui_notes": "Menghilangkan partikel. Dalam kalimat percakapan, jika konteks dan arti dari hubungan kalimat sebelum dan sesudahnya sudah jelas, partikel sering kali dihilangkan.",
+    "title": "Pengecualian Penghilangan Partikel",
+    "meaning": "Dalam percakapan lisan bahasa Jepang santai sehari-hari, partikel (seperti 'は' dan 'を') sangat sering dihilangkan sama sekali. Hal ini diperbolehkan asalkan hubungan antara objek dan kata kerja tidak menimbulkan ambiguitas atau kesalahpahaman.",
+    "formula_template": "[Kata Benda] (tanpa partikel) [Predikat]",
+    "ui_notes": "Aturan ini hanya berlaku mutlak pada ujaran lisan informal dan kasual. Dalam penulisan surat formal atau ujian kompetensi tertulis (JLPT), partikel tetap wajib ada.",
     "examples": [
       {
         "jp": "このスプーン[は]、すてきですね。",
@@ -232,8 +167,8 @@
     ],
     "tags": [
       "N5",
-      "Tata Bahasa Percakapan",
-      "Pelesapan"
+      "Percakapan",
+      "Lisan"
     ]
   }
 ]

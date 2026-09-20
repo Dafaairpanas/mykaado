@@ -3,126 +3,60 @@
     "id": "m_bab45_1",
     "chapter": "Bab 45",
     "level": "N4",
-    "title": "～場合は、～",
-    "meaning": "～場合は adalah ungkapan yang mengandaikan suatu kondisi. Kalimat yang disusul di belakangnya menyatakan cara mengatasinya, atau isi dari akibat yang terjadi. Cara menyambungnya sama dengan cara menyambung untuk menerangkan Kata Benda.",
-    "formula_template": "{A} / {B} / {C} [な] / {D}の 場合は、~",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} / {B} / {C} [な] / {D}の 場合は、~' untuk menyatakan: ～場合は adalah ungkapan yang mengandaikan suatu kondisi. Kalimat yang disusul di belakangnya menyatakan cara meng. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus / Bentuk ない / Bentuk た), 'B' mewakili Kata Sifat い (~い), 'C' mewakili Kata Sifat な, 'D' mewakili Kata Benda.",
-    "ui_notes": "Kata 場合は (baai wa) berfungsi sebagai Kata Benda, sehingga aturan penyambungannya sama seperti saat memodifikasi kata benda pada umumnya.",
+    "title": "〜場合は (Dalam Kasus... / Jika Terjadi Sesuatu)",
+    "meaning": "Pola ini digunakan untuk mensimulasikan atau mengandaikan sebuah skenario/kasus darurat tertentu. Biasanya, kalimat lanjutannya akan berisi solusi, instruksi, atau cara untuk mengatasi kasus tersebut.",
+    "formula_template": "[K.Kerja Kamus / K.Kerja た / K.Kerja ない / Sifat い・な / K.Benda の] + 場合は、",
+    "ui_notes": "Aturan Penyambungan:\nKata '場合' (Baai) secara harfiah berarti 'kasus/keadaan', dan tata bahasanya berfungsi murni sebagai kata benda. Oleh sebab itu, saat disandingkan dengan Kata Sifat-な harus tetap memakai 'な', dan saat digabung dengan Kata Benda lain harus disekat menggunakan 'の'.",
     "examples": [
       {
-        "jp": "会議に間に合わない場合は、連絡してください。",
-        "id": "Jika tidak tepat waktu pada rapat, tolong hubungi!"
+        "jp": "会議に 間に合わない 場合は、連絡して ください。",
+        "id": "Dalam kasus (jika) Anda tidak akan keburu (tepat waktu) masuk rapat, tolong hubungi kami."
       },
       {
-        "jp": "時間に遅れた場合は、会場に入れません。",
-        "id": "Jika terlambat pada waktunya, tidak bisa masuk ke dalam tempat."
+        "jp": "時間に 遅れた 場合は、会場に 入れません。",
+        "id": "Dalam kasus (jika) Anda sudah terlambat datang, Anda tidak akan bisa masuk ke dalam arena."
+      },
+      {
+        "jp": "領収書が 必要な 場合は、言って ください。",
+        "id": "Jika dalam keadaannya Anda membutuhkan kuitansi (Sifat な + 場合は), tolong beritahu kami."
+      },
+      {
+        "jp": "火事や 地震の 場合は、エレベーターを 使わないで ください。",
+        "id": "Dalam kasus terjadinya bencana kebakaran atau gempa bumi (Benda + の + 場合は), janganlah menggunakan lift."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Pengandaian/Kondisi"
+      "Skenario Darurat",
+      "Dalam Kasus Jika (Baai)"
     ]
   },
   {
     "id": "m_bab45_2",
     "chapter": "Bab 45",
     "level": "N4",
-    "title": "～のに、～",
-    "meaning": "Digunakan jika hal yang berbeda dengan dugaan sesungguhnya dari hal di bagian depan kalimat diletakkan di bagian hal belakang kalimat. Kebanyakan kasus menjelaskan perasaan di luar dugaan atau ketidakpuasan (Padahal...).",
-    "formula_template": "{A}/ {B} / {C} / {D} のに、~",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}/ {B} / {C} / {D} のに、~' untuk menyatakan: Digunakan jika hal yang berbeda dengan dugaan sesungguhnya dari hal di bagian depan kalimat diletakkan di bagi. Pastikan 'A' mewakili Kata Kerja, 'B' mewakili Kata Sifat い (Bentuk Biasa), 'C' mewakili Kata Sifat な (Bentuk Biasa ~だ -> ~な), 'D' mewakili Kata Benda (Bentuk Biasa ~だ -> ~な).",
-    "ui_notes": "[Perhatian 1] Perbedaan ～のに dan ～が: Jika のに diganti dengan が, maka tidak dapat menyatakan perasaan di luar dugaan atau ketidakpuasan (Contoh: 約束をしましたが、彼女は来ませんでした = Dia tidak datang walaupun sudah berjanji). [Perhatian 2] Perbedaan ～のに dan ～ても: ～のに adalah kata yang menyatakan perasaan pembicara mengenai hal yang telah terjadi, dan tidak dapat menyatakan paradoks secara prakiraan (masa depan) seperti ～ても (Contoh: あした雨が降っても、サッカーをします = Benar; あした雨が降るのに、サッカーをします = Salah).",
+    "title": "〜のに (Padahal... / Kekecewaan Terhadap Fakta)",
+    "meaning": "Pola kalimat ini digunakan untuk mengekspresikan kekecewaan, ketidakpuasan, atau penyesalan karena kenyataan yang terjadi bertolak belakang (berbeda) dengan ekspektasi atau hal yang semestinya wajar terjadi.",
+    "formula_template": "[Klausa Fakta Logika (Bentuk Biasa)] + のに、[Kenyataan Bertolak Belakang]",
+    "ui_notes": "Aturan Penyambungan:\nJika klausa di depan berakhiran Kata Sifat-な atau Kata Benda, maka akhiran 'だ' wajib diganti menjadi 'な' (Contoh: 日曜日な のに / Padahal ini hari Minggu).\n\nBatasan Penggunaan:\nPola 'のに' murni digunakan untuk mengomentari atau meratapi kejadian yang memang sudah atau sedang terjadi. Anda dilarang menggunakan 'のに' untuk memprediksi atau membicarakan skenario dugaan di masa depan. Untuk pengandaian semacam itu, gunakanlah pola '〜ても' (Walaupun...).",
     "examples": [
       {
-        "jp": "約束をしたのに、彼女は来ませんでした。",
-        "id": "Dia tidak datang padahal sudah berjanji."
+        "jp": "約束を した のに、彼女は 来ませんでした。",
+        "id": "Padahal kami sudah berjanji, (tapi nyatanya) perempuan itu tidak datang."
       },
       {
-        "jp": "きょうは日曜日なのに、働かなければなりません。",
-        "id": "Hari ini (saya) harus bekerja padahal hari Minggu."
+        "jp": "きょうは 日曜日 な のに、働かなければ なりません。",
+        "id": "Padahal ini hari Minggu libur, (tapi naasnya) saya diharuskan bekerja lembur."
+      },
+      {
+        "jp": "一生懸命 練習した のに、1等に なれませんでした。",
+        "id": "Padahal saya sudah sungguh-sungguh berlatih keras, (namun tak disangka) saya tidak berhasil meraih juara satu."
       }
     ],
     "tags": [
       "N4",
-      "Konjungsi",
-      "Pertentangan/Kekecewaan"
+      "Padahal (Noni)",
+      "Kekecewaan"
     ]
   }
 ]

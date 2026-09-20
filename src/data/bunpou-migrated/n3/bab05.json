@@ -4,30 +4,9 @@
     "chapter": "Bab 05",
     "level": "N3",
     "title": "〜ように",
-    "meaning": "sering digunakan dalam kalimat pembuka",
+    "meaning": "Pola ini digunakan untuk menyatakan 'seperti...', 'sebagaimana...', yaitu menyampaikan sesuatu dengan mengacu pada sumber, keterangan, atau fakta yang sudah diketahui bersama. Sering digunakan dalam kalimat pembuka pidato, pengumuman, atau teks formal. Fungsinya seperti mengutip atau merujuk: 'seperti yang Anda ketahui...', 'seperti yang tertulis...', 'seperti yang terlihat...'. Berbeda dengan 〜ように (tujuan) yang berarti 'supaya', pola ini berarti 'seperti/sebagaimana'.",
     "formula_template": "[{A}(biasa) / {B}の] ように",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B}の] ように' untuk mengekspresikan: sering digunakan dalam kalimat pembuka.",
-    "ui_notes": "sering digunakan dalam kalimat pembuka",
+    "ui_notes": "Cara membentuk: (1) Kata kerja/kata sifat bentuk biasa + ように. Contoh: 書いてある (kaite aru) → 書いてあるように (seperti yang tertulis). ご存じだ (gozonji da) → ご存じのように (seperti yang Anda ketahui). (2) Kata benda + の + ように. Contoh: 説明 (setsumei) → 説明のように (seperti penjelasan). Pola ini biasanya diikuti kalimat utama yang menyatakan isi atau kenyataan. Contoh: ここに書いてあるように、授業は午前中だけです (seperti yang tertulis di sini, kelas hanya pagi). Sering dipakai di awal kalimat formal: 皆様ご存じのように... (seperti yang semua ketahui...).",
     "examples": [
       {
         "jp": "皆様ご存じのように、試験の内容が変わわります。",
@@ -48,32 +27,9 @@
     "chapter": "Bab 05",
     "level": "N3",
     "title": "〜ように",
-    "meaning": "mengungkapkan sebuah perintah yang ringan",
+    "meaning": "Pola ini digunakan untuk mengungkapkan sebuah perintah yang ringan, halus, atau tidak terlalu memaksa. Artinya 'mohon agar...', 'tolong...', 'harap...'. Berbeda dengan 〜なさい yang lebih tegas atau 〜てください yang lebih langsung, 〜ように terdengar lebih lembut dan sering dipakai oleh atasan, guru, atau dalam pengumuman resmi. Biasanya diakhiri dengan intonasi datar atau menurun, dan tidak perlu menambahkan ください.",
     "formula_template": "[{A}る / {B}ない] ように",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}る / {B}ない] ように' untuk mengekspresikan: mengungkapkan sebuah perintah yang ringan.",
-    "ui_notes": "mengungkapkan sebuah perintah yang ringan",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus + ように. Contoh: 来る (kuru) → 来るように (mohon datang). (2) Kata kerja bentuk negatif + ように. Contoh: 吸う (suu) → 吸わない (suwanai) → 吸わないように (mohon jangan merokok). Pola ini biasanya diakhiri dengan titik atau intonasi menurun, dan sering dipakai dalam pengumuman, instruksi tertulis, atau nasihat halus. Contoh: 明日はもっと早く来るように (mohon besok datang lebih cepat). Nuansanya seperti instruksi yang tidak menekan, tetapi tetap jelas.",
     "examples": [
       {
         "jp": "明日はもっと早く来るように。",
@@ -94,42 +50,9 @@
     "chapter": "Bab 05",
     "level": "N3",
     "title": "〜ように",
-    "meaning": "mengungkapkan sebuah doa & harapan",
+    "meaning": "Pola ini digunakan untuk mengungkapkan sebuah doa atau harapan. Artinya 'mudah-mudahan...', 'semoga...', 'kiranya...'. Biasanya dipakai ketika pembicara berharap sesuatu yang di luar kendalinya dapat terwujud, seperti kelulusan, kesembuhan, kesuksesan, atau cuaca baik. Sering diakhiri dengan ように。 saja tanpa ください, atau dengan ように祈っています (saya berdoa semoga...). Pola ini sangat umum dalam ucapan selamat, doa, dan harapan.",
     "formula_template": "[{A}ます / {B}ません / {C}れます] ように",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "C": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}ます / {B}ません / {C}れます] ように' untuk mengekspresikan: mengungkapkan sebuah doa & harapan.",
-    "ui_notes": "mengungkapkan sebuah doa & harapan",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk ます + ように. Contoh: 合格します (goukaku shimasu) → 合格しますように (semoga lulus). (2) Kata kerja bentuk ません + ように. Contoh: 遅れません (okuremasen) → 遅れませんように (semoga tidak terlambat). (3) Kata kerja bentuk potensial ます + ように. Contoh: 治ります (naorimasu) → 治りますように (semoga sembuh). Pola ini biasanya diakhiri dengan ように。 atau ように祈っています. Contoh: 合格しますように (mudah-mudahan saya lulus). 母の病気が治りますように (mudah-mudahan penyakit ibu sembuh). Sering dipakai dalam doa, harapan, dan ucapan selamat.",
     "examples": [
       {
         "jp": "合格しますように。",

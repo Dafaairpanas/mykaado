@@ -1,124 +1,132 @@
 [
   {
-    "id": "i_bab13_1",
-    "chapter": "Bab 13",
+    "id": "irodori_a2.1_bab13_1",
+    "chapter": 13,
     "level": "A2.1",
-    "title": "〜んですが… (~n desu ga…) — Maaf, ...",
-    "meaning": "Pola kalimat untuk mengawali laporan atau pertanyaan tentang masalah yang sedang terjadi, terutama di tempat kerja. 'んですが' adalah bentuk penjelasan + penghubung yang sopan untuk mengantarkan laporan atau permintaan bantuan. Digunakan untuk melaporkan kesulitan atau masalah kepada atasan/rekan kerja. Artinya '(Maaf), [keadaan/masalah] (sebenarnya)...'",
-    "formula_template": "{A} んですが",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} んですが' untuk percakapan: Pola kalimat untuk mengawali laporan atau pertanyaan tentang masalah yang sedang terjadi, terutama di tempat k. Pastikan 'A' mewakili Keadaan/Masalah.",
-    "ui_notes": "'んですが' (atau 'のですが') membuat laporan lebih halus dan sopan. Biasanya diikuti dengan permintaan bantuan atau saran. Untuk melaporkan ke atasan, gunakan '〜んですが、どうしたらいいですか？' (..., apa yang harus saya lakukan?). 'んですが' juga bisa digunakan saat memulai percakapan untuk meminta bantuan.",
+    "title": "～んですが…",
+    "meaning": "[Kalimat Kondisi / Masalah] ..., jadi (mohon bantuannya)...",
+    "formula_template": "Bentuk Kamus / Bentuk-ta / Bentuk-nai + んですが…",
+    "ui_notes": "Berbeda dengan Bab 8 dan 10 yang menggunakan **たいんですが...** (keinginan), di sini **～んですが…** digunakan untuk melaporkan suatu *kondisi atau permasalahan*, dengan harapan lawan bicara akan menanggapi atau memberikan instruksi penanganannya.\n\n### 🔧 Cara Menyambung (Contoh):\n* **Bentuk Kamus**: 変な音がするんですが… (Berbunyi aneh...)\n* **Bentuk-ta**: トイレットペーパーがなくなったんですが… (Tisu toiletnya habis...)\n* **Bentuk-nai**: 電気がつかないんですが… (Lampunya tidak menyala...)\n\n*(Catatan: Cara membuat Bentuk-nai dibahas lebih lanjut di materi lain, namun intinya adalah konjugasi kata kerja yang berakhiran 'nai' untuk menyatakan negatif).* ",
     "examples": [
       {
-        "jp": "会議室の電気がつかないんですが…。",
-        "id": "Lampu ruang rapat tidak menyala (sebenarnya)..."
+        "japanese": "会議室の電気がつかないんですが…。",
+        "indonesian": "Lampu di ruang rapat tidak menyala...",
+        "romaji": "Kaigishitsu no denki ga tsukanain desu ga..."
       },
       {
-        "jp": "パソコンが動かないんですが…。",
-        "id": "Komputer tidak berfungsi (sebenarnya)..."
+        "japanese": "Ａ： あのう、エアコンがつかないんですが…。\nＢ： じゃあ、業者に電話してください。",
+        "indonesian": "A: Maaf, AC-nya tidak menyala...\nB: Kalau begitu, telepon agennya.",
+        "romaji": "A: Anou, eakon ga tsukanain desu ga...\nB: Jaa, gyousha ni denwa shite kudasai."
+      },
+      {
+        "japanese": "Ａ： コピーの紙、なくなったんですが…。\nＢ： じゃあ、倉庫に取りに行ってくれる？",
+        "indonesian": "A: Kertas fotokopinya habis...\nB: Kalau begitu, bisa tolong ambilkan di gudang?",
+        "romaji": "A: Kopii no kami, nakunattan desu ga...\nB: Jaa, souko ni tori ni itte kureru?"
+      },
+      {
+        "japanese": "コンピュータが動かないんですが…。",
+        "indonesian": "Komputernya tidak berfungsi...",
+        "romaji": "Konpyuuta ga ugokanain desu ga..."
       }
     ],
-    "tags": [
-      "A2",
-      "Tempat Kerja",
-      "Laporan",
-      "Masalah"
-    ]
+    "tags": ["irodori", "A2.1", "bab 13", "ndesuga", "masalah", "laporan"]
   },
   {
-    "id": "i_bab13_2",
-    "chapter": "Bab 13",
+    "id": "irodori_a2.1_bab13_2",
+    "chapter": 13,
     "level": "A2.1",
-    "title": "V-そうです — Kelihatannya Akan ...",
-    "meaning": "Pola kalimat untuk menyatakan prediksi atau dugaan berdasarkan apa yang terlihat atau dirasakan, terutama untuk sesuatu yang akan terjadi. Berbeda dengan kata sifat 'そうです' (kelihatannya), untuk kata kerja gunakan bentuk 'ます' tanpa 'ます' + 'そうです'. Artinya 'Kelihatannya akan [melakukan V]' atau 'Sepertinya akan [V]'.",
-    "formula_template": "{A} そうです",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} そうです' untuk percakapan: Pola kalimat untuk menyatakan prediksi atau dugaan berdasarkan apa yang terlihat atau dirasakan, terutama untu. Pastikan 'A' mewakili Kata Kerja Bentuk Masu tanpa masu.",
-    "ui_notes": "Perbedaan: Kata sifat 'そう' (kelihatannya [sifat]) vs Kata kerja 'そう' (kelihatannya akan [V]). Untuk kata sifat: おいしそう (kelihatan enak). Untuk kata kerja: 降りそう (kelihatan akan turun hujan), 遅れそう (kelihatan akan terlambat). Bentuk negatif: なさそう (sepertinya tidak akan V).",
+    "title": "V-そうです",
+    "meaning": "Kelihatannya akan [V] (Perkiraan)",
+    "formula_template": "V-ます (Coret 'masu') + そうです",
+    "ui_notes": "Di Bab 12 kita belajar **そうです** untuk tebakan penampilan menggunakan *Kata Sifat*. Di sini, kita menggunakan **そうです** dengan *Kata Kerja* untuk menyatakan **perkiraan/prediksi kelanjutan suatu aksi** (misalnya perkiraan waktu selesai).\n\n* **Cara pakai**: Coret akhiran **ます** dari bentuk sopan, lalu tambahkan **そうです**. (Contoh: 終わります → 終わりそうです = Kelihatannya akan selesai).\n* Jika ingin menyebutkan perkiraan waktu, gunakan partikel **で** untuk menunjukkan rentang waktunya (Contoh: 10分ぐらいで = Sekitar 10 menit lagi).",
     "examples": [
       {
-        "jp": "どのぐらいかかりそうですか？",
-        "id": "Kelihatannya akan butuh waktu berapa lama?"
+        "japanese": "どのぐらいかかりそうですか？",
+        "indonesian": "Kelihatannya perlu waktu berapa lama?",
+        "romaji": "Dono gurai kakarisou desu ka?"
       },
       {
-        "jp": "もうすぐ終わりそうです。",
-        "id": "Kelihatannya akan segera selesai."
+        "japanese": "あと10分ぐらいで終わりそうです。",
+        "indonesian": "Kelihatannya akan selesai sekitar 10 menit lagi.",
+        "romaji": "Ato juppun gurai de owarisou desu."
+      },
+      {
+        "japanese": "Ａ： 1人で、できそうですか？\nＢ： はい、だいじょうぶです。",
+        "indonesian": "A: Apakah kelihatannya Anda bisa mengerjakannya sendiri?\nB: Ya, tidak apa-apa (saya bisa).",
+        "romaji": "A: Hitori de, dekisou desu ka?\nB: Hai, daijoubu desu."
       }
     ],
-    "tags": [
-      "A2",
-      "Prediksi",
-      "Estimasi",
-      "Tempat Kerja"
-    ]
+    "tags": ["irodori", "A2.1", "bab 13", "soudesu", "perkiraan", "kata kerja"]
   },
   {
-    "id": "i_bab13_3",
-    "chapter": "Bab 13",
+    "id": "irodori_a2.1_bab13_3",
+    "chapter": 13,
     "level": "A2.1",
-    "title": "V-ると、〜 (V-ru to, ~) — Kalau V, Maka ...",
-    "meaning": "Pola kalimat untuk menyatakan hubungan sebab-akibat yang pasti atau konsekuensi alami. 'と' berarti 'kalau' atau 'ketika', dan menunjukkan bahwa jika A terjadi, maka B akan terjadi secara otomatis. Sangat berguna saat menjelaskan cara kerja mesin atau instruksi. Artinya 'Kalau [V], maka [akibat]'.",
-    "formula_template": "{A} と、{B}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} と、{B}' untuk percakapan: Pola kalimat untuk menyatakan hubungan sebab-akibat yang pasti atau konsekuensi alami. 'と' berarti 'kalau' ata. Pastikan 'A' mewakili Kata Kerja Bentuk Kamus, 'B' mewakili Akibat.",
-    "ui_notes": "'と' menyatakan hubungan yang pasti (bukan kemungkinan). Berbeda dengan 'たら' yang menyatakan kondisi hipotetis. Contoh: 春になると、花が咲く (Kalau musim semi tiba, bunga mekar - fakta umum). 'と' tidak bisa digunakan untuk menyatakan keinginan, ajakan, atau permintaan. Untuk instruksi manual, 'と' sangat umum digunakan.",
+    "title": "V-たいとき、～",
+    "meaning": "Saat ingin [V], (bagaimana?)...",
+    "formula_template": "V-たい + とき, ～",
+    "ui_notes": "Ungkapan ini digunakan saat kita ingin melakukan sesuatu, tetapi bingung caranya dan ingin **meminta saran** kepada lawan bicara.\n\n* Biasanya diikuti oleh frasa **どうすればいいですか？** (Apa yang sebaiknya saya lakukan?).",
     "examples": [
       {
-        "jp": "このスタートボタンを押すと、コピーが始まります。",
-        "id": "Kalau tekan tombol start ini, mesin fotokopi akan mulai."
+        "japanese": "両面コピーしたいときは、どうすればいいですか？",
+        "indonesian": "Apa yang harus dilakukan saat ingin memfotokopi bolak-balik (dua sisi kertas)?",
+        "romaji": "Ryoumen kopii shitai toki wa, dou sureba ii desu ka?"
       },
       {
-        "jp": "このボタンを押すと、電気がつきます。",
-        "id": "Kalau tekan tombol ini, lampu akan menyala."
+        "japanese": "Ａ： 拡大コピーしたいときは、どうすればいいですか？\nＢ： このボタンを押してください。",
+        "indonesian": "A: Apa yang harus dilakukan saat ingin memfotokopi dengan hasil salinan yang diperbesar?\nB: Silakan tekan tombol ini.",
+        "romaji": "A: Kakudai kopii shitai toki wa, dou sureba ii desu ka?\nB: Kono botan o oshite kudasai."
       }
     ],
-    "tags": [
-      "A2",
-      "Kondisi",
-      "Instruksi",
-      "Tempat Kerja"
-    ]
+    "tags": ["irodori", "A2.1", "bab 13", "tai toki", "saran", "bagaimana"]
+  },
+  {
+    "id": "irodori_a2.1_bab13_4",
+    "chapter": 13,
+    "level": "A2.1",
+    "title": "V-ると、～",
+    "meaning": "Kalau / Jika [V], (maka) ...",
+    "formula_template": "V-る (Bentuk Kamus) + と, ～",
+    "ui_notes": "Pola ini digunakan untuk menyatakan suatu hal yang pasti terjadi sebagai **akibat/hasil alami** dari suatu tindakan. Pola ini sangat umum dipakai ketika *menjelaskan cara kerja sebuah mesin atau alat*.\n\n* Disambungkan dengan kata kerja bentuk kamus (Contoh: 押す + と = 押すと / Kalau ditekan, maka...)",
+    "examples": [
+      {
+        "japanese": "このスタートボタンを押すと、コピーが始まります。",
+        "indonesian": "Kalau Anda menekan tombol 'mulai' ini, maka mesin akan mulai membuat salinan (kopian).",
+        "romaji": "Kono sutaato botan o osu to, kopii ga hajimarimasu."
+      },
+      {
+        "japanese": "このボタンを押すと、カラーコピーができます。",
+        "indonesian": "Kalau Anda menekan tombol ini, maka dapat membuat kopian berwarna.",
+        "romaji": "Kono botan o osu to, karaa kopii ga dekimasu."
+      },
+      {
+        "japanese": "このトイレは、ここに手をかざすと、水が流れます。",
+        "indonesian": "Kalau Anda melambaikan tangan pada bagian ini, maka air toiletnya akan mengalir.",
+        "romaji": "Kono toire wa, koko ni te o kazasu to, mizu ga nagaremasu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 13", "to", "syarat", "akibat", "mesin"]
+  },
+  {
+    "id": "irodori_a2.1_bab13_5",
+    "chapter": 13,
+    "level": "A2.1",
+    "title": "はい、【Kalimat Negatif】 / いいえ、【Kalimat Positif】",
+    "meaning": "Ya (untuk setuju pada negatif) / Tidak (untuk membantah negatif)",
+    "formula_template": "",
+    "ui_notes": "Dalam bahasa Jepang, **はい (Ya)** dan **いいえ (Tidak)** tidak selalu berarti Positif/Negatif secara langsung, melainkan bermakna **Setuju/Tidak Setuju** terhadap pertanyaan lawan bicara.\n\n* Jika seseorang bertanya dengan kalimat *negatif* (Contoh: \"Belum pernah pakai?\"):\n  * Jika faktanya memang belum: Kamu menjawab **はい** (Ya, benar yang Anda tanyakan) lalu diikuti kalimat negatif (Belum pernah).\n  * Jika faktanya sudah pernah: Kamu menjawab **いいえ** (Tidak, pernyataan Anda salah) lalu diikuti kalimat positif (Sudah pernah).",
+    "examples": [
+      {
+        "japanese": "Ａ： コピー機、使ったことないですか？\nＢ： はい、ないです。",
+        "indonesian": "A: Apakah Anda belum pernah menggunakan mesin fotokopi sebelumnya?\nB: Ya, belum pernah.",
+        "romaji": "A: Kopii ki, tsukatta koto nai desu ka?\nB: Hai, nai desu."
+      },
+      {
+        "japanese": "Ａ： この機械、前に使ったことないですか？\nＢ： はい、一度もありません。\nＣ： いいえ。私は、前に一度使ったことがあります。",
+        "indonesian": "A: Apakah Anda belum pernah menggunakan mesin ini sebelumnya?\nB: Ya, belum pernah sekalipun.\nC: Tidak, sebelumnya saya pernah menggunakannya sekali.",
+        "romaji": "A: Kono kikai, mae ni tsukatta koto nai desu ka?\nB: Hai, ichido mo arimasen.\nC: Iie. Watashi wa, mae ni ichido tsukatta koto ga arimasu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 13", "jawaban", "hai", "iie", "negatif"]
   }
 ]

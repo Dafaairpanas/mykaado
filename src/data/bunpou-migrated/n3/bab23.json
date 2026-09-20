@@ -1,57 +1,20 @@
 [
   {
-    "id": "n3_bab23_1",
-    "chapter": "Bab 23",
+    "id": "n3_bab22_1",
+    "chapter": "Bab 22",
     "level": "N3",
-    "title": "〜っけ？",
-    "meaning": "Mengkonfirmasi sesuatu ketika lupa akan suatu hal / bicara kepada diri sendiri. ※ `〜でしたっけ／〜ましたっけ` juga bisa.",
-    "formula_template": "{A}たっけ / {B} 〜かったっけ / {C} だっけ・だったっけ / {D}だっけ・だったっけ.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}たっけ / {B} 〜かったっけ / {C} だっけ・だったっけ / {D}だっけ・だったっけ.' untuk mengekspresikan: Mengkonfirmasi sesuatu ketika lupa akan suatu hal / bicara kepada diri sendiri. ※ `〜でしたっけ／〜ましたっけ` juga bisa..",
-    "ui_notes": "Mengkonfirmasi sesuatu ketika lupa akan suatu hal / bicara kepada diri sendiri. ※ `〜でしたっけ／〜ましたっけ` juga bisa.",
+    "title": "〜ことはない",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa sesuatu tidak perlu dilakukan, atau tidak ada alasan untuk dilakukan. Artinya 'tidak perlu...', 'tidak ada gunanya...'. Sering dipakai untuk menenangkan, menyarankan, atau menghibur orang lain, seperti 'kamu tidak perlu minta maaf', 'tidak perlu datang'. Nuansanya lebih lembut dan tidak memaksa dibandingkan 〜なくてもいい.",
+    "formula_template": "{A}る ことはない.",
+    "ui_notes": "Cara membentuk: Kata kerja bentuk kamus + ことはない. Contoh: あやまる (ayamaru) → あやまることはない (tidak perlu minta maaf). 来る (kuru) → 来ることはない (tidak perlu datang). Contoh pemakaian: 君があやまることはないよ (kamu tidak perlu meminta maaf). 来ることはありません。郵送でいいですよ (tidak perlu datang. Cukup lewat pos saja). Perbedaan dengan 〜なくてもいい: 〜ことはない = tidak perlu (lebih halus, sering untuk menenangkan), 〜なくてもいい = boleh tidak (netral). Perbedaan dengan 〜べきではない: 〜ことはない = tidak perlu (bukan larangan), 〜べきではない = seharusnya tidak (larangan/norma).",
     "examples": [
       {
-        "jp": "国へ帰るのは、来週だっけ？",
-        "id": "Pulang ke negara asal minggu depan, kan ya?"
+        "jp": "君があやまることはないよ。",
+        "id": "Kamu tidak perlu meminta maaf."
       },
       {
-        "jp": "明日のパーティーのこと、話したっけ？",
-        "id": "Soal pesta besok, sudah kubicarakan belum ya?"
+        "jp": "来ることはありません。郵送でいいですよ。",
+        "id": "Tidak perlu datang. Cukup lewat pos saja."
       }
     ],
     "tags": [
@@ -60,34 +23,67 @@
     ]
   },
   {
-    "id": "n3_bab23_2",
-    "chapter": "Bab 23",
+    "id": "n3_bab22_2",
+    "chapter": "Bab 22",
     "level": "N3",
-    "title": "〜しかない",
-    "meaning": "Mengungkapkan perasaan pasrah (tidak ada cara/jalan/pilihan lain).",
-    "formula_template": "{A}る しかない.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}る しかない.' untuk mengekspresikan: Mengungkapkan perasaan pasrah (tidak ada cara/jalan/pilihan lain)..",
-    "ui_notes": "Mengungkapkan perasaan pasrah (tidak ada cara/jalan/pilihan lain).",
+    "title": "〜ということだ",
+    "meaning": "Pola ini digunakan untuk dua hal: (1) menyampaikan pesan atau informasi dari sumber lain secara formal, artinya 'katanya...', 'menurut informasi...'; (2) mendefinisikan atau menyimpulkan arti suatu hal, artinya 'artinya...', 'berarti...'. Kata kerja bentuk perintah, maksud, dan sebagainya juga bisa digunakan dalam pola ini. Sering dipakai dalam situasi resmi, laporan, atau penjelasan.",
+    "formula_template": "{A}(biasa) / {B}(biasa) / {C} だ / {D}だ / {V4} ということだ.",
+    "ui_notes": "Cara membentuk: (1) Kata kerja/kata sifat bentuk biasa + ということだ. Contoh: 遅れる (okureru) → 遅れるということです (katanya akan terlambat). 合格だ (goukaku da) → 合格ということだ (artinya lulus). (2) Kata sifat-na + だ + ということだ. Contoh: 元気だ (genki da) → 元気だということだ (artinya sehat). (3) Kata benda + だ + ということだ. Contoh: 学生だ (gakusei da) → 学生だということだ (artinya dia pelajar). Contoh pemakaian: 田中さんから電話があって、少し遅れるということです (ada telepon dari Tanaka-san bahwa dia akan sedikit terlambat). 試験の結果は70%、つまり合格ということだ (hasil ujian 70%, artinya lulus). Perbedaan dengan 〜という: 〜ということだ lebih formal dan menekankan isi pesan atau definisi. Perbedaan dengan 〜そうだ (denbun): 〜ということだ lebih formal dan sering untuk pesan tertulis/resmi.",
     "examples": [
       {
-        "jp": "できるまで、やるしかない。",
-        "id": "Sampai bisa, tidak ada pilihan selain terus mencoba."
+        "jp": "田中さんから電話があって、少し遅れるということです。",
+        "id": "Ada telepon dari Tanaka-san bahwa dia akan sedikit terlambat."
       },
       {
-        "jp": "直せないから、新しいのを買うしかなかった。",
-        "id": "Karena tidak bisa diperbaiki, terpaksa harus membeli yang baru."
+        "jp": "試験の結果は70%、つまり合格ということだ。",
+        "id": "Hasil ujian 70%, artinya lulus."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab22_3",
+    "chapter": "Bab 22",
+    "level": "N3",
+    "title": "〜ことだ",
+    "meaning": "Pola ini digunakan untuk memberikan nasehat, saran, atau peringatan. Artinya 'sebaiknya...', 'hendaknya...'. Nuansanya seperti nasihat dari orang yang lebih berpengalaman atau lebih tua. Biasanya tidak digunakan kepada orang yang posisinya di atas (guru, atasan, dll), karena bisa terdengar menggurui. Bentuk negatif 〜ないことだ berarti 'sebaiknya jangan...'.",
+    "formula_template": "{A}る / {B}ない ことだ.",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus + ことだ. Contoh: 休む (yasumu) → 休むことだ (sebaiknya istirahat). (2) Kata kerja bentuk negatif + ことだ. Contoh: 無理をする (muri o suru) → 無理をしない (muri o shinai) → 無理をしないことです (sebaiknya jangan memaksakan diri). Contoh pemakaian: 暖かくして、ゆっくり休むことだ (sebaiknya hangatkan tubuh dan istirahatlah yang cukup). 無理をしないことです (sebaiknya jangan memaksakan diri). Pola ini sering dipakai dalam nasihat kesehatan, saran hidup, atau peringatan. Perbedaan dengan 〜べきだ: 〜ことだ = nasihat langsung (sebaiknya), 〜べきだ = norma/moral (seharusnya). Perbedaan dengan 〜たらどう: 〜ことだ lebih tegas seperti nasihat, 〜たらどう lebih saran ringan.",
+    "examples": [
+      {
+        "jp": "暖かくして、ゆっくり休むことだ。",
+        "id": "Sebaiknya hangatkan tubuh dan istirahatlah yang cukup."
+      },
+      {
+        "jp": "無理をしないことです。",
+        "id": "Sebaiknya jangan memaksakan diri."
+      }
+    ],
+    "tags": [
+      "N3",
+      "Tata Bahasa"
+    ]
+  },
+  {
+    "id": "n3_bab22_4",
+    "chapter": "Bab 22",
+    "level": "N3",
+    "title": "KATA TANYA 〜ことか",
+    "meaning": "Pola ini digunakan untuk menekankan perasaan pembicara ketika merasa sangat... (senang, sedih, menyesal, dsb). Artinya 'betapa...nya', 'alangkah...nya'. Selalu menggunakan kata tanya seperti どんなに, どれほど, どれだけ, 何度, 何時間 yang diikuti 〜ことか. Sering dipakai untuk mengungkapkan emosi yang mendalam, baik positif maupun negatif. Kalimat ini biasanya diakhiri dengan tanda seru atau intonasi emosional.",
+    "formula_template": "どんなに / どれほど / どれだけ / 何度 / 何時間 {A}る ことか / {B}た ことか / {C} い ことか / {D} かった ことか / {V4} な ことか / {V5} だった ことか.",
+    "ui_notes": "Cara membentuk: Kata tanya + kata kerja/kata sifat bentuk biasa + ことか. (1) Kata kerja bentuk kamus + ことか. Contoh: うれしい (ureshii) → どんなにうれしいことか (betapa bahagianya). (2) Kata kerja bentuk lampau + ことか. Contoh: 注意する (chuui suru) → 注意した (chuui shita) → 何度注意したことか (sudah berapa kali saya memperingatkan). (3) Kata sifat-i + ことか. Contoh: 悲しい (kanashii) → どれほど悲しいことか (betapa sedihnya). (4) Kata sifat-i bentuk lampau + ことか. Contoh: 寂しい (sabishii) → 寂しかった (sabishikatta) → どんなに寂しかったことか (betapa sepinya). (5) Kata sifat-na + な + ことか. Contoh: 残念だ (zannen da) → 残念なことか (betapa menyesalnya). (6) Kata sifat-na bentuk lampau + ことか. Contoh: 大変だ (taihen da) → 大変だった (taihen datta) → どれほど大変だったことか (betapa susahnya). Contoh pemakaian: 合格できたら、どんなにうれしいことか (betapa bahagianya jika saya bisa lulus). 何度注意したことか (sudah tak terhitung berapa kali saya memperingatkannya). Pola ini selalu mengandung emosi kuat dan sering dipakai dalam monolog atau ungkapan perasaan.",
+    "examples": [
+      {
+        "jp": "合格できたら、どんなにうれしいことか。",
+        "id": "Betapa bahagianya jika saya bisa lulus."
+      },
+      {
+        "jp": "何度注意したことか。",
+        "id": "Sudah tak terhitung berapa kali saya memperingatkannya."
       }
     ],
     "tags": [

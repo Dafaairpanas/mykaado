@@ -1,0 +1,142 @@
+[
+  {
+    "id": "irodori_a2.1_bab9_1",
+    "chapter": 9,
+    "level": "A2.1",
+    "title": "N で 〈cara / 手段〉",
+    "meaning": "Dengan [N] / Menggunakan [N] (Cara/Metode)",
+    "formula_template": "Kata Benda (Alat/Metode) + で",
+    "ui_notes": "Selain digunakan untuk menunjukkan tempat kejadian (misalnya 学校で = di sekolah) atau alat transportasi (バスで = dengan bus), partikel **で** juga dipakai untuk menyatakan **cara atau metode** melakukan sesuatu.\n\n* Contoh pertanyaan yang tepat untuk menanyakan cara adalah **どうやって** (Bagaimana caranya?).",
+    "examples": [
+      {
+        "japanese": "アニメで日本語を勉強しました。",
+        "indonesian": "Saya belajar bahasa Jepang dengan menonton anime.",
+        "romaji": "Anime de nihongo o benkyou shimashita."
+      },
+      {
+        "japanese": "Ａ： どこで日本語を勉強しましたか？\nＢ： 日本語学校で勉強しました。\nＣ： 私はネットで勉強しました。",
+        "indonesian": "A: Di manakah Anda belajar bahasa Jepang?\nB: Saya belajar di sekolah bahasa Jepang.\nC: Saya belajar di internet.",
+        "romaji": "A: Doko de nihongo o benkyou shimashita ka?\nB: Nihongogakkou de benkyou shimashita.\nC: Watashi wa netto de benkyou shimashita."
+      },
+      {
+        "japanese": "Ａ： どうやって日本語を勉強しましたか？\nＢ： アプリで勉強しました。",
+        "indonesian": "A: Bagaimana cara Anda belajar bahasa Jepang?\nB: Saya belajar dengan menggunakan aplikasi.",
+        "romaji": "A: Douyatte nihongo o benkyou shimashita ka?\nB: Apuri de benkyou shimashita."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 9", "partikel de", "cara", "metode"]
+  },
+  {
+    "id": "irodori_a2.1_bab9_2",
+    "chapter": 9,
+    "level": "A2.1",
+    "title": "N1 は N2 が [ナA]-です / [イA]-いです ① / N は V-る の が ～",
+    "meaning": "[Topik (N1)] itu, bagian [N2 / V]-nya yang [Kata Sifat]",
+    "formula_template": "N1 は N2 が Kata Sifat です ATAU N1 は V-るのが Kata Sifat です",
+    "ui_notes": "Ungkapan ini digunakan untuk menjelaskan secara rinci atau spesifik **karakteristik dari suatu benda/topik**.\n\n* **N1**: Topik besarnya (contoh: Bahasa Jepang).\n* **N2**: Bagian spesifik yang dijelaskan (contoh: huruf, tata bahasa, pelafalan).\n* Jika **N2** berupa kata kerja (misal: bagian berbicara, bagian membaca), maka gunakan kata kerja bentuk kamus (V-る) ditambah **のが** (misal: 話すのが).",
+    "examples": [
+      {
+        "japanese": "日本語は文字が難しいです。",
+        "indonesian": "Bagian yang sulit dari bahasa Jepang adalah hurufnya.",
+        "romaji": "Nihongo wa moji ga muzukashii desu."
+      },
+      {
+        "japanese": "日本語は話すのが大変です。",
+        "indonesian": "Bagian yang susah (sukar) dari bahasa Jepang adalah berbicara.",
+        "romaji": "Nihongo wa hanasu no ga taihen desu."
+      },
+      {
+        "japanese": "英語は文法が簡単です。",
+        "indonesian": "Bagian yang mudah dari bahasa Inggris adalah tata bahasanya.",
+        "romaji": "Eigo wa bunpou ga kantan desu."
+      },
+      {
+        "japanese": "タイ語は文字を覚えるのが難しいです。",
+        "indonesian": "Bagian yang sulit dari bahasa Thailand adalah menghafalkan hurufnya.",
+        "romaji": "Taigo wa moji o oboeru no ga muzukashii desu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 9", "wa ga", "penjelasan spesifik"]
+  },
+  {
+    "id": "irodori_a2.1_bab9_3",
+    "chapter": 9,
+    "level": "A2.1",
+    "title": "N1は、～。 （でも、） N2は、～。 〈perbandingan / 対比〉",
+    "meaning": "Kalau [N1] itu..., tapi kalau [N2] itu... (Perbandingan)",
+    "formula_template": "N1 は ～. (でも,) N2 は ～.",
+    "ui_notes": "Penggunaan partikel **は** di sini secara khusus difungsikan untuk **membandingkan dua hal** (kontras).\n\n* Saat kalimat aslinya menggunakan partikel **が** (contoh: 会話が得意です), partikel tersebut diubah menjadi **は** jika ada kalimat pembanding (contoh: 読むのは難しいです。でも、会話は得意です).\n* Kata **でも** (tetapi) sering digunakan untuk memperjelas dan menekankan perbandingan.",
+    "examples": [
+      {
+        "japanese": "日本語は、読むのは少し難しいです。でも、会話は得意です。",
+        "indonesian": "Bagian yang agak sulit dari bahasa Jepang adalah membaca. Tetapi, saya terampil berbicara.",
+        "romaji": "Nihongo wa, yomu no wa sukoshi muzukashii desu. Demo, kaiwa wa tokui desu."
+      },
+      {
+        "japanese": "ひらがなは好きです。カタカナは苦手です。",
+        "indonesian": "Saya menyukai huruf Hiragana. Saya tidak begitu pandai huruf Katakana.",
+        "romaji": "Hiragana wa suki desu. Katakana wa nigate desu."
+      },
+      {
+        "japanese": "英語は文法は簡単です。でも、単語を覚えるのは大変です。",
+        "indonesian": "Bagian yang mudah dari bahasa Inggris adalah tata bahasanya. Tetapi, yang susah (sukar) adalah menghafalkan kosakatanya.",
+        "romaji": "Eigo wa bunpou wa kantan desu. Demo, tango o oboeru no wa taihen desu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 9", "perbandingan", "kontras", "partikel wa"]
+  },
+  {
+    "id": "irodori_a2.1_bab9_4",
+    "chapter": 9,
+    "level": "A2.1",
+    "title": "V-てもらえませんか？",
+    "meaning": "Apakah Anda bersedia untuk [V] untuk saya?",
+    "formula_template": "V-て (Bentuk-te) + もらえませんか？",
+    "ui_notes": "Ungkapan ini digunakan untuk meminta tolong secara halus.\n\n* Dibandingkan dengan pola **V-てください** (Tolong lakukan V), pola **V-てもらえませんか？** ini terdengar **lebih halus dan sopan** karena bentuknya menanyakan ketersediaan lawan bicara.",
+    "examples": [
+      {
+        "japanese": "日本語をチェックしてもらえませんか？",
+        "indonesian": "Apakah Anda bersedia memeriksa bahasa Jepang saya?",
+        "romaji": "Nihongo o chekku shite moraemasen ka?"
+      },
+      {
+        "japanese": "この漢字の読み方を教えてもらえませんか？",
+        "indonesian": "Apakah Anda bersedia memberi tahu cara baca huruf Kanji ini?",
+        "romaji": "Kono kanji no yomikata o oshiete moraemasen ka?"
+      },
+      {
+        "japanese": "新しい教科書、ちょっと見せてもらえませんか？",
+        "indonesian": "Apakah Anda bersedia memperlihatkan sebentar buku pelajaran baru itu?",
+        "romaji": "Atarashii kyoukasho, chotto misete moraemasen ka?"
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 9", "permintaan sopan", "moraemasenka"]
+  },
+  {
+    "id": "irodori_a2.1_bab9_5",
+    "chapter": 9,
+    "level": "A2.1",
+    "title": "V-方（かた）",
+    "meaning": "Cara (melakukan) [V]",
+    "formula_template": "V-ます (Coret 'masu') + 方 (かた)",
+    "ui_notes": "Akhiran **方（かた）** digunakan untuk menunjukkan cara atau metode melakukan sebuah kata kerja.\n\n* Cukup hapus akhiran **ます** lalu tambahkan **方**. (Contoh: 書きます → 書き方 = cara menulis).\n* Karena bentuknya menjadi kata benda, bisa dihubungkan dengan partikel **が** atau **を** dalam kalimat.",
+    "examples": [
+      {
+        "japanese": "この書類の書き方がよくわかりません。",
+        "indonesian": "Saya tidak mengerti cara menulis dokumen ini.",
+        "romaji": "Kono shorui no kakikata ga yoku wakarimasen."
+      },
+      {
+        "japanese": "日本語のいい練習のし方がありますか？",
+        "indonesian": "Apakah Anda mempunyai cara berlatih bahasa Jepang yang baik?",
+        "romaji": "Nihongo no ii renshuu no shikata ga arimasu ka?"
+      },
+      {
+        "japanese": "この辞書の使い方を教えてください。",
+        "indonesian": "Tolong ajari cara menggunakan kamus ini.",
+        "romaji": "Kono jisho no tsukaikata o oshiete kudasai."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 9", "cara", "kata"]
+  }
+]

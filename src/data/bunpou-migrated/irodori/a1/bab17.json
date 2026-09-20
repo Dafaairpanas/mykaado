@@ -1,124 +1,142 @@
 [
   {
-    "id": "i_bab17_1",
+    "id": "i_a1_bab17_1",
     "chapter": "Bab 17",
     "level": "A1",
-    "title": "V-ました / V-ませんでした",
-    "meaning": "Pola kalimat untuk menyatakan tindakan yang sudah dilakukan (bentuk lampau positif) dan yang tidak dilakukan (bentuk lampau negatif) di masa lalu. 'V-ました' adalah bentuk lampau sopan dari kata kerja, dan 'V-ませんでした' adalah bentuk negatif lampau sopan. Sangat berguna saat menceritakan kegiatan liburan atau pengalaman masa lalu. Artinya 'Telah melakukan [aktivitas]' / 'Tidak melakukan [aktivitas]'.",
-    "formula_template": "{A} ました / ませんでした",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ました / ませんでした' untuk percakapan: Pola kalimat untuk menyatakan tindakan yang sudah dilakukan (bentuk lampau positif) dan yang tidak dilakukan (. Pastikan 'A' mewakili Kata Kerja Bentuk Masu tanpa masu.",
-    "ui_notes": "Bentuk lampau ini sangat penting untuk bercerita tentang kegiatan di masa lalu. Untuk kata kerja 'する' (suru - melakukan), bentuk lampaunya adalah 'しました' (positif) dan 'しませんでした' (negatif). Untuk pertanyaan lampau: 何をしましたか？ (Apa yang kamu lakukan?).",
+    "title": "Laporan Aksi Masa Lampau (〜ました / 〜ませんでした)",
+    "meaning": "Mesin Waktu Aksi! Menceritakan laporan aktivitas, aksi, atau kebiasaan bergerak yang STATUSNYA SUDAH BASI alias SUDAH BERLALU atau KELAR dieksekusi di masa lampau.",
+    "formula_template": "1. [K.Kerja] + ました (Sudah / Telah Eksekusi)\n2. [K.Kerja] + ませんでした (Tidak Mengeksekusinya kala itu)",
+    "ui_notes": "### 📝 TABEL BUKU PINTAR LORONG WAKTU (VERBA)\n\n| Lorong Waktu Dimensi | Aksi Terjadi / Positif | Aksi Batal / Negatif |\n|---|---|---|\n| **Saat Ini / Masa Depan (Rencana)** | **V-ます** (Menonton) | **V-ません / ないです** (Tidak Menonton) |\n| **Masa Lampau (Basi / Sudah Berlalu)** | **V-ました** (UDAH Menonton) | **V-ませんでした** (KEMARIN Tidak Menonton) |",
     "examples": [
       {
-        "jp": "家でゆっくりしました。",
-        "id": "Saya bersantai di rumah."
+        "jp": "週末は、何もしませんでした。家でゆっくりしました。",
+        "id": "Akhir pekan KEMARIN, TIDAK ADA yang hamba EKSEKUSI. Hamba murni HANYA TELAH BERLEHA-LEHA di rumah rebahan."
       },
       {
-        "jp": "映画を見ました。",
-        "id": "Saya menonton film."
+        "jp": "土日は、ジムで運動しました。",
+        "id": "Saat kalender menunjuk di Sabtu-Minggu lalu, (saya) UDAH MERES KERINGAT BEROLAHRAGA di lokasi Gym."
+      },
+      {
+        "jp": "週末は、何をしましたか？ ……家でテレビを見ました。",
+        "id": "Akhir pekan YANG SUDAH LEWAT, (Kamu) UDAH NGE-EKSEKUSI LAKUIN aksi APAAAN? ...... (Aku) UDAH MANTEK NONTON siaran televisi di dalam kandang rumah."
       }
     ],
     "tags": [
       "A1",
-      "Lampau",
-      "Kegiatan",
-      "Liburan",
-      "Cerita"
+      "Riwayat Aktivitas Berlalu",
+      "Mashita dan Masendeshita"
     ]
   },
   {
-    "id": "i_bab17_2",
+    "id": "i_a1_bab17_2",
     "chapter": "Bab 17",
     "level": "A1",
-    "title": "何もV-ませんでした",
-    "meaning": "Pola kalimat untuk menyatakan bahwa tidak ada satu pun tindakan yang dilakukan. '何も' berarti 'apa pun' dan selalu diikuti bentuk negatif. Digunakan untuk menekankan bahwa sama sekali tidak melakukan aktivitas tertentu di masa lalu. Artinya 'Tidak melakukan apa pun'.",
-    "formula_template": "何も {A}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '何も {A}' untuk percakapan: Pola kalimat untuk menyatakan bahwa tidak ada satu pun tindakan yang dilakukan. '何も' berarti 'apa pun' dan sel. Pastikan 'A' mewakili Kata Kerja Bentuk Negatif Lampau.",
-    "ui_notes": "Pola serupa: 'どこにも' (tidak ke mana pun), 'だれにも' (tidak bertemu siapa pun), '何も' (tidak melakukan apa pun). Semua diikuti bentuk negatif. Contoh: どこにも行きませんでした。 (Saya tidak pergi ke mana pun.)",
+    "title": "Zong Absolut Masa Lampau (何も〜 / どこにも〜)",
+    "meaning": "Palu Kekosongan Waktu! Jurus untuk menekan pernyataan kelam bahwa kemarin di masa lampau Anda BENAR-BENAR TIDAK MELAKUKAN APA-APA (Nganggur murni) atau TIDAK PERGI KE MANA-MANA (Di rumah doang).",
+    "formula_template": "1. 何も (Apa pun) + [K.Kerja ませんでした]\n2. どこにも (Ke mana pun) + 行きませんでした",
+    "ui_notes": "",
     "examples": [
       {
-        "jp": "週末は何もしませんでした。",
-        "id": "Akhir pekan saya tidak melakukan apa pun."
+        "jp": "週末は、何も しませんでした。",
+        "id": "Minggu kemarin, (aku) TIDAK (melakukan aksi) APA PUN murni bolong mager."
       },
       {
-        "jp": "昨日は何も食べませんでした。",
-        "id": "Kemarin saya tidak makan apa pun."
+        "jp": "私は、どこにも 行きませんでした。",
+        "id": "Kalau saya, KEMARIN SAMA SEKALI TIDAK berangkat pergi MENUJU KE MANA PUN (Kecuali ke kasur)."
+      },
+      {
+        "jp": "連休は、どこに行きましたか？ ……どこにも 行きませんでした。家で本を読みました。",
+        "id": "Pas liburan beruntun YANG UDAH LEWAT, kamu TELAH BERANGKAT mampir KE MANA SAJA gerangan? ...... (Sedih banget nih) TIDAK PERGI MAMPIR KEMANA-MANA SAMA SEKALI. Mentok SUDAH MEMBACA koleksi buku ngumpet di rumah."
       }
     ],
     "tags": [
       "A1",
-      "Negatif",
-      "Tidak Ada",
-      "Lampau"
+      "Kekosongan Absolut",
+      "Tidak Ngapa Ngapain"
     ]
   },
   {
-    "id": "i_bab17_3",
+    "id": "i_a1_bab17_3",
     "chapter": "Bab 17",
     "level": "A1",
-    "title": "ナA-でした / イA-かったです — Kesan Lampau",
-    "meaning": "Pola kalimat untuk menyatakan kesan atau perasaan tentang sesuatu di masa lalu. Untuk kata sifat-na (ナA), bentuk lampaunya adalah '〜でした' (deshita). Untuk kata sifat-i (イA), bentuk lampaunya adalah mengubah 'い' menjadi 'かったです' (katta desu). Sangat berguna saat menceritakan pengalaman atau memberikan ulasan. Artinya '[Sifat] di masa lalu'.",
-    "formula_template": "{A} でした / {B} かったです",
-    "variables": {
-      "A": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} でした / {B} かったです' untuk percakapan: Pola kalimat untuk menyatakan kesan atau perasaan tentang sesuatu di masa lalu. Untuk kata sifat-na (ナA), bent. Pastikan 'A' mewakili Kata Sifat-na, 'B' mewakili Kata Sifat-i.",
-    "ui_notes": "Bentuk negatif lampau: ナA: 〜じゃなかったです (tidak ... di masa lalu), イA: 〜くなかったです (tidak ... di masa lalu). Contoh: あまり面白くなかったです (Tidak terlalu menarik). Perhatikan bahwa untuk kata sifat-i, '楽しい' (tanoshii) menjadi '楽しかった' (tanoshikatta) - 'い' berubah menjadi 'かった'.",
+    "title": "Kesan Masa Lampau (Adjektiva Bentuk Lampau)",
+    "meaning": "Juri Reviewer Basi! Mengomentari atau memberikan kesan (Kata Sifat) terhadap acara film / festival / kegiatan fisik YANG SUDAH SELESAI dilewati di masa lampau.",
+    "formula_template": "1. [Kesan Sifat-Na (Coret な)] + でした\n2. [Kesan Sifat-I (Coret い)] + かったです\n*Pengecualian*: いい (Bagus) berubah gila menjadi 👉 よかったです",
+    "ui_notes": "### 📝 RANGKUMAN KATA TANYA INTELEJEN\n- **いくつ** : Umur berapa / Berapa buah\n- **いくら** : Berapa harganya\n- **いつ** : Kapan (Waktunya)\n- **だれ** : Siapa (Tersangkanya)\n- **どう** : Bagaimana (Kesan sifatnya)\n- **どうして** : Kenapa / Mengapa\n- **どうやって** : Bagaimana Metodenya/Cara\n- **どこ** : Ke Mana / Di Mana",
     "examples": [
       {
         "jp": "「ゴジラ」は、まあまあでした。",
-        "id": "'Godzilla' lumayan saja. (ナA lampau)"
+        "id": "Film tayangan Godzila YANG KEMARIN DITONTON (Kesannya) yah lumayan-lumayan B-Aja LAH."
       },
       {
         "jp": "国際フェスティバルは、とても楽しかったです。",
-        "id": "Festival internasional sangat menyenangkan. (イA lampau)"
+        "id": "Penyelenggaraan Festival kancah Internasional KEMARIN, (Bikin hamba sangat kesannya) MENYENANGKAN SERU BANGET."
+      },
+      {
+        "jp": "休みは、どうでしたか？ ……ハイキングに行きました。とても、よかったです。",
+        "id": "Gimana KESAN Liburan KAMU KEMARIN? ...... (Saya) TELAH meluncur wisata Hiking. (Kesannya) SANGAT SUPER MANTUL SEKALI."
       }
     ],
     "tags": [
       "A1",
-      "Kesan",
-      "Lampau",
-      "Kata Sifat",
-      "Ulasan"
+      "Ulasan Event Basi",
+      "Kata Sifat Berlalu (Katta)"
+    ]
+  },
+  {
+    "id": "i_a1_bab17_4",
+    "chapter": "Bab 17",
+    "level": "A1",
+    "title": "Fakta Masa Lampau (〜でした)",
+    "meaning": "Laporan Keadaan Basi! Menceritakan identitas, cuaca, atau fakta mutlak (Kata Benda) yang HANYA TERJADI DI MASA LAMPAU alias sudah tidak terjadi lagi (Contoh: Kemarin cuacanya hujan / Kemarin bapak ultah).",
+    "formula_template": "[Kata Benda Status / Fakta Keadaan] + でした",
+    "ui_notes": "",
+    "examples": [
+      {
+        "jp": "とてもいい 天気でした。",
+        "id": "(Kala itu kemarin status) cuacanya SANGATLAH TERANG BAGUS."
+      },
+      {
+        "jp": "昨日は、父の 誕生日でした。みんなで、ケーキを 食べました。",
+        "id": "Pada saat kejadian kemarin itu (statusnya) ADALAH HARI ULANG TAHUN milik Ayah. Se-geng berkumpul TELAH BERSAMA memakan porsi demi porsi kue basah."
+      },
+      {
+        "jp": "カラオケに行きました。でも、店は 休みでした。",
+        "id": "Hamba SUDAH PERGI MENEMBUS ruang karaoke. NAMUN SAYANGNYA (Pas aku samperin), warung tokonya ITU BERADA DALAM STATUS LIBUR KOSONG."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Fakta Kondisi Berlalu",
+      "Status Lampau (Deshita)"
+    ]
+  },
+  {
+    "id": "i_a1_bab17_5",
+    "chapter": "Bab 17",
+    "level": "A1",
+    "title": "Bantahan Masa Lampau (Bentuk Lampau Negatif)",
+    "meaning": "Mesin Pembantah Harapan! Mengomentari kekecewaan. Membantah mentah-mentah kesan atau fakta sebuah acara yang sudah terlewat (Acara kemarin mah Zong, nggak asyik blass / Kemarin itu bukan hujan kok).",
+    "formula_template": "1. [Kata Benda / Sifat-Na] + じゃなかったです\n2. [Sifat-I (Coret い)] + くなかったです\n*(Aliran formal bisa ganti '〜なかったです' menjadi '〜ありませんでした')*",
+    "ui_notes": "### 📝 TABEL BUKU PINTAR LORONG WAKTU (FAKTA & SIFAT)\n| Golongan Subjek | Masa Depan Positif | Masa Lampau Negatif (Bantahan) |\n|---|---|---|\n| **Kata Benda (Fakta)** | 休みです (Besok Libur) | 休みじゃなかったです (Kemarin bukan libur) |\n| **Sifat-Na (Kesan)** | きれいです (Indah) | きれいじゃなかったです (Gak indah blass) |\n| **Sifat-I (Kesan)** | 楽しいです (Seru) | 楽しくなかったです (Gak seru pisan euy) |",
+    "examples": [
+      {
+        "jp": "お客さんは、あまり 多くなかったです。",
+        "id": "(Pas acara KEMARIN itu kenyataannya) Massa penonton TAMU pengunjung TIDAK BEGITU MEMBELUDAK BANYAK jumlahnya."
+      },
+      {
+        "jp": "温泉に入りました。でも、露天風呂じゃなかったです。",
+        "id": "(Kemarin) TUBUH SUDAH MENYEMPLUNG ke bak air Onsen. TAPI SEDIHNYA, FAKTA MENUNJUKKAN ITU BUKAN (Jenis Onsen alam/Outdoor)."
+      },
+      {
+        "jp": "料理は、どうでしたか？ ……あまり おいしくなかったです。",
+        "id": "GIMANA KESANNYA Makanan sajian yang kemarin elu lahap masuk mulut? ...... AGAK GIMANA GITU, TIDAK LEZAT-LEZAT AMAT ELAH."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Kekecewaan Berlalu",
+      "Bantahan Lampau (Janakatta)"
     ]
   }
 ]

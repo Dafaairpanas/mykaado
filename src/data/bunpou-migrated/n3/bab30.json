@@ -4,40 +4,9 @@
     "chapter": "Bab 30",
     "level": "N3",
     "title": "ですから",
-    "meaning": "oleh karena itu",
+    "meaning": "Pola ini adalah kata penghubung yang digunakan untuk menyatakan sebab-akibat secara sopan. Artinya 'oleh karena itu...', 'karena itu...', 'jadi...'. Berbeda dengan だから yang lebih kasual, ですから lebih formal dan sering dipakai dalam situasi resmi, percakapan sopan, atau penjelasan kepada atasan. Fungsinya menghubungkan kalimat sebab (A) dengan kalimat akibat/kesimpulan (B).",
     "formula_template": "{A}。ですから、{B}。",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}。ですから、{B}。' untuk mengekspresikan: oleh karena itu.",
-    "ui_notes": "oleh karena itu",
+    "ui_notes": "Cara membentuk: Kalimat A (sebab) + ですから + kalimat B (akibat/kesimpulan). Contoh: 天気予報では午後から雨だそうです (tenki yohou de wa gogo kara ame da sou desu) → 天気予報では午後から雨だそうです。ですから、傘を持っていったほうがいいですよ (kalau menurut ramalan cuaca, dari siang katanya akan hujan. Oleh karena itu sebaiknya bawa payung). 明日から旅行に行きます (ashita kara ryokou ni ikimasu) → 明日から旅行に行きます。ですから、申し訳ありませんが、来週のパーティーには出席できません (besok saya akan pergi berwisata. Oleh karena itu, mohon maaf sekali, saya tidak bisa menghadiri pesta minggu depan). Contoh pemakaian: 天気予報では午後から雨だそうです。ですから、傘を持っていったほうがいいですよ (kalau menurut ramalan cuaca, dari siang katanya akan hujan. Oleh karena itu sebaiknya bawa payung). 明日から旅行に行きます。ですから、申し訳ありませんが、来週のパーティーには出席できません (besok saya akan pergi berwisata. Oleh karena itu, mohon maaf sekali, saya tidak bisa menghadiri pesta minggu depan). Perbedaan dengan だから: だから = kasual, ですから = sopan/formal. Perbedaan dengan そのため(に): そのため(に) lebih formal dan sering tertulis, ですから lebih sering dipakai dalam percakapan sopan.",
     "examples": [
       {
         "jp": "天気予報では午後から雨だそうです。ですから、傘を持っていったほうがいいですよ。",
@@ -58,21 +27,9 @@
     "chapter": "Bab 30",
     "level": "N3",
     "title": "ところが",
-    "meaning": "sering digunakan dalam bahasa resmi, formal",
+    "meaning": "Pola ini adalah kata penghubung yang digunakan untuk menyatakan pertentangan yang tidak terduga. Artinya 'akan tetapi...', 'namun ternyata...', 'padahal...'. Berbeda dengan しかし atau だけど yang sekadar kontras, ところが menekankan bahwa kenyataan ternyata berbeda dari yang diperkirakan, dan biasanya mengejutkan. Sering digunakan dalam bahasa resmi, formal, atau tulisan.",
     "formula_template": "{A} は ところが です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は ところが です' untuk mengekspresikan: sering digunakan dalam bahasa resmi, formal.",
-    "ui_notes": "sering digunakan dalam bahasa resmi, formal",
+    "ui_notes": "Cara membentuk: Kalimat A (perkiraan/niat) + ところが + kalimat B (kenyataan yang berbeda/tidak terduga). Contoh: 昨夜はコンサートに行くつもりだった (sakuya wa konsaato ni iku tsumori datta) → 昨夜はコンサートに行くつもりだった。ところが、病気で行けなくなった (kemarin malam saya bermaksud pergi ke konser. Akan tetapi, karena sakit saya tidak bisa pergi). 田中さんは私より若いと思っていた (Tanaka-san wa watashi yori wakai to omotte ita) → 田中さんは私より若いと思っていた。ところが、私より5歳も年上だった (saya kira Tanaka-san lebih muda dari saya. Akan tetapi ternyata dia lebih tua 5 tahun dari saya). Contoh pemakaian: 昨夜はコンサートに行くつもりだった。ところが、病気で行けなくなった (kemarin malam saya bermaksud pergi ke konser. Akan tetapi, karena sakit saya tidak bisa pergi). 田中さんは私より若いと思っていた。ところが、私より5歳も年上だった (saya kira Tanaka-san lebih muda dari saya. Akan tetapi ternyata dia lebih tua 5 tahun dari saya). Perbedaan dengan しかし: しかし = kontras biasa (netral), ところが = kontras yang tidak terduga/mengejutkan. Perbedaan dengan だけど: だけど lebih kasual, ところが lebih formal dan menekankan kejutan.",
     "examples": [
       {
         "jp": "昨夜はコンサートに行くつもりだった。ところが、病気で行けなくなった。",
@@ -93,21 +50,9 @@
     "chapter": "Bab 30",
     "level": "N3",
     "title": "ところで",
-    "meaning": "digunakan untuk mengganti topik pembicaraan. ✓ umumnya banyak digunakan dalam situasi resmi, formal.",
+    "meaning": "Pola ini adalah kata penghubung yang digunakan untuk mengganti topik pembicaraan. Artinya 'ngomong-ngomong...', 'sebelum saya lupa...', 'oh iya...'. Fungsinya mengalihkan pembicaraan ke topik baru yang tidak berhubungan langsung dengan topik sebelumnya. Umumnya banyak digunakan dalam situasi resmi atau formal, tetapi juga bisa dipakai dalam percakapan santai.",
     "formula_template": "{A} は ところで です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は ところで です' untuk mengekspresikan: digunakan untuk mengganti topik pembicaraan. ✓ umumnya banyak digunakan dalam situasi resmi, formal..",
-    "ui_notes": "digunakan untuk mengganti topik pembicaraan. ✓ umumnya banyak digunakan dalam situasi resmi, formal.",
+    "ui_notes": "Cara membentuk: Kalimat A (topik sebelumnya) + ところで + kalimat B (topik baru). Contoh: もうすぐ、今年も終わりですね (mou sugu, kotoshi mo owari desu ne) → もうすぐ、今年も終わりですね。ところで、お正月はどうなさいますか (sebentar lagi tahun ini akan selesai yah! Ngomong-ngomong, tahun baru nanti apa yang akan kamu lakukan?). 明日、試験でしょ。がんばってね (ashita, shiken desho. Ganbatte ne) → 明日、試験でしょ。がんばってね。ところで、来週の月曜日は空いてる？ (besok ujian kan?! Semangat ya! Ngomong-ngomong, Senin minggu depan kamu ada waktu?!). Contoh pemakaian: もうすぐ、今年も終わりですね。ところで、お正月はどうなさいますか (sebentar lagi tahun ini akan selesai yah! Ngomong-ngomong, tahun baru nanti apa yang akan kamu lakukan?). 明日、試験でしょ。がんばってね。ところで、来週の月曜日は空いてる？ (besok ujian kan?! Semangat ya! Ngomong-ngomong, Senin minggu depan kamu ada waktu?!). Perbedaan dengan ちなみに: ちなみに = sebagai tambahan informasi (masih berhubungan), ところで = mengganti topik (tidak berhubungan langsung). Perbedaan dengan それはそうと: それはそうと lebih kasual, ところで lebih netral/formal.",
     "examples": [
       {
         "jp": "もうすぐ、今年も終わりですね。ところで、お正月はどうなさいますか。",

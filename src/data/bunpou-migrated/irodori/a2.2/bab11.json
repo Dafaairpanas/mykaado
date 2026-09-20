@@ -6,19 +6,6 @@
     "title": "V-てみてもいいですか？ — Bolehkah Saya Coba V?",
     "meaning": "Pola untuk meminta izin mencoba sesuatu, terutama pakaian atau barang di toko. 'V-てみる' berarti 'mencoba melakukan', 'てもいいですか' berarti 'apakah boleh?'. Sangat berguna saat berbelanja pakaian. Artinya 'Bolehkah saya mencoba [melakukan V]?'.",
     "formula_template": "{A} みてもいいですか？",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} みてもいいですか？' untuk percakapan: Pola untuk meminta izin mencoba sesuatu, terutama pakaian atau barang di toko. 'V-てみる' berarti 'mencoba melaku. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
     "ui_notes": "Untuk meminta mencoba di toko: 試着してもいいですか？ (Bolehkah saya mencoba? - untuk pakaian). 'V-てみる' memiliki nuansa 'coba-coba' atau 'eksperimen'. Contoh lain: 食べてみてもいいですか？ (Bolehkah saya mencoba makan?). Untuk jawaban: はい、どうぞ (Ya, silakan) / すみません、ちょっと… (Maaf, agak...).",
     "examples": [
       {
@@ -44,25 +31,6 @@
     "title": "ナA-／イA-すぎます — Terlalu ...",
     "meaning": "Pola untuk menyatakan bahwa suatu sifat berlebihan atau melewati batas yang diinginkan. Untuk kata sifat-na (ナA), tambahkan 'すぎます' langsung setelah kata sifat. Untuk kata sifat-i (イA), hilangkan 'い' dan tambahkan 'すぎます'. Sangat berguna saat memberikan pendapat tentang warna atau ukuran pakaian. Artinya 'Terlalu [sifat]'.",
     "formula_template": "{A} すぎます / {B} すぎます",
-    "variables": {
-      "A": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} すぎます / {B} すぎます' untuk percakapan: Pola untuk menyatakan bahwa suatu sifat berlebihan atau melewati batas yang diinginkan. Untuk kata sifat-na (ナ. Pastikan 'A' mewakili Kata Sifat-na, 'B' mewakili Kata Sifat-i tanpa い.",
     "ui_notes": "Juga bisa digunakan dengan kata kerja: 飲みすぎました (Terlalu banyak minum), 食べすぎました (Terlalu banyak makan). Bentuk negatif: すぎない (tidak terlalu). Untuk kata sifat-i: 安い→安すぎる (terlalu murah), 高い→高すぎる (terlalu mahal). Untuk kata sifat-na: 静か→静かすぎる (terlalu sepi), 便利→便利すぎる (terlalu praktis).",
     "examples": [
       {
@@ -88,25 +56,6 @@
     "title": "ナA-な／イA-い の — Yang ...",
     "meaning": "Pola untuk meminta barang dengan sifat tertentu tanpa menyebutkan kata bendanya. 'の' berfungsi sebagai pengganti kata benda (nominalisasi). Untuk kata sifat-na, gunakan 'なの'; untuk kata sifat-i, gunakan 'いの'. Sangat berguna saat menanyakan ukuran atau warna lain di toko. Artinya 'Yang [sifat]'.",
     "formula_template": "{A} なの / {B} の",
-    "variables": {
-      "A": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} なの / {B} の' untuk percakapan: Pola untuk meminta barang dengan sifat tertentu tanpa menyebutkan kata bendanya. 'の' berfungsi sebagai penggan. Pastikan 'A' mewakili Kata Sifat-na, 'B' mewakili Kata Sifat-i.",
     "ui_notes": "'の' di sini menggantikan kata benda seperti '服' (pakaian) atau '靴' (sepatu). Contoh: 大きいのがいいです (Yang besar lebih baik). Untuk kata sifat-na: 静かなのがいいです (Yang tenang lebih baik). Juga bisa digunakan untuk meminta ukuran: 小さいの (yang kecil), 大きいの (yang besar).",
     "examples": [
       {
@@ -132,27 +81,6 @@
     "title": "Nを V-（ら）れます (Pasif ③) — Di-V",
     "meaning": "Pola pasif khusus untuk menyatakan bahwa sesuatu yang dimiliki seseorang mengalami tindakan dari orang lain. Dalam pola ini, objek (barang yang dimiliki) menjadi fokus, dan pelaku tidak selalu disebutkan. Sangat berguna saat melaporkan kehilangan atau pencurian. Artinya 'Barang saya [di-V]'.",
     "formula_template": "{A} を {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} を {B}' untuk percakapan: Pola pasif khusus untuk menyatakan bahwa sesuatu yang dimiliki seseorang mengalami tindakan dari orang lain. D. Pastikan 'A' mewakili Barang, 'B' mewakili Kata Kerja Pasif.",
     "ui_notes": "Ini adalah 'suffer passive' (pasif penderitaan) di mana pembicara mengalami kerugian. Pelaku tidak perlu disebutkan. Contoh lain: 財布を落とされました (Dompet saya dijatuhkan/dicuri), ケーキを食べられました (Kue saya dimakan orang). Untuk menyebutkan pelaku: 泥棒に財布を盗まれました (Dompet saya dicuri oleh pencuri).",
     "examples": [
       {
@@ -178,23 +106,6 @@
     "title": "S（bentuk biasa）かもしれません (S kamoshiremasen) — Mungkin S",
     "meaning": "Pola untuk menyatakan kemungkinan atau ketidakpastian tentang suatu hal. 'かもしれません' berarti 'mungkin' dan digunakan dengan bentuk biasa dari kata kerja/kata sifat. Sangat berguna saat berspekulasi tentang kejadian yang tidak pasti, seperti kehilangan barang. Artinya 'Mungkin [S]'.",
     "formula_template": "{A} かもしれません",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} かもしれません' untuk percakapan: Pola untuk menyatakan kemungkinan atau ketidakpastian tentang suatu hal. 'かもしれません' berarti 'mungkin' dan digun. Pastikan 'A' mewakili Klausa (Bentuk Biasa).",
     "ui_notes": "Bentuk kasual: かも (kamo). 'もしかしたら' sering digunakan bersama 'かもしれません' untuk menekankan ketidakpastian. Untuk kata sifat-na dan kata benda, gunakan 'だ' sebelum 'かもしれません': 静かかもしれません (Mungkin tenang), 学生かもしれません (Mungkin pelajar).",
     "examples": [
       {
@@ -220,19 +131,6 @@
     "title": "V-てしまいました — Tidak Sengaja / Sayangnya V",
     "meaning": "Pola untuk menyatakan bahwa suatu tindakan terjadi secara tidak sengaja, tidak diinginkan, atau disayangkan. 'V-てしまう' memiliki dua nuansa: (1) menyelesaikan tindakan dengan sengaja, dan (2) terjadi tanpa sengaja/disayangkan. Dalam konteks berbelanja, sering digunakan untuk melaporkan kesalahan. Artinya 'Tidak sengaja [V]' / 'Sayangnya [V]'.",
     "formula_template": "{A} しまいました",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} しまいました' untuk percakapan: Pola untuk menyatakan bahwa suatu tindakan terjadi secara tidak sengaja, tidak diinginkan, atau disayangkan. '. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
     "ui_notes": "Bentuk kasual: V-ちゃった (untuk てしまった). Contoh: 忘れちゃった (Lupa - sayangnya). 'しまいました' menunjukkan penyesalan atau ketidak-sengajaan. Untuk tindakan yang sengaja diselesaikan, gunakan 'V-てしまいました' juga bisa berarti 'selesai' tanpa nuansa negatif: 読み終わってしまいました (Sudah selesai membaca).",
     "examples": [
       {

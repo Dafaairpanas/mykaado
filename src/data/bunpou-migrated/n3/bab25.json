@@ -4,28 +4,9 @@
     "chapter": "Bab 25",
     "level": "N3",
     "title": "〜はもちろん",
-    "meaning": "〜はもちろん",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa A sudah pasti/tentu saja berlaku, dan B juga ikut berlaku. Artinya 'tentu saja A, bahkan B juga...', 'A apalagi, B juga...'. Fungsinya menekankan bahwa hal pertama (A) adalah hal yang sudah jelas, lalu menambahkan hal kedua (B) yang juga tidak kalah penting. Sering dipakai untuk memuji, menjelaskan keunggulan, atau menyatakan cakupan yang luas.",
     "formula_template": "{A}はもちろん {B}も / [文] のはもちろん〜(も).",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}はもちろん {B}も / [文] のはもちろん〜(も).' untuk mengekspresikan: 〜はもちろん.",
-    "ui_notes": "〜はもちろん",
+    "ui_notes": "Cara membentuk: (1) Kata benda + はもちろん + kata benda + も. Contoh: 勉強 (benkyou) → 勉強はもちろん、スポーツも (tentu saja belajar, olahraga juga). (2) Frasa/kalimat + のはもちろん. Contoh: 炒めて食べる (itatete taberu) → 炒めて食べるのはもちろん、生で食べても (tentu saja dimakan tumis, dimakan mentah pun). Contoh pemakaian: 彼は、勉強はもちろん、スポーツもよくできる (dia tentu saja pandai belajar, dan juga jago berolahraga). キャベツは炒めて食べるのはもちろん、生で食べてもおいしいです (kubis tentu saja enak ditumis, dimakan mentah pun juga enak). Perbedaan dengan 〜ばかりか: 〜はもちろん = menekankan hal pertama yang sudah jelas lalu menambah hal kedua, 〜ばかりか = menekankan 'tidak hanya A, bahkan B' (biasanya lebih mengejutkan).",
     "examples": [
       {
         "jp": "彼は、勉強はもちろん、スポーツもよくできる。",
@@ -46,46 +27,9 @@
     "chapter": "Bab 25",
     "level": "N3",
     "title": "〜ばかりか",
-    "meaning": "Kalimat setelahnya sering menggunakan 〜も、〜さえ、〜まで.",
+    "meaning": "Pola ini digunakan untuk menyatakan 'tidak hanya A, bahkan B juga...'. Fungsinya menambahkan informasi yang lebih mengejutkan atau lebih ekstrem dari hal sebelumnya. Kalimat setelahnya sering menggunakan 〜も, 〜さえ, atau 〜まで untuk memperkuat penambahan tersebut. Bisa dipakai untuk hal positif maupun negatif. Bentuk 〜ばかりでなく memiliki makna yang sama, tetapi sedikit lebih formal.",
     "formula_template": "{A}(biasa) / {B}(biasa) / {C} な / {D} ばかりか…(も) / ばかりでなく…(も).",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}(biasa) / {B}(biasa) / {C} な / {D} ばかりか…(も) / ばかりでなく…(も).' untuk mengekspresikan: Kalimat setelahnya sering menggunakan 〜も、〜さえ、〜まで..",
-    "ui_notes": "Kalimat setelahnya sering menggunakan 〜も、〜さえ、〜まで.",
+    "ui_notes": "Cara membentuk: (1) Kata kerja/kata sifat-i bentuk biasa + ばかりか. Contoh: 日本語が話せる (nihongo ga hanaseru) → 日本語ばかりか、中国語も (tidak hanya bahasa Jepang, bahasa Mandarin juga). (2) Kata sifat-na + な + ばかりか. Contoh: 味が悪い (aji ga warui) → 味が悪いばかりか、態度もひどい (tidak hanya rasanya buruk, sikapnya pun payah). (3) Kata benda + ばかりか. Contoh: サントスさん (Santos-san) → サントスさんは日本語ばかりか、中国語も (Santos-san tidak hanya bahasa Jepang, bahasa Mandarin juga). Contoh pemakaian: サントスさんは日本語ばかりか、中国語もペラペラだ (Santos-san tidak hanya bahasa Jepang, bahasa Mandarin pun fasih). あの店は味が悪いばかりか、店員の態度もひどい (toko itu tidak hanya rasanya buruk, sikap pelayannya pun payah). Perbedaan dengan 〜はもちろん: 〜ばかりか lebih menekankan kejutan/penambahan yang lebih ekstrem, 〜はもちろん menekankan hal pertama yang sudah jelas.",
     "examples": [
       {
         "jp": "サントスさんは日本語ばかりか、中国語もペラペラだ。",
@@ -106,34 +50,9 @@
     "chapter": "Bab 25",
     "level": "N3",
     "title": "〜に比（くら）べて",
-    "meaning": "Kalimat perbandingan, sama seperti より. ※それに比べて.",
+    "meaning": "Pola ini digunakan untuk membandingkan dua hal. Artinya 'dibandingkan dengan...', 'kalau dibanding...'. Fungsinya sama seperti より, tetapi 〜に比べて lebih menekankan perbandingan secara eksplisit dan sering dipakai dalam tulisan formal atau penjelasan. Kata penghubung それに比べて berarti 'dibandingkan dengan itu'. Varian: 〜に比べて / 〜に比べ.",
     "formula_template": "{A}に / {B}〜のに 比（くら）べて / 比（くら）べ.",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}に / {B}〜のに 比（くら）べて / 比（くら）べ.' untuk mengekspresikan: Kalimat perbandingan, sama seperti より. ※それに比べて..",
-    "ui_notes": "Kalimat perbandingan, sama seperti より. ※それに比べて.",
+    "ui_notes": "Cara membentuk: Kata benda + に比べて. Contoh: 昨年 (sakunen) → 昨年に比べて (dibandingkan tahun lalu). 店で買うの (mise de kau no) → 店で買うのに比べ (dibandingkan membeli di toko). Contoh pemakaian: 試験の問題は昨年に比べて易しくなった (soal ujian menjadi lebih mudah dibandingkan tahun lalu). 店で買うのに比べ、通信販売は便利だが、欠点もある (dibandingkan beli di toko, belanja online praktis tetapi ada juga kekurangannya). Kata penghubung それに比べて: 兄はスポーツが得意だ。それに比べて、弟は全然だめだ (kakak jago olahraga. Dibandingkan itu, adik sama sekali tidak bisa). Perbedaan dengan より: より = daripada (lebih sederhana, sering dalam kalimat pendek), 〜に比べて = dibandingkan dengan (lebih eksplisit, cocok untuk perbandingan formal).",
     "examples": [
       {
         "jp": "試験の問題は昨年に比べて易しくなった。",
@@ -154,42 +73,9 @@
     "chapter": "Bab 25",
     "level": "N3",
     "title": "〜に対（たい）して",
-    "meaning": "〜に対（たい）して",
+    "meaning": "Pola ini digunakan untuk menyatakan 'terhadap...', 'kepada...', atau 'berbeda dengan...'. Ada dua fungsi utama: (1) menunjukkan sikap/tindakan yang ditujukan kepada seseorang/sesuatu, artinya 'terhadap...'; (2) menunjukkan perbandingan atau kontras, artinya 'berbeda dengan...', 'sedangkan...'. Kata penghubung それに対して berarti 'sebaliknya', 'berbeda dengan itu'. Varian: 〜に対して / 〜に対し / 〜に対しては / 〜に対しても / 〜に対する + kata benda.",
     "formula_template": "{A}に / {B}〜のに 対（たい）して / 対（たい）し / 対（たい）しては / 対（たい）しても / 対（たい）する {C}. ※それに対して.",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}に / {B}〜のに 対（たい）して / 対（たい）し / 対（たい）しては / 対（たい）しても / 対（たい）する {C}. ※それに対して.' untuk mengekspresikan: 〜に対（たい）して.",
-    "ui_notes": "〜に対（たい）して",
+    "ui_notes": "Cara membentuk: (1) Kata benda + に対して (terhadap). Contoh: 生徒 (seito) → 生徒に対して (terhadap murid). (2) Kata benda + に対して (kontras). Contoh: 長男 (chounan) → まじめな長男に対して (berbeda dengan anak sulung yang rajin). (3) Kata benda + に対する + kata benda. Contoh: 質問 (shitsumon) → 質問に対する答え (jawaban terhadap pertanyaan). Contoh pemakaian: 田中先生は、生徒に対して厳しい (Tanaka sensei bersikap tegas terhadap murid-muridnya). まじめな長男に対して、次男は遊んでばかりで学校もよく休む (berbeda dengan anak sulung yang rajin, anak kedua main melulu dan sering bolos sekolah). Kata penghubung それに対して: 兄はまじめだ。それに対して、弟は遊んでばかりだ (kakak rajin. Sebaliknya, adik main melulu). Perbedaan dengan 〜について: 〜について = tentang (topik), 〜に対して = terhadap (sikap/tindakan) atau berbeda dengan (kontras).",
     "examples": [
       {
         "jp": "田中先生は、生徒に対して厳しい。",

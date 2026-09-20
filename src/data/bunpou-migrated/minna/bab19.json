@@ -3,163 +3,116 @@
     "id": "m_bab19_1",
     "chapter": "Bab 19",
     "level": "N5",
-    "title": "ABentuk た",
-    "meaning": "Bentuk konjugasi Kata Kerja yang berakhir dengan た atau だ disebut bentuk た. Cara membuat bentuk た adalah て atau で dari bentuk て diubah menjadi た atau だ.",
-    "formula_template": "Bentuk て / で -> Bentuk た / だ",
-    "variables": {},
-    "ai_instruction": "Gunakan pola 'Bentuk て / で -> Bentuk た / だ' untuk menyatakan: Bentuk konjugasi Kata Kerja yang berakhir dengan た atau だ disebut bentuk た. Cara membuat bentuk た adalah て ata.",
-    "ui_notes": "Ini adalah dasar untuk membentuk pola kalimat pengalaman atau aktivitas acak di waktu lampau.",
+    "title": "Bentuk た (Bentuk Lampau Kasual / Ta-Kei)",
+    "meaning": "Bentuk 'た' (Ta) adalah versi kasual (informal/biasa) dari bentuk lampau '-ました' (Mashita). Berfungsi untuk menyatakan suatu aksi/kejadian yang murni telah rampung terjadi di masa lalu.",
+    "formula_template": "[Konjugasi identik dengan Bentuk て]",
+    "ui_notes": "RUMUS CEPAT: Konjugasi/perubahan bentuk 'た' ini 100% KEMBAR IDENTIK dengan pola Bentuk 'て' (Te) di Pelajaran 14. Anda cukup mengganti akhiran 'て' menjadi 'た', dan akhiran 'で' menjadi 'だ'. \nContoh:\n- 買います -> 買って -> 買った (Telah membeli)\n- 飲みます -> 飲んで -> 飲んだ (Telah minum)\n- 見ます -> 見て -> 見た (Telah melihat)",
     "examples": [
       {
-        "jp": "かいて -> かいた",
-        "id": "menulis -> telah menulis"
+        "jp": "書きます -> 書いて -> 書いた",
+        "id": "Telah menulis (Gol 1)"
       },
       {
-        "jp": "のんで -> のんだ",
-        "id": "minum -> telah minum"
+        "jp": "急ぎます -> 急いで -> 急いだ",
+        "id": "Telah bergegas (Gol 1)"
+      },
+      {
+        "jp": "食べます -> 食べて -> 食べた",
+        "id": "Telah makan (Gol 2)"
+      },
+      {
+        "jp": "来ます -> 来て -> 来た",
+        "id": "Telah datang (Gol 3)"
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Bentuk Lampau Biasa"
+      "Konjugasi",
+      "Lampau Kasual"
     ]
   },
   {
     "id": "m_bab19_2",
     "chapter": "Bab 19",
     "level": "N5",
-    "title": "ABentuk た ことが あります",
-    "meaning": "Ungkapan ini digunakan untuk menyatakan pengalaman di waktu lampau yang pernah dilakukan (berarti \"Pernah...\").",
-    "formula_template": "{A} ことが あります",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ことが あります' untuk menyatakan: Ungkapan ini digunakan untuk menyatakan pengalaman di waktu lampau yang pernah dilakukan (berarti \"Pernah...\"). Pastikan 'A' mewakili Kata Kerja (Bentuk た).",
-    "ui_notes": "Jika hanya menyatakan kenyataan pada waktu lampau di titik waktu tertentu (misal: 'Tahun lalu berkuda'), tidak memakai pola ini, melainkan memakai bentuk waktu lampau biasa (～ました).",
+    "title": "〜た ことが あります (Pernah / Pengalaman)",
+    "meaning": "Pola kalimat elegan yang digunakan khusus untuk mendeklarasikan sebuah PENGALAMAN MASA LALU: bahwa seseorang 'Pernah' (memiliki track record) melakukan suatu tindakan, sekecil apapun probabilitasnya.",
+    "formula_template": "[Kata Kerja Bentuk た] ことが あります",
+    "ui_notes": "PERINGATAN KERAS: Jangan gunakan pola ini untuk melaporkan rutinitas masa lalu yang biasa dan membosankan (Contoh SALAH: 'Saya pernah makan siang kemarin'). Pola ini eksklusif dipakai untuk menceritakan pengalaman bernilai/spesial (seperti pergi ke luar negeri, mencoba wahana ekstrem, dsb).",
     "examples": [
       {
         "jp": "馬に 乗った ことが あります。",
-        "id": "Pernah berkuda."
+        "id": "(Saya) PERNAH berkuda."
       },
       {
-        "jp": "北海道へ 行った ことが ありますか。……はい、一度 あります。2年まえに 友達と 行きました。",
-        "id": "Apakah pernah pergi ke Hokkaido? ……Ya, pernah satu kali. Dua tahun yang lalu, pergi dengan teman."
+        "jp": "北海道へ 行った ことが ありますか。",
+        "id": "APAKAH (Anda) PERNAH pergi ke Hokkaido?"
+      },
+      {
+        "jp": "……はい、1度 あります。",
+        "id": "……Ya, pernah satu kali."
+      },
+      {
+        "jp": "……いいえ、1度も ありません。",
+        "id": "……Tidak, BELUM PERNAH (sama sekali)."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Pengalaman"
+      "Pengalaman",
+      "Pernah"
     ]
   },
   {
     "id": "m_bab19_3",
     "chapter": "Bab 19",
     "level": "N5",
-    "title": "A Bentuk たり、B Bentuk たり します",
-    "meaning": "Digunakan untuk mengangkat/menyebutkan beberapa aksi atau kegiatan secara acak sebagai contoh yang mewakili dari sekian banyak kegiatan. Waktu terjadinya (sekarang/lampau) ditunjukkan pada akhir kalimat (します / しました).",
-    "formula_template": "{A} り、{B} り します/しました",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} り、{B} り します/しました' untuk menyatakan: Digunakan untuk mengangkat/menyebutkan beberapa aksi atau kegiatan secara acak sebagai contoh yang mewakili da. Pastikan 'A' mewakili Kata Kerja1 (Bentuk た), 'B' mewakili Kata Kerja2 (Bentuk た).",
-    "ui_notes": "Berbeda dengan Kata Kerja Bentuk て (pelajaran 16) yang menyatakan aksi berurutan sesuai waktu. Pada pola たり, tidak ada urutan waktu. Tidak wajar digunakan untuk hal rutin sehari-hari (bangun, makan, tidur).",
+    "title": "〜たり、〜たり します (Melakukan X, Y, dsb)",
+    "meaning": "Berbeda dengan 'て' yang wajib berurutan, pola '〜たり' dipakai untuk mencontohkan DUA ATAU LEBIH AKSI SECARA ACAK, yang sengaja diambil untuk mewakili sekumpulan aktivitas besar Anda tanpa memedulikan kronologi waktu.",
+    "formula_template": "[Bentuk た] り、[Bentuk た] り、します / しました",
+    "ui_notes": "SANGAT PENTING: Aksi penutup di buntut kalimat ini WAJIB SELALU dikunci dengan 'します' (jika membicarakan kebiasaan saat ini/depan) atau 'しました' (jika menceritakan pengalaman liburan masa lalu).",
     "examples": [
       {
         "jp": "日曜日は テニスを したり、映画を 見たり します。",
-        "id": "Pada hari Minggu bermain tenis, dan menonton film."
+        "id": "Pada hari Minggu (rutinitas harian), (saya sering kali melakukan X lalu Y) BERMAIN TENIS, dan MENONTON FILM."
       },
       {
         "jp": "日曜日は テニスを したり、映画を 見たり しました。",
-        "id": "Pada hari Minggu yang lalu bermain tenis, dan menonton film."
+        "id": "Pada hari Minggu (YANG LALU), (waktu itu saya sibuk) BERMAIN TENIS, dan MENONTON FILM."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Kegiatan Acak/Contoh"
+      "Aktivitas Acak",
+      "Penyebutan Contoh"
     ]
   },
   {
     "id": "m_bab19_4",
     "chapter": "Bab 19",
     "level": "N5",
-    "title": "～く／～に なります",
-    "meaning": "Kata kerja なります menunjuk pada perubahan kondisi atau keadaan. Berarti \"Menjadi...\".",
-    "formula_template": "{A} なります | {B} なります | {C} に なります",
-    "variables": {
-      "A": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} なります | {B} なります | {C} に なります' untuk menyatakan: Kata kerja なります menunjuk pada perubahan kondisi atau keadaan. Berarti \"Menjadi...\".. Pastikan 'A' mewakili Kata Sifat い (~い -> ~く), 'B' mewakili Kata Sifat な (~な -> ~に), 'C' mewakili Kata Benda.",
-    "ui_notes": "Kata kerja なります menunjuk pada perubahan kondisi atau keadaan. Berarti \"Menjadi...\".",
+    "title": "〜に なります / 〜く なります (Menjadi / Perubahan)",
+    "meaning": "Pola ini mengekspresikan 'Perubahan Kondisi' atau 'Transisi Fase' pada suatu objek, yang padanannya dalam bahasa Indonesia adalah kata 'Menjadi...'. Paling sering digunakan untuk menceritakan cuaca, umur, atau progres penyembuhan.",
+    "formula_template": "[Benda / Sifat-na] に なります // [Sifat-i (buang い)] く なります",
+    "ui_notes": "Aturan penggabungan:\n- Kata Sifat-i: Buang 'い' terakhir, ganti dengan 'く なります' (寒い -> 寒くなります).\n- Kata Sifat-na & Kata Benda: Langsung tempelkan 'に なります' di belakangnya (元気 -> 元気になります / 25歳 -> 25歳になります).",
     "examples": [
       {
-        "jp": "寒い → 寒く なります",
-        "id": "menjadi dingin"
+        "jp": "寒く なります。",
+        "id": "MENJADI (semakin) dingin."
       },
       {
-        "jp": "元気［な］ → 元気に なります",
-        "id": "menjadi sehat"
+        "jp": "元気に なります。",
+        "id": "MENJADI (kembali) sehat."
+      },
+      {
+        "jp": "25歳に なります。",
+        "id": "MENJADI (berusia) 25 tahun."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Perubahan Kondisi"
+      "Perubahan Kondisi",
+      "Transisi"
     ]
   }
 ]

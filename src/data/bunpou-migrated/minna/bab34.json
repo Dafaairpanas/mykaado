@@ -3,247 +3,100 @@
     "id": "m_bab34_1",
     "chapter": "Bab 34",
     "level": "N4",
-    "title": "A形／辞書形 ＋ とおりに、B",
-    "meaning": "Menyatakan bahwa melakukan Kata Kerja 2 dengan keadaan atau cara yang sama dengan Kata Kerja 1 (Sesuai dengan / Seperti yang).",
-    "formula_template": "{A} とおりに、{B}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} とおりに、{B}' untuk menyatakan: Menyatakan bahwa melakukan Kata Kerja 2 dengan keadaan atau cara yang sama dengan Kata Kerja 1 (Sesuai dengan . Pastikan 'A' mewakili Kata Kerja 1 (Bentuk た / Bentuk Kamus), 'B' mewakili Kata Kerja 2.",
-    "ui_notes": "Menyatakan bahwa melakukan Kata Kerja 2 dengan keadaan atau cara yang sama dengan Kata Kerja 1 (Sesuai dengan / Seperti yang).",
+    "title": "〜と おりに (Sesuai dengan... / Persis seperti...)",
+    "meaning": "Pola ini digunakan untuk menyatakan suatu tindakan yang dilakukan dengan cara, bentuk, atau urutan yang meniru persis sesuai dengan standar atau contoh yang disebutkan di awal.",
+    "formula_template": "[K.Kerja Bentuk た / Kamus] とおりに、 / [Kata Benda + の] とおりに、",
+    "ui_notes": "Catatan Partikel 'の':\nJika disandingkan dengan kata tunjuk langsung seperti (この / その / あの), partikel 'の' tidak boleh dipakai. Langsung gabungkan saja menjadi: 'この とおりに' (Sesuai persis seperti ini).",
     "examples": [
       {
-        "jp": "わたしがやったとおりに、やってください。",
-        "id": "Silakan lakukan sama seperti yang saya buat!"
+        "jp": "わたしが やった とおりに、やって ください。",
+        "id": "Silakan lakukan persis seperti yang telah saya contohkan."
       },
       {
-        "jp": "見たとおりに、話してください。",
-        "id": "Silakan berbicara sama seperti yang Anda lihat!"
+        "jp": "見た とおりに、話して ください。",
+        "id": "Tolong ceritakanlah sesuai persis dengan apa yang kamu lihat."
+      },
+      {
+        "jp": "線の とおりに、紙を 切って ください。",
+        "id": "Silakan gunting kertasnya sesuai dengan (jalur) garis."
+      },
+      {
+        "jp": "説明書の とおりに、組み立てました。",
+        "id": "(Saya) telah merakitnya sesuai dengan buku petunjuk."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Kesamaan Cara/Keadaan"
+      "Sesuai Standar",
+      "Meniru Persis"
     ]
   },
   {
     "id": "m_bab34_2",
     "chapter": "Bab 34",
     "level": "N4",
-    "title": "A の ＋ とおりに、B",
-    "meaning": "Menyatakan hal yang melakukan aksi tanpa terlepas dari standar yang ditunjuk oleh Kata Benda (Sesuai dengan).",
-    "formula_template": "{A} の とおりに、{B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} の とおりに、{B}' untuk menyatakan: Menyatakan hal yang melakukan aksi tanpa terlepas dari standar yang ditunjuk oleh Kata Benda (Sesuai dengan).. Pastikan 'A' mewakili Kata Benda, 'B' mewakili Kata Kerja.",
-    "ui_notes": "Kata とおり adalah Kata Benda, maka langsung menyertai Kata Tunjuk seperti この, その, あの untuk menyatakan bermaksud keadaan atau cara yang sama (contoh: このとおりに、書いてください = Silakan tulis sama seperti ini!).",
+    "title": "〜あとで (Setelah... / Pasca kejadian)",
+    "meaning": "Pola ini digunakan untuk menegaskan kronologi waktu bahwa suatu aksi (B) hanya dilakukan setelah aksi pertama (A) telah selesai sepenuhnya.",
+    "formula_template": "[Kata Kerja Bentuk た] あとで、 / [Kata Benda + の] あとで、",
+    "ui_notes": "Perbedaan dengan 'てから' (Bab 16):\nPola 'てから' sering mengandung nuansa urutan logis persiapan (Misal: Sikat gigi dulu, baru tidur). Sedangkan 'あとで' murni berfokus pada urutan waktu 'sebelum dan sesudah' kejadian. Pada pola 'あとで', kata kerja yang mengikutinya harus selalu dalam Bentuk 'た' (Lampau/Selesai).",
     "examples": [
       {
-        "jp": "線のとおりに、紙を切ってください。",
-        "id": "Silakan menggunting kertas sesuai dengan garis!"
+        "jp": "新しいのを 買った あとで、なくした 時計が 見つかりました。",
+        "id": "Setelah selesai membeli (jam) yang baru, jam tangan yang hilang kemarin malah ketemu."
       },
       {
-        "jp": "説明書のとおりに、組み立てました。",
-        "id": "(Saya) Memasang sesuai dengan petunjuk."
+        "jp": "仕事の あとで、飲みに 行きませんか。",
+        "id": "Setelah pekerjaan selesai, maukah pergi minum bersama?"
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Kesesuaian Standar"
+      "Urutan Waktu",
+      "Setelah"
     ]
   },
   {
     "id": "m_bab34_3",
     "chapter": "Bab 34",
     "level": "N4",
-    "title": "A形／B の ＋ あとで、C",
-    "meaning": "Menyatakan bahwa Kata Kerja 2 terjadi setelah Kata Kerja 1, atau setelah Kata Benda.",
-    "formula_template": "{A} / {B} の あとで、{C}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "C": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} / {B} の あとで、{C}' untuk menyatakan: Menyatakan bahwa Kata Kerja 2 terjadi setelah Kata Kerja 1, atau setelah Kata Benda.. Pastikan 'A' mewakili Kata Kerja 1 (Bentuk た), 'B' mewakili Kata Benda, 'C' mewakili Kata Kerja 2.",
-    "ui_notes": "Jika dibandingkan dengan Kata Kerja Bentuk てから, menggunakan あとで lebih memfokuskan hubungan waktu yang pra dan pasca (urutan murni), tanpa nuansa bahwa Kata Kerja 1 adalah dasar pikiran atau aksi persiapan untuk Kata Kerja 2.",
+    "title": "〜て / 〜ないで (Dengan Menyertakan... / Tanpa Menyertakan...)",
+    "meaning": "Pola ini menyatakan status atau kondisi penyerta pada saat melakukan suatu aksi utama. Pertanyaannya adalah apakah aksi tersebut dilakukan dengan menyertakan (Bentuk て) hal lain, atau tanpa menyertakan (Bentuk ないで) hal tersebut.",
+    "formula_template": "[Aksi/Kondisi Penyerta (Bentuk て / ないで)] + [Aksi Utama]",
+    "ui_notes": "Bisa diumpamakan seperti makan makanan: memakannya 'dengan' menambahkan saus (Bentuk て), atau memakannya 'tanpa' menambahkan saus sama sekali (Bentuk ないで).",
     "examples": [
       {
-        "jp": "新しいのを買ったあとで、なくした時計が見つかりました。",
-        "id": "Setelah membeli yang baru, ditemukan arloji yang hilang."
+        "jp": "しょうゆを つけて 食べます。",
+        "id": "Saya memakannya dengan mencelupkan ke kecap asin."
       },
       {
-        "jp": "仕事のあとで、飲みにいきませんか。",
-        "id": "Setelah selesai bekerja, bagaimana kalau pergi minum?"
+        "jp": "しょうゆを つけないで 食べます。",
+        "id": "Saya memakannya tanpa mencelupkannya ke kecap asin sama sekali."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Urutan Waktu (Setelah)"
+      "Kondisi Pelengkap",
+      "Tanpa / Dengan"
     ]
   },
   {
     "id": "m_bab34_4",
     "chapter": "Bab 34",
     "level": "N4",
-    "title": "A形／ない形ないで ＋ B",
-    "meaning": "Kata Kerja 1 menyatakan kondisi/keadaan yang menyertai Kata Kerja 2. Misalnya, menjelaskan apakah aksi utama dilakukan DENGAN memakai kecap asin (Bentuk て) atau TANPA memakai kecap asin (Bentuk ないで).",
-    "formula_template": "{A} / {B} {C}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "C": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} / {B} {C}' untuk menyatakan: Kata Kerja 1 menyatakan kondisi/keadaan yang menyertai Kata Kerja 2. Misalnya, menjelaskan apakah aksi utama d. Pastikan 'A' mewakili Kata Kerja 1 (Bentuk て), 'B' mewakili Kata Kerja 1 (Bentuk ない + で), 'C' mewakili Kata Kerja 2.",
-    "ui_notes": "Aksi dari unsur pokok kalimat adalah Kata Kerja 2.",
+    "title": "〜ないで (Menolak Satu Pilihan untuk Pilihan Lain)",
+    "meaning": "Pola 'ないで' juga memiliki makna kedua, yaitu untuk membatalkan/menolak satu opsi demi melakukan opsi yang lain. Digunakan saat dihadapkan pada dua pilihan tindakan yang tidak bisa dilakukan bersamaan.",
+    "formula_template": "[Opsi Tertolak (Bentuk ないで)]、 [Opsi Terpilih]",
+    "ui_notes": "Pola ini cocok diterjemahkan menjadi: \"Daripada melakukan A, lebih baik saya melakukan B\" atau \"Saya tidak melakukan A, melainkan memilih melakukan B\".",
     "examples": [
       {
-        "jp": "しょうゆをつけて食べます。",
-        "id": "Makan dibubuhkan kecap asin."
-      },
-      {
-        "jp": "しょうゆをつけないで食べます。",
-        "id": "Makan tanpa kecap asin."
+        "jp": "日曜日は どこも 行かないで、うちで ゆっくり 休みます。",
+        "id": "Hari Minggu ini saya (memilih) tidak pergi ke mana-mana, melainkan beristirahat santai di rumah."
       }
     ],
     "tags": [
       "N4",
-      "Kata Kerja",
-      "Kondisi Penyerta"
-    ]
-  },
-  {
-    "id": "m_bab34_5",
-    "chapter": "Bab 34",
-    "level": "N4",
-    "title": "Aないで ＋ B (CAlternatif)",
-    "meaning": "Terdapat pula cara penggunaan untuk menyatakan memilih salah satunya di antara aksi yang tidak dapat dilakukan secara bersamaan (Membatalkan Kata Kerja 1, lalu melakukan Kata Kerja 2).",
-    "formula_template": "{A}、{B}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}、{B}' untuk menyatakan: Terdapat pula cara penggunaan untuk menyatakan memilih salah satunya di antara aksi yang tidak dapat dilakukan. Pastikan 'A' mewakili Kata Kerja 1 (Bentuk ない + で), 'B' mewakili Kata Kerja 2.",
-    "ui_notes": "Terdapat pula cara penggunaan untuk menyatakan memilih salah satunya di antara aksi yang tidak dapat dilakukan secara bersamaan (Membatalkan Kata Kerja 1, lalu melakukan Kata Kerja 2).",
-    "examples": [
-      {
-        "jp": "日曜日はどこも行かないで、うちでゆっくり休みます。",
-        "id": "Hari Minggu tidak pergi ke mana-mana, tetapi beristirahat santai-santai di rumah."
-      }
-    ],
-    "tags": [
-      "N4",
-      "Kata Kerja",
-      "Alternatif Tindakan"
+      "Pemilihan Opsi",
+      "Daripada"
     ]
   }
 ]

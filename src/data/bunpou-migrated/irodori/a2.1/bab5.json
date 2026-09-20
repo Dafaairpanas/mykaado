@@ -1,0 +1,93 @@
+[
+  {
+    "id": "irodori_a2.1_bab5_1",
+    "chapter": 5,
+    "level": "A2.1",
+    "title": "N で、～ / [ナA]-で、～ / [イA]-くて、～",
+    "meaning": "[Kalimat 1], dan [Kalimat 2] (Penyambungan sejajar)",
+    "formula_template": "Kata Benda / Kata Sifat-ナ で, ～ ATAU Kata Sifat-イ くて, ～",
+    "ui_notes": "Berikut adalah cara menggabungkan dua kalimat yang memiliki hubungan setara / sejajar (misalnya dua hal positif atau dua hal negatif).\n\n* **Kata Benda (N) & Kata Sifat-ナ**: Gunakan **～で**.\n* **Kata Sifat-イ**: Ubah akhiran **い** menjadi **～くて**.",
+    "examples": [
+      {
+        "japanese": "この町は、とてもにぎやかで、便利です。",
+        "indonesian": "Kota ini sangat ramai dan praktis.",
+        "romaji": "Kono machi wa, totemo nigiyaka de, benri desu."
+      },
+      {
+        "japanese": "ここは田舎で、のんびりしています。",
+        "indonesian": "Di sini adalah kampung dan semuanya santai.",
+        "romaji": "Koko wa inaka de, nonbiri shite imasu."
+      },
+      {
+        "japanese": "この辺は緑が多くて、静かでいいですね。",
+        "indonesian": "Di sekitar sini sangat asri, sepi, dan menyenangkan, ya.",
+        "romaji": "Kono hen wa midori ga ookute, shizuka de ii desu ne."
+      },
+      {
+        "japanese": "この町はバスが少なくて、ちょっと不便です。",
+        "indonesian": "Kota ini jumlah busnya sedikit, agak kurang praktis.",
+        "romaji": "Kono machi wa basu ga sukunakute, chotto fuben desu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 5", "penyambung kalimat", "te-form"]
+  },
+  {
+    "id": "irodori_a2.1_bab5_2",
+    "chapter": 5,
+    "level": "A2.1",
+    "title": "N だけど、～ / [ナA]-だけど、～ / [イA]-い けど、～",
+    "meaning": "[Kalimat 1], tapi [Kalimat 2] (Perlawanan)",
+    "formula_template": "Kata Benda / Kata Sifat-ナ + だけど, ～ ATAU Kata Sifat-イ + けど, ～",
+    "ui_notes": "Partikel **けど** digunakan untuk menggabungkan dua kalimat yang saling berlawanan (misalnya satu hal positif dan satu hal negatif).\n\n* **Kata Benda (N) & Kata Sifat-ナ**: Gunakan **～だけど**.\n* **Kata Sifat-イ**: Langsung tambahkan **～いけど**.",
+    "examples": [
+      {
+        "japanese": "たちばな公園は、場所は不便だけど、きれいですよ。",
+        "indonesian": "Lokasi Taman Tachibana agak kurang praktis, tapi indah, lho.",
+        "romaji": "Tachibana kouen wa, basho wa fuben dakedo, kirei desu yo."
+      },
+      {
+        "japanese": "都会だけど、緑が多いですね。",
+        "indonesian": "Ini kota besar, tapi sangat asri, ya?",
+        "romaji": "Tokai dakedo, midori ga ooi desu ne."
+      },
+      {
+        "japanese": "この辺りは静かだけど、ちょっと不便です。",
+        "indonesian": "Di sekitar sini memang tenang, tapi agak kurang praktis.",
+        "romaji": "Kono atari wa shizuka dakedo, chotto fuben desu."
+      },
+      {
+        "japanese": "ここからちょっと遠いけど、バスがあります。",
+        "indonesian": "Ada bus dari sini, tapi tempatnya agak jauh.",
+        "romaji": "Koko kara chotto tooi kedo, basu ga arimasu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 5", "kedo", "tetapi"]
+  },
+  {
+    "id": "irodori_a2.1_bab5_3",
+    "chapter": 5,
+    "level": "A2.1",
+    "title": "V-ることができます",
+    "meaning": "Bisa / Dapat [Melakukan Sesuatu di Suatu Tempat/Kondisi]",
+    "formula_template": "V-る (Kamus) + ことが + できます",
+    "ui_notes": "Pada materi ini, **できます（できる）** digunakan untuk menjelaskan bahwa **sesuatu dapat dilakukan pada suatu tempat/kondisi tertentu** (misalnya di tempat wisata).\n\n* ⚠️ Jangan tertukar dengan penggunaan **できます** untuk menyatakan *kemampuan pribadi* seseorang (seperti: *Saya bisa bahasa Jepang*).\n* Karena yang dilakukan adalah aktivitas (kata kerja), kamu harus mengubahnya menjadi kata benda dengan menambahkan **こと** di belakang kata kerja bentuk kamus.",
+    "examples": [
+      {
+        "japanese": "一年中、いろいろな花を見ることができます。",
+        "indonesian": "Kita bisa melihat berbagai bunga sepanjang tahun.",
+        "romaji": "Ichinenjuu, iroiro na hana o miru koto ga dekimasu."
+      },
+      {
+        "japanese": "この店では、地元の料理を食べることができます。",
+        "indonesian": "Pada restoran ini kita bisa menyantap masakan daerah setempat.",
+        "romaji": "Kono mise de wa, jimoto no ryouri o taberu koto ga dekimasu."
+      },
+      {
+        "japanese": "丘の上から海と町を見渡すことができます。",
+        "indonesian": "Kita dapat memandang laut dan kota dari atas bukit.",
+        "romaji": "Oka no ue kara umi to machi o miwatasu koto ga dekimasu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 5", "koto ga dekimasu", "bisa", "kemungkinan"]
+  }
+]

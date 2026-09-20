@@ -3,213 +3,152 @@
     "id": "m_bab09_1",
     "chapter": "Bab 09",
     "level": "N5",
-    "title": "Aが あります／わかります | Bが 好きです／嫌いです／上手です／下手です",
-    "meaning": "Sebagian Kata Kerja (seperti mengerti, punya) atau Kata Sifat (seperti suka, benci, pandai, kurang pandai) menunjukkan objeknya dengan partikel が, bukan を.",
-    "formula_template": "{A} が (わかります/あります/好きです/嫌いです/上手です/下手です)",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} が (わかります/あります/好きです/嫌いです/上手です/下手です)' untuk menyatakan: Sebagian Kata Kerja (seperti mengerti, punya) atau Kata Sifat (seperti suka, benci, pandai, kurang pandai) men. Pastikan 'A' mewakili Kata Benda.",
-    "ui_notes": "Sebagian Kata Kerja (seperti mengerti, punya) atau Kata Sifat (seperti suka, benci, pandai, kurang pandai) menunjukkan objeknya dengan partikel が, bukan を.",
+    "title": "Benda が [Suka / Benci / Mahir]",
+    "meaning": "Pada beberapa kosakata khusus (terutama yang menggambarkan preferensi, kebisaan, atau kepemilikan), objek sasarannya TIDAK DITANDAI dengan partikel 'を', melainkan menggunakan partikel 'が'.",
+    "formula_template": "[Topik] は [Benda/Sasaran] が [好きです/嫌いです/上手です/下手です]",
+    "ui_notes": "Hafalkan bahwa pola ini khusus berpasangan dengan kata-kata berikut: Suka (好き / suki), Benci (嫌い / kirai), Pintar/Mahir (上手 / jouzu), Bodoh/Payah (下手 / heta), Mengerti/Paham (わかります / wakarimasu), dan Memiliki/Ada (あります / arimasu). Semuanya memakai 'が'.",
     "examples": [
       {
         "jp": "わたしは イタリア料理が 好きです。",
-        "id": "Saya suka masakan Italia."
+        "id": "Saya suka masakan Italia. (Bukan イタリア料理を)"
       },
       {
         "jp": "わたしは 日本語が わかります。",
         "id": "Saya mengerti bahasa Jepang."
+      },
+      {
+        "jp": "わたしは 車が あります。",
+        "id": "Saya memiliki (ada) mobil."
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Objek Khusus"
+      "Preferensi"
     ]
   },
   {
     "id": "m_bab09_2",
     "chapter": "Bab 09",
     "level": "N5",
-    "title": "どんな A",
-    "meaning": "Digunakan untuk menanyakan kategori atau jenis yang lebih spesifik dari suatu kelompok benda/hal.",
-    "formula_template": "どんな {A}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'どんな {A}' untuk menyatakan: Digunakan untuk menanyakan kategori atau jenis yang lebih spesifik dari suatu kelompok benda/hal.. Pastikan 'A' mewakili Kata Benda (Umum).",
-    "ui_notes": "Selain cara menjawab yang telah dipelajari pada Pelajaran 8, dapat dijawab juga dengan memberikan nama secara kongkret.",
+    "title": "どんな Benda (Tanya Kategori Spesifik)",
+    "meaning": "Melanjutkan fungsi bab sebelumnya, pertanyaan 'どんな' (Yang bagaimana/apa?) yang ditanyakan dalam konteks selera/hobi dapat dijawab tidak hanya dengan kata sifat, melainkan dengan menyebutkan entitas konkrit di bawah kategori tersebut.",
+    "formula_template": "どんな [Kategori] が 好きですか",
+    "ui_notes": "Jika ditanya 'どんな スポーツ' (Olahraga yang bagaimana?), Anda tidak harus menjawab 'Olahraga yang menyenangkan', melainkan bisa langsung menyebut jenisnya (Sepak bola).",
     "examples": [
       {
-        "jp": "どんな スポーツが 好きですか。……サッカーが 好きです。",
-        "id": "Suka olahraga apa? ……Suka sepak bola."
+        "jp": "どんな スポーツが 好きですか。",
+        "id": "Suka olahraga (yang/jenis) apa?"
+      },
+      {
+        "jp": "……サッカーが 好きです。",
+        "id": "……Suka sepak bola."
       }
     ],
     "tags": [
       "N5",
       "Kata Tanya",
-      "Jenis/Kategori"
+      "Kategori"
     ]
   },
   {
     "id": "m_bab09_3",
     "chapter": "Bab 09",
     "level": "N5",
-    "title": "よく／だいたい／たくさん／少し／あまり／全然",
-    "meaning": "Kata Keterangan yang diletakkan di depan Kata Kerja untuk menerangkan tingkat atau kuantitasnya. よく (dengan baik), だいたい (kira-kira/sebagian besar), たくさん (banyak), dan 少し (sedikit) digunakan pada kalimat positif. あまり (tidak begitu) dan 全然 (tidak sama sekali) digunakan pada kalimat negatif.",
-    "formula_template": "Kata Keterangan {A}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'Kata Keterangan {A}' untuk menyatakan: Kata Keterangan yang diletakkan di depan Kata Kerja untuk menerangkan tingkat atau kuantitasnya. よく (dengan ba. Pastikan 'A' mewakili Kata Kerja (Positif/Negatif sesuai keterangan).",
-    "ui_notes": "すこし, ぜんぜん, dan あまり juga dapat menerangkan Kata Sifat (Contoh: ここは 少し 寒いです - Di sini sedikit dingin).",
+    "title": "Kata Keterangan Kuantitas & Tingkat",
+    "meaning": "Kelompok kata keterangan yang diletakkan di depan Kata Kerja (seperti わかります atau あります) atau Kata Sifat untuk menjelaskan tingkatan seberapa banyak/paham.",
+    "formula_template": "[Keterangan] [Kata Kerja/Kata Sifat]",
+    "ui_notes": "Tingkat positif: よく (dengan baik), だいたい (secara garis besar), たくさん (banyak), 少し (sedikit). \nTingkat negatif (WAJIB + ません): あまり (tidak begitu), ぜんぜん (sama sekali tidak).",
     "examples": [
       {
         "jp": "英語が よく わかります。",
-        "id": "Mengerti bahasa Inggris dengan baik."
+        "id": "Mengerti bahasa Inggris dengan baik (sangat paham)."
       },
       {
         "jp": "英語が 少し わかります。",
         "id": "Mengerti bahasa Inggris sedikit."
+      },
+      {
+        "jp": "英語が あまり わかりません。",
+        "id": "Tidak begitu mengerti bahasa Inggris."
+      },
+      {
+        "jp": "お金が 全然 ありません。",
+        "id": "Sama sekali tidak ada uang."
+      },
+      {
+        "jp": "あの 映画は 全然 おもしろくないです。",
+        "id": "Film itu sama sekali tidak menarik. (ぜんぜん menerangkan kata sifat)"
       }
     ],
     "tags": [
       "N5",
-      "Kata Keterangan",
-      "Tingkat/Kuantitas"
+      "Keterangan",
+      "Kuantitas"
     ]
   },
   {
     "id": "m_bab09_4",
     "chapter": "Bab 09",
     "level": "N5",
-    "title": "～から、～",
-    "meaning": "Hal yang dinyatakan di depan から merupakan alasan dari kalimat yang dinyatakan di belakangnya. (Karena..., maka...).",
-    "formula_template": "{A} (Alasan) から、 {B} (Hasil/Kesimpulan)",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} (Alasan) から、 {B} (Hasil/Kesimpulan)' untuk menyatakan: Hal yang dinyatakan di depan から merupakan alasan dari kalimat yang dinyatakan di belakangnya. (Karena..., maka. Pastikan 'A' mewakili Kalimat 1, 'B' mewakili Kalimat 2.",
-    "ui_notes": "Bisa juga digunakan dengan menyebutkan kesimpulan/hasilnya dulu, lalu menambahkan alasan di kalimat berikutnya berakhiran から.",
+    "title": "〜から (Karena / Sebab)",
+    "meaning": "Partikel 'から' (kara) yang diletakkan di akhir sebuah klausa atau kalimat utuh berfungsi sebagai penanda alasan (Karena / Sebab).",
+    "formula_template": "[Kalimat Alasan] から、[Kalimat Akibat]",
+    "ui_notes": "PENTING: Struktur penalaran Jepang berkebalikan dengan bahasa Indonesia. Anda menyebutkan alasannya terlebih dahulu (diakhiri から), kemudian baru menyebutkan hasil/akibatnya di belakang. Dalam bahasa lisan, boleh dibalik menjadi 'Akibat (titik). Sebabnya (から)'.",
     "examples": [
       {
         "jp": "時間が ありませんから、新聞を 読みません。",
-        "id": "Karena tidak ada waktu, tidak membaca surat kabar."
+        "id": "KARENA tidak ada waktu, (maka akibatnya) tidak membaca surat kabar."
       },
       {
-        "jp": "毎朝 新聞を 読みますか。……いいえ、読みません。時間が ありませんから。",
-        "id": "Apakah membaca surat kabar setiap pagi? ……Tidak, tidak membaca. Karena tidak ada waktu."
+        "jp": "毎朝 新聞を 読みますか。",
+        "id": "Apakah membaca surat kabar setiap pagi?"
+      },
+      {
+        "jp": "……いいえ、読みません。時間が ありませんから。",
+        "id": "……Tidak, tidak membaca. KARENA tidak ada waktu."
       }
     ],
     "tags": [
       "N5",
-      "Kata Sambung",
-      "Alasan"
+      "Alasan",
+      "Sebab Akibat"
     ]
   },
   {
     "id": "m_bab09_5",
     "chapter": "Bab 09",
     "level": "N5",
-    "title": "どうして",
-    "meaning": "どうして adalah Kata Tanya untuk menanyakan alasan (Mengapa/Kenapa?). Pada akhir kalimat jawaban dibubuhkan から untuk menyatakan alasannya.",
-    "formula_template": "Tanya: どうして {A}Tanya? | Jawab: {B}Alasan からです。",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'Tanya: どうして {A}Tanya? | Jawab: {B}Alasan からです。' untuk menyatakan: どうして adalah Kata Tanya untuk menanyakan alasan (Mengapa/Kenapa?). Pada akhir kalimat jawaban dibubuhkan から unt. Pastikan 'A' mewakili Kalimat, 'B' mewakili Kalimat.",
-    "ui_notes": "Jika menanyakan alasan dari hal yang dikatakan oleh lawan bicara secara langsung, cukup mengatakan 'どうしてですか' tanpa mengulangi kata-kata lawan bicara.",
+    "title": "どうして (Kenapa / Mengapa)",
+    "meaning": "'どうして' (Doushite) adalah kata tanya standar untuk menanyakan alasan terjadinya sesuatu (Mengapa / Kenapa). Jika ditanya dengan 'どうして', Anda wajib menjawab dengan diakhiri 'から'.",
+    "formula_template": "どうして [Kejadian] か",
+    "ui_notes": "Jika konteks alasannya sudah sangat jelas di antara pembicara, Anda tidak perlu mengulang kalimat kejadiannya, cukup potong dengan merespons \"どうしてですか\" (Mengapa begitu?).",
     "examples": [
       {
-        "jp": "どうして 朝 新聞を 読みませんか。……時間が ありませんから。",
-        "id": "Mengapa pada pagi hari tidak membaca surat kabar? ……Sebab tidak ada waktu."
+        "jp": "どうして 朝 新聞を 読みませんか。",
+        "id": "MENGAPA pada pagi hari tidak membaca surat kabar?"
       },
       {
-        "jp": "きょうは 早く 帰ります。……どうしてですか。……子どもの 誕生日ですから。",
-        "id": "Hari ini cepat pulang. ……Mengapa? ……Sebab hari ulang tahun anak."
+        "jp": "……時間が ありませんから。",
+        "id": "……KARENA tidak ada waktu."
+      },
+      {
+        "jp": "きょうは 早く 帰ります。",
+        "id": "Hari ini cepat pulang."
+      },
+      {
+        "jp": "……どうしてですか。",
+        "id": "……MENGAPA (begitu)?"
+      },
+      {
+        "jp": "……子どもの 誕生日ですから。",
+        "id": "……KARENA hari ulang tahun anak."
       }
     ],
     "tags": [
       "N5",
       "Kata Tanya",
-      "Menanyakan Alasan"
+      "Alasan"
     ]
   }
 ]

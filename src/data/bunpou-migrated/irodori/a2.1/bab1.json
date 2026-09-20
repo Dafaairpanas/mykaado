@@ -1,0 +1,110 @@
+[
+  {
+    "id": "irodori_a2.1_bab1_1",
+    "chapter": 1,
+    "level": "A2.1",
+    "title": "Bentuk Sopan; Bentuk Biasa / 丁寧体・普通体",
+    "meaning": "Bentuk Sopan dan Bentuk Biasa",
+    "formula_template": "",
+    "ui_notes": "Dalam bahasa Jepang terdapat dua ragam bahasa lisan, yaitu bentuk sopan dan bentuk biasa.\n\n* Apabila disertai **「です」** atau **「ます」** berarti bentuk sopan, dan apabila tanpa itu berarti bentuk biasa.\n* **Bentuk sopan (丁寧体)** digunakan saat berbicara dengan orang yang baru pertama ditemui, kurang akrab, atau atasan/orang yang usianya lebih tua.\n* **Bentuk biasa (普通体)** digunakan saat berbicara dengan teman, keluarga, orang akrab, atau bawahan/orang yang usianya lebih muda.\n\n⚠️ **Catatan Penting:** Menggunakan bentuk biasa kepada orang yang seharusnya ditanggapi dengan bentuk sopan akan terkesan kurang sopan, sedangkan menggunakan bentuk sopan terus-menerus kepada teman dekat bisa terkesan kaku/tidak akrab.",
+    "examples": [
+      {
+        "japanese": "お久しぶりです。お元気ですか？",
+        "indonesian": "Lama kita tidak bertemu. Bagaimana kabar Anda?",
+        "romaji": "Ohisashiburi desu. Ogenki desu ka?"
+      },
+      {
+        "japanese": "久しぶり。元気？",
+        "indonesian": "Lama nggak ketemu nih. Kamu sehat?",
+        "romaji": "Hisashiburi. Genki?"
+      },
+      {
+        "japanese": "Ａ： お久しぶりです。\nＢ： お久しぶりです。",
+        "indonesian": "A: Sudah lama kita tidak bertemu.\nB: Benar, sudah lama tidak bertemu ya.",
+        "romaji": "A: Ohisashiburi desu.\nB: Ohisashiburi desu."
+      },
+      {
+        "japanese": "Ａ： 久しぶり。\nＢ： ああ、久しぶり。",
+        "indonesian": "A: Lama ya kita nggak ketemu.\nB: Wah, sudah lama ya.",
+        "romaji": "A: Hisashiburi.\nB: Aa, hisashiburi."
+      },
+      {
+        "japanese": "Ａ： 久しぶり。\nＢ： お久しぶりです。",
+        "indonesian": "A: Lama ya kita nggak ketemu.\nB: Benar, sudah lama tidak bertemu ya.",
+        "romaji": "A: Hisashiburi.\nB: Ohisashiburi desu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 1", "bentuk sopan", "bentuk biasa"]
+  },
+  {
+    "id": "irodori_a2.1_bab1_2",
+    "chapter": 1,
+    "level": "A2.1",
+    "title": "【durasi waktu / 期間】になります",
+    "meaning": "Sudah [durasi waktu]",
+    "formula_template": "Durasi Waktu + になります",
+    "ui_notes": "Pola ini digunakan untuk menyatakan berlalunya waktu, sering kali saat menjawab pertanyaan sudah berapa lama melakukan sesuatu (misalnya sudah berapa lama berada di Jepang).\n\n* Biasa digunakan bersama kata rentang waktu seperti **～か月（げつ）** (bulan) dan **～年（ねん）** (tahun).\n* Untuk menunjukkan awal mula (titik awal) kejadian, kamu bisa menambahkan kata kerja bentuk-て di depannya, misalnya: **日本に来て～** (sejak datang ke Jepang...).",
+    "examples": [
+      {
+        "japanese": "日本に来て1年になります。",
+        "indonesian": "Sudah setahun saya di Jepang.",
+        "romaji": "Nihon ni kite ichinen ni narimasu."
+      },
+      {
+        "japanese": "Ａ： 日本に来て、どのぐらいになりますか？\nＢ： ちょうど半年です。",
+        "indonesian": "A: Sudah berapa lama Anda di Jepang?\nB: Tepat setengah tahun.",
+        "romaji": "A: Nihon ni kite, dono gurai ni narimasu ka?\nB: Choudo hantoshi desu."
+      },
+      {
+        "japanese": "仕事を始めて3か月になります。",
+        "indonesian": "Sudah 3 bulan saya bekerja.",
+        "romaji": "Shigoto o hajimete sankagetsu ni narimasu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 1", "waktu", "durasi"]
+  },
+  {
+    "id": "irodori_a2.1_bab1_3",
+    "chapter": 1,
+    "level": "A2.1",
+    "title": "【penanda waktu / 時点】（に）来ました",
+    "meaning": "Datang pada [waktu]",
+    "formula_template": "Penanda Waktu + (に) + 来ました",
+    "ui_notes": "Digunakan untuk menyatakan titik waktu terjadinya suatu peristiwa di masa lalu (contoh: kapan kamu datang ke Jepang).\n\n⚠️ **Perhatian:** Kata waktu relatif seperti **去年（きょねん）** (tahun lalu), **先月（せんげつ）** (bulan lalu), dan **先週（せんしゅう）** (minggu lalu) **tidak** ditambahkan partikel **に**.",
+    "examples": [
+      {
+        "japanese": "去年の9月に来ました。",
+        "indonesian": "Saya datang pada bulan September tahun lalu.",
+        "romaji": "Kyonen no kugatsu ni kimashita."
+      },
+      {
+        "japanese": "Ａ： いつ、日本に来ましたか？\nＢ： 先月、来ました。\nＣ： 私は、先週の日曜日に来ました。",
+        "indonesian": "A: Kapan Anda datang ke Jepang?\nB: Saya datang bulan lalu.\nC: Saya datang pada hari Minggu pekan lalu.",
+        "romaji": "A: Itsu, Nihon ni kimashita ka?\nB: Sengetsu, kimashita.\nC: Watashi wa, senshuu no nichiyoubi ni kimashita."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 1", "waktu"]
+  },
+  {
+    "id": "irodori_a2.1_bab1_4",
+    "chapter": 1,
+    "level": "A2.1",
+    "title": "V-ています ①",
+    "meaning": "Sedang [V] / Kondisi saat ini",
+    "formula_template": "V-て + います",
+    "ui_notes": "Digunakan untuk menjelaskan kondisi atau status pekerjaan kita saat ini.\n\n* Dalam percakapan, bunyi **い** dari **～ています** sering dilesapkan (tidak dibaca) sehingga menjadi **～てます**.\n* Bentuk biasa dari **～ています** adalah **～ている**. Bunyi **い** pada **～ている** juga sering dilesapkan menjadi **～てる**.\n\n### 💡 Recap: Pembagian Kelompok Verba\n\n| Kelompok | Penjelasan | Aturan Perubahan (Bentuk ます) |\n|---|---|---|\n| **1 (Grup 1)** | Berakhiran konsonan (sebelum ます bunyinya \"i\") | Bunyi **[-u]** di akhir bentuk kamus berubah jadi **[-i] + ます**. (Contoh: 働く → 働きます) |\n| **2 (Grup 2)** | Berakhiran vokal (sebelum ます bunyinya \"e\" atau 1 suku kata) | Akhiran **[-ru]** berubah menjadi **-ます**. (Contoh: 見る → 見ます, 食べる → 食べます) |\n| **3 (Grup 3)** | Tidak beraturan | **する** → **します**, **来る** → **来ます** |\n\n### 🔧 Cara Membuat Bentuk テ\n\n| Kelompok | Akhiran Bentuk Kamus | Perubahan Bentuk テ | Contoh |\n|---|---|---|---|\n| **1 (Grup 1)** | **-う / -つ / -る** | **-って** | 待つ → 待って, 作る → 作って |\n| | **-ぶ / -む / -ぬ** | **-んで** | 遊ぶ → 遊んで, 飲む → 飲んで |\n| | **-く / -ぐ** | **-いて / -いで** | 働く → 働いて, 泳ぐ → 泳いで (*Kecuali: 行く → 行って*) |\n| | **-す** | **-して** | 話す → 話して |\n| **2 (Grup 2)** | **-る** | **-て** | 見る → 見て, 食べる → 食べて |\n| **3 (Grup 3)** | **する / 来る** | **して / 来て** | 勉強する → 勉強して, 来る → 来て |",
+    "examples": [
+      {
+        "japanese": "日本では、何をしていますか？",
+        "indonesian": "Apa yang Anda lakukan di Jepang?",
+        "romaji": "Nihon de wa, nani o shite imasu ka?"
+      },
+      {
+        "japanese": "Ａ： 日本では、何をしていますか？\nＢ： 働いています。介護の仕事をしています。\nＣ： 私は専門学校に通っています。プログラミングを勉強しています。",
+        "indonesian": "A: Apa yang Anda lakukan di Jepang?\nB: Saya bekerja. Saya bekerja sebagai perawat lansia.\nC: Saya bersekolah di sekolah kejuruan. Saya belajar pemrograman.",
+        "romaji": "A: Nihon de wa, nani o shite imasu ka?\nB: Hataraite imasu. Kaigo no shigoto o shite imasu.\nC: Watashi wa senmongakkou ni kayotte imasu. Puroguramingu o benkyou shite imasu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 1", "te-form", "te-imasu"]
+  }
+]

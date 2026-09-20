@@ -6,19 +6,6 @@
     "title": "V-（られ）るようになりました (V-（rare）ru you ni narimashita) — Menjadi Bisa V",
     "meaning": "Pola untuk menyatakan bahwa seseorang telah mencapai kemampuan baru atau keadaan baru yang sebelumnya tidak bisa dilakukan. 'V-（られ）る' adalah bentuk potensial (bisa V), 'ようになる' berarti 'menjadi seperti' atau 'menjadi bisa'. Sangat berguna saat menceritakan perkembangan kemampuan bahasa Jepang atau adaptasi dengan kehidupan di Jepang. Artinya 'Menjadi bisa [melakukan V] (sekarang)'.",
     "formula_template": "{A} ようになりました",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ようになりました' untuk percakapan: Pola untuk menyatakan bahwa seseorang telah mencapai kemampuan baru atau keadaan baru yang sebelumnya tidak bi. Pastikan 'A' mewakili Kata Kerja Potensial.",
     "ui_notes": "'V-るようになりました' digunakan untuk perubahan keadaan secara umum (bukan hanya kemampuan). Contoh: 毎日運動するようになりました (Saya menjadi biasa berolahraga setiap hari). Untuk menyatakan 'menjadi tidak bisa V' atau 'menjadi tidak V lagi', gunakan 'V-なくなります': 最近、食べなくなった (Akhir-akhir ini menjadi tidak makan). 'ようになる' menunjukkan perubahan bertahap dari waktu ke waktu.",
     "examples": [
       {

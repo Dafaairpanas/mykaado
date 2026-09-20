@@ -3,223 +3,116 @@
     "id": "m_bab23_1",
     "chapter": "Bab 23",
     "level": "N5",
-    "title": "～とき、～",
-    "meaning": "とき menunjukkan waktu ketika terjadinya keadaan dan aksi atau fenomena yang dinyatakan dalam kalimat pokok yang menyusul. Artinya \"Ketika ...\" atau \"Pada waktu ...\".",
-    "formula_template": "{A} / {B} / {C} / {D} とき、~",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} / {B} / {C} / {D} とき、~' untuk menyatakan: とき menunjukkan waktu ketika terjadinya keadaan dan aksi atau fenomena yang dinyatakan dalam kalimat pokok yang. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus/ない), 'B' mewakili Kata Sifat い (~い), 'C' mewakili Kata Sifat な (~な), 'D' mewakili Kata Benda (~の).",
-    "ui_notes": "Bentuk yang diletakkan di depan とき sama dengan bentuk yang menerangkan Kata Benda. Kalimat dengan menggunakan とき tidak berpengaruh pada induk kalimat.",
+    "title": "〜とき (Ketika... / Saat... / Waktu...)",
+    "meaning": "Pola sakti yang berfungsi sebagai konjungsi temporal: menancapkan 'MOMEN / WAKTU' kapan sebuah keadaan, aksi, atau fenomena dari kalimat pokok di belakangnya terjadi.",
+    "formula_template": "[Bentuk Biasa / Kata Benda] とき、[Kalimat Pokok/Utama]",
+    "ui_notes": "Pola penggabungan ke kata 'とき' ini IDENTIK KETAT dengan aturan menerangkan kata benda (Klausa Relatif Bab 22).\n- **Kata Sifat い:** Tulis apa adanya (若い とき / Saat muda).\n- **Kata Sifat な:** Wajib sisipkan な (暇な とき / Saat luang).\n- **Kata Benda:** Wajib beri jembatan の (子どもの とき / Waktu (masih) anak-anak).\n- **Kata Kerja:** Gunakan konjugasi Biasa (Kamus/Nai/Ta).",
     "examples": [
       {
         "jp": "図書館で 本を 借りる とき、カードが 要ります。",
-        "id": "Ketika meminjam buku di perpustakaan, diperlukan kartu."
+        "id": "KETIKA (hendak) meminjam buku di perpustakaan, diperlukan kartu. (K.Kerja)"
+      },
+      {
+        "jp": "使い方が わからない とき、わたしに 聞いて ください。",
+        "id": "JIKA/SAAT tidak tahu cara pemakaiannya, tanyalah pada saya. (Bentuk Nai)"
       },
       {
         "jp": "暇な とき、うちへ 遊びに 来ませんか。",
-        "id": "Pada waktu luang, bagaimana kalau datang bermain ke rumah saya?"
+        "id": "PADA WAKTU (status) luang, maukah main ke rumah? (Sifat-na)"
+      },
+      {
+        "jp": "妻が 病気の とき、会社を 休みます。",
+        "id": "JIKA/SAAT istri (statusnya) sakit, saya libur kerja. (Kata Benda)"
+      },
+      {
+        "jp": "子どもの とき、よく 川で 泳ぎました。",
+        "id": "WAKTU (masih menjadi) anak-anak, (aku) sering berenang di sungai. (Kata Benda)"
       }
     ],
     "tags": [
       "N5",
-      "Kata Keterangan",
-      "Waktu"
+      "Waktu",
+      "Konjungsi Temporal"
     ]
   },
   {
     "id": "m_bab23_2",
     "chapter": "Bab 23",
     "level": "N5",
-    "title": "A とき、～",
-    "meaning": "Jika Kata Kerja di depan とき adalah Bentuk Kamus, maka kalimat pokok menunjukkan hal yang terjadi SEBELUM kalimat ～とき. Jika Kata Kerja di depan とき adalah Bentuk た, maka kalimat pokok menunjukkan hal yang terjadi SETELAH kalimat ～とき.",
-    "formula_template": "{A} とき、~",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} とき、~' untuk menyatakan: Jika Kata Kerja di depan とき adalah Bentuk Kamus, maka kalimat pokok menunjukkan hal yang terjadi SEBELUM kalim. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus / Bentuk た).",
-    "ui_notes": "Jika Kata Kerja di depan とき adalah Bentuk Kamus, maka kalimat pokok menunjukkan hal yang terjadi SEBELUM kalimat ～とき. Jika Kata Kerja di depan とき adalah Bentuk た, maka kalimat pokok menunjukkan hal yang terjadi SETELAH kalimat ～とき.",
+    "title": "Beda Tipis: [Kamus] とき vs [Bentuk た] とき",
+    "meaning": "Dilema krusial Tenses. Jika Anda memakai Kata Kerja di barisan depan 'とき', pemilihan antara wujud 'Bentuk Kamus (Akan)' atau 'Bentuk Ta (Telah)' memengaruhi KRONOLOGI ALUR WAKTU eksekusi kalimat pokok secara drastis.",
+    "formula_template": "A) [Bentuk Kamus (Akan/Proses)] とき / B) [Bentuk た (Telah Selesai)] とき",
+    "ui_notes": "PEDOMAN KRONOLOGI:\n- **Bentuk Kamus:** Kalimat pokok (membeli tas) dilakukan SEBELUM aksi pergi/sampai (Di jalan/di Jepang).\n- **Bentuk Ta:** Kalimat pokok (membeli tas) dilakukan SETELAH aksi pergi rampung/sampai (Di Paris).",
     "examples": [
       {
         "jp": "パリへ 行く とき、かばんを 買いました。",
-        "id": "Waktu mau pergi ke Paris, saya membeli tas. (Membeli sebelum tiba di Paris)"
+        "id": "WAKTU MAU PERGI (sebelum sampai) ke Paris, saya membeli tas."
       },
       {
         "jp": "パリへ 行った とき、かばんを 買いました。",
-        "id": "Waktu pergi ke Paris, saya membeli tas. (Membeli setelah tiba di Paris)"
+        "id": "WAKTU (SETELAH) PERGI/TIBA ke Paris, saya membeli tas."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Urutan Waktu"
+      "Tenses",
+      "Urutan Logis Kejadian"
     ]
   },
   {
     "id": "m_bab23_3",
     "chapter": "Bab 23",
     "level": "N5",
-    "title": "ABentuk Kamus と、～",
-    "meaning": "と menyatakan jika suatu aksi atau kejadian di depan と terjadi, secara pasti mengakibatkan terjadinya suatu keadaan, aksi, atau fenomena yang menyusul di kalimat pokok (berarti \"Kalau...\").",
-    "formula_template": "{A} と、~",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} と、~' untuk menyatakan: と menyatakan jika suatu aksi atau kejadian di depan と terjadi, secara pasti mengakibatkan terjadinya suatu kea. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus).",
-    "ui_notes": "と menyatakan jika suatu aksi atau kejadian di depan と terjadi, secara pasti mengakibatkan terjadinya suatu keadaan, aksi, atau fenomena yang menyusul di kalimat pokok (berarti \"Kalau...\").",
+    "title": "〜と (Kalau / Jika -> Hukum Pasti)",
+    "meaning": "Partikel 'と' yang dikaitkan pasak di belakang Kata Kerja (Bentuk Kamus) menyatakan hubungan SEBAB-AKIBAT ALAMIAH ATAU MEKANIS. Maknanya: \"Jika X dipicu, maka Y PASTI tak terelakkan akan terjadi\".",
+    "formula_template": "[Kata Kerja Bentuk Kamus] と、[Akibat Pasti]",
+    "ui_notes": "Fungsi utamanya adalah untuk buku panduan instruksi mesin otomatis, petunjuk arah jalan mutlak, atau meramal fenomena alam pasti (Kalau musim dingin, pasti turun salju). \nPANTANGAN: Kalimat pokok di belakang 'と' ini DILARANG KERAS berisi ungkapan kemauan, permohonan/perintah (〜てください), atau ajakan.",
     "examples": [
       {
         "jp": "この ボタンを 押すと、お釣りが 出ます。",
-        "id": "Kalau tekan tombol ini, uang kembaliannya keluar."
+        "id": "KALAU menekan tombol ini, (pasti mekanis) uang kembalian keluar."
+      },
+      {
+        "jp": "これを開すと、音が 大きく なります。",
+        "id": "KALAU memutar ini, suara (pasti) membesar."
       },
       {
         "jp": "右へ 曲がると、郵便局が あります。",
-        "id": "Kalau belok ke kanan, ada kantor pos."
+        "id": "KALAU (Anda) belok kanan, (jalanannya pasti berujung) ada kantor pos."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Kondisi Pasti"
+      "Kondisional (Jika)",
+      "Sebab Akibat Mutlak"
     ]
   },
   {
     "id": "m_bab23_4",
     "chapter": "Bab 23",
     "level": "N5",
-    "title": "Aが B",
-    "meaning": "Menyampaikan peristiwa secara objektivitas atau fenomena yang dirasakan dengan panca indera secara langsung. Partikel が tidak terbatas pada kalimat verbal, namun juga dipakai untuk kalimat adjektival (Kata Sifat).",
-    "formula_template": "{A} が {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} が {B}' untuk menyatakan: Menyampaikan peristiwa secara objektivitas atau fenomena yang dirasakan dengan panca indera secara langsung. P. Pastikan 'A' mewakili Kata Benda, 'B' mewakili Kata Sifat.",
-    "ui_notes": "Menyampaikan peristiwa secara objektivitas atau fenomena yang dirasakan dengan panca indera secara langsung. Partikel が tidak terbatas pada kalimat verbal, namun juga dipakai untuk kalimat adjektival (Kata Sifat).",
-    "examples": [
-      {
-        "jp": "音が 小さいです。",
-        "id": "Suaranya kecil."
-      }
-    ],
-    "tags": [
-      "N5",
-      "Partikel",
-      "Keadaan Objektif"
-    ]
-  },
-  {
-    "id": "m_bab23_5",
-    "chapter": "Bab 23",
-    "level": "N5",
-    "title": "Aを Byang menunjukkan gerakan berpindah",
-    "meaning": "Partikel を yang digunakan bersama dengan Kata Kerja yang menunjukkan gerakan berpindah (seperti 散歩します, 渡ります, 曲がります, dll) menunjukkan tempat (ruang/jalur) yang dilewati oleh orang atau benda.",
-    "formula_template": "{A} を {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} を {B}' untuk menyatakan: Partikel を yang digunakan bersama dengan Kata Kerja yang menunjukkan gerakan berpindah (seperti 散歩します, 渡ります, 曲. Pastikan 'A' mewakili Kata Benda (Tempat), 'B' mewakili Kata Kerja (Gerakan berpindah).",
-    "ui_notes": "Partikel を yang digunakan bersama dengan Kata Kerja yang menunjukkan gerakan berpindah (seperti 散歩します, 渡ります, 曲がります, dll) menunjukkan tempat (ruang/jalur) yang dilewati oleh orang atau benda.",
+    "title": "Tempat を [Bergerak Melewati / Melintas]",
+    "meaning": "Partikel 'を' bukan cuma memakan korban objek pasif penderita, tapi juga 'Medan'. Jika dipasangkan dengan kata kerja pergerakan melintas (Berjalan santai / Menyeberang / Berbelok), 'を' menyoroti MEDAN ATAU AREA FISIK yang sedang dilindas/dilalui.",
+    "formula_template": "[Area / Medan Lintasan] を [Kata Kerja Pergerakan]",
+    "ui_notes": "Anda seolah-olah menjadikan jalanan/taman tersebut objek pasif penderita yang sedang dipijak-pijak secara konstan.",
     "examples": [
       {
         "jp": "公園を 散歩します。",
-        "id": "Berjalan-jalan di taman."
+        "id": "Berjalan-jalan (santai melintasi areal) taman."
+      },
+      {
+        "jp": "道を 渡ります。",
+        "id": "Menyeberangi jalan."
       },
       {
         "jp": "交差点を 右へ 曲がります。",
-        "id": "Di perempatan belok ke kanan."
+        "id": "Di perempatan (menjadikannya tumpuan poros) berbelok ke kanan."
       }
     ],
     "tags": [
       "N5",
-      "Partikel",
-      "Penunjuk Ruang/Jalur"
+      "Partikel Penanda Area",
+      "Medan Pergerakan"
     ]
   }
 ]

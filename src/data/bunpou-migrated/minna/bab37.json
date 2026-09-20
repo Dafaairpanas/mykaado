@@ -3,302 +3,108 @@
     "id": "m_bab37_1",
     "chapter": "Bab 37",
     "level": "N4",
-    "title": "受身A(BPasif)",
-    "meaning": "Kata Kerja Pasif dikonjugasikan sebagai Kata Kerja Kelompok II. Digunakan untuk membentuk kalimat pasif.",
-    "formula_template": "Gol I: [i] -> [a]れます/れる | Gol II: ~ます -> ~られます/られる | Gol III: きます -> こられます/こられる, します -> されます/される",
-    "variables": {},
-    "ai_instruction": "Gunakan pola 'Gol I: [i] -> [a]れます/れる | Gol II: ~ます -> ~られます/られる | Gol III: きます -> こられます/こられる, します -> されます/される' untuk menyatakan: Kata Kerja Pasif dikonjugasikan sebagai Kata Kerja Kelompok II. Digunakan untuk membentuk kalimat pasif..",
-    "ui_notes": "Bentuk konjugasinya selalu masuk ke dalam kelompok II (Contoh: かかれます -> かかれる, かかれない, かかれて).",
+    "title": "Bentuk Pasif (Ukemi-kei) / Di-....",
+    "meaning": "Pola ini digunakan untuk mengubah sudut pandang kalimat. Subjek yang menerima tindakan (korban) diangkat menjadi topik kalimat (menggunakan partikel は), sedangkan si pelaku tindakan ditandai dengan partikel に.",
+    "formula_template": "Gol 1 [い -> あれる] / Gol 2 [ます -> られる] / Gol 3 [される / こられる]",
+    "ui_notes": "Aturan Perubahan Kata Kerja:\n- Golongan 1 (Vokal い diubah jadi あ): 書きます -> 書かれる (Ditulis) / 呼びます -> 呼ばれる (Dipanggil) / 頼みます -> 頼まれる (Dimintai tolong).\n- Golongan 2 (Ditambah られる): 褒めます -> 褒められる (Dipuji) / 調べます -> 調べられる (Diperiksa).\n- Golongan 3: します -> される (Dilakukan) / 来ます -> 来られる (Didatangi).",
     "examples": [
       {
-        "jp": "わたしは 先生に ほめられました。",
-        "id": "Saya dipuji oleh guru."
+        "jp": "わたしは 先生に 褒められました。",
+        "id": "Saya (Subjek Penerima) telah dipuji oleh guru (Pelaku)."
       },
       {
-        "jp": "わたしは どろぼうに 財布を 取られました。",
-        "id": "Dompet saya dicuri oleh pencuri."
+        "jp": "わたしは 母に 買い物を 頼まれました。",
+        "id": "Saya diminta tolong/disuruh oleh ibu untuk berbelanja."
+      },
+      {
+        "jp": "わたしは 犬に 噛まれました。",
+        "id": "Saya digigit oleh anjing."
       }
     ],
     "tags": [
       "N4",
-      "Kata Kerja",
-      "Perubahan Bentuk"
+      "Pasif (Ukemi)",
+      "Kalimat Pasif Biasa"
     ]
   },
   {
     "id": "m_bab37_2",
     "chapter": "Bab 37",
     "level": "N4",
-    "title": "A1（人1） は B2（人2） に C（受身形）",
-    "meaning": "Pola kalimat pasif yang mengekspresikan perbuatan dari sudut pandang pihak yang menerima perbuatan (orang 1). Orang 1 diangkat sebagai topik, kemudian pelaku perbuatan (orang 2) dibubuhkan partikel に.",
-    "formula_template": "{A} は {B} に {C}Pasif",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      },
-      "C": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は {B} に {C}Pasif' untuk menyatakan: Pola kalimat pasif yang mengekspresikan perbuatan dari sudut pandang pihak yang menerima perbuatan (orang 1). . Pastikan 'A' mewakili Kata Benda 1 (Penerima), 'B' mewakili Kata Benda 2 (Pelaku), 'C' mewakili Kata Kerja.",
-    "ui_notes": "Adakalanya selain manusia, benda yang bergerak (hewan, mobil, dan lain-lain) menjadi pelaku perbuatan.",
+    "title": "Pasif Penderitaan (Kehilangan / Perusakan)",
+    "meaning": "Dalam tata bahasa Jepang, jika yang dirusak/diganggu adalah barang milik kita atau anggota tubuh kita, yang menjadi topik kalimat (は) tetaplah 'Kita' sebagai pemiliknya (orang yang menderita kerugian), bukan barang tersebut.",
+    "formula_template": "[Korban Manusia] は [Pelaku] に [Barang Pribadinya] を [K.Kerja Pasif Penderitaan]",
+    "ui_notes": "Nuansa Keluhan:\nPola ini murni mengandung nuansa kerugian, keluhan, atau kekesalan si pemilik barang. (Jika perbuatan pelaku justru menguntungkan/membantu Anda, Anda tidak boleh menggunakan pola ini, melainkan gunakan pola '〜て もらいました' / Dibantu...).",
     "examples": [
       {
-        "jp": "わたしは先生に褒められました。",
-        "id": "Saya dipuji oleh guru."
+        "jp": "わたしは 弟に パソコンを 壊されました。",
+        "id": "Komputer saya dirusak oleh adik. (Struktur literal: Saya dirusakkan komputernya oleh adik)."
       },
       {
-        "jp": "わたしは母に買い物を頼まれました。",
-        "id": "Saya diminta oleh ibu untuk berbelanja."
+        "jp": "わたしは 犬に 手を 噛まれました。",
+        "id": "Tangan saya digigit oleh anjing liar. (Bukan 'Tangan saya は digigit', melainkan 'Saya は digigit tangannya')."
+      },
+      {
+        "jp": "わたしは だれかに 傘を 間違えられました。",
+        "id": "Payung saya tidak sengaja terbawa oleh seseorang (yang salah ambil)."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Pasif Langsung"
+      "Pasif Penderitaan",
+      "Kerugian"
     ]
   },
   {
     "id": "m_bab37_3",
     "chapter": "Bab 37",
     "level": "N4",
-    "title": "A1（人1） は B2（人2） に C3 を D（受身形）",
-    "meaning": "Menyatakan bahwa orang 2 melakukan suatu perbuatan terhadap benda milik orang 1 (Kata Benda 3). Pada umumnya, perbuatan tersebut dianggap sebagai gangguan atau merugikan bagi orang 1 (pemiliknya).",
-    "formula_template": "{A} は {B} に {C} を {D}Pasif",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "D": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は {B} に {C} を {D}Pasif' untuk menyatakan: Menyatakan bahwa orang 2 melakukan suatu perbuatan terhadap benda milik orang 1 (Kata Benda 3). Pada umumnya, . Pastikan 'A' mewakili Kata Benda 1 (Pemilik/Korban), 'B' mewakili Kata Benda 2 (Pelaku), 'C' mewakili Kata Benda 3 (Objek), 'D' mewakili Kata Kerja.",
-    "ui_notes": "Perhatian 1: Yang diangkat sebagai topik adalah BUKAN benda miliknya, melainkan orang (pemilik) yang merasa terganggu (Salah: わたしのパソコンは弟に壊されました). Perhatian 2: Karena pola ini bermakna gangguan/kerugian, jika menyatakan rasa terima kasih atas bantuan, JANGAN pakai bentuk pasif, melainkan gunakan ～てもらいます (Benar: わたしは友達に自転車を修理してもらいました).",
+    "title": "Pasif Fakta Objektif (Benda Mati sebagai Topik)",
+    "meaning": "Benda mati dapat dijadikan topik (menggunakan は / が) dalam kalimat pasif hanya ketika Anda sedang melaporkan fakta sejarah, sebuah penemuan, atau pengadaan acara berskala besar di mana identitas si pelaku tidak lagi penting atau tidak diketahui secara pasti.",
+    "formula_template": "[Benda Mati / Acara Pameran] が/は [Kata Kerja Pasif Objektif]",
+    "ui_notes": "Kata kerja yang sering muncul pada pola ini antara lain: 建てられます (Didirikan), 開かれます (Digelar/Diadakan), 発明されます (Ditemukan), 読まれています (Dibaca massal).",
     "examples": [
       {
-        "jp": "わたしは弟にパソコンを壊されました。",
-        "id": "PC saya dirusak oleh adik laki-laki saya."
+        "jp": "大阪で 展覧会が 開かれました。",
+        "id": "Di Osaka telah dibuka / diadakan sebuah pameran."
       },
       {
-        "jp": "わたしは犬に手をかまれました。",
-        "id": "Tangan saya digigit anjing."
+        "jp": "電話は 19世紀に 発明されました。",
+        "id": "Telepon ditemukan pada abad ke-19."
+      },
+      {
+        "jp": "この 本は 世界中で 読まれて います。",
+        "id": "Buku ini sedang dibaca oleh banyak orang di seluruh dunia."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Pasif Kerugian"
+      "Pasif Objektif",
+      "Fakta Umum"
     ]
   },
   {
     "id": "m_bab37_4",
     "chapter": "Bab 37",
     "level": "N4",
-    "title": "A（物／事） が／は B（受身形）",
-    "meaning": "Ketika menjelaskan suatu perihal dan tidak mempersoalkan (atau tidak mementingkan) orang yang melakukan perbuatannya. Benda atau perihal tersebut diekspresikan sebagai subjek atau topik kalimat.",
-    "formula_template": "{A} が / は {B}Pasif",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} が / は {B}Pasif' untuk menyatakan: Ketika menjelaskan suatu perihal dan tidak mempersoalkan (atau tidak mementingkan) orang yang melakukan perbua. Pastikan 'A' mewakili Kata Benda (Benda/Hal), 'B' mewakili Kata Kerja.",
-    "ui_notes": "Ketika menjelaskan suatu perihal dan tidak mempersoalkan (atau tidak mementingkan) orang yang melakukan perbuatannya. Benda atau perihal tersebut diekspresikan sebagai subjek atau topik kalimat.",
+    "title": "Bahan Pembuatan (から vs で)",
+    "meaning": "Pola ini digunakan saat menjelaskan material penyusun dari suatu produk atau bangunan. Bahasa Jepang membedakan penggunaan partikelnya berdasarkan apakah wujud asli materialnya masih terlihat atau tidak.",
+    "formula_template": "[Produk Jadi] は [Bahan Baku] から/で 造られます",
+    "ui_notes": "Aturan Penggunaan:\n1. Gunakan 'から' (Dari): Jika wujud asli bahan pembuatnya sudah tidak terlihat lagi atau telah mengalami proses kimiawi (misal: Bir dari gandum, Kertas dari kayu).\n2. Gunakan 'で' (Dari): Jika wujud/tekstur asli materialnya masih terlihat jelas secara fisik (misal: Meja dari kayu, Patung dari batu).",
     "examples": [
       {
-        "jp": "大阪で展覧会が開かれました。",
-        "id": "Di Osaka diadakan pameran."
+        "jp": "ビールは 麦から 造られます。",
+        "id": "Bir dibuat dari (bahan baku yang telah diolah) gandum."
       },
       {
-        "jp": "電話は19世紀に発明されました。",
-        "id": "Telepon ditemukan pada abad kesembilan belas."
+        "jp": "昔 日本の 家は 木で 造られました。",
+        "id": "Pada zaman dahulu, rumah tradisional Jepang dibuat dari (material utuh) kayu."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Pasif Objektif"
-    ]
-  },
-  {
-    "id": "m_bab37_5",
-    "chapter": "Bab 37",
-    "level": "N4",
-    "title": "A から ／ B で つくります",
-    "meaning": "Digunakan ketika menyatakan pembuatan barang. Jika menjelaskan 'bahan baku' (yang sifat/bentuk aslinya berubah drastis), ditandai dengan から. Jika menjelaskan 'bahan' (yang wujud/sifat aslinya masih terlihat jelas), ditandai dengan で.",
-    "formula_template": "{A} から / {B} で 造られます / つくります",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} から / {B} で 造られます / つくります' untuk menyatakan: Digunakan ketika menyatakan pembuatan barang. Jika menjelaskan 'bahan baku' (yang sifat/bentuk aslinya berubah. Pastikan 'A' mewakili Kata Benda (Bahan Baku), 'B' mewakili Kata Benda (Bahan).",
-    "ui_notes": "Digunakan ketika menyatakan pembuatan barang. Jika menjelaskan 'bahan baku' (yang sifat/bentuk aslinya berubah drastis), ditandai dengan から. Jika menjelaskan 'bahan' (yang wujud/sifat aslinya masih terlihat jelas), ditandai dengan で.",
-    "examples": [
-      {
-        "jp": "ビールは麦から造られます。",
-        "id": "Bir terbuat dari gandum."
-      },
-      {
-        "jp": "昔、日本の家は木で造られました。",
-        "id": "Pada zaman dulu, perumahan Jepang dibuat dari kayu."
-      }
-    ],
-    "tags": [
-      "N4",
-      "Partikel",
+      "Asal Produk",
       "Bahan Baku"
-    ]
-  },
-  {
-    "id": "m_bab37_6",
-    "chapter": "Bab 37",
-    "level": "N4",
-    "title": "A1 の B2 (Penjelasan)",
-    "meaning": "Partikel の yang menjelaskan atau menyebutkan bahwa Kata Benda 2 merupakan/adalah Kata Benda 1. Berfungsi mendeskripsikan secara spesifik.",
-    "formula_template": "{A} の {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} の {B}' untuk menyatakan: Partikel の yang menjelaskan atau menyebutkan bahwa Kata Benda 2 merupakan/adalah Kata Benda 1. Berfungsi mende. Pastikan 'A' mewakili Kata Benda 1, 'B' mewakili Kata Benda 2.",
-    "ui_notes": "Sebagai contoh lain: ペットの犬 (anjing peliharaan / anjing yang merupakan peliharaan), むすこのハンス (Hans anak laki-laki saya).",
-    "examples": [
-      {
-        "jp": "これが原料の麦です。",
-        "id": "Inilah bahan bakunya, yaitu gandum."
-      }
-    ],
-    "tags": [
-      "N5",
-      "Partikel",
-      "Keterangan/Penjelasan"
-    ]
-  },
-  {
-    "id": "m_bab37_7",
-    "chapter": "Bab 37",
-    "level": "N4",
-    "title": "この／その／あの ＋ A（位置）",
-    "meaning": "Kata Benda yang menyatakan letak atau posisi (seperti うえ, した, なか, となり, ちかく) dibubuhkan dengan Kata Petunjuk この, その, atau あの. Ini digunakan untuk menunjuk hubungan letak dengan suatu benda tanpa harus menyebut ulang nama bendanya secara lengkap.",
-    "formula_template": "この / その / あの {A}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'この / その / あの {A}' untuk menyatakan: Kata Benda yang menyatakan letak atau posisi (seperti うえ, した, なか, となり, ちかく) dibubuhkan dengan Kata Petunjuk この. Pastikan 'A' mewakili Kata Benda (Posisi/Letak).",
-    "ui_notes": "Dalam contoh tersebut, 'あのなか' memiliki arti 'あのたてもののなか' (di dalam bangunan itu).",
-    "examples": [
-      {
-        "jp": "あのなかに入れますか。",
-        "id": "Apakah bisa masuk ke dalam itu?"
-      }
-    ],
-    "tags": [
-      "N5",
-      "Kata Penunjuk",
-      "Letak/Posisi"
     ]
   }
 ]

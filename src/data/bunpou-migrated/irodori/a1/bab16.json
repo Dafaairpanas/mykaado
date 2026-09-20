@@ -1,124 +1,86 @@
 [
   {
-    "id": "i_bab16_1",
+    "id": "i_a1_bab16_1",
     "chapter": "Bab 16",
     "level": "A1",
-    "title": "これ/それ/あれはいくらですか？",
-    "meaning": "Pola pertanyaan untuk menanyakan harga suatu barang dengan menggunakan kata penunjuk. 'これ' (ini - dekat pembicara), 'それ' (itu - dekat lawan bicara), 'あれ' (itu - jauh dari keduanya). 'いくら' berarti 'berapa harga'. Sangat berguna saat berbelanja. Artinya 'Berapa harga ini/itu?'.",
-    "formula_template": "{A} は いくらですか？",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は いくらですか？' untuk percakapan: Pola pertanyaan untuk menanyakan harga suatu barang dengan menggunakan kata penunjuk. 'これ' (ini - dekat pembic. Pastikan 'A' mewakili これ/それ/あれ.",
-    "ui_notes": "Partikel 'は' sering dihilangkan dalam percakapan sehari-hari. Contoh: これいくら？ (Ini berapa? - kasual). Untuk menanyakan harga secara lebih sopan: これはいくらですか？ atau これはおいくらですか？ (lebih sopan dengan 'お' di depan).",
+    "title": "Nanya Harga Barang (〜いくらですか？)",
+    "meaning": "Mata Duitan! Pertanyaan mutlak bin wajib yang diucapkan ketika Anda berbelanja dan ingin membongkar label harga dagangan. \"Ini / Itu harganya berapa (Rupiah/Yen)?\".",
+    "formula_template": "[これ / それ / あれ] + は + いくらですか？",
+    "ui_notes": "ILMU 3 DIMENSI JARAK (KOSOADO BARANG):\n- **これ (Ini)**: Menunjuk barang yang jaraknya nempel / sedang dipegang oleh Anda (Pembeli).\n- **それ (Itu Dekat)**: Menunjuk barang yang sedang dipegang / dekat dengan badan si penjual (Lawan Bicara).\n- **あれ (Itu Jauh/Sana)**: Menunjuk barang etalase pojokan toko yang jauh dari kalian berdua.",
     "examples": [
       {
         "jp": "これ、いくらですか？",
-        "id": "Berapa harga ini?"
+        "id": "(Barang) INI (Yang sedang kupegang) BERAPAKAH KISARAN HARGANYA?"
       },
       {
-        "jp": "あれはいくらですか？",
-        "id": "Berapa harga itu?"
+        "jp": "あれは、いくらですか？ ……ジャケットですか？ 15,000円です。",
+        "id": "(Barang) YANG DI POJOK SANA ITU, BERAPAKAH HARGANYA? ...... Ooh maksudnya Jaket pelindung? (Pungut bayar) 15,000 Yen saja bung."
+      },
+      {
+        "jp": "それ、いいですね。サウスフェースのバッグ。 ……あ、これですか？",
+        "id": "(Barang) ITU YANG NEMPEL SAMA KAMU, kece abis yak. Tas merk South Face. ...... Oh, kamu nanyain yang INI (Sekarang nempel sama aku, makanya jadi KORE)?"
       }
     ],
     "tags": [
       "A1",
-      "Harga",
-      "Berbelanja",
-      "Pertanyaan",
-      "Penunjuk"
+      "Menginterogasi Harga",
+      "Berapa (Ikura Desuka)"
     ]
   },
   {
-    "id": "i_bab16_2",
+    "id": "i_a1_bab16_2",
     "chapter": "Bab 16",
     "level": "A1",
-    "title": "この/その/あのN",
-    "meaning": "Pola untuk menunjukkan benda tertentu dengan kata penunjuk + kata benda. 'この' berarti 'ini' (benda di dekat pembicara), 'その' berarti 'itu' (benda di dekat lawan bicara), 'あの' berarti 'itu' (benda jauh dari keduanya). Berbeda dengan 'これ/それ/あれ' yang berdiri sendiri, 'この/その/あの' harus diikuti kata benda. Artinya '[Benda] ini/itu'.",
-    "formula_template": "{A} {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} {B}' untuk percakapan: Pola untuk menunjukkan benda tertentu dengan kata penunjuk + kata benda. 'この' berarti 'ini' (benda di dekat pe. Pastikan 'A' mewakili この/その/あの, 'B' mewakili Kata Benda.",
-    "ui_notes": "Perbedaan: 'これ' (ini - kata benda sendiri) vs 'この[N]' ([N] ini). Contoh: これはいいです (Ini bagus) vs この本はいいです (Buku ini bagus). Untuk pertanyaan 'yang mana', gunakan 'どの' (which): どのカレンダーですか？ (Kalender yang mana?).",
+    "title": "Menunjuk Barang Spesifik (この / その / あの)",
+    "meaning": "Lampu Sorot Barang Spesifik! Ketika Anda ingin mengunci target dengan menyebutkan NAMA/IDENTITAS BENDANYA secara gamblang, kata tunjuknya harus dimutasi/diubah dari Kore-Sore-Are menjadi: KONO-SONO-ANO.",
+    "formula_template": "[この / その / あの] + [Nama Spesifik Benda] + は + いくらですか？",
+    "ui_notes": "### 📝 TABEL BUKU SAKTI (KOSOADO)\n\n| Posisi Jarak (Dimensi) | Menunjuk Buta (Tak Sebut Nama) | Menunjuk Spesifik (+ Nama Benda) | Menunjuk Titik Tempat |\n|---|---|---|---|\n| **Dipegang Pembicara (Dekat)** | **これ** (Ini) | **この** (Benda Ini...) | **ここ** (Di sini) |\n| **Dipegang Lawan Bicara** | **それ** (Itu Situ) | **その** (Benda Itu...) | **そこ** (Di situ) |\n| **Jauh Memisahkan Diri** | **あれ** (Itu Sana) | **あの** (Benda Sana...) | **あそこ** (Di sana) |",
     "examples": [
       {
         "jp": "そのカレンダー、いくらですか？",
-        "id": "Berapa harga kalender itu?"
+        "id": "Kalender (milik Anda) ITU, BERAPAKAH HARGANYA?"
       },
       {
-        "jp": "この靴はいくらですか？",
-        "id": "Berapa harga sepatu ini?"
+        "jp": "あのバッグは いくらですか？ ……あれは、6,800円です。",
+        "id": "Tas gembol YANG DI POJOKAN SANA, BERAPAKAH HARGANYA? ...... (Penjual ikut merespons objek jauh:) YANG DI POJOK SANA itu harganya 6,800 Yen."
+      },
+      {
+        "jp": "すみません。その時計を 見せてください。",
+        "id": "Misi kang. Tolong (izinkan aku) MEMANDANG / MELIHAT Jam Tangan ITU (Yang diamankan sama pihak kasir)."
       }
     ],
     "tags": [
       "A1",
-      "Harga",
-      "Berbelanja",
-      "Penunjuk",
-      "Pertanyaan"
+      "Kata Tunjuk Mutasi",
+      "Kono Sono Ano"
     ]
   },
   {
-    "id": "i_bab16_3",
+    "id": "i_a1_bab16_3",
     "chapter": "Bab 16",
     "level": "A1",
-    "title": "【kuantitas】ずつ ([Kuantitas] zutsu)",
-    "meaning": "Pola untuk menyatakan bahwa setiap item memiliki jumlah yang sama atau memesan beberapa jenis barang dengan jumlah yang sama. 'ずつ' berarti 'masing-masing' atau 'setiap'. Digunakan saat memesan beberapa jenis barang dengan jumlah yang sama, misalnya 2 buah kue coklat dan 2 buah kue keju. Artinya '[Jumlah] masing-masing'.",
-    "formula_template": "{A} ずつ",
-    "variables": {
-      "A": {
-        "type": [
-          "counter",
-          "noun"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ずつ' untuk percakapan: Pola untuk menyatakan bahwa setiap item memiliki jumlah yang sama atau memesan beberapa jenis barang dengan ju. Pastikan 'A' mewakili Jumlah.",
-    "ui_notes": "'ずつ' juga bisa digunakan untuk menyatakan 'sedikit demi sedikit': 少しずつ (sedikit demi sedikit). Atau 'satu per satu': 一つずつ (satu per satu). Sangat berguna di toko makanan atau saat membeli oleh-oleh.",
+    "title": "Membeli Jumlah Imbang (〜ずつ / Masing-masing)",
+    "meaning": "Mata Pisau Keadilan! Jurus belanja ketika Anda membeli BERAGAM JENIS BARANG (Kue, Daging), TAPI ANDA MEMINTA PORSI/JUMLAHNYA DIBAGI RATA SAMA BANYAK! (\"Masing-masing 2 buah\").",
+    "formula_template": "[Daftar Barang Beda Jenis] + [Angka/Kuantitas Satuan] + ずつ + お願いします",
+    "ui_notes": "Daripada capek mulut nge-rap bilang: \"Kue coklat 2 buah, terus kue keju juga 2 buah\", mending teriakkan sekaligus pakai jurus pangkas kata: **「〜2個ずつ お願いします」** (Masing-masing porsi 2 buah).",
     "examples": [
       {
-        "jp": "チョコレートケーキとチーズケーキ、2個ずつお願いします。",
-        "id": "Kue coklat dan kue keju, masing-masing 2 potong."
+        "jp": "チョコレートケーキと チーズケーキ、2個ずつ お願いします。",
+        "id": "Saya (Tolong siapkan pesanan) Cake coklat, dan Cake Keju, MASING-MASING SEJUMLAH 2 BIJI / PORSI."
       },
       {
-        "jp": "りんごを3つずつください。",
-        "id": "Tolong apel masing-masing 3 buah."
+        "jp": "昆布と、たらこと、梅、3つずつ ください。",
+        "id": "Hamba MINTA PESAN irisan ganggang laut Kombu, telur ikan Tarako, dan asaman plum Ume, MASING-MASING TERBAGI SEJUMLAH 3 PORSI (3 porsi Kombu, 3 Tarako, 3 Ume)."
+      },
+      {
+        "jp": "鶏肉と牛肉、300gずつ お願いします。",
+        "id": "Saya PESAN daging (hewan unggas) Ayam, dan daging (hewan merumput) Sapi, MASING-MASING SEBERAT TAKARAN 300 GRAM."
       }
     ],
     "tags": [
       "A1",
-      "Jumlah",
-      "Berbelanja",
-      "Memesan",
-      "Counter"
+      "Kuantitas Adil Porsi",
+      "Masing Masing (Zutsu)"
     ]
   }
 ]

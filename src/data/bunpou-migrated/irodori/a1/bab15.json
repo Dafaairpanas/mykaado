@@ -1,109 +1,62 @@
 [
   {
-    "id": "i_bab15_1",
+    "id": "i_a1_bab15_1",
     "chapter": "Bab 15",
     "level": "A1",
-    "title": "Nがほしいんですが",
-    "meaning": "Pola kalimat untuk menyatakan keinginan memiliki atau membeli suatu barang, sekaligus mengawali pertanyaan atau permintaan. 'がほしい' berarti 'ingin [N]', 'んですが' adalah bentuk penjelasan + penghubung yang halus untuk mengantarkan pertanyaan. Sangat berguna saat berbelanja atau mencari barang. Artinya 'Saya mau N (sebenarnya)...' atau 'Saya butuh N...'.",
-    "formula_template": "{A} が ほしいんですが、{B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} が ほしいんですが、{B}' untuk percakapan: Pola kalimat untuk menyatakan keinginan memiliki atau membeli suatu barang, sekaligus mengawali pertanyaan ata. Pastikan 'A' mewakili Barang, 'B' mewakili Pertanyaan/Permintaan.",
-    "ui_notes": "'んですが' (atau 'のですが') di akhir memberikan nuansa 'sebenarnya...' dan membuat pertanyaan lebih sopan. Bisa juga diikuti langsung dengan permintaan: これがほしいんですが、ください。 (Saya mau ini, tolong berikan.) Untuk barang yang lebih abstrak (bukan benda fisik), gunakan '〜たいです' (ingin melakukan).",
+    "title": "Mengutarakan Keinginan Terpendam (〜がほしいんですが)",
+    "meaning": "Sinyal Minta Tolong! Jurus memelas ketika Anda berkeliling etalase toko dan pusing mencari barang spesifik, lalu meminta tolong pegawai toko untuk melacak keberadaan barang idaman Anda (\"Mas, saya lagi nyari... nih\").",
+    "formula_template": "[Barang Idaman/Buruan] + がほしいんですが",
+    "ui_notes": "SENI MENGGANTUNG KALIMAT:\nEkor kalimat ini dibiarkan dibiarkan menggantung '...Ga (Namun...)' agar terkesan mengiba/memelas, sehingga secara insting sang pegawai kasir akan otomatis tergerak melayani dan mencarikan solusi untuk Anda. Kalau Anda penganut sekte to-the-point, Anda bisa membentak dengan: **「どこで 買えますか？」** (Beli di mana woy?!).",
     "examples": [
       {
-        "jp": "電池がほしいんですが、どこで買えますか？",
-        "id": "Saya mau baterai, di mana bisa membelinya?"
+        "jp": "電池が ほしいんですが、どこで 買えますか？",
+        "id": "Saya tuh lagi HASRAT BANGET BUTUH bongkahan Baterai (NAMUN SUSAH DICARI)... DI SEBELAH MANAKAH hamba BISA MEMBELINYA?"
       },
       {
-        "jp": "延長コードがほしいんですが…。",
-        "id": "Saya mau kabel ekstensi (sebenarnya)..."
+        "jp": "延長コードが ほしいんですが…。",
+        "id": "Saya tuh NYARI-NYARI DAN BUTUH kabel colokan sambungan memanjang, (NAMUN SUSAH KETEMU, tolong dicarikan ya)."
+      },
+      {
+        "jp": "ドライヤーが ほしいんですが、どこに ありますか？ ……3階で ございます。",
+        "id": "Saya tuh lagi BUTUH SANGAT sama alat pengering rambut (Hair Dryer), NGUMPET ADA DI MANA letaknya (etalasenya)? ...... Letaknya ada di lantai ke-3 tuan."
       }
     ],
     "tags": [
       "A1",
-      "Berbelanja",
-      "Keinginan",
-      "Pertanyaan",
-      "Sopan"
+      "Minta Tolong Dicariin",
+      "Ingin Mencari Barang (Hoshiin desuga)"
     ]
   },
   {
-    "id": "i_bab15_2",
+    "id": "i_a1_bab15_2",
     "chapter": "Bab 15",
     "level": "A1",
-    "title": "ナA-ですね / イA-いですね — Komentar Produk",
-    "meaning": "Pola kalimat untuk memberikan komentar atau kesan tentang suatu produk saat berbelanja. Untuk kata sifat-na (ナA), gunakan langsung kata sifat + 'ですね'. Untuk kata sifat-i (イA), gunakan bentuk 'い' + 'ですね'. Digunakan untuk memulai percakapan dengan teman atau staf toko. Artinya '[Produk] [sifat] ya.'",
-    "formula_template": "{A} は {B} ですね / {C} は {D} い ですね",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "D": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は {B} ですね / {C} は {D} い ですね' untuk percakapan: Pola kalimat untuk memberikan komentar atau kesan tentang suatu produk saat berbelanja. Untuk kata sifat-na (ナ. Pastikan 'A' mewakili Produk, 'B' mewakili Kata Sifat-na, 'C' mewakili Produk, 'D' mewakili Kata Sifat-i.",
-    "ui_notes": "Dalam percakapan kasual, 'ですね' sering disingkat menjadi 'だね' atau dihilangkan sama sekali, seperti contoh 'かわいい！'. Untuk kata sifat-na (ナA), bentuk kasualnya: おしゃれだね (Modis ya). Untuk kata sifat-i (イA): おもしろいね (Menarik ya). Ini adalah cara alami untuk menunjukkan ketertarikan atau memulai percakapan di toko.",
+    "title": "Memuji Barang Spontan (Kesan Adjektiva)",
+    "meaning": "Bawel Belanja! Luapan ekspresi dan hasrat ketika mengomentari desain dagangan baju/barang yang menempel di tubuh maneken toko.",
+    "formula_template": "1. [Benda] + [Kata Sifat] + ですね (Bawel ke Teman)\n2. [Benda] + [Kata Sifat] + (Murni Tanpa Desu) (Spontan Jiwa Kaget)",
+    "ui_notes": "ILMU MEMUJI:\n- Kalau Anda nge-review bareng rekan ngemall, BUBUHKAN partikel **「ね (Ne)」** untuk meminta persetujuan. (Contoh: Lucu YA KAN).\n- Kalau Anda lagi nge-mall JOMBLO SENDIRIAN dan kaget ngelihat diskon atau barang bagus, LANGSUNG TERIAKKAN SIFATNYA SECARA MURNI tanpa Desu (Contoh: Gila, murah!).",
     "examples": [
       {
         "jp": "このコート、おしゃれですね。",
-        "id": "Mantel ini modis ya. (ナA)"
+        "id": "Mantel jaket ini desainnya MODIS (Fashionable) YA KAN."
       },
       {
-        "jp": "この傘、おもしろいですね。",
-        "id": "Payung ini menarik ya. (イA)"
+        "jp": "このコート、すてき！",
+        "id": "Wah mantel jaket ini KECE BADAI!"
+      },
+      {
+        "jp": "このバッグ、かわいい！",
+        "id": "(Gila murni menjerit:) Wadidaw tas gembol ini LUCU IMUT GEMOY BANGET!"
+      },
+      {
+        "jp": "このシャツ、かっこいい！ ……本当。それに、安いですね。",
+        "id": "Yaampun kemeja yang ini, GANTENG PARAH! ...... Eh iya lho emang. Ditambah point plus, (Harganya) gila MURAH YAK."
       }
     ],
     "tags": [
       "A1",
-      "Berbelanja",
-      "Komentar",
-      "Produk",
-      "Kata Sifat"
+      "Mengomentari Desain Barang",
+      "Imut Lucu Keren"
     ]
   }
 ]

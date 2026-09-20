@@ -3,184 +3,103 @@
     "id": "m_bab16_1",
     "chapter": "Bab 16",
     "level": "N5",
-    "title": "ABentuk て、［BBentuk て、］ C",
-    "meaning": "Apabila menyatakan lebih dari dua aksi yang berturut-turut, menyebutkan aksi tersebut sesuai dengan urutannya dengan menggunakan bentuk て. Waktu ditentukan dengan Kata Kerja yang terakhir.",
-    "formula_template": "{A}、{B}、{C}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "C": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}、{B}、{C}' untuk menyatakan: Apabila menyatakan lebih dari dua aksi yang berturut-turut, menyebutkan aksi tersebut sesuai dengan urutannya . Pastikan 'A' mewakili Kata Kerja1 (Bentuk て), 'B' mewakili Kata Kerja2 (Bentuk て), 'C' mewakili Kata Kerja3.",
-    "ui_notes": "Apabila menyatakan lebih dari dua aksi yang berturut-turut, menyebutkan aksi tersebut sesuai dengan urutannya dengan menggunakan bentuk て. Waktu ditentukan dengan Kata Kerja yang terakhir.",
+    "title": "〜て、〜て、〜ます (Menyambung Aksi Berurutan)",
+    "meaning": "Fungsi paling lazim dari bentuk 'て' (Te) adalah untuk menyambungkan kalimat. Jika diterapkan pada Kata Kerja, ia menyatakan serangkaian kejadian berurutan (SAYA melakukan A, lalu melakukan B, lalu melakukan C).",
+    "formula_template": "[Aksi 1 (Bentuk て)]、[Aksi 2 (Bentuk て)]、[Aksi Akhir]",
+    "ui_notes": "SANGAT PENTING: Tenses / garis waktu seluruh rentetan kejadian (apakah itu baru rencana masa depan, atau menceritakan masa lalu) HANYA ditentukan oleh bentuk dari Kata Kerja yang paling akhir di penutup kalimat.",
     "examples": [
       {
         "jp": "朝 ジョギングを して、シャワーを 浴びて、会社へ 行きます。",
-        "id": "Pagi hari joging, mandi, kemudian pergi ke perusahaan."
+        "id": "Pagi hari joging (dulu), mandi (lalu), kemudian pergi ke perusahaan (di masa depan/rutinitas)."
       },
       {
         "jp": "神戸へ 行って、映画を 見て、お茶を 飲みました。",
-        "id": "Pergi ke Kobe, menonton film, kemudian minum teh."
+        "id": "Pergi ke Kobe, menonton film, kemudian minum teh (Menceritakan masa lampau)."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Sambungan Berurutan"
+      "Menyambung",
+      "Urutan Aksi"
     ]
   },
   {
     "id": "m_bab16_2",
     "chapter": "Bab 16",
     "level": "N5",
-    "title": "A → 〜くて",
-    "meaning": "Untuk menyambung kalimat yang lebih dari dua menjadi satu kalimat dengan menggunakan Kata Sifat い.",
-    "formula_template": "{A} くて",
-    "variables": {
-      "A": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} くて' untuk menyatakan: Untuk menyambung kalimat yang lebih dari dua menjadi satu kalimat dengan menggunakan Kata Sifat い.. Pastikan 'A' mewakili Kata Sifat い (hilangkan い).",
-    "ui_notes": "Pengecualian: いい (baik/bagus) menjadi よくて. Jika menggunakan pola ini untuk subjek yang sama, tidak dapat menyambungkan kalimat yang nilai pembicaraannya berbeda (misal: sempit tapi bersih, harus memakai が).",
+    "title": "Menyambung Kata Sifat い (〜くて)",
+    "meaning": "Pola untuk merangkai dua atau lebih Kata Sifat-i secara sejajar dan selaras (misal: Benda X itu Besar DAN Murah).",
+    "formula_template": "[Sifat-i (tanpa い)] くて、[Sifat/Kalimat Berikutnya]",
+    "ui_notes": "Aturan: Buang huruf 'い' pada kata sifat pertama, lalu ganti dengan 'くて' (kute). PENGECUALIAN MUTLAK: Kata 'いい' (Bagus/Baik) perubahannya BUKAN 'いくて', melainkan 'よくて' (Yokute).",
     "examples": [
       {
         "jp": "ミラーさんは 若くて、元気です。",
-        "id": "Sdr. Miller muda dan sehat."
+        "id": "Sdr. Miller muda (wakai -> wakakute) DAN sehat."
       },
       {
         "jp": "きのうは 天気が よくて、暑かったです。",
-        "id": "Kemarin cuaca baik dan panas."
+        "id": "Kemarin cuaca baik (ii -> yokute) DAN panas."
       }
     ],
     "tags": [
       "N5",
-      "Kata Sifat",
-      "Sambungan"
+      "Menyambung",
+      "Kata Sifat-i"
     ]
   },
   {
     "id": "m_bab16_3",
     "chapter": "Bab 16",
     "level": "N5",
-    "title": "A［な］ → 〜で ／ Bで",
-    "meaning": "Untuk menyambung kalimat yang lebih dari dua menjadi satu kalimat dengan menggunakan Kata Sifat な atau Kata Benda.",
-    "formula_template": "{A} で ／ {B} で",
-    "variables": {
-      "A": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} で ／ {B} で' untuk menyatakan: Untuk menyambung kalimat yang lebih dari dua menjadi satu kalimat dengan menggunakan Kata Sifat な atau Kata Be. Pastikan 'A' mewakili Kata Sifat な (tanpa な), 'B' mewakili Kata Benda.",
-    "ui_notes": "Untuk menyambung kalimat yang lebih dari dua menjadi satu kalimat dengan menggunakan Kata Sifat な atau Kata Benda.",
+    "title": "Menyambung Kata Sifat な & Kata Benda (〜で)",
+    "meaning": "Pola untuk merangkai dua Kata Sifat-na atau dua identitas Kata Benda secara sejajar dan selaras (misal: Dia pendiam DAN rapi / Dia guru DAN orang Jepang).",
+    "formula_template": "[Sifat-na / Benda] で、[Sifat/Kalimat Berikutnya]",
+    "ui_notes": "Aturan: Cukup lepaskan akhiran 'です' / 'な' nya, lalu bubuhkan partikel 'で' (de). LARANGAN KERAS: Anda dilarang memakai pola 'くて/で' ini untuk menyambung sifat yang saling berlawanan (misal: Sempit TAPI Bersih). Gunakanlah partikel 'が' (Tetapi - Pel. 8) untuk sifat paradoksikal.",
     "examples": [
       {
         "jp": "ミラーさんは ハンサムで、親切です。",
-        "id": "Sdr. Miller ganteng dan baik hati."
+        "id": "Sdr. Miller ganteng DAN baik hati (Sifat-na)."
       },
       {
         "jp": "奈良は 静かで、きれいな 町です。",
-        "id": "Nara adalah kota yang tenang dan indah."
+        "id": "Nara adalah kota yang tenang DAN indah."
+      },
+      {
+        "jp": "カリナさんは インドネシア人で、富士大学の 留学生です。",
+        "id": "Sdr. Karina adalah orang Indonesia, DAN pelajar asing dari Universitas Fuji (Kata Benda)."
       }
     ],
     "tags": [
       "N5",
-      "Kata Sifat",
-      "Kata Benda",
-      "Sambungan"
+      "Menyambung",
+      "Sifat-na / Nominal"
     ]
   },
   {
     "id": "m_bab16_4",
     "chapter": "Bab 16",
     "level": "N5",
-    "title": "A Bentuk てから、B",
-    "meaning": "Pola kalimat ini menunjukkan bahwa Kata Kerja2 dilakukan setelah Kata Kerja1. Pada umumnya Kata Kerja1 adalah prasyarat sebagai persiapan untuk melakukan Kata Kerja2. Waktu ditentukan oleh Kata Kerja terakhir.",
-    "formula_template": "{A} から、{B}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} から、{B}' untuk menyatakan: Pola kalimat ini menunjukkan bahwa Kata Kerja2 dilakukan setelah Kata Kerja1. Pada umumnya Kata Kerja1 adalah . Pastikan 'A' mewakili Kata Kerja1 (Bentuk て), 'B' mewakili Kata Kerja2.",
-    "ui_notes": "Subjek untuk Kata Kerja Bentuk てから ditunjukkan dengan partikel が.",
+    "title": "〜て から (Setelah X selesai, barulah...)",
+    "meaning": "Berbeda dengan fungsi 'て' di nomor 1 yang sekadar merangkai aksi, pola [Bentuk て] + [から] (te kara) menegaskan adanya PRASYARAT: bahwa aksi fase pertama harus BENAR-BENAR RAMPUNG DULU, baru boleh melangkah ke aksi kedua.",
+    "formula_template": "[Aksi 1 (Bentuk て)] から、[Aksi 2]",
+    "ui_notes": "Sering dipakai dalam instruksi atau prosedur ketat. Bila aksi pertama memiliki subjek mandiri yang memicu aksi kedua, subjek aksi pertama HARUS ditandai partikel 'が' (bukan 'は').",
     "examples": [
       {
         "jp": "お金を 入れてから、ボタンを 押して ください。",
-        "id": "Tekanlah tombol setelah memasukkan uang."
+        "id": "Tekanlah tombol (hanya) SETELAH (benar-benar) memasukkan uang."
       },
       {
-        "jp": "もう 昼ごはんを 食べましたか。……この 仕事が 終わってから、食べます。",
-        "id": "Sudah makan siang? ……Setelah selesai pekerjaan ini, baru mau makan."
+        "jp": "もう 昼ごはんを 食べましたか。",
+        "id": "Sudah makan siang?"
+      },
+      {
+        "jp": "……この 仕事が 終わってから、食べます。",
+        "id": "……SETELAH SELESAI pekerjaan ini, (baru) saya mau makan."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
+      "Prasyarat",
       "Urutan Waktu"
     ]
   },
@@ -188,156 +107,104 @@
     "id": "m_bab16_5",
     "chapter": "Bab 16",
     "level": "N5",
-    "title": "A は B が C",
-    "meaning": "Pola kalimat ini menunjukkan bahwa topik (Kata Benda1) mempunyai sifat atau ciri-ciri bagian (Kata Benda2) yang dijelaskan oleh 'Kata Sifat'.",
-    "formula_template": "{A} は {B} が {C}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は {B} が {C}' untuk menyatakan: Pola kalimat ini menunjukkan bahwa topik (Kata Benda1) mempunyai sifat atau ciri-ciri bagian (Kata Benda2) yan. Pastikan 'A' mewakili Kata Benda1 (Topik), 'B' mewakili Kata Benda2 (Bagian/Aspek), 'C' mewakili Kata Sifat.",
-    "ui_notes": "Pola kalimat ini menunjukkan bahwa topik (Kata Benda1) mempunyai sifat atau ciri-ciri bagian (Kata Benda2) yang dijelaskan oleh 'Kata Sifat'.",
+    "title": "A は B が 〜です (Fokus Properti Khusus)",
+    "meaning": "Pola pamungkas untuk membedah atau mendeskripsikan ciri khas mendetail suatu entitas. Subjek besarnya diletakkan sebagai Topik (は), lalu 'anggota tubuh' / 'properti spesifik'-nya disorot tajam menggunakan partikel (が).",
+    "formula_template": "[Subjek Utama] は [Properti Spesifik] が [Sifat]",
+    "ui_notes": "Pola ini memecahkan dilema penerjemahan harafiah bahasa Indonesia. Cukup pahami bahwa format bahasa Jepangnya berbunyi: \"Adapun si A, B-nya bersifat C\".",
     "examples": [
       {
         "jp": "大阪は 食べ物が おいしいです。",
-        "id": "Osaka makanannya enak."
+        "id": "Osaka, MAKANANNYA enak."
       },
       {
-        "jp": "ドイツの フランケンは ワインが 有名です。",
-        "id": "Franken di Jerman anggurnya terkenal."
+        "jp": "マリアさんは 髪が 長いです。",
+        "id": "Sdr. Maria, RAMBUTNYA panjang."
       }
     ],
     "tags": [
       "N5",
-      "Pola Kalimat",
-      "Deskripsi Ciri-ciri"
+      "Deskripsi",
+      "Penyorotan Properti"
     ]
   },
   {
     "id": "m_bab16_6",
     "chapter": "Bab 16",
     "level": "N5",
-    "title": "Aを B",
-    "meaning": "Kata Kerja 出ます (keluar), 降ります (turun) dan lain-lainnya digunakan bersama partikel を. Ini menunjukkan titik awal atau titik keberangkatan.",
-    "formula_template": "{A} を 出ます／降ります",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} を 出ます／降ります' untuk menyatakan: Kata Kerja 出ます (keluar), 降ります (turun) dan lain-lainnya digunakan bersama partikel を. Ini menunjukkan titik awa. Pastikan 'A' mewakili Kata Benda (Tempat).",
-    "ui_notes": "Kata Kerja 出ます (keluar), 降ります (turun) dan lain-lainnya digunakan bersama partikel を. Ini menunjukkan titik awal atau titik keberangkatan.",
+    "title": "Tempat を [Keluar / Meninggalkan / Turun]",
+    "meaning": "Di luar fungsinya sebagai penunjuk objek penderita, partikel 'を' memiliki keistimewaan luar biasa bila dipasangkan dengan kata kerja pelepasan/pergerakan keluar seperti '出ます' (Keluar) atau '降ります' (Turun). Ia berfungsi menyorot TITIK KEBERANGKATAN atau area yang Anda tinggalkan.",
+    "formula_template": "[Titik Tolak/Keluar] を [出ます / 降ります]",
+    "ui_notes": "Anda seolah-olah melepaskan diri dari rahim ruangan/tempat tersebut. Jangan tertukar dengan 'に' yang bermakna titik mendarat.",
     "examples": [
       {
         "jp": "7時に うちを 出ます。",
-        "id": "Pada pukul tujuh keluar dari rumah."
+        "id": "Pada pukul tujuh keluar/berangkat DARI (meninggalkan area) rumah."
       },
       {
         "jp": "梅田で 電車を 降りました。",
-        "id": "Turun kereta rel listrik di Umeda."
+        "id": "Turun DARI (meninggalkan kabin) kereta listrik di Umeda."
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Titik Keberangkatan"
+      "Titik Berangkat"
     ]
   },
   {
     "id": "m_bab16_7",
     "chapter": "Bab 16",
     "level": "N5",
-    "title": "どうやって",
-    "meaning": "どうやって dipakai untuk menanyakan cara pergi ke suatu tempat atau cara untuk melakukan sesuatu.",
-    "formula_template": "どうやって {A}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'どうやって {A}' untuk menyatakan: どうやって dipakai untuk menanyakan cara pergi ke suatu tempat atau cara untuk melakukan sesuatu.. Pastikan 'A' mewakili Kata Kerja.",
-    "ui_notes": "どうやって dipakai untuk menanyakan cara pergi ke suatu tempat atau cara untuk melakukan sesuatu.",
+    "title": "どうやって (Bagaimana Caranya / Rutenya)",
+    "meaning": "Frasa tanya 'どうやって' (Douyatte) digunakan eksklusif untuk menanyakan detail langkah, instruksi prosedur, rute transportasi panjang, atau CARA EKSEKUSI dalam menyelesaikan/membuat sesuatu.",
+    "formula_template": "どうやって [Aksi Target]",
+    "ui_notes": "Berhubung lawan bicara meminta panduan berjenjang, jawabannya biasanya disajikan panjang dan runut memakai penyambung '〜て' (Naik X, lalu turun Y).",
     "examples": [
       {
-        "jp": "大学まで どうやって 行きますか。……京都駅から 16番の バスに 乗って、大学前で 降ります。",
-        "id": "Bagaimana caranya pergi ke universitas? ……Dari stasiun Kyoto, naik bus nomor 16, dan turun di Daigakumae."
+        "jp": "大学まで どうやって 行きますか。",
+        "id": "BAGAIMANA CARA/RUTE PERJALANAN-nya pergi ke universitas?"
+      },
+      {
+        "jp": "……京都駅から 16番の バスに 乗って、大学前で 降ります。",
+        "id": "……Dari stasiun Kyoto, naik bus 16, lalu turun di Universitas."
       }
     ],
     "tags": [
       "N5",
       "Kata Tanya",
-      "Cara/Metode"
+      "Metode / Rute"
     ]
   },
   {
     "id": "m_bab16_8",
     "chapter": "Bab 16",
     "level": "N5",
-    "title": "どれ ／ どの A",
-    "meaning": "どれ adalah Kata Tanya untuk meminta menentukan satu dari lebih dari tiga macam pilihan yang ditunjukkan secara konkret. どの tidak dapat berdiri sendiri, melainkan harus menerangkan Kata Benda.",
-    "formula_template": "どれですか ／ どの {A} ですか",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'どれですか ／ どの {A} ですか' untuk menyatakan: どれ adalah Kata Tanya untuk meminta menentukan satu dari lebih dari tiga macam pilihan yang ditunjukkan secara . Pastikan 'A' mewakili Kata Benda.",
-    "ui_notes": "どれ tidak dapat digunakan dengan Kata Benda secara langsung. Jika ada Kata Benda, gunakan どの.",
+    "title": "どれ / どの [Benda] (Yang mana?)",
+    "meaning": "Kata tanya untuk memaksa lawan bicara memilih atau menunjuk SATU di antara TIGA ATAU LEBIH pilihan barang konkrit di depannya.",
+    "formula_template": "[Topik] は どれ ですか / どの [Benda] ですか",
+    "ui_notes": "'どれ' (Dore) berdiri sendiri sebagai kata ganti ('Yang mana'). SANGAT PENTING: Anda DILARANG menempelkan 'どれ' langsung di depan kata benda. Jika Anda butuh merangkainya dengan nama benda (misal: Orang yang mana), kata tersebut WAJIB berubah wujud menjadi 'どの' (Dono).",
     "examples": [
       {
-        "jp": "ミラーさんの 傘は どれですか。……あの 青い 傘です。",
-        "id": "Yang mana payung Sdr. Miller? ……Payung yang biru itu."
+        "jp": "ミラーさんの 傘は どれですか。",
+        "id": "Payung Sdr. Miller YANG MANA?"
       },
       {
-        "jp": "サントスさんは どの 人 ですか。……あの 背が 高くて、髪が 黒い 人です。",
-        "id": "Sdr. Santos orangnya yang mana? ……Orang yang badannya tinggi, dan rambutnya hitam."
+        "jp": "……あの 青い 傘です。",
+        "id": "……Payung biru yang itu."
+      },
+      {
+        "jp": "サントスさんは どの 人ですか。",
+        "id": "Sdr. Santos ORANG YANG MANA? (Bukan どれ人)"
+      },
+      {
+        "jp": "……あの 背が 高くて、髪が 黒い 人です。",
+        "id": "……Orang yang badannya tinggi dan berambut hitam (Pola penyorotan)."
       }
     ],
     "tags": [
       "N5",
       "Kata Tanya",
-      "Pilihan"
+      "Pemilihan Spesifik"
     ]
   }
 ]

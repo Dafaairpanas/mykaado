@@ -6,27 +6,6 @@
     "title": "【waktu】にV-ます ([Waktu] ni V-masu)",
     "meaning": "Pola kalimat untuk menyatakan waktu terjadinya suatu aktivitas. Partikel 'に' digunakan untuk menunjukkan waktu spesifik (jam, hari, tanggal). Berbeda dengan 'で' untuk lokasi aktivitas, 'に' untuk waktu aktivitas. Artinya 'melakukan [aktivitas] pada [waktu]'.",
     "formula_template": "{A} に {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "time"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} に {B}' untuk percakapan: Pola kalimat untuk menyatakan waktu terjadinya suatu aktivitas. Partikel 'に' digunakan untuk menunjukkan waktu. Pastikan 'A' mewakili Waktu, 'B' mewakili Kata Kerja.",
     "ui_notes": "'ごろ' (goro) berarti 'sekitar' dan digunakan setelah waktu untuk menunjukkan perkiraan. Tidak perlu partikel 'に' setelah 'ごろ'. Contoh: 8時ごろ起きます (Bangun sekitar jam 8). Untuk hari, gunakan 'に' seperti: 月曜日に働きます (Bekerja pada hari Senin).",
     "examples": [
       {
@@ -53,25 +32,6 @@
     "title": "【waktu】から【waktu】まで ([Waktu] kara [waktu] made)",
     "meaning": "Pola kalimat untuk menyatakan rentang waktu dari titik awal hingga titik akhir. 'から' berarti 'dari' dan 'まで' berarti 'sampai'. Digunakan untuk menjelaskan durasi atau jadwal suatu kegiatan. Artinya 'dari [waktu] sampai [waktu]'.",
     "formula_template": "{A} から {B} まで",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "time"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "time"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} から {B} まで' untuk percakapan: Pola kalimat untuk menyatakan rentang waktu dari titik awal hingga titik akhir. 'から' berarti 'dari' dan 'まで' b. Pastikan 'A' mewakili Waktu Awal, 'B' mewakili Waktu Akhir.",
     "ui_notes": "Bisa juga digunakan untuk menyatakan rentang hari atau tanggal. Contoh: 月曜日から金曜日まで (dari Senin sampai Jumat). Untuk menanyakan rentang waktu, gunakan: 何時から何時までですか？ (Dari jam berapa sampai jam berapa?).",
     "examples": [
       {
@@ -98,17 +58,6 @@
     "title": "【hari/waktu】がいいです ([Hari/Waktu] ga ii desu)",
     "meaning": "Pola kalimat untuk menyatakan pilihan waktu atau hari yang dianggap baik/nyaman. 'が' menandakan subjek (waktu yang dipilih), dan 'いいです' berarti 'bagus'. Sangat berguna saat menentukan jadwal pertemuan atau janji. Artinya '[Hari/waktu] itu bagus' atau 'Saya pilih [hari/waktu]'.",
     "formula_template": "{A} が いいです",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "time"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} が いいです' untuk percakapan: Pola kalimat untuk menyatakan pilihan waktu atau hari yang dianggap baik/nyaman. 'が' menandakan subjek (waktu . Pastikan 'A' mewakili Hari/Waktu.",
     "ui_notes": "Untuk menanyakan pilihan waktu orang lain: いつがいいですか？ (Kapan yang bagus?). Untuk menawarkan pilihan: 水曜日はどうですか？ (Bagaimana kalau Rabu?). Bisa juga digunakan untuk pilihan benda: これがいいです。 (Saya pilih ini.)",
     "examples": [
       {

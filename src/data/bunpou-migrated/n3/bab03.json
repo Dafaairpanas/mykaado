@@ -4,46 +4,9 @@
     "chapter": "Bab 03",
     "level": "N3",
     "title": "〜みたい",
-    "meaning": "merupakan bahasa lisan dari 「〜ようだ」; ✓ digunakan ketika pembicara mengambil kesimpulan atas hal yang didengar, dilihat & dirasakan",
+    "meaning": "Pola ini adalah bentuk kasual (bahasa lisan) dari 〜ようだ. Digunakan ketika pembicara mengambil kesimpulan atau dugaan berdasarkan hal yang didengar, dilihat, atau dirasakan. Artinya 'sepertinya', 'kayaknya', 'kelihatannya'. Karena bersifat lisan, 〜みたい lebih sering dipakai dalam percakapan sehari-hari dibandingkan 〜ようだ yang terkesan lebih formal atau tertulis. Tingkat kepastiannya lebih rendah daripada 〜かもしれない, tetapi lebih tinggi daripada sekadar tebakan.",
     "formula_template": "[{A}(biasa) / {B} (biasa) / {C} (coret だ) / {D}(coret だ)] みたいだ",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} (coret だ) / {D}(coret だ)] みたいだ' untuk mengekspresikan: merupakan bahasa lisan dari 「〜ようだ」; ✓ digunakan ketika pembicara mengambil kesimpulan atas hal yang didengar, .",
-    "ui_notes": "merupakan bahasa lisan dari 「〜ようだ」; ✓ digunakan ketika pembicara mengambil kesimpulan atas hal yang didengar, dilihat & dirasakan",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk biasa + みたい. Contoh: 雨が降る (ame ga furu) → 雨が降るみたい. (2) Kata sifat-i bentuk biasa + みたい. Contoh: おいしい → おいしいみたい. (3) Kata sifat-na: coret だ, lalu + みたい. Contoh: 元気だ (genki da) → 元気みたい. (4) Kata benda: coret だ, lalu + みたい. Contoh: 学生だ (gakusei da) → 学生みたい. Penggunaan: みたいだ di akhir kalimat, みたいに + kata kerja/kata sifat, みたいな + kata benda. Contoh: 子どもみたいに笑う (tertawa seperti anak kecil), 大阪みたいな街 (kota seperti Osaka).",
     "examples": [
       {
         "jp": "明日は雨みたいね。",
@@ -64,28 +27,9 @@
     "chapter": "Bab 03",
     "level": "N3",
     "title": "〜みたい",
-    "meaning": "digunakan untuk menjelaskan sesuatu dengan menunjukkan contoh atau mengibaratkan sesuatu",
+    "meaning": "Pola ini digunakan untuk menjelaskan sesuatu dengan menunjukkan contoh atau mengibaratkan sesuatu, seperti 'seperti...', 'mirip...', 'seperti contohnya...'. Berbeda dengan 〜みたい (1) yang menyatakan dugaan, di sini 〜みたい berfungsi sebagai perumpamaan atau analogi. Sering digunakan untuk membandingkan sifat, penampilan, atau perilaku seseorang/benda dengan hal lain.",
     "formula_template": "{A}(biasa) みたいだ / みたいに / みたいな {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}(biasa) みたいだ / みたいに / みたいな {B}' untuk mengekspresikan: digunakan untuk menjelaskan sesuatu dengan menunjukkan contoh atau mengibaratkan sesuatu.",
-    "ui_notes": "digunakan untuk menjelaskan sesuatu dengan menunjukkan contoh atau mengibaratkan sesuatu",
+    "ui_notes": "Cara membentuk: Sama seperti 〜みたい (1), tetapi penggunaannya sebagai perumpamaan. みたいだ di akhir kalimat (predikat), みたいに + kata kerja/kata sifat (sebagai keterangan), みたいな + kata benda (sebagai pewatas). Contoh: 女みたいだ (seperti perempuan), 女みたいに話す (berbicara seperti perempuan), 大阪みたいな街 (kota seperti Osaka). Perbedaan dengan 〜らしい: 〜みたい menekankan kemiripan atau contoh, sedangkan 〜らしい menekankan ciri khas yang melekat.",
     "examples": [
       {
         "jp": "彼の話し方は、女みたいだ。",
@@ -106,20 +50,9 @@
     "chapter": "Bab 03",
     "level": "N3",
     "title": "〜らしい",
-    "meaning": "ungkapan untuk menunjukkan ciri khas sebuah sifat, karakter atau keadaan",
+    "meaning": "Pola ini digunakan untuk menunjukkan ciri khas sebuah sifat, karakter, atau keadaan. Artinya 'khas...', 'seperti seharusnya...', 'cerminan dari...'. Berbeda dengan 〜みたい yang hanya membandingkan, 〜らしい menekankan bahwa sesuatu benar-benar mencerminkan sifat asli atau ideal dari hal tersebut. Contoh: 子どもらしい = kekanak-kanakan (dalam arti positif, sesuai dengan dunia anak), 女らしい = kewanitaan, 男らしい = kejantanan, 私らしい = khas saya, 君らしい = khas kamu.",
     "formula_template": "{A}らしい (※ 子（こ）どもらしい／女（おんな）らしい／男（おとこ）らしい／私（わたし）らしい／君（きみ）らしい)",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}らしい (※ 子（こ）どもらしい／女（おんな）らしい／男（おとこ）らしい／私（わたし）らしい／君（きみ）らしい)' untuk mengekspresikan: ungkapan untuk menunjukkan ciri khas sebuah sifat, karakter atau keadaan.",
-    "ui_notes": "ungkapan untuk menunjukkan ciri khas sebuah sifat, karakter atau keadaan",
+    "ui_notes": "Cara membentuk: Kata benda + らしい. Contoh: 子ども (kodomo) → 子どもらしい. 女 (onna) → 女らしい. 男 (otoko) → 男らしい. 私 (watashi) → 私らしい. 君 (kimi) → 君らしい. 春 (haru) → 春らしい. Pola ini bisa diikuti kata benda: らしい + kata benda. Contoh: 彼は男らしい人です (dia orang yang jantan). Bisa juga di akhir kalimat: 今日は春らしい (hari ini terasa seperti musim semi). Nuansa: biasanya positif, menunjukkan bahwa sesuatu sesuai dengan citra atau sifat yang diharapkan.",
     "examples": [
       {
         "jp": "今日は、春らしい暖かい日（ひでした。",
@@ -140,46 +73,9 @@
     "chapter": "Bab 03",
     "level": "N3",
     "title": "〜らしい",
-    "meaning": "mengungkapkan suatu hal berdasarkan informasi yang didapat dari luar (biasanya untuk gosip)",
+    "meaning": "Pola ini digunakan untuk mengungkapkan suatu hal berdasarkan informasi yang didapat dari luar (bukan pengamatan langsung). Biasanya untuk menyampaikan kabar, gosip, atau informasi yang didengar dari orang lain. Artinya 'katanya...', 'denger-denger...', 'sepertinya (menurut informasi)...'. Berbeda dengan 〜みたい yang berdasarkan pengamatan langsung, 〜らしい (4) berdasarkan sumber informasi tidak langsung.",
     "formula_template": "[{A}(biasa) / {B} (biasa) / {C} (coret だ) / {D}(coret だ)] らしい",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} (coret だ) / {D}(coret だ)] らしい' untuk mengekspresikan: mengungkapkan suatu hal berdasarkan informasi yang didapat dari luar (biasanya untuk gosip).",
-    "ui_notes": "mengungkapkan suatu hal berdasarkan informasi yang didapat dari luar (biasanya untuk gosip)",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk biasa + らしい. Contoh: 降る (furu) → 降るらしい. (2) Kata sifat-i bentuk biasa + らしい. Contoh: おいしい → おいしいらしい. (3) Kata sifat-na: coret だ, lalu + らしい. Contoh: 元気だ (genki da) → 元気らしい. (4) Kata benda: coret だ, lalu + らしい. Contoh: 学生だ (gakusei da) → 学生らしい. Pola ini sering dipakai untuk menyampaikan kabar dari orang lain, dan biasanya tidak menyebutkan sumber secara spesifik. Contoh: 天気予報によると、明日は雨らしい (menurut ramalan cuaca, besok katanya hujan).",
     "examples": [
       {
         "jp": "最近、仕事大変らしいね。大丈夫？",
@@ -200,38 +96,9 @@
     "chapter": "Bab 03",
     "level": "N3",
     "title": "〜っぽい",
-    "meaning": "menerangkan sebuah sifat, karakter atau keadaan; ✓ sering digunakan dalam konteks negatif (tapi tidak selalu)",
+    "meaning": "Pola ini digunakan untuk menerangkan sebuah sifat, karakter, atau keadaan. Artinya 'terkesan...', 'cenderung...', 'agak...'. Sering digunakan dalam konteks negatif (tapi tidak selalu). Nuansanya menunjukkan bahwa sesuatu memiliki kecenderungan atau kesan tertentu, kadang berlebihan. Contoh: 大人っぽい = terkesan dewasa, 油っぽい = berminyak (terlalu banyak minyak), 子どもっぽい = kekanak-kanakan (bisa negatif), 忘れっぽい = pelupa.",
     "formula_template": "[{A}ます (coret ます) / {B} (coret い) / {C}(coret だ)] っぽい",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}ます (coret ます) / {B} (coret い) / {C}(coret だ)] っぽい' untuk mengekspresikan: menerangkan sebuah sifat, karakter atau keadaan; ✓ sering digunakan dalam konteks negatif (tapi tidak selalu).",
-    "ui_notes": "menerangkan sebuah sifat, karakter atau keadaan; ✓ sering digunakan dalam konteks negatif (tapi tidak selalu)",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk ます, coret ます, lalu + っぽい. Contoh: 忘れます (wasuremasu) → 忘れっぽい (pelupa). (2) Kata sifat-i, coret い, lalu + っぽい. Contoh: 油い (aburai) → 油っぽい (berminyak). Catatan: kata 油 sendiri adalah kata benda, tetapi 油っぽい dibentuk dari 油 + っぽい. (3) Kata sifat-na / kata benda: coret だ, lalu + っぽい. Contoh: 大人だ (otona da) → 大人っぽい (terkesan dewasa). 子どもだ (kodomo da) → 子どもっぽい (kekanak-kanakan). Pola ini bisa diikuti kata benda: っぽい + kata benda. Contoh: 油っぽい料理 (masakan berminyak).",
     "examples": [
       {
         "jp": "あの小学生は、大人っぽい。",

@@ -4,46 +4,9 @@
     "chapter": "Bab 29",
     "level": "N3",
     "title": "たとえ〜ても",
-    "meaning": "たとえ〜ても",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa meskipun suatu kondisi terjadi (bahkan yang ekstrem sekalipun), hasil atau tindakan tetap sama. Artinya 'meskipun...', 'walaupun...', 'biarpun...'. Kata たとえ di awal kalimat berfungsi memperkuat nuansa 'seandainya pun' atau 'andaikan pun'. Sering dipakai untuk menyatakan tekad atau keyakinan yang tidak terpengaruh oleh keadaan.",
     "formula_template": "たとえ {A}ても / {B} 〜くても / {C} 〜でも / {D}でも.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'たとえ {A}ても / {B} 〜くても / {C} 〜でも / {D}でも.' untuk mengekspresikan: たとえ〜ても.",
-    "ui_notes": "たとえ〜ても",
+    "ui_notes": "Cara membentuk: たとえ + kata kerja/kata sifat bentuk ても/でも. (1) Kata kerja bentuk て + も. Contoh: 反対される (hantai sareru) → 反対されても (meskipun ditentang). (2) Kata sifat-i: coret い, + くても. Contoh: 高い (takai) → 高くても (meskipun mahal). (3) Kata sifat-na + でも. Contoh: 元気じゃない (genki ja nai) → 元気じゃなくても (meskipun tidak sehat). (4) Kata benda + でも. Contoh: 雨 (ame) → 雨でも (meskipun hujan). Contoh pemakaian: たとえ反対されても留学します (meskipun ditentang, saya tetap akan kuliah di luar negeri). たとえ元気じゃなくても、家族への手紙には元気だと書きます (meskipun sedang tidak sehat, di surat untuk keluarga saya tulis saya sehat-sehat saja). Perbedaan dengan 〜ても: 〜ても = meskipun (netral), たとえ〜ても = meskipun (lebih kuat, menekankan bahkan jika...).",
     "examples": [
       {
         "jp": "たとえ反対されても留学します。",
@@ -65,46 +28,9 @@
     "chapter": "Bab 29",
     "level": "N3",
     "title": "もしかすると〜",
-    "meaning": "もしかすると〜",
+    "meaning": "Pola ini digunakan untuk menyatakan kemungkinan atau dugaan yang tidak pasti. Artinya 'mungkin saja...', 'bisa jadi...', 'kalau-kalau...'. Sering dipakai bersama 〜かもしれない di akhir kalimat untuk menegaskan nuansa ketidakpastian. Bentuk もしかしたら lebih kasual, sedangkan もしかすると sedikit lebih formal. Tingkat kepastiannya rendah.",
     "formula_template": "もしかすると／もしかしたら {A}/{B}(biasa) / {C} / {D} かもしれない.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'もしかすると／もしかしたら {A}/{B}(biasa) / {C} / {D} かもしれない.' untuk mengekspresikan: もしかすると〜.",
-    "ui_notes": "もしかすると〜",
+    "ui_notes": "Cara membentuk: もしかすると / もしかしたら + kalimat bentuk biasa + かもしれない. Contoh: 彼の話はうそだ (dia no hanashi wa uso da) → もしかすると彼の話はうそかもしれない (bisa jadi ceritanya itu bohong). 行けない (ikenai) → もしかしたら、明日行けないかもしれません (mungkin saja besok saya tidak bisa pergi). Contoh pemakaian: もしかすると彼の話はうそかもしれない (bisa jadi ceritanya itu bohong). もしかしたら、明日行けないかもしれません (mungkin saja besok saya tidak bisa pergi). Perbedaan dengan たぶん: たぶん = mungkin (kepastian lebih tinggi), もしかすると = mungkin saja (kepastian lebih rendah, ada keraguan). Perbedaan もしかすると dan もしかしたら: maknanya sama, もしかしたら lebih sering dipakai dalam percakapan kasual.",
     "examples": [
       {
         "jp": "もしかすると彼の話はうそかもしれない。",
@@ -126,46 +52,9 @@
     "chapter": "Bab 29",
     "level": "N3",
     "title": "〜とは限（かぎ）らない",
-    "meaning": "Dalam bhs Indo: \"belum tentu...\", \"tidak selalu...\", \"tidak pasti...\". ※ bisa juga digunakan dengan いつも／全部／だれでも.",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa sesuatu belum tentu atau tidak selalu benar. Artinya 'belum tentu...', 'tidak selalu...', 'tidak pasti...'. Sering dipakai bersama 必ずしも (tidak selalu) untuk memperkuat makna. Bisa juga digabung dengan いつも (selalu), 全部 (semua), だれでも (siapa pun). Fungsinya menolak generalisasi atau asumsi yang terlalu pasti.",
     "formula_template": "必ずしも {A}/{B}(biasa) / {C} だ / {D}だ 〜とは限（かぎ）らない.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '必ずしも {A}/{B}(biasa) / {C} だ / {D}だ 〜とは限（かぎ）らない.' untuk mengekspresikan: Dalam bhs Indo: \"belum tentu...\", \"tidak selalu...\", \"tidak pasti...\". ※ bisa juga digunakan dengan いつも／全部／だれで.",
-    "ui_notes": "Dalam bhs Indo: \"belum tentu...\", \"tidak selalu...\", \"tidak pasti...\". ※ bisa juga digunakan dengan いつも／全部／だれでも.",
+    "ui_notes": "Cara membentuk: Kalimat bentuk biasa + とは限らない. Contoh: 金持ちが幸福だ (kanemochi ga koufuku da) → 金持ちが必ずしも幸福だとは限らない (orang kaya belum tentu bahagia). 高いものがいいものだ (takai mono ga ii mono da) → 高いものが必ずしもいいものだとは限らない (barang mahal belum tentu barang bagus). Contoh pemakaian: 金持ちが必ずしも幸福だとは限らない (orang kaya belum tentu bahagia). 高いものが必ずしもいいものだとは限らない (barang mahal belum tentu barang bagus). Bisa juga dengan いつも: いつも正しいとは限らない (tidak selalu benar). 全部: 全部がいいとは限らない (tidak semua bagus). だれでも: だれでもできるとは限らない (tidak semua orang bisa). Perbedaan dengan 〜かもしれない: 〜とは限らない = belum tentu/tidak selalu (menolak generalisasi), 〜かもしれない = mungkin (kemungkinan positif).",
     "examples": [
       {
         "jp": "金持ちが必ずしも幸福だとは限らない。",
@@ -187,64 +76,9 @@
     "chapter": "Bab 29",
     "level": "N3",
     "title": "まるで〜ようだ",
-    "meaning": "Mengibaratkan suatu hal (\"ibarat\", \"seakan-akan\").",
+    "meaning": "Pola ini digunakan untuk mengibaratkan atau menganalogikan sesuatu. Artinya 'ibarat...', 'seakan-akan...', 'persis seperti...'. Kata まるで di awal kalimat memperkuat nuansa perumpamaan. Bisa dipakai dengan 〜ようだ (formal) atau 〜みたい (kasual). Sering digunakan untuk menyatakan kesan yang sangat mirip dengan sesuatu yang lain.",
     "formula_template": "まるで {A}(biasa) / {B}の よう ／ まるで {C}/{D}(biasa) / {V4} / {V5} みたい.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "C": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "D": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "V4": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "V5": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'まるで {A}(biasa) / {B}の よう ／ まるで {C}/{D}(biasa) / {V4} / {V5} みたい.' untuk mengekspresikan: Mengibaratkan suatu hal (\"ibarat\", \"seakan-akan\")..",
-    "ui_notes": "Mengibaratkan suatu hal (\"ibarat\", \"seakan-akan\").",
+    "ui_notes": "Cara membentuk: まるで + kata benda/frasa + のようだ / みたい. (1) Kata benda + の + ようだ. Contoh: 夢 (yume) → まるで夢のようだ (persis seperti mimpi). (2) Kata kerja/kata sifat bentuk biasa + ようだ. Contoh: 日本人が話している (nihonjin ga hanashite iru) → まるで日本人が話しているみたい (persis seperti orang Jepang yang berbicara). Contoh pemakaian: 合格した！まるで夢のようだ (aku lulus! Rasanya seperti mimpi). 彼の日本語はまるで日本人が話しているみたいに聞こえる (bahasa Jepangnya terdengar persis seperti orang Jepang asli yang berbicara). Perbedaan ようだ dan みたい: ようだ lebih formal/tertulis, みたい lebih kasual/lisan. Perbedaan dengan 〜らしい: 〜らしい = khas/ciri khas, まるで〜ようだ = perumpamaan/analogi.",
     "examples": [
       {
         "jp": "合格した！まるで夢のようだ。",
@@ -266,21 +100,9 @@
     "chapter": "Bab 29",
     "level": "N3",
     "title": "だけど",
-    "meaning": "Sering digunakan dalam bahasa kasual, informal. Mempunyai makna sama seperti 「けれども」「しかし」.",
+    "meaning": "Pola ini adalah kata penghubung yang digunakan untuk menyatakan pertentangan atau kontras. Artinya 'tetapi...', 'namun...', 'tapi...'. Sering digunakan dalam bahasa kasual/informal, dan memiliki makna yang sama seperti けれども atau しかし. Bentuk だけど lebih santai dan sering dipakai di awal kalimat dalam percakapan sehari-hari. Varian lain: だけれど, だけども (lebih formal).",
     "formula_template": "{A} は だけど です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は だけど です' untuk mengekspresikan: Sering digunakan dalam bahasa kasual, informal. Mempunyai makna sama seperti 「けれども」「しかし」..",
-    "ui_notes": "Sering digunakan dalam bahasa kasual, informal. Mempunyai makna sama seperti 「けれども」「しかし」.",
+    "ui_notes": "Cara membentuk: Kalimat A + だけど + kalimat B. Contoh: 旅行に行きたい (ryokou ni ikitai) → 旅行に行きたい。だけどひまがない (saya ingin pergi liburan. Tetapi tidak punya waktu luang). よくカラオケに行く (yoku karaoke ni iku) → よくカラオケに行く。だけど歌は下手だ (saya sering pergi karaoke. Namun suara saya jelek). Contoh pemakaian: 旅行に行きたい。だけどひまがない (saya ingin pergi liburan. Tetapi tidak punya waktu luang). よくカラオケに行く。だけど歌は下手だ (saya sering pergi karaoke. Namun suara saya jelek). Perbedaan dengan しかし: しかし lebih formal dan sering dipakai dalam tulisan, だけど lebih kasual dan sering dipakai dalam percakapan. Perbedaan dengan でも: でも lebih kasual dan sering di awal kalimat, だけど sedikit lebih netral.",
     "examples": [
       {
         "jp": "旅行に行きたい。だけどひまがない。",

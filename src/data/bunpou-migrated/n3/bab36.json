@@ -4,40 +4,9 @@
     "chapter": "Bab 36",
     "level": "N3",
     "title": "あと／それと",
-    "meaning": "digunakan untuk menambahkan sesuatu",
+    "meaning": "Pola ini digunakan untuk menambahkan sesuatu ke dalam pembicaraan. Artinya 'lalu...', 'dan juga...', 'selain itu...'. Kata あと lebih kasual dan sering dipakai untuk menambahkan item atau hal yang masih berkaitan, sedangkan それと juga kasual dan sering dipakai untuk menambahkan hal baru yang belum disebutkan. Keduanya berfungsi seperti 'oh iya, tambahan lagi...'.",
     "formula_template": "{A}。あと／それと、{B}。",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}。あと／それと、{B}。' untuk mengekspresikan: digunakan untuk menambahkan sesuatu.",
-    "ui_notes": "digunakan untuk menambahkan sesuatu",
+    "ui_notes": "Cara membentuk: Kalimat A + あと / それと + kalimat B. Contoh: レタス一つとトマトを3個ください (retasu hitotsu to tomato o sanko kudasai) → レタス一つとトマトを3個ください。それと、ピーマンも1袋ください (saya mau beli lettuce satu dan tomat tiga... lalu, paprika juga satu). 言われたことはしました (iwareta koto wa shimashita) → 言われたことはしました。あと、何をすればいいですか (saya sudah melakukan apa yang dibilang. Berikutnya saya harus gimana?). Contoh pemakaian: レタス一つとトマトを3個ください。それと、ピーマンも1袋ください (saya mau beli lettuce satu dan tomat tiga... lalu, paprika juga satu). 言われたことはしました。あと、何をすればいいですか (saya sudah melakukan apa yang dibilang. Berikutnya saya harus gimana?). Perbedaan あと dan それと: あと = menambahkan hal yang masih berkaitan (lanjutan), それと = menambahkan hal baru (tambahan). Keduanya kasual dan sering dipakai dalam percakapan. Perbedaan dengan その上: その上 lebih formal dan menekankan penambahan yang menguatkan.",
     "examples": [
       {
         "jp": "レタス一つとトマトを3個ください。それと、ピーマンも1袋ください。",
@@ -58,40 +27,9 @@
     "chapter": "Bab 36",
     "level": "N3",
     "title": "それとも",
-    "meaning": "digunakan untuk menghubungkan kalimat tanya; ✓ secara makna sama seperti あるいは、または (menghubungkan kalimat & kosakata)",
+    "meaning": "Pola ini digunakan untuk menghubungkan dua kalimat tanya yang memberikan pilihan. Artinya 'atau...', 'ataukah...'. Fungsinya menawarkan dua opsi kepada lawan bicara. Secara makna sama seperti あるいは atau または, tetapi それとも khusus dipakai dalam kalimat tanya (pilihan). Tidak dipakai untuk menghubungkan kosakata biasa.",
     "formula_template": "{A}。それとも、{B}。",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}。それとも、{B}。' untuk mengekspresikan: digunakan untuk menghubungkan kalimat tanya; ✓ secara makna sama seperti あるいは、または (menghubungkan kalimat & kos.",
-    "ui_notes": "digunakan untuk menghubungkan kalimat tanya; ✓ secara makna sama seperti あるいは、または (menghubungkan kalimat & kosakata)",
+    "ui_notes": "Cara membentuk: Kalimat tanya A + それとも + kalimat tanya B. Contoh: コーヒーにしますか (koohii ni shimasu ka) → コーヒーにしますか。それとも紅茶にしますか (mau kopi atau teh?). 来週にしましょうか (raishuu ni shimashou ka) → 来週にしましょうか。それともさ来週がいいですか (mau minggu depan saja? Atau 2 minggu lagi?). Contoh pemakaian: コーヒーにしますか。それとも紅茶にしますか (mau kopi atau teh?). 来週にしましょうか。それともさ来週がいいですか (mau minggu depan saja? Atau 2 minggu lagi?). Perbedaan dengan または: または = atau (netral, bisa untuk kosakata/kalimat berita), それとも = atau (khusus kalimat tanya/pilihan). Perbedaan dengan あるいは: あるいは = atau (formal, bisa untuk kemungkinan), それとも = atau (pilihan dalam pertanyaan).",
     "examples": [
       {
         "jp": "コーヒーにしますか。それとも紅茶にしますか。",
@@ -112,21 +50,9 @@
     "chapter": "Bab 36",
     "level": "N3",
     "title": "その上",
-    "meaning": "digunakan untuk menambahkan informasi; ✓ lebih formal daripada それに",
+    "meaning": "Pola ini digunakan untuk menambahkan informasi yang memperkuat atau melengkapi pernyataan sebelumnya. Artinya 'selain itu...', 'di samping itu...', 'dan lagi...'. Lebih formal daripada それに. Sering dipakai untuk menambahkan hal positif (atau negatif) yang membuat kesan semakin kuat. Fungsinya seperti 'tidak hanya itu, bahkan...'.",
     "formula_template": "{A} は その上 です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は その上 です' untuk mengekspresikan: digunakan untuk menambahkan informasi; ✓ lebih formal daripada それに.",
-    "ui_notes": "digunakan untuk menambahkan informasi; ✓ lebih formal daripada それに",
+    "ui_notes": "Cara membentuk: Kalimat A + その上 + kalimat B. Contoh: この店の料理はおいしい (kono mise no ryouri wa oishii) → この店の料理はおいしい。その上、値段も安い (masakan restoran ini enak. Dan juga harganya murah). 彼は、頭がいい (kare wa, atama ga ii) → 彼は、頭がいい。その上、スポーツも何でもできる (dia pandai. Di samping itu, dia bisa olahraga dan apa saja). Contoh pemakaian: この店の料理はおいしい。その上、値段も安い (masakan restoran ini enak. Dan juga harganya murah). 彼は、頭がいい。その上、スポーツも何でもできる (dia pandai. Di samping itu, dia bisa olahraga dan apa saja). Perbedaan dengan それに: それに lebih kasual, その上 lebih formal dan menekankan penambahan yang menguatkan. Perbedaan dengan しかも: しかも = lagipula (lebih emosional/tegas), その上 = selain itu (lebih netral/formal).",
     "examples": [
       {
         "jp": "この店の料理はおいしい。その上、値段も安い。",

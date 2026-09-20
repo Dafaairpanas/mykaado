@@ -1,173 +1,166 @@
 [
   {
-    "id": "i_bab18_1",
+    "id": "i_a1_bab18_1",
     "chapter": "Bab 18",
     "level": "A1",
-    "title": "V-たいです",
-    "meaning": "Pola kalimat untuk menyatakan keinginan melakukan suatu tindakan. Dibentuk dengan mengubah kata kerja bentuk 'ます' (tanpa 'ます') menjadi 'たい' dan menambahkan 'です'. Digunakan untuk mengungkapkan apa yang ingin dilakukan, bukan keinginan memiliki benda. Artinya 'Ingin melakukan [aktivitas]'.",
-    "formula_template": "{A} たいです",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} たいです' untuk percakapan: Pola kalimat untuk menyatakan keinginan melakukan suatu tindakan. Dibentuk dengan mengubah kata kerja bentuk '. Pastikan 'A' mewakili Kata Kerja Bentuk Masu tanpa masu.",
-    "ui_notes": "Partikel yang digunakan biasanya 'が' untuk objek yang diinginkan, tetapi 'を' juga bisa digunakan dalam percakapan modern. Contoh: コーヒーを飲みたいです (Saya ingin minum kopi). Untuk menyatakan tidak ingin: V-たくないです. Contoh: 行きたくないです (Tidak ingin pergi).",
+    "title": "〜たいです (Ingin / Hasrat Melakukan)",
+    "meaning": "Teriakan Hasrat Jiwa! Pola paling dasar namun paling berkuasa untuk mengutarakan NAFSU / KEINGINAN MURNI Anda untuk mengeksekusi suatu aksi (Liburan pengen ke mana, mau beli apa).",
+    "formula_template": "[Kata Kerja Bentuk ます (coret ます)] + たいです",
+    "ui_notes": "DNA MUTASI PARTIKEL (PENTING!):\nBerhubung akhiran '〜たい' memancarkan aura Kata Sifat (Keinginan, layaknya kata 'ほしい/Ingin benda'), maka Partikel Objek **「を」** sering kali luntur dan LEBIH NATURAL BERUBAH BENTUK menjadi Partikel Sasaran **「が」**. \n(Contoh: ご飯を食べる -> ご飯【が】食べたい).",
     "examples": [
       {
-        "jp": "炊飯器が買いたいです。",
-        "id": "Saya ingin membeli penanak nasi."
+        "jp": "炊飯器が 買いたいです。",
+        "id": "(Bukan 'Rice cooker を Membeli', tapi berubah wujud:) Saya INGIN MEMBELI penanak nasi."
       },
       {
-        "jp": "温泉に入りたいです。",
-        "id": "Saya ingin berendam di pemandian air panas."
+        "jp": "日曜日は、家で ゆっくり したいです。",
+        "id": "Untuk hari Minggu, saya (hasrat saya murni cuma) INGIN BERSANTAI LEYEH-LEYEH di rumah saja."
+      },
+      {
+        "jp": "休日は、どうしますか。 ……北海道に 行きます。馬に 乗たいです。",
+        "id": "Hari libur besok mau ngapain? ...... (Saya) berangkat ke Hokkaido. (Karena) Saya INGIN MENAIKI kuda di sana."
       }
     ],
     "tags": [
       "A1",
-      "Keinginan",
-      "Rencana",
-      "Liburan"
+      "Hasrat Keinginan",
+      "Ingin Melakukan (Tai)"
     ]
   },
   {
-    "id": "i_bab18_2",
+    "id": "i_a1_bab18_2",
     "chapter": "Bab 18",
     "level": "A1",
-    "title": "どこかV-ます",
-    "meaning": "Pola kalimat untuk menyatakan pergi ke suatu tempat yang tidak spesifik atau belum ditentukan. 'どこか' berarti 'suatu tempat' atau 'ke mana saja'. Digunakan saat ingin menyatakan keinginan pergi ke suatu tempat tanpa menyebutkan tujuan spesifik. Artinya 'Pergi ke suatu tempat' atau 'Ke mana saja'.",
-    "formula_template": "どこか {A}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'どこか {A}' untuk percakapan: Pola kalimat untuk menyatakan pergi ke suatu tempat yang tidak spesifik atau belum ditentukan. 'どこか' berarti '. Pastikan 'A' mewakili Kata Kerja.",
-    "ui_notes": "Pola serupa: '何か' (sesuatu), '誰か' (seseorang). Semua digunakan untuk menyatakan 'sesuatu yang tidak spesifik'. Contoh: 何か食べたいです (Saya ingin makan sesuatu). 'どこか' selalu diikuti kata kerja positif (bukan negatif). Untuk negatif gunakan 'どこも' (tidak ke mana pun).",
+    "title": "どこか 〜 (Ingin ke 'Suatu Tempat')",
+    "meaning": "Radar Pencari Tujuan! Digunakan saat kaki Anda sudah gatal ingin meronta jalan-jalan liburan, TAPI nyatanya Anda belum punya tujuan spesifik mau liburan ke mana. Ya pokoknya \"Ke Suatu Tempat yang Asyik\".",
+    "formula_template": "どこか + [Kata Kerja Pergi / Aksi Lainnya]",
+    "ui_notes": "### 📝 TABEL KELUARGA KATA TANYA (どこ & 何)\n\n| Wujud | Arti | Contoh Pemakaian |\n|---|---|---|\n| **どこ** | Di mana / Ke mana | どこに行きますか？ (Mau pergi ke mana?) |\n| **どこか** | Ke suatu tempat | どこか行きたいです。 (Ingin pergi ke suatu tempat) |\n| **どこにも** | Tidak ke mana-mana | どこにも行きません。 (Tidak akan pergi ke mana pun) |\n| **何（なに）** | Apa | 何を食べましたか？ (Makan apa?) |\n| **何か（なにか）** | Sesuatu benda | 何か食べたいです。 (Ingin makan sesuatu) |\n| **何も（なにも）** | Tidak apa-apa | 何も食べませんでした。 (Tidak makan apa pun) |",
     "examples": [
       {
-        "jp": "どこか旅行したいです。",
-        "id": "Saya ingin pergi bepergian ke suatu tempat."
+        "jp": "今度の 休み、どこか 行きたいですね。 ……そうですね。",
+        "id": "Liburan yang akan datang nanti, rasanya (pengen deh kaki ini) INGIN PERGI KE SUATU TEMPAT ya? ...... Iya, ya (Bener banget)."
       },
       {
-        "jp": "どこか行きましょう。",
-        "id": "Ayo pergi ke suatu tempat."
+        "jp": "日曜日、いっしょに どこか 行きませんか。 ……いいですね。",
+        "id": "Hari Minggu besok, maukah (kamu) PERGI KE SUATU TEMPAT bersama-sama denganku? ...... Boleh juga idenya."
       }
     ],
     "tags": [
       "A1",
-      "Keinginan",
-      "Tempat",
-      "Rencana"
+      "Tempat Acak",
+      "Suatu Tempat (Dokoka)"
     ]
   },
   {
-    "id": "i_bab18_3",
+    "id": "i_a1_bab18_3",
     "chapter": "Bab 18",
     "level": "A1",
-    "title": "【tempat】へ行きます ([Tempat] e ikimasu)",
-    "meaning": "Pola kalimat untuk menyatakan tujuan pergi ke suatu tempat. Partikel 'へ' (dibaca 'e') menunjukkan arah tujuan, dan '行きます' berarti 'pergi'. Mirip dengan partikel 'に', tetapi 'へ' lebih menekankan arah daripada tujuan spesifik. Sering digunakan dalam perencanaan perjalanan. Artinya 'Pergi ke [tempat]'.",
-    "formula_template": "{A} へ 行きます",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} へ 行きます' untuk percakapan: Pola kalimat untuk menyatakan tujuan pergi ke suatu tempat. Partikel 'へ' (dibaca 'e') menunjukkan arah tujuan,. Pastikan 'A' mewakili Tempat.",
-    "ui_notes": "Partikel 'へ' dan 'に' sering digunakan bergantian untuk tujuan. Perbedaan halus: 'に' lebih menekankan pada titik tujuan, 'へ' lebih menekankan pada arah. Dalam percakapan sehari-hari, keduanya bisa digunakan. Contoh: 東京に行きます (Pergi ke Tokyo) / 東京へ行きます (Menuju Tokyo).",
+    "title": "あと、〜 (Dan / (Oh Ya) Terus Juga...)",
+    "meaning": "Lem Penyambung Nafsu! Konjungsi santai ragam lisan jalanan yang fungsinya MENAMBAHKAN DAFTAR rentetan keinginan wisata atau pesanan menu Anda di restoran. Layaknya mengucapkan: \"Saya pesen A. (Mikir bentar...) OH YA, TERUS SAYA JUGA pesen B ya!\".",
+    "formula_template": "[Kalimat/Pesanan 1]。あと、[Kalimat/Pesanan 2 Tambahan]。",
+    "ui_notes": "Terdengar sangat membumi dan natural jika dipakai saat memesan makanan ke mbak/mas pelayan restoran.",
     "examples": [
       {
-        "jp": "京都へ行きたいです。",
-        "id": "Saya ingin pergi ke Kyoto."
+        "jp": "おいしい おすしが 食べたいです。あと、ラーメンも 食べたいです。",
+        "id": "Saya ingin menyantap Sushi lezat. TERUS / JUGA SAYA TAMBAH, saya ingin memakan Ramen."
       },
       {
-        "jp": "北海道へ旅行します。",
-        "id": "Saya bepergian ke Hokkaido."
+        "jp": "枝豆 2つ、唐揚げ 1つ、お願いします。 ……はい。 ……あと、サラダも お願いします。",
+        "id": "Saya pesan Edamame 2 porsi, Karage 1 porsi. ...... Siap laksanakan. ...... OH YA TERUS TAMBAHANNYA JUGA, tolong Salada 1 ya."
       }
     ],
     "tags": [
       "A1",
-      "Tujuan",
-      "Pergi",
-      "Liburan",
-      "Partikel"
+      "Penambah Daftar",
+      "Dan Juga (Ato)"
     ]
   },
   {
-    "id": "i_bab18_4",
+    "id": "i_a1_bab18_4",
     "chapter": "Bab 18",
     "level": "A1",
-    "title": "S1。あと / それから / それに / でも S2。",
-    "meaning": "Berbagai kata penghubung untuk menggabungkan kalimat dan memberikan informasi tambahan atau kontras. 'あと' berarti 'lagi' atau 'dan juga'. 'それから' berarti 'lalu' atau 'dan kemudian'. 'それに' berarti 'di samping itu' atau 'apalagi'. 'でも' berarti 'tetapi' atau 'meskipun demikian'. Sangat berguna untuk menulis postingan liburan yang natural.",
-    "formula_template": "{A}。あと / それから / それに / でも {B}。",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}。あと / それから / それに / でも {B}。' untuk percakapan: Berbagai kata penghubung untuk menggabungkan kalimat dan memberikan informasi tambahan atau kontras. 'あと' bera. Pastikan 'A' mewakili Kalimat 1, 'B' mewakili Kalimat 2.",
-    "ui_notes": "Perbedaan: 'あと' dan 'それから' untuk menambahkan informasi (seperti 'dan juga'). 'それに' untuk menambahkan informasi positif (seperti 'apalagi'). 'でも' untuk kontras (seperti 'tetapi'). Dalam postingan media sosial, gunakan ini untuk membuat tulisan lebih mengalir dan natural.",
+    "title": "〜へ 行きます (Menuju / Pergi ke Arah...)",
+    "meaning": "Kompas Penunjuk Arah! Partikel navigasi yang bertugas mencetak biru ARAH PERGERAKAN fisik tubuh Anda.",
+    "formula_template": "[Lokasi/Tujuan] + へ + [行きます (Pergi) / 来ます (Datang) / 帰ります (Pulang)]",
+    "ui_notes": "ATURAN MUTLAK:\n- Partikel ini ditulis abjad **「へ (He)」**, namun mulut Anda WAJIB MURNI MELAFALKANNYA SEBAGAI **「e」**.\n- Fungsinya 100% KEMBAR IDENTIK dengan partikel sasaran kedatangan **「に」**. Kalimat '京都へ 行きたい' BOLEH DITUKAR BEBAS merdeka menjadi '京都に 行きたい'.\n\n### 📝 TABEL BUKU PINTAR PARTIKEL AKSI\n\n| Partikel | Fungsi Logika | Contoh Kasus |\n|---|---|---|\n| **を** | Objek Penderita | 炊飯器を買います (Membeli rice cooker) |\n| **を** | Titik Keberangkatan | バスを降ります (Turun meninggalkan bus) |\n| **へ** | Arah Panah | 京都へ行きます (Menuju arah Kyoto) |\n| **に** | Titik Akhir Kedatangan | 温泉に入ります (Masuk nyemplung ke onsen) |",
     "examples": [
       {
-        "jp": "気持ちよかったです。それに、景色もきれいでした。",
-        "id": "Perasaannya enak. Di samping itu, pemandangannya juga indah."
+        "jp": "日本で、どこに 行きたいですか。 ……沖縄へ 行きたいです。",
+        "id": "Selama di Jepang, kamu ingin merapat pergi ke mana? ...... Saya INGIN PERGI MENUJU Okinawa."
       },
       {
-        "jp": "おいしかったです。でも、ちょっと高かったです。",
-        "id": "Enak. Tapi, agak mahal."
+        "jp": "今度、うちへ 遊びに 来てください。",
+        "id": "Lain waktu, silakan DATANG MAMPIR MAIN KE ARAH (rumah) saya ya."
+      },
+      {
+        "jp": "いつ、国へ 帰りますか。 ……まだ わかりません。",
+        "id": "Kapan rencananya (Anda bakal) PULANG MENUJU negara (asal)? ...... Masih belum tau."
       }
     ],
     "tags": [
       "A1",
-      "Penghubung",
-      "Liburan",
-      "Menulis",
-      "Kesan"
+      "Kompas Navigasi",
+      "Menuju Arah (Partikel e)"
+    ]
+  },
+  {
+    "id": "i_a1_bab18_5",
+    "chapter": "Bab 18",
+    "level": "A1",
+    "title": "それから、〜 (Kemudian / Setelah Itu...)",
+    "meaning": "Tali Kronologi Waktu! Konjungsi sakti untuk membeberkan runtutan peristiwa masa lampau secara urut sesuai jarum jam. \"Habis membasmi yang A, KEMUDIAN LALU bergeser membasmi yang B.\"",
+    "formula_template": "[Kejadian 1 (Masa Lalu)]。それから、[Kejadian 2 Berikunya]。",
+    "ui_notes": "Sangat efektif untuk menceritakan buku harian liburan atau memberikan rentetan instruksi prosedur kerja (Habis rapikan meja, kemudian atur kursi).",
+    "examples": [
+      {
+        "jp": "お寺を 見ました。それから、おいしい 日本料理の 店に 行きました。",
+        "id": "(Wisata saya) Memandang Kuil kuno. KEMUDIAN SETELAH ITU, saya meluncur pergi ke restoran makanan Jepang yang enak."
+      },
+      {
+        "jp": "露天風呂に 入りました。それから、温泉の 近くで 鶏の 天ぷらを 食べました。",
+        "id": "Saya memanaskan diri berendam di Onsen alam outdoor. KEMUDIAN BERIKUTNYA, saya melahap makan Tempura Ayam di dekat-dekat lokasi onsen tersebut."
+      },
+      {
+        "jp": "まず、テーブルの上を 片づけて ください。それから、いすを 並べて ください。",
+        "id": "Pertama-tama, rapikanlah kotoran di atas meja! LALU KEMUDIAN, (Tolong) atur bariskan kursi-kursinya!"
+      }
+    ],
+    "tags": [
+      "A1",
+      "Rentetan Kronologi",
+      "Lalu Kemudian (Sorekara)"
+    ]
+  },
+  {
+    "id": "i_a1_bab18_6",
+    "chapter": "Bab 18",
+    "level": "A1",
+    "title": "それに、(Selain Itu) / でも、(Tetapi)",
+    "meaning": "Gaya Reviewer Makanan / Travel Vlogger! Konjungsi penambah komentar bumbu dapur untuk melengkapi kesan ulasan perjalanan Anda.\n- **それに (Soreni):** Konjungsi PARALEL (+) & (+). \"Makanannya enak lho, SELAIN ITU murah gila lagi!\"\n- **でも (Demo):** Konjungsi KONFLIK (+) & (-). \"Rasanya lezat sih, TAPI sayang harganya ngerampok kantong.\"",
+    "formula_template": "1. [Kesan 1 Plus]。それに、[Kesan 2 Plus]。\n2. [Kesan 1 Plus]。でも、[Kesan 2 Minus]。",
+    "ui_notes": "### 📝 TABEL REKAP KONJUNGSI AJAIB\n\n| Konjungsi | Makna | Penggunaan |\n|---|---|---|\n| **あと** | Dan / Juga | Menambah pesanan lisan (Mau A, Oh ya tambah B) |\n| **そして** | Dan Kemudian | Menambah fakta (Penguinnya lucu! Dan ubur-uburnya cantik) |\n| **それから** | Kemudian (Waktu) | Kejadian urut kronologis waktu (Lakuin A, setelah itu lakuin B) |\n| **それに** | Selain itu | Fakta bertumpuk sejalan (+ dan + / - dan -) |\n| **でも** | Tetapi | Fakta berputar arah (+ tapi -) |",
+    "examples": [
+      {
+        "jp": "気持ち よかったです。それに、景色も きれいでした。",
+        "id": "(Tubuh saya) Rasanya lega menyegarkan. SELAIN ITU (Poin plus kedua), Pemandangan alamnya juga sangat estetik memukau."
+      },
+      {
+        "jp": "料理は とても おいしかったです。それに、安かったです。",
+        "id": "Masakannya enak lidah banget. SELAIN ITU, Harganya pun murah (combo 2 kebaikan)."
+      },
+      {
+        "jp": "おいしかったです。でも、ちょっと 高かったです。",
+        "id": "Memang sih rasanya enak. TAPI SAYANG (Konflik fakta bertolak belakang), (harganya) agak mencekik kemahalan."
+      },
+      {
+        "jp": "お風呂は よかったです。でも、食べ物は あまり おいしく なかったです。",
+        "id": "Tempat berendam mandinya dewa (Bagus banget). TETAPI, (Fakta minusnya) makanannya rasanya enggak enak-enak banget."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Review Vlogger",
+      "Selain Itu / Tetapi"
     ]
   }
 ]

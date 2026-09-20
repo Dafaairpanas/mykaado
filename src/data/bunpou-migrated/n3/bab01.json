@@ -4,22 +4,9 @@
     "chapter": "Bab 01",
     "level": "N3",
     "title": "KALIMAT PASIF (1)",
-    "meaning": "sering digunakan pada saat menjelaskan fakta tanpa subjek atau pelaku",
+    "meaning": "Kalimat pasif tipe ini sering digunakan untuk menjelaskan fakta, kejadian umum, atau sesuatu yang dilakukan tanpa menyebutkan siapa pelakunya secara spesifik. Fokusnya bukan pada 'siapa yang melakukan', tetapi pada 'apa yang terjadi' atau 'bagaimana sesuatu dilakukan'. Dalam bahasa Indonesia sering diterjemahkan dengan awalan 'di-'. Pola ini juga umum dipakai dalam teks berita, pengumuman, atau tulisan formal.",
     "formula_template": "{A}れる／〜られる",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}れる／〜られる' untuk mengekspresikan: sering digunakan pada saat menjelaskan fakta tanpa subjek atau pelaku.",
-    "ui_notes": "sering digunakan pada saat menjelaskan fakta tanpa subjek atau pelaku",
+    "ui_notes": "Cara membentuk: Ambil kata kerja golongan 1 (godan), ubah akhiran -u menjadi -areru. Contoh: 書く (kaku) → 書かれる (kakareru). Untuk kata kerja golongan 2 (ichidan), ganti -ru menjadi -rareru. Contoh: 食べる (taberu) → 食べられる (taberareru). Untuk kata kerja tidak beraturan: する → される, 来る → 来られる. Subjek kalimat adalah benda/orang yang dikenai tindakan, bukan pelakunya. Pelaku bisa disebut dengan partikel に atau によって jika perlu, tetapi sering dihilangkan.",
     "examples": [
       {
         "jp": "この本には、くわしい説明は書かれていません。",
@@ -41,30 +28,9 @@
     "chapter": "Bab 01",
     "level": "N3",
     "title": "KALIMAT PASIF (2)",
-    "meaning": "Sering digunakan ketika pembicara mengalami kesulitan, kesusahan, gangguan atau kebingungan akibat hal yang terjadi",
+    "meaning": "Kalimat pasif tipe ini digunakan ketika pembicara mengalami kesulitan, kesusahan, gangguan, atau kebingungan akibat suatu hal yang terjadi. Berbeda dengan pasif (1) yang netral, pasif (2) mengandung perasaan 'mengalami kerugian' atau 'terdampak negatif'. Dalam bahasa Indonesia sering diterjemahkan dengan 'kehujanan', 'ditangisi', 'dikagetkan', dsb. Pelaku biasanya ditandai dengan partikel に.",
     "formula_template": "({A}に) {B}れる／〜られる",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '({A}に) {B}れる／〜られる' untuk mengekspresikan: Sering digunakan ketika pembicara mengalami kesulitan, kesusahan, gangguan atau kebingungan akibat hal yang te.",
-    "ui_notes": "Sering digunakan ketika pembicara mengalami kesulitan, kesusahan, gangguan atau kebingungan akibat hal yang terjadi",
+    "ui_notes": "Cara membentuk: Sama seperti pasif (1), tetapi konteksnya harus menunjukkan bahwa subjek (pembicara) merasa terganggu atau dirugikan. Pola: [Pelaku] に [benda/anggota tubuh] を [kata kerja pasif]. Contoh: 雨に降られる (ame ni furareru) = kehujanan. 友達に来られる (tomodachi ni korareru) = kedatangan teman (yang mengganggu). Perhatikan bahwa kata kerja pasif di sini tetap bentuk pasif, tetapi maknanya menjadi 'mengalami akibat dari tindakan orang lain'.",
     "examples": [
       {
         "jp": "友達の赤ちゃんを抱っこしたら、泣かれてしまった。",
@@ -86,22 +52,9 @@
     "chapter": "Bab 01",
     "level": "N3",
     "title": "KALIMAT KAUSATIF",
-    "meaning": "ungkapan untuk meminta izin dengan bentuk kausatif (izinkan saya, biarkan saya...)",
+    "meaning": "Bentuk kausatif digunakan untuk menyatakan 'membuat/menyuruh seseorang melakukan sesuatu' atau 'membiarkan/mengizinkan seseorang melakukan sesuatu'. Pada pola ini, kausatif dipakai untuk meminta izin dengan sopan: 'izinkan saya...', 'biarkan saya...', 'bolehkah saya...'. Sering dipakai dalam situasi formal atau ketika berbicara dengan atasan.",
     "formula_template": "{A}(さ)せて [ ください / 〜ませんか | もらえますか / 〜ませんか | いただけますか / 〜ませんか ]",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}(さ)せて [ ください / 〜ませんか | もらえますか / 〜ませんか | いただけますか / 〜ませんか ]' untuk mengekspresikan: ungkapan untuk meminta izin dengan bentuk kausatif (izinkan saya, biarkan saya...).",
-    "ui_notes": "ungkapan untuk meminta izin dengan bentuk kausatif (izinkan saya, biarkan saya...)",
+    "ui_notes": "Cara membentuk: Kata kerja golongan 1: akhiran -u → -aseru. Contoh: 行く (iku) → 行かせる (ikaseru), tetapi untuk bentuk 'izinkan saya' menjadi 行かせて (ikaseté). Golongan 2: -ru → -saseru. Contoh: 食べる (taberu) → 食べさせる (tabesaseru) → 食べさせて (tabesaseté). Tidak beraturan: する → させる (saseru) → させて (saseté), 来る → 来させる (kosaseru) → 来させて (kosaseté). Pola lengkap: [kata kerja kausatif + て] + [ください / もらえますか / いただけますか]. ください = paling langsung, もらえますか = lebih sopan, いただけますか = paling sopan. Artinya: 'tolong izinkan saya...' atau 'bolehkah saya...'.",
     "examples": [
       {
         "jp": "ちょっと気分が悪いので、早く帰らせてください。",

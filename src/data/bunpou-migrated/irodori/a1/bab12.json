@@ -1,170 +1,142 @@
 [
   {
-    "id": "i_bab12_1",
+    "id": "i_a1_bab12_1",
     "chapter": "Bab 12",
     "level": "A1",
-    "title": "【tanggal】に【tempat】で【acara】があります ([Tanggal] ni [tempat] de [acara] ga arimasu)",
-    "meaning": "Pola kalimat untuk menyatakan bahwa suatu acara akan diadakan pada waktu dan tempat tertentu. 'に' menunjukkan waktu, 'で' menunjukkan tempat, dan 'があります' berarti 'ada'. Sangat berguna saat membaca pengumuman atau undangan acara. Artinya 'Ada acara [acara] di [tempat] pada [tanggal]'.",
-    "formula_template": "{A} に {B} で {C} が あります",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "time"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} に {B} で {C} が あります' untuk percakapan: Pola kalimat untuk menyatakan bahwa suatu acara akan diadakan pada waktu dan tempat tertentu. 'に' menunjukkan . Pastikan 'A' mewakili Tanggal, 'B' mewakili Tempat, 'C' mewakili Acara.",
-    "ui_notes": "Urutan dalam kalimat: [Waktu] に [Tempat] で [Acara] が あります。Untuk waktu yang spesifik seperti hari dan tanggal, gunakan partikel 'に'. Untuk waktu yang lebih umum (seperti 'besok' atau 'minggu depan'), 'に' bisa dihilangkan.",
+    "title": "Pemberitahuan Acara (〜に 〜で 〜があります)",
+    "meaning": "Laporan Pengumuman Event! Jurus untuk mengumumkan penyelenggaraan sebuah event/acara, festival, atau rapat di titik lokasi dan jam tertentu.",
+    "formula_template": "[Waktu Tanggal] + に + [Tempat] + で + [Nama Acara] + があります",
+    "ui_notes": "PENGECUALIAN PARTIKEL WAKTU:\nPartikel 「に」 tidak usah dan terlarang dipakai jika kata waktunya merujuk pada masa relatif tanpa angka pasti (Contoh Haram: 明日に / 今晩に / 来週に ❌). Kata-kata besok, lusa, nanti malam langsung teriakkan saja tanpa partikel.\n\n### 📝 BUKU PINTAR PARTIKEL (で vs に)\n\n| Partikel | Logika Pemakaian | Contoh Kejadian |\n|---|---|---|\n| **に** | Tempat Singgah (Diam/Bermukim) | 東京**に**住む (Tinggal di Tokyo) |\n| **に** | Tempat Keberadaan Benda (Diam) | 食堂**に**ある (Ada di kantin) |\n| **で** | Tempat Melakukan Aksi (Gerak) | 公園**で**サッカー (Main bola di taman) |\n| **で** | Tempat Acara Diselenggarakan (Event) | 公園**で**祭りがある (Ada festival di taman) |",
     "examples": [
       {
-        "jp": "日曜日にさくら公園でタイフェスティバルがあります。",
-        "id": "Ada festival Thailand di Taman Sakura pada hari Minggu."
+        "jp": "日曜日に、さくら公園で タイフェスティバルが ありますね。",
+        "id": "PADA HARI Minggu, ADA acara Festival Thailand DI Taman Sakura ya."
       },
       {
-        "jp": "来週の土曜日に市民ホールでコンサートがあります。",
-        "id": "Ada konser di Balai Warga pada hari Sabtu minggu depan."
+        "jp": "12月20日に、会社で 忘年会が あります。",
+        "id": "PADA TANGGAL 20 Desember, BAKAL ADA pesta kumpul akhir tahun DI lingkungan kantor."
+      },
+      {
+        "jp": "明日、夏祭りが ありますね。 ……どこで ありますか？ ……中央公園です。",
+        "id": "Besok (Gak pake Ni!), BAKAL ADA festival musim panas kan. ...... BAKAL ADA DI sebelah mana diadakannya? ...... (Diadakan) Di Taman Chuuoo."
       }
     ],
     "tags": [
       "A1",
-      "Acara",
-      "Undangan",
-      "Lokasi",
-      "Waktu"
+      "Laporan Event Acara",
+      "Partikel De Event"
     ]
   },
   {
-    "id": "i_bab12_2",
+    "id": "i_a1_bab12_2",
     "chapter": "Bab 12",
     "level": "A1",
-    "title": "Nに行きます",
-    "meaning": "Pola kalimat untuk menyatakan pergi ke suatu acara atau tempat. 'に' menunjukkan tujuan, dan '行きます' berarti 'pergi'. Digunakan untuk menanyakan atau menyatakan kehadiran di suatu acara. Artinya 'Pergi ke [acara/tempat]'.",
-    "formula_template": "{A} に 行きます",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} に 行きます' untuk percakapan: Pola kalimat untuk menyatakan pergi ke suatu acara atau tempat. 'に' menunjukkan tujuan, dan '行きます' berarti 'pe. Pastikan 'A' mewakili Acara/Tempat.",
-    "ui_notes": "Untuk tujuan berupa tempat fisik (bukan acara), tetap gunakan pola yang sama: 東京に行きます (Pergi ke Tokyo). Untuk pertanyaan, tambahkan 'か' di akhir. Untuk menyatakan tidak pergi, gunakan: 行きません (tidak pergi).",
+    "title": "Tujuan Bepergian (〜に行きます)",
+    "meaning": "Peta Misi Perjalanan! Mengungkapkan apa misi atau niat utama Anda bepergian ke suatu tempat (Tujuan Acara).",
+    "formula_template": "[Acara/Misi (Nomina)] + に + 行きます",
+    "ui_notes": "Partikel 「に」 di sini tidak berfungsi sebagai letak benda, melainkan berfungsi sebagai TARGET TUJUAN (Demi / Untuk).",
     "examples": [
       {
-        "jp": "明日の忘年会に行きますか？",
-        "id": "Apakah kamu pergi ke pesta akhir tahun besok?"
+        "jp": "明日の 忘年会に 行きますか？",
+        "id": "Apakah lu bakal berangkat PERGI MENUJU (TUJUAN MENGHADIRI) Pesta Akhir Tahun besok?"
       },
       {
-        "jp": "夏祭りに行きます。",
-        "id": "Saya pergi ke festival musim panas."
+        "jp": "毎朝、散歩に 行きます。",
+        "id": "Tiap hari di pagi hari, (aku) PERGI (UNTUK MISI) jalan santai."
+      },
+      {
+        "jp": "田中さんのサッカーの試合に 行きますか？ ……もちろんです。",
+        "id": "Apakah lu bakal ikut berangkat PERGI MENUJU (TUJUAN MENGHADIRI) pertandingan bola milik pak Tanaka? ...... Udah mutlak tentu saja dong."
       }
     ],
     "tags": [
       "A1",
-      "Acara",
-      "Pergi",
-      "Kehadiran"
+      "Misi Kepergian",
+      "Demi Tujuan (Ni Ikimasu)"
     ]
   },
   {
-    "id": "i_bab12_3",
+    "id": "i_a1_bab12_3",
     "chapter": "Bab 12",
     "level": "A1",
-    "title": "V-ませんか？ — Ajakan",
-    "meaning": "Pola kalimat untuk mengajak seseorang melakukan sesuatu bersama. Bentuk negatif dari kata kerja + 'か' digunakan sebagai ajakan yang sopan. Secara harfiah berarti 'Tidak mau [aktivitas]?', tetapi dalam praktiknya berarti 'Mau [aktivitas] bersama?' atau 'Bagaimana kalau kita [aktivitas]?'. Sangat umum digunakan untuk mengajak teman atau rekan kerja.",
-    "formula_template": "{A} ませんか？",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ませんか？' untuk percakapan: Pola kalimat untuk mengajak seseorang melakukan sesuatu bersama. Bentuk negatif dari kata kerja + 'か' digunaka. Pastikan 'A' mewakili Kata Kerja Bentuk Masu tanpa masu.",
-    "ui_notes": "Cara merespon ajakan: Menerima: はい、いいですね (Ya, bagus). / はい、行きましょう (Ya, ayo pergi). Menolak dengan sopan: すみません、ちょっと… (Maaf, agak...). / また今度お願いします (Lain kali saja). 'V-ませんか' lebih sopan daripada 'V-ましょうか'.",
+    "title": "Mengajak Sopan (〜ませんか？)",
+    "meaning": "Jurus Merayu Kawan! Ajakan halus tingkat dewa. Sangat sopan karena berbentuk pertanyaan yang memberikan opsi bagi lawan bicara untuk menolak tanpa segan ('Maukah Anda... / Tidakkah Anda ingin...').",
+    "formula_template": "[Kata Kerja Bentuk ます (coret ます)] + ませんか？ (Intonasi Naik)",
+    "ui_notes": "",
     "examples": [
       {
-        "jp": "いっしょに行きませんか？",
-        "id": "Bagaimana kalau kita pergi bersama?"
+        "jp": "いっしょに 行きませんか？",
+        "id": "MAUKAH (Bapak/Ibu) PERGI beringan bersama saya?"
       },
       {
-        "jp": "映画を見ませんか？",
-        "id": "Bagaimana kalau kita menonton film?"
+        "jp": "これから、昼ご飯に 行きます。いっしょに 行きませんか？ ……いいですね。",
+        "id": "Lepas dari ini, (saya mau) pergi (untuk misi) makan siang. MAUKAH (LU IKUT) PERGI bareng? ...... Ide sedap tuh boleh (Gas)."
+      },
+      {
+        "jp": "日曜日、いっしょに 買い物に 行きませんか？ ……すみません。日曜日は ちょっと…。",
+        "id": "Btw di hari Minggu, MAUKAH KITA PERGI (untuk misi) belanja barengan? ...... Aduh maaf euy, kalau Minggumah AGAK SUSAH YAK."
       }
     ],
     "tags": [
       "A1",
-      "Ajakan",
-      "Sopan",
-      "Komunikasi"
+      "Ajakan Rayuan",
+      "Maukah Anda (Masenka)"
     ]
   },
   {
-    "id": "i_bab12_4",
+    "id": "i_a1_bab12_4",
     "chapter": "Bab 12",
     "level": "A1",
-    "title": "V-ましょう — Ayo ...",
-    "meaning": "Pola kalimat untuk mengajak atau menawarkan melakukan sesuatu bersama, atau menyatakan niat untuk melakukan sesuatu. Bentuk ini lebih langsung daripada 'V-ませんか' dan sering digunakan saat sudah ada kesepakatan atau saat menyatakan rencana. Artinya 'Ayo [aktivitas]' atau 'Saya akan [aktivitas]'.",
-    "formula_template": "{A} ましょう",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ましょう' untuk percakapan: Pola kalimat untuk mengajak atau menawarkan melakukan sesuatu bersama, atau menyatakan niat untuk melakukan se. Pastikan 'A' mewakili Kata Kerja Bentuk Masu tanpa masu.",
-    "ui_notes": "Perbedaan: 'V-ませんか' = ajakan yang lebih sopan (masih menanyakan pendapat), 'V-ましょう' = ajakan yang lebih tegas/bersemangat (sudah ada kesepakatan). Contoh penggunaan: A: 映画を見ませんか？ (Mau nonton film?) B: いいですね。見ましょう！ (Bagus! Ayo nonton!)",
+    "title": "Ayo / Mari (〜ましょう)",
+    "meaning": "Palu Persetujuan Antusias! Jurus ini merangkap 2 fungsi: 1) Mengiyakan ajakan orang dengan nada setuju penuh semangat ('Ayo!'), 2) Menawarkan ide kegiatan komando ('Mari kita...').",
+    "formula_template": "[Kata Kerja Bentuk ます (coret ます)] + ましょう",
+    "ui_notes": "",
     "examples": [
       {
-        "jp": "また今度行きましょう。",
-        "id": "Ayo pergi lain kali."
+        "jp": "また今度 行きましょう。",
+        "id": "Lain waktu kapan-kapan MARILAH KITA PERGI ke sana lagi."
       },
       {
-        "jp": "みんなで食べに行きましょう。",
-        "id": "Ayo pergi makan bersama-sama."
+        "jp": "今度、みんなで、ハイキングに 行きませんか？ ……いいですね。行きましょう。",
+        "id": "Kapan-kapan, ramai-ramai se-geng, MAUKAH KITA PERGI (misi) hiking naik gunung? ...... Ide mulia tuh! AYO KITA BERANGKAT."
+      },
+      {
+        "jp": "明日、ご飯に 行きませんか？ ……明日は ちょっと…。 ……そうですか。じゃあ、また今度 行きましょう。",
+        "id": "MAUKAH KITA PERGI makan hura-hura besok? ...... Maaf aduh besok mah rada padat. ...... Oh gitu, Yawis kalau gitu kapan-kapan aja MARILAH KITA PERGI (lagi)."
       }
     ],
     "tags": [
       "A1",
-      "Ajakan",
-      "Rencana",
-      "Komunikasi"
+      "Antusias Mengiyakan",
+      "Mari Ayo (Mashou)"
+    ]
+  },
+  {
+    "id": "i_a1_bab12_5",
+    "chapter": "Bab 12",
+    "level": "A1",
+    "title": "Pergi Untuk Melakukan Sesuatu (V-に行きます)",
+    "meaning": "Peta Misi Eksekusi! Kalau pola sebelumnya misinya memakai \"Kata Benda Acara\", pola yang ini Misi Kepergiannya memakai \"Kata Kerja Tindakan\".",
+    "formula_template": "[KATA KERJA AKSIN (coret ます)] + に + 行きます",
+    "ui_notes": "Contoh perakitannya:\n食べる (Makan) -> 食べます (Coret Mas) -> 食べ + に行きます (Pergi untuk misi MAKAN).",
+    "examples": [
+      {
+        "jp": "みんなで、いっしょに 焼き肉を 食べに 行きませんか？",
+        "id": "Bersama se-geng, MAUKAH KITA PERGI BERSAMA UNTUK MISI MEMAKAN daging bakar yakiniku?"
+      },
+      {
+        "jp": "金曜日の夜、ジャズを 聞きに 行きませんか？",
+        "id": "Pas Jumat malem, MAUKAH KITA PERGI UNTUK MISI MENDENGARKAN lantunan lagu jazz?"
+      },
+      {
+        "jp": "今晩、飲みに 行きませんか？",
+        "id": "Tar malem, MAUKAH KITA PERGI UNTUK (MISI) MINUM (mabuk-mabukan bar) bareng?"
+      }
+    ],
+    "tags": [
+      "A1",
+      "Pergi Mengeksekusi Aksi",
+      "Demi Misi (Kata Kerja Ni)"
     ]
   }
 ]

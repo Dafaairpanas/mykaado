@@ -4,32 +4,9 @@
     "chapter": "Bab 15",
     "level": "N3",
     "title": "〜つもりだった",
-    "meaning": "tadinya..., tapi",
+    "meaning": "Pola ini digunakan untuk menyatakan niat atau rencana yang tadinya ingin dilakukan, tetapi pada kenyataannya tidak terlaksana atau berubah. Artinya 'tadinya berniat...', 'sebenarnya mau... tapi...'. Nuansanya mengandung penyesalan, perubahan rencana, atau kenyataan yang tidak sesuai dengan niat awal. Bentuk 〜つもりでした lebih sopan, 〜つもりだった lebih kasual.",
     "formula_template": "[{A}る / {B}ない] つもりだった",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}る / {B}ない] つもりだった' untuk mengekspresikan: tadinya..., tapi.",
-    "ui_notes": "tadinya..., tapi",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus + つもりだった. Contoh: 行く (iku) → 行くつもりだった (tadinya mau pergi). 買い物に行く (kaimono ni iku) → 買い物に行くつもりでした (tadinya berniat belanja). (2) Kata kerja bentuk negatif + つもりだった. Contoh: 食べる (taberu) → 食べない (tabenai) → 食べないつもりでした (tadinya tidak berniat makan). Contoh pemakaian: 昨日は買い物に行くつもりでしたが、頭が痛かったのでずっと家にいました (kemarin saya bermaksud belanja, tapi karena sakit kepala, saya di rumah saja). お菓子を食べないつもりでしたが、つい食べてしまいました (saya tidak bermaksud makan kue, tapi entah kenapa saya memakannya). Perbedaan dengan 〜つもりだ: 〜つもりだ = berniat (masih berlaku), 〜つもりだった = tadinya berniat (sudah tidak berlaku/berubah).",
     "examples": [
       {
         "jp": "昨日は買い物に行くつもりでしたが、頭が痛かったのでずっと家にいました。",
@@ -50,46 +27,9 @@
     "chapter": "Bab 15",
     "level": "N3",
     "title": "〜はず",
-    "meaning": "digunakan ketika pembicara merasa yakin akan suatu hal",
+    "meaning": "Pola ini digunakan ketika pembicara merasa yakin akan suatu hal berdasarkan alasan, logika, atau informasi yang diketahui. Artinya 'seharusnya...', 'semestinya...', 'pastinya...'. Tingkat keyakinannya tinggi, tetapi bukan fakta yang sudah dipastikan. Bentuk negatif 〜はずがない berarti 'tidak mungkin...', yaitu menyangkal dengan tegas. Varian lain: 〜はずだ (seharusnya), 〜はずではない (seharusnya tidak), 〜はずだった (seharusnya tadi/ternyata tidak).",
     "formula_template": "[{A}(biasa) / {B} (biasa) / {C} な / {D}の] はず / はずがない (※ 〜はずがない: menyangkal dengan tegas \"tidak mungkin\")",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} な / {D}の] はず / はずがない (※ 〜はずがない: menyangkal dengan tegas \"tidak mungkin\")' untuk mengekspresikan: digunakan ketika pembicara merasa yakin akan suatu hal.",
-    "ui_notes": "digunakan ketika pembicara merasa yakin akan suatu hal",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk biasa + はず. Contoh: いる (iru) → いるはず (seharusnya ada). 来る (kuru) → 来るはず (seharusnya datang). (2) Kata sifat-i bentuk biasa + はず. Contoh: 高い (takai) → 高いはず (seharusnya mahal). (3) Kata sifat-na + な + はず. Contoh: 元気な (genki na) → 元気なはず (seharusnya sehat). (4) Kata benda + の + はず. Contoh: 学生の (gakusei no) → 学生のはず (seharusnya pelajar). Bentuk negatif: 〜はずがない = tidak mungkin. Contoh: 田中さんは今旅行中だから、家にいないはず (karena Tanaka-san sekarang sedang pergi berwisata, seharusnya tidak di rumah). まじめな田中さんが、無断で休むはずがない (orang rajin seperti Tanaka-san tidak mungkin tidak masuk tanpa izin). Perbedaan はず dan つもり: はず = keyakinan berdasarkan logika, つもり = niat pribadi.",
     "examples": [
       {
         "jp": "田中さんは今旅行中だから、家にいないはず。",
@@ -110,38 +50,9 @@
     "chapter": "Bab 15",
     "level": "N3",
     "title": "〜べき",
-    "meaning": "mengungkapkan keharusan yang berupa nasehat, saran, pendapat atau hal-hal yang bersifat umum",
+    "meaning": "Pola ini digunakan untuk mengungkapkan keharusan yang berupa nasehat, saran, pendapat, atau hal-hal yang bersifat umum. Artinya 'seharusnya...', 'harus...', 'seyogianya...'. Berbeda dengan 〜なければならない yang lebih bersifat kewajiban pribadi, 〜べき lebih menekankan pada penilaian normatif atau moral: 'menurut saya/umumnya, hal ini seharusnya dilakukan'. Bentuk negatif 〜べきではない berarti 'seharusnya tidak...', 'tidak sepantasnya...'.",
     "formula_template": "[{A}る / {B} くある / {C} である] べきだ / べきではない (※ するべき → すべき)",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}る / {B} くある / {C} である] べきだ / べきではない (※ するべき → すべき)' untuk mengekspresikan: mengungkapkan keharusan yang berupa nasehat, saran, pendapat atau hal-hal yang bersifat umum.",
-    "ui_notes": "mengungkapkan keharusan yang berupa nasehat, saran, pendapat atau hal-hal yang bersifat umum",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus + べきだ. Contoh: 守る (mamoru) → 守るべきだ (seharusnya ditepati). 行く (iku) → 行くべきだ (seharusnya pergi). (2) Kata sifat-i: く + ある + べきだ. Contoh: 安全だ (anzen da) → 安全であるべきだ (seharusnya aman). (3) Kata sifat-na/kata benda: である + べきだ. Contoh: 安全であるべきだ. (4) Pengecualian: するべき → すべき (lebih umum dan natural). Contoh: 約束は守るべきだ (janji itu seharusnya ditepati). おもちゃは、まず安全であるべきだ (mainan anak-anak itu pertama harus aman). Bentuk negatif: 〜べきではない. Contoh: 人の悪口を言うべきではない (seharusnya tidak membicarakan keburukan orang lain). Perbedaan dengan 〜なければならない: 〜べき = saran/norma umum, 〜なければならない = kewajiban pribadi.",
     "examples": [
       {
         "jp": "約束は守るべきだ。",
@@ -162,32 +73,9 @@
     "chapter": "Bab 15",
     "level": "N3",
     "title": "〜たものだ",
-    "meaning": "menyatakan kenangan atau ingatan di masa lalu (sambil mengingat masa-masa itu)",
+    "meaning": "Pola ini digunakan untuk menyatakan kenangan atau ingatan di masa lalu, sambil mengenang masa-masa itu dengan perasaan nostalgia. Artinya 'dulu sering...', 'waktu itu biasanya...'. Biasanya diikuti dengan kebiasaan atau kejadian yang berulang di masa lalu. Bentuk kasualnya adalah 〜たもんだ. Nuansanya mengandung kerinduan atau nostalgia, bukan sekadar fakta masa lalu.",
     "formula_template": "[{A}た / {B}なかった] ものだ / もんだ",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}た / {B}なかった] ものだ / もんだ' untuk mengekspresikan: menyatakan kenangan atau ingatan di masa lalu (sambil mengingat masa-masa itu).",
-    "ui_notes": "menyatakan kenangan atau ingatan di masa lalu (sambil mengingat masa-masa itu)",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk lampau (た形) + ものだ. Contoh: 遊ぶ (asobu) → 遊んだ (asonda) → 遊んだものだ (dulu sering bermain). 通う (kayou) → 通った (kayotta) → 通ったものだ (dulu sering pergi/bolak-balik). (2) Kata kerja bentuk negatif lampau + ものだ. Contoh: 食べる (taberu) → 食べなかった (tabenakatta) → 食べなかったものだ (dulu tidak makan). Contoh pemakaian: 子どものころはよく川で遊んだものだ (sewaktu kecil saya sering bermain di sungai). 学生時代は毎日図書館へ通ったものだ (di zaman mahasiswa setiap hari saya ke perpustakaan). Bentuk kasual: 〜たもんだ. Perbedaan dengan 〜たことがある: 〜たことがある = pernah (fakta pengalaman), 〜たものだ = dulu sering (nostalgia, kebiasaan berulang).",
     "examples": [
       {
         "jp": "子どものころはよく川で遊んだものだ。",

@@ -3,157 +3,88 @@
     "id": "m_bab22_1",
     "chapter": "Bab 22",
     "level": "N5",
-    "title": "Anak A(Menerangkan B)",
-    "meaning": "Kata atau frase yang menerangkan diletakkan di depan Kata Benda. Kata Kerja, Kata Sifat, dan Kata Benda yang terdapat di dalam anak kalimat menggunakan Bentuk Biasa. Subjek di dalam anak kalimat ditunjukkan dengan partikel が.",
-    "formula_template": "{A}/ {B} {C}| {D} {E}| {V5} {V6}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "D": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "E": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "V5": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "V6": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}/ {B} {C}| {D} {E}| {V5} {V6}' untuk menyatakan: Kata atau frase yang menerangkan diletakkan di depan Kata Benda. Kata Kerja, Kata Sifat, dan Kata Benda yang t. Pastikan 'A' mewakili Kata Kerja, 'B' mewakili Kata Sifat い (Bentuk Biasa), 'C' mewakili Kata Benda, 'D' mewakili Kata Sifat な (+ な), 'E' mewakili Kata Benda, 'V5' mewakili Kata Benda (+ の), 'V6' mewakili Kata Benda.",
-    "ui_notes": "Anak kalimat dapat dipakai dalam berbagai pola kalimat. Untuk Kata Sifat Bentuk な menjadi ～な, sedangkan untuk Kata Benda menjadi ～の.",
+    "title": "Anak Kalimat Menerangkan Benda (Klausa Relatif)",
+    "meaning": "Dalam tata bahasa Indonesia, kita menerangkan benda menggunakan kata sambung 'YANG' yang diseret ke belakang (Rumah YANG besar, Orang YANG pergi). Di bahasa Jepang, logika ini TERBALIK: Seluruh kalimat utuh yang berfungsi menerangkan itu disulap dan dijejalkan DI DEPAN Kata Benda utama layaknya sebuah label stiker (Besar YANG rumah, Pergi YANG orang).",
+    "formula_template": "[Klausa Bentuk Biasa / Anak Kalimat] + [Kata Benda]",
+    "ui_notes": "ATURAN PENYAMBUNGAN KLAUSA:\nSeluruh anak kalimat harus dipadatkan ke dalam Bentuk Biasa (Futsuukei).\n- **Kata Sifat な:** Wajib mempertahankan 'な' (きれいな うち / Rumah YANG indah).\n- **Kata Benda:** Wajib memakai jembatan 'の' (65歳の 人 / Orang YANG berusia 65 thn).\n- **Kata Kerja:** Gunakan wujud Bentuk Biasa/Kamus (行く 人 / Orang YANG (akan) pergi, 行った 人 / Orang YANG (telah) pergi).",
     "examples": [
       {
-        "jp": "京都へ 行く 人",
-        "id": "orang yang pergi ke Kyoto"
+        "jp": "行く 人 / 行かない 人 / 行った 人",
+        "id": "Orang YANG (akan) pergi / Orang YANG tidak (akan) pergi / Orang YANG (telah) pergi."
+      },
+      {
+        "jp": "背が 高くて、髪が 黒い 人",
+        "id": "Orang YANG badannya tinggi dan berambut hitam."
       },
       {
         "jp": "これは ミラーさんが 住んで いた うちです。",
-        "id": "Ini adalah rumah yang dihuni Sdr. Miller."
+        "id": "Ini adalah rumah YANG (dulu) DIHUNI Sdr. Miller."
+      },
+      {
+        "jp": "ミラーさんが 住んで いた うちを 買いました。",
+        "id": "Membeli rumah YANG (dulu) DIHUNI Sdr. Miller (Pola ini bisa menempati objek kalimat)."
       }
     ],
     "tags": [
       "N5",
-      "Kata Benda",
-      "Menerangkan Kata Benda"
+      "Anak Kalimat",
+      "Modifikasi Nomina / Yang"
     ]
   },
   {
     "id": "m_bab22_2",
     "chapter": "Bab 22",
     "level": "N5",
-    "title": "ABentuk Kamus 時間／約束／用事",
-    "meaning": "Jika menunjukkan waktu ketika melakukan sesuatu, ada janji, dan ada urusan, maka aksi tersebut dijadikan Bentuk Kamus kemudian diletakkan di depan Kata Benda 時間 (waktu), 約束 (janji), atau 用事 (urusan).",
-    "formula_template": "{A} 時間 / 約束 / 用事",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} 時間 / 約束 / 用事' untuk menyatakan: Jika menunjukkan waktu ketika melakukan sesuatu, ada janji, dan ada urusan, maka aksi tersebut dijadikan Bentu. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus).",
-    "ui_notes": "Jika menunjukkan waktu ketika melakukan sesuatu, ada janji, dan ada urusan, maka aksi tersebut dijadikan Bentuk Kamus kemudian diletakkan di depan Kata Benda 時間 (waktu), 約束 (janji), atau 用事 (urusan).",
+    "title": "Partikel 'が' di dalam Anak Kalimat",
+    "meaning": "Jika di dalam kerumunan klausa penerang (anak kalimat) itu sendiri terdapat sosok Pelaku/Subjek (Misal: Kue YANG 'SAYA' buat), maka sosok subjek kecil itu WAJIB ditandai dengan partikel 'が', BUKAN 'は'.",
+    "formula_template": "[Subjek Anak Kalimat] が [Kata Kerja Biasa] + [Kata Benda]",
+    "ui_notes": "Alasan gramatikal: Karena status subjek tersebut hanyalah 'kacung/pelengkap' di dalam label stiker si anak kalimat, BUKAN sebagai Topik Utama (は) dari keseluruhan kalimat besar tersebut.",
     "examples": [
       {
-        "jp": "わたしは 朝ごはんを 食べる 時間が ありません。",
-        "id": "Saya tidak ada waktu untuk makan pagi."
+        "jp": "これは ミラーさんが 作った ケーキです。",
+        "id": "Ini adalah kue YANG DIBUAT (OLEH) SDR. MILLER."
       },
       {
-        "jp": "わたしは 友達と 映画を 見る 約束が あります。",
-        "id": "Saya ada janji dengan teman untuk menonton film."
+        "jp": "わたしは カリナさんが かいた 絵が 好きです。",
+        "id": "Saya (Topik Utama は) suka lukisan YANG DILUKIS (OLEH) SDR. KARINA (Subjek Anak Kalimat が)."
+      },
+      {
+        "jp": "[あなたは] 彼が 生まれた 所を 知って いますか。",
+        "id": "Apakah [Anda (は)] tahu tempat DIA (が) LAHIR?"
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Keterangan Waktu"
+      "Partikel Khusus",
+      "Subjek Klausa"
     ]
   },
   {
     "id": "m_bab22_3",
     "chapter": "Bab 22",
     "level": "N5",
-    "title": "A ましょうか",
-    "meaning": "Berarti 'Bagaimana kalau...?'. Ekspresi ini digunakan oleh si pembicara untuk menawarkan diri kepada lawan bicara agar bersama-sama melakukan sesuatu.",
-    "formula_template": "{A} ましょうか",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ましょうか' untuk menyatakan: Berarti 'Bagaimana kalau...?'. Ekspresi ini digunakan oleh si pembicara untuk menawarkan diri kepada lawan bic. Pastikan 'A' mewakili Kata Kerja (Bentuk ます dihilangkan).",
-    "ui_notes": "Berbeda dengan Pelajaran 14 (menawarkan bantuan sepihak), dalam konteks ini ekspresi disajikan untuk menawarkan melakukan sesuatu secara bersama-sama.",
+    "title": "Bentuk Kamus + 時間 / 約束 / 用事",
+    "meaning": "Bentuk Kamus (Jisho-kei) sering disandingkan langsung merapat di depan benda-benda abstrak temporal (Waktu / Janji / Urusan) untuk memberikan keterangan/rincian rinci tentang TUJUAN dari hal abstrak tersebut.",
+    "formula_template": "[Kata Kerja Bentuk Kamus] + 時間 / 約束 / 用事",
+    "ui_notes": "Secara alami diterjemahkan ke bahasa Indonesia dengan sisipan kata 'UNTUK'. Sangat berguna dan elegan untuk beralasan/menolak ajakan.",
     "examples": [
       {
-        "jp": "この 部屋、きょう 見る ことが できますか。……ええ。今から 行きましょうか。",
-        "id": "Apakah kamar ini dapat saya lihat hari ini? ……Ya. Bagaimana kalau pergi sekarang?"
+        "jp": "わたしは 朝ごはんを 食べる 時間が ありません。",
+        "id": "Saya tidak ada (memiliki) waktu UNTUK MAKAN sarapan."
+      },
+      {
+        "jp": "わたしは 友達と 映画を 見る 約束が あります。",
+        "id": "Saya ada janji dengan teman UNTUK MENONTON film."
+      },
+      {
+        "jp": "きょうは 市役所へ 行く 用事が あります。",
+        "id": "Hari ini (saya) ada urusan UNTUK PERGI ke balai kota."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Tawaran Bersama"
+      "Keterangan Tujuan",
+      "Janji / Waktu"
     ]
   }
 ]

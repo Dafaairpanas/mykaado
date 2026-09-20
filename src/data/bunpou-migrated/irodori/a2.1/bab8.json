@@ -1,0 +1,137 @@
+[
+  {
+    "id": "irodori_a2.1_bab8_1",
+    "chapter": 8,
+    "level": "A2.1",
+    "title": "もう V-ましたか",
+    "meaning": "Apakah sudah [V]?",
+    "formula_template": "もう + V-ました + か",
+    "ui_notes": "Digunakan untuk menanyakan apakah suatu tindakan sudah selesai dilakukan atau belum, terutama bila lawan bicara diharapkan wajar kalau sudah melakukannya.\n\n* **もう** berarti \"sudah\".\n* Contoh: **「昼ご飯、もう食べましたか」** (Apakah Anda sudah makan siang?) atau **「宿題は、もうやった？」** (Apakah kamu sudah mengerjakan PR?).\n* Jawaban positif: **「はい、V-ました」** (Ya, sudah [V]).\n* Jawaban negatif: **「いいえ、まだです」** (Belum).",
+    "examples": [
+      {
+        "japanese": "新しいアウトレットモール、もう行きましたか？",
+        "indonesian": "Apakah Anda sudah pergi ke outlet mall yang baru itu?",
+        "romaji": "Atarashii autoretto mooru, mou ikimashita ka?"
+      },
+      {
+        "japanese": "ポートタワー、もう登りましたか？",
+        "indonesian": "Apakah Anda sudah naik ke Port Tower?",
+        "romaji": "Pooto tawaa, mou noborimashita ka?"
+      },
+      {
+        "japanese": "Ａ： もう、この町のいろいろなところに行きましたか？\nＢ： はい、博物館とお城に行きました。でも、動物園はまだです。",
+        "indonesian": "A: Apakah Anda sudah mengunjungi berbagai tempat di kota ini?\nB: Ya, saya sudah pergi ke museum dan kastil. Tapi belum ke kebun binatang.",
+        "romaji": "A: Mou, kono machi no iroiro na tokoro ni ikimashita ka?\nB: Hai, hakubutsukan to oshiro ni ikimashita. Demo, doubutsuen wa mada desu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 8", "mou", "sudah"]
+  },
+  {
+    "id": "irodori_a2.1_bab8_2",
+    "chapter": 8,
+    "level": "A2.1",
+    "title": "V-たことがあります",
+    "meaning": "Pernah [V] / (Pengalaman)",
+    "formula_template": "V-た (Bentuk Lampau) + ことが + あります",
+    "ui_notes": "Digunakan untuk menyatakan pengalaman pernah melakukan sesuatu.\n\n* **Bedanya dengan もう V-ましたか**: Kalau **もう V-ましたか** menanyakan hal rutin/baru-baru ini yang wajar sudah terjadi, pola **V-たことがあります** murni menanyakan *pengalaman hidup*.\n* Jawaban punya pengalaman: **「あります」**.\n* Jawaban tidak punya pengalaman: **「ないです」** atau **「ありません」**.\n* Dalam percakapan santai, partikel **が** sering dilesapkan (menjadi **V-たことあります**), atau pada bentuk biasa menjadi **V-たこと(が)ある**.\n\n### 🔧 Cara Membuat Bentuk タ (Ta-form)\nCara membuatnya persis sama dengan aturan membuat Bentuk-te (テ形), tinggal ganti akhiran \"te/de\" menjadi \"ta/da\".\n| Kelompok | Akhiran Kamus | Perubahan Bentuk タ | Contoh |\n|---|---|---|---|\n| **1 (Grup 1)** | **-う / -つ / -る** | **-った** | 待つ → 待った |\n| | **-ぶ / -む / -ぬ** | **-んだ** | 飲む → 飲んだ |\n| | **-く / -ぐ** | **-いた / -いだ** | 働く → 働いた (*Kecuali: 行く → 行った*) |\n| | **-す** | **-した** | 話す → 話した |\n| **2 (Grup 2)** | **-る** | **-た** | 食べる → 食べた |\n| **3 (Grup 3)** | **する / 来る** | **した / 来た** | 勉強する → 勉強した, 来る → 来た |",
+    "examples": [
+      {
+        "japanese": "Ａ： プロレスを見たことがありますか？\nＢ： いいえ、見たことないです。",
+        "indonesian": "A: Apakah Anda pernah menonton gulat profesional?\nB: Tidak, saya belum pernah.",
+        "romaji": "A: Puroresu o mita koto ga arimasu ka?\nB: Iie, mita koto nai desu."
+      },
+      {
+        "japanese": "Ａ： あそこのアジアレストラン、行ったことある？\nＢ： はい、一度あります。\nＣ： 私は、ありません。",
+        "indonesian": "A: Apakah kamu pernah pergi ke Restoran Asia di sana itu?\nB: Ya, pernah satu kali.\nC: Saya tidak pernah.",
+        "romaji": "A: Asoko no Ajia resutoran, itta koto aru?\nB: Hai, ichido arimasu.\nC: Watashi wa, arimasen."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 8", "ta-koto", "pengalaman", "pernah"]
+  },
+  {
+    "id": "irodori_a2.1_bab8_3",
+    "chapter": 8,
+    "level": "A2.1",
+    "title": "V-に行きませんか？",
+    "meaning": "Maukah Anda pergi untuk [V]?",
+    "formula_template": "V-ます (Coret 'masu') + に + 行きませんか？",
+    "ui_notes": "Merupakan bentuk ajakan, sekaligus menunjukkan *tujuan* pergi.\n\n* Coret akhiran **ます** dari kata kerja bentuk masu, lalu tambahkan **に行く**. Contoh: 食べ(ます) + に行く = **食べに行く** (Pergi untuk makan).\n* Diakhiri dengan **ませんか？** (sopan) atau **ない？** (bentuk biasa/kasual) untuk mengajukan ajakan secara lembut.",
+    "examples": [
+      {
+        "japanese": "いっしょに食べに行きませんか？",
+        "indonesian": "Maukah Anda pergi makan bersama?",
+        "romaji": "Issho ni tabe ni ikimasen ka?"
+      },
+      {
+        "japanese": "Ａ： プロレス、いっしょに見に行きませんか？\nＢ： いいですね。行きましょう。",
+        "indonesian": "A: Maukah Anda menonton gulat profesional bersama?\nB: Wah menarik. Ayo!",
+        "romaji": "A: Puroresu, issho ni mi ni ikimasen ka?\nB: Ii desu ne. Ikimashou."
+      },
+      {
+        "japanese": "Ａ： 今度、映画見に行かない？\nＢ： ぜひ。",
+        "indonesian": "A: Maukah kamu menonton film bersama?\nB: Pastinya.",
+        "romaji": "A: Kondo, eiga mi ni ikanai?\nB: Zehi."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 8", "ajakan", "tujuan"]
+  },
+  {
+    "id": "irodori_a2.1_bab8_4",
+    "chapter": 8,
+    "level": "A2.1",
+    "title": "Nの前（まえ）に、～ / Ｎのあと（で）、～",
+    "meaning": "Sebelum [N], ... / Setelah [N], ...",
+    "formula_template": "Kata Benda + の前に / のあと(で) + , ～",
+    "ui_notes": "Digunakan untuk menegaskan secara jelas urutan kejadian atau aktivitas.\n\n* **Nの前に**: Kegiatan di kalimat belakang dilakukan *lebih dulu* sebelum N.\n* **Nのあと(で)**: Kegiatan di kalimat belakang dilakukan *setelah* N selesai. Partikel **で** kadang dilesapkan sehingga menjadi **Nのあと** saja.\n* **N (Kata Benda)** biasanya berisi nomina kegiatan, seperti: 食事 (makan), 買い物 (belanja), 仕事 (kerja), 勉強 (belajar), dll.",
+    "examples": [
+      {
+        "japanese": "食事の前に、お金をおろしたいんですが…。",
+        "indonesian": "Saya ingin mengambil uang sebelum kita makan...",
+        "romaji": "Shokuji no mae ni, okane o oroshitain desu ga..."
+      },
+      {
+        "japanese": "買い物のあとで、ゲームコーナーに行きませんか？",
+        "indonesian": "Maukah pergi ke game corner setelah berbelanja?",
+        "romaji": "Kaimono no ato de, geemu koonaa ni ikimasen ka?"
+      },
+      {
+        "japanese": "映画の前に、カフェでお茶をしましょう。",
+        "indonesian": "Ayo kita minum teh di kafe dulu sebelum nonton.",
+        "romaji": "Eiga no mae ni, kafe de ocha o shimashou."
+      },
+      {
+        "japanese": "仕事のあとで、みんなでボウリングに行きませんか？",
+        "indonesian": "Maukah kamu bermain boling bersama teman-teman setelah bekerja?",
+        "romaji": "Shigoto no ato de, minna de bouringu ni ikimasen ka?"
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 8", "sebelum", "setelah", "urutan waktu"]
+  },
+  {
+    "id": "irodori_a2.1_bab8_5",
+    "chapter": 8,
+    "level": "A2.1",
+    "title": "V-たいんですが…",
+    "meaning": "Saya ingin [V], jadi (bagaimana?)...",
+    "formula_template": "V-ます (Coret 'masu') + たいんですが…",
+    "ui_notes": "Ungkapan untuk menyampaikan keinginan diri sendiri dengan harapan lawan bicara bereaksi atau membantu menanggapi keinginan tersebut.\n\n* Di Bab 6 kita belajar **行きたいんですが...**, di sini polanya bisa diterapkan ke kata kerja lain dengan menambahkan **たい** lalu diikuti **んですが...**.\n* Kadang tidak langsung diakhiri dengan **たいんですが…**, melainkan disambung dengan permintaan langsung di belakangnya.",
+    "examples": [
+      {
+        "japanese": "ジョギングシューズを買いたいんですが…。",
+        "indonesian": "Saya ingin membeli sepatu joging...",
+        "romaji": "Jogingu shuuzu o kaitain desu ga..."
+      },
+      {
+        "japanese": "Ａ： ちょっと休みたいんですが…。\nＢ： じゃあ、あそこのカフェに入りましょう。",
+        "indonesian": "A: Saya ingin istirahat sebentar...\nB: Oh, kalau begitu ayo kita masuk ke kafe itu.",
+        "romaji": "A: Chotto yasumitain desu ga...\nB: Jaa, asoko no kafe ni hairimashou."
+      },
+      {
+        "japanese": "Tシャツを買いたいんですが、あのお店、見てもいいですか？",
+        "indonesian": "Saya ingin membeli kaus, boleh saya [mampir] ke toko itu?",
+        "romaji": "Tii shatsu o kaitain desu ga, ano omise, mite mo ii desu ka?"
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 8", "keinginan", "tai", "ndesuga"]
+  }
+]

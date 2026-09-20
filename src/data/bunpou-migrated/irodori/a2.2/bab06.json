@@ -6,19 +6,6 @@
     "title": "V-るつもりです — Berniat / Berencana V",
     "meaning": "Pola untuk menyatakan niat atau rencana yang sudah dipikirkan dengan matang. 'つもり' berarti 'niat' atau 'maksud'. Berbeda dengan 'V-たいです' (ingin) yang menunjukkan keinginan, 'V-るつもり' menunjukkan niat yang lebih kuat dan sudah direncanakan. Sangat berguna saat menceritakan rencana perjalanan. Artinya 'Saya berniat [melakukan V]'.",
     "formula_template": "{A} つもりです",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} つもりです' untuk percakapan: Pola untuk menyatakan niat atau rencana yang sudah dipikirkan dengan matang. 'つもり' berarti 'niat' atau 'maksud. Pastikan 'A' mewakili Kata Kerja Bentuk Kamus.",
     "ui_notes": "Bentuk negatif: V-ないつもりです (berniat tidak V). Contoh: 行かないつもりです (Berniat tidak pergi). Untuk menyatakan rencana yang lebih pasti, gunakan 'V-る予定です' (berencana V). 'つもり' juga bisa berarti 'anggap' dalam konteks lain: わかったつもり (Anggap sudah paham).",
     "examples": [
       {
@@ -44,47 +31,6 @@
     "title": "V-（られ）て、〜／V-（られ）なくて、〜 — Karena Bisa V / Karena Tidak Bisa V",
     "meaning": "Pola untuk menyatakan alasan perasaan senang atau kecewa berdasarkan kemampuan atau ketidakmampuan melakukan sesuatu. 'V-られて' (bisa V, jadi...) dan 'V-られなくて' (tidak bisa V, jadi...) menggunakan bentuk 'て' dari potensial. Sangat berguna saat menyatakan kesan perjalanan. Artinya 'Karena bisa V, [perasaan]' / 'Karena tidak bisa V, [perasaan]'.",
     "formula_template": "{A} {B} / {C} {D}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} {B} / {C} {D}' untuk percakapan: Pola untuk menyatakan alasan perasaan senang atau kecewa berdasarkan kemampuan atau ketidakmampuan melakukan s. Pastikan 'A' mewakili Kata Kerja Potensial Bentuk te, 'B' mewakili Perasaan, 'C' mewakili Kata Kerja Potensial Negatif Bentuk te, 'D' mewakili Perasaan.",
     "ui_notes": "Pola ini menggunakan bentuk 'て' dari potensial: 行ける→行けて, 見られる→見られて. Untuk negatif: 行けない→行けなくて, 見られない→見られなくて. Sangat natural untuk menyatakan kesan dalam bahasa Jepang. Contoh lain: 温泉に入れて、気持ちよかったです (Karena bisa masuk onsen, terasa enak).",
     "examples": [
       {
@@ -110,51 +56,6 @@
     "title": "S1し、S2し、〜 — Selain S1, Juga S2 ...",
     "meaning": "Pola untuk menyatakan beberapa alasan atau informasi secara bersamaan. 'し' digunakan di akhir setiap klausa untuk menunjukkan bahwa ada beberapa poin yang disebutkan. Sangat berguna saat memberikan alasan mengapa suatu perjalanan menyenangkan. Artinya '[Klausa1], dan juga [Klausa2], [Klausa3], ...'.",
     "formula_template": "{A} し、{B} し、{C}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} し、{B} し、{C}' untuk percakapan: Pola untuk menyatakan beberapa alasan atau informasi secara bersamaan. 'し' digunakan di akhir setiap klausa un. Pastikan 'A' mewakili Klausa 1, 'B' mewakili Klausa 2, 'C' mewakili Klausa 3.",
     "ui_notes": "Menggunakan minimal 2 klausa dengan 'し'. Klausa terakhir tidak perlu diikuti 'し' jika sudah jelas. Untuk kata sifat-na dan kata benda, gunakan 'だし': 静かだし, 便利だし. 'し' juga bisa berarti 'dan juga' atau 'apalagi', memberikan nuansa bahwa ada alasan lain yang tidak disebutkan.",
     "examples": [
       {
@@ -180,19 +81,6 @@
     "title": "V-る／V-ている／V-た とき、〜 — Pada Saat V ...",
     "meaning": "Pola untuk menyatakan waktu atau momen tertentu saat suatu kejadian terjadi. 'とき' berarti 'saat' atau 'ketika'. Bentuk kata kerja sebelum 'とき' menunjukkan waktu relatif: bentuk kamus (saat akan V), bentuk 'ている' (saat sedang V), bentuk lampau (saat sudah V). Sangat berguna saat menceritakan pengalaman perjalanan. Artinya 'Pada saat [V]'.",
     "formula_template": "{A} とき",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} とき' untuk percakapan: Pola untuk menyatakan waktu atau momen tertentu saat suatu kejadian terjadi. 'とき' berarti 'saat' atau 'ketika'. Pastikan 'A' mewakili Kata Kerja Bentuk Kamus/ている/た.",
     "ui_notes": "Perbedaan: 行くとき (saat akan pergi), 行っているとき (saat sedang pergi), 行ったとき (saat sudah pergi). 'とき' sering diikuti 'に' untuk menunjukkan waktu spesifik. Contoh: 子供のとき (saat masih anak-anak), 大学生のとき (saat mahasiswa).",
     "examples": [
       {
@@ -218,27 +106,6 @@
     "title": "【orang】と【jumlah orang】で — Dengan ... Sebanyak ... Orang",
     "meaning": "Pola untuk menyatakan jumlah orang yang melakukan aktivitas bersama. 'と' berarti 'dengan' (orang yang bersama), 'で' menunjukkan jumlah total orang. Sangat berguna saat menjelaskan dengan siapa dan berapa orang pergi. Artinya 'Dengan [orang], total [jumlah] orang'.",
     "formula_template": "{A} と {B} 人で",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      },
-      "B": {
-        "type": [
-          "counter",
-          "noun"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} と {B} 人で' untuk percakapan: Pola untuk menyatakan jumlah orang yang melakukan aktivitas bersama. 'と' berarti 'dengan' (orang yang bersama). Pastikan 'A' mewakili Orang, 'B' mewakili Jumlah.",
     "ui_notes": "Cara menghitung orang: 1人 (hitori), 2人 (futari), 3人 (sannin), 4人 (yonin), 5人 (gonin). 'で' di sini menunjukkan 'dengan total'. Perhatikan bahwa 'と' digunakan untuk orang yang diajak, sedangkan 'で' digunakan untuk total jumlah. Contoh: 1人で行きました (Saya pergi sendirian - tanpa 'と').",
     "examples": [
       {

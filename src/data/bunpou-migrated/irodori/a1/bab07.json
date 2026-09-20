@@ -6,18 +6,6 @@
     "title": "ここは【tempat】です (Koko wa [tempat] desu)",
     "meaning": "Pola kalimat untuk menyatakan 'ini adalah [tempat/ruangan]'. 'ここ' berarti 'di sini' (dekat dengan pembicara). Digunakan saat menunjukkan atau menjelaskan letak suatu ruangan atau tempat. Sangat berguna saat memandu orang berkeliling rumah atau menjelaskan tata letak.",
     "formula_template": "ここは {A} です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'ここは {A} です' untuk percakapan: Pola kalimat untuk menyatakan 'ini adalah [tempat/ruangan]'. 'ここ' berarti 'di sini' (dekat dengan pembicara). . Pastikan 'A' mewakili Tempat/Ruangan.",
     "ui_notes": "Untuk menunjukkan tempat yang jauh dari pembicara, gunakan 'そこ' (di situ - dekat lawan bicara) atau 'あそこ' (di sana - jauh dari keduanya). Contoh: そこはトイレです。 (Itu adalah toilet - di dekat lawan bicara).",
     "examples": [
       {
@@ -43,26 +31,6 @@
     "title": "【tempat】にNがあります ([Tempat] ni N ga arimasu)",
     "meaning": "Pola kalimat untuk menyatakan keberadaan benda mati di suatu tempat. 'に' menunjukkan lokasi, 'が' menunjukkan subjek (benda yang ada), dan 'あります' berarti 'ada'. Digunakan untuk menjelaskan apa saja yang ada di dalam ruangan atau rumah.",
     "formula_template": "{A} に {B} が あります",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} に {B} が あります' untuk percakapan: Pola kalimat untuk menyatakan keberadaan benda mati di suatu tempat. 'に' menunjukkan lokasi, 'が' menunjukkan s. Pastikan 'A' mewakili Tempat, 'B' mewakili Benda.",
     "ui_notes": "Untuk benda hidup (orang, hewan), gunakan 'います' bukan 'あります'. Contoh: ここに犬がいます。 (Di sini ada anjing). Untuk menyebutkan jumlah, gunakan counter yang sesuai. Perhatikan urutan: [Tempat] に [Benda] が [Jumlah] あります.",
     "examples": [
       {
@@ -88,17 +56,6 @@
     "title": "Nはありません / ないです",
     "meaning": "Bentuk negatif dari 'あります'. Digunakan untuk menyatakan bahwa suatu barang tidak ada. 'ありません' adalah bentuk negatif standar yang lebih formal, sedangkan 'ないです' adalah bentuk negatif kasual yang juga sopan. Keduanya berarti 'tidak ada N'.",
     "formula_template": "{A} は ありません / ないです",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は ありません / ないです' untuk percakapan: Bentuk negatif dari 'あります'. Digunakan untuk menyatakan bahwa suatu barang tidak ada. 'ありません' adalah bentuk neg. Pastikan 'A' mewakili Benda.",
     "ui_notes": "'ありません' lebih formal, sering digunakan di tempat kerja atau situasi resmi. 'ないです' lebih natural dalam percakapan sehari-hari. Perhatikan bahwa 'は' digunakan sebagai penanda topik, yang berarti 'kalau N-nya, tidak ada'.",
     "examples": [
       {
@@ -124,27 +81,6 @@
     "title": "Kata Sifat: ナA-です / イA-いです",
     "meaning": "Pola kalimat untuk menjelaskan sifat atau kondisi suatu benda atau tempat menggunakan kata sifat. Ada dua jenis kata sifat dalam bahasa Jepang: ナA (kata sifat-na) dan イA (kata sifat-i). Keduanya diakhiri dengan 'です' untuk bentuk sopan. 'ナA' diakhiri dengan 'な' saat menerangkan kata benda, sedangkan 'イA' berakhiran 'い'.",
     "formula_template": "{A} は {B} です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は {B} です' untuk percakapan: Pola kalimat untuk menjelaskan sifat atau kondisi suatu benda atau tempat menggunakan kata sifat. Ada dua jeni. Pastikan 'A' mewakili Benda/Tempat, 'B' mewakili Kata Sifat.",
     "ui_notes": "Perbedaan: Kata sifat-na (ナA): 静か (shizuka), 便利 (benri), 有名 (yuumei). Kata sifat-i (イA): せまい (semai), ひろい (hiroi), 新しい (atarashii). Kata sifat-na tidak berubah saat diikuti 'です', sedangkan kata sifat-i tetap 'い' + 'です'.",
     "examples": [
       {
@@ -170,34 +106,6 @@
     "title": "Bentuk Negatif Kata Sifat: ナA-じゃないです / イA-くないです",
     "meaning": "Bentuk negatif dari kata sifat. Untuk kata sifat-na (ナA), bentuk negatifnya adalah '〜じゃないです' (atau '〜ではありません' untuk lebih formal). Untuk kata sifat-i (イA), bentuk negatifnya adalah mengubah 'い' menjadi 'くないです'. Keduanya berarti 'tidak [sifat]'.",
     "formula_template": "{A} は {B} / {C}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は {B} / {C}' untuk percakapan: Bentuk negatif dari kata sifat. Untuk kata sifat-na (ナA), bentuk negatifnya adalah '〜じゃないです' (atau '〜ではありません' . Pastikan 'A' mewakili Benda/Tempat, 'B' mewakili ナA-じゃないです, 'C' mewakili イA-くないです.",
     "ui_notes": "Bentuk negatif kata sifat-na: 静かじゃないです (tidak tenang), 便利じゃないです (tidak praktis). Bentuk negatif kata sifat-i: 広くないです (tidak luas), 新しくないです (tidak baru). 'あまり' sering digunakan bersama bentuk negatif untuk berarti 'tidak terlalu...'.",
     "examples": [
       {

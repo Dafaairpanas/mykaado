@@ -3,140 +3,70 @@
     "id": "m_bab25_1",
     "chapter": "Bab 25",
     "level": "N5",
-    "title": "Bentuk Biasa Lampau ら、～(Apokok)",
-    "meaning": "Menyatakan persyaratan asumsi ('Kalau...') dengan membubuhkan ら pada Bentuk Biasa Lampau Kata Kerja, Kata Sifat, dan Kata Benda. Kalimat pokok di belakangnya dapat menggunakan ekspresi untuk menunjukkan keinginan, harapan, ajakan, permohonan, dll.",
-    "formula_template": "{A}/{B}/{C} ら、~",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}/{B}/{C} ら、~' untuk menyatakan: Menyatakan persyaratan asumsi ('Kalau...') dengan membubuhkan ら pada Bentuk Biasa Lampau Kata Kerja, Kata Sifa. Pastikan 'A' mewakili Kata Kerja, 'B' mewakili Kata Sifat, 'C' mewakili Kata Benda (Bentuk Biasa Lampau).",
-    "ui_notes": "Di belakang kalimat bentuk ～と, ekspresi untuk keinginan, harapan, ajakan, permohonan dan lain-lainnya tidak dapat dipakai (berbeda dengan bentuk ～たら).",
+    "title": "Bentuk Biasa Lampau ら、… (Kalau...)",
+    "meaning": "Menyatakan persyaratan asumsi. Digunakan dengan membubuhkan 'ら' pada Bentuk Biasa Lampau (Kata Kerja, Kata Sifat, atau Kata Benda). Hal ini menunjukkan suatu kondisi atau asumsi di awal kalimat (anak kalimat), yang apabila terpenuhi, maka tindakan atau kejadian pada kalimat pokok di belakangnya akan terjadi atau dilakukan.",
+    "formula_template": "[Bentuk Biasa Lampau] ら、〜",
+    "ui_notes": "Pada kalimat pokok (di belakang 'ら'), Anda bebas menggunakan berbagai ekspresi seperti keinginan (～たい), harapan, ajakan (～ませんか), permohonan (～てください), dan lain-lain.",
     "examples": [
       {
         "jp": "お金が あったら、旅行します。",
         "id": "Kalau punya uang, berwisata."
       },
       {
-        "jp": "時間が なかったら、テレビを 見ません。",
+        "jp": "時間が なかったら、テレビを見ません。",
         "id": "Kalau tidak ada waktu, tidak menonton TV."
+      },
+      {
+        "jp": "安かったら、パソコンを買いたいです。",
+        "id": "Kalau murah, ingin membeli komputer."
+      },
+      {
+        "jp": "暇だったら、手伝ってください。",
+        "id": "Kalau sedang luang, tolong bantu saya."
+      },
+      {
+        "jp": "いい天気だったら、散歩しませんか。",
+        "id": "Kalau cuaca baik, bagaimana kita jalan-jalan?"
       }
     ],
     "tags": [
       "N5",
       "Pengandaian",
-      "Syarat"
+      "Asumsi"
     ]
   },
   {
     "id": "m_bab25_2",
     "chapter": "Bab 25",
     "level": "N5",
-    "title": "ABentuk たら、～(Bpokok)",
-    "meaning": "Berarti 'Kalau sudah..., ~'. Jika sebelumnya telah mengetahui bahwa maksud dari Kata Kerja Bentuk たら pasti terjadi, maka menyatakan terjadinya aksi atau kejadian selanjutnya di kalimat pokok.",
-    "formula_template": "{A} ら、~",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ら、~' untuk menyatakan: Berarti 'Kalau sudah..., ~'. Jika sebelumnya telah mengetahui bahwa maksud dari Kata Kerja Bentuk たら pasti ter. Pastikan 'A' mewakili Kata Kerja (Bentuk た).",
-    "ui_notes": "Berarti 'Kalau sudah..., ~'. Jika sebelumnya telah mengetahui bahwa maksud dari Kata Kerja Bentuk たら pasti terjadi, maka menyatakan terjadinya aksi atau kejadian selanjutnya di kalimat pokok.",
+    "title": "Kata Kerja Bentuk たら、… (Kalau sudah...)",
+    "meaning": "Menyatakan suatu kejadian yang pasti akan terjadi di masa depan. Jika pembicara yakin bahwa hal pada kalimat pertama (Bentuk たら) pasti terjadi, maka pola ini digunakan untuk menyatakan aksi, kejadian, atau hal yang akan langsung dilakukan setelah kejadian pertama tersebut selesai.",
+    "formula_template": "[Kata Kerja Bentuk た] ら、〜",
+    "ui_notes": "Pola ini lebih fokus pada urutan waktu ('setelah A terjadi, maka B'). Berbeda dengan asumsi yang belum pasti. Kalimat di belakangnya menyusul setelah kejadian pertama usai.",
     "examples": [
       {
         "jp": "10時に なったら、出かけましょう。",
         "id": "Kalau sudah sampai pukul sepuluh, kita berangkat."
       },
       {
-        "jp": "うちへ 帰ったら、すぐ シャワーを 浴びます。",
-        "id": "Kalau pulang ke rumah, saya langsung mandi."
+        "jp": "うちへ 帰ったら、すぐシャワーを 浴びます。",
+        "id": "Kalau pulang ke rumah, saya langung mandi."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Kejadian Berurutan"
+      "Waktu",
+      "Urutan"
     ]
   },
   {
     "id": "m_bab25_3",
     "chapter": "Bab 25",
     "level": "N5",
-    "title": "A/ B/ C も、～(Dpokok)",
-    "meaning": "Menunjukkan persyaratan asumsi paradoks yang berarti 'Walaupun...'. Menunjukkan hal sebaliknya atau yang tidak biasa terjadi di bawah asumsi tersebut.",
-    "formula_template": "{A} / {B} / {C} / {D} も、~",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} / {B} / {C} / {D} も、~' untuk menyatakan: Menunjukkan persyaratan asumsi paradoks yang berarti 'Walaupun...'. Menunjukkan hal sebaliknya atau yang tidak. Pastikan 'A' mewakili Kata Kerja (Bentuk て / なくて), 'B' mewakili Kata Sifat い (~くて), 'C' mewakili Kata Sifat な (~で), 'D' mewakili Kata Benda (~で).",
-    "ui_notes": "Menunjukkan persyaratan asumsi paradoks yang berarti 'Walaupun...'. Menunjukkan hal sebaliknya atau yang tidak biasa terjadi di bawah asumsi tersebut.",
+    "title": "Bentuk ても (Walaupun...)",
+    "meaning": "Menyatakan persyaratan asumsi paradoks (kebalikan). Pola ini menunjukkan bahwa suatu tindakan atau kejadian akan tetap terjadi, terlepas dari kondisi pada awal kalimat. Dengan kata lain, hasil yang diharapkan dari suatu kondisi tidak terjadi, atau justru sebaliknya.",
+    "formula_template": "[Bentuk て/なくて/くて/で] も、〜",
+    "ui_notes": "Ini adalah kebalikan dari pola 'ら' (Kalau). Jika 'ら' berarti sebab-akibat yang wajar, 'ても' berarti paradoks (Meskipun A, tetap B). Berlaku untuk Kata Kerja, Kata Sifat, dan Kata Benda.",
     "examples": [
       {
         "jp": "雨が 降っても、洗濯します。",
@@ -145,6 +75,14 @@
       {
         "jp": "安くても、わたしは グループ旅行が 嫌いです。",
         "id": "Walaupun murah, saya tidak suka tur rombongan."
+      },
+      {
+        "jp": "便利でも、パソコンを 使いません。",
+        "id": "Walaupun praktis, tidak memakai komputer."
+      },
+      {
+        "jp": "日曜日でも、働きます。",
+        "id": "Walaupun hari Minggu, bekerja."
       }
     ],
     "tags": [
@@ -157,87 +95,48 @@
     "id": "m_bab25_4",
     "chapter": "Bab 25",
     "level": "N5",
-    "title": "もし",
-    "meaning": "Dipakai bersama dengan ～たら untuk memberitahukan sebelumnya bahwa kalimat tersebut adalah kalimat persyaratan. Berfungsi menekankan perasaan asumsi si pembicara.",
-    "formula_template": "もし [{A}] たら、~",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'もし [{A}] たら、~' untuk menyatakan: Dipakai bersama dengan ～たら untuk memberitahukan sebelumnya bahwa kalimat tersebut adalah kalimat persyaratan. . Pastikan 'A' mewakili Kalimat.",
-    "ui_notes": "Dipakai bersama dengan ～たら untuk memberitahukan sebelumnya bahwa kalimat tersebut adalah kalimat persyaratan. Berfungsi menekankan perasaan asumsi si pembicara.",
+    "title": "もし (Seandainya / Jika)",
+    "meaning": "Kata pembuka 'もし' (seandainya/jika) digunakan di awal kalimat yang dipasangkan dengan pola '〜たら'. Fungsinya untuk memberitahukan lawan bicara sejak awal bahwa kalimat tersebut adalah sebuah kalimat persyaratan atau pengandaian.",
+    "formula_template": "もし 〜たら",
+    "ui_notes": "'もし' tidak memiliki arti yang mandiri, namun keberadaannya sangat membantu menegaskan perasaan asumsi atau hipotesis dari si pembicara sejak awal kalimat.",
     "examples": [
       {
         "jp": "もし 1億円 あったら、いろいろな 国を 旅行したいです。",
-        "id": "Kalau punya seratus juta yen, ingin berwisata di berbagai negara."
+        "id": "Kalau (seandainya) punya seratus juta yen, ingin berwisata di berbagai negara."
       }
     ],
     "tags": [
       "N5",
-      "Kata Keterangan",
-      "Penekanan Pengandaian"
+      "Pengandaian",
+      "Penekanan"
     ]
   },
   {
     "id": "m_bab25_5",
     "chapter": "Bab 25",
     "level": "N5",
-    "title": "A dalam anak B",
-    "meaning": "Sama halnya dengan ～てから, ～とき atau ～まえに, untuk pola ～たら dan ～ても subjek di dalam anak kalimat ditunjuk dengan partikel が.",
-    "formula_template": "{A} が Predikat Anak {B}(~たら / ~ても)",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} が Predikat Anak {B}(~たら / ~ても)' untuk menyatakan: Sama halnya dengan ～てから, ～とき atau ～まえに, untuk pola ～たら dan ～ても subjek di dalam anak kalimat ditunjuk dengan pa. Pastikan 'A' mewakili Subjek, 'B' mewakili Kalimat.",
-    "ui_notes": "Sama halnya dengan ～てから, ～とき atau ～まえに, untuk pola ～たら dan ～ても subjek di dalam anak kalimat ditunjuk dengan partikel が.",
+    "title": "Subjek dalam Anak Kalimat (が)",
+    "meaning": "Sama halnya dengan pola '〜てから', '〜とき', atau '〜まえに', subjek pelaku yang berada di dalam anak kalimat (bagian kalimat yang menggunakan 'たら' atau 'ても') selalu ditandai dengan partikel 'が', bukan 'は'.",
+    "formula_template": "[Subjek] が 〜たら / ても",
+    "ui_notes": "Aturan partikel ini sangat penting untuk membedakan topik utama kalimat secara keseluruhan (yang menggunakan 'は') dengan subjek/pelaku spesifik dari tindakan pengandaian tersebut (yang ditandai dengan 'が').",
     "examples": [
       {
+        "jp": "友達が 約束の 時間に 来なかったら、どうしますか。",
+        "id": "Kalau teman tidak datang pada waktu janji, bagaimana?"
+      },
+      {
         "jp": "友達が 来る まえに、部屋を 掃除します。",
-        "id": "Sebelum teman datang, membersihkan kamar. (Pel.18)"
+        "id": "Sebelum teman datang, membersihkan kamar. (Sebagai referensi)"
       },
       {
         "jp": "妻が 病気の とき、会社を 休みます。",
-        "id": "Waktu istri sakit, saya tidak masuk kerja. (Pel.23)"
+        "id": "Waktu istri sakit, saya tidak masuk kerja. (Sebagai referensi)"
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Penanda Subjek"
+      "Subjek"
     ]
   }
 ]

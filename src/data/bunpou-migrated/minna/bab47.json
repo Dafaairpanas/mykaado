@@ -3,148 +3,72 @@
     "id": "m_bab47_1",
     "chapter": "Bab 47",
     "level": "N4",
-    "title": "普通形 そうです",
-    "meaning": "Ekspresi untuk menyampaikan informasi yang diperoleh pembicara dari pihak lain tanpa menambahkan pendapat sendiri (Katanya ~ / Kabarnya ~). Ketika informasi sumber diberikan maka diletakkan di depan kalimat yang ditandai bentuk ～によると.",
-    "formula_template": "{A}/ {B} / {C} / {D} そうです",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}/ {B} / {C} / {D} そうです' untuk menyatakan: Ekspresi untuk menyampaikan informasi yang diperoleh pembicara dari pihak lain tanpa menambahkan pendapat send. Pastikan 'A' mewakili Kata Kerja, 'B' mewakili Kata Sifat い, 'C' mewakili Kata Sifat な, 'D' mewakili Kata Benda (Bentuk Biasa).",
-    "ui_notes": "Perlu hati-hati karena cara menyambung dan maknanya berbeda dengan ～そうです (kelihatannya) pada Pelajaran 43. Bandingkan: 雨が降りそうです (Rupanya mau hujan) vs 雨が降るそうです (Katanya hujan turun).",
+    "title": "〜そうです (Katanya... / Menyampaikan Informasi)",
+    "meaning": "Pola ini digunakan untuk menyampaikan kembali sebuah informasi, kabar, atau berita yang didapat dari pihak lain (sumber eksternal), tanpa mencampurinya dengan opini pribadi pembicara.",
+    "formula_template": "[Sumber Info + に よると]、[Bentuk Biasa Utuh] + そうです",
+    "ui_notes": "Perbedaan dengan Bab 43 (Penilaian Visual):\n- Bab 43 (Prediksi visual): 降りそうです (Kelihatannya mau hujan) -> Akhiran ます DICORET.\n- Bab 47 (Menyampaikan Info): 降るそうです (Katanya hujan akan turun) -> Kata kerja WAJIB menggunakan Bentuk Biasa Utuh (Kamus/Nai/Ta) TANPA dicoret apapun.",
     "examples": [
       {
-        "jp": "天気予報によると、あしたは寒くなるそうです。",
-        "id": "Menurut prakiraan cuaca, besok akan menjadi dingin."
+        "jp": "天気予報に よると、あしたは 寒くなる そうです。",
+        "id": "Menurut ramalan cuaca (sumber informasi), katanya besok udara akan menjadi dingin."
       },
       {
-        "jp": "クララさんは子どものとき、フランスに住んでいたそうです。",
-        "id": "Katanya ketika sdri. Klara masih kecil, dia tinggal di Prancis."
+        "jp": "クララさんは 子どもの とき、フランスに 住んで いた そうです。",
+        "id": "Katanya (berdasarkan cerita orang), waktu masa kecil dulu, Sdri. Klara pernah tinggal di Prancis."
+      },
+      {
+        "jp": "バリは とても きれいだ そうです。",
+        "id": "Katanya (dari informasi yang saya dengar), Pulau Bali itu sangatlah indah (きれいだ + そうです)."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Kabar/Desas-desus"
+      "Menyampaikan Kabar",
+      "Katanya (Soudesu)"
     ]
   },
   {
     "id": "m_bab47_2",
     "chapter": "Bab 47",
     "level": "N4",
-    "title": "普通形 ようです",
-    "meaning": "Ungkapan yang menyatakan hal yang diputuskan/disimpulkan oleh si pembicara dari kondisi setempat (Rupanya... / Kelihatannya...). Adakalanya disertakan Kata Keterangan どうも yang berarti 'tidak menyimpulkan secara pasti, tetapi'.",
-    "formula_template": "{A}/ {B} ようです | {C} ようです | {D} ようです",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}/ {B} ようです | {C} ようです | {D} ようです' untuk menyatakan: Ungkapan yang menyatakan hal yang diputuskan/disimpulkan oleh si pembicara dari kondisi setempat (Rupanya... /. Pastikan 'A' mewakili Kata Kerja, 'B' mewakili Kata Sifat い (Bentuk Biasa), 'C' mewakili Kata Sifat な (Bentuk Biasa ~だ -> ~な), 'D' mewakili Kata Benda (Bentuk Biasa ~だ -> ~の).",
-    "ui_notes": "Perbedaan dengan ～そうです (Pel.43): '忙しそうです' hanya menjelaskan kondisi luar secara sekilas (kelihatan sibuk), sedangkan '忙しいようです' menyatakan keputusan yang disimpulkan oleh pembicara berdasarkan suatu bukti atau kondisi nyata (rupanya sibuk).",
+    "title": "〜ようです (Tampaknya / Analisa Berdasarkan Bukti)",
+    "meaning": "Pola ini digunakan untuk menyampaikan suatu kesimpulan atau dugaan pembicara (Tampaknya / Sepertinya) yang didasarkan pada kondisi fisik yang sedang dilihat atau dirasakan secara langsung (bukti di tempat kejadian).",
+    "formula_template": "[Bentuk Biasa] + ようです (Sifat-な pakai な, Benda pakai の)",
+    "ui_notes": "Kata Keterangan Tambahan:\nPola ini sering digunakan bersama kata 'どうも' yang memberikan nuansa 'entah kenapa firasat saya mengatakan / tampaknya...'.",
     "examples": [
       {
-        "jp": "人が大勢集まっていますね。……事故のようですね。パトカーと救急車が来ていますよ。",
-        "id": "Orang berkumpul banyak, ya. ……Rupanya kecelakaan. Mobil patrol dan ambulan sudah datang."
+        "jp": "人が 集まって いますね。 ……事故の ようですね。パトカーと 救急車が 来て いますよ。",
+        "id": "Banyak orang berkerumun ya. ...... (Berdasarkan pengamatan saya) Tampaknya telah terjadi kecelakaan. Tuh mobil patroli dan ambulans sudah datang."
       },
       {
-        "jp": "せきも出るし、頭も痛い。どうもかぜをひいたようだ。",
-        "id": "Berbatuk dan sakit kepala juga. Rupanya masuk angin."
+        "jp": "せきも 出るし、頭も 痛い。どうも かぜを ひいた ようだ。",
+        "id": "Saya batuk-batuk, dan kepala juga sakit. Entah kenapa (dari bukti ini) tampaknya saya masuk angin."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Kesimpulan/Dugaan"
+      "Analisa Kesimpulan",
+      "Tampaknya (Youdesu)"
     ]
   },
   {
     "id": "m_bab47_3",
     "chapter": "Bab 47",
     "level": "N4",
-    "title": "声／音／におい／味が します",
-    "meaning": "Menyatakan hal yang dirasakan melalui organ panca indera seperti suara, bunyi, bau, rasa, dan lain-lain.",
-    "formula_template": "声 (Suara) / 音 (Bunyi) / におい (Bau) / 味 (Rasa) がします",
-    "variables": {},
-    "ai_instruction": "Gunakan pola '声 (Suara) / 音 (Bunyi) / におい (Bau) / 味 (Rasa) がします' untuk menyatakan: Menyatakan hal yang dirasakan melalui organ panca indera seperti suara, bunyi, bau, rasa, dan lain-lain..",
-    "ui_notes": "Menyatakan hal yang dirasakan melalui organ panca indera seperti suara, bunyi, bau, rasa, dan lain-lain.",
+    "title": "〜が します (Indera Menangkap Sesuatu)",
+    "meaning": "Pola kalimat ini digunakan untuk mengungkapkan sensasi stimulus murni (suara, bau, rasa) yang ditangkap oleh organ panca indera pembicara (telinga, hidung, lidah) secara alami dan tidak disengaja.",
+    "formula_template": "[Objek Panca Indera: 声 / 音 / におい / 味] + が します",
+    "ui_notes": "Penggunaan Kosakata:\n- 声 (Koe) = Suara dari makhluk hidup (manusia/hewan).\n- 音 (Oto) = Bunyi dari benda mati (mesin/musik).\n- におい (Nioi) = Sensasi bau/aroma di hidung.\n- 味 (Aji) = Sensasi rasa di lidah.",
     "examples": [
       {
-        "jp": "にぎやかな声がしますね。",
-        "id": "Terdengar suara yang ramai, ya."
+        "jp": "にぎやかな 声が しますね。",
+        "id": "Terdengar suara (orang-orang) yang sangat ramai ya."
       }
     ],
     "tags": [
       "N4",
-      "Frasa",
-      "Panca Indera"
+      "Panca Indera",
+      "Sensasi Suara/Bau"
     ]
   }
 ]

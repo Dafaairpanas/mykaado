@@ -4,22 +4,9 @@
     "chapter": "Bab 12",
     "level": "N3",
     "title": "〜てごらん",
-    "meaning": "digunakan dari atasan ke bawahan, orang tua ke anak, guru ke murid",
+    "meaning": "Pola ini digunakan untuk menyuruh atau menyarankan seseorang mencoba melakukan sesuatu. Artinya 'coba (lakukan)...', 'silakan coba...'. Biasanya dipakai dari atasan ke bawahan, orang tua ke anak, atau guru ke murid — jadi posisi pembicara lebih tinggi atau lebih senior. Nadanya tidak terlalu keras, lebih seperti saran atau dorongan untuk mencoba. Bentuk 〜てごらんなさい sedikit lebih tegas, seperti perintah halus.",
     "formula_template": "{A}てごらん (なさい)",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}てごらん (なさい)' untuk mengekspresikan: digunakan dari atasan ke bawahan, orang tua ke anak, guru ke murid.",
-    "ui_notes": "digunakan dari atasan ke bawahan, orang tua ke anak, guru ke murid",
+    "ui_notes": "Cara membentuk: Kata kerja bentuk て + ごらん. Contoh: 聞く (kiku) → 聞いて (kiite) → 聞いてごらん (coba tanya). やる (yaru) → やって (yatte) → やってごらん (coba lakukan). Bentuk lebih tegas: 〜てごらんなさい. Contoh: もう一度やってごらんなさい (coba lakukan sekali lagi). Pola ini tidak dipakai kepada atasan atau orang yang lebih tua, karena mengandung nuansa menyuruh dari posisi lebih tinggi. Contoh: わからなかったら、先生に聞いてごらん (kalau tidak tahu, coba tanya ke sensei).",
     "examples": [
       {
         "jp": "わからなかったら、先生に聞いてごらん。",
@@ -40,32 +27,9 @@
     "chapter": "Bab 12",
     "level": "N3",
     "title": "〜ようにいう",
-    "meaning": "bilang supaya...",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa seseorang mengatakan atau meminta agar orang lain melakukan (atau tidak melakukan) sesuatu. Artinya 'bilang supaya...', 'minta agar...'. Strukturnya: [kata kerja bentuk る/ない + よう(に)] + 言う / 頼む. Jadi pembicara menyampaikan pesan atau permintaan kepada orang lain melalui kata 言う (bilang) atau 頼む (minta). Sering dipakai dalam konteks menyampaikan instruksi, permintaan, atau pesan.",
     "formula_template": "[{A}るよう(に) / {B}ないよう(に)] [言（い）う / 頼（たの）む]",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}るよう(に) / {B}ないよう(に)] [言（い）う / 頼（たの）む]' untuk mengekspresikan: bilang supaya....",
-    "ui_notes": "bilang supaya...",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus + ように + 言う/頼む. Contoh: 来る (kuru) → 来るように言う (bilang supaya datang). (2) Kata kerja bentuk negatif + ように + 言う/頼む. Contoh: 吸う (suu) → 吸わないように言う (bilang supaya tidak merokok). Contoh pemakaian: 田中さんに、私の部屋に来るよう言ってください (tolong bilang ke Tanaka-san supaya datang ke ruangan saya). 妻に、家ではたばこを吸わないよう言われています (saya dibilang oleh istri supaya tidak merokok kalau di rumah). Bentuk pasif 言われる berarti 'dibilang/diminta'. Perbedaan dengan 〜てくれと言われる: 〜ように言う lebih netral, sedangkan 〜てくれと言われる lebih langsung mengutip permintaan.",
     "examples": [
       {
         "jp": "田中さんに、私の部屋に来るよう言ってください。",
@@ -86,32 +50,9 @@
     "chapter": "Bab 12",
     "level": "N3",
     "title": "〜てくれと言われる",
-    "meaning": "dibilang supaya...",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa pembicara menerima permintaan atau instruksi dari orang lain, dengan mengutip langsung isi permintaannya. Artinya 'dibilang supaya...', 'diminta untuk...'. Strukturnya: [kata kerja bentuk てくれ / ないでくれ] + と言われる / と頼まれる. Karena memakai kutipan langsung (〜てくれ), nuansanya lebih konkret dan langsung dibandingkan 〜ように言われる.",
     "formula_template": "[{A}てくれと / {B}ないでくれと] [言（い）われる / 頼（たの）まれる]",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}てくれと / {B}ないでくれと] [言（い）われる / 頼（たの）まれる]' untuk mengekspresikan: dibilang supaya....",
-    "ui_notes": "dibilang supaya...",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk て + くれ + と + 言われる/頼まれる. Contoh: 教える (oshieru) → 教えてくれ (oshiete kure) → 教えてくれと頼まれた (diminta untuk memberitahu). (2) Kata kerja bentuk negatif + でくれ + と + 言われる/頼まれる. Contoh: 置く (oku) → 置かないでくれ (okanaide kure) → 置かないでくれと言われた (dibilang supaya jangan letakkan). Contoh pemakaian: 友達に、田中さんの電話番号を教えてくれと頼まれた (saya diminta teman untuk memberitahu nomor telepon Tanaka-san). 大家に、玄関の前に自転車を置かないでくれと言われた (saya dibilang oleh pemilik apartemen agar tidak meletakkan sepeda di depan pintu). Perbedaan dengan 〜ように言われる: 〜てくれと言われる mengutip langsung permintaan, sedangkan 〜ように言われる menyampaikan isi permintaan secara tidak langsung.",
     "examples": [
       {
         "jp": "友達に、田中さんの電話番号を教えてくれと頼まれた。",
@@ -132,32 +73,9 @@
     "chapter": "Bab 12",
     "level": "N3",
     "title": "禁止／命令 〜と言われる",
-    "meaning": "dibilang supaya...",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa pembicara menerima perintah atau larangan langsung dari orang lain, dengan mengutip bentuk perintah/larangan itu. Artinya 'dibilang supaya...', 'diperintahkan...', 'dilarang...'. Strukturnya: [kata kerja bentuk kamus + と] untuk perintah, atau [kata kerja bentuk な] untuk larangan, lalu diikuti 言われる / 注意される / 怒られる / しかられる. Nuansanya lebih tegas karena memakai bentuk perintah/larangan langsung.",
     "formula_template": "[{A} と / {B}るな と (larangan)] [言（い）われる / 注意（ちゅうい）される / 怒（おこ）られる / しかられる]",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A} と / {B}るな と (larangan)] [言（い）われる / 注意（ちゅうい）される / 怒（おこ）られる / しかられる]' untuk mengekspresikan: dibilang supaya....",
-    "ui_notes": "dibilang supaya...",
+    "ui_notes": "Cara membentuk: (1) Perintah: kata kerja bentuk kamus + と + 言われる. Contoh: 勉強する (benkyou suru) → 勉強しろ (benkyou shiro) → 勉強しろと言われた (dibilang supaya belajar). (2) Larangan: kata kerja bentuk な + と + 言われる. Contoh: 飲む (nomu) → 飲むな (nomu na) → 飲むなと言われた (dibilang supaya jangan minum). Kata kerja pengiring: 言われる (dibilang), 注意される (diperingatkan), 怒られる (dimarahi), しかられる (ditegur/dimarahi). Contoh pemakaian: 医者に酒を飲むなと言われた (saya dibilangin dokter untuk tidak minum). 先生に、もっと勉強しろと言われた (saya dibilang sensei agar belajar lebih giat lagi). Perbedaan dengan 〜てくれと言われる: 〜と言われる (4) memakai bentuk perintah/larangan langsung (しろ, するな), sehingga nadanya lebih tegas/otoritatif.",
     "examples": [
       {
         "jp": "医者に酒を飲むなと言われた。",

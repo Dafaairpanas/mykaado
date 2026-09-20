@@ -1,158 +1,164 @@
 [
   {
-    "id": "i_bab14_1",
-    "chapter": "Bab 14",
+    "id": "irodori_a2.1_bab14_1",
+    "chapter": 14,
     "level": "A2.1",
-    "title": "V-てもいいですか？ — Boleh ...?",
-    "meaning": "Pola kalimat untuk meminta izin melakukan sesuatu kepada rekan kerja atau atasan. 'V-ても' berarti 'bahkan jika V', dan 'いいですか' berarti 'apakah boleh?'. Digunakan saat ingin meninggalkan tempat kerja atau melakukan tindakan tertentu. Artinya 'Apakah boleh [melakukan]?'",
-    "formula_template": "{A} もいいですか？",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} もいいですか？' untuk percakapan: Pola kalimat untuk meminta izin melakukan sesuatu kepada rekan kerja atau atasan. 'V-ても' berarti 'bahkan jika . Pastikan 'A' mewakili Kata Kerja Bentuk te.",
-    "ui_notes": "Cara merespon: Menerima: はい、いいですよ (Ya, boleh) / どうぞ (Silakan). Menolak: すみません、ちょっと… (Maaf, agak...) / それはちょっと… (Itu agak...). Untuk izin yang lebih formal, gunakan 'V-てもよろしいですか？' (lebih sopan).",
+    "title": "N で、～ / [ナA]-で、～ / [イA]-くて、～ / V-て、～ 〈Penyebab / Alasan / 原因・理由〉",
+    "meaning": "Karena [N / Kata Sifat / V], (maka) ...",
+    "formula_template": "Bentuk-te",
+    "ui_notes": "Pola penyambung menggunakan Bentuk-te ini ternyata tidak hanya berfungsi untuk menyambung kalimat saja, tetapi juga bisa berfungsi sebagai **penyebab atau alasan** dari bagian kalimat selanjutnya. Pola ini juga sering dipakai saat meminta maaf beserta alasannya.\n\n### 🔧 Cara Membentuk:\n* **Kata Benda**: Tambahkan **で** (Contoh: 事故で = Karena kecelakaan)\n* **Kata Sifat-ナ**: Tambahkan **で** (Contoh: 仕事が大変で = Karena pekerjaannya parah/sulit)\n* **Kata Sifat-イ**: Ubah 'i' jadi **くて** (Contoh: 体の具合が悪くて = Karena kondisi badan buruk)\n* **Kata Kerja**: Ubah menjadi **Bentuk-te** (Contoh: 休んで = Karena libur/absen, atau 混んでいて = Karena sedang macet)",
     "examples": [
       {
-        "jp": "トイレに行って来てもいいですか？",
-        "id": "Apakah boleh pergi ke toilet (dan kembali)?"
+        "japanese": "道が混んでいて、ぜんぜん動きません。",
+        "indonesian": "Lalu lintasnya padat (karena macet) dan sama sekali tidak bergerak.",
+        "romaji": "Michi ga konde ite, zenzen ugokimasen."
       },
       {
-        "jp": "窓を開けてもいいですか？",
-        "id": "Apakah boleh membuka jendela?"
+        "japanese": "昨日は、休んですみませんでした。",
+        "indonesian": "Saya mohon maaf karena kemarin mengambil cuti (absen).",
+        "romaji": "Kinou wa, yasunde sumimasen deshita."
+      },
+      {
+        "japanese": "事故で、電車が遅れています。",
+        "indonesian": "Keretanya terlambat karena ada kecelakaan.",
+        "romaji": "Jiko de, densha ga okurete imasu."
+      },
+      {
+        "japanese": "道が複雑で、よくわかりません。",
+        "indonesian": "Saya tersasar karena jalannya ruwet.",
+        "romaji": "Michi ga fukuzatsu de, yoku wakarimasen."
+      },
+      {
+        "japanese": "熱があって、会社を休みました。",
+        "indonesian": "Saya tidak masuk kantor karena demam.",
+        "romaji": "Netsu ga atte, kaisha o yasumimashita."
       }
     ],
-    "tags": [
-      "A2",
-      "Izin",
-      "Tempat Kerja",
-      "Sopan"
-    ]
+    "tags": ["irodori", "A2.1", "bab 14", "alasan", "te-form", "karena"]
   },
   {
-    "id": "i_bab14_2",
-    "chapter": "Bab 14",
+    "id": "irodori_a2.1_bab14_2",
+    "chapter": 14,
     "level": "A2.1",
-    "title": "V-てもいいでしょうか？ — Apakah Boleh ...?",
-    "meaning": "Pola yang lebih sopan untuk meminta izin, terutama kepada atasan atau orang yang lebih tua. 'でしょうか' adalah bentuk lebih sopan dan hati-hati dari 'ですか'. Memberikan nuansa keraguan dan rasa hormat yang lebih tinggi. Sangat cocok untuk situasi formal di tempat kerja. Artinya 'Apakah boleh [melakukan]?' (sangat sopan).",
-    "formula_template": "{A} もいいでしょうか？",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} もいいでしょうか？' untuk percakapan: Pola yang lebih sopan untuk meminta izin, terutama kepada atasan atau orang yang lebih tua. 'でしょうか' adalah ben. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
-    "ui_notes": "Tingkat kesopanan: V-てもいいですか？ (standar) < V-てもいいでしょうか？ (sangat sopan) < V-てもよろしいでしょうか？ (paling sopan). Gunakan 'でしょうか' saat meminta izin kepada atasan langsung atau dalam situasi formal. Jawaban yang diharapkan: はい、結構ですよ (Ya, tidak apa-apa) / はい、大丈夫です (Ya, boleh).",
+    "title": "S1。それで、S2",
+    "meaning": "[S1]. Karena itu, [S2]",
+    "formula_template": "Kalimat 1. それで, Kalimat 2",
+    "ui_notes": "Kata sambung **それで** digunakan untuk menghubungkan dua kalimat, di mana **Kalimat 1** merupakan sebab atau alasan dari **Kalimat 2**.\n\n* Artinya sangat mirip dengan \"Oleh karena itu\" atau \"Maka dari itu\".",
     "examples": [
       {
-        "jp": "明日の午後、早退してもいいでしょうか？",
-        "id": "Apakah boleh pulang lebih awal besok siang?"
+        "japanese": "これから病院に行きます。それで、少し遅刻します。",
+        "indonesian": "Saya akan ke rumah sakit sekarang. Karena itu, saya akan sedikit terlambat.",
+        "romaji": "Kore kara byouin ni ikimasu. Sore de, sukoshi chikoku shimasu."
       },
       {
-        "jp": "来週、休みを取ってもいいでしょうか？",
-        "id": "Apakah boleh mengambil cuti minggu depan?"
+        "japanese": "家に財布を忘れました。これから取りに帰ります。それで、少し遅れます。",
+        "indonesian": "Dompet saya tertinggal di rumah. Sekarang saya akan kembali ke rumah untuk mengambilnya. Karena itu, saya datang agak terlambat.",
+        "romaji": "Ie ni saifu o wasuremashita. Kore kara tori ni kaerimasu. Sore de, sukoshi okuremasu."
+      },
+      {
+        "japanese": "Ａ： すみません。昨日から熱があります。それで、今日は1日休みたいんですが…。\nＢ： わかりました。お大事に。",
+        "indonesian": "A: Maaf, saya demam sejak kemarin. Karena itu, saya izin tidak masuk hari ini...\nB: Baik, saya mengerti. Semoga lekas sembuh.",
+        "romaji": "A: Sumimasen. Kinou kara netsu ga arimasu. Sore de, kyou wa ichinichi yasumitain desu ga...\nB: Wakarimashita. Odaiji ni."
       }
     ],
-    "tags": [
-      "A2",
-      "Izin",
-      "Tempat Kerja",
-      "Sangat Sopan"
-    ]
+    "tags": ["irodori", "A2.1", "bab 14", "sorede", "karena itu", "alasan"]
   },
   {
-    "id": "i_bab14_3",
-    "chapter": "Bab 14",
+    "id": "irodori_a2.1_bab14_3",
+    "chapter": 14,
     "level": "A2.1",
-    "title": "V-なければなりません — Harus ...",
-    "meaning": "Pola kalimat untuk menyatakan kewajiban atau keharusan melakukan sesuatu. 'V-なければ' berarti 'jika tidak V', dan 'なりません' berarti 'tidak menjadi' → 'tidak boleh tidak V' = 'harus V'. Digunakan untuk menjelaskan alasan ketidakhadiran atau kewajiban. Artinya 'Harus [melakukan V]'.",
-    "formula_template": "{A} なければなりません",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} なければなりません' untuk percakapan: Pola kalimat untuk menyatakan kewajiban atau keharusan melakukan sesuatu. 'V-なければ' berarti 'jika tidak V', dan. Pastikan 'A' mewakili Kata Kerja Bentuk Negatif tanpa nai.",
-    "ui_notes": "Bentuk kasual: V-なきゃ (ikanakya - harus pergi) atau V-なくちゃ (ikanakucha). Bentuk sopan: V-なければなりません. Dalam percakapan sehari-hari, 'なければなりません' sering disingkat menjadi 'なきゃ' atau 'なくちゃ'. Contoh: 行かなきゃ (Harus pergi - kasual).",
+    "title": "V-てもいいですか？",
+    "meaning": "Bolehkah saya [V]?",
+    "formula_template": "V-て (Bentuk-te) + もいいですか？",
+    "ui_notes": "Ungkapan yang digunakan untuk **meminta izin** melakukan sesuatu kepada lawan bicara.\n\n* Saat memberikan izin, lawan bicara bisa merespons dengan: **どうぞ** (Silakan), **わかりました** (Baik, saya mengerti), atau **いいですよ** (Tentu saja boleh).",
     "examples": [
       {
-        "jp": "ちょっと、役所に行かなければならないんです。",
-        "id": "Saya harus pergi ke kantor pemerintah sebentar."
+        "japanese": "トイレに行って来てもいいですか？",
+        "indonesian": "Bolehkah saya permisi ke toilet?",
+        "romaji": "Toire ni itte kite mo ii desu ka?"
       },
       {
-        "jp": "毎日、日本語を勉強しなければなりません。",
-        "id": "Saya harus belajar bahasa Jepang setiap hari."
+        "japanese": "Ａ： あのう、ちょっと休憩してもいいですか？\nＢ： どうぞ。",
+        "indonesian": "A: Maaf, bolehkah saya beristirahat sebentar?\nB: Silakan.",
+        "romaji": "A: Anou, chotto kyuukei shite mo ii desu ka?\nB: Douzo."
+      },
+      {
+        "japanese": "Ａ： ちょっと、質問してもいいですか？\nＢ： すみませんが、あとにしてもらえませんか？",
+        "indonesian": "A: Maaf, bolehkah saya bertanya?\nB: Maaf, bisakah nanti saja (bertanyanya)?",
+        "romaji": "A: Chotto, shitsumon shite mo ii desu ka?\nB: Sumimasen ga, ato ni shite moraemasen ka?"
       }
     ],
-    "tags": [
-      "A2",
-      "Kewajiban",
-      "Keharusan",
-      "Alasan"
-    ]
+    "tags": ["irodori", "A2.1", "bab 14", "izin", "temoiidesuka"]
   },
   {
-    "id": "i_bab14_4",
-    "chapter": "Bab 14",
+    "id": "irodori_a2.1_bab14_4",
+    "chapter": 14,
     "level": "A2.1",
-    "title": "〜んです ① — Penjelasan / Alasan",
-    "meaning": "Pola kalimat untuk memberikan penjelasan, alasan, atau informasi tambahan yang mendasari suatu situasi. 'ん' adalah bentuk kasual dari 'の' yang berfungsi sebagai nominalisasi, dan 'です' membuatnya sopan. Digunakan untuk menjelaskan mengapa seseorang melakukan sesuatu atau mengapa situasi terjadi. Artinya '(Faktanya) [penjelasan]'.",
-    "formula_template": "{A} んです",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} んです' untuk percakapan: Pola kalimat untuk memberikan penjelasan, alasan, atau informasi tambahan yang mendasari suatu situasi. 'ん' ad. Pastikan 'A' mewakili Kalimat Penjelasan.",
-    "ui_notes": "Bentuk '〜んです' sering digunakan untuk memberikan konteks atau alasan. Dalam bentuk pertanyaan: どうして遅れたんですか？ (Mengapa terlambat? - meminta penjelasan). Jawaban: 電車が遅れたんです (Kereta terlambat - penjelasan). Juga digunakan untuk menekankan informasi baru.",
+    "title": "V-てもいいでしょうか？",
+    "meaning": "Apakah saya boleh [V]?",
+    "formula_template": "V-て (Bentuk-te) + もいいでしょうか？",
+    "ui_notes": "Versi yang **lebih sopan** dari pola **～てもいいですか？**. Sangat cocok digunakan untuk meminta izin kepada atasan atau orang yang dihormati di tempat kerja.",
     "examples": [
       {
-        "jp": "東京から、国の友だちが来るんです。",
-        "id": "(Faktanya) teman dari negara saya datang dari Tokyo."
+        "japanese": "明日の午後、早退してもいいでしょうか？",
+        "indonesian": "Apakah besok siang saya boleh izin pulang lebih awal?",
+        "romaji": "Ashita no gogo, soutai shite mo ii deshou ka?"
       },
       {
-        "jp": "明日、病院に行くんです。",
-        "id": "(Faktanya) saya pergi ke rumah sakit besok."
+        "japanese": "Ａ： すみません。ちょっと質問してもいいでしょうか？\nＢ： はい、何ですか？",
+        "indonesian": "A: Maaf, apakah saya boleh bertanya?\nB: Ya, ada apa?",
+        "romaji": "A: Sumimasen. Chotto shitsumon shite mo ii deshou ka?\nB: Hai, nan desu ka?"
       }
     ],
-    "tags": [
-      "A2",
-      "Penjelasan",
-      "Alasan",
-      "Konteks"
-    ]
+    "tags": ["irodori", "A2.1", "bab 14", "izin sopan", "deshouka"]
+  },
+  {
+    "id": "irodori_a2.1_bab14_5",
+    "chapter": 14,
+    "level": "A2.1",
+    "title": "V-なければなりません",
+    "meaning": "Harus [V]",
+    "formula_template": "V-ない (Bentuk-nai Coret 'nai') + なければなりません",
+    "ui_notes": "Ungkapan ini menunjukkan **kewajiban** atau sesuatu yang *mau tidak mau harus dilakukan*, terlepas dari keinginan diri sendiri.\n\n* **Cara membuat**: Ubah kata kerja ke *Bentuk-nai*, coret **ない**-nya, lalu tambahkan **なければなりません**.\n  * (Contoh: 行く → 行か(ない) + なければなりません = 行かなければなりません)\n* Jika berbicara dengan bentuk biasa (casual), gunakan **～なければならない**.\n* Ketika menyatakan alasan (misal ingin pulang cepat *karena* harus V), orang Jepang sering menambahkan **んです** sehingga bentuknya menjadi **～なければならないんです**.",
+    "examples": [
+      {
+        "japanese": "ちょっと、役所に行かなければならないんです。",
+        "indonesian": "Saya harus pergi ke Balai Kota.",
+        "romaji": "Chotto, yakusho ni ikanakereba naranain desu."
+      },
+      {
+        "japanese": "Ａ： すみません。明日の午後、早退してもいいでしょうか？ 病院に行かなければならないんです。\nＢ： わかりました。",
+        "indonesian": "A: Maaf, bolehkah besok siang saya izin pulang lebih awal? Karena saya harus ke rumah sakit.\nB: Baik, saya mengerti.",
+        "romaji": "A: Sumimasen. Ashita no gogo, soutai shite mo ii deshou ka? Byouin ni ikanakereba naranain desu.\nB: Wakarimashita."
+      },
+      {
+        "japanese": "今日はガスの点検があって、午前中は家にいなければなりません。",
+        "indonesian": "Pagi ini saya harus berada di rumah, karena hari ini akan ada pemeriksaan layanan gas.",
+        "romaji": "Kyou wa gasu no tenken ga atte, gozenchuu wa ie ni inakereba narimasen."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 14", "kewajiban", "harus", "nakerebanarimasen"]
+  },
+  {
+    "id": "irodori_a2.1_bab14_6",
+    "chapter": 14,
+    "level": "A2.1",
+    "title": "～んです ①",
+    "meaning": "(Faktanya / Karena) ...",
+    "formula_template": "Bentuk Biasa + んです",
+    "ui_notes": "Akhiran **～んです** (tanpa が) digunakan secara lugas untuk **memberikan penjelasan** atau **menyatakan alasan kuat** kepada lawan bicara (seperti alasan untuk meminta izin cuti).\n\n* Di bab ini, polanya akan banyak digabung dengan *Bentuk Kamus* atau *Bentuk Keharusan (～なければならないんです)*.",
+    "examples": [
+      {
+        "japanese": "東京から、国の友だちが来るんです。",
+        "indonesian": "Teman (senegara) saya akan datang ke sini dari Tokyo.",
+        "romaji": "Toukyou kara, kuni no tomodachi ga kurun desu."
+      },
+      {
+        "japanese": "Ａ： すみません。来週の月曜日、お休みを取ってもいいでしょうか？ 市役所に行かなければならないんです。\nＢ： わかりました。",
+        "indonesian": "A: Maaf, apakah hari Senin depan saya boleh mengambil cuti? Karena saya harus ke Balai Kota.\nB: Baik, saya mengerti.",
+        "romaji": "A: Sumimasen. Raishuu no getsuyoubi, oyasumi o totte mo ii deshou ka? Shiyakusho ni ikanakereba naranain desu.\nB: Wakarimashita."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 14", "ndes", "penjelasan", "alasan"]
   }
 ]

@@ -6,26 +6,6 @@
     "title": "今日はいい天気ですね",
     "meaning": "Pola kalimat untuk menyatakan cuaca yang sedang berlangsung. '今日は' berarti 'hari ini', 'いい天気' berarti 'cuaca bagus', dan 'ですね' di akhir berarti 'ya' (mencari persetujuan). Sangat umum digunakan sebagai sapaan atau pembuka percakapan tentang cuaca. Artinya 'Cuaca hari ini bagus ya.'",
     "formula_template": "{A} は {B} ですね",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "time"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は {B} ですね' untuk percakapan: Pola kalimat untuk menyatakan cuaca yang sedang berlangsung. '今日は' berarti 'hari ini', 'いい天気' berarti 'cuaca b. Pastikan 'A' mewakili Hari, 'B' mewakili Cuaca.",
     "ui_notes": "Membicarakan cuaca adalah cara yang umum untuk memulai percakapan di Jepang. 'ですね' di akhir menunjukkan bahwa Anda mencari persetujuan dari lawan bicara. Kata sifat untuk cuaca: いい (bagus), 悪い (buruk), 暑い (panas), 寒い (dingin), 暖かい (hangat), 涼しい (sejuk).",
     "examples": [
       {
@@ -51,19 +31,6 @@
     "title": "V-ています ③ — Keadaan Berlangsung",
     "meaning": "Pola kalimat untuk menyatakan bahwa suatu keadaan atau fenomena sedang berlangsung (termasuk cuaca). Fungsi ketiga dari 'V-ています' untuk menyatakan perubahan yang sedang terjadi atau keadaan yang terus berlanjut. Digunakan untuk cuaca dan fenomena alam. Artinya 'Sedang [keadaan]' atau 'Terus [keadaan]'.",
     "formula_template": "{A} います",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} います' untuk percakapan: Pola kalimat untuk menyatakan bahwa suatu keadaan atau fenomena sedang berlangsung (termasuk cuaca). Fungsi ke. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
     "ui_notes": "Untuk cuaca, 'V-ています' digunakan untuk menyatakan keadaan yang sedang berlangsung. Contoh: 雨が降っています (Sedang hujan), 風が吹いています (Angin sedang bertiup), 雪が降っています (Sedang turun salju). Berbeda dengan 'V-ます' yang menyatakan kebiasaan atau fakta umum.",
     "examples": [
       {
@@ -89,19 +56,6 @@
     "title": "N／ナA-／イA-い／ V-る でしょう — Mungkin",
     "meaning": "Pola kalimat untuk menyatakan prediksi, perkiraan, atau kemungkinan tentang sesuatu di masa depan. 'でしょう' berarti 'mungkin' atau 'akan'. Dapat digunakan dengan kata benda (N), kata sifat-na (ナA), kata sifat-i (イA), atau kata kerja (V). Sangat berguna saat berbicara tentang prakiraan cuaca atau prediksi. Artinya 'Mungkin [N/sifat/aktivitas]'.",
     "formula_template": "{A} でしょう",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} でしょう' untuk percakapan: Pola kalimat untuk menyatakan prediksi, perkiraan, atau kemungkinan tentang sesuatu di masa depan. 'でしょう' bera. Pastikan 'A' mewakili N / ナA / イA-i / V-ru.",
     "ui_notes": "'でしょう' adalah bentuk yang lebih sopan dari 'だろう' (kasual). Untuk prediksi cuaca: 晴れるでしょう (akan cerah), 雨が降るでしょう (akan hujan), 曇るでしょう (akan mendung). Untuk menyatakan prediksi dengan lebih pasti, gunakan 'でしょう' tanpa ragu.",
     "examples": [
       {

@@ -3,283 +3,172 @@
     "id": "m_bab11_1",
     "chapter": "Bab 11",
     "level": "N5",
-    "title": "Cara menghitung kuantitas (Benda)",
-    "meaning": "Menggunakan kata bantu bilangan untuk menghitung benda secara umum dari 1 sampai 10 (ひとつ, ふたつ, ... とお). Untuk 11 ke atas digunakan angka biasa.",
-    "formula_template": "{A} Partikel Kuantitas {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} Partikel Kuantitas {B}' untuk menyatakan: Menggunakan kata bantu bilangan untuk menghitung benda secara umum dari 1 sampai 10 (ひとつ, ふたつ, ... とお). Untuk . Pastikan 'A' mewakili Kata Benda, 'B' mewakili Kata Kerja.",
-    "ui_notes": "Kata keterangan bilangan pada dasarnya diletakkan langsung di belakang Kata Benda + partikel. Untuk menanyakan kuantitas benda dengan cara menghitung ini, digunakan 'いくつ'.",
+    "title": "Cara Menghitung Kuantitas (Angka Asli Jepang)",
+    "meaning": "Untuk menghitung jumlah barang secara umum dari angka 1 sampai 10, bahasa Jepang memiliki sistem hitung asli kunyomi: ひとつ (1), ふたつ (2), みっつ (3), よっつ (4), いつつ (5), むっつ (6), ななつ (7), やっつ (8), ここのつ (9), とお (10).",
+    "formula_template": "[Benda] を [Hitungan Kuantitas] [Kata Kerja]",
+    "ui_notes": "Untuk jumlah 11 ke atas, sistem ini tidak dipakai lagi; Anda cukup menggunakan angka bilangan biasa (11, 12, dst). Untuk menanyakan 'berapa buah', gunakan kata tanya 'いくつ' (Ikutsu).",
     "examples": [
       {
         "jp": "りんごを 4つ 買いました。",
-        "id": "Membeli empat buah apel."
+        "id": "Membeli empat buah apel. (Yottsu)"
       },
       {
-        "jp": "みかんを いくつ 買いましたか。……8つ 買いました。",
-        "id": "Membeli berapa buah jeruk? ……Membeli delapan buah."
+        "jp": "みかんを いくつ 買いましたか。",
+        "id": "Membeli berapa buah jeruk?"
+      },
+      {
+        "jp": "……8つ 買いました。",
+        "id": "……Membeli delapan buah. (Yattsu)"
       }
     ],
     "tags": [
       "N5",
-      "Kata Bantu Bilangan",
-      "Kuantitas Benda Umum"
+      "Kuantitas",
+      "Angka"
     ]
   },
   {
     "id": "m_bab11_2",
     "chapter": "Bab 11",
     "level": "N5",
-    "title": "Berbagai Kata Bantu Bilangan (～人, ～台, ～枚, dll)",
-    "meaning": "Waktu menghitung orang atau benda, digunakan Kata Bantu Bilangan yang berbeda-beda sesuai dengan apa yang dihitung, dibubuhkan di belakang angka.",
-    "formula_template": "{A} Partikel [Angka Kata Bantu Bilangan] {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} Partikel [Angka Kata Bantu Bilangan] {B}' untuk menyatakan: Waktu menghitung orang atau benda, digunakan Kata Bantu Bilangan yang berbeda-beda sesuai dengan apa yang dihi. Pastikan 'A' mewakili Kata Benda, 'B' mewakili Kata Kerja.",
-    "ui_notes": "Pengecualian: 1 orang = ひとり, 2 orang = ふたり, 4 orang = よにん. Untuk menanyakan kuantitas jenis ini, gunakan 'なん + Kata Bantu Bilangan' (contoh: 何人, 何枚, 何台).",
+    "title": "Berbagai Kata Bantu Bilangan (Satuan)",
+    "meaning": "Selain hitungan umum (ひとつ), bahasa Jepang memiliki banyak satuan ukur atau Kata Bantu Bilangan yang wajib disesuaikan dengan jenis fisik bendanya.",
+    "formula_template": "[Angka] + [Kata Bantu Bilangan]",
+    "ui_notes": "Hafalkan penggolong utama ini:\n- 〜人 (nin): Menghitung jumlah manusia. Pengecualian wajib: 1 orang (ひとり), 2 orang (ふたり), 4 orang (よにん).\n- 〜台 (dai): Mesin, kendaraan bermotor, perangkat elektronik.\n- 〜枚 (mai): Benda yang tipis dan pipih (kertas, kemeja, piring, tiket).\n- 〜回 (kai): Frekuensi/kali kejadian.\n- Durasi waktu: 〜分 (menit), 〜時間 (jam), 〜日 (hari - *Pengecualian: 1 hari=いちにち*), 〜週間 (minggu), 〜か月 (bulan), 〜年 (tahun).",
     "examples": [
       {
         "jp": "外国人の 学生が 2人 います。",
-        "id": "Ada dua orang mahasiswa asing."
+        "id": "Ada dua orang (Futari) mahasiswa asing."
       },
       {
-        "jp": "この 会社に 外国人が 何人 いますか。……5人 います。",
-        "id": "Di perusahaan ini ada berapa orang asing? ……Ada lima orang."
+        "jp": "国で 2か月 日本語を 勉強しました。",
+        "id": "Belajar bahasa Jepang di negara asal selama dua bulan."
       }
     ],
     "tags": [
       "N5",
       "Kata Bantu Bilangan",
-      "Kuantitas Spesifik"
+      "Satuan"
     ]
   },
   {
     "id": "m_bab11_3",
     "chapter": "Bab 11",
     "level": "N5",
-    "title": "Kata Keterangan Bilangan (Lama A)",
-    "meaning": "Menunjukkan jangka atau lama waktu suatu kegiatan berlangsung (seperti jam, hari, minggu, bulan, tahun). Posisinya dalam kalimat lebih fleksibel dibanding kuantitas benda.",
-    "formula_template": "[Angka Satuan {A}] {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "time"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[Angka Satuan {A}] {B}' untuk menyatakan: Menunjukkan jangka atau lama waktu suatu kegiatan berlangsung (seperti jam, hari, minggu, bulan, tahun). Posis. Pastikan 'A' mewakili Waktu, 'B' mewakili Kata Kerja.",
-    "ui_notes": "Untuk 1 hari (lama waktu) dibaca いちにち, bukan ついたち (tanggal 1).",
+    "title": "Posisi Gramatikal Keterangan Bilangan",
+    "meaning": "Dalam struktur kalimat bahasa Jepang, kuantitas/jumlah tidak diletakkan di depan benda seperti di bahasa Indonesia (contoh: Tiga apel). Sebaliknya, jumlah diletakkan PERSIS SETELAH PARTIKEL di belakang kata benda.",
+    "formula_template": "[Kata Benda] + [Partikel] + [Kuantitas] + [Kata Kerja]",
+    "ui_notes": "SANGAT PENTING: Susunan yang benar adalah 'Benda -> Partikel -> Angka'. (Contoh salah: 4つりんごを 買いました). \nPengecualian: Khusus untuk Keterangan Bilangan yang menunjukkan 'durasi waktu' (lamanya hari/bulan), posisinya bebas dari aturan ini.",
     "examples": [
       {
-        "jp": "国で 2か月 日本語を 勉強 しました。",
-        "id": "Belajar bahasa Jepang di negara saya selama dua bulan."
+        "jp": "切手を 5枚 買いました。",
+        "id": "Membeli lima lembar prangko."
       },
       {
-        "jp": "毎晩 何時間 日本語を 勉強 しますか。……2時間 勉強 します。",
-        "id": "Setiap malam berapa jam belajar bahasa Jepang? ……Belajar dua jam."
+        "jp": "外国人が 5人 います。",
+        "id": "Ada lima orang asing."
       }
     ],
     "tags": [
       "N5",
-      "Kata Keterangan",
-      "Lama Waktu"
+      "Tata Bahasa",
+      "Posisi Kata"
     ]
   },
   {
     "id": "m_bab11_4",
     "chapter": "Bab 11",
     "level": "N5",
-    "title": "どのくらい",
-    "meaning": "Kata tanya yang digunakan untuk menanyakan lama waktu atau memakan waktu berapa lama.",
-    "formula_template": "どのくらい {A}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'どのくらい {A}' untuk menyatakan: Kata tanya yang digunakan untuk menanyakan lama waktu atau memakan waktu berapa lama.. Pastikan 'A' mewakili Kata Kerja (V/かかります).",
-    "ui_notes": "Kata tanya yang digunakan untuk menanyakan lama waktu atau memakan waktu berapa lama.",
+    "title": "Bertanya Kuantitas & Durasi (なん / どのくらい)",
+    "meaning": "Untuk menanyakan angka dengan satuan spesifik, gunakan 'なん' + Kata Bantu Bilangan (contoh: 何枚, 何人). Khusus untuk menanyakan seberapa lama (durasi jangka panjang), gunakan 'どのくらい' (Dono kurai).",
+    "formula_template": "なん [Satuan] / どのくらい",
+    "ui_notes": "'どのくらい' secara harfiah berarti 'Sebesar apa/Seberapa kira-kira', sangat ideal ditanyakan untuk ongkos waktu maupun jarak.",
     "examples": [
       {
-        "jp": "どのくらい 日本語を 勉強 しましたか。……3年 勉強 しました。",
-        "id": "Berapa lama belajar bahasa Jepang? ……Belajar selama tiga tahun."
+        "jp": "毎晩 何時間 日本語を 勉強しますか。",
+        "id": "Setiap malam belajar bahasa Jepang BERAPA JAM?"
       },
       {
-        "jp": "大阪から 東京まで どのくらい かかりますか。……新幹線で 2時間半 かかります。",
-        "id": "Memerlukan waktu berapa lama dari Osaka sampai dengan Tokyo? ……Memerlukan waktu dua setengah jam dengan Shinkansen."
+        "jp": "どのくらい 日本語を 勉強しましたか。",
+        "id": "BERAPA LAMA belajar bahasa Jepang?"
+      },
+      {
+        "jp": "大阪から 東京まで どのくらい かかりますか。",
+        "id": "Dari Osaka sampai Tokyo memerlukan waktu BERAPA LAMA?"
       }
     ],
     "tags": [
       "N5",
       "Kata Tanya",
-      "Menanyakan Lama Waktu"
+      "Durasi"
     ]
   },
   {
     "id": "m_bab11_5",
     "chapter": "Bab 11",
     "level": "N5",
-    "title": "〜ぐらい",
-    "meaning": "Mengikuti Kata Keterangan Bilangan dan menunjukkan perkiraan jumlah (kira-kira).",
-    "formula_template": "Kuantitas / Lama {A} ぐらい",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "time"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'Kuantitas / Lama {A} ぐらい' untuk menyatakan: Mengikuti Kata Keterangan Bilangan dan menunjukkan perkiraan jumlah (kira-kira).. Pastikan 'A' mewakili Waktu.",
-    "ui_notes": "Mengikuti Kata Keterangan Bilangan dan menunjukkan perkiraan jumlah (kira-kira).",
+    "title": "〜ぐらい (Kira-kira / Estimasi)",
+    "meaning": "Jika ditempelkan persis di belakang sebuah Kata Keterangan Bilangan (angka/durasi), partikel 'ぐらい' (gurai) memberikan nuansa perkiraan atau estimasi (Kira-kira / Kurang lebih).",
+    "formula_template": "[Angka/Durasi] + ぐらい",
+    "ui_notes": "Anda bisa menggunakan ini untuk menjawab pertanyaan 'どのくらい' dengan santai saat tidak tahu angka pastinya.",
     "examples": [
       {
         "jp": "学校に 先生が 30人ぐらい います。",
-        "id": "Di sekolah ada kira-kira tiga puluh orang guru."
+        "id": "Di sekolah ada KIRA-KIRA 30 orang guru."
       },
       {
         "jp": "15分ぐらい かかります。",
-        "id": "Memerlukan waktu kira-kira lima belas menit."
+        "id": "Memerlukan waktu KIRA-KIRA 15 menit."
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Perkiraan"
+      "Estimasi"
     ]
   },
   {
     "id": "m_bab11_6",
     "chapter": "Bab 11",
     "level": "N5",
-    "title": "Kata Keterangan Bilangan (jangka A) に 〜回 B",
-    "meaning": "Ekspresi ini digunakan untuk menunjukkan frekuensi terjadinya suatu aksi dalam rentang waktu tertentu.",
-    "formula_template": "Jangka {A} に Kuantitas 回 {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "time"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'Jangka {A} に Kuantitas 回 {B}' untuk menyatakan: Ekspresi ini digunakan untuk menunjukkan frekuensi terjadinya suatu aksi dalam rentang waktu tertentu.. Pastikan 'A' mewakili Waktu, 'B' mewakili Kata Kerja.",
-    "ui_notes": "Ekspresi ini digunakan untuk menunjukkan frekuensi terjadinya suatu aksi dalam rentang waktu tertentu.",
+    "title": "A に B回 〜します (Frekuensi)",
+    "meaning": "Pola ini digunakan untuk menyatakan frekuensi atau seberapa rutin sebuah aktivitas dilakukan dalam satu periode/jangka waktu tertentu. Partikel 'に' berfungsi membingkai interval waktu tersebut.",
+    "formula_template": "[Jangka Waktu] に [Angka] 回 [Kata Kerja]",
+    "ui_notes": "Bisa diartikan sebagai 'Setiap [waktu] melakukan X sebanyak [Y kali]'.",
     "examples": [
       {
         "jp": "1か月に 2回 映画を 見ます。",
-        "id": "Sebulan dua kali menonton film."
+        "id": "Sebulan dua kali menonton film. (Dalam 1 bulan, 2 kali)"
       }
     ],
     "tags": [
       "N5",
       "Frekuensi",
-      "Keterangan Waktu"
+      "Waktu"
     ]
   },
   {
     "id": "m_bab11_7",
     "chapter": "Bab 11",
     "level": "N5",
-    "title": "Kata Keterangan Bilangan だけ ／ Aだけ",
-    "meaning": "dake diletakkan di belakang Kata Keterangan Bilangan atau Kata Benda, yang mempunyai arti tidak ada yang lebih dari itu atau tidak ada selain itu (Hanya / saja).",
-    "formula_template": "{A}/ Kuantitas だけ",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}/ Kuantitas だけ' untuk menyatakan: dake diletakkan di belakang Kata Keterangan Bilangan atau Kata Benda, yang mempunyai arti tidak ada yang lebih. Pastikan 'A' mewakili Kata Benda.",
-    "ui_notes": "dake diletakkan di belakang Kata Keterangan Bilangan atau Kata Benda, yang mempunyai arti tidak ada yang lebih dari itu atau tidak ada selain itu (Hanya / saja).",
+    "title": "〜だけ (Hanya / Saja)",
+    "meaning": "Diletakkan di belakang kata benda atau keterangan bilangan untuk menyatakan batasan final. Artinya 'Hanya (itu) saja' atau 'Tidak ada yang lain selain itu'.",
+    "formula_template": "[Benda / Kuantitas] だけ",
+    "ui_notes": "Berbeda dengan 'ぐらい' yang samar, 'だけ' menekankan kepastian limit/batasan kuantitas (cuma segitu, mentok).",
     "examples": [
       {
-        "jp": "パワー電気に 外国人の 社員が 1人だけ います。",
-        "id": "Di Power Elektronik hanya ada seorang pegawai orang asing."
+        "jp": "外国人の 社員が 1人だけ います。",
+        "id": "HANYA ada satu orang pegawai asing."
       },
       {
-        "jp": "休みは 日曜日だけです。",
-        "id": "Hari libur hanya hari Minggu saja."
+        "jp": "休みは 日曜日だけ です。",
+        "id": "Hari libur HANYA hari Minggu saja."
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Pembatasan"
+      "Batasan"
     ]
   }
 ]

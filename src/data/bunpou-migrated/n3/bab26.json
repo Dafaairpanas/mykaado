@@ -4,22 +4,9 @@
     "chapter": "Bab 26",
     "level": "N3",
     "title": "〜上（あ）げる",
-    "meaning": "Menyatakan hal yang dilakukan telah selesai.",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa suatu tindakan telah selesai sepenuhnya, biasanya dengan usaha atau proses yang cukup panjang. Artinya 'menyelesaikan...', 'selesai...', 'berhasil... sampai tuntas'. Nuansanya positif, menunjukkan pencapaian. Bentuk 〜上がる dipakai untuk kata kerja intransitif (sesuatu selesai dengan sendirinya), sedangkan 〜上げる dipakai untuk kata kerja transitif (seseorang menyelesaikan sesuatu).",
     "formula_template": "{A}ます (ます dicoret) 上（あ）がる / 上（あ）げる (例: 作り上げる／調べ上げる／育て上げる).",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}ます (ます dicoret) 上（あ）がる / 上（あ）げる (例: 作り上げる／調べ上げる／育て上げる).' untuk mengekspresikan: Menyatakan hal yang dilakukan telah selesai..",
-    "ui_notes": "Menyatakan hal yang dilakukan telah selesai.",
+    "ui_notes": "Cara membentuk: Kata kerja bentuk ます, coret ます, + 上げる / 上がる. Contoh: 書く (kaku) → 書きます (kakimasu) → 書き上げる (menyelesaikan menulis). 焼く (yaku) → 焼きます (yakimasu) → 焼き上がる (selesai dipanggang). 育てる (sodateru) → 育てます (sodatemasu) → 育て上げる (berhasil membesarkan). Contoh pemakaian: やっとレポートを書き上げた (akhirnya saya selesai menulis laporan). ケーキが焼き上がりましたよ (kuenya sudah selesai dipanggang lho). Perbedaan 上げる dan 上がる: 上げる = transitif (seseorang menyelesaikan), 上がる = intransitif (sesuatu selesai sendiri). Contoh lain: 作り上げる (menyelesaikan membuat), 調べ上げる (menyelidiki sampai tuntas), 育て上げる (berhasil membesarkan).",
     "examples": [
       {
         "jp": "やっとレポートを書き上げた。",
@@ -40,22 +27,9 @@
     "chapter": "Bab 26",
     "level": "N3",
     "title": "〜切（き）る",
-    "meaning": "Menyatakan semua sudah... (sampai selesai, habis).",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa semua sudah dilakukan sampai selesai, habis, atau tuntas sepenuhnya. Artinya 'menghabiskan...', 'menyelesaikan... sampai habis'. Bentuk negatif 〜切れない berarti 'tidak sanggup menghabiskan/menyelesaikan'. Bentuk potensial 〜切れる berarti 'bisa menghabiskan'. Sering dipakai untuk makanan, uang, bacaan, pekerjaan, atau usaha yang memerlukan tenaga penuh.",
     "formula_template": "{A}ます 切（き）る / 切（き）れる / 切（き）れない (例: 飲み切る／走り切る／泳ぎ切る／売り切れる).",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}ます 切（き）る / 切（き）れる / 切（き）れない (例: 飲み切る／走り切る／泳ぎ切る／売り切れる).' untuk mengekspresikan: Menyatakan semua sudah... (sampai selesai, habis)..",
-    "ui_notes": "Menyatakan semua sudah... (sampai selesai, habis).",
+    "ui_notes": "Cara membentuk: Kata kerja bentuk ます, coret ます, + 切る / 切れる / 切れない. Contoh: 食べる (taberu) → 食べます (tabemasu) → 食べ切る (menghabiskan makan). 読む (yomu) → 読みます (yomimasu) → 読み切る (menyelesaikan membaca). 売る (uru) → 売ります (urimasu) → 売り切れる (terjual habis). Contoh pemakaian: ご飯の量が多くて、食べ切れないよ (porsi nasinya banyak sekali, saya tidak sanggup menghabiskannya). 長い小説を、2日間で読み切った (saya selesai membaca novel panjang itu dalam 2 hari). Contoh lain: 飲み切る (menghabiskan minum), 走り切る (berlari sampai finish), 泳ぎ切る (berenang sampai selesai), 売り切れる (terjual habis). Perbedaan dengan 〜上げる: 〜切る menekankan 'sampai habis/tuntas', 〜上げる menekankan 'selesai dengan usaha panjang'.",
     "examples": [
       {
         "jp": "ご飯の量が多くて、食べ切れないよ。",
@@ -76,30 +50,9 @@
     "chapter": "Bab 26",
     "level": "N3",
     "title": "〜かけ",
-    "meaning": "(1) Masih belum selesai (di tengah-tengah), (2) hampir mau...",
+    "meaning": "Pola ini digunakan untuk menyatakan dua hal: (1) suatu tindakan masih belum selesai, sedang di tengah-tengah, atau terputus; (2) hampir mau melakukan sesuatu (tetapi belum/tidak jadi). Artinya 'setengah...', 'belum selesai...', 'hampir...'. Bentuk 〜かけの + kata benda berarti '... yang belum selesai'. Bentuk 〜かけだ di akhir kalimat berarti 'masih dalam keadaan setengah...'.",
     "formula_template": "{A}ます かける / かけの {B}/ かけだ (例: 食べかける／帰りかける／落ちかける／失敗しかける).",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}ます かける / かけの {B}/ かけだ (例: 食べかける／帰りかける／落ちかける／失敗しかける).' untuk mengekspresikan: (1) Masih belum selesai (di tengah-tengah), (2) hampir mau....",
-    "ui_notes": "(1) Masih belum selesai (di tengah-tengah), (2) hampir mau...",
+    "ui_notes": "Cara membentuk: Kata kerja bentuk ます, coret ます, + かける / かけの / かけだ. Contoh: 読む (yomu) → 読みます (yomimasu) → 読みかけ (setengah dibaca). やる (yaru) → やります (yarimasu) → やりかけ (belum selesai dikerjakan). 落ちる (ochiru) → 落ちます (ochimasu) → 落ちかける (hampir jatuh). Contoh pemakaian: この本はまだ読みかけだ (buku ini masih setengah dibaca). 息子はやりかけの宿題をおいて、遊びに出かけてしまった (anak laki-laki saya meninggalkan PR yang belum selesai lalu pergi bermain). Contoh lain: 食べかける (setengah makan), 帰りかける (hampir pulang), 失敗しかける (hampir gagal). Perbedaan dengan 〜途中: 〜かけ menempel pada kata kerja dan menyatakan tindakan yang belum selesai, 〜途中 lebih umum dan bisa berdiri sendiri.",
     "examples": [
       {
         "jp": "この本はまだ読みかけだ。",
@@ -120,30 +73,9 @@
     "chapter": "Bab 26",
     "level": "N3",
     "title": "〜たて",
-    "meaning": "Bernuansa positif (masih fresh, segar, hangat dll).",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa sesuatu baru saja selesai dilakukan dan masih dalam kondisi segar, baru, hangat, atau fresh. Artinya 'baru saja...', 'masih baru...'. Bernuansa positif. Tidak semua kata kerja bisa memakai 〜たて; hanya kata kerja tertentu yang sudah lazim, seperti 炊く (memasak nasi), 焼く (memanggang), 塗る (mengecat), 取る (memetik), 入社する (masuk kerja), 習う (belajar). Contoh yang TIDAK bisa: 読みたて, 寝たて, 食べたて.",
     "formula_template": "{A}ます たての {B}/ たてだ. ✓ 炊きたてのご飯／ペンキ塗りたて／入社したて／習いたて. ✗ 読みたて／寝たて／食べたて.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}ます たての {B}/ たてだ. ✓ 炊きたてのご飯／ペンキ塗りたて／入社したて／習いたて. ✗ 読みたて／寝たて／食べたて.' untuk mengekspresikan: Bernuansa positif (masih fresh, segar, hangat dll)..",
-    "ui_notes": "Bernuansa positif (masih fresh, segar, hangat dll).",
+    "ui_notes": "Cara membentuk: Kata kerja bentuk ます, coret ます, + たて(の/だ). Contoh: 焼く (yaku) → 焼きます (yakimasu) → 焼きたて (baru matang). 取る (toru) → 取ります (torimasu) → 取れたて (baru dipetik). 塗る (nuru) → 塗ります (nurimasu) → 塗りたて (baru dicat). Contoh pemakaian: 焼きたてのパンはおいしい (roti yang baru matang itu lezat). あのスーパーは、とりたての野菜を売っている (supermarket itu menjual sayuran yang baru dipetik). Contoh yang lazim: 炊きたてのご飯 (nasi yang baru matang), ペンキ塗りたて (baru dicat), 入社したて (baru masuk kerja), 習いたて (baru belajar). Contoh yang TIDAK bisa: ✗ 読みたて, ✗ 寝たて, ✗ 食べたて. Perbedaan dengan 〜かけ: 〜たて = baru selesai dan masih fresh, 〜かけ = belum selesai/setengah jalan.",
     "examples": [
       {
         "jp": "焼きたてのパンはおいしい。",

@@ -4,46 +4,9 @@
     "chapter": "Bab 35",
     "level": "N3",
     "title": "決して〜ない",
-    "meaning": "menyatakan bahwa apapun yang terjadi, bagaimanapun juga, hal tersebut tidak akan dilakukan",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa apa pun yang terjadi, bagaimanapun juga, hal tersebut tidak akan dilakukan atau tidak akan terjadi. Artinya 'sama sekali tidak akan...', 'tidak akan pernah...', 'pasti tidak...'. Nuansanya sangat kuat dan tegas, sering dipakai untuk menyatakan tekad, janji, atau penolakan total. Selalu diikuti bentuk negatif.",
     "formula_template": "決して（けっして） [{A}ない / {B} 〜くない / {C} 〜ではない / {D}ではない]",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '決して（けっして） [{A}ない / {B} 〜くない / {C} 〜ではない / {D}ではない]' untuk mengekspresikan: menyatakan bahwa apapun yang terjadi, bagaimanapun juga, hal tersebut tidak akan dilakukan.",
-    "ui_notes": "menyatakan bahwa apapun yang terjadi, bagaimanapun juga, hal tersebut tidak akan dilakukan",
+    "ui_notes": "Cara membentuk: 決して + bentuk negatif. (1) Kata kerja bentuk negatif + 決して. Contoh: あきらめる (akirameru) → あきらめません (akiramemasen) → 決して夢をあきらめません (tidak akan pernah menyerah). (2) Kata sifat-i negatif + 決して. Contoh: 高い (takai) → 高くない (takakunai) → 決して高くない (sama sekali tidak mahal). (3) Kata sifat-na/kata benda negatif + 決して. Contoh: うそだ (uso da) → うそではない (uso de wa nai) → 決してうそではない (sama sekali bukan bohong). Contoh pemakaian: 私は決して夢をあきらめません (apa pun yang terjadi, saya pasti tidak akan menyerah). 「うそは決して申しません。」と彼は言った (dia bilang \"saya sama sekali tidak berbohong\"). Perbedaan dengan まったく〜ない: 決して = tidak akan pernah (tekad/penolakan kuat), まったく = sama sekali tidak (penekanan keadaan). Perbedaan dengan 少しも〜ない: 決して lebih menekankan tekad, 少しも lebih menekankan kuantitas nol.",
     "examples": [
       {
         "jp": "私は決して夢をあきらめません。",
@@ -64,38 +27,9 @@
     "chapter": "Bab 35",
     "level": "N3",
     "title": "まったく〜ない",
-    "meaning": "memberikan penekanan terhadap ketidakbisaan, ketidakmampuan",
+    "meaning": "Pola ini digunakan untuk memberikan penekanan terhadap ketidakbisaan atau ketidakmampuan. Artinya 'sama sekali tidak...', 'benar-benar tidak...'. Fungsinya menegaskan bahwa suatu hal benar-benar nol atau tidak ada sama sekali. Sering dipakai untuk menyatakan frustrasi, ketidaktahuan, atau ketidakmampuan total.",
     "formula_template": "まったく [{A}ない / {B} 〜くない / {C} 〜ではない]",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'まったく [{A}ない / {B} 〜くない / {C} 〜ではない]' untuk mengekspresikan: memberikan penekanan terhadap ketidakbisaan, ketidakmampuan.",
-    "ui_notes": "memberikan penekanan terhadap ketidakbisaan, ketidakmampuan",
+    "ui_notes": "Cara membentuk: まったく + bentuk negatif. (1) Kata kerja bentuk negatif + まったく. Contoh: 泳ぐ (oyogu) → 泳げない (oyogenai) → まったく泳げない (sama sekali tidak bisa berenang). (2) Kata sifat-i negatif + まったく. Contoh: おいしい (oishii) → おいしくない (oishikunai) → まったくおいしくない (sama sekali tidak enak). (3) Kata sifat-na/kata benda negatif + まったく. Contoh: わかる (wakaru) → わからない (wakaranai) → まったくわからない (sama sekali tidak mengerti). Contoh pemakaian: 私はまったく泳げない (saya sama sekali tidak bisa berenang). 彼が怒っている理由は、私にはまったくわからない (saya sama sekali tidak mengerti alasan mengapa dia marah). Perbedaan dengan 決して〜ない: まったく = sama sekali tidak (keadaan/fakta), 決して = tidak akan pernah (tekad). Perbedaan dengan 少しも〜ない: まったく lebih umum dan kuat, 少しも lebih spesifik pada kuantitas 'sedikit pun'.",
     "examples": [
       {
         "jp": "私はまったく泳げない。",
@@ -116,30 +50,9 @@
     "chapter": "Bab 35",
     "level": "N3",
     "title": "めったにない",
-    "meaning": "menyatakan jumlah yang sedikit atau sesuatu yang jarang terjadi/dilakukan",
+    "meaning": "Pola ini digunakan untuk menyatakan jumlah yang sedikit atau sesuatu yang jarang terjadi/dilakukan. Artinya 'jarang...', 'tidak sering...'. Sering dipakai dengan bentuk negatif untuk menegaskan bahwa sesuatu hampir tidak pernah terjadi. Nuansanya menunjukkan kelangkaan atau frekuensi yang rendah.",
     "formula_template": "{A}はめったにない / めったにない {B}ない",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}はめったにない / めったにない {B}ない' untuk mengekspresikan: menyatakan jumlah yang sedikit atau sesuatu yang jarang terjadi/dilakukan.",
-    "ui_notes": "menyatakan jumlah yang sedikit atau sesuatu yang jarang terjadi/dilakukan",
+    "ui_notes": "Cara membentuk: (1) Kata benda + は + めったにない. Contoh: チャンス (chansu) → チャンスはめったにない (kesempatan jarang ada). (2) めったに + kata kerja bentuk negatif. Contoh: 休みが取れる (yasumi ga toreru) → めったに休みが取れない (jarang bisa ambil libur). Contoh pemakaian: こんなチャンスはめったにないよ (kesempatan seperti ini jarang ada). 忙しくてめったに休みが取れない (karena sibuk, saya jarang bisa mengambil libur). Perbedaan dengan ほとんど〜ない: ほとんど〜ない = hampir tidak (frekuensi sangat rendah), めったに〜ない = jarang (frekuensi rendah tapi masih mungkin terjadi). Perbedaan dengan たまに: たまに = kadang-kadang (positif, frekuensi rendah tapi ada), めったに〜ない = jarang (negatif, hampir tidak pernah).",
     "examples": [
       {
         "jp": "こんなチャンスはめったにないよ。",
@@ -160,38 +73,9 @@
     "chapter": "Bab 35",
     "level": "N3",
     "title": "少しも〜ない",
-    "meaning": "memberikan penekanan terhadap penyangkalan \"sedikitpun tidak\"",
+    "meaning": "Pola ini digunakan untuk memberikan penekanan terhadap penyangkalan. Artinya 'sedikit pun tidak...', 'sama sekali tidak...'. Fungsinya menegaskan bahwa bahkan dalam jumlah terkecil sekalipun, hal tersebut tidak ada atau tidak terjadi. Sering dipakai untuk menyatakan ketidaktahuan, ketidakpedulian, atau penolakan total. Varian ちっとも lebih kasual.",
     "formula_template": "[少（すこ）しも / ちっとも] [{A}ない / {B} 〜くない / {C} 〜ではない]",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[少（すこ）しも / ちっとも] [{A}ない / {B} 〜くない / {C} 〜ではない]' untuk mengekspresikan: memberikan penekanan terhadap penyangkalan \"sedikitpun tidak\".",
-    "ui_notes": "memberikan penekanan terhadap penyangkalan \"sedikitpun tidak\"",
+    "ui_notes": "Cara membentuk: 少しも / ちっとも + bentuk negatif. (1) Kata kerja bentuk negatif + 少しも. Contoh: わかる (wakaru) → わからない (wakaranai) → 少しもわからない (sedikit pun tidak mengerti). (2) Kata sifat-i negatif + 少しも. Contoh: 気になる (ki ni naru) → 気にならない (ki ni naranai) → 少しも気にならない (sedikit pun tidak peduli). (3) Kata sifat-na/kata benda negatif + 少しも. Contoh: 嫌いだ (kirai da) → 嫌いではない (kirai de wa nai) → 少しも嫌いではない (sedikit pun tidak benci). Contoh pemakaian: あの人が話す英語は少しもわからない (sedikit pun saya tidak mengerti bahasa Inggris yang dia bicarakan). スタイルのことは、少しも気にならない (mengenai gaya/tampilan fisik, sedikit pun saya tidak memperdulikannya). Varian ちっとも lebih kasual: ちっともわからない (sama sekali tidak mengerti). Perbedaan dengan まったく〜ない: まったく = sama sekali tidak (umum), 少しも = sedikit pun tidak (menekankan kuantitas terkecil).",
     "examples": [
       {
         "jp": "あの人が話す英語は少しもわからない。",

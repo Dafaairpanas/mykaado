@@ -1,169 +1,158 @@
 [
   {
-    "id": "i_bab13_1",
+    "id": "i_a1_bab13_1",
     "chapter": "Bab 13",
     "level": "A1",
-    "title": "この【kendaraan】は【tempat】に行きますか？ (Kono [kendaraan] wa [tempat] ni ikimasu ka?)",
-    "meaning": "Pola pertanyaan untuk menanyakan apakah suatu kendaraan (bus, kereta, dll.) menuju ke tempat tertentu. 'この' berarti 'ini' (kendaraan yang dimaksud), 'に' menunjukkan tujuan, dan '行きますか' berarti 'apakah pergi?'. Sangat berguna saat berada di stasiun atau halte bus. Artinya 'Apakah [kendaraan] ini pergi ke [tempat]?'.",
-    "formula_template": "この {A} は {B} に 行きますか？",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "transportation",
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'この {A} は {B} に 行きますか？' untuk percakapan: Pola pertanyaan untuk menanyakan apakah suatu kendaraan (bus, kereta, dll.) menuju ke tempat tertentu. 'この' be. Pastikan 'A' mewakili Kendaraan, 'B' mewakili Tempat.",
-    "ui_notes": "Untuk menanyakan tujuan secara umum: これはどこに行きますか？ (Ke mana ini pergi?). Untuk menunjukkan kendaraan yang jauh, gunakan 'その' (itu - dekat lawan bicara) atau 'あの' (itu - jauh). Contoh: あのバスはどこに行きますか？ (Ke mana bus itu pergi?).",
+    "title": "Konfirmasi Rute Angkutan (〜に行きますか？)",
+    "meaning": "Jurus Anti Nyasar! Senjata panik saat Anda berada di negara asing dan ingin bertanya kepada supir atau orang di halte apakah kendaraan ini menuju tempat tujuan Anda.",
+    "formula_template": "この + [Kendaraan/Angkutan] + は + [Tujuan/Stasiun] + に行きますか？",
+    "ui_notes": "### 📝 RANGKUMAN 1000 WAJAH PARTIKEL (に)\n| Makna Partikel 'に' | Contoh di Lapangan |\n|---|---|\n| **Tinggal / Bermukim** | 東京**に**住んでいます |\n| **Titik Keberadaan** | 1階**に**部屋があります |\n| **Titik Waktu (Jam)** | 5時**に**起きます |\n| **Tujuan Kehadiran Acara** | 忘年会**に**行きますか？ |\n| **Destinasi Tempuh Angkutan** | 空港**に**行きますか？ |",
     "examples": [
       {
-        "jp": "このバスは空港に行きますか？",
-        "id": "Apakah bus ini menuju ke bandara?"
+        "jp": "このバスは、空港に 行きますか？",
+        "id": "Apakah bus ini JALURNYA MENUJU KE arah bandara?"
       },
       {
-        "jp": "この電車は東京に行きますか？",
-        "id": "Apakah kereta ini menuju ke Tokyo?"
+        "jp": "この電車は、東新宿に 行きますか？",
+        "id": "Apakah rangkaian kereta ini JALURNYA MENUJU KE (stasiun) Timur Shinjuku?"
       }
     ],
     "tags": [
       "A1",
-      "Transportasi",
-      "Rute",
-      "Pertanyaan"
+      "Anti Nyasar Rute",
+      "Tujuan Halte Kendaraan"
     ]
   },
   {
-    "id": "i_bab13_2",
+    "id": "i_a1_bab13_2",
     "chapter": "Bab 13",
     "level": "A1",
-    "title": "【kendaraan】で来ます ([Kendaraan] de kimasu)",
-    "meaning": "Pola kalimat untuk menyatakan moda transportasi yang digunakan untuk datang ke suatu tempat. 'で' menunjukkan alat/medium yang digunakan, dan '来ます' berarti 'datang'. Juga bisa digunakan dengan '行きます' (pergi). Artinya 'Datang dengan [kendaraan]' atau 'Menggunakan [kendaraan] untuk datang'.",
-    "formula_template": "{A} で 来ます / 行きます",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "transportation",
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} で 来ます / 行きます' untuk percakapan: Pola kalimat untuk menyatakan moda transportasi yang digunakan untuk datang ke suatu tempat. 'で' menunjukkan a. Pastikan 'A' mewakili Kendaraan.",
-    "ui_notes": "Untuk berjalan kaki, gunakan '歩いて' (aruite) bukan '足で'. Contoh: 歩いて来ます (Saya datang berjalan kaki). Untuk naik kendaraan, gunakan '乗ります' (norimasu): バスに乗ります (Naik bus). Perbedaan: 'で' untuk alat transportasi, 'に' untuk tujuan: 車で東京に行きます (Pergi ke Tokyo dengan mobil).",
+    "title": "Konfirmasi Lokasi Saat Ini (ここはどこですか)",
+    "meaning": "GPS Manual! Jurus bertanya saat Anda bangun tidur ngelindur di dalam kereta/bus dan kebingungan mencari tahu posisi halte/stasiun tempat Anda sedang pijak sekarang.",
+    "formula_template": "1. ここは + どこですか？ (Lagi di mana nih?)\n2. ここは + [Nama Stasiun/Halte] + ですか？ (Apakah ini halte X?)",
+    "ui_notes": "Jika Anda ingin menerawang JAUH KE DEPAN dan menanyakan perhentian halte **SELANJUTNYA**, gunakanlah pusaka sakti **「次 (Tsugi / Berikutnya)」** sebagai pengganti kata Koko (Sini).",
     "examples": [
       {
-        "jp": "バイクで来ます。",
-        "id": "Saya datang dengan motor."
+        "jp": "ここは、どこですか？",
+        "id": "KITA SEKARANG POSISINYA ADA DI MANA YAK?"
       },
       {
-        "jp": "電車で会社に行きます。",
-        "id": "Saya pergi ke kantor dengan kereta."
+        "jp": "すみません。ここは、どこですか？ ……大月です。終点です。",
+        "id": "Permisi numpang nanya. KITA SEKARANG LAGI DI MANA SIH posisinya? ...... Di Stasiun Ootsuki. Ini tempat pemberhentian angkutan ujung batas terakhir (Shuuten)."
+      },
+      {
+        "jp": "あのう、次は、小倉ですか？",
+        "id": "Punten numpang nanya, PERHENTIAN BERIKUTNYA itu (Stasiun) Kokura bukan ya?"
       }
     ],
     "tags": [
       "A1",
-      "Transportasi",
-      "Moda",
-      "Cara"
+      "Mencari Posisi Halte",
+      "Sekarang di Mana (Koko Wa)"
     ]
   },
   {
-    "id": "i_bab13_3",
+    "id": "i_a1_bab13_3",
     "chapter": "Bab 13",
     "level": "A1",
-    "title": "【waktu】かかります ([Waktu] kakarimasu)",
-    "meaning": "Pola kalimat untuk menyatakan waktu yang dibutuhkan untuk melakukan sesuatu (perjalanan, pekerjaan, dll.). 'かかります' berarti 'memakan waktu' atau 'butuh waktu'. Digunakan untuk menjelaskan durasi perjalanan atau estimasi waktu. Artinya 'Butuh waktu [durasi]'.",
-    "formula_template": "{A} かかります",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} かかります' untuk percakapan: Pola kalimat untuk menyatakan waktu yang dibutuhkan untuk melakukan sesuatu (perjalanan, pekerjaan, dll.). 'かか. Pastikan 'A' mewakili Durasi.",
-    "ui_notes": "Untuk menanyakan waktu yang dibutuhkan: どのぐらいかかりますか？ (Berapa lama waktu yang dibutuhkan?). Juga bisa menggunakan '時間' (jikan) untuk jam, '分' (pun) untuk menit. Contoh: 2時間かかります (Butuh 2 jam). Untuk waktu yang singkat: すぐに着きます (Segera sampai).",
+    "title": "Sarana Transportasi Angkutan (〜で来ます)",
+    "meaning": "Laporan Moda Transportasi! Mengungkapkan apa jenis kendaraan atau sarana yang Anda pakai (Saya datang kemari / berangkat naik...).",
+    "formula_template": "[Moda Transportasi] + で + 来ます (Datang Kemari) / 行きます (Pergi Ke Sana)",
+    "ui_notes": "PENGECUALIAN JALAN KAKI (PENTING!):\nModa transportasi manusia manual (Jalan Kaki) HARAM HUKUMNYA memakai partikel 'で'! Gunakanlah bentuk sakti **「歩いて (Aruite / Berjalan Merangkak pakai Kaki)」**. (Contoh: 歩いて来ます).\nUntuk nanya orang pakai apa/lewat mana: **「どうやって行きますか？ (Gimana Cara Perginya?)」**",
     "examples": [
       {
-        "jp": "1時間半かかります。",
-        "id": "Butuh waktu 1,5 jam."
+        "jp": "バイクで 来ます。",
+        "id": "Saya datang NAIK (moda angkutan) sepeda motor."
       },
       {
-        "jp": "家から駅まで10分かかります。",
-        "id": "Dari rumah ke stasiun butuh waktu 10 menit."
+        "jp": "家から会社まで、どうやって 来ますか？ ……バスと電車で 来ます。",
+        "id": "Dari rumah tembus sampai kantor, BAGAIMANA CARANYA (Naik apa) Anda kemari? ...... Saya datang (kerja) NAIK (moda angkutan) Bus sambung Kereta."
+      },
+      {
+        "jp": "学校まで、何で 来ますか？ ……毎日、歩いて 来ます。",
+        "id": "Hingga sampai sekolah ini, Anda kemari pakai angkutan apa? ...... Saban hari rutinitas, saya datang kemari murni JALAN KAKI KERINGETAN."
       }
     ],
     "tags": [
       "A1",
-      "Waktu",
-      "Durasi",
-      "Perjalanan"
+      "Alat Kendaraan",
+      "Naik Apa (De Kuremasu)"
     ]
   },
   {
-    "id": "i_bab13_4",
+    "id": "i_a1_bab13_4",
     "chapter": "Bab 13",
     "level": "A1",
-    "title": "【tempat】で【kendaraan】に乗ります / を降ります ([Tempat] de [kendaraan] ni norimasu / wo orimasu)",
-    "meaning": "Pola kalimat untuk menyatakan tempat naik dan turun dari kendaraan. 'で' menunjukkan lokasi, 'に乗ります' berarti 'naik', dan 'を降ります' berarti 'turun'. Sangat berguna saat memberikan atau menerima petunjuk arah. Artinya 'Naik [kendaraan] di [tempat]' / 'Turun dari [kendaraan] di [tempat]'.",
-    "formula_template": "{A} で {B} に 乗ります / を 降ります",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "transportation",
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} で {B} に 乗ります / を 降ります' untuk percakapan: Pola kalimat untuk menyatakan tempat naik dan turun dari kendaraan. 'で' menunjukkan lokasi, 'に乗ります' berarti 'n. Pastikan 'A' mewakili Tempat, 'B' mewakili Kendaraan.",
-    "ui_notes": "Perhatikan partikel: 'に乗ります' (naik ke dalam kendaraan), 'を降ります' (turun dari kendaraan). Untuk kendaraan kecil seperti mobil/taksi: 'に乗ります' untuk naik, 'を降ります' untuk turun (sama). Untuk pesawat: 'に乗ります' / 'を降ります'.",
+    "title": "Durasi Waktu Tempuh Argo (〜かかります)",
+    "meaning": "Argo Perjalanan! Melaporkan argo lama perjalanan waktu yang habis tersedot untuk berpindah dari satu titik ke titik lokasi lain.",
+    "formula_template": "[Durasi Lamanya Jam/Menit] + かかります (Memakan Waktu)",
+    "ui_notes": "BEDAKAN WAKTU & DURASI:\n- **時 (Ji)** = Waktu Pukul (Jam 5 Sore).\n- **時間 (Jikan)** = Durasi Lama Terpotongnya Waktu (Membutuhkan 5 Jam lamanya perjalanan).\nUntuk menanyakan argo: **「どのぐらい かかりますか？ (Ngedot waktu kira-kira seberapa lama?)」**",
     "examples": [
       {
-        "jp": "バスセンターでバスを降ります。",
-        "id": "Saya turun dari bus di pusat bus."
+        "jp": "1時間半 かかります。",
+        "id": "MEMAKAN ARGO WAKTU 1,5 jam lamanya."
       },
       {
-        "jp": "新宿駅で電車に乗ります。",
-        "id": "Saya naik kereta di stasiun Shinjuku."
+        "jp": "家から会社まで、どのぐらい、かかりますか？ ……自転車で 20分、車で 10分です。",
+        "id": "Mulai rumah sampai menyentuh kantor, KIRA-KIRA SEBERAPA LAMA DURASINYA yang dimakan? ...... Kalau naik moda Sepeda ngabisih DURASI 20 MENIT, kalau naik roda empat ngabisin DURASI 10 MENIT."
+      },
+      {
+        "jp": "ここから空港まで、どのぐらい、かかりますか？ ……バスで 1時間ぐらい かかります。",
+        "id": "Berawal dari titik ini sampai menembus batas pintu bandara, KIRA-KIRA SEBERAPA LAMA DURASINYA yang dibutuhkan? ...... Kalau naik gerbong Bus MEMBUTUHKAN WAKTU SEKITAR DURASI 1 JAM (Durasi)."
       }
     ],
     "tags": [
       "A1",
-      "Transportasi",
-      "Naik",
-      "Turun",
-      "Lokasi"
+      "Lama Perjalanan",
+      "Memakan Waktu (Kakarimasu)"
+    ]
+  },
+  {
+    "id": "i_a1_bab13_5",
+    "chapter": "Bab 13",
+    "level": "A1",
+    "title": "Titik Naik dan Turun Angkutan (乗ります/降ります)",
+    "meaning": "Laporan Halte! Melaporkan di halte / stasiun / titik lokasi mana persisnya Anda menyetop masuk ke angkutan, dan di titik mana Anda meloncat turun mendarat.",
+    "formula_template": "1. [Titik Halte] + で + [Nama Kendaraan] + に + 乗ります (Naik Masuk)\n2. [Titik Halte] + で + [Nama Kendaraan] + を + 降ります (Turun Meninggalkan)",
+    "ui_notes": "AWAS PARTIKEL PINTU KENDARAAN (SANGAT KRUSIAL!):\n- Saat Anda **NAIK (乗る)**, tubuh Anda masuk dan menempel pada badan kendaraan, jadi partikel penyambutnya adalah **「に (Ni/Nempel)」** (Contoh: バス【に】乗る).\n- Saat Anda **TURUN (降りる)**, Anda membuang dan meludahi / meninggalkan badan kendaraan, jadi partikel pelepasnya adalah objek penderita **「を (Wo/Buang)」** (Contoh: バス【を】降りる).",
+    "examples": [
+      {
+        "jp": "ここから、12番のバスに 乗ります。バスセンターで、バスを 降ります。",
+        "id": "Dimulai dari titik ini, (aku) MELOMPAT NAIK MENEMPEL ke gerbong Bus kode lintasan 12. Di titik stasiun terminal pusat Bus, barulah (aku) MELOMPAT TURUN MENINGGALKAN gerbong busnya."
+      },
+      {
+        "jp": "どこで 降りますか？ ……市民病院前で 降りて ください。5つ目です。",
+        "id": "DI TITIK MANAKAH Anda akan meloncat turun meninggalkan gerbong? ...... Harap (supir) tolong turunkan saya DI halte (Depan RSUD Sipil). Terhitung persis perhentian titik kelima dari sini."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Halte Persinggahan",
+      "Naik Ni Turun Wo"
+    ]
+  },
+  {
+    "id": "i_a1_bab13_6",
+    "chapter": "Bab 13",
+    "level": "A1",
+    "title": "Rentang Stasiun Angkutan (〜から 〜まで)",
+    "meaning": "Peta Rute Relatif! Melaporkan rentang jarak rute transportasi (Dari titik stasiun awal berangkat hingga titik stasiun tempat membongkar muatan).",
+    "formula_template": "[Titik Stasiun Awal] + から (Dari) + [Titik Stasiun Akhir] + まで (Hingga) + [Aksi Kendaraan]",
+    "ui_notes": "",
+    "examples": [
+      {
+        "jp": "ここから 新みなと駅まで、電車に 乗ります。",
+        "id": "DARI titik letak ini HINGGA tembus titik Stasiun Shin-Minato, (aku menumpang) MELOMPAT NAIK gerbong kereta."
+      },
+      {
+        "jp": "空港から ホテルまで、どうやって 行きますか？ ……シャトルバスに 乗って ください。",
+        "id": "DARI titik landasan Bandara HINGGA tiba di titik gerbang Hotel, BAGAIMANA CARANYA (Anda) menempuh jalannya? ...... (Tamu dipersilakan) MELOMPAT NAIK (layanan) Shuttle Bus jemputan bandara."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Peta Titik Rute",
+      "Dari Halte Sampai Halte"
     ]
   }
 ]

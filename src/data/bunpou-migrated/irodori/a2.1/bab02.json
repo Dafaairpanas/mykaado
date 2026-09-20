@@ -6,19 +6,6 @@
     "title": "V-ることです — Menyatakan Hobi",
     "meaning": "Pola kalimat untuk menyatakan suatu kegiatan sebagai hobi atau aktivitas yang disukai. 'こと' mengubah kata kerja menjadi kata benda (nominalisasi). Digunakan untuk menjawab pertanyaan 'Apa hobimu?' atau menjelaskan aktivitas tertentu. Artinya 'Adalah melakukan [aktivitas]'.",
     "formula_template": "{A} ことです",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ことです' untuk percakapan: Pola kalimat untuk menyatakan suatu kegiatan sebagai hobi atau aktivitas yang disukai. 'こと' mengubah kata kerj. Pastikan 'A' mewakili Kata Kerja Bentuk Kamus.",
     "ui_notes": "'V-ること' adalah cara untuk mengubah kata kerja menjadi kata benda. Untuk kata kerja 'する' (suru - melakukan), menjadi 'すること'. Untuk kata kerja '見る' (miru - melihat), menjadi '見ること'. Berguna saat menjelaskan hobi atau aktivitas favorit.",
     "examples": [
       {
@@ -44,19 +31,6 @@
     "title": "V-るのが好きです — Suka Melakukan",
     "meaning": "Pola kalimat untuk menyatakan bahwa seseorang suka melakukan suatu aktivitas. 'の' berfungsi sebagai nominalisasi (mengubah kata kerja menjadi kata benda), dan 'が好きです' berarti 'suka'. Berbeda dengan 'V-ること', pola ini langsung menyatakan kesukaan. Artinya 'Suka melakukan [aktivitas]'.",
     "formula_template": "{A} のが好きです",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} のが好きです' untuk percakapan: Pola kalimat untuk menyatakan bahwa seseorang suka melakukan suatu aktivitas. 'の' berfungsi sebagai nominalisa. Pastikan 'A' mewakili Kata Kerja Bentuk Kamus.",
     "ui_notes": "Perbedaan dengan 'V-ることです': 'V-ることです' digunakan untuk mendefinisikan (A adalah B), sedangkan 'V-るのが好きです' digunakan untuk menyatakan kesukaan langsung. Contoh: 趣味は料理をすることです (Hobi saya adalah memasak) vs 料理をするのが好きです (Saya suka memasak).",
     "examples": [
       {
@@ -82,37 +56,6 @@
     "title": "【orang】と【tempat】でV-ます ([Orang] to [tempat] de V-masu) — Melakukan Bersama",
     "meaning": "Pola kalimat untuk menyatakan bahwa seseorang melakukan aktivitas bersama orang lain di suatu tempat. 'と' berarti 'dengan' (bersama), dan 'で' menunjukkan lokasi aktivitas. Sangat berguna saat menceritakan kegiatan liburan atau hobi yang dilakukan bersama teman. Artinya 'Melakukan [aktivitas] dengan [orang] di [tempat]'.",
     "formula_template": "{A} と {B} で {C}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      },
-      "C": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} と {B} で {C}' untuk percakapan: Pola kalimat untuk menyatakan bahwa seseorang melakukan aktivitas bersama orang lain di suatu tempat. 'と' bera. Pastikan 'A' mewakili Orang, 'B' mewakili Tempat, 'C' mewakili Kata Kerja.",
     "ui_notes": "Urutan dalam kalimat: [Orang] と [Tempat] で [Aktivitas] を [Kata Kerja]. 'と' untuk orang (siapa yang bersama), 'で' untuk tempat (di mana melakukan). Jika hanya menyebutkan orang tanpa tempat: 友だちと映画を見ます (Menonton film dengan teman).",
     "examples": [
       {
@@ -138,29 +81,6 @@
     "title": "V1-て、V2 (V1-te, V2) — Melakukan Lalu",
     "meaning": "Pola kalimat untuk menyatakan urutan tindakan: melakukan V1 terlebih dahulu, lalu melakukan V2. Bentuk 'て' (te-form) digunakan untuk menghubungkan dua kata kerja atau lebih. Sangat berguna saat menceritakan rangkaian kegiatan dalam sehari atau liburan. Artinya 'Lakukan V1, lalu V2'.",
     "formula_template": "{A} {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} {B}' untuk percakapan: Pola kalimat untuk menyatakan urutan tindakan: melakukan V1 terlebih dahulu, lalu melakukan V2. Bentuk 'て' (te. Pastikan 'A' mewakili Kata Kerja 1 Bentuk te, 'B' mewakili Kata Kerja 2.",
     "ui_notes": "Bentuk 'て' dari kata kerja: する→して (suru→shite), 食べる→食べて (taberu→tabete), 行く→行って (iku→itte). Dapat menghubungkan lebih dari 2 kegiatan: 起きて、シャワーを浴びて、朝ご飯を食べます (Bangun, mandi, lalu sarapan).",
     "examples": [
       {
@@ -186,19 +106,6 @@
     "title": "V-ています ② — Hobi / Kebiasaan",
     "meaning": "Pola kalimat untuk menyatakan kegiatan yang dilakukan secara rutin sebagai hobi atau kebiasaan (bukan hanya saat ini). Berbeda dengan fungsi pertama (sedang melakukan), fungsi kedua ini menyatakan aktivitas berulang atau kebiasaan yang sedang dijalani. Artinya 'Sedang melakukan [aktivitas] (sebagai kebiasaan/hobi)'.",
     "formula_template": "{A} います (untuk kebiasaan/hobi)",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} います (untuk kebiasaan/hobi)' untuk percakapan: Pola kalimat untuk menyatakan kegiatan yang dilakukan secara rutin sebagai hobi atau kebiasaan (bukan hanya sa. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
     "ui_notes": "Perbedaan dengan 'V-ます': 'V-ます' menyatakan kebiasaan umum (毎日、日本語を勉強します - Saya belajar bahasa Jepang setiap hari), sedangkan 'V-ています' untuk hobi/kebiasaan yang sedang digeluti saat ini (最近、日本語を勉強しています - Saya sedang belajar bahasa Jepang akhir-akhir ini).",
     "examples": [
       {
@@ -224,17 +131,6 @@
     "title": "Nができます — Bisa N",
     "meaning": "Pola kalimat untuk menyatakan kemampuan atau keahlian dalam melakukan sesuatu. 'ができます' berarti 'dapat' atau 'bisa' untuk kata benda (bukan kata kerja). Untuk kata kerja, gunakan bentuk potensial. Sangat berguna saat menyebutkan bahasa yang bisa digunakan atau keahlian khusus. Artinya 'Bisa [N]'.",
     "formula_template": "{A} が できます",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} が できます' untuk percakapan: Pola kalimat untuk menyatakan kemampuan atau keahlian dalam melakukan sesuatu. 'ができます' berarti 'dapat' atau 'b. Pastikan 'A' mewakili Kata Benda.",
     "ui_notes": "Untuk kata kerja, gunakan 'V-ることができます' (bisa melakukan V). Contoh: 日本語を話すことができます (Saya bisa berbicara bahasa Jepang). 'できます' juga bisa berarti 'terbuat dari' dalam konteks tertentu: この机は木でできています (Meja ini terbuat dari kayu).",
     "examples": [
       {

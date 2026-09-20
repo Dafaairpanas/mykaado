@@ -6,26 +6,6 @@
     "title": "今日はいい天気ですね",
     "meaning": "Pola kalimat untuk menyatakan cuaca yang sedang berlangsung. '今日は' berarti 'hari ini', 'いい天気' berarti 'cuaca bagus', dan 'ですね' di akhir berarti 'ya' (mencari persetujuan). Sangat umum digunakan sebagai sapaan atau pembuka percakapan tentang cuaca. Artinya 'Cuaca hari ini bagus ya.'",
     "formula_template": "{A} は {B} ですね",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "time"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は {B} ですね' untuk percakapan: Pola kalimat untuk menyatakan cuaca yang sedang berlangsung. '今日は' berarti 'hari ini', 'いい天気' berarti 'cuaca b. Pastikan 'A' mewakili Hari, 'B' mewakili Cuaca.",
     "ui_notes": "Membicarakan cuaca adalah cara yang umum untuk memulai percakapan di Jepang. 'ですね' di akhir menunjukkan bahwa Anda mencari persetujuan dari lawan bicara. Kata sifat untuk cuaca: いい (bagus), 悪い (buruk), 暑い (panas), 寒い (dingin), 暖かい (hangat), 涼しい (sejuk). Tambahkan 'お' di depan '天気' untuk membuatnya lebih sopan.",
     "examples": [
       {
@@ -51,26 +31,6 @@
     "title": "昨日はすごい雨でしたね",
     "meaning": "Pola kalimat untuk menyatakan cuaca di masa lalu. '昨日は' berarti 'kemarin', 'すごい雨' berarti 'hujan deras', dan 'でしたね' adalah bentuk lampau sopan + partikel konfirmasi. Digunakan untuk mengingat atau mengomentari cuaca hari sebelumnya. Artinya 'Kemarin hujan deras ya.'",
     "formula_template": "{A} は {B} でしたね",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "time"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は {B} でしたね' untuk percakapan: Pola kalimat untuk menyatakan cuaca di masa lalu. '昨日は' berarti 'kemarin', 'すごい雨' berarti 'hujan deras', dan '. Pastikan 'A' mewakili Waktu Lampau, 'B' mewakili Cuaca.",
     "ui_notes": "Untuk kata sifat-i (イA), bentuk lampaunya adalah mengubah 'い' menjadi 'かったです'. Contoh: 暑い (panas) → 暑かったです (telah panas). Untuk kata sifat-na (ナA), bentuk lampaunya adalah 'でした'. Contoh: 静か (tenang) → 静かでした (telah tenang).",
     "examples": [
       {
@@ -96,19 +56,6 @@
     "title": "V-ています ③ — Keadaan Cuaca Berlangsung",
     "meaning": "Pola kalimat untuk menyatakan bahwa fenomena cuaca atau keadaan alam sedang berlangsung saat ini. Fungsi ketiga dari 'V-ています' untuk menyatakan perubahan atau keadaan yang terus berlanjut, seperti hujan, angin, atau salju yang sedang terjadi. Artinya 'Sedang [cuaca/keadaan]'.",
     "formula_template": "{A} います",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} います' untuk percakapan: Pola kalimat untuk menyatakan bahwa fenomena cuaca atau keadaan alam sedang berlangsung saat ini. Fungsi ketig. Pastikan 'A' mewakili Kata Kerja Cuaca Bentuk te.",
     "ui_notes": "Kata kerja cuaca yang sering digunakan: 降る (furu - turun/hujan), 吹く (fuku - bertiup/angin), 積もる (tsumoru - menumpuk/salju). '降っています' adalah bentuk 'te-iru' dari '降る' yang berarti 'sedang turun (hujan/salju)'.",
     "examples": [
       {
@@ -134,19 +81,6 @@
     "title": "N／ナA-／イA-い／V-る でしょう — Prediksi",
     "meaning": "Pola kalimat untuk menyatakan prediksi, perkiraan, atau kemungkinan tentang cuaca atau kejadian di masa depan. 'でしょう' berarti 'mungkin' atau 'akan'. Dapat digunakan dengan kata benda (N), kata sifat-na (ナA), kata sifat-i (イA), atau kata kerja (V). Sangat berguna untuk prakiraan cuaca. Artinya 'Mungkin akan [cuaca/sifat/aktivitas]'.",
     "formula_template": "{A} でしょう",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} でしょう' untuk percakapan: Pola kalimat untuk menyatakan prediksi, perkiraan, atau kemungkinan tentang cuaca atau kejadian di masa depan.. Pastikan 'A' mewakili N / ナA / イA-i / V-ru.",
     "ui_notes": "'でしょう' adalah bentuk yang lebih sopan dari 'だろう' (kasual). Untuk prakiraan cuaca yang lebih pasti: 晴れるでしょう (akan cerah), 雨が降るでしょう (akan hujan), 曇るでしょう (akan mendung). Untuk menanyakan prediksi: 明日はどうでしょう？ (Bagaimana dengan besok?).",
     "examples": [
       {

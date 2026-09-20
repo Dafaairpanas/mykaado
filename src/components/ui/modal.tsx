@@ -9,9 +9,10 @@ interface ModalProps {
   onClose: () => void;
   title?: string;
   children: React.ReactNode;
+  className?: string;
 }
 
-export function Modal({ isOpen, onClose, title, children }: ModalProps) {
+export function Modal({ isOpen, onClose, title, children, className }: ModalProps) {
   React.useEffect(() => {
     if (isOpen) document.body.style.overflow = "hidden";
     else document.body.style.overflow = "unset";
@@ -30,9 +31,10 @@ export function Modal({ isOpen, onClose, title, children }: ModalProps) {
       
       {/* Modal Content */}
       <div className={cn(
-        "relative w-full max-w-md bg-[var(--color-bg-main)] border-[length:var(--bw-md)] border-solid border-[var(--color-border-main)]",
+        "relative w-full bg-[var(--color-bg-main)] border-[length:var(--bw-md)] border-solid border-[var(--color-border-main)]",
         "rounded-[var(--radius-lg)] shadow-[6px_6px_0px_var(--color-shadow-main)] overflow-hidden",
-        "data-[style=modern]:shadow-[0_20px_40px_rgba(0,0,0,0.2)] animate-in fade-in zoom-in-95 duration-200"
+        "data-[style=modern]:shadow-[0_20px_40px_rgba(0,0,0,0.2)] animate-in fade-in zoom-in-95 duration-200",
+        className || "max-w-md"
       )}>
         {/* Header */}
         <div className="flex items-center justify-between p-4 border-b-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] border-dashed">

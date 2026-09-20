@@ -3,206 +3,84 @@
     "id": "m_bab39_1",
     "chapter": "Bab 39",
     "level": "N4",
-    "title": "～て（で）、～",
-    "meaning": "Digunakan untuk menyatakan sebab atau alasan di bagian depan kalimat, kemudian menyatakan akibat di bagian belakang. Bagian belakang kalimat tidak dapat menggunakan ekspresi keinginan, perintah, atau ajakan.",
-    "formula_template": "{A} / {B}-i (くて) / {C}-na / {D} ~ (Akibat)",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} / {B}-i (くて) / {C}-na / {D} ~ (Akibat)' untuk menyatakan: Digunakan untuk menyatakan sebab atau alasan di bagian depan kalimat, kemudian menyatakan akibat di bagian bel. Pastikan 'A' mewakili Kata Kerja (Bentuk て / なくて), 'B' mewakili Kata Sifat, 'C' mewakili Kata Sifat, 'D' mewakili Kata Benda (で).",
-    "ui_notes": "Untuk hal di bagian belakang kalimat kebanyakan terletak ekspresi yang menyatakan perasaan (bikkuri shimasu, sabishii, zannen, dll) atau ekspresi potensial/keadaan (ikemasen, wakarimasen, dll). Jika menggunakan ekspresi yang mengandung keinginan/perintah di belakang, gunakan ～から, bukan ～て (Contoh yang salah: 危なくて、機械に触らないでください。)",
+    "title": "Bentuk て / で (Karena... / Penyebab)",
+    "meaning": "Pola Bentuk 'て (untuk kata kerja) / で (untuk kata benda)' dapat digunakan untuk menyatakan suatu sebab atau alasan yang menimbulkan suatu keadaan, kejadian, atau perasaan tertentu di bagian akhir kalimat.",
+    "formula_template": "[Penyebab (Bentuk て / ないで / Benda + で)]、[Akibat / Perasaan]",
+    "ui_notes": "Batasan Penggunaan:\nBagian akhir (akibat) dari kalimat ini TIDAK BOLEH berupa ungkapan yang mengandung kemauan (Ayo/Mari), perintah (Lakukanlah), atau permohonan (Tolong/Bolehkah). \nBagian akhirnya hanya boleh diisi oleh:\n1. Ungkapan perasaan (Kaget, Senang, Kesepian, dll).\n2. Bentuk potensial negatif (Tidak bisa / Mustahil).\n3. Kejadian atau keadaan yang terjadi di luar kendali (Terlambat, Roboh, dll).",
     "examples": [
       {
-        "jp": "ニュースを聞いて、びっくりしました。",
-        "id": "(Saya) Kaget karena mendengar berita."
+        "jp": "ニュースを 聞いて、びっくりしました。",
+        "id": "Saya terkejut karena mendengar berita itu."
       },
       {
-        "jp": "家族に会えなくて、寂しいです。",
-        "id": "(Saya) Kesepian karena tidak dapat bertemu dengan keluarga."
+        "jp": "家族に 会えなくて、寂しいです。",
+        "id": "Saya kesepian karena tidak bisa bertemu dengan keluarga."
+      },
+      {
+        "jp": "土曜日は 都合が 悪くて、行けません。",
+        "id": "Hari Sabtu ini saya tidak bisa pergi karena berhalangan."
+      },
+      {
+        "jp": "事故が あって、バスが 遅れて しまいました。",
+        "id": "Busnya terlambat karena ada kecelakaan."
+      },
+      {
+        "jp": "地震で ビルが 倒れました。",
+        "id": "Gedung-gedung roboh karena (bencana) gempa bumi."
       }
     ],
     "tags": [
       "N4",
-      "Kata Kerja",
-      "Sebab-Akibat"
+      "Penyebab Alasan",
+      "Bentuk Te/De"
     ]
   },
   {
     "id": "m_bab39_2",
     "chapter": "Bab 39",
     "level": "N4",
-    "title": "A で",
-    "meaning": "Partikel で yang dibubuhkan pada kata benda yang menyatakan fenomena alam, kejadian, atau peristiwa (seperti gempa bumi, kecelakaan, penyakit) untuk menunjukkan sebab/alasan terjadinya sesuatu.",
-    "formula_template": "{A} で ~ (Akibat)",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} で ~ (Akibat)' untuk menyatakan: Partikel で yang dibubuhkan pada kata benda yang menyatakan fenomena alam, kejadian, atau peristiwa (seperti ge. Pastikan 'A' mewakili Kata Benda (Peristiwa).",
-    "ui_notes": "Partikel で yang dibubuhkan pada kata benda yang menyatakan fenomena alam, kejadian, atau peristiwa (seperti gempa bumi, kecelakaan, penyakit) untuk menunjukkan sebab/alasan terjadinya sesuatu.",
+    "title": "〜ので (Oleh Karena Itu... / Alasan Sopan)",
+    "meaning": "Fungsinya mirip dengan partikel '〜から' (karena/sebab), namun '〜ので' terdengar jauh lebih sopan, lembut, dan objektif. Sangat cocok digunakan untuk meminta izin, memberikan alasan kepada atasan, atau meminta maaf secara halus.",
+    "formula_template": "[Alasan Objektif (Bentuk Biasa)] + ので、",
+    "ui_notes": "Aturan Perubahan:\nKhusus untuk Kata Sifat-な & Kata Benda, akhiran 'だ' wajib diubah menjadi 'な' sebelum ditambahkan 'ので' (Contoh: 暇なので / Karena sedang luang --- 病気なので / Karena sakit).",
     "examples": [
       {
-        "jp": "地震でビルが倒れました。",
-        "id": "Gedung roboh karena terjadi gempa bumi."
+        "jp": "日本語が わからない ので、英語で 話して いただけませんか。",
+        "id": "Karena saya tidak mengerti bahasa Jepang, bisakah Anda berbicara menggunakan bahasa Inggris?"
       },
       {
-        "jp": "病気で会社を休みました。",
-        "id": "(Saya) Tidak masuk kerja karena sakit."
+        "jp": "用事が ある ので、お先に 失礼します。",
+        "id": "Karena ada urusan, izinkan saya pamit duluan."
       }
     ],
     "tags": [
       "N4",
-      "Partikel",
-      "Sebab Kejadian"
+      "Alasan Sopan",
+      "Permohonan Izin"
     ]
   },
   {
     "id": "m_bab39_3",
     "chapter": "Bab 39",
     "level": "N4",
-    "title": "普通形 ので、～",
-    "meaning": "Menyatakan sebab atau alasan. Karena ので bersifat objektif untuk menjelaskan akibat yang dituntun oleh sebab, maka cocok digunakan untuk memperlembut ekspresi alasan saat meminta izin atau pengertian (lebih halus daripada から).",
-    "formula_template": "{A}/ {B}-i / {C}-na / {D} ので",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}/ {B}-i / {C}-na / {D} ので' untuk menyatakan: Menyatakan sebab atau alasan. Karena ので bersifat objektif untuk menjelaskan akibat yang dituntun oleh sebab, m. Pastikan 'A' mewakili Kata Kerja, 'B' mewakili Kata Sifat, 'C' mewakili Kata Sifat, 'D' mewakili Kata Benda (Bentuk Biasa).",
-    "ui_notes": "Untuk Kata Sifat-na dan Kata Benda, bentuk biasa '～だ' berubah menjadi '～な' sebelum ditambah ので (Contoh: きれいなので, 休みなので).",
+    "title": "〜途中で (Di tengah perjalanan / Di tengah proses)",
+    "meaning": "Digunakan untuk menyatakan bahwa ada suatu kejadian, interupsi, atau tindakan lain yang terjadi tepat di tengah-tengah suatu proses perjalanan atau aktivitas yang sedang berlangsung.",
+    "formula_template": "[Kata Kerja Kamus (Aksi) / Kata Benda (Proses) + の] 途中で (Tochuu de)、",
+    "ui_notes": "Biasanya diterjemahkan sebagai: \"Saat sedang di tengah perjalanan...\" atau \"Di tengah-tengah berlangsungnya (suatu proses)...\"",
     "examples": [
       {
-        "jp": "日本語がわからないので、英語で話していただけませんか。",
-        "id": "Karena tidak mengerti bahasa Jepang, tolong berbicara dalam bahasa Inggris."
+        "jp": "実は 来る 途中で 事故が あって、バスが 遅れて しまったんです。",
+        "id": "Sebenarnya di tengah perjalanan saat mau ke sini ada kecelakaan, sehingga busnya terlambat."
       },
       {
-        "jp": "用事があるので、お先に失礼します。",
-        "id": "Karena ada urusan, (saya) pamit duluan."
+        "jp": "マラソンの 途中で 気分が 悪く なりました。",
+        "id": "Di tengah-tengah (proses) lari maraton, badan saya merasa kurang sehat (drop/mual)."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Alasan Sopan/Objektif"
-    ]
-  },
-  {
-    "id": "m_bab39_4",
-    "chapter": "Bab 39",
-    "level": "N4",
-    "title": "～途中で",
-    "meaning": "Bermakna 'di tengah perjalanan' menuju suatu tempat atau 'di tengah-tengah' melakukan suatu aktivitas/kejadian.",
-    "formula_template": "{A} / {B} の 途中で",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} / {B} の 途中で' untuk menyatakan: Bermakna 'di tengah perjalanan' menuju suatu tempat atau 'di tengah-tengah' melakukan suatu aktivitas/kejadian. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus), 'B' mewakili Kata Benda.",
-    "ui_notes": "Bermakna 'di tengah perjalanan' menuju suatu tempat atau 'di tengah-tengah' melakukan suatu aktivitas/kejadian.",
-    "examples": [
-      {
-        "jp": "実は来る途中で事故があって、バスが遅れてしまったんです。",
-        "id": "Soalnya, di tengah perjalanan (datang) ada kecelakaan hingga bus terlambat."
-      },
-      {
-        "jp": "マラソンの途中で気分が悪くなりました。",
-        "id": "Ketika sedang maraton, badan kurang enak."
-      }
-    ],
-    "tags": [
-      "N4",
-      "Pola Kalimat",
-      "Di Tengah Peristiwa"
+      "Di Tengah Proses",
+      "Interupsi Kejadian"
     ]
   }
 ]

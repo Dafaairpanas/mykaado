@@ -4,30 +4,9 @@
     "chapter": "Bab 28",
     "level": "N3",
     "title": "〜まで",
-    "meaning": "〜まで",
+    "meaning": "Pola ini digunakan untuk menyatakan batas waktu, batas tempat, atau batas suatu keadaan. Artinya 'sampai...', 'hingga...', 'sebelum...'. Dalam pola ini, 〜まで bisa berarti batas akhir suatu rentang waktu atau keadaan, dan sering dipakai untuk menyatakan 'sampai (kapan/apa) terjadi'. Berbeda dengan 〜までに yang berarti 'sebelum (batas waktu)', 〜まで menekankan kelanjutan sampai titik tersebut.",
     "formula_template": "{A}る まで / {B}まで.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}る まで / {B}まで.' untuk mengekspresikan: 〜まで.",
-    "ui_notes": "〜まで",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus + まで. Contoh: 始まる (hajimaru) → 始まるまで (sampai dimulai). 連絡がある (renraku ga aru) → 連絡があるまで (sampai ada kabar). (2) Kata benda + まで. Contoh: 駅 (eki) → 駅まで (sampai stasiun). 5時 (goji) → 5時まで (sampai jam 5). Contoh pemakaian: 映画が始まるまで30分あります (masih ada 30 menit sampai filmnya dimulai). 連絡があるまで待っています (saya menunggu sampai ada kabar/kontak). Perbedaan dengan 〜までに: 〜まで = sampai (kelanjutan), 〜までに = sebelum (batas waktu). Contoh: 5時まで待つ (menunggu sampai jam 5) vs 5時までに来る (datang sebelum jam 5).",
     "examples": [
       {
         "jp": "映画が始まるまで30分あります。",
@@ -48,36 +27,9 @@
     "chapter": "Bab 28",
     "level": "N3",
     "title": "〜から〜にかけて",
-    "meaning": "〜から〜にかけて",
+    "meaning": "Pola ini digunakan untuk menyatakan rentang waktu atau rentang tempat yang agak luas, dari titik A sampai titik B. Artinya 'dari... sampai...', 'membentang dari... hingga...'. Berbeda dengan 〜から〜まで yang jelas batasnya, 〜から〜にかけて menekankan rentang yang agak kabur atau perkiraan, dan sering dipakai untuk cuaca, musim, atau wilayah geografis.",
     "formula_template": "{A}から {B}にかけて ({C}: 時／場所).",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}から {B}にかけて ({C}: 時／場所).' untuk mengekspresikan: 〜から〜にかけて.",
-    "ui_notes": "〜から〜にかけて",
+    "ui_notes": "Cara membentuk: Kata benda (waktu/tempat) + から + kata benda (waktu/tempat) + にかけて. Contoh: 昼 (hiru) → 昼から夕方にかけて (dari siang sampai sore). 九州 (Kyuushu) → 九州から本州にかけて (dari Kyushu sampai Honshu). Contoh pemakaian: 明日は昼から夕方にかけて雨でしょう (besok kemungkinan hujan dari siang hingga sore hari). 九州から本州にかけて梅雨入りしました (musim hujan telah dimulai membentang dari Kyushu hingga Honshu). Perbedaan dengan 〜から〜まで: 〜から〜まで = batas jelas (dari A sampai B), 〜から〜にかけて = rentang agak kabur/perkiraan (sekitar A sampai B).",
     "examples": [
       {
         "jp": "明日は昼から夕方にかけて雨でしょう。",
@@ -98,20 +50,9 @@
     "chapter": "Bab 28",
     "level": "N3",
     "title": "〜において",
-    "meaning": "Mempunyai fungsi yang sama seperti partikel で, sering digunakan dalam bahasa tulis formal.",
+    "meaning": "Pola ini memiliki fungsi yang sama seperti partikel で, yaitu menunjukkan tempat, waktu, atau situasi. Artinya 'di...', 'pada...', 'dalam...'. Bedanya, 〜において lebih formal dan sering digunakan dalam bahasa tulis formal, pidato, laporan, atau dokumen resmi. Varian: 〜において (di/pada), 〜における + kata benda (di/pada...), 〜においても (juga di...).",
     "formula_template": "{A}において.",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}において.' untuk mengekspresikan: Mempunyai fungsi yang sama seperti partikel で, sering digunakan dalam bahasa tulis formal..",
-    "ui_notes": "Mempunyai fungsi yang sama seperti partikel で, sering digunakan dalam bahasa tulis formal.",
+    "ui_notes": "Cara membentuk: Kata benda + において. Contoh: 大阪 (Oosaka) → 大阪において (di Osaka). ホームページ (hoomu peeji) → ホームページにおいて (di situs web). Kata benda + における + kata benda. Contoh: 会議 (kaigi) → 会議における発表 (presentasi dalam rapat). Contoh pemakaian: 大阪において、国際会議が行われた (konferensi internasional telah diselenggarakan di Osaka). 結果はホームページにおいて発表されます (hasilnya akan diumumkan di situs web). Perbedaan dengan で: で = partikel biasa (kasual/umum), 〜において = lebih formal dan sering tertulis. Contoh: 大阪で会議がある (ada rapat di Osaka) vs 大阪において会議が行われる (rapat dilaksanakan di Osaka — lebih formal).",
     "examples": [
       {
         "jp": "大阪において、国際会議が行われた。",

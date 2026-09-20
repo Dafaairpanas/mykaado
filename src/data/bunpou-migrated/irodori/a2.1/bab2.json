@@ -1,0 +1,159 @@
+[
+  {
+    "id": "irodori_a2.1_bab2_1",
+    "chapter": 2,
+    "level": "A2.1",
+    "title": "V-ることです",
+    "meaning": "Adalah [V] (Menyatakan hobi/aktivitas)",
+    "formula_template": "V-る (Kamus) + こと + です",
+    "ui_notes": "Digunakan untuk mengubah kata kerja (verba) menjadi kata benda, khususnya saat menyatakan hobi atau kegiatan yang disukai.\n\n* Contoh dasar: **趣味は旅行（りょこう）です** (Hobi saya wisata).\n* Kalau pakai kata kerja: **趣味は映画（えいが）を見ることです** (Hobi saya menonton film).\n* Untuk kata kerja berakhiran **する** (seperti 料理する, 勉強する), boleh diucapkan: **趣味は料理をすることです** ATAU **趣味は料理です**.",
+    "examples": [
+      {
+        "japanese": "趣味は映画を見ることです。",
+        "indonesian": "Hobiku menonton film.",
+        "romaji": "Shumi wa eiga o miru koto desu."
+      },
+      {
+        "japanese": "Ａ： 趣味は何ですか？\nＢ： 趣味？ うーん、音楽を聞くことです。",
+        "indonesian": "A: Apa hobimu?\nB: Hobi? Hmm... Mendengarkan musik.",
+        "romaji": "A: Shumi wa nan desu ka?\nB: Shumi? Uun, ongaku o kiku koto desu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 2", "koto", "hobi"]
+  },
+  {
+    "id": "irodori_a2.1_bab2_2",
+    "chapter": 2,
+    "level": "A2.1",
+    "title": "V-るのが好きです",
+    "meaning": "Suka [V]",
+    "formula_template": "V-る (Kamus) + のが + 好きです",
+    "ui_notes": "Sama seperti **こと**, penambahan **の** pada kata kerja bentuk kamus berfungsi untuk mengubahnya menjadi kata benda.\n\n* Bentuk negatifnya: **～のは好きじゃないです** atau **～のは好きじゃありません**.",
+    "examples": [
+      {
+        "japanese": "ゲームをするのが好きです。",
+        "indonesian": "Saya suka main gim (game).",
+        "romaji": "Geemu o suru no ga suki desu."
+      },
+      {
+        "japanese": "テニスは、するのも見るのも大好きです。",
+        "indonesian": "Saya suka bermain dan menonton tenis.",
+        "romaji": "Tenisu wa, suru no mo miru no mo daisuki desu."
+      },
+      {
+        "japanese": "出かけるのは、あまり好きじゃないです。",
+        "indonesian": "Saya tidak begitu suka bepergian.",
+        "romaji": "Dekakeru no wa, amari suki janai desu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 2", "suka", "hobi"]
+  },
+  {
+    "id": "irodori_a2.1_bab2_3",
+    "chapter": 2,
+    "level": "A2.1",
+    "title": "【orang / 人】と 【tempat / 場所】で V-ます",
+    "meaning": "Melakukan [V] bersama [Orang] di [Tempat]",
+    "formula_template": "Orang + と + Tempat + で + V-ます",
+    "ui_notes": "Digunakan untuk menyatakan **di mana** dan **dengan siapa** kita melakukan suatu aktivitas.\n\n* **で**: menunjukkan tempat kegiatan.\n* **と**: menunjukkan teman/orang yang ikut serta.\n* Urutan penyebutannya bebas, bisa *Tempat* dulu atau *Orang* dulu.",
+    "examples": [
+      {
+        "japanese": "休みの日は、たいてい友だちと体育館でバドミントンをします。",
+        "indonesian": "Pada hari libur, saya biasanya bermain bulu tangkis bersama teman di gedung olahraga.",
+        "romaji": "Yasumi no hi wa, taitei tomodachi to taiikukan de badominton o shimasu."
+      },
+      {
+        "japanese": "Ａ： いつも、どこでサッカーをしますか？\nＢ： 公園でします。\nＡ： だれとしますか？\nＢ： 会社の友だちとです。",
+        "indonesian": "A: Di mana biasanya kamu bermain sepak bola?\nB: Di taman.\nA: Dengan siapa?\nB: Dengan teman kantor.",
+        "romaji": "A: Itsumo, doko de sakkaa o shimasu ka?\nB: Kouen de shimasu.\nA: Dare to shimasu ka?\nB: Kaisha no tomodachi to desu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 2", "tempat", "partikel to", "partikel de"]
+  },
+  {
+    "id": "irodori_a2.1_bab2_4",
+    "chapter": 2,
+    "level": "A2.1",
+    "title": "V1-て、V2",
+    "meaning": "Melakukan V1, lalu V2 (Berurutan)",
+    "formula_template": "V1-て, V2",
+    "ui_notes": "Digunakan untuk menyambungkan dua atau lebih kegiatan yang dilakukan secara berurutan. Kata kerja pertama diubah menjadi bentuk-て.\n\n* Bisa dipakai untuk menyatakan kebiasaan, masa lampau, maupun rencana masa depan.",
+    "examples": [
+      {
+        "japanese": "毎週、夕方までバドミントンをして、そのあと、みんなでご飯を食べます。",
+        "indonesian": "Setiap minggu kami main bulu tangkis sampai sore, setelah itu makan bersama.",
+        "romaji": "Maishuu, yuugata made badominton o shite, sono ato, minna de gohan o tabemasu."
+      },
+      {
+        "japanese": "昨日は、バドミントンをして、そのあと、みんなでご飯を食べました。",
+        "indonesian": "Kemarin kami main bulu tangkis, setelah itu makan bersama.",
+        "romaji": "Kinou wa, badominton o shite, sono ato, minna de gohan o tabemashita."
+      },
+      {
+        "japanese": "来週の日曜日は、バドミントンをして、そのあと、みんなでご飯を食べたいです。",
+        "indonesian": "Hari Minggu pekan depan kami ingin main bulu tangkis, setelah itu makan bersama.",
+        "romaji": "Raishuu no nichiyoubi wa, badominton o shite, sono ato, minna de gohan o tabetai desu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 2", "te-form", "urutan aksi"]
+  },
+  {
+    "id": "irodori_a2.1_bab2_5",
+    "chapter": 2,
+    "level": "A2.1",
+    "title": "V-ています ②",
+    "meaning": "Sedang/Rutin [V] (Kebiasaan jangka panjang)",
+    "formula_template": "V-て + います",
+    "ui_notes": "Selain digunakan untuk menyatakan pekerjaan saat ini (seperti di Bab 1), pola ini juga digunakan untuk menceritakan **kebiasaan atau aktivitas yang berulang kali dilakukan dalam jangka waktu tertentu**.",
+    "examples": [
+      {
+        "japanese": "いけばなを習っています。",
+        "indonesian": "Saya sedang belajar merangkai bunga.",
+        "romaji": "Ikebana o naratte imasu."
+      },
+      {
+        "japanese": "週に1回、中国語を勉強しています。",
+        "indonesian": "Saya belajar bahasa Mandarin seminggu sekali.",
+        "romaji": "Shuu ni ikkai, chuugokugo o benkyou shite imasu."
+      },
+      {
+        "japanese": "去年から、空手を習っています。",
+        "indonesian": "Saya belajar karate sejak setahun yang lalu.",
+        "romaji": "Kyonen kara, karate o naratte imasu."
+      },
+      {
+        "japanese": "毎朝、ジョギングをしています。",
+        "indonesian": "Saya joging setiap pagi.",
+        "romaji": "Maiasa, jogingu o shite imasu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 2", "te-imasu", "kebiasaan"]
+  },
+  {
+    "id": "irodori_a2.1_bab2_6",
+    "chapter": 2,
+    "level": "A2.1",
+    "title": "Nができます",
+    "meaning": "Bisa / Mampu melakukan [N]",
+    "formula_template": "N + が + できます",
+    "ui_notes": "Digunakan untuk menyatakan **kemampuan** atau keterampilan seseorang (seperti bahasa asing, olahraga, alat musik).\n\n* Untuk menyebut nama bahasa, tambahkan **～語（ご）** di belakang nama negaranya (misal: 日本語 = bahasa Jepang).",
+    "examples": [
+      {
+        "japanese": "日本語、英語、フィリピノ語、スペイン語ができます。",
+        "indonesian": "Saya bisa bahasa Jepang, Inggris, Filipina, dan Spanyol.",
+        "romaji": "Nihongo, eigo, Firipinogo, Supeingo ga dekimasu."
+      },
+      {
+        "japanese": "Ａ： 日本語ができますか？\nＢ： はい、少しできます。",
+        "indonesian": "A: Apakah kamu bisa bahasa Jepang?\nB: Ya, bisa sedikit.",
+        "romaji": "A: Nihongo ga dekimasu ka?\nB: Hai, sukoshi dekimasu."
+      },
+      {
+        "japanese": "私はテニスができます。ピアノもできます。",
+        "indonesian": "Saya bisa main tenis. Main piano juga bisa.",
+        "romaji": "Watashi wa tenisu ga dekimasu. Piano mo dekimasu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 2", "dekimasu", "kemampuan"]
+  }
+]

@@ -13,9 +13,9 @@ export default function AdminLogin() {
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
     // Hardcoded simple password for admin access
-    if (password === "admin123") {
+    if (password === "@r27Pd81") {
       localStorage.setItem("admin_auth", "true");
-      router.push("/admin");
+      router.push("/adminadit");
     } else {
       setError(true);
     }

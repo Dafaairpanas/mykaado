@@ -6,51 +6,6 @@
     "title": "Nで、〜 / ナA-で、〜 / イA-くて、〜 — Penghubung Sifat",
     "meaning": "Pola untuk menggabungkan dua kata sifat atau lebih untuk mendeskripsikan suatu benda atau tempat. Untuk kata benda (N) dan kata sifat-na (ナA), gunakan 'で' sebagai penghubung. Untuk kata sifat-i (イA), ubah 'い' menjadi 'くて'. Sangat berguna saat memberikan kesan tentang suatu tempat. Artinya '[Sifat1], dan [Sifat2]'.",
     "formula_template": "{A} で {B} / {C} → {D} {E}",
-    "variables": {
-      "A": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "E": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} で {B} / {C} → {D} {E}' untuk percakapan: Pola untuk menggabungkan dua kata sifat atau lebih untuk mendeskripsikan suatu benda atau tempat. Untuk kata b. Pastikan 'A' mewakili N/ナA, 'B' mewakili Sifat2, 'C' mewakili イA-い, 'D' mewakili イA-くて, 'E' mewakili Sifat2.",
     "ui_notes": "Untuk kata benda (N): 学生で、日本語を勉強しています (Saya pelajar dan sedang belajar bahasa Jepang). Untuk kata sifat-na: 静かで、広いです (Tenang dan luas). Untuk kata sifat-i: 新しくて、きれいです (Baru dan bersih). Bisa menggabungkan lebih dari 2 sifat dengan pola yang sama.",
     "examples": [
       {
@@ -76,53 +31,6 @@
     "title": "Nだ／ナA-だ／イA-い けど、〜 — ... tapi ...",
     "meaning": "Pola untuk menggabungkan dua kalimat dengan makna kontras atau bertentangan. 'けど' (atau 'けれども' lebih formal) berarti 'tetapi' atau 'meskipun'. Untuk kata benda (N) dan kata sifat-na (ナA), gunakan 'だ' sebelum 'けど'. Untuk kata sifat-i (イA), langsung tambahkan 'けど'. Artinya '[Kalimat1], tetapi [Kalimat2]'.",
     "formula_template": "{A} けど、{B} / {C} けど、{D}",
-    "variables": {
-      "A": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} けど、{B} / {C} けど、{D}' untuk percakapan: Pola untuk menggabungkan dua kalimat dengan makna kontras atau bertentangan. 'けど' (atau 'けれども' lebih formal) b. Pastikan 'A' mewakili N/ナA-だ, 'B' mewakili Kalimat2, 'C' mewakili イA-い, 'D' mewakili Kalimat2.",
     "ui_notes": "'けど' adalah bentuk kasual dari 'けれども' yang lebih formal. Dalam percakapan sehari-hari, 'けど' sangat umum digunakan. Untuk kata benda: 学生だけど、働いています (Meskipun pelajar, saya bekerja). Untuk kata sifat-i: 安いけど、おいしいです (Meskipun murah, enak).",
     "examples": [
       {
@@ -148,19 +56,6 @@
     "title": "V-ることができます — Dapat Melakukan",
     "meaning": "Pola kalimat untuk menyatakan kemampuan atau kemungkinan melakukan suatu tindakan. 'こと' mengubah kata kerja menjadi kata benda, dan 'ができます' berarti 'dapat' atau 'bisa'. Berbeda dengan 'Nができます' (bisa N) yang untuk kata benda, pola ini untuk kata kerja. Artinya 'Dapat melakukan [aktivitas]'.",
     "formula_template": "{A} ことができます",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ことができます' untuk percakapan: Pola kalimat untuk menyatakan kemampuan atau kemungkinan melakukan suatu tindakan. 'こと' mengubah kata kerja me. Pastikan 'A' mewakili Kata Kerja Bentuk Kamus.",
     "ui_notes": "Bentuk potensial lain: 'V-られます' (bisa V) juga bisa digunakan, tetapi 'V-ることができます' lebih formal dan umum digunakan untuk menyatakan kemungkinan/kemampuan secara umum. Contoh: ここで泳ぐことができます (Anda bisa berenang di sini). Untuk negatif: ことができません (tidak bisa).",
     "examples": [
       {

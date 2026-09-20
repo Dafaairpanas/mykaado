@@ -4,22 +4,9 @@
     "chapter": "Bab 02",
     "level": "N3",
     "title": "〜ないと",
-    "meaning": "bentuk pendek dari 〜ないといけない atau 〜なければならない",
+    "meaning": "Pola ini adalah bentuk pendek (kasual) dari 〜ないといけない atau 〜なければならない yang berarti 'harus'. Dalam percakapan sehari-hari, orang Jepang sering memotong kalimatnya dan hanya mengucapkan 〜ないと, sehingga terdengar lebih santai dan natural. Meskipun kalimatnya terpotong, makna kewajiban atau keharusan tetap tersampaikan. Sering juga dipakai untuk menyatakan kesadaran diri sendiri bahwa 'saya harus melakukan sesuatu'. Varian lain yang lebih kasual: 〜なくちゃ (dari 〜なくては) dan 〜なきゃ (dari 〜なければ).",
     "formula_template": "{A}ないと | 〜なくちゃ | 〜なきゃ",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}ないと | 〜なくちゃ | 〜なきゃ' untuk mengekspresikan: bentuk pendek dari 〜ないといけない atau 〜なければならない.",
-    "ui_notes": "bentuk pendek dari 〜ないといけない atau 〜なければならない",
+    "ui_notes": "Cara membentuk: Ambil kata kerja bentuk negatif kasual (ない形), lalu tambahkan と. Contoh: 寝る (neru) → 寝ない (nenai) → 寝ないと (nenai to). Untuk 〜なくちゃ: kata kerja bentuk negatif ない → なくちゃ. Contoh: 寝ない → 寝なくちゃ. Untuk 〜なきゃ: kata kerja bentuk negatif ない → なきゃ. Contoh: 寝ない → 寝なきゃ. Ketiganya sama-sama berarti 'harus'. 〜ないと paling netral, 〜なくちゃ sedikit lebih manis/lembut, 〜なきゃ paling sering dipakai dan terdengar paling kasual. Pola ini biasanya diakhiri dengan intonasi menurun, dan sering tidak perlu melanjutkan dengan いけない karena sudah dipahami.",
     "examples": [
       {
         "jp": "明日は早く出かけるから、もう寝ないと。",
@@ -40,32 +27,9 @@
     "chapter": "Bab 02",
     "level": "N3",
     "title": "〜ちゃった",
-    "meaning": "sering digunakan dalam bahasa lisan; ✓ menjelaskan sesuatu yang dilakukan sampai selesai, habis; ✓ dalam konteks tertentu ada perasaan kecewa, menyesal, tidak s",
+    "meaning": "Pola ini adalah bentuk kasual dari 〜てしまう (dan 〜でしまう). Sering digunakan dalam bahasa lisan. Memiliki dua nuansa utama: (1) menyatakan bahwa suatu tindakan telah selesai sepenuhnya atau habis, dan (2) menyatakan perasaan kecewa, menyesal, atau tidak sengaja melakukan sesuatu. Dalam percakapan, 〜てしまう disingkat menjadi 〜ちゃう, dan 〜でしまう menjadi 〜じゃう. Bentuk lampau 〜ちゃった / 〜じゃった sering dipakai untuk mengungkapkan penyesalan atau keluhan ringan, misalnya 'yah, sudah terlanjur...' atau 'aduh, sudah habis...'.",
     "formula_template": "{A}てしまう → ちゃう | {B}でしまう → じゃう",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}てしまう → ちゃう | {B}でしまう → じゃう' untuk mengekspresikan: sering digunakan dalam bahasa lisan; ✓ menjelaskan sesuatu yang dilakukan sampai selesai, habis; ✓ dalam konte.",
-    "ui_notes": "sering digunakan dalam bahasa lisan; ✓ menjelaskan sesuatu yang dilakukan sampai selesai, habis; ✓ dalam konteks tertentu ada perasaan kecewa, menyesal, tidak sengaja (~ちゃった)",
+    "ui_notes": "Cara membentuk: Ambil kata kerja bentuk て, lalu ubah てしまう menjadi ちゃう, dan でしまう menjadi じゃう. Contoh: 食べてしまう (tabete shimau) → 食べちゃう (tabechau). 飲んでしまう (nonde shimau) → 飲んじゃう (nonjau). Untuk bentuk lampau: 食べちゃった (tabechatta), 飲んじゃった (nonjatta). Nuansa: (1) Selesai total: ケーキを食べちゃった = kue sudah habis aku makan. (2) Penyesalan/tidak sengaja: 財布を忘れちゃった = dompetku (terlanjur) lupa bawa. Dalam bahasa Indonesia sering diterjemahkan dengan 'sudah terlanjur', 'sudah habis', 'aduh jadi...', atau 'yah... sudah...'.",
     "examples": [
       {
         "jp": "A:「ここにあったチョコレートは？」 B:「あ、食べちゃった。」",
@@ -86,32 +50,9 @@
     "chapter": "Bab 02",
     "level": "N3",
     "title": "〜とく",
-    "meaning": "sering digunakan dalam bahasa lisan; ✓ melakukan sesuatu perbuatan sebagai sebuah persiapan; ✓ bisa juga untuk mempertahankan suatu kondisi atau keadaan",
+    "meaning": "Pola ini adalah bentuk kasual dari 〜ておく (dan 〜でおく). Sering digunakan dalam bahasa lisan. Memiliki dua makna utama: (1) melakukan sesuatu sebagai persiapan untuk masa depan, dan (2) mempertahankan suatu kondisi atau keadaan agar tetap seperti itu. Dalam percakapan, 〜ておく disingkat menjadi 〜とく, dan 〜でおく menjadi 〜どく. Bentuk ini sangat umum dalam percakapan sehari-hari, terutama ketika memberi instruksi santai, mengingatkan diri sendiri, atau menyuruh orang lain melakukan sesuatu sebagai persiapan.",
     "formula_template": "{A}ておく → とく | {B}でおく → どく",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}ておく → とく | {B}でおく → どく' untuk mengekspresikan: sering digunakan dalam bahasa lisan; ✓ melakukan sesuatu perbuatan sebagai sebuah persiapan; ✓ bisa juga untuk.",
-    "ui_notes": "sering digunakan dalam bahasa lisan; ✓ melakukan sesuatu perbuatan sebagai sebuah persiapan; ✓ bisa juga untuk mempertahankan suatu kondisi atau keadaan",
+    "ui_notes": "Cara membentuk: Ambil kata kerja bentuk て, lalu ubah ておく menjadi とく, dan でおく menjadi どく. Contoh: 書いておく (kaite oku) → 書いとく (kaitoku). 洗っておく (aratte oku) → 洗っとく (arattoku). 読んでおく (yonde oku) → 読んどく (yondoku). Untuk bentuk sopan tetap gunakan 〜ておきます, tetapi dalam percakapan kasual 〜とく / 〜どく jauh lebih sering dipakai. Nuansa: (1) Persiapan: 明日の準備をしとく = aku siapkan dulu untuk besok. (2) Mempertahankan kondisi: エアコンをつけとく = biarkan AC tetap menyala. Dalam bahasa Indonesia sering diterjemahkan dengan 'dulu', 'terlebih dahulu', 'biarkan', atau 'siapkan'.",
     "examples": [
       {
         "jp": "テストで間違ったところを、ノートに書いとこう。",

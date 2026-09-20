@@ -1,0 +1,90 @@
+[
+  {
+    "id": "i_a1_bab9_1",
+    "chapter": "Bab 9",
+    "level": "A1",
+    "title": "Titik Waktu (〜に / 〜ごろ)",
+    "meaning": "Alarm Rutinitas! Menentukan koordinat WAKTU SPESIFIK dan PASTI kapan tepatnya sebuah kegiatan atau aksi dilakukan (Jam berapa bangun tidur, dll).",
+    "formula_template": "1. [Jam Waktu Spesifik] + に (Tepat/Pada) + [Kata Kerja]\n2. [Jam Waktu Spesifik] + ごろ (Kira-kira/Sekitar) + [Kata Kerja]",
+    "ui_notes": "Sangat manjur digunakan saat mengintrogasi rutinitas teman: **「朝、何時に 起きますか？」** (Pagi-pagi tepatnya jam berapa kamu bangun?).",
+    "examples": [
+      {
+        "jp": "5時に 起きます。",
+        "id": "Saya bangkit tidur TEPAT PADA pukul 05:00."
+      },
+      {
+        "jp": "11時ごろ 寝ます。",
+        "id": "Saya rebahan tidur SEKITAR KISARAN pukul 11:00."
+      },
+      {
+        "jp": "夜は、何時に 寝ますか？ ……だいたい、12時ごろです。",
+        "id": "Kalau malem, TEPAT PADA jam berapa tidurnya? ...... Rata-rata ya, SEKITAR KISARAN jam 12:00 (Disingkat desu)."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Titik Jam Waktu",
+      "Tepat Pada / Sekitar"
+    ]
+  },
+  {
+    "id": "i_a1_bab9_2",
+    "chapter": "Bab 9",
+    "level": "A1",
+    "title": "Dari ... Sampai ... (〜から 〜まで)",
+    "meaning": "Rentang Garis Waktu! Mengunci jadwal durasi. Menentukan dengan pasti kapan sebuah jadwal kegiatan DIMULAI dan kapan BERAKHIRNYA.",
+    "formula_template": "[Jam Dimulai] + から (Dari) + [Jam Berakhir] + まで (Sampai)",
+    "ui_notes": "",
+    "examples": [
+      {
+        "jp": "12時から 1時まで、昼休みです。",
+        "id": "Jatah jam istirahat siang adalah DARI jam 12:00 SAMPAI jam 13:00."
+      },
+      {
+        "jp": "仕事は、何時から ですか？ ……朝 9時から です。",
+        "id": "Jadwal kerjanya, dimulai DARI jam berapa? ...... DARI jam 09:00 pagi."
+      },
+      {
+        "jp": "何時まで ですか？ ……午後 6時まで です。",
+        "id": "Berakhir SAMPAI jam berapa? ...... SAMPAI jam 06:00 sore."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Rentang Jadwal",
+      "Dari dan Sampai Waktu"
+    ]
+  },
+  {
+    "id": "i_a1_bab9_3",
+    "chapter": "Bab 9",
+    "level": "A1",
+    "title": "Pencocokan Jadwal Senggang (〜が いいです)",
+    "meaning": "Kalender Ketemuan! Jurus negosiasi untuk menyetujui, menawarkan, atau memberitahu pihak lawan mengenai hari / waktu kapan Anda sangat SENGGANG DAN COCOK untuk janjian.",
+    "formula_template": "[Hari / Jam Senggang] + が + いいです (Cocok / Pas di Hati)",
+    "ui_notes": "SOP PENOLAKAN JADWAL BENTROK:\nJika lawan main menawari jadwal yang kebetulan bentrok dengan jadwal Anda, tolaklah dengan halus memakai jurus: **「〜は ちょっと…」** (Aduh kalau jam segitu agak...) atau **「〜はだめです」** (Kalau jam segitu saya nggak bisa).",
+    "examples": [
+      {
+        "jp": "私は、土曜日が いいです。",
+        "id": "Kalau saya, (jadwal janjian yang) SENGGANG DAN PAS adalah hari Sabtu."
+      },
+      {
+        "jp": "ご飯、いつが いいですか？ ……土曜日が いいです。",
+        "id": "(Untuk urusan) Makan bareng, KAPAN WAKTU YANG PAS (bagi Anda)? ...... Hari Sabtu PAS buat saya."
+      },
+      {
+        "jp": "何時が いいですか？ 6時は？ ……すみません。6時は ちょっと…。",
+        "id": "JAM BERAPA YANG PAS? Gimana kalau tawaran jam 06:00? ...... Mohon maaf, kalau jam 06:00 AGAK GIMANA GITU (Gak bisa euy)."
+      },
+      {
+        "jp": "じゃあ、7時は？ ……だいじょうぶです。",
+        "id": "Kalau tawaran jam 07:00? ...... Gak masalah, Aman!"
+      }
+    ],
+    "tags": [
+      "A1",
+      "Negosiasi Janjian",
+      "Jadwal Pas (Ga Iidesu)"
+    ]
+  }
+]

@@ -4,39 +4,9 @@
     "chapter": "Bab 11",
     "level": "N3",
     "title": "〜というより",
-    "meaning": "daripada..., bukan.... tapi...",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa ungkapan atau sebutan yang lebih tepat bukanlah A, melainkan B. Artinya 'daripada disebut A, lebih tepat disebut B', 'bukan A, melainkan B'. Pembicara membandingkan dua cara menyebut sesuatu, lalu menegaskan bahwa sebutan kedua lebih akurat. Bentuk kasualnya adalah 〜というか. Pola ini sering dipakai untuk mengoreksi atau memperhalus pernyataan sebelumnya.",
     "formula_template": "[{A}/{B}/{C}(biasa)] [というより / というか]",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}/{B}/{C}(biasa)] [というより / というか]' untuk mengekspresikan: daripada..., bukan.... tapi....",
-    "ui_notes": "daripada..., bukan.... tapi...",
+    "ui_notes": "Cara membentuk: Frasa/kata bentuk biasa + というより. Contoh: 走る (hashiru) → 走るというより (daripada disebut berlari). 涼しい (suzushii) → 涼しいというより (daripada disebut sejuk). Struktur lengkap: [A] というより [B] (lebih tepat B daripada A). Contoh: 前の車は遅すぎて、走るというよりはっているようだ (mobil depan lambat sekali, daripada disebut berjalan, lebih tepat disebut merangkak). 今日は涼しいというより寒いくらいだった (hari ini lebih tepat disebut dingin daripada sejuk). Bentuk kasual 〜というか lebih santai, sering dipakai untuk mengoreksi diri sendiri. Contoh: 彼は先生というか、友達みたいな人だ (dia lebih seperti teman daripada guru).",
     "examples": [
       {
         "jp": "前の車は遅すぎて、走るというよりはっているようだ。",
@@ -57,39 +27,9 @@
     "chapter": "Bab 11",
     "level": "N3",
     "title": "〜というと",
-    "meaning": "kalau ngomongin soal...",
+    "meaning": "Pola ini digunakan ketika pembicara mendengar suatu kata/topik, lalu mengaitkannya dengan gambaran, asosiasi, atau hal yang paling khas dari kata tersebut. Artinya 'kalau ngomongin soal...', 'kalau mendengar...', 'mengenai...'. Varian lain: 〜といえば (kalau bicara tentang...) dan 〜といったら (kalau soal..., lebih emosional/penekanan). Sering dipakai untuk memulai topik yang berhubungan dengan kata kunci tertentu.",
     "formula_template": "[{A}/{B}/{C}(biasa)] [というと / といえば / といったら]",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}/{B}/{C}(biasa)] [というと / といえば / といったら]' untuk mengekspresikan: kalau ngomongin soal....",
-    "ui_notes": "kalau ngomongin soal...",
+    "ui_notes": "Cara membentuk: Kata benda + というと / といえば / といったら. Contoh: 京都 (Kyoto) → 京都というと (kalau ngomongin Kyoto). 日本の食べ物 (nihon no tabemono) → 日本の食べ物といえば (kalau bicara makanan Jepang). Pola ini diikuti oleh gambaran/asosiasi pembicara. Contoh: 京都というと、お寺をイメージします (kalau membahas Kyoto, saya membayangkan kuil). 日本の食べ物といえば、おすしがいちばん有名だと思います (kalau membicarakan makanan Jepang, menurut saya sushi yang paling terkenal). Perbedaan nuansa: 〜というと = netral, 〜といえば = menyebut hal yang khas/terkenal, 〜といったら = lebih emosional dan menekankan. Contoh: 彼の料理といったら、もう最高だ (kalau soal masakannya, luar biasa!).",
     "examples": [
       {
         "jp": "京都というと、お寺をイメージします。",
@@ -110,39 +50,9 @@
     "chapter": "Bab 11",
     "level": "N3",
     "title": "〜といっても",
-    "meaning": "meskipun dikatakan... tapi",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa meskipun sesuatu disebut dengan kata tertentu, kenyataannya tidak sebesar atau sehebat yang dibayangkan. Artinya 'meskipun dikatakan... tapi (sebenarnya hanya...)', 'walaupun disebut...'. Fungsinya sering untuk merendahkan atau membatasi pernyataan sebelumnya, sehingga tidak menimbulkan kesan berlebihan.",
     "formula_template": "[{A}/{B}/{C}(biasa)] といっても",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}/{B}/{C}(biasa)] といっても' untuk mengekspresikan: meskipun dikatakan... tapi.",
-    "ui_notes": "meskipun dikatakan... tapi",
+    "ui_notes": "Cara membentuk: Kata/frasa bentuk biasa + といっても. Contoh: 旅行 (ryokou) → 旅行といっても (meskipun disebut wisata). 日本語が話せる (nihongo ga hanaseru) → 日本語が話せるといっても (meskipun disebut bisa bahasa Jepang). Struktur: [A] といっても [B] (meskipun A, tetapi sebenarnya hanya B). Contoh: 旅行といっても、近くの温泉に行っただけですが (meskipun disebut wisata, sebenarnya hanya pergi ke onsen terdekat). 日本語が話せるといっても、簡単な挨拶だけです (meskipun dibilang bisa bahasa Jepang, hanya salam sederhana saja). Pola ini sering dipakai untuk merendah atau mengoreksi kesan berlebihan dari pernyataan sebelumnya.",
     "examples": [
       {
         "jp": "週末は旅行しました。",

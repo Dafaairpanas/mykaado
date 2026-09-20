@@ -3,21 +3,10 @@
     "id": "m_bab10_1",
     "chapter": "Bab 10",
     "level": "N5",
-    "title": "Aが あります／います",
-    "meaning": "あります dan います menyatakan keberadaan benda atau orang. あります digunakan untuk benda mati atau tumbuhan yang tidak bergerak sendiri. います digunakan untuk orang atau benda yang bergerak dengan sendirinya.",
-    "formula_template": "{A} が あります/います",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} が あります/います' untuk menyatakan: あります dan います menyatakan keberadaan benda atau orang. あります digunakan untuk benda mati atau tumbuhan yang tidak . Pastikan 'A' mewakili Kata Benda.",
-    "ui_notes": "Kalimat ini menggambarkan secara langsung untuk menyampaikan keberadaan benda atau orang dengan partikel が.",
+    "title": "があります / がいます (Ada / Keberadaan)",
+    "meaning": "'あります' (arimasu) dan 'います' (imasu) adalah sepasang kata kerja khusus yang digunakan secara spesifik untuk menyatakan \"keberadaan\" (ada) atau eksistensi suatu hal secara harfiah.",
+    "formula_template": "[Benda/Orang] が あります / います",
+    "ui_notes": "Aturan penggolongannya sangat tegas: 'あります' HANYA dipakai untuk benda mati, tumbuhan, benda diam, dan sesuatu yang abstrak. Sedangkan 'います' HANYA dipakai untuk makhluk hidup yang bisa bergerak dengan sendirinya (manusia, hewan).",
     "examples": [
       {
         "jp": "コンピューターが あります。",
@@ -25,43 +14,31 @@
       },
       {
         "jp": "桜が あります。",
-        "id": "Ada Sakura."
+        "id": "Ada (pohon) sakura."
+      },
+      {
+        "jp": "男の 人が います。",
+        "id": "Ada orang laki-laki."
+      },
+      {
+        "jp": "犬が います。",
+        "id": "Ada anjing."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Keberadaan"
+      "Keberadaan",
+      "Kata Kerja"
     ]
   },
   {
     "id": "m_bab10_2",
     "chapter": "Bab 10",
     "level": "N5",
-    "title": "A に Bが あります／います",
-    "meaning": "Menyatakan keberadaan benda atau orang di suatu tempat. Tempat keberadaannya dinyatakan dengan partikel に.",
-    "formula_template": "{A} に {B} が あります/います",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} に {B} が あります/います' untuk menyatakan: Menyatakan keberadaan benda atau orang di suatu tempat. Tempat keberadaannya dinyatakan dengan partikel に.. Pastikan 'A' mewakili Tempat, 'B' mewakili Kata Benda.",
-    "ui_notes": "Kata tanya なに digunakan untuk menanyakan benda/binatang, だれ untuk menanyakan orang. Partikel di belakang kata tanya tetap が, bukan は.",
+    "title": "Tempat に Benda が あります / います",
+    "meaning": "Pola kalimat ini difokuskan pada \"TITIK LOKASI\". Tujuannya adalah untuk mendeskripsikan secara objektif bahwa \"di suatu tempat tertentu, terdapat benda atau orang\". Partikel 'に' menunjuk titik koordinat lokasi tersebut.",
+    "formula_template": "[Tempat] に [Benda/Orang] が あります / います",
+    "ui_notes": "SANGAT PENTING: Jika menggunakan kalimat tanya untuk pola ini, Anda harus bertanya '何が' (Nani ga = ada apa) untuk benda atau 'だれが' (Dare ga = ada siapa) untuk orang. Partikelnya HARUS tetap 'が', dan tidak boleh diganti menjadi 'は' (jangan menggunakan なには / だれは).",
     "examples": [
       {
         "jp": "わたしの 部屋に 机が あります。",
@@ -70,85 +47,70 @@
       {
         "jp": "事務所に ミラーさんが います。",
         "id": "Di kantor ada Sdr. Miller."
+      },
+      {
+        "jp": "地下に 何が ありますか。",
+        "id": "Di lantai basemen ada apa?"
+      },
+      {
+        "jp": "受付に だれが いますか。",
+        "id": "Di resepsionis ada siapa?"
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Lokasi Keberadaan"
+      "Partikel",
+      "Titik Lokasi"
     ]
   },
   {
     "id": "m_bab10_3",
     "chapter": "Bab 10",
     "level": "N5",
-    "title": "Aは B に あります／います",
-    "meaning": "Menyatakan keberadaan suatu benda/orang (sebagai topik pembicaraan) di suatu tempat. Benda yang dibicarakan diletakkan paling depan dengan partikel は.",
-    "formula_template": "{A} は {B} に あります/います",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は {B} に あります/います' untuk menyatakan: Menyatakan keberadaan suatu benda/orang (sebagai topik pembicaraan) di suatu tempat. Benda yang dibicarakan di. Pastikan 'A' mewakili Kata Benda (Topik), 'B' mewakili Tempat.",
-    "ui_notes": "Kata Benda di sini adalah hal yang telah diakui/diketahui oleh kedua belah pihak (pembicara dan lawan bicara). Pola ini dapat diganti dengan 'Kata Benda は tempat です' (misal: 東京ディズニーランドは どこですか。……千葉県です。).",
+    "title": "Benda は Tempat に あります / います",
+    "meaning": "Pola ini difokuskan pada \"BENDA/ORANG\"-nya. Tujuannya adalah ketika seseorang sedang menanyakan keberadaan subjek tertentu yang sudah saling diketahui, dan Anda ingin menjawab \"Benda/orang tersebut berada DI MANA\".",
+    "formula_template": "[Benda/Orang] は [Tempat] に あります / います",
+    "ui_notes": "Secara gramatikal dan fungsi praktis, pola ini BISA DISINGKAT menggunakan bentuk ringkas yang telah dipelajari di Bab 3, yaitu '[Benda] は [Tempat] です' (misal: ミラーさんは どこですか / 事務所です). Keduanya sah dan bermakna sama.",
     "examples": [
       {
-        "jp": "東京 ディズニーランドは 千葉県に あります。",
-        "id": "Tokyo Disneyland terletak di prefektur Chiba."
+        "jp": "東京ディズニーランドは 千葉県に あります。",
+        "id": "Tokyo Disneyland terletak/ada di prefektur Chiba."
       },
       {
         "jp": "ミラーさんは 事務所に います。",
-        "id": "Sdr. Miller ada di kantor."
+        "id": "Sdr. Miller (saat ini) ada di kantor."
+      },
+      {
+        "jp": "ミラーさんは どこに いますか。",
+        "id": "Sdr. Miller ada di mana?"
       }
     ],
     "tags": [
       "N5",
-      "Partikel",
-      "Topik Keberadaan"
+      "Topik",
+      "Keberadaan"
     ]
   },
   {
     "id": "m_bab10_4",
     "chapter": "Bab 10",
     "level": "N5",
-    "title": "A の B",
-    "meaning": "Menunjukkan hubungan posisi antara Kata Benda1 dan Kata Benda2 menggunakan kata posisi (atas, bawah, depan, belakang, kanan, kiri, dalam, luar, sebelah, dekat, antara).",
-    "formula_template": "{A} の Kata Posisi に [Benda] が あります/います",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} の Kata Posisi に [Benda] が あります/います' untuk menyatakan: Menunjukkan hubungan posisi antara Kata Benda1 dan Kata Benda2 menggunakan kata posisi (atas, bawah, depan, be. Pastikan 'A' mewakili Kata Benda1.",
-    "ui_notes": "Kata posisi ini berfungsi sama seperti kata benda yang menunjukkan tempat. Jika menunjukkan tempat aksi (di mana suatu tindakan terjadi), maka dibubuhkan partikel で (contoh terakhir).",
+    "title": "Posisi Relatif (上, 下, 前, 後ろ, dll)",
+    "meaning": "Bahasa Jepang memiliki set kosakata posisi spasial seperti: 上 (atas), 下 (bawah), 前 (depan), 後ろ (belakang), 右 (kanan), 左 (kiri), 中 (dalam), 外 (luar), 隣 (sebelah/samping), 近く (dekat), 間 (antara).",
+    "formula_template": "[Benda Patokan] の [Posisi Spesifik]",
+    "ui_notes": "Anda harus selalu meletakkan benda yang menjadi 'patokan/pusat' di depan, lalu dirangkaikan dengan partikel 'の', lalu baru posisinya. Jangan terbalik meniru bahasa Indonesia.",
     "examples": [
       {
         "jp": "机の 上に 写真が あります。",
-        "id": "Di atas meja ada foto."
+        "id": "Di atas(nya) meja ada foto."
       },
       {
         "jp": "郵便局は 銀行の 隣に あります。",
-        "id": "Kantor pos ada di sebelah bank."
+        "id": "Kantor pos ada di sebelah(nya) bank."
+      },
+      {
+        "jp": "本屋は 花屋と スーパーの 間に あります。",
+        "id": "Toko buku ada di antara(nya) toko bunga dan pasar swalayan."
       }
     ],
     "tags": [
@@ -161,65 +123,48 @@
     "id": "m_bab10_5",
     "chapter": "Bab 10",
     "level": "N5",
-    "title": "A や B",
-    "meaning": "Partikel や digunakan untuk mengambil beberapa hal saja yang mewakili (lebih dari dua) untuk menyebutkannya secara setara. Adakalanya ditambahkan など di belakang kata benda terakhir untuk menyatakan masih ada hal lain yang tidak disebutkan.",
-    "formula_template": "{A} や {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} や {B}' untuk menyatakan: Partikel や digunakan untuk mengambil beberapa hal saja yang mewakili (lebih dari dua) untuk menyebutkannya sec. Pastikan 'A' mewakili Kata Benda1, 'B' mewakili Kata Benda2 (+ など).",
-    "ui_notes": "Berbeda dengan と yang menyebutkan SEMUA benda secara spesifik.",
+    "title": "Benda や Benda (Sebagian / Dan lain-lain)",
+    "meaning": "Partikel 'や' (ya) berfungsi mirip dengan partikel 'と' (dan), yaitu merangkai kata benda. Bedanya, 'や' HANYA digunakan ketika Anda mencomot/menyebutkan SATU-DUA perwakilan saja dari keseluruhan himpunan benda.",
+    "formula_template": "[Benda 1] や [Benda 2] [など]",
+    "ui_notes": "Untuk menegaskan bahwa ini barulah sebagian (masih ada benda-benda lain yang tidak Anda sebutkan), orang Jepang sering menambahkan imbuhan 'など' (nado / dan lain-lain) tepat di belakang kata benda yang terakhir disebutkan.",
     "examples": [
       {
         "jp": "箱の 中に 手紙や 写真が あります。",
-        "id": "Di dalam kotak ada surat dan foto (dan mungkin barang lain)."
+        "id": "Di dalam kotak ada surat dan foto (dan lainnya yang tidak disebut)."
       },
       {
         "jp": "箱の 中に 手紙や 写真などが あります。",
-        "id": "Di dalam kotak ada surat, foto dan lain-lainnya."
+        "id": "Di dalam kotak ada surat, foto, dan lain-lainnya."
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Penyebutan Sebagian"
+      "Enumerasi"
     ]
   },
   {
     "id": "m_bab10_6",
     "chapter": "Bab 10",
     "level": "N5",
-    "title": "〜ですか (Pengulangan untuk penegasan)",
-    "meaning": "Dalam percakapan praktek, lawan bicara tidak langsung menjawab pertanyaan, tetapi sering menjawab setelah menegaskan inti pertanyaan si pembicara.",
-    "formula_template": "[Inti Pertanyaan] ですか",
-    "variables": {},
-    "ai_instruction": "Gunakan pola '[Inti Pertanyaan] ですか' untuk menyatakan: Dalam percakapan praktek, lawan bicara tidak langsung menjawab pertanyaan, tetapi sering menjawab setelah mene.",
-    "ui_notes": "Dalam percakapan praktek, lawan bicara tidak langsung menjawab pertanyaan, tetapi sering menjawab setelah menegaskan inti pertanyaan si pembicara.",
+    "title": "Pengulangan Konfirmasi dalam Percakapan",
+    "meaning": "Dalam realitas percakapan bahasa Jepang (pragmatik), lawan bicara sangat jarang langsung menjawab. Mereka sering kali 'mengulang' inti pertanyaan (diikuti ですか) sebagai bentuk konfirmasi dan menunjukkan bahwa mereka sedang memikirkannya.",
+    "formula_template": "[Kata Kunci Pertanyaan] ですか。",
+    "ui_notes": "Anda tidak perlu merespons ulang konfirmasi ini. Dengarkan saja, lalu mereka biasanya akan langsung melanjutkan dengan memberikan jawaban sesungguhnya.",
     "examples": [
       {
-        "jp": "すみません。アジアストアは どこですか。……アジアストアですか。あの ビルの 中です。",
-        "id": "Maaf. Di mana Asia Store? ……Asia Store? Di dalam gedung itu."
+        "jp": "アジアストアは どこですか。",
+        "id": "Di mana Asia Store?"
+      },
+      {
+        "jp": "……アジアストアですか。あの ビルの 中です。",
+        "id": "……(Maksud Anda) Asia Store ya? Ada di dalam gedung itu."
       }
     ],
     "tags": [
       "N5",
-      "Ungkapan",
-      "Penegasan"
+      "Pragmatik",
+      "Percakapan Lisan"
     ]
   }
 ]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "i_a1_bab6_1",
+    "chapter": "Bab 6",
+    "level": "A1",
+    "title": "Memesan Sesuatu (〜お願いします / 〜ください)",
+    "meaning": "Senjata Kasir Restoran! Ungkapan utama yang wajib keluar dari mulut Anda saat memesan menu makanan atau minuman. Artinya murni 'Saya pesan/minta...'.",
+    "formula_template": "1. [Nama Benda/Menu] + お願いします\n2. [Nama Benda/Menu] + ください",
+    "ui_notes": "LEVEL KESOPANAN:\n**「お願いします (Onegaishimasu)」** tingkat kesopanannya jauh lebih dewa daripada **「ください (Kudasai)」** karena mengandung unsur 'memohon dengan hormat'. Sangat aman dipakai ke pelayan atau kasir.",
+    "examples": [
+      {
+        "jp": "ホットコーヒー、お願いします。",
+        "id": "SAYA PESAN (Tolong buatkan) Kopi Panas."
+      },
+      {
+        "jp": "これ、ください。",
+        "id": "SAYA MINTA (pesan) yang ini."
+      },
+      {
+        "jp": "ご注文は？ ……ハンバーガーとコーラ、ください。",
+        "id": "Mau pesan apa kak? ...... SAYA MINTA Hamburger dan segelas Cola."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Pesan Makanan",
+      "Onegaishimasu / Kudasai"
+    ]
+  },
+  {
+    "id": "i_a1_bab6_2",
+    "chapter": "Bab 6",
+    "level": "A1",
+    "title": "Memutuskan Pilihan (〜にします)",
+    "meaning": "Palu Sidang Keputusan! Jurus menjatuhkan pilihan dan membulatkan tekad pada satu benda (Contoh: Hmm... Saya pilih makan kari aja deh!).",
+    "formula_template": "[Pilihan Benda/Menu] + にします",
+    "ui_notes": "Kalau lagi nongkrong dan mau nanya teman mau milih pesan apa, gunakan senjata tanya: **「何にしますか？」** (Kamu milih apaan?).",
+    "examples": [
+      {
+        "jp": "私は、うどんにします。",
+        "id": "Kalau saya, (memutuskan) SAYA PILIH Udon saja."
+      },
+      {
+        "jp": "何にしますか？ ……私は、カレーにします。 ……飲み物は？ ……アイスコーヒーにします。",
+        "id": "(Kamu) MAU PILIH APA? ...... Saya, PILIH makan Kari. ...... Minumannya? ...... (Aku) PILIH Es Kopi."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Menentukan Pilihan",
+      "Pilih (Nishimasu)"
+    ]
+  },
+  {
+    "id": "i_a1_bab6_3",
+    "chapter": "Bab 6",
+    "level": "A1",
+    "title": "Menyebutkan Jumlah Pesanan (Bilangan Benda)",
+    "meaning": "Sistem Perhitungan Orderan! Memesan barang lengkap dengan sebutan jumlah bilangannya. Menggunakan sistem hitung universal (1つ: Hitotsu, 2つ: Futatsu, 3つ: Mittsu).",
+    "formula_template": "[Nama Benda/Menu] + [Jumlah: 1つ/2つ/3つ...] + お願いします",
+    "ui_notes": "ATURAN PATEN SUSUNAN KATA:\nSebutkan NAMA BENDANYA DULU, BARU JUMLAHNYA! (Contoh Benar: コーヒー2つ / Kopi 2 buah). Jangan sampai terbalik menerjemahkan gaya Indonesia (2つコーヒー = SALAH BESAR).",
+    "examples": [
+      {
+        "jp": "生ビール3つと、ウーロン茶1つ、お願いします。",
+        "id": "SAYA PESAN Draft Beer 3 GELAS, dan Teh Oolong 1 GELAS."
+      },
+      {
+        "jp": "枝豆2つ、ください。",
+        "id": "SAYA MINTA Kacang Edamame 2 PORSI."
+      },
+      {
+        "jp": "コーヒー4つ、ください。 ……ホットにしますか？ アイスにしますか？ ……ホットコーヒー3つ、アイスコーヒー1つ、お願いします。",
+        "id": "SAYA MINTA Kopi 4 BUAH. ...... Mau pilih Kopi Panas? Atau Kopi Dingin? ...... SAYA PESAN Kopi Panas 3 GELAS, Kopi Dingin 1 GELAS."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Jumlah Pesanan",
+      "Hitotsu Futatsu Mittsu"
+    ]
+  },
+  {
+    "id": "i_a1_bab6_4",
+    "chapter": "Bab 6",
+    "level": "A1",
+    "title": "Menanyakan Ketersediaan (〜ありますか？)",
+    "meaning": "Pendeteksi Stok! Bertanya apakah suatu barang pelengkap atau fasilitas tambahan kebetulan \"tersedia\" atau disewakan di restoran tersebut. (Contoh: Ada saus sambal nggak?).",
+    "formula_template": "1. [Barang yang Dicari] + はありますか？\n2. [Barang yang Dicari] + ありますか？ (Partikel Wa dibuang)",
+    "ui_notes": "Dalam ragam obrolan restoran, partikel topik 「は」 sering ditendang agar ngobrolnya makin lincah (Contoh: マヨネーズ、ありますか？).",
+    "examples": [
+      {
+        "jp": "マヨネーズ、ありますか？",
+        "id": "Mayones, ADA NGGAK (Tersedia kah)?"
+      },
+      {
+        "jp": "すみません。取り皿、ありますか？ ……はい、お持ちします。",
+        "id": "Permisi. Piring kecil tambahan, ADA (tersedia) NGGAK? ...... Ya (ada), saya akan bawakan kemari."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Tanya Ketersediaan",
+      "Ada Tidak (Arimasuka)"
+    ]
+  }
+]

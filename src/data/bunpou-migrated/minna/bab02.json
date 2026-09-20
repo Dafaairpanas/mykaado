@@ -3,33 +3,14 @@
     "id": "m_bab02_1",
     "chapter": "Bab 02",
     "level": "N5",
-    "title": "これ / それ / あれ は A です",
-    "meaning": "Kata ganti penunjuk benda (ini/itu/itu jauh). 'Ini/itu adalah A.'",
-    "formula_template": "{A} は {B} です",
-    "variables": {
-      "A": {
-        "type": [
-          "pronoun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola ini untuk menunjuk benda. 'A' harus berupa kata ganti penunjuk: これ (dekat pembicara), それ (dekat lawan bicara), atau あれ (jauh dari keduanya). 'B' adalah nama bendanya.",
-    "ui_notes": "これ merujuk pada benda dekat pembicara. それ dekat lawan bicara. あれ jauh dari kedua pembicara.",
+    "title": "Kata Tunjuk これ / それ / あれ",
+    "meaning": "Ini adalah kata ganti tunjuk untuk benda yang berfungsi penuh sebagai Kata Benda dalam kalimat. \n'これ' (Kore / Ini) menunjuk benda yang posisinya berada di dekat si pembicara.\n'それ' (Sore / Itu) menunjuk benda yang posisinya berada di dekat lawan bicara.\n'あれ' (Are / Itu jauh) menunjuk benda yang posisinya jauh dari pembicara maupun lawan bicara.",
+    "formula_template": "これ / それ / あれ は [Benda] です",
+    "ui_notes": "Ketiga kata ini berdiri sendiri sebagai subjek/topik utama. Jangan menggabungkannya secara langsung dengan kata benda lain tanpa partikel.",
     "examples": [
       {
         "jp": "それは 辞書ですか。",
-        "id": "Apakah ini kamus?"
+        "id": "Apakah itu kamus?"
       },
       {
         "jp": "これは だれの 傘ですか。",
@@ -38,7 +19,7 @@
     ],
     "tags": [
       "N5",
-      "Kata Ganti Tunjuk",
+      "Kata Tunjuk",
       "Benda"
     ]
   },
@@ -46,150 +27,87 @@
     "id": "m_bab02_2",
     "chapter": "Bab 02",
     "level": "N5",
-    "title": "この / その / あの A は B です",
-    "meaning": "Kata penunjuk demonstratif yang langsung memodifikasi kata benda ('Benda ini/itu adalah B').",
-    "formula_template": "{A} {B} は {C} です",
-    "variables": {
-      "A": {
-        "type": [
-          "pronoun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "person",
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola ini di mana 'A' adalah この/その/あの, diikuti langsung oleh kata benda 'B', lalu diikuti predikat 'C'.",
-    "ui_notes": "この/その/あの harus selalu diikuti langsung oleh kata benda (tidak bisa berdiri sendiri tanpa kata benda).",
+    "title": "Kata Tunjuk この / その / あの",
+    "meaning": "Ini adalah kelompok kata tunjuk yang berfungsi sebagai kata sifat penerang. Berbeda dengan 'これ/それ/あれ', kata ini tidak bisa berdiri sendiri melainkan HARUS langsung diikuti oleh Kata Benda yang diterangkannya. Arti kedekatannya sama: 'この' (Ini - dekat pembicara), 'その' (Itu - dekat pendengar), 'あの' (Itu jauh - jauh dari keduanya).",
+    "formula_template": "この / その / あの [Kata Benda]",
+    "ui_notes": "Pola ini digunakan jika Anda ingin memperjelas benda apa secara spesifik yang sedang ditunjuk. Misalnya: 'Buku ini' (この 本) berbeda tata bahasanya dengan hanya menyebut 'Ini' (これ). Pengecualian untuk 'あの 方' (orang itu) yang selalu menggunakan 'あの', bukan 'あれ' yang tidak sopan ditujukan ke orang.",
     "examples": [
       {
-        "jp": "この 本は わたしのです。",
-        "id": "Buku ini kepunyaan saya."
+        "jp": "この 本は わたしの です。",
+        "id": "Buku ini (adalah) kepunyaan saya."
       },
       {
-        "jp": "あの 方は どなたですか。",
-        "id": "Siapakah beliau?"
+        "jp": "あの方は どなたですか。",
+        "id": "Siapakah orang itu (beliau)?"
       }
     ],
     "tags": [
       "N5",
-      "Kata Penunjuk",
-      "Menerangkan Benda"
+      "Kata Tunjuk",
+      "Penerang"
     ]
   },
   {
     "id": "m_bab02_3",
     "chapter": "Bab 02",
     "level": "N5",
-    "title": "はい、そうです / いいえ、ちがいます",
-    "meaning": "Jawaban penegasan untuk pertanyaan nominal (Ya, benar / Bukan, salah).",
-    "formula_template": "{A} は {B} ですか。……{C}",
-    "variables": {
-      "A": {
-        "type": [
-          "pronoun",
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "person"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "profession",
-          "person"
-        ]
-      },
-      "C": {
-        "type": [
-          "expression"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan ekspresi konfirmasi nominal ini untuk menjawab pertanyaan '〜ですか'. Jawaban benar memakai 'はい、そうです', jawaban keliru memakai 'いいえ、ちがいます'.",
-    "ui_notes": "そう です berarti \"begitulah / benar\". ちがいます berarti \"berbeda / bukan begitu\".",
+    "title": "そうです (Betul/Ya, demikian)",
+    "meaning": "Ungkapan 'そうです' (sou desu) sering digunakan untuk menjawab pertanyaan positif (ya) dari sebuah kalimat tanya nominal (Kata Benda). Ini berarti si penjawab mengiyakan bahwa apa yang ditanyakan itu benar.",
+    "formula_template": "はい、そうです。",
+    "ui_notes": "Anda tidak bisa menggunakan 'そうです' untuk menjawab secara negatif. Jika salah (bukan), jangan menjawab dengan 'そうじゃありません', tetapi gunakan '違います' (chigaimas/salah) atau langsung nyatakan fakta yang sebenarnya.",
     "examples": [
       {
-        "jp": "それは 辞書ですか。……はい、そうです。",
-        "id": "Apakah itu kamus? ……Ya, betul."
+        "jp": "それは 辞書ですか。",
+        "id": "Apakah itu kamus?"
       },
       {
-        "jp": "それは ミラーさんのですか。……いいえ、違います。",
-        "id": "Apakah itu punya Sdr. Miller? ……Bukan."
+        "jp": "……はい、そうです。",
+        "id": "……Ya, betul."
+      },
+      {
+        "jp": "それは ミラーさんの ですか。",
+        "id": "Apakah itu punya Sdr. Miller?"
+      },
+      {
+        "jp": "……いいえ、違います。",
+        "id": "……Bukan, (salah)."
+      },
+      {
+        "jp": "それは シャープペンシルですか。",
+        "id": "Apakah itu pensil isi ulang?"
+      },
+      {
+        "jp": "……いいえ、ボールペンです。",
+        "id": "……Bukan, (itu) bolpoin."
       }
     ],
     "tags": [
       "N5",
       "Ungkapan",
-      "Persetujuan"
+      "Jawaban"
     ]
   },
   {
     "id": "m_bab02_4",
     "chapter": "Bab 02",
     "level": "N5",
-    "title": "A ですか、B ですか",
-    "meaning": "Kalimat tanya alternatif yang memberikan dua pilihan (Apakah A atau B?).",
-    "formula_template": "{A} ですか、{B} ですか",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "action",
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "action",
-          "place"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola ini untuk memberikan pilihan kepada lawan bicara antara 'A' atau 'B'. Penjawab tidak menjawab 'はい/いいえ', melainkan langsung memilih salah satu opsi.",
-    "ui_notes": "Untuk menjawab pertanyaan alternatif ini, langsung sebutkan opsi yang dipilih, jangan gunakan はい atau いいえ.",
+    "title": "〜か、〜か (Pilihan A atau B)",
+    "meaning": "Digunakan untuk memberikan dua atau lebih pilihan dalam bentuk kalimat tanya kepada lawan bicara, dengan meminta mereka memilih mana yang benar.",
+    "formula_template": "[A] ですか、[B] ですか",
+    "ui_notes": "Saat menjawab pertanyaan bentuk ini, JANGAN gunakan awalan 'はい' atau 'いいえ'. Langsung saja sebutkan kalimat atau pilihan yang benar.",
     "examples": [
       {
-        "jp": "これは 「9」ですか、「7」ですか。……「9」です。",
-        "id": "Apakah ini '9' atau '7'? ……'9'."
+        "jp": "これは 「9」ですか、「7」ですか。",
+        "id": "Apakah ini '9' atau '7'?"
+      },
+      {
+        "jp": "……「9」です。",
+        "id": "……'9'."
       }
     ],
     "tags": [
       "N5",
-      "Partikel",
+      "Tanya",
       "Pilihan"
     ]
   },
@@ -197,76 +115,50 @@
     "id": "m_bab02_5",
     "chapter": "Bab 02",
     "level": "N5",
-    "title": "A の B (Menerangkan Isi / Tentang)",
-    "meaning": "Menyatakan isi, subjek, atau topik dari suatu benda ('B tentang A').",
-    "formula_template": "{A} の {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "abstract",
-          "object",
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan partikel の untuk menyatakan isi atau materi dari buku/majalah/kaset 'B' yang membahas tentang 'A' (misal: mobil, bahasa Jepang, komputer).",
-    "ui_notes": "Selain kepemilikan, の juga berfungsi menerangkan konten/topik (contoh: じどうしゃの ほん = buku tentang mobil).",
+    "title": "Penggunaan Lanjutan Partikel の",
+    "meaning": "Melanjutkan Bab 1, partikel 'の' berfungsi ganda: (1) Menjelaskan lebih detail isi, ragam, atau kategori dari benda, dan (2) Menunjukkan kepemilikan mutlak suatu benda.",
+    "formula_template": "[Detail/Pemilik] の [Benda]",
+    "ui_notes": "Ingat bahwa struktur 'の' selalu berfokus menjelaskan benda utama yang ada di paling belakang kalimat.",
     "examples": [
       {
         "jp": "これは コンピューターの 本です。",
-        "id": "Ini buku komputer."
+        "id": "Ini (adalah) buku komputer. (Penjelasan Isi/Ragam)"
       },
       {
         "jp": "これは わたしの 本です。",
-        "id": "Ini buku saya."
+        "id": "Ini (adalah) buku saya. (Kepemilikan)"
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Kepemilikan",
-      "Keterangan"
+      "Kepemilikan"
     ]
   },
   {
     "id": "m_bab02_6",
     "chapter": "Bab 02",
     "level": "N5",
-    "title": "A の (Pengganti Kata Benda)",
-    "meaning": "Partikel の yang bertindak sebagai kata ganti benda yang sudah diketahui agar tidak diulang ('milik A').",
-    "formula_template": "{A} の です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan partikel の sebagai pengganti kata benda yang sudah disebutkan sebelumnya untuk menghindari pengulangan (misal: わたしの = milik saya).",
-    "ui_notes": "Jika kata benda di belakang の sudah jelas dari konteks, kata benda tersebut dapat dihilangkan dan disisakan の saja.",
+    "title": "Partikel の Sebagai Pengganti Kata Benda",
+    "meaning": "Partikel 'の' dapat digunakan sendirian untuk menunjuk/menggantikan benda yang sudah disebut di awal kalimat agar tidak perlu diulang-ulang pengucapannya (seperti kata 'punya' dalam bahasa Indonesia).",
+    "formula_template": "[Pemilik] の です",
+    "ui_notes": "Kata ganti 'の' HANYA BOLEH digunakan untuk menggantikan benda mati. Anda TIDAK BOLEH menggunakannya untuk menggantikan subjek manusia (orang). Misalnya, Anda tidak boleh menyebutkan 'IMC のです' ketika merujuk pada pegawai IMC.",
     "examples": [
       {
-        "jp": "あれは だれの かばんですか。……佐藤さんのです。",
-        "id": "Itu tas siapa? ……Kepunyaan Sdr. Sato."
+        "jp": "あれは だれの かばんですか。",
+        "id": "Itu tas siapa?"
       },
       {
-        "jp": "この かばんは あなたのですか。……いいえ、わたしのじゃ ありません。",
-        "id": "Apakah tas ini tas Anda? ……Bukan, bukan kepunyaan saya."
+        "jp": "……佐藤さんの です。",
+        "id": "……Kepunyaan (punya) Sdr. Sato."
+      },
+      {
+        "jp": "この かばんは あなたの ですか。",
+        "id": "Apakah tas ini punya Anda?"
+      },
+      {
+        "jp": "……いいえ、わたしの じゃ ありません。",
+        "id": "……Bukan, (itu) bukan punya saya."
       }
     ],
     "tags": [
@@ -279,52 +171,46 @@
     "id": "m_bab02_7",
     "chapter": "Bab 02",
     "level": "N5",
-    "title": "お～ (Prefiks Kesopanan)",
-    "meaning": "Awalan お- untuk memperhalus atau menghormati kata benda milik lawan bicara.",
-    "formula_template": "お{A}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Tambahkan prefiks 'お' di depan kata benda Jepang (wago) tertentu untuk menunjukkan kesopanan (misal: おみやげ, おさけ, おかね).",
-    "ui_notes": "Prefiks お digunakan pada kata benda asli Jepang untuk memperindah bahasa (bikago) atau menghormati kepemilikan lawan bicara.",
+    "title": "Awalan お (Kesopanan / Honorifik)",
+    "meaning": "Huruf awalan 'お' (O) sering dibubuhkan di depan beberapa jenis Kata Benda untuk menunjukkan rasa hormat dan kesopanan (beautification of word) kepada lawan bicara.",
+    "formula_template": "お + [Kata Benda]",
+    "ui_notes": "Hanya kata benda tertentu (biasanya yang berasal dari kosa kata asli Jepang / wago) yang lazim menggunakan awalan 'お'. Tidak perlu Anda bubuhkan sendiri jika Anda tidak yakin.",
     "examples": [
       {
         "jp": "おみやげ",
-        "id": "oleh-oleh"
+        "id": "Oleh-oleh (bentuk sopan dari miyage)"
       },
       {
         "jp": "おさけ",
-        "id": "minuman keras (sake)"
+        "id": "Sake / Alkohol (bentuk sopan dari sake)"
       }
     ],
     "tags": [
       "N5",
-      "Awalan",
-      "Kesopanan"
+      "Kesopanan",
+      "Awalan"
     ]
   },
   {
     "id": "m_bab02_8",
     "chapter": "Bab 02",
     "level": "N5",
-    "title": "そうですか",
-    "meaning": "Ungkapan penerimaan informasi baru dengan intonasi turun ('Oh, begitu ya').",
+    "title": "そうですか (Oh begitu)",
+    "meaning": "Ungkapan 'そうですか' (Sou desu ka) sering digunakan ketika si pembicara baru saja mendapatkan informasi baru dan menyatakan bahwa ia telah mengerti informasi tersebut.",
     "formula_template": "そうですか",
-    "variables": {},
-    "ai_instruction": "Gunakan ungkapan 'そうですか' dengan intonasi menurun saat pembicara menerima fakta atau informasi baru dari lawan bicara.",
-    "ui_notes": "Diucapkan dengan intonasi menurun untuk menyatakan pengertian \"Oh, begitu ya\". Berbeda dengan intonasi naik yang menanyakan kebenaran.",
+    "ui_notes": "Meskipun ada huruf 'か' di belakangnya yang biasanya berarti pertanyaan, ungkapan ini diucapkan dengan intonasi **MENURUN**, bukan intonasi naik. Artinya bukan bertanya, melainkan menegaskan bahwa Anda telah menyadari/mengerti fakta baru.",
     "examples": [
       {
-        "jp": "この 傘は あなたのですか。……いいえ、違います。シュミットさんのです。……そうですか。",
-        "id": "Apakah payung ini punya Anda? ……Bukan, salah. Punya Sdr. Schmidt. ……O, begitu."
+        "jp": "この 傘は あなたの ですか。",
+        "id": "Apakah payung ini punya Anda?"
+      },
+      {
+        "jp": "……いいえ、違います。シュミットさんの です。",
+        "id": "……Bukan, salah. Punya Sdr. Schmidt."
+      },
+      {
+        "jp": "そうですか。",
+        "id": "Oh, begitu."
       }
     ],
     "tags": [

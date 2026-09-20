@@ -1,158 +1,95 @@
 [
   {
-    "id": "i_bab18_1",
-    "chapter": "Bab 18",
+    "id": "irodori_a2.1_bab18_1",
+    "chapter": 18,
     "level": "A2.1",
-    "title": "〜そうですね — Kabarnya ...",
-    "meaning": "Pola untuk menyatakan informasi yang didengar dari orang lain (desas-desus atau kabar burung). '〜そう' berarti 'kabarnya' atau 'katanya', dan 'ですね' adalah bentuk sopan. Berbeda dengan 'V-そう' (kelihatannya), '〜そう' digunakan untuk informasi yang didengar. Sangat berguna saat memulai percakapan tentang kabar seseorang. Artinya 'Kabarnya [informasi]' atau 'Saya dengar [informasi]'.",
-    "formula_template": "{A} そうですね",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} そうですね' untuk percakapan: Pola untuk menyatakan informasi yang didengar dari orang lain (desas-desus atau kabar burung). '〜そう' berarti '. Pastikan 'A' mewakili Informasi.",
-    "ui_notes": "Perbedaan: '見た目そう' (kelihatannya - dari penglihatan) vs '聞いたそう' (kabarnya - dari informasi). Untuk kalimat yang lebih formal, gunakan '〜とのことです' (saya dengar bahwa...). Contoh: 田中さんが結婚したとのことです (Saya dengar Tanaka sudah menikah).",
+    "title": "S (Bentuk Biasa) そうです",
+    "meaning": "Saya dengar / Katanya ... (Meneruskan informasi)",
+    "formula_template": "Kalimat Bentuk Biasa + そうです",
+    "ui_notes": "Digunakan ketika kita menyampaikan informasi yang didapat dari sumber lain (mendengar, melihat, membaca) kepada lawan bicara. Berbeda dengan *そうだ* (kelihatannya) di bab sebelumnya yang dihilangkan akhiran *masu*-nya.\n\n### 🔧 Cara Membentuk:\n* **Kata Benda**: Tambahkan **だ** lalu そうです (Contoh: 誕生日だそうです / Katanya ulang tahun)\n* **Kata Sifat-ナ**: Tambahkan **だ** lalu そうです (Contoh: 暇だそうです / Katanya dia senggang)\n* **Kata Sifat-イ**: Langsung gabung そうです (Contoh: 暑いそうです / Katanya cuacanya panas)\n* **Kata Kerja (Bentuk Biasa)**: Gabung そうです (Contoh: 行くそうです / Katanya dia akan pergi, 行ったそうです / Katanya dia sudah pergi)",
     "examples": [
       {
-        "jp": "お子さんが生まれたそうですね。",
-        "id": "Kabarnya anak Anda lahir ya."
+        "japanese": "お子さんが生まれたそうですね。",
+        "indonesian": "Saya dengar anak Anda sudah lahir, ya.",
+        "romaji": "Okosan ga umareta sou desu ne."
       },
       {
-        "jp": "来週、引っ越すそうですね。",
-        "id": "Kabarnya minggu depan pindah ya."
+        "japanese": "Ａ： 来月、結婚するそうですね。おめでとうございます。\nＢ： ありがとうございます。",
+        "indonesian": "A: Saya dengar bulan depan Anda akan menikah. Selamat, ya.\nB: Terima kasih.",
+        "romaji": "A: Raigetsu, kekkon suru sou desu ne. Omedetou gozaimasu.\nB: Arigatou gozaimasu."
       }
     ],
-    "tags": [
-      "A2",
-      "Informasi",
-      "Kabar",
-      "Percakapan"
-    ]
+    "tags": ["irodori", "A2.1", "bab 18", "katanya", "soudesu", "kabar"]
   },
   {
-    "id": "i_bab18_2",
-    "chapter": "Bab 18",
+    "id": "irodori_a2.1_bab18_2",
+    "chapter": 18,
     "level": "A2.1",
-    "title": "〜をあげませんか？ — Mau Memberi ...?",
-    "meaning": "Pola ajakan untuk memberikan sesuatu kepada seseorang. 'あげる' berarti 'memberi', dan 'ませんか' adalah bentuk ajakan yang sopan. Digunakan saat mendiskusikan hadiah atau sesuatu yang akan diberikan kepada orang lain. Artinya 'Bagaimana kalau kita memberi [benda]?'",
-    "formula_template": "{A} を あげませんか？",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} を あげませんか？' untuk percakapan: Pola ajakan untuk memberikan sesuatu kepada seseorang. 'あげる' berarti 'memberi', dan 'ませんか' adalah bentuk ajaka. Pastikan 'A' mewakili Benda.",
-    "ui_notes": "'あげる' digunakan ketika pemberi adalah pembicara atau kelompok pembicara (memberi KEPADA orang lain). 'くれる' digunakan ketika orang lain memberi KEPADA pembicara. Dalam konteks mendiskusikan hadiah untuk orang lain, gunakan 'あげる'. Untuk menawarkan bantuan: 手伝いましょうか (Mau saya bantu?).",
+    "title": "【Orang】に【Barang】をあげます",
+    "meaning": "Memberikan [Benda] kepada [Orang]",
+    "formula_template": "Penerima (Orang) + に + Benda + を + あげます",
+    "ui_notes": "Digunakan ketika kita (atau seseorang) **memberikan** sesuatu kepada orang lain.\n\n* Ingat perbedaan 3 kata kerja memberi-menerima:\n  * **あげる**: Kita memberi ke orang, atau orang memberi ke orang lain.\n  * **くれる**: Orang lain memberi ke *kita*.\n  * **もらう**: Kita (atau seseorang) *menerima* dari orang lain.",
     "examples": [
       {
-        "jp": "アナさんに何かプレゼントをあげませんか？",
-        "id": "Bagaimana kalau kita memberi sesuatu untuk Ana?"
+        "japanese": "アナさんに何かプレゼントをあげませんか？",
+        "indonesian": "Bagaimana kalau kita memberikan sesuatu kepada Ana?",
+        "romaji": "Ana san ni nani ka purezento o agemasen ka?"
       },
       {
-        "jp": "花をあげませんか？",
-        "id": "Bagaimana kalau kita memberi bunga?"
+        "japanese": "Ａ： 明日は、トアンさんの誕生日ですね。みんなで、何かあげませんか？\nＢ： いいですね。じゃあ、ケーキと花をあげましょう。",
+        "indonesian": "A: Besok hari ulang tahun Toan, ya. Bagaimana kalau kita semua memberikan sesuatu untuk Toan?\nB: Bagus juga. Kalau begitu, mari kita berikan kue dan bunga untuk Toan.",
+        "romaji": "A: Ashita wa, Toan san no tanjoubi desu ne. Minna de, nani ka agemasen ka?\nB: Ii desu ne. Jaa, keeki to hana o agemashou."
       }
     ],
-    "tags": [
-      "A2",
-      "Memberi",
-      "Ajakan",
-      "Hadiah"
-    ]
+    "tags": ["irodori", "A2.1", "bab 18", "memberi", "agemasu"]
   },
   {
-    "id": "i_bab18_3",
-    "chapter": "Bab 18",
+    "id": "irodori_a2.1_bab18_3",
+    "chapter": 18,
     "level": "A2.1",
-    "title": "〜と言っていました — Dia Bilang ...",
-    "meaning": "Pola untuk melaporkan atau mengulang apa yang dikatakan orang lain. '〜と' adalah kutipan, '言っていました' adalah bentuk lampau dari '言っています' (sedang mengatakan). Digunakan untuk menyampaikan informasi yang didengar dari seseorang. Sangat berguna saat merencanakan hadiah atau membuat keputusan berdasarkan pendapat orang lain. Artinya '[Orang] mengatakan bahwa...'",
-    "formula_template": "{A} は {B} と 言っていました",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は {B} と 言っていました' untuk percakapan: Pola untuk melaporkan atau mengulang apa yang dikatakan orang lain. '〜と' adalah kutipan, '言っていました' adalah bent. Pastikan 'A' mewakili Orang, 'B' mewakili Kutipan.",
-    "ui_notes": "Bentuk kasual: 〜と言ってた (~to itteta). Untuk melaporkan pertanyaan: 〜かどうか聞きました (Bertanya apakah...). Perhatikan bahwa kutipan menggunakan bentuk biasa (bukan bentuk sopan): 大好きだと言っていました (bukan 大好きですと言っていました). Ini adalah aturan penting dalam kalimat kutipan.",
+    "title": "S (Bentuk Biasa) と言っていました",
+    "meaning": "[Seseorang] berkata bahwa ... (Kutipan)",
+    "formula_template": "Kalimat Bentuk Biasa + と言っていました",
+    "ui_notes": "Digunakan untuk **mengutip langsung** apa yang diucapkan seseorang. Berbeda dengan **そうです** yang bisa dari berita atau TV, **と言っていました** hanya khusus dipakai ketika kita mendengar langsung perkataannya dari orang tersebut.\n\n* Kalimat kutipannya diubah ke **Bentuk Biasa** lalu ditambah **と言っていました**.",
     "examples": [
       {
-        "jp": "アナさん、前に、焼き鳥が大好きだと言っていました。",
-        "id": "Ana dulu pernah bilang bahwa dia sangat suka yakitori."
+        "japanese": "アナさん、前に、焼き鳥が大好きだと言っていました。",
+        "indonesian": "Ana pernah mengatakan bahwa dia sangat menyukai yakitori.",
+        "romaji": "Ana san, mae ni, yakitori ga daisuki da to itte imashita."
       },
       {
-        "jp": "田中さんは明日来ると言っていました。",
-        "id": "Tanaka bilang bahwa dia akan datang besok."
+        "japanese": "Ａ： さっき、山田さんから電話がありましたよ。\nＢ： 何か言ってましたか？\nＡ： またあとで電話すると言ってました。",
+        "indonesian": "A: Tadi ada telepon dari Yamada, lho.\nB: Apa katanya?\nA: Dia mengatakan nanti akan menelepon kembali.",
+        "romaji": "A: Sakki, Yamada san kara denwa ga arimashita yo.\nB: Nani ka ittemashita ka?\nA: Mata ato de denwa suru to ittemashita."
       }
     ],
-    "tags": [
-      "A2",
-      "Kutipan",
-      "Informasi",
-      "Pendapat"
-    ]
+    "tags": ["irodori", "A2.1", "bab 18", "kutipan", "berkata", "to itteimashita"]
   },
   {
-    "id": "i_bab18_4",
-    "chapter": "Bab 18",
+    "id": "irodori_a2.1_bab18_4",
+    "chapter": 18,
     "level": "A2.1",
-    "title": "〜と思います — Saya Pikir ...",
-    "meaning": "Pola untuk menyatakan pendapat atau pikiran pribadi. '〜と' adalah kutipan, dan '思います' berarti 'berpikir'. Digunakan untuk menyampaikan pendapat tentang hadiah, rencana, atau situasi. Artinya 'Saya pikir [pendapat]'.",
-    "formula_template": "{A} と思います",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} と思います' untuk percakapan: Pola untuk menyatakan pendapat atau pikiran pribadi. '〜と' adalah kutipan, dan '思います' berarti 'berpikir'. Digun. Pastikan 'A' mewakili Pendapat.",
-    "ui_notes": "Bentuk kasual: 〜と思う (~to omou). Untuk menyatakan pendapat yang lebih lembut, gunakan: 〜のではないかと思います (Saya kira mungkin...). Jangan gunakan '思います' untuk menyatakan fakta, gunakan hanya untuk pendapat pribadi. Contoh: 明日は雨だと思います (Saya pikir besok hujan - perkiraan/pendapat, bukan fakta pasti).",
+    "title": "S (Bentuk Biasa) と思います",
+    "meaning": "Saya rasa / Saya pikir ...",
+    "formula_template": "Kalimat Bentuk Biasa + と思います",
+    "ui_notes": "Pola ini sangat sering dipakai untuk **menyatakan pendapat, perkiraan, atau penilaian pribadi**.\n\n* Kalimat pendapat diubah ke **Bentuk Biasa**, lalu dihubungkan dengan partikel **と** ke kata **思います**.",
     "examples": [
       {
-        "jp": "もっと、思い出に残るものがいいと思います。",
-        "id": "Saya pikir, yang lebih berkesan itu lebih baik."
+        "japanese": "もっと、思い出に残るものがいいと思います。",
+        "indonesian": "Saya rasa lebih baik kita memberikan sesuatu yang bisa jadi kenang-kenangan (berkesan).",
+        "romaji": "Motto, omoide ni nokoru mono ga ii to omoimasu."
       },
       {
-        "jp": "このプレゼントはいいと思います。",
-        "id": "Saya pikir hadiah ini bagus."
+        "japanese": "Ａ： 明日のパーティーは何人ぐらい来ますか？\nＢ： 10人ぐらいだと思います。",
+        "indonesian": "A: Kira-kira berapa orang yang akan datang pada pesta besok?\nB: Saya rasa sekitar 10 orang.",
+        "romaji": "A: Ashita no paatii wa nannin gurai kimasu ka?\nB: Juunin gurai da to omoimasu."
+      },
+      {
+        "japanese": "Ａ： 佐藤さん、来るでしょうか？\nＢ： 忙しいと言っていましたから、来ないと思いますよ。",
+        "indonesian": "A: Sato akan datang, kan?\nB: Saya rasa dia tidak akan datang, karena dia mengatakan bahwa dia sedang sibuk.",
+        "romaji": "A: Satou san, kuru deshou ka?\nB: Isogashii to itte imashita kara, konai to omoimasu yo."
       }
     ],
-    "tags": [
-      "A2",
-      "Pendapat",
-      "Pikiran",
-      "Rencana"
-    ]
+    "tags": ["irodori", "A2.1", "bab 18", "pendapat", "pikir", "to omoimasu"]
   }
 ]

@@ -3,35 +3,14 @@
     "id": "m_bab06_1",
     "chapter": "Bab 06",
     "level": "N5",
-    "title": "A を B（他C）",
-    "meaning": "Objek dari Kata Kerja Transitif ditunjukkan oleh partikel を.",
-    "formula_template": "{A} を {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} を {B}' untuk menyatakan: Objek dari Kata Kerja Transitif ditunjukkan oleh partikel を.. Pastikan 'A' mewakili Kata Benda, 'B' mewakili Kata Kerja.",
-    "ui_notes": "Partikel を hanya dipakai untuk menulis partikel saja, tidak digunakan pada kosakata umum.",
+    "title": "A を Kata Kerja (Objek Penderita)",
+    "meaning": "Partikel 'を' (wo) digunakan secara khusus untuk menandai objek langsung dari sebuah Kata Kerja Transitif (kata kerja aksi yang memerlukan objek penderita untuk dikenai pekerjaan).",
+    "formula_template": "[Objek] を [Kata Kerja]",
+    "ui_notes": "Secara pelafalan dibaca 'o', namun secara penulisan romaji biasanya ditulis 'wo' (を) untuk membedakannya dengan huruf 'o' biasa (お). Partikel ini tidak punya arti dalam bahasa Indonesia, hanya sebagai penanda gramatikal.",
     "examples": [
       {
-        "jp": "ジュースを飲みます。",
-        "id": "Minum jus."
+        "jp": "ジュースを 飲みます。",
+        "id": "Minum jus. ('Jus' adalah objek penderita yang diminum)"
       }
     ],
     "tags": [
@@ -44,29 +23,22 @@
     "id": "m_bab06_2",
     "chapter": "Bab 06",
     "level": "N5",
-    "title": "A を します",
-    "meaning": "Kata kerja します disertai Kata Benda secara luas sebagai objek. します mempunyai arti bahwa melakukan hal yang ditunjukan oleh objek tersebut (seperti olahraga, permainan, pertemuan, acara, dll).",
-    "formula_template": "{A} を します",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} を します' untuk menyatakan: Kata kerja します disertai Kata Benda secara luas sebagai objek. します mempunyai arti bahwa melakukan hal yang ditu. Pastikan 'A' mewakili Kata Benda.",
-    "ui_notes": "Kata kerja します disertai Kata Benda secara luas sebagai objek. します mempunyai arti bahwa melakukan hal yang ditunjukan oleh objek tersebut (seperti olahraga, permainan, pertemuan, acara, dll).",
+    "title": "Benda を します (Melakukan...)",
+    "meaning": "Kata kerja 'します' (melakukan/berbuat) adalah kata kerja yang paling fleksibel. Jika dipasangkan dengan kata benda tertentu, artinya secara otomatis menjadi \"melakukan aktivitas yang berkaitan dengan benda tersebut\".",
+    "formula_template": "[Aktivitas/Objek] を します",
+    "ui_notes": "Umumnya digunakan pada tiga kategori benda: (1) Olahraga/Permainan (サッカー、トランプ), (2) Acara pertemuan (パーティー、会議), dan (3) Rutinitas umum (仕事、宿題、電話).",
     "examples": [
       {
-        "jp": "サッカーをします。",
+        "jp": "サッカーを します。",
         "id": "Bermain sepak bola."
       },
       {
-        "jp": "パーティーをします。",
-        "id": "Berpesta."
+        "jp": "パーティーを します。",
+        "id": "Berpesta / mengadakan pesta."
+      },
+      {
+        "jp": "仕事を します。",
+        "id": "Bekerja."
       }
     ],
     "tags": [
@@ -79,20 +51,26 @@
     "id": "m_bab06_3",
     "chapter": "Bab 06",
     "level": "N5",
-    "title": "何 を しますか",
-    "meaning": "Ini adalah pertanyaan untuk menanyakan hal yang dilakukan (aktivitas).",
-    "formula_template": "何 を しますか",
-    "variables": {},
-    "ai_instruction": "Gunakan pola '何 を しますか' untuk menyatakan: Ini adalah pertanyaan untuk menanyakan hal yang dilakukan (aktivitas)..",
-    "ui_notes": "Ini adalah pertanyaan untuk menanyakan hal yang dilakukan (aktivitas).",
+    "title": "何を しますか (Melakukan apa?)",
+    "meaning": "Ini adalah pola kalimat tanya standar yang digunakan untuk menanyakan perbuatan, agenda, atau aktivitas apa yang (akan/telah) dilakukan oleh seseorang.",
+    "formula_template": "何を しますか / しましたか",
+    "ui_notes": "Perhatikan bentuk tenses-nya. Jika menanyakan rencana masa depan/kebiasaan gunakan 'しますか' (shimasuka), namun jika menanyakan hal yang sudah lewat kemarin gunakan 'しましたか' (shimashitaka).",
     "examples": [
       {
-        "jp": "月曜日何をしますか。……京都へ行きます。",
-        "id": "Hari Senin melakukan apa? ……Pergi ke Kyoto."
+        "jp": "月曜日、何を しますか。",
+        "id": "Hari Senin melakukan apa?"
       },
       {
-        "jp": "きのう何をしましたか。……サッカーをしました。",
-        "id": "Kemarin melakukan apa? ……Bermain sepak bola."
+        "jp": "……京都へ 行きます。",
+        "id": "……Pergi ke Kyoto."
+      },
+      {
+        "jp": "きのう 何を しましたか。",
+        "id": "Kemarin melakukan apa?"
+      },
+      {
+        "jp": "……サッカーを しました。",
+        "id": "……Bermain sepak bola."
       }
     ],
     "tags": [
@@ -105,100 +83,75 @@
     "id": "m_bab06_4",
     "chapter": "Bab 06",
     "level": "N5",
-    "title": "なん dan なに",
-    "meaning": "なん dan なに mempunyai arti yang sama (apa). なん digunakan jika kata berikutnya diawali dengan baris た, だ, dan な, atau jika disertai Kata Bantu Bilangan. Selain itu menggunakan なに.",
-    "formula_template": "なん / なに",
-    "variables": {},
-    "ai_instruction": "Gunakan pola 'なん / なに' untuk menyatakan: なん dan なに mempunyai arti yang sama (apa). なん digunakan jika kata berikutnya diawali dengan baris た, だ, dan な, .",
-    "ui_notes": "なんで (nan de) selain untuk bertanya sarana, digunakan juga untuk menanyakan alasan. Adakalanya dikatakan なにで (nani de) jika ingin menunjukkan lebih jelas untuk menanyakan sarana/alat.",
+    "title": "なん vs なに (Pelafalan \"Apa\")",
+    "meaning": "Huruf kanji (何) memiliki arti \"Apa\", namun cara membacanya terbagi dua (Nan atau Nani) murni berdasarkan aturan huruf yang berada tepat di belakangnya.",
+    "formula_template": "なん (Nan) / なに (Nani)",
+    "ui_notes": "Gunakan pelafalan 'なん' jika: (1) Kata berikutnya diawali dengan huruf deret 'た' (ta), 'だ' (da), atau 'な' (na) [seperti です, で, と]. (2) Jika kata tersebut menempel dengan satuan bilangan (seperti 歳 / sai). Selain 2 kondisi tersebut, Anda WAJIB membacanya sebagai 'なに'.",
     "examples": [
       {
-        "jp": "それは何ですか。",
-        "id": "Itu apa?"
+        "jp": "それは 何ですか。",
+        "id": "Itu apa? (Dibaca: Nan desu ka)"
       },
       {
-        "jp": "何の本ですか。",
-        "id": "Buku apa?"
+        "jp": "何の 本ですか。",
+        "id": "Buku apa? (Dibaca: Nan no hon desu ka)"
+      },
+      {
+        "jp": "何歳ですか。",
+        "id": "Berapa usia? (Dibaca: Nan-sai desu ka)"
+      },
+      {
+        "jp": "何を 買いますか。",
+        "id": "Mau membeli apa? (Dibaca: Nani o kaimasuka)"
       }
     ],
     "tags": [
       "N5",
-      "Kata Tanya",
-      "Perbedaan Kosakata"
+      "Pelafalan",
+      "Pengecualian"
     ]
   },
   {
     "id": "m_bab06_5",
     "chapter": "Bab 06",
     "level": "N5",
-    "title": "A（場所）で B",
-    "meaning": "Partikel で yang disertai Kata Benda tempat, berfungsi untuk menunjukkan tempat yang melakukan suatu aksi atau kejadian.",
-    "formula_template": "{A} で {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} で {B}' untuk menyatakan: Partikel で yang disertai Kata Benda tempat, berfungsi untuk menunjukkan tempat yang melakukan suatu aksi atau . Pastikan 'A' mewakili Kata Benda (Tempat), 'B' mewakili Kata Kerja.",
-    "ui_notes": "Partikel で yang disertai Kata Benda tempat, berfungsi untuk menunjukkan tempat yang melakukan suatu aksi atau kejadian.",
+    "title": "Tempat で (Tempat Terjadinya Aksi)",
+    "meaning": "Partikel 'で' (de) di sini diletakkan di belakang nama tempat untuk menyatakan \"di mana\" (lokasi spesifik) sebuah aktivitas panca-indera atau aksi dinamis itu dilakukan.",
+    "formula_template": "[Tempat] で [Aktivitas] を します",
+    "ui_notes": "PENTING: Jangan tertukar dengan partikel 'へ'. 'へ' berarti arah menuju suatu tempat, sedangkan 'で' berarti lokasi tempat suatu kejadian dilakukan (menunjukkan arti 'di...').",
     "examples": [
       {
-        "jp": "駅で新聞を買います。",
-        "id": "Membeli surat kabar di stasiun."
+        "jp": "駅で 新聞を 買います。",
+        "id": "Membeli surat kabar DI stasiun."
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Penunjuk Tempat Aksi"
+      "Tempat"
     ]
   },
   {
     "id": "m_bab06_6",
     "chapter": "Bab 06",
     "level": "N5",
-    "title": "Aませんか",
-    "meaning": "Ekspresi untuk mengajak lawan bicara melakukan sesuatu.",
-    "formula_template": "{A} か",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} か' untuk menyatakan: Ekspresi untuk mengajak lawan bicara melakukan sesuatu.. Pastikan 'A' mewakili Kata Kerja (bentuk -masen).",
-    "ui_notes": "Kata Kerja ませんか lebih ditunjukkan perasaan yang menghormati keinginan lawan bicara dibandingkan dengan Kata Kerja ましょう.",
+    "title": "〜ませんか (Tawaran / Ajakan Halus)",
+    "meaning": "Pola kalimat yang digunakan untuk mengundang atau mengajak lawan bicara melakukan sesuatu bersama-sama dengan nada yang sangat ramah.",
+    "formula_template": "[Kata Kerja] ませんか",
+    "ui_notes": "Meskipun berbentuk negatif tanya (ませんか / masenka), maknanya SAMA SEKALI BUKAN menolak, melainkan memberikan ruang kepada lawan bicara untuk menolak secara halus (\"Tidakkah Anda ingin... / Maukah Anda...?\").",
     "examples": [
       {
-        "jp": "いっしょに京都へ行きませんか。……ええ、いいですね。",
-        "id": "Bagaimana kita pergi ke Kyoto bersama-sama? ……Ya, bagus ya."
+        "jp": "いっしょに 京都へ 行きませんか。",
+        "id": "Bagaimana (kalau) kita pergi ke Kyoto bersama-sama?"
+      },
+      {
+        "jp": "……ええ、いいですね。",
+        "id": "……Ya, bagus ya."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
+      "Tawaran",
       "Ajakan"
     ]
   },
@@ -206,74 +159,52 @@
     "id": "m_bab06_7",
     "chapter": "Bab 06",
     "level": "N5",
-    "title": "Aましょう",
-    "meaning": "Ekspresi untuk mengusulkan secara aktif dan mengajak. Dipakai untuk menanggapi usulan atau ajakan secara aktif juga.",
-    "formula_template": "{A}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}' untuk menyatakan: Ekspresi untuk mengusulkan secara aktif dan mengajak. Dipakai untuk menanggapi usulan atau ajakan secara aktif. Pastikan 'A' mewakili Kata Kerja (bentuk -masu diganti -mashou).",
-    "ui_notes": "Ekspresi untuk mengusulkan secara aktif dan mengajak. Dipakai untuk menanggapi usulan atau ajakan secara aktif juga.",
+    "title": "〜ましょう (Mari / Ayo)",
+    "meaning": "Ekspresi seruan yang digunakan untuk mengusulkan atau mengajak lawan bicara secara proaktif (Ayo kita... / Mari kita...). Juga sering dipakai untuk menyetujui ajakan lawan bicara secara antusias.",
+    "formula_template": "[Kata Kerja] ましょう",
+    "ui_notes": "Berbeda dengan '〜ませんか', pola '〜ましょう' sifatnya jauh lebih tegas, proaktif, dan mendorong terjadinya aksi. Sering dijadikan jawaban untuk tawaran '〜ませんか'.",
     "examples": [
       {
-        "jp": "ちょっと休みましょう。",
-        "id": "Mari istirahat sebentar."
+        "jp": "ちょっと 休みましょう。",
+        "id": "Mari (ayo) istirahat sebentar."
       },
       {
-        "jp": "いっしょに昼ごはんを食べませんか。……ええ、食べましょう。",
-        "id": "Bagaimana kita makan siang bersama-sama? ……Ya, ayo kita makan."
+        "jp": "いっしょに 昼ごはんを 食べませんか。",
+        "id": "Bagaimana kita makan siang bersama-sama?"
+      },
+      {
+        "jp": "……ええ、食べましょう。",
+        "id": "……Ya, ayo kita makan."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Ajakan/Usulan"
+      "Seruan",
+      "Ajakan"
     ]
   },
   {
     "id": "m_bab06_8",
     "chapter": "Bab 06",
     "level": "N5",
-    "title": "～か",
-    "meaning": "Menyatakan hal untuk mendapatkan informasi baru yang belum diketahui oleh lawan bicara sebelumnya, kemudian memahaminya (cara penggunaannya mirip dengan そうですか).",
-    "formula_template": "Kata/{A} か",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'Kata/{A} か' untuk menyatakan: Menyatakan hal untuk mendapatkan informasi baru yang belum diketahui oleh lawan bicara sebelumnya, kemudian me. Pastikan 'A' mewakili Kalimat.",
-    "ui_notes": "Menyatakan hal untuk mendapatkan informasi baru yang belum diketahui oleh lawan bicara sebelumnya, kemudian memahaminya (cara penggunaannya mirip dengan そうですか).",
+    "title": "〜ですか (Mengulang Fakta)",
+    "meaning": "Partikel 'か' kadang hanya digunakan untuk mengulang sepatah dua patah kata penting yang baru saja diucapkan lawan bicara. Tujuannya murni untuk menunjukkan respons simpatik dan bahwa kita mengerti informasi baru tersebut.",
+    "formula_template": "[Kata Kunci Baru] ですか",
+    "ui_notes": "Artinya hampir sama dengan 'そうですか' (Oh begitu). Kata ini diucapkan bukan untuk meminta konfirmasi ulang, melainkan hanya bereaksi spontan (seperti 'Oh, Kyoto ya').",
     "examples": [
       {
-        "jp": "日曜日京都へ行きました。……京都ですか。いいですね。",
-        "id": "Hari Minggu yang lalu pergi ke Kyoto. ……Kyoto? Bagus ya."
+        "jp": "日曜日 京都へ 行きました。",
+        "id": "Hari Minggu yang lalu pergi ke Kyoto."
+      },
+      {
+        "jp": "……京都ですか。いいですね。",
+        "id": "……Kyoto (ya)? Bagus ya."
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Konfirmasi"
+      "Respons"
     ]
   }
 ]

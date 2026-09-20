@@ -54,7 +54,12 @@ export default function FlashcardPage() {
     if (cards.length === 0 || currentIndex >= cards.length || !config) return;
     
     const currentCard = cards[currentIndex].card;
-    const jpText = ("kana" in currentCard && currentCard.kana) ? currentCard.kana : currentCard.kanji || "";
+    let jpText = "";
+    if ("formula_template" in currentCard) {
+      jpText = (currentCard as any).title || "";
+    } else {
+      jpText = ("kana" in currentCard && currentCard.kana) ? currentCard.kana : (currentCard as any).kanji || "";
+    }
     if (!jpText) return;
 
     if (!isFlipped) {
@@ -223,6 +228,7 @@ export default function FlashcardPage() {
 
   const card = cards[currentIndex].card;
   const isKanjiData = "onyomi" in card;
+  const isBunpou = "formula_template" in card;
   const studyMode = config.studyMode;
 
   // Calculate remaining new cards (cards ahead that haven't been seen)
@@ -233,7 +239,73 @@ export default function FlashcardPage() {
   let frontContent = null;
   let backContent = null;
 
-  if (studyMode === "Reverse") {
+  if (isBunpou) {
+    const bunpouCard = card as any;
+    if (studyMode === "Reverse") {
+      frontContent = <div className="text-xl md:text-3xl font-bold text-center leading-tight opacity-75 px-4">{bunpouCard.meaning}</div>;
+      backContent = (
+        <div className="flex flex-col items-center justify-center w-full h-full overflow-y-auto pb-4">
+          <div className="text-3xl md:text-5xl jp-text mb-4 text-center font-bold text-[var(--color-accent)]">{bunpouCard.title}</div>
+          <div className="text-lg md:text-xl text-[var(--color-text-main)] mb-6 text-center font-mono bg-[var(--color-bg-nav)] px-4 py-2 rounded-lg">{bunpouCard.formula_template}</div>
+          
+          {bunpouCard.ui_notes && (
+             <div className="text-sm md:text-base text-[var(--color-text-muted)] mb-6 text-center italic border-l-4 border-[var(--color-accent)] pl-4 text-left max-w-full">
+               {bunpouCard.ui_notes}
+             </div>
+          )}
+
+          {bunpouCard.examples && bunpouCard.examples.length > 0 && (
+            <div className="w-full mt-2 text-left space-y-4">
+              <h4 className="text-sm font-bold text-[var(--color-text-muted)] uppercase tracking-wider mb-2">Contoh:</h4>
+              {bunpouCard.examples.map((ex: any, i: number) => (
+                <div key={i} className="text-sm md:text-base bg-[var(--color-bg-nav)] p-3 rounded-lg border-[length:var(--bw-sm)] border-[var(--color-border-main)]">
+                  <div className="jp-text font-bold mb-1">{ex.jp}</div>
+                  <div className="opacity-80">{ex.id}</div>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+      );
+    } else {
+      // Standard
+      frontContent = (
+        <>
+          <div className="text-3xl md:text-5xl jp-text mb-6 text-center font-bold">{bunpouCard.title}</div>
+          <div className="text-lg md:text-xl text-[var(--color-text-main)] font-mono bg-[var(--color-bg-nav)] px-4 py-2 rounded-lg border-[length:var(--bw-sm)] border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]">
+            {bunpouCard.formula_template}
+          </div>
+        </>
+      );
+      backContent = (
+        <div className="flex flex-col w-full h-full overflow-y-auto pb-4 custom-scrollbar">
+          <div className="flex-shrink-0 mb-4 pt-2">
+             <div className="text-lg md:text-xl font-bold mb-3 text-center leading-tight opacity-90 border-b-2 border-dashed border-[var(--color-border-main)] pb-3">
+               {bunpouCard.meaning}
+             </div>
+             {bunpouCard.ui_notes && (
+                <div className="text-sm md:text-base text-[var(--color-text-muted)] italic border-l-4 border-[var(--color-accent)] pl-4 mb-4 text-left">
+                  {bunpouCard.ui_notes}
+                </div>
+             )}
+          </div>
+          {bunpouCard.examples && bunpouCard.examples.length > 0 && (
+            <div className="flex-1 w-full space-y-3">
+              <h4 className="text-xs font-bold text-[var(--color-text-muted)] uppercase tracking-wider">Contoh:</h4>
+              <div className="space-y-2">
+                {bunpouCard.examples.map((ex: any, i: number) => (
+                  <div key={i} className="text-sm md:text-base bg-[var(--color-bg-nav)] p-3 rounded-lg border-[length:var(--bw-sm)] border-[var(--color-border-main)] text-left">
+                    <div className="jp-text font-bold mb-1 text-[var(--color-text-main)]">{ex.jp}</div>
+                    <div className="opacity-80 text-[var(--color-text-muted)]">{ex.id}</div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+      );
+    }
+  } else if (studyMode === "Reverse") {
     frontContent = <div className="text-3xl md:text-5xl font-bold text-center leading-tight opacity-75">{card.meaning}</div>;
     backContent = (
       <>

@@ -4,36 +4,9 @@
     "chapter": "Bab 10",
     "level": "N3",
     "title": "〜という",
-    "meaning": "yang bernama, yang disebut, artinya",
+    "meaning": "Pola ini digunakan untuk menyatakan 'yang bernama...', 'yang disebut...', 'artinya...'. Ada beberapa fungsi: (1) memperkenalkan nama atau sebutan, contoh: 木村さんという人 (orang yang bernama Kimura); (2) menjelaskan arti atau maksud suatu hal, contoh: 無料ということです (artinya gratis); (3) membentuk frasa 〜というもの / 〜ということ yang berarti 'hal yang disebut...' atau 'sesuatu yang...'. Pola ini sangat umum dan netral, dipakai dalam percakapan maupun tulisan.",
     "formula_template": "{A}という {B}/ {C}というもの／こと",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}という {B}/ {C}というもの／こと' untuk mengekspresikan: yang bernama, yang disebut, artinya.",
-    "ui_notes": "yang bernama, yang disebut, artinya",
+    "ui_notes": "Cara membentuk: (1) Kata benda + という + kata benda. Contoh: 木村 (Kimura) → 木村さんという人 (orang yang bernama Kimura). デジカメ (dejikame) → デジカメという言葉 (kata yang disebut dejikame). (2) Frasa/kalimat + ということ. Contoh: 無料だ (muryou da) → 無料ということです (artinya gratis). (3) Kata benda + というもの. Contoh: 愛 (ai) → 愛というもの (hal yang disebut cinta). Pola ini sering dipakai untuk: memperkenalkan nama, menjelaskan istilah, menyimpulkan arti, atau membendakan frasa. Contoh: さっき、木村さんという人から電話がありましたよ (tadi ada telepon dari seseorang yang bernama Kimura). お金はいりません。無料ということです (tidak perlu uang... artinya gratis).",
     "examples": [
       {
         "jp": "お金はいりません。無料ということです。",
@@ -54,60 +27,9 @@
     "chapter": "Bab 10",
     "level": "N3",
     "title": "〜というのは",
-    "meaning": "yang dimaksud.... adalah",
+    "meaning": "Pola ini digunakan untuk menyatakan 'yang dimaksud dengan... adalah...', '... itu adalah...'. Fungsinya adalah menjelaskan atau mendefinisikan suatu istilah, kata, atau konsep. Sering dipakai ketika pembicara ingin mengklarifikasi makna sesuatu. Bentuk kasualnya adalah 〜っていうのは. Pola ini biasanya diikuti dengan penjelasan, seperti 〜という意味だ (berarti...), 〜のことだ (adalah...), atau definisi lainnya.",
     "formula_template": "{A}というのは / {B}っていうのは | 例: {C}というのは {D}という意味（いみ）だ / {V4}というのは {V5}のことだ",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "V4": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "V5": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}というのは / {B}っていうのは | 例: {C}というのは {D}という意味（いみ）だ / {V4}というのは {V5}のことだ' untuk mengekspresikan: yang dimaksud.... adalah.",
-    "ui_notes": "yang dimaksud.... adalah",
+    "ui_notes": "Cara membentuk: Kata/konsep + というのは + penjelasan. Contoh: デジカメ (dejikame) → デジカメというのは、デジタルカメラを短くした言い方です (dejikame adalah kependekan dari digital kamera). Bentuk kasual: 〜っていうのは. Contoh: カクテイっていうのは何のことですか (istilah kakutei itu maksudnya apa?). Pola ini sering diikuti dengan: 〜という意味だ (berarti...), 〜のことだ (adalah...), 〜を短くした言い方だ (adalah cara singkat mengatakan...). Contoh: 「デジカメ」というのは、デジタルカメラを短くした言い方です (dejikame adalah kependekan dari digital kamera). Perbedaan dengan 〜という: 〜というのは lebih fokus pada penjelasan/definisi istilah, sedangkan 〜という lebih umum (bisa untuk nama, arti, atau sebutan).",
     "examples": [
       {
         "jp": "「デジカメ」というのは、デジタルカメラを短くした言い方です。",
@@ -128,26 +50,9 @@
     "chapter": "Bab 10",
     "level": "N3",
     "title": "〜というの／こと",
-    "meaning": "membendakan kalimat untuk dijadikan subjek atau objek",
+    "meaning": "Pola ini digunakan untuk membendakan (menominalkan) sebuah kalimat atau frasa, sehingga bisa dijadikan subjek atau objek dalam kalimat yang lebih besar. Artinya 'bahwa...', 'hal...'. Bentuk 〜というの / 〜っていうの lebih kasual, sedangkan 〜ということ / 〜っていうこと lebih netral/formal. Pola ini sering dipakai untuk menyatakan informasi, fakta, atau pernyataan yang kemudian dibahas lebih lanjut.",
     "formula_template": "{A}(biasa) [というの / っていうの / ということ / っていうこと]",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}(biasa) [というの / っていうの / ということ / っていうこと]' untuk mengekspresikan: membendakan kalimat untuk dijadikan subjek atau objek.",
-    "ui_notes": "membendakan kalimat untuk dijadikan subjek atau objek",
+    "ui_notes": "Cara membentuk: Kalimat/frasa bentuk biasa + というの / ということ. Contoh: 田中さんが医者だ (Tanaka-san ga isha da) → 田中さんが医者だというの (bahwa Tanaka-san adalah dokter). よく遅刻をする (yoku chikoku o suru) → よく遅刻をするというのは (sering terlambat itu adalah...). Bentuk kasual: 〜っていうの / 〜っていうこと. Pola ini sering diikuti dengan kata kerja seperti 知る (tahu), 忘れる (lupa), 問題だ (adalah masalah), 事実だ (adalah fakta). Contoh: 田中さんが医者だというのを知らなかった (saya tidak tahu bahwa Tanaka-san adalah dokter). こんなによく遅刻をするというのは問題です (sering terlambat seperti ini adalah sebuah masalah). Perbedaan 〜というの dan 〜ということ: maknanya sama, 〜というの lebih kasual dan sering dipakai dalam percakapan, 〜ということ lebih formal dan netral.",
     "examples": [
       {
         "jp": "田中さんが医者だというのを知らなかった。",

@@ -3,225 +3,196 @@
     "id": "m_bab14_1",
     "chapter": "Bab 14",
     "level": "N5",
-    "title": "ABentuk て (Kelompok & Konjugasi)",
-    "meaning": "Bentuk konjugasi yang berakhir dengan て atau で disebut bentuk て. Cara membuat bentuk て tergantung pada kelompok Kata Kerja.",
-    "formula_template": "Kelompok I: [い,ち,り->って] [み,び,に->んで] [き->いて] [ぎ->いで] [し->して] | Kelompok II: ます -> て | Kelompok III: します -> して, きます -> きて",
-    "variables": {},
-    "ai_instruction": "Gunakan pola 'Kelompok I: [い,ち,り->って] [み,び,に->んで] [き->いて] [ぎ->いで] [し->して] | Kelompok II: ます -> て | Kelompok III: します -> して, きます -> きて' untuk menyatakan: Bentuk konjugasi yang berakhir dengan て atau で disebut bentuk て. Cara membuat bentuk て tergantung pada kelompo.",
-    "ui_notes": "Pengecualian pada Kelompok I: いきます (pergi) berubah menjadi いって.",
+    "title": "Tiga Kelompok Kata Kerja (Golongan)",
+    "meaning": "Ini adalah materi pondasi paling krusial untuk konjugasi. Kata kerja bahasa Jepang terbagi menjadi 3 kelompok/golongan (Group I, II, III) berdasarkan pola huruf terakhir yang mendahului akhiran '-ます' (masu).",
+    "formula_template": "Kelompok I, Kelompok II, Kelompok III",
+    "ui_notes": "CARA MEMBEDAKAN:\n- Kelompok I: Huruf sebelum 'ます' memiliki vokal akhir 'i' (contoh: 飲みます / nomi-masu, 買います / kai-masu).\n- Kelompok II: Mayoritas huruf sebelum 'ます' bervokal 'e' (contoh: 食べます / tabe-masu, 見せます / mise-masu). Namun, ada belasan kata bervokal 'i' pengecualian yang masuk ke kelompok ini (seperti 見ます / melihat, 借ります / meminjam, 起きます / bangun).\n- Kelompok III: Paling simpel, HANYA ADA DUA KATA: 'します' (melakukan) dan '来ます' (datang/kimasu). Termasuk semua kata benda yang dirangkai dengan します (contoh: 勉強します).",
     "examples": [
       {
-        "jp": "かいます → かって",
-        "id": "membeli -> membeli (Bentuk て)"
+        "jp": "飲みます / 書きます / 急ぎます",
+        "id": "Kelompok I (Vokal I)"
       },
       {
-        "jp": "のみます → のんで",
-        "id": "minum -> minum (Bentuk て)"
+        "jp": "食べます / 見せます / 見ます",
+        "id": "Kelompok II (Mayoritas Vokal E + Pengecualian)"
+      },
+      {
+        "jp": "します / 来ます / 散歩します",
+        "id": "Kelompok III (Spesial)"
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Konjugasi"
+      "Klasifikasi",
+      "Kata Kerja"
     ]
   },
   {
     "id": "m_bab14_2",
     "chapter": "Bab 14",
     "level": "N5",
-    "title": "ABentuk て ください",
-    "meaning": "Pola kalimat ini dipakai untuk memerintah, meminta, dan menawarkan sesuatu kepada lawan bicara. Berarti 'Tolong......'.",
-    "formula_template": "{A} ください",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ください' untuk menyatakan: Pola kalimat ini dipakai untuk memerintah, meminta, dan menawarkan sesuatu kepada lawan bicara. Berarti 'Tolon. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
-    "ui_notes": "Pada umumnya dipakai bersama すみませんが sebagai maksud permintaan agar terdengar lebih halus.",
+    "title": "Bentuk 〜て (Bentuk Konjugasi 'Te')",
+    "meaning": "Bentuk 'て' (atau 'で') adalah bentuk konjugasi penyambung, dan merupakan akar untuk membuat berbagai pola tata bahasa lanjutan. Aturan perubahannya sangat ketat bergantung pada Golongan Kata Kerja di atas.",
+    "formula_template": "[Kata Kerja dirubah sesuai Aturan Kelompok]",
+    "ui_notes": "ATURAN WAJIB HAFAL:\n**Kelompok II:** Paling gampang! Coret saja 'ます' lalu ganti 'て' (食べます -> 食べて, 見ます -> 見て).\n**Kelompok III:** します -> して, 来ます -> 来て (Kite).\n**Kelompok I:** (Wajib ingat rumusnya)\n- Akhiran [い / ち / り] diganti menjadi 'って' (tte). Contoh: 買います -> 買って (Katte).\n- Akhiran [み / び / に] diganti menjadi 'んで' (nde). Contoh: 飲みます -> 飲んで (Nonde).\n- Akhiran [き] diganti 'いて' (ite), [ぎ] diganti 'いで' (ide). Contoh: 書きます -> 書いて.\n- Akhiran [し] diganti 'して'. Contoh: 貸します -> 貸して.\n- **PENGECUALIAN MUTLAK:** 行きます (pergi) berubah menjadi '行って' (Bukan 行いて).",
     "examples": [
       {
-        "jp": "すみませんが、この 漢字の 読み方を 教えて ください。",
-        "id": "Permisi, tolong ajarkan cara membaca Kanji ini. (permintaan)"
+        "jp": "待ちます -> 待って",
+        "id": "Menunggu (Gol. 1: akhiran ち -> って)"
       },
       {
-        "jp": "ボールペンで 名前を 書いて ください。",
-        "id": "Tolong tuliskan nama dengan bolpoin. (perintah)"
+        "jp": "呼びます -> 呼んで",
+        "id": "Memanggil (Gol. 1: akhiran び -> んで)"
+      },
+      {
+        "jp": "来ます -> 来て",
+        "id": "Datang (Gol. 3: spesial)"
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Permintaan",
-      "Perintah"
+      "Konjugasi",
+      "Bentuk Te"
     ]
   },
   {
     "id": "m_bab14_3",
     "chapter": "Bab 14",
     "level": "N5",
-    "title": "ABentuk て います",
-    "meaning": "Pola kalimat ini menunjukkan suatu aksi yang sedang berlangsung.",
-    "formula_template": "{A} います",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} います' untuk menyatakan: Pola kalimat ini menunjukkan suatu aksi yang sedang berlangsung.. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
-    "ui_notes": "Pola kalimat ini menunjukkan suatu aksi yang sedang berlangsung.",
+    "title": "〜て ください (Tolong... / Perintah Halus)",
+    "meaning": "Pola kalimat yang digunakan untuk meminta, memerintah secara halus, atau mempersilakan lawan bicara melakukan sesuatu. Diambil dari penggabungan [Bentuk て] + kata 'ください' (berikan padaku).",
+    "formula_template": "[Kata Kerja Bentuk て] ください",
+    "ui_notes": "Jika digunakan sebagai 'permintaan tolong' (bukan instruksi), SANGAT DISARANKAN untuk mengawalinya dengan 'すみませんが' (Maaf, tolong...). Jika digunakan untuk 'mempersilakan tamu' (seperti mempersilakan makan/minum), tambahkan kata 'どうぞ' (Silakan) di depannya.",
     "examples": [
       {
-        "jp": "ミラーさんは 今 電話を かけて います。",
-        "id": "Sdr. Miller sedang menelepon."
+        "jp": "すみませんが、この 漢字の 読み方を 教えて ください。",
+        "id": "Permisi, TOLONG AJARKAN cara membaca kanji ini."
       },
       {
-        "jp": "今 雨が 降って いますか。……はい、降って います。",
-        "id": "Sekarang hujan turun? ……Ya, hujan turun."
+        "jp": "ボールペンで 名前を 書いて ください。",
+        "id": "TOLONG TULISKAN nama dengan pulpen (Instruksi)."
+      },
+      {
+        "jp": "どうぞ たくさん 食べて ください。",
+        "id": "SILAKAN MAKAN yang banyak (Ajakan tamu)."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Sedang berlangsung"
+      "Permintaan",
+      "Instruksi Halus"
     ]
   },
   {
     "id": "m_bab14_4",
     "chapter": "Bab 14",
     "level": "N5",
-    "title": "A ましょうか",
-    "meaning": "Ini adalah ekspresi dari si pembicara menawarkan untuk melakukan sesuatu untuk lawan bicara. Berarti 'Bagaimana kalau......?'.",
-    "formula_template": "{A} ましょうか",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ましょうか' untuk menyatakan: Ini adalah ekspresi dari si pembicara menawarkan untuk melakukan sesuatu untuk lawan bicara. Berarti 'Bagaiman. Pastikan 'A' mewakili Kata Kerja (Bentuk ます dihilangkan).",
-    "ui_notes": "Ini adalah ekspresi dari si pembicara menawarkan untuk melakukan sesuatu untuk lawan bicara. Berarti 'Bagaimana kalau......?'.",
+    "title": "〜て います (Sedang Berlangsung)",
+    "meaning": "Jika [Bentuk て] dirangkaikan dengan 'います' (imasu), ia berfungsi menjelaskan sebuah aksi dinamis atau kejadian alam yang SEDANG BERLANGSUNG/PROGRES tepat pada saat detik pembicaraan dilakukan (Present Continuous Tense).",
+    "formula_template": "[Kata Kerja Bentuk て] います / いません",
+    "ui_notes": "Untuk menyangkal bahwa kejadian tersebut tidak sedang berlangsung, gunakan '〜て いません' (Sedang tidak...).",
     "examples": [
       {
-        "jp": "あしたも 来ましょうか。……ええ、10時に 来て ください。",
-        "id": "Bagaimana kalau saya besok juga datang? ……Ya, tolong datang pada pukul sepuluh."
+        "jp": "ミラーさんは 今 電話を かけて います。",
+        "id": "Sdr. Miller sekarang SEDANG MENELEPON."
       },
       {
-        "jp": "傘を 貸しましょうか。……すみません。お願いします。",
-        "id": "Bagaimana kalau saya pinjamkan payung? ……Terima kasih. Tolong pinjamkan."
+        "jp": "今 雨が 降って いますか。",
+        "id": "Apakah sekarang SEDANG TURUN hujan?"
+      },
+      {
+        "jp": "……はい、降って います。",
+        "id": "……Ya, (sedang) turun hujan."
+      },
+      {
+        "jp": "……いいえ、降って いません。",
+        "id": "……Tidak, (sedang) tidak turun hujan."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Menawarkan bantuan"
+      "Tenses",
+      "Progresif"
     ]
   },
   {
     "id": "m_bab14_5",
     "chapter": "Bab 14",
     "level": "N5",
-    "title": "Aが B",
-    "meaning": "Jika menyatakan suatu kejadian alam yang dirasakan dengan panca indera, atau menyampaikan peristiwa secara objektivitas, partikel が dipakai untuk subjek.",
-    "formula_template": "{A} が {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} が {B}' untuk menyatakan: Jika menyatakan suatu kejadian alam yang dirasakan dengan panca indera, atau menyampaikan peristiwa secara obj. Pastikan 'A' mewakili Kata Benda (Subjek Objektif/Alam), 'B' mewakili Kata Kerja.",
-    "ui_notes": "Jika menyatakan suatu kejadian alam yang dirasakan dengan panca indera, atau menyampaikan peristiwa secara objektivitas, partikel が dipakai untuk subjek.",
+    "title": "〜ましょうか (Bagaimana kalau saya bantu...?)",
+    "meaning": "Jangan tertukar dengan 'ましょう' (mari/ayo bersama-sama). Bentuk tanya '〜ましょうか' (Mashou ka) adalah tawaran proaktif murni DARI si pembicara UNTUK MENGERJAKAN SESUATU DEMI lawan bicara (menawarkan jasa/bantuan).",
+    "formula_template": "[Kata Kerja (tanpa ます)] ましょうか",
+    "ui_notes": "Respons jika MENYETUJUI: Balaslah dengan permohonan sopan (ええ、〜てください / お願いします). \nRespons jika MENOLAK: Tolaklah dengan rasa hormat menggunakan 'いいえ、けっこうです' (Tidak usah, terima kasih).",
     "examples": [
       {
-        "jp": "雨が 降って います。",
-        "id": "Hujan turun."
+        "jp": "傘を 貸しましょうか。",
+        "id": "BAGAIMANA KALAU SAYA PINJAMKAN payung?"
       },
       {
-        "jp": "ミラーさんが いませんね。",
-        "id": "Sdr. Miller tidak ada ya."
+        "jp": "……すみません。お願い します。",
+        "id": "……Terima kasih. Tolong pinjamkan (Ya)."
+      },
+      {
+        "jp": "荷物を 持ちましょうか。",
+        "id": "BAGAIMANA KALAU SAYA BAWAKAN barang (Anda)?"
+      },
+      {
+        "jp": "……いいえ、けっこうです。",
+        "id": "……Tidak usah, terima kasih (Tidak)."
       }
     ],
     "tags": [
       "N5",
-      "Partikel",
-      "Kejadian Objektif"
+      "Tawaran Bantuan",
+      "Kesopanan"
     ]
   },
   {
     "id": "m_bab14_6",
     "chapter": "Bab 14",
     "level": "N5",
-    "title": "すみませんが",
-    "meaning": "Ekspresi awal pembicaraan yang berarti 'Maaf, tolong...' atau 'Permisi...'. Dipakai sebelum meminta atau menyapa seseorang.",
-    "formula_template": "すみませんが、 {A}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'すみませんが、 {A}' untuk menyatakan: Ekspresi awal pembicaraan yang berarti 'Maaf, tolong...' atau 'Permisi...'. Dipakai sebelum meminta atau menya. Pastikan 'A' mewakili Kalimat.",
-    "ui_notes": "が yang dipakai sebagai ekspresi awal pembicaraan ini tidak berarti paradoks (tetapi) melainkan dipakai sebagai pendahuluan kalimat.",
+    "title": "Benda が (Melaporkan Fenomena Alam/Objektif)",
+    "meaning": "Saat Anda melaporkan secara spontan suatu fenomena alam (hujan turun, angin bertiup) atau peristiwa konkrit yang BUKAN merupakan topik panjang, melainkan sekadar realita panca indera yang baru Anda sadari, subjeknya HARUS ditandai dengan partikel 'が'.",
+    "formula_template": "[Fenomena / Realita] が [Kata Kerja]",
+    "ui_notes": "Anda dilarang memakai 'は' karena 'は' menyorot topik permanen. 'が' menyorot laporan sekilas seperti 'Eh, (ada) hujan (nih)!'",
     "examples": [
       {
-        "jp": "すみませんが、塩を 取って ください。",
-        "id": "Maaf, tolong ambilkan garam."
+        "jp": "雨が 降って います。",
+        "id": "Hujan (sedang) turun."
       },
       {
-        "jp": "失礼ですが、お名前は？",
-        "id": "Maaf, siapa namanya?"
+        "jp": "ミラーさんが いませんね。",
+        "id": "Eh, Sdr. Miller tidak ada ya (baru menyadari realita tersebut)."
       }
     ],
     "tags": [
       "N5",
-      "Ungkapan",
-      "Pendahuluan Pembicaraan"
+      "Partikel",
+      "Objektif Spontan"
+    ]
+  },
+  {
+    "id": "m_bab14_7",
+    "chapter": "Bab 14",
+    "level": "N5",
+    "title": "〜が (Partikel Pelembut Pendahuluan)",
+    "meaning": "Partikel 'が' (ga) yang sering diselipkan pada akhir sapaan 'すみません' (Sumimasen) atau '失礼です' (Shitsurei desu) SAMA SEKALI TIDAK berarti 'Tetapi'. Di sini ia berfungsi hanya sebagai bantalan (buffer) pelemas intonasi sebelum Anda menyodorkan pertanyaan.",
+    "formula_template": "すみませんが / 失礼ですが、[Pertanyaan / Permintaan]",
+    "ui_notes": "Padanannya dalam bahasa Indonesia persis seperti, 'Maaf mengganggu waktunya, TAPI bolehkah...' (TAPI di sini tidak bermakna paradoks/berlawanan).",
+    "examples": [
+      {
+        "jp": "すみませんが、塩を 取って ください。",
+        "id": "Maaf, (bisa) tolong ambilkan garam?"
+      },
+      {
+        "jp": "失礼ですが、お名前は？",
+        "id": "Maaf/Permisi, (boleh tahu) siapa namanya?"
+      }
+    ],
+    "tags": [
+      "N5",
+      "Partikel",
+      "Salam Pembuka"
     ]
   }
 ]

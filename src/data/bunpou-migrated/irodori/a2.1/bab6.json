@@ -1,0 +1,88 @@
+[
+  {
+    "id": "irodori_a2.1_bab6_1",
+    "chapter": 6,
+    "level": "A2.1",
+    "title": "Ｎに行きたいんですが…",
+    "meaning": "Saya ingin pergi ke [N]... (Meminta petunjuk arah)",
+    "formula_template": "Tempat (N) + に行きたいんですが…",
+    "ui_notes": "Dengan menambahkan **～んですが...** di akhir kalimat, kita secara halus menjelaskan situasi kita (sedang kebingungan / tidak tahu jalan) dengan harapan lawan bicara akan membantu mengarahkan jalan.\n\n* Akhir kalimat biasanya diucapkan dengan intonasi menurun dan suara agak melemah.\n* Kamu juga bisa menggunakan cara lain seperti **駅はどこですか？** (Di manakah stasiun?) atau **駅は、どう行ったらいいですか？** (Bagaimana caranya menuju ke stasiun?).",
+    "examples": [
+      {
+        "japanese": "マルイチデパートに行きたいんですが…。",
+        "indonesian": "Saya ingin pergi ke toserba Maruichi...",
+        "romaji": "Maruichi depaato ni ikitain desu ga..."
+      },
+      {
+        "japanese": "駅はどこですか？",
+        "indonesian": "Di manakah stasiun?",
+        "romaji": "Eki wa doko desu ka?"
+      },
+      {
+        "japanese": "駅は、どう行ったらいいですか？",
+        "indonesian": "Bagaimana caranya menuju ke stasiun?",
+        "romaji": "Eki wa, dou ittara ii desu ka?"
+      },
+      {
+        "japanese": "駅に行きたいんですが…。",
+        "indonesian": "Saya ingin pergi ke stasiun...",
+        "romaji": "Eki ni ikitain desu ga..."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 6", "tanya jalan", "ndesuga"]
+  },
+  {
+    "id": "irodori_a2.1_bab6_2",
+    "chapter": 6,
+    "level": "A2.1",
+    "title": "V-て、～ (Mengarahkan Jalan)",
+    "meaning": "Lakukan [V1], lalu [V2]...",
+    "formula_template": "V-て, ～",
+    "ui_notes": "Ungkapan ini sering digunakan saat memberikan instruksi arah jalan secara berurutan.\n\n* Gunakan kata kerja bentuk-て untuk menyambung instruksi.\n* Biasanya diakhiri dengan instruksi lembut **～てください** (Tolong...), tetapi bisa juga diakhiri dengan bentuk biasa.\n* Saat mengarahkan jalan di dalam mobil, sebutkan tujuan besarnya dulu, baru berikan arahan spesifik menggunakan penanda bangunan terdekat.",
+    "examples": [
+      {
+        "japanese": "この道をまっすぐ行って、2つ目の信号を左に曲がってください。",
+        "indonesian": "Dari jalan ini lurus terus, lalu belok kiri di lampu lalu lintas kedua.",
+        "romaji": "Kono michi o massugu itte, futatsume no shingou o hidari ni magatte kudasai."
+      },
+      {
+        "japanese": "マルイチデパートは、あの信号を右に曲がって、そのあと、ずっとまっすぐですよ。",
+        "indonesian": "Untuk mencapai toserba Maruichi, belok kanan di lampu lalu lintas itu, setelah itu lurus saja.",
+        "romaji": "Maruichi depaato wa, ano shingou o migi ni magatte, sono ato, zutto massugu desu yo."
+      },
+      {
+        "japanese": "科学博物館は、ここをまっすぐ行って、橋を渡って、すぐ右に曲がったところにあります。",
+        "indonesian": "Untuk mencapai museum sains, dari sini lurus terus, seberangi jembatan, dan museumnya berada tepat setelah Anda berbelok kanan.",
+        "romaji": "Kagaku hakubutsukan wa, koko o massugu itte, hashi o watatte, sugu migi ni magatta tokoro ni arimasu."
+      },
+      {
+        "japanese": "Ａ： 家はどの辺ですか？\nＢ： 小島高校の近くです。\nＡ： もうすぐ小島高校だけど…。\nＢ： この先に、白くて大きな家があります。その角を右に入ってください。",
+        "indonesian": "A: Rumahmu di daerah mana?\nB: Dekat SMA Kojima.\nA: Sebentar lagi kita sampai di SMA Kojima...\nB: Di depan ada rumah putih yang besar. Tolong belok kanan di tikungan itu.",
+        "romaji": "A: Ie wa dono hen desu ka?\nB: Kojima koukou no chikaku desu.\nA: Mou sugu Kojima koukou dakedo...\nB: Kono saki ni, shirokute ookina ie ga arimasu. Sono kado o migi ni haitte kudasai."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 6", "te-form", "arahan jalan"]
+  },
+  {
+    "id": "irodori_a2.1_bab6_3",
+    "chapter": 6,
+    "level": "A2.1",
+    "title": "N1じゃなくて、N2",
+    "meaning": "Bukan [N1], tapi [N2]",
+    "formula_template": "N1 + じゃなくて + N2",
+    "ui_notes": "Ungkapan ini digunakan untuk mengoreksi pernyataan lawan bicara. Kita menyangkal sesuatu yang salah (N1) dan langsung memperbaikinya dengan yang benar (N2).\n\n* **じゃなくて** berasal dari bentuk negatif **じゃない（です）** yang diubah ke bentuk-te untuk menyambung kalimat.",
+    "examples": [
+      {
+        "japanese": "1つ目じゃなくて、2つ目です。",
+        "indonesian": "Bukan yang pertama, tapi yang kedua.",
+        "romaji": "Hitotsume janakute, futatsume desu."
+      },
+      {
+        "japanese": "Ａ： すみません。博物館はどこですか？\nＢ： 博物館？ 市立博物館ですか？\nＡ： いいえ、市立博物館じゃなくて、科学博物館です。",
+        "indonesian": "A: Permisi. Museum ada di mana, ya?\nB: Museum? Apakah maksudnya museum kota?\nA: Tidak. Maksud saya bukan museum kota, tetapi museum sains.",
+        "romaji": "A: Sumimasen. Hakubutsukan wa doko desu ka?\nB: Hakubutsukan? Shiritsu hakubutsukan desu ka?\nA: Iie, shiritsu hakubutsukan janakute, kagaku hakubutsukan desu."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 6", "janakute", "koreksi"]
+  }
+]

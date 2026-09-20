@@ -4,28 +4,9 @@
     "chapter": "Bab 08",
     "level": "N3",
     "title": "〜について",
-    "meaning": "tentang, mengenai",
+    "meaning": "Pola ini digunakan untuk menyatakan 'tentang' atau 'mengenai' suatu topik. Artinya pembicara membahas, belajar, berbicara, atau menulis mengenai hal tertentu. Pola ini paling umum dan netral, bisa dipakai dalam situasi kasual maupun formal. Berbeda dengan 〜に関して yang lebih kaku, 〜について lebih sering dipakai sehari-hari. Bentuk variasinya: 〜について (langsung diikuti kata kerja), 〜についての + kata benda, 〜については (mengenai hal itu), 〜についても (juga mengenai hal itu).",
     "formula_template": "{A}に [ついて / ついての {B}/ ついては / ついても]",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}に [ついて / ついての {B}/ ついては / ついても]' untuk mengekspresikan: tentang, mengenai.",
-    "ui_notes": "tentang, mengenai",
+    "ui_notes": "Cara membentuk: Kata benda + について. Contoh: 日本文化 (nihon bunka) → 日本文化について勉強する (belajar tentang budaya Jepang). Kata benda + についての + kata benda. Contoh: 受験 (juken) → 受験についての注意 (perhatian mengenai ujian). Kata benda + については. Contoh: この件については (mengenai hal ini). Kata benda + についても. Contoh: 環境問題についても (juga mengenai masalah lingkungan). Pola ini bisa diikuti kata kerja seperti 話す (berbicara), 聞く (mendengar), 調べる (meneliti), 書く (menulis), 考える (memikirkan).",
     "examples": [
       {
         "jp": "日本文化について勉強する。",
@@ -46,50 +27,9 @@
     "chapter": "Bab 08",
     "level": "N3",
     "title": "〜に関して",
-    "meaning": "ungkapan ini lebih kaku daripada 〜について & sering digunakan dalam situasi formal",
+    "meaning": "Pola ini berarti 'berhubungan dengan...', 'sehubungan dengan...', 'mengenai...'. Ungkapan ini lebih kaku dan formal daripada 〜について, sehingga sering digunakan dalam situasi resmi seperti rapat, surat resmi, presentasi, atau tulisan akademik. Nuansanya lebih serius dan menekankan keterkaitan langsung dengan topik yang dibahas. Varian bentuknya: 〜に関して, 〜に関しては, 〜に関しても, 〜に関する + kata benda, 〜に関しての + kata benda.",
     "formula_template": "[{A}に / {B}〜のに] [関（かん）して / 関しては / 関しても / 関する {C}/ 関しての {D}]",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}に / {B}〜のに] [関（かん）して / 関しては / 関しても / 関する {C}/ 関しての {D}]' untuk mengekspresikan: ungkapan ini lebih kaku daripada 〜について & sering digunakan dalam situasi formal.",
-    "ui_notes": "ungkapan ini lebih kaku daripada 〜について & sering digunakan dalam situasi formal",
+    "ui_notes": "Cara membentuk: Kata benda + に関して. Contoh: この問題 (kono mondai) → この問題に関して (sehubungan dengan masalah ini). Kata benda + に関する + kata benda. Contoh: 農業 (nougyou) → 農業に関する論文 (makalah yang berhubungan dengan pertanian). Kata benda + に関しての + kata benda. Contoh: 事件に関しての報告 (laporan mengenai insiden). Perbedaan dengan 〜について: 〜に関して lebih formal, lebih kaku, dan sering dipakai dalam konteks resmi/tertulis. 〜について lebih netral dan umum.",
     "examples": [
       {
         "jp": "農業に関する論文を読む。",
@@ -110,20 +50,9 @@
     "chapter": "Bab 08",
     "level": "N3",
     "title": "〜によると",
-    "meaning": "digunakan untuk menjelaskan sumber informasi berdasarkan apa",
+    "meaning": "Pola ini digunakan untuk menjelaskan sumber informasi, artinya 'menurut...', 'berdasarkan...'. Biasanya dipakai ketika pembicara menyampaikan informasi yang bukan dari dirinya sendiri, melainkan dari sumber tertentu seperti berita, ramalan cuaca, buku, atau kata orang. Kalimat setelahnya sering diakhiri dengan 〜そうだ, 〜らしい, 〜ということだ, atau 〜のだそうだ untuk menegaskan bahwa informasi berasal dari sumber tersebut.",
     "formula_template": "{A}に [よると / よれば]",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}に [よると / よれば]' untuk mengekspresikan: digunakan untuk menjelaskan sumber informasi berdasarkan apa.",
-    "ui_notes": "digunakan untuk menjelaskan sumber informasi berdasarkan apa",
+    "ui_notes": "Cara membentuk: Kata benda (sumber informasi) + によると / によれば. Contoh: 天気予報 (tenki yohou) → 天気予報によれば (menurut ramalan cuaca). テレビの速報 (terebi no sokuhou) → テレビの速報によると (menurut berita kilat TV). Pola ini biasanya diikuti kalimat yang menyatakan isi informasi, sering dengan 〜らしい, 〜そうだ, 〜ということだ. Contoh: 天気予報によれば、明日は晴れるらしい (menurut ramalan cuaca, besok katanya cerah). Perbedaan によると dan によれば: maknanya sama, によれば sedikit lebih formal.",
     "examples": [
       {
         "jp": "天気予報によれば、明日は晴れるらしい。",
@@ -144,28 +73,9 @@
     "chapter": "Bab 08",
     "level": "N3",
     "title": "〜によって",
-    "meaning": "digunakan untuk mengungkapkan sebuah (1) cara (2) keadaan \"tergantung\" (3) penyebab",
+    "meaning": "Pola ini digunakan untuk mengungkapkan beberapa makna: (1) cara atau metode, artinya 'dengan cara...', 'melalui...'; (2) keadaan 'tergantung', artinya 'tergantung pada...', 'berbeda-beda menurut...'; (3) penyebab, artinya 'karena...', 'akibat...'. Selain itu, 〜によって juga bisa menunjukkan pelaku dalam kalimat pasif (oleh...). Varian bentuknya: 〜によって, 〜によっては, 〜により, 〜による + kata benda.",
     "formula_template": "{A}に [よって / よっては / より / よる {B}]",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}に [よって / よっては / より / よる {B}]' untuk mengekspresikan: digunakan untuk mengungkapkan sebuah (1) cara (2) keadaan \"tergantung\" (3) penyebab.",
-    "ui_notes": "digunakan untuk mengungkapkan sebuah (1) cara (2) keadaan \"tergantung\" (3) penyebab",
+    "ui_notes": "Cara membentuk: Kata benda + によって / により / による. Contoh: (1) Cara: 努力 (doryoku) → 努力によって病気を克服した (mengatasi penyakit dengan cara berusaha). (2) Tergantung: 人 (hito) → 人によって考え方が違います (cara berpikir berbeda tergantung orangnya). (3) Penyebab: 地震 (jishin) → 地震によって建物が壊れた (bangunan rusak akibat gempa). (4) Pelaku pasif: この本は夏目漱石によって書かれた (buku ini ditulis oleh Natsume Soseki). Perbedaan によって dan によっては: によって = secara umum, によっては = tergantung pada kasus tertentu. により lebih formal/tertulis, による + kata benda.",
     "examples": [
       {
         "jp": "彼は努力によって病気を克服した。",

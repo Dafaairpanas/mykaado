@@ -1,190 +1,159 @@
 [
   {
-    "id": "i_bab12_1",
-    "chapter": "Bab 12",
+    "id": "irodori_a2.1_bab12_1",
+    "chapter": 12,
     "level": "A2.1",
-    "title": "ナA-／イA- そうです — Kelihatannya ...",
-    "meaning": "Pola kalimat untuk menyatakan kesan atau dugaan berdasarkan apa yang terlihat (penampilan). 'そうです' berarti 'kelihatannya' atau 'sepertinya'. Untuk kata sifat-na (ナA), gunakan langsung kata sifat + 'そうです'. Untuk kata sifat-i (イA), hilangkan 'い' dan tambahkan 'そうです'. Sangat berguna saat mengomentari makanan berdasarkan penampilan. Artinya 'Kelihatannya [sifat]'.",
-    "formula_template": "{A} そうです / {B} → {C} そうです",
-    "variables": {
-      "A": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} そうです / {B} → {C} そうです' untuk percakapan: Pola kalimat untuk menyatakan kesan atau dugaan berdasarkan apa yang terlihat (penampilan). 'そうです' berarti 'ke. Pastikan 'A' mewakili ナA, 'B' mewakili イA-i, 'C' mewakili イA-.",
-    "ui_notes": "Untuk kata sifat-i: おいしい (enak) → おいしそう (kelihatan enak), 辛い (pedas) → 辛そう (kelihatan pedas), 甘い (manis) → 甘そう (kelihatan manis). Untuk kata sifat-na: きれい (cantik) → きれいそう (kelihatan cantik), 便利 (praktis) → 便利そう (kelihatan praktis). Jangan gunakan untuk kata kerja.",
+    "title": "[ナA]-そうです / [イA]-そうです",
+    "meaning": "Kelihatannya [Kata Sifat]",
+    "formula_template": "Kata Sifat (Coret 'i' / 'na') + そうです",
+    "ui_notes": "Pola ini digunakan untuk menyatakan **penilaian langsung menggunakan indra penglihatan** (menebak dari penampilan). Misalnya saat melihat masakan dan berkomentar *kelihatannya enak*, *kelihatannya pedas*, dsb.\n\n* **Kata Sifat-イ**: Coret bunyi **い**, lalu tambah **そうです** (おいしい → おいしそうです).\n* **Kata Sifat-ナ**: Coret akhiran **な**, lalu tambah **そうです** (元気 → 元気そうです).",
     "examples": [
       {
-        "jp": "そのお弁当、おいしそうですね。",
-        "id": "Bekal itu kelihatannya enak ya."
+        "japanese": "そのお弁当、おいしそうですね。",
+        "indonesian": "Bekal Anda kelihatannya enak ya.",
+        "romaji": "Sono obentou, oishisou desu ne."
       },
       {
-        "jp": "この料理、辛そうですね。",
-        "id": "Masakan ini kelihatannya pedas ya."
+        "japanese": "Ａ： みかん、ちょっとすっぱそうですね。\nＢ： そんなことないわよ。甘いわよ。",
+        "indonesian": "A: Jeruk ini kelihatannya agak asam, ya?\nB: Tidak kok. Manis, lho.",
+        "romaji": "A: Mikan, chotto suppasou desu ne.\nB: Sonna koto nai wa yo. Amai wa yo."
       }
     ],
-    "tags": [
-      "A2",
-      "Kesan",
-      "Penampilan",
-      "Makanan"
-    ]
+    "tags": ["irodori", "A2.1", "bab 12", "soudesu", "kelihatannya", "penampilan"]
   },
   {
-    "id": "i_bab12_2",
-    "chapter": "Bab 12",
+    "id": "irodori_a2.1_bab12_2",
+    "chapter": 12,
     "level": "A2.1",
-    "title": "イA-くて、〜 — Rasanya ... dan ...",
-    "meaning": "Pola untuk menggabungkan dua kata sifat-i (イA) untuk mendeskripsikan rasa atau kualitas makanan. Ubah kata sifat pertama dengan mengubah 'い' menjadi 'くて', lalu diikuti kata sifat kedua. Sangat berguna saat memberikan kesan tentang makanan yang baru dicicipi. Artinya '[Sifat1], dan [Sifat2]'.",
-    "formula_template": "{A} → {B} {C}",
-    "variables": {
-      "A": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} → {B} {C}' untuk percakapan: Pola untuk menggabungkan dua kata sifat-i (イA) untuk mendeskripsikan rasa atau kualitas makanan. Ubah kata sif. Pastikan 'A' mewakili イA-い, 'B' mewakili イA-くて, 'C' mewakili イA.",
-    "ui_notes": "Untuk kata sifat-na (ナA), gunakan 'で' sebagai penghubung: にぎやかで便利です (ramai dan praktis). Untuk menggabungkan kata sifat-i (イA) dan kata sifat-na (ナA): 甘くて、おしゃれなケーキ (Kue yang manis dan modis). Bisa juga menggabungkan lebih dari 2 sifat dengan pola yang sama.",
+    "title": "[ナA]-そうな N / [イA]-そうな N",
+    "meaning": "[N] yang Kelihatannya [Kata Sifat]",
+    "formula_template": "Kata Sifat (Coret 'i' / 'na') + そうな + Kata Benda (N)",
+    "ui_notes": "Kalau kamu ingin menjadikan tebakan/penampilan itu sebagai *penjelas* untuk sebuah benda, ubah **そうです** menjadi **そうな**.\n\n* Contoh: **おいしそうなケーキ** (Kue yang kelihatannya enak).",
     "examples": [
       {
-        "jp": "この卵焼き、甘くておいしいですね。",
-        "id": "Telur dadar gulung ini manis dan enak ya."
+        "japanese": "それ、辛そうな料理ですね。",
+        "indonesian": "Sepertinya itu masakan yang pedas, ya.",
+        "romaji": "Sore, karasouna ryouri desu ne."
       },
       {
-        "jp": "このスープ、熱くて辛いです。",
-        "id": "Sup ini panas dan pedas."
+        "japanese": "おいしそうなケーキですね。",
+        "indonesian": "Kue yang terlihat lezat, ya.",
+        "romaji": "Oishisouna keeki desu ne."
       }
     ],
-    "tags": [
-      "A2",
-      "Rasa",
-      "Deskripsi",
-      "Makanan"
-    ]
+    "tags": ["irodori", "A2.1", "bab 12", "souna", "penjelas kata benda"]
   },
   {
-    "id": "i_bab12_3",
-    "chapter": "Bab 12",
+    "id": "irodori_a2.1_bab12_3",
+    "chapter": 12,
     "level": "A2.1",
-    "title": "V-てみます — Mencoba Melakukan",
-    "meaning": "Pola kalimat untuk menyatakan bahwa seseorang mencoba melakukan sesuatu, biasanya untuk pertama kalinya atau untuk melihat bagaimana hasilnya. 'V-てみる' berarti 'mencoba melakukan'. Digunakan saat mencicipi makanan baru atau mencoba pengalaman baru. Artinya 'Mencoba [melakukan]'.",
-    "formula_template": "{A} みます",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} みます' untuk percakapan: Pola kalimat untuk menyatakan bahwa seseorang mencoba melakukan sesuatu, biasanya untuk pertama kalinya atau u. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
-    "ui_notes": "'V-てみる' memiliki nuansa 'eksperimen' atau 'coba-coba'. Berbeda dengan 'V-る' yang berarti melakukan secara serius. Contoh: 行ってみる (Mencoba pergi - mungkin baru pertama kali atau hanya coba) vs 行く (Pergi - pasti pergi). Bentuk lampau: 食べてみました (Sudah mencoba makan).",
+    "title": "[イA]-くて、～ / [イA]-くなくて、～",
+    "meaning": "Karena [Kata Sifat-i / Tidak Kata Sifat-i], ...",
+    "formula_template": "イA-くて, ～ ATAU イA-くなくて, ～",
+    "ui_notes": "Pada Bab 5 kita sudah memakai **～くて** untuk menderetkan dua kata sifat. Namun, ternyata bentuk **～くて** juga bisa berfungsi sebagai **alasan** untuk kalimat selanjutnya.\n\n* Positif: **～くて** (Contoh: 甘くて = Karena manis)\n* Negatif: **～くなくて** (Contoh: 甘くなくて = Karena tidak manis)",
     "examples": [
       {
-        "jp": "よかったら、この卵焼き、食べてみてください。",
-        "id": "Kalau mau, coba makan telur dadar gulung ini."
+        "japanese": "この卵焼き、甘くて、おいしいですね。",
+        "indonesian": "Tamagoyaki ini enak karena manis.",
+        "romaji": "Kono tamagoyaki, amakute, oishii desu ne."
       },
       {
-        "jp": "このケーキを食べてみました。",
-        "id": "Saya mencoba makan kue ini."
+        "japanese": "茶碗蒸し、甘くなくて、おいしいですよ。",
+        "indonesian": "Chawanmushi-nya enak karena tidak manis, lho.",
+        "romaji": "Chawanmushi, amakunakute, oishii desu yo."
+      },
+      {
+        "japanese": "梅干しはすっぱくて、苦手です。",
+        "indonesian": "Saya tidak suka umeboshi, karena asam.",
+        "romaji": "Umeboshi wa suppakute, nigate desu."
+      },
+      {
+        "japanese": "この料理は辛くなくて、子どもも食べることができます。",
+        "indonesian": "Anak-anak pun bisa makan masakan ini karena tidak pedas.",
+        "romaji": "Kono ryouri wa karakunakute, kodomo mo taberu koto ga dekimasu."
       }
     ],
-    "tags": [
-      "A2",
-      "Mencoba",
-      "Pengalaman",
-      "Makanan"
-    ]
+    "tags": ["irodori", "A2.1", "bab 12", "kute", "alasan", "kata sifat i"]
   },
   {
-    "id": "i_bab12_4",
-    "chapter": "Bab 12",
+    "id": "irodori_a2.1_bab12_4",
+    "chapter": 12,
     "level": "A2.1",
-    "title": "〜とか (〜toka) — Seperti ...",
-    "meaning": "Pola untuk memberikan contoh atau daftar hal-hal yang tidak lengkap. 'とか' digunakan di antara kata benda untuk menunjukkan bahwa ada hal-hal lain selain yang disebutkan. Sangat berguna saat menjelaskan bahan makanan atau isi suatu masakan. Artinya 'Seperti [N1], [N2], dan lain-lain'.",
-    "formula_template": "{A} とか {B} とか",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} とか {B} とか' untuk percakapan: Pola untuk memberikan contoh atau daftar hal-hal yang tidak lengkap. 'とか' digunakan di antara kata benda untuk. Pastikan 'A' mewakili N1, 'B' mewakili N2.",
-    "ui_notes": "'とか' adalah bentuk kasual dari 'や' (dan - daftar tidak lengkap). Perbedaan dengan 'や': 'や' lebih sering digunakan dalam tulisan, sedangkan 'とか' lebih sering digunakan dalam percakapan. Bisa juga menggunakan '〜たり〜たり' untuk daftar aktivitas: 食べたり飲んだり (makan, minum, dan lain-lain).",
+    "title": "V-てみます",
+    "meaning": "Mencoba untuk [V] (Merasakan/Melakukan untuk pertama kali)",
+    "formula_template": "V-て (Bentuk-te) + みます",
+    "ui_notes": "Digunakan ketika kita akan melakukan sesuatu untuk pertama kalinya agar tahu seperti apa rasanya / efeknya (misal: mencicipi makanan).\n\n* Dapat digabungkan dengan ungkapan ajakan/saran, seperti: **食べてみてください** (tolong coba cicipi), **行ってみませんか？** (maukah coba pergi ke sana?), atau **行ってみたい** (ingin coba pergi).",
     "examples": [
       {
-        "jp": "鶏肉とか、エビとか、きのことかが入ってます。",
-        "id": "Ada ayam, udang, jamur, dan lain-lain di dalamnya."
+        "japanese": "よかったら、この卵焼き、食べてみてください。",
+        "indonesian": "Kalau Anda mau, silakan cicipi tamagoyaki ini.",
+        "romaji": "Yokattara, kono tamagoyaki, tabete mite kudasai."
       },
       {
-        "jp": "果物とか、野菜とかを食べます。",
-        "id": "Saya makan buah-buahan, sayuran, dan lain-lain."
+        "japanese": "Ａ： 梅干し、食べてみる？\nＢ： はい。いただきます。",
+        "indonesian": "A: Mau coba cicipi umeboshi?\nB: Ya, terima kasih.",
+        "romaji": "A: Umeboshi, tabete miru?\nB: Hai. Itadakimasu."
+      },
+      {
+        "japanese": "今度、おすしを作ってみます。",
+        "indonesian": "Berikutnya, saya akan coba membuat sushi.",
+        "romaji": "Kondo, osushi o tsukutte mimasu."
       }
     ],
-    "tags": [
-      "A2",
-      "Contoh",
-      "Bahan",
-      "Makanan"
-    ]
+    "tags": ["irodori", "A2.1", "bab 12", "te-mimasu", "coba"]
+  },
+  {
+    "id": "irodori_a2.1_bab12_5",
+    "chapter": 12,
+    "level": "A2.1",
+    "title": "Verba Intransitif (自動詞) / Verba Transitif (他動詞)",
+    "meaning": "Kata Kerja Intransitif vs Transitif",
+    "formula_template": "",
+    "ui_notes": "Bahasa Jepang membedakan kata kerja berdasarkan pelakunya:\n\n* **Verba Transitif (他動詞)**: Menunjukkan bahwa seseorang melakukan aksi secara sengaja. Polanya: **(Orang が) N を V**. Contoh: **入れる** (memasukkan).\n* **Verba Intransitif (自動詞)**: Fokus pada *peristiwa* atau *kondisi*, bukan pelakunya. Polanya: **N が V**. Contoh: **入る** (masuk / berisi).\n\n### 💡 Recap: Pasangan Kata Kerja\n| Verba Intransitif (Fokus Kondisi) | Verba Transitif (Fokus Pelaku) |\n|---|---|\n| **入（はい）る** (isinya/terkandung) | **入（い）れる** (memasukkan) |\n| **焼（や）ける** (sudah matang) | **焼（や）く** (memanggang) |\n| **煮（に）える** (sudah matang direbus) | **煮（に）る** (merebus) |\n\n*Catatan: **Verba Intransitif bentuk-te + います** dipakai untuk menjelaskan suatu kondisi secara objektif (Contoh: ~が入っています = di dalamnya berisi ~).* ",
+    "examples": [
+      {
+        "japanese": "鶏肉とか、エビとか、きのことかが入ってます。",
+        "indonesian": "Isinya ayam, udang, dan jamur.",
+        "romaji": "Toriniku toka, ebi toka, kinoko toka ga haittemasu."
+      },
+      {
+        "japanese": "ときどき、銀杏も入れますよ。",
+        "indonesian": "Kadang memasukkan kacang ginkgo juga.",
+        "romaji": "Tokidoki, ginnan mo iremasu yo."
+      },
+      {
+        "japanese": "すき焼きには牛肉、豆腐、ねぎが入っています。ときどき、しいたけを入れます。",
+        "indonesian": "Sukiyaki isinya daging sapi, tahu, dan daun bawang. Kadang saya memasukkan jamur shiitake.",
+        "romaji": "Sukiyaki ni wa gyuuniku, toufu, negi ga haitte imasu. Tokidoki, shiitake o iremasu."
+      },
+      {
+        "japanese": "Ａ： 肉が焼けましたよ。食べてください。\nＢ： いただきます。\nＡ： 次は何を焼きますか？",
+        "indonesian": "A: Dagingnya sudah matang, silakan dimakan.\nB: Terima kasih.\nA: Selanjutnya memanggang apa?",
+        "romaji": "A: Niku ga yakemashita yo. Tabete kudasai.\nB: Itadakimasu.\nA: Tsugi wa nani o yakimasu ka?"
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 12", "intransitif", "transitif", "pasangan verba"]
+  },
+  {
+    "id": "irodori_a2.1_bab12_6",
+    "chapter": 12,
+    "level": "A2.1",
+    "title": "[イA]-くないですか？",
+    "meaning": "Apakah tidak terlalu [Kata Sifat-i]?",
+    "formula_template": "イA-くないですか？",
+    "ui_notes": "Ungkapan ini adalah pertanyaan bernada khawatir, dipakai untuk memastikan apakah lawan bicara merasa baik-baik saja dengan kondisi yang ada.\n\n* Contoh: **寒くないですか？** (Apakah tidak kedinginan?), **難しくないですか？** (Apakah tidak sulit?).",
+    "examples": [
+      {
+        "japanese": "味は、うすくないですか？",
+        "indonesian": "Apakah bumbunya tidak kurang terasa?",
+        "romaji": "Aji wa, usukunai desu ka?"
+      },
+      {
+        "japanese": "Ａ： わさび、辛くないですか？\nＢ： だいじょうぶです。わさび、大好きですから。",
+        "indonesian": "A: Apakah wasabinya tidak pedas?\nB: Tidak apa-apa, saya sangat suka wasabi.",
+        "romaji": "A: Wasabi, karakunai desu ka?\nB: Daijoubu desu. Wasabi, daisuki desu kara."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 12", "kunai", "kekhawatiran"]
   }
 ]

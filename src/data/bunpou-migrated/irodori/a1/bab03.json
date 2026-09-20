@@ -6,18 +6,6 @@
     "title": "Nです",
     "meaning": "Pola kalimat paling dasar untuk memperkenalkan nama atau identitas diri. Setara dengan 'Saya adalah N' atau 'Ini adalah N'. 'Desu' berfungsi sebagai kata kerja kopula (adalah).",
     "formula_template": "{A} です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} です' untuk percakapan: Pola kalimat paling dasar untuk memperkenalkan nama atau identitas diri. Setara dengan 'Saya adalah N' atau 'I. Pastikan 'A' mewakili Nama/Identitas.",
     "ui_notes": "Dalam percakapan sehari-hari, subjek '私は' (watashi wa) sering dihilangkan karena sudah tersirat dari konteks.",
     "examples": [
       {
@@ -42,26 +30,6 @@
     "title": "N1はN2です",
     "meaning": "Pola kalimat untuk menyatakan bahwa N1 adalah N2. 'は' (dibaca 'wa') adalah partikel penanda topik, sedangkan 'です' berarti 'adalah'. Berfungsi untuk menjelaskan identitas, profesi, atau kewarganegaraan.",
     "formula_template": "{A} は {B} です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      },
-      "B": {
-        "type": [
-          "adv"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は {B} です' untuk percakapan: Pola kalimat untuk menyatakan bahwa N1 adalah N2. 'は' (dibaca 'wa') adalah partikel penanda topik, sedangkan '. Pastikan 'A' mewakili Subjek/Topik, 'B' mewakili Keterangan.",
     "ui_notes": "Partikel 'は' selalu dibaca 'wa', bukan 'ha'. Dalam percakapan sehari-hari, '私は' sering dihilangkan jika topik sudah jelas.",
     "examples": [
       {
@@ -86,18 +54,6 @@
     "title": "〜から来ました",
     "meaning": "Digunakan untuk menyatakan asal negara atau daerah. 'から' berarti 'dari', dan '来ました' (kimashita) adalah bentuk sopan lampau dari '来る' (kuru) yang berarti 'datang'. Secara harfiah: 'telah datang dari...' → 'berasal dari...'.",
     "formula_template": "{A} から来ました",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} から来ました' untuk percakapan: Digunakan untuk menyatakan asal negara atau daerah. 'から' berarti 'dari', dan '来ました' (kimashita) adalah bentuk . Pastikan 'A' mewakili Tempat/ Negara.",
     "ui_notes": "Sering digunakan bersama dengan 'Nです' dan 'よろしくお願いします' dalam satu rangkaian perkenalan diri. Lebih natural daripada '〜からです' untuk konteks perkenalan.",
     "examples": [
       {
@@ -122,18 +78,6 @@
     "title": "Nは？",
     "meaning": "Cara singkat untuk menanyakan topik yang sama kepada orang lain. Fokus pertanyaan ada pada N (nama/topik). Setara dengan 'Bagaimana dengan N?' atau 'Kalau N, bagaimana?'.",
     "formula_template": "{A} は？",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は？' untuk percakapan: Cara singkat untuk menanyakan topik yang sama kepada orang lain. Fokus pertanyaan ada pada N (nama/topik). Set. Pastikan 'A' mewakili Topik.",
     "ui_notes": "'お名前は' adalah bentuk sopan dari '名前は'. 'お〜' adalah awalan penghormatan. Dalam percakapan kasual cukup gunakan '名前は？' atau hanya sebut nama + 'は？'.",
     "examples": [
       {
@@ -158,27 +102,6 @@
     "title": "Nも",
     "meaning": "Partikel 'も' berarti 'juga'. Digunakan untuk menyatakan bahwa pernyataan yang sama berlaku untuk N. Dalam perkenalan, sering digunakan untuk menanyakan atau menyatakan asal daerah yang sama dengan orang lain.",
     "formula_template": "{A} も {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} も {B}' untuk percakapan: Partikel 'も' berarti 'juga'. Digunakan untuk menyatakan bahwa pernyataan yang sama berlaku untuk N. Dalam perk. Pastikan 'A' mewakili Topik, 'B' mewakili Predikat.",
     "ui_notes": "'も' menggantikan partikel 'は' atau 'が'. Jangan gunakan 'は' dan 'も' bersamaan. Dalam pertanyaan, intonasi naik di akhir kalimat.",
     "examples": [
       {
@@ -203,18 +126,6 @@
     "title": "Nじゃないです",
     "meaning": "Bentuk negatif sopan dari 'Nです'. Digunakan untuk menyangkal bahwa sesuatu adalah N. Setara dengan 'Bukan N'.",
     "formula_template": "{A} じゃないです",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} じゃないです' untuk percakapan: Bentuk negatif sopan dari 'Nです'. Digunakan untuk menyangkal bahwa sesuatu adalah N. Setara dengan 'Bukan N'.. Pastikan 'A' mewakili Topik.",
     "ui_notes": "'じゃないです' adalah bentuk sopan kasual. Bentuk lebih formal adalah 'ではありません' (de wa arimasen). 'じゃ' adalah kependekan dari 'では' dalam percakapan sehari-hari.",
     "examples": [
       {

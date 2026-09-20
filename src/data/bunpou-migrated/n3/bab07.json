@@ -4,40 +4,9 @@
     "chapter": "Bab 07",
     "level": "N3",
     "title": "〜ばかり",
-    "meaning": "melulu",
+    "meaning": "Pola ini digunakan untuk menyatakan 'melulu', 'terus-terusan', 'hanya... saja', atau 'penuh dengan...'. Ada beberapa nuansa: (1) menyatakan bahwa sesuatu didominasi oleh hal tertentu (contoh: pelanggan di toko ini perempuan semua), (2) menyatakan kebiasaan yang dilakukan terus-menerus dan biasanya bernuansa keluhan atau kritik (contoh: adik nonton TV melulu), (3) setelah kata kerja bentuk て, 〜てばかりいる berarti 'terus-menerus melakukan...'. Pola ini sering mengandung nada ketidaksetujuan atau keluhan dari pembicara.",
     "formula_template": "[{A}(coret だ) / {B}て / {C}てばかりいる] ばかり",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "C": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}(coret だ) / {B}て / {C}てばかりいる] ばかり' untuk mengekspresikan: melulu.",
-    "ui_notes": "melulu",
+    "ui_notes": "Cara membentuk: (1) Kata benda + ばかり. Contoh: 女性 (josei) → 女性ばかり (perempuan semua/melulu perempuan). 子ども (kodomo) → 子どもばかり (anak-anak melulu). (2) Kata kerja bentuk て + ばかりいる. Contoh: 見る (miru) → 見て (mite) → 見てばかりいる (nonton melulu). 食べる (taberu) → 食べてばかりいる (makan melulu). (3) Kata sifat-na: coret だ, lalu + ばかり. Contoh: 元気だ (genki da) → 元気ばかり (sehat melulu). Pola 〜てばかりいる biasanya menyatakan kebiasaan yang dikritik. Contoh: 弟は、テレビを見てばかりいる (adik nonton TV melulu). Perbedaan dengan 〜だけ: 〜ばかり menekankan dominasi atau kebiasaan berulang, sedangkan 〜だけ menekankan batas/jumlah.",
     "examples": [
       {
         "jp": "この店のお客さんは女性ばかりです。",
@@ -58,30 +27,9 @@
     "chapter": "Bab 07",
     "level": "N3",
     "title": "〜だけしか",
-    "meaning": "untuk memberi penekanan pada kata \"hanya\"",
+    "meaning": "Pola ini digunakan untuk memberi penekanan pada kata 'hanya'. Artinya 'hanya... saja', 'cuma... saja'. 〜だけ sudah berarti 'hanya', dan 〜しか juga berarti 'hanya' (tetapi harus dengan kata kerja negatif). Ketika keduanya digabung menjadi 〜だけしか, penekanannya menjadi lebih kuat, seperti 'hanya... saja (tidak ada yang lain)'. Pola ini selalu diikuti dengan bentuk negatif di akhir kalimat.",
     "formula_template": "{A}だけしか {B}ない",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}だけしか {B}ない' untuk mengekspresikan: untuk memberi penekanan pada kata \"hanya\".",
-    "ui_notes": "untuk memberi penekanan pada kata \"hanya\"",
+    "ui_notes": "Cara membentuk: Kata benda + だけしか + kata kerja bentuk negatif. Contoh: 会員 (kaiin) → 会員だけしか入れない (hanya member saja yang bisa masuk). 一人 (hitori) → 一人だけしか来ない (hanya satu orang saja yang datang). Pola ini selalu memakai bentuk negatif (〜ない, 〜ません) di akhir kalimat. Perbandingan: 〜だけ = hanya (bisa dengan kalimat positif atau negatif), 〜しか〜ない = hanya (harus negatif), 〜だけしか〜ない = hanya... saja (penekanan lebih kuat, harus negatif). Contoh: 会員だけ入れます (hanya member yang bisa masuk) vs 会員だけしか入れません (hanya member saja yang bisa masuk, tidak ada yang lain).",
     "examples": [
       {
         "jp": "このコンサートは、会員だけしか入れません。",
@@ -102,43 +50,16 @@
     "chapter": "Bab 07",
     "level": "N3",
     "title": "〜さえ",
-    "meaning": "sering digunakan dalam kalimat yang mempunyai kesan negatif; ✓ biasanya pembicara merasa kesal, heran, tidak habis pikir",
+    "meaning": "Pola ini digunakan untuk menyatakan 'bahkan... pun', 'saja... pun'. Sering digunakan dalam kalimat yang mempunyai kesan negatif; biasanya pembicara merasa kesal, heran, atau tidak habis pikir. Artinya menunjukkan bahwa hal yang paling dasar atau paling tidak terduga pun terjadi/berlaku. Contoh: 'anak kecil pun tahu', 'menulis hiragana saja tidak bisa'. Pola ini menekankan bahwa jika hal yang paling mudah/rendah saja begitu, apalagi hal yang lebih sulit/tinggi.",
     "formula_template": "[{A}/ {B}に / {C}で] さえ",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}/ {B}に / {C}で] さえ' untuk mengekspresikan: sering digunakan dalam kalimat yang mempunyai kesan negatif; ✓ biasanya pembicara merasa kesal, heran, tidak h.",
-    "ui_notes": "sering digunakan dalam kalimat yang mempunyai kesan negatif; ✓ biasanya pembicara merasa kesal, heran, tidak habis pikir",
+    "ui_notes": "Cara membentuk: (1) Kata benda + さえ. Contoh: 子ども (kodomo) → 子どもでさえ (bahkan anak kecil pun). ひらがな (hiragana) → ひらがなさえ (bahkan hiragana pun). (2) Kata benda + に + さえ. Contoh: 私にさえ (bahkan kepada saya pun). (3) Kata benda + で + さえ. Contoh: 子どもでさえ (bahkan anak kecil pun). Pola ini sering diikuti dengan kata kerja bentuk negatif atau pernyataan yang mengejutkan. Contoh: そんなこと、子どもでさえ知っている (hal seperti itu anak kecil pun tahu). ひらがなさえ書けないんですから、漢字なんて書けません (menulis hiragana saja tidak bisa, apalagi kanji). Catatan: pada contoh asli terdapat typo 'ひらがなさ particulate/え書けないんですから', yang seharusnya 'ひらがなさえ書けないんですから'.",
     "examples": [
       {
         "jp": "そんなこと、子どもでさえ知っている。",
         "id": "hal seperti itu anak kecil pun tahu"
       },
       {
-        "jp": "ひらがなさ particulate/え書けないんですから、漢字なんて書けません。",
+        "jp": "ひらがなさえ書けないんですから、漢字なんて書けません。",
         "id": "menulis hiragana saja tidak bisa, apalagi huruf kanji"
       }
     ],
@@ -152,20 +73,9 @@
     "chapter": "Bab 07",
     "level": "N3",
     "title": "〜こそ",
-    "meaning": "digunakan untuk memberi penekanan; ✓ biasanya tidak digunakan dalam kalimat yang bernuansa negatif",
+    "meaning": "Pola ini digunakan untuk memberi penekanan yang kuat, artinya 'justru...lah', 'inilah yang...', 'karena...lah maka...'. Biasanya tidak digunakan dalam kalimat yang bernuansa negatif. 〜こそ menunjuk pada hal yang paling penting atau paling tepat, dan sering dipakai untuk menegaskan bahwa justru hal itulah yang menjadi kunci. Bentuk 〜からこそ berarti 'justru karena...', yang menekankan alasan yang kuat.",
     "formula_template": "{A}こそ / 〜からこそ (alasan)",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}こそ / 〜からこそ (alasan)' untuk mengekspresikan: digunakan untuk memberi penekanan; ✓ biasanya tidak digunakan dalam kalimat yang bernuansa negatif.",
-    "ui_notes": "digunakan untuk memberi penekanan; ✓ biasanya tidak digunakan dalam kalimat yang bernuansa negatif",
+    "ui_notes": "Cara membentuk: (1) Kata benda + こそ. Contoh: 辛い時 (tsurai toki) → 辛い時こそ (justru di masa sulit). これ (kore) → これこそ (inilah yang...). (2) Kata kerja/kata sifat bentuk biasa + からこそ. Contoh: 愛情がある (aijou ga aru) → 愛情があるからこそ (justru karena ada rasa sayang). 頑張った (ganbatta) → 頑張ったからこそ (justru karena sudah berusaha). Pola 〜こそ sering dipakai untuk menegaskan: 辛い時こそ、大切なことを学べるチャンスだ (justru di masa sulit lah kesempatan bisa mempelajari hal-hal penting). 愛情があるからこそ、しかるんです (justru karena ada rasa sayang, makanya marah). Nuansa: positif dan menegaskan, tidak untuk kalimat negatif.",
     "examples": [
       {
         "jp": "辛い時こそ、大切なことを学べるチャンスだ。",

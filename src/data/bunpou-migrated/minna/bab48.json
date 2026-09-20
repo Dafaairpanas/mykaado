@@ -3,175 +3,72 @@
     "id": "m_bab48_1",
     "chapter": "Bab 48",
     "level": "N4",
-    "title": "使役A(BKausatif)",
-    "meaning": "Digunakan untuk menyatakan paksaan (menyuruh) atau persetujuan (membiarkan/mengizinkan) seseorang melakukan sesuatu. Kata Kerja Kausatif dikonjugasi sebagai Kata Kerja Kelompok II.",
-    "formula_template": "Gol I: [i] -> [a]せます/せる | Gol II: ~ます -> ~させます/させる | Gol III: きます -> こさせます/こさせる, します -> させます/させる",
-    "variables": {},
-    "ai_instruction": "Gunakan pola 'Gol I: [i] -> [a]せます/せる | Gol II: ~ます -> ~させます/させる | Gol III: きます -> こさせます/こさせる, します -> させます/させる' untuk menyatakan: Digunakan untuk menyatakan paksaan (menyuruh) atau persetujuan (membiarkan/mengizinkan) seseorang melakukan se.",
-    "ui_notes": "Umumnya digunakan oleh orang yang posisinya di atas terhadap orang di bawahnya (orang tua ke anak, atasan ke bawahan). JANGAN digunakan kepada orang yang lebih tinggi posisinya atau setara yang tidak bisa kita paksa/izinkan.",
+    "title": "Bentuk Kausatif (Menyuruh / Membiarkan)",
+    "meaning": "Pola kalimat Kausatif (使役動詞 / Shieki-doushi) digunakan oleh pihak yang memiliki otoritas (seperti orang tua, atasan, atau guru) untuk 'menyuruh' atau 'memberikan izin/membiarkan' pihak yang berada di bawahnya untuk melakukan suatu perbuatan.",
+    "formula_template": "Gol 1 [い -> あせる] / Gol 2 [ます -> させる] / Gol 3 [させる / こさせる]",
+    "ui_notes": "Aturan Perubahan Bentuk:\n- **Golongan 1 (Vokal い diubah jadi あ + せる):** 行く -> 行かせる (Menyuruh pergi), 書く -> 書かせる (Menyuruh menulis).\n- **Golongan 2 (Ditambah させる):** 食べる -> 食べさせる (Menyuruh makan/menyuapi), 見る -> 見させる (Menyuruh melihat).\n- **Golongan 3:** する -> させる (Menyuruh melakukan), 来る -> 来させる (Menyuruh dia datang).",
     "examples": [
       {
-        "jp": "部長は 部下に コピーさせました。",
-        "id": "Kepala bagian menyuruh bawahannya memfotokopi."
+        "jp": "部長は ミラーさんを アメリカへ 出張 させます。",
+        "id": "Bapak Kepala Bagian (atasan) menyuruh Sdr. Miller (bawahan) untuk pergi dinas ke Amerika."
       },
       {
-        "jp": "母は 子どもに 部屋を 掃除させました。",
-        "id": "Ibu menyuruh anak membersihkan kamar."
+        "jp": "わたしは 娘を 自由に 遊ばせました。",
+        "id": "Saya (sebagai orang tua) membiarkan putri saya bermain dengan bebas."
       }
     ],
     "tags": [
       "N4",
-      "Kata Kerja",
-      "Perubahan Bentuk"
+      "Bentuk Kausatif",
+      "Menyuruh/Membiarkan"
     ]
   },
   {
     "id": "m_bab48_2",
     "chapter": "Bab 48",
     "level": "N4",
-    "title": "A（人） を B（使役形：自C）",
-    "meaning": "Pola kalimat kausatif jika kata kerja asalnya adalah Kata Kerja Intransitif (tidak memerlukan objek). Pelaku yang disuruh/diizinkan ditunjuk dengan partikel を.",
-    "formula_template": "{A} は {B} を {C}Intransitif Kausatif",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      },
-      "C": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は {B} を {C}Intransitif Kausatif' untuk menyatakan: Pola kalimat kausatif jika kata kerja asalnya adalah Kata Kerja Intransitif (tidak memerlukan objek). Pelaku y. Pastikan 'A' mewakili Kata Benda 1 (Penyuruh), 'B' mewakili Kata Benda 2 (Pelaku), 'C' mewakili Kata Kerja.",
-    "ui_notes": "[Perhatian] Jika Kata Kerja Intransitif tersebut sudah menggunakan 'Kata Benda (tempat) を' (misal: みちをあるく), maka pelaku yang disuruh dinyatakan dengan に agar partikel を tidak ganda. (Contoh: わたしは子どもに道の右側を歩かせます。)",
+    "title": "Partikel Objek dalam Kausatif (を vs に)",
+    "meaning": "Aturan ini sangat penting untuk menentukan partikel mana yang digunakan untuk menandai 'Orang yang Disuruh' (korban suruhan). Pemilihan partikel (を) atau (に) bergantung pada apakah kata kerja yang disuruhkan itu memiliki objek atau tidak (Transitif atau Intransitif).",
+    "formula_template": "1. [K.K Intransitif] -> Orang yang disuruh ditandai partikel [を]\n2. [K.K Transitif] -> Orang yang disuruh ditandai partikel [に]",
+    "ui_notes": "Logika Pemilihan:\n1. Kata kerja Intransitif (berjalan, pergi, main) tidak membutuhkan objek benda, sehingga partikel 'を' kosong. Maka, orang yang disuruh mengisi posisi 'を' tersebut.\n2. Kata kerja Transitif (membaca BUKU, minum OBAT) sudah memiliki objek benda yang menggunakan 'を' (本を 読む). Karena di dalam satu kalimat tidak boleh ada dua partikel 'を', maka orang yang disuruh digeser menggunakan partikel 'に'.",
     "examples": [
       {
-        "jp": "部長はミラーさんをアメリカへ出張させます。",
-        "id": "Kepala Bagian menyuruh sdr. Miller dinas ke Amerika Serikat."
+        "jp": "わたしは 娘【を】 自由に 遊ばせました。",
+        "id": "Saya membiarkan anak perempuan saya [を] bermain dengan bebas (karena 'bermain/asobu' tidak butuh objek benda)."
       },
       {
-        "jp": "わたしは娘を自由に遊ばせました。",
-        "id": "Saya membiarkan anak perempuan saya bermain dengan bebas."
+        "jp": "朝は 忙しいですから、娘【に】 朝ごはんの 準備【を】 手伝わせます。",
+        "id": "Karena pagi hari sibuk, saya menyuruh anak perempuan saya [に] untuk membantu persiapan [を] sarapan pagi."
+      },
+      {
+        "jp": "先生は 生徒【に】 自由に 意見【を】 言わせました。",
+        "id": "Pak Guru memberikan izin (membiarkan) para siswa [に] untuk mengutarakan pendapat [を] mereka dengan bebas."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Kausatif Intransitif"
+      "Partikel Kausatif",
+      "Transitif (Ni) / Intransitif (Wo)"
     ]
   },
   {
     "id": "m_bab48_3",
     "chapter": "Bab 48",
     "level": "N4",
-    "title": "A1（人） に B2 を C（使役形：他D）",
-    "meaning": "Pola kalimat kausatif jika kata kerja asalnya adalah Kata Kerja Transitif (sudah memiliki objek dengan を). Pelaku yang disuruh/diizinkan ditunjuk dengan partikel に.",
-    "formula_template": "{A} は {B} に {C} を {D}Transitif Kausatif",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "D": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は {B} に {C} を {D}Transitif Kausatif' untuk menyatakan: Pola kalimat kausatif jika kata kerja asalnya adalah Kata Kerja Transitif (sudah memiliki objek dengan を). Pel. Pastikan 'A' mewakili Kata Benda (Penyuruh), 'B' mewakili Kata Benda 1 (Pelaku), 'C' mewakili Kata Benda 2 (Objek), 'D' mewakili Kata Kerja.",
-    "ui_notes": "Untuk menyatakan permintaan dari bawahan ke atasan, gunakan ~ていただきます atau ~てもらいます, BUKAN bentuk kausatif. (Benar: 部長に説明していただきました; Salah: 部長を説明させました).",
+    "title": "〜させて いただけませんか (Meminta Izin Melakukan)",
+    "meaning": "Pola ini merupakan ungkapan kesopanan tingkat tinggi. Digunakan ketika pembicara memohon izin atau meminta restu dengan sangat sopan kepada atasan (agar dibiarkan/diizinkan) untuk melakukan suatu tindakan oleh dirinya sendiri.",
+    "formula_template": "[Kata Kerja Kausatif (Membiarkan) + て] + いただけませんか",
+    "ui_notes": "Pemahaman Arti:\nSecara harfiah pola ini berarti 'Maukah Anda berbaik hati [いただけませんか] untuk MEMBIARKAN [Kausatif] saya melakukannya?'. Terjemahan naturalnya adalah: 'Tolong izinkan saya... / Bisakah saya diizinkan untuk...'.",
     "examples": [
       {
-        "jp": "朝は忙しいですから、娘に朝ごはんの準備を手伝わせます。",
-        "id": "Karena pagi hari sibuk, saya menyuruh anak perempuan saya membantu saya untuk mempersiapkan sarapan."
-      },
-      {
-        "jp": "先生は生徒に自由に意見を言わせました。",
-        "id": "Guru membiarkan siswanya untuk mengutarakan pendapat secara bebas."
+        "jp": "友達の 結婚式が あるので、早く 帰らせて いただけませんか。",
+        "id": "Karena teman saya ada acara pernikahan, sudikah kiranya Bapak/Ibu memberikan izin (membiarkan) saya untuk pulang lebih awal?"
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Kausatif Transitif"
-    ]
-  },
-  {
-    "id": "m_bab48_4",
-    "chapter": "Bab 48",
-    "level": "N4",
-    "title": "使役A形 いただけませんか",
-    "meaning": "Ungkapan untuk meminta persetujuan/izin akan perbuatan sendiri secara sopan (Tolong izinkan saya ~ / Minta agar saya dibiarkan ~).",
-    "formula_template": "{A}Kausatif (Bentuk て) いただけませんか",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}Kausatif (Bentuk て) いただけませんか' untuk menyatakan: Ungkapan untuk meminta persetujuan/izin akan perbuatan sendiri secara sopan (Tolong izinkan saya ~ / Minta aga. Pastikan 'A' mewakili Kata Kerja.",
-    "ui_notes": "Perbedaan dengan ～ていただけませんか (Pel.26): Pada '紹介していただけませんか' (Pel.26), pelakunya adalah lawan bicara. Pada '帰らせていただけませんか' (Pel.48), pelakunya adalah si pembicara sendiri.",
-    "examples": [
-      {
-        "jp": "友達の結婚式があるので、早く帰らせていただけませんか。",
-        "id": "Mohon izinkan saya pulang cepat sebab ada pesta pernikahan teman?"
-      }
-    ],
-    "tags": [
-      "N4",
-      "Pola Kalimat",
-      "Meminta Izin Sopan"
+      "Memohon Izin",
+      "Kesopanan Tinggi (Sasete-itadakemasenka)"
     ]
   }
 ]

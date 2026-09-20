@@ -6,19 +6,6 @@
     "title": "V-たままです — Masih dalam Keadaan V",
     "meaning": "Pola untuk menyatakan bahwa suatu keadaan masih berlangsung tanpa perubahan sejak tindakan dilakukan. 'まま' berarti 'keadaan' atau 'sebagaimana adanya', dan digunakan dengan bentuk lampau kata kerja. Sangat berguna saat melaporkan kondisi yang seharusnya sudah berubah (seperti lampu yang masih menyala). Artinya 'Masih dalam keadaan [V]'.",
     "formula_template": "{A} ままです",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ままです' untuk percakapan: Pola untuk menyatakan bahwa suatu keadaan masih berlangsung tanpa perubahan sejak tindakan dilakukan. 'まま' ber. Pastikan 'A' mewakili Kata Kerja Bentuk Lampau.",
     "ui_notes": "Pola ini sering digunakan untuk menyatakan bahwa sesuatu tidak berubah dari keadaan sebelumnya, sering dengan nuansa 'seharusnya sudah berubah'. Contoh: 靴を履いたまま入らないでください (Tolong jangan masuk dengan masih memakai sepatu). Untuk menyatakan 'tanpa melakukan V': V-ないで + まま (Contoh: 何も食べないで出かけました - Pergi tanpa makan apa pun).",
     "examples": [
       {
@@ -44,19 +31,6 @@
     "title": "V-るのにいいです — Bagus untuk V",
     "meaning": "Pola untuk menyatakan bahwa sesuatu berguna atau efektif untuk tujuan tertentu. 'のに' berarti 'untuk' (dalam konteks tujuan/kegunaan), dan diikuti 'いいです' berarti 'bagus'. Sangat berguna saat menjelaskan produk ramah lingkungan atau tips hemat energi. Artinya 'Bagus untuk [melakukan V]'.",
     "formula_template": "{A} のにいいです",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} のにいいです' untuk percakapan: Pola untuk menyatakan bahwa sesuatu berguna atau efektif untuk tujuan tertentu. 'のに' berarti 'untuk' (dalam ko. Pastikan 'A' mewakili Kata Kerja Bentuk Kamus.",
     "ui_notes": "Perbedaan: 'のに' (untuk tujuan/kegunaan) vs 'ために' (untuk tujuan spesifik). Contoh: 勉強するのにいい (Bagus untuk belajar - secara umum) vs 試験に合格するために (Untuk lulus ujian - tujuan spesifik). 'いい' bisa diganti dengan '役に立つ' (berguna) atau '便利' (praktis).",
     "examples": [
       {

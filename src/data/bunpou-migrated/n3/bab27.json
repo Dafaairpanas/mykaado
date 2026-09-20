@@ -4,114 +4,9 @@
     "chapter": "Bab 27",
     "level": "N3",
     "title": "〜といいなあ",
-    "meaning": "Menyatakan sebuah keinginan & harapan.",
+    "meaning": "Pola ini digunakan untuk menyatakan sebuah keinginan atau harapan, biasanya untuk hal yang di luar kendali pembicara. Artinya 'semoga...', 'mudah-mudahan...', 'seandainya...'. Nuansanya ringan, sering dipakai dalam percakapan santai sambil berharap. Bisa juga dipakai dengan 〜のに untuk menyatakan harapan yang belum terwujud (〜といいのになあ).",
     "formula_template": "{A}/{B}/{C} だ/{D}だ といい(のに)なあ / {V4}/{V5} 〜たら / {V6}/{V7}だったら / {V8}ば {V9} 〜ければ / {V10}/{V11}なら(ば) (いいのに)なあ.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "V4": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "V5": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "V6": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "V7": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "V8": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "V9": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "V10": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "V11": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}/{B}/{C} だ/{D}だ といい(のに)なあ / {V4}/{V5} 〜たら / {V6}/{V7}だったら / {V8}ば {V9} 〜ければ / {V10}/{V11}なら(ば) (いいのに)なあ.' untuk mengekspresikan: Menyatakan sebuah keinginan & harapan..",
-    "ui_notes": "Menyatakan sebuah keinginan & harapan.",
+    "ui_notes": "Cara membentuk: (1) Kata kerja/kata sifat bentuk biasa + といいなあ. Contoh: 降る (furu) → 降らないといいなあ (semoga tidak turun hujan). 話せる (hanaseru) → 話せたらいいなあ (seandainya bisa berbicara). (2) Kata sifat-i + ければ + いいなあ. Contoh: 安い (yasui) → 安ければいいなあ (semoga murah). (3) Kata sifat-na/kata benda + なら(ば) + いいなあ. Contoh: 学生ならいいなあ (seandainya jadi pelajar). Contoh pemakaian: もっと日本語がうまく話せたらいいなあ (seandainya saya bisa berbicara bahasa Jepang lebih lancar). 明日、雨が降らないといいなあ (semoga besok tidak turun hujan). Bentuk 〜といいのになあ menambahkan nuansa penyesalan: 彼が来るといいのになあ (andai saja dia datang). Perbedaan dengan 〜ように (harapan): 〜といいなあ lebih kasual dan personal, 〜ように lebih formal dan sering dipakai dalam doa.",
     "examples": [
       {
         "jp": "もっと日本語がうまく話せたらいいなあ。",
@@ -132,52 +27,9 @@
     "chapter": "Bab 27",
     "level": "N3",
     "title": "〜ばよかった",
-    "meaning": "Menunjukkan adanya penyesalan (\"coba...\").",
+    "meaning": "Pola ini digunakan untuk menunjukkan penyesalan atas sesuatu yang sudah terjadi, artinya 'coba saja...', 'seandainya tadi...', 'kalau saja tadi...'. Fungsinya menyesali tindakan yang tidak dilakukan atau yang sudah dilakukan. Sering dipakai dengan 〜ば (jika) atau 〜たら (kalau). Bentuk 〜なければよかった berarti 'seandainya tidak melakukan...' (menyesali yang sudah dilakukan).",
     "formula_template": "{A}ば / {B}なければ / {C}たら / {D}なかったら よかった.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "C": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "D": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}ば / {B}なければ / {C}たら / {D}なかったら よかった.' untuk mengekspresikan: Menunjukkan adanya penyesalan (\"coba...\")..",
-    "ui_notes": "Menunjukkan adanya penyesalan (\"coba...\").",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk ば + よかった. Contoh: 出る (deru) → 出ればよかった (coba saja tadi keluar). (2) Kata kerja bentuk negatif なければ + よかった. Contoh: 言う (iu) → 言わなければよかった (coba saja tadi tidak bilang). (3) Kata kerja bentuk たら + よかった. Contoh: 出る (deru) → 出たらよかった (coba saja tadi keluar). (4) Kata kerja bentuk negatif なかったら + よかった. Contoh: 言う (iu) → 言わなかったらよかった (coba saja tadi tidak bilang). Contoh pemakaian: 遅刻してしまった。もっと早く家を出ればよかった (saya terlambat. Seandainya saya keluar rumah lebih awal). 田中さんにあんなことを言わなければよかった (seandainya saya tidak mengatakan hal seperti itu kepada Tanaka-san). Perbedaan 〜ばよかった dan 〜たらよかった: maknanya hampir sama, 〜ば lebih formal dan sering tertulis, 〜たら lebih kasual.",
     "examples": [
       {
         "jp": "遅刻してしまった。もっと早く家を出ればよかった。",
@@ -198,32 +50,9 @@
     "chapter": "Bab 27",
     "level": "N3",
     "title": "〜ば〜のに",
-    "meaning": "Menyatakan suatu hal yang disayangkan (\"coba... sayang sekali\").",
+    "meaning": "Pola ini digunakan untuk menyatakan suatu hal yang disayangkan, artinya 'coba saja... sayang sekali', 'andai saja... padahal'. Fungsinya menyatakan penyesalan atau kekecewaan karena sesuatu yang seharusnya bisa terjadi tetapi tidak terjadi. Berbeda dengan 〜ばよかった yang fokus pada penyesalan diri, 〜ば〜のに sering fokus pada situasi atau orang lain yang disayangkan.",
     "formula_template": "{A}ば〜のに / {B}たら〜のに.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}ば〜のに / {B}たら〜のに.' untuk mengekspresikan: Menyatakan suatu hal yang disayangkan (\"coba... sayang sekali\")..",
-    "ui_notes": "Menyatakan suatu hal yang disayangkan (\"coba... sayang sekali\").",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk ば + kalimat + のに. Contoh: 行く (iku) → 行けばよかったのに (andai saja pergi, sayang sekali). 安い (yasui) → 安ければ買うのに (andai saja murah, pasti kubeli). (2) Kata kerja bentuk たら + kalimat + のに. Contoh: 安い (yasui) → 安かったら買うのに (andai saja murah, pasti kubeli). Contoh pemakaian: 昨日のパーティー、楽しかったよ。君も行けばよかったのに (pesta kemarin seru lho. Padahal seharusnya kamu ikut pergi). もう少し安かったら買うのになあ (seandainya sedikit lebih murah pasti kubeli). Perbedaan dengan 〜ばよかった: 〜ばよかった = penyesalan diri sendiri, 〜ば〜のに = menyayangkan situasi/orang lain. Nuansa 〜のに di akhir menambahkan rasa kecewa atau penyesalan yang kuat.",
     "examples": [
       {
         "jp": "昨日のパーティー、楽しかったよ。君も行けばよかったのに。",
@@ -244,32 +73,9 @@
     "chapter": "Bab 27",
     "level": "N3",
     "title": "〜かなあ",
-    "meaning": "(1) Menyatakan keinginan, harapan, (2) menyatakan rasa ragu.",
+    "meaning": "Pola ini digunakan untuk menyatakan dua hal: (1) keinginan atau harapan, artinya 'semoga...', 'kira-kira... ya'; (2) rasa ragu atau pertanyaan pada diri sendiri, artinya 'kira-kira... ya?', 'apakah... ya?'. Nuansanya ringan, sering dipakai dalam percakapan santai atau monolog batin. Bentuk 〜かな(あ) lebih lembut dan emosional, sedangkan 〜かな saja lebih netral.",
     "formula_template": "{A}る かな(あ) / {B}ない かな(あ).",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}る かな(あ) / {B}ない かな(あ).' untuk mengekspresikan: (1) Menyatakan keinginan, harapan, (2) menyatakan rasa ragu..",
-    "ui_notes": "(1) Menyatakan keinginan, harapan, (2) menyatakan rasa ragu.",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus + かな(あ). Contoh: 来る (kuru) → 来るかなあ (kira-kira datang ya). うまくいく (umaku iku) → うまくいくかな (kira-kira berhasil ya). (2) Kata kerja bentuk negatif + かな(あ). Contoh: 来る (kuru) → 来ないかなあ (kira-kira tidak datang ya / semoga datang). Contoh pemakaian: バス、早く来ないかなあ (kira-kira bisnya bisa datang lebih cepat tidak ya). この実験、うまくいくかな (kira-kira eksperimen ini bakal berhasil tidak ya). Nuansa: 〜かなあ dengan intonasi turun = harapan/keinginan, 〜かな dengan intonasi naik = pertanyaan ragu. Perbedaan dengan 〜でしょう: 〜かな(あ) lebih personal dan emosional, 〜でしょう lebih netral dan sopan.",
     "examples": [
       {
         "jp": "バス、早く来ないかなあ。",

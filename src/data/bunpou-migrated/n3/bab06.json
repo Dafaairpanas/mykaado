@@ -4,21 +4,9 @@
     "chapter": "Bab 06",
     "level": "N3",
     "title": "〜ようと思う",
-    "meaning": "ketika subjek atau pembicara mempunyai keinginan atau niat akan melakukan suatu hal",
+    "meaning": "Pola ini digunakan ketika subjek atau pembicara mempunyai keinginan atau niat akan melakukan suatu hal. Artinya 'berniat untuk...', 'bermaksud untuk...', 'berpikir ingin...'. Niat ini muncul dari dalam diri pembicara sendiri (bukan dari orang lain), dan biasanya sudah dipikirkan secara sadar. Sering digunakan untuk menyatakan rencana atau tekad pribadi. Jika memakai 〜ようと思っている, artinya niat tersebut sudah ada sejak beberapa waktu lalu dan masih berlanjut sampai sekarang.",
     "formula_template": "{A} は 〜ようと思う です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は 〜ようと思う です' untuk mengekspresikan: ketika subjek atau pembicara mempunyai keinginan atau niat akan melakukan suatu hal.",
-    "ui_notes": "ketika subjek atau pembicara mempunyai keinginan atau niat akan melakukan suatu hal",
+    "ui_notes": "Cara membentuk: Ambil kata kerja bentuk volisional (bentuk よう). (1) Kata kerja golongan 1: akhiran -u → -ou. Contoh: やめる (yameru) → やめよう (yameyou). 帰る (kaeru) → 帰ろう (kaerou). (2) Kata kerja golongan 2: -ru → -you. Contoh: 食べる (taberu) → 食べよう (tabeyou). (3) Tidak beraturan: する → しよう (shiyou), 来る → 来よう (koyou). Lalu tambahkan と思う / と思っている. Contoh: 会社をやめようと思う (berniat berhenti dari kantor). 来年、国に帰ろうと思っています (tahun depan berniat pulang ke negara). Perbedaan: 〜ようと思う = niat yang muncul saat itu, 〜ようと思っている = niat yang sudah dipikirkan dan masih berlaku.",
     "examples": [
       {
         "jp": "会社をやめようと思っている。",
@@ -39,21 +27,9 @@
     "chapter": "Bab 06",
     "level": "N3",
     "title": "〜ようとする",
-    "meaning": "tidak mau, tidak ada niat",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa subjek berusaha atau mencoba melakukan sesuatu, tepat pada saat akan melakukannya. Artinya 'mencoba untuk...', 'hendak...', 'berusaha untuk...'. Sering dipakai ketika usaha tersebut gagal, terganggu, atau diinterupsi oleh hal lain. Perhatikan: pada catatan asli tertulis 'tidak mau, tidak ada niat', namun itu kurang tepat. Makna sebenarnya adalah 'berusaha/hendak melakukan', dan sering dalam konteks usaha yang tidak berhasil. Jika ingin menyatakan 'tidak mau', pola yang tepat adalah 〜ようとしない (tidak mau berusaha/tidak ada niat).",
     "formula_template": "{A} は 〜ようとする です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は 〜ようとする です' untuk mengekspresikan: tidak mau, tidak ada niat.",
-    "ui_notes": "tidak mau, tidak ada niat",
+    "ui_notes": "Cara membentuk: Sama seperti 〜ようと思う, ambil kata kerja bentuk volisional (bentuk よう), lalu tambahkan とする. Contoh: 乗る (noru) → 乗ろうとする (hendak naik). 出かける (dekakeru) → 出かけようとする (hendak keluar). Pola ini sering diikuti dengan とき (saat), と (ketika), が (tetapi), たら (kalau). Contoh: 電車に乗ろうとしたときに、ドアが閉まった (saat hendak naik kereta, pintunya tertutup). ポチはぼくが出かけようとすると、ほえる (Pochi selalu menggonggong saat saya hendak keluar). Bentuk negatif 〜ようとしない berarti 'tidak mau berusaha/tidak ada niat'. Contoh: 彼はなかなか勉強しようとしない (dia tidak mau belajar).",
     "examples": [
       {
         "jp": "電車に乗ろうとしたときに、ドアが閉まって乗れなかった。",

@@ -4,46 +4,9 @@
     "chapter": "Bab 20",
     "level": "N3",
     "title": "〜おかげで",
-    "meaning": "〜おかげで",
+    "meaning": "Pola ini digunakan untuk menyatakan sebab atau alasan yang membawa hasil baik/positif. Artinya 'berkat...', 'karena bantuan...'. Nuansanya adalah rasa syukur atau terima kasih kepada pihak yang dianggap berjasa. Berbeda dengan 〜せいで yang bernuansa negatif, 〜おかげで selalu mengarah pada hasil yang menguntungkan. Bentuk 〜おかげだ di akhir kalimat berarti 'itu berkat...'.",
     "formula_template": "{A}(biasa) / {B}(biasa) / {C} な / {D}の おかげで / おかげだ.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}(biasa) / {B}(biasa) / {C} な / {D}の おかげで / おかげだ.' untuk mengekspresikan: 〜おかげで.",
-    "ui_notes": "〜おかげで",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk biasa + おかげで. Contoh: 来た (kita) → 来たおかげで (berkat datang). (2) Kata sifat-i bentuk biasa + おかげで. Contoh: 早い (hayai) → 早いおかげで (berkat cepat). (3) Kata sifat-na + な + おかげで. Contoh: 元気な (genki na) → 元気なおかげで (berkat sehat). (4) Kata benda + の + おかげで. Contoh: 先生 (sensei) → 先生のおかげで (berkat guru). Contoh pemakaian: 先生のおかげで合格できました (berkat guru, saya bisa lulus). 日本へ来たおかげで、日本語が上手になった (berkat datang ke Jepang, bahasa Jepang saya menjadi mahir). Bentuk akhir kalimat: 〜のおかげだ (itu berkat...). Perbedaan dengan 〜せいで: 〜おかげで = hasil positif (syukur), 〜せいで = hasil negatif (menyalahkan).",
     "examples": [
       {
         "jp": "先生のおかげで合格できました。",
@@ -64,46 +27,9 @@
     "chapter": "Bab 20",
     "level": "N3",
     "title": "〜せい",
-    "meaning": "Ketika penyebab tidak begitu jelas, bisa menggunakan `〜せいか`.",
+    "meaning": "Pola ini digunakan untuk menyatakan sebab atau alasan yang membawa hasil buruk/negatif. Artinya 'gara-gara...', 'karena... (yang buruk)'. Nuansanya adalah menyalahkan pihak atau keadaan yang dianggap menyebabkan masalah. Bentuk 〜せいか digunakan ketika penyebabnya tidak begitu jelas atau hanya dugaan, artinya 'mungkin gara-gara...'. Varian: 〜せいだ (itu gara-gara...), 〜せいで (gara-gara...), 〜せいか (mungkin gara-gara...).",
     "formula_template": "{A}(biasa) / {B}(biasa) / {C} な / {D}の せいだ / せいで / せいか.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}(biasa) / {B}(biasa) / {C} な / {D}の せいだ / せいで / せいか.' untuk mengekspresikan: Ketika penyebab tidak begitu jelas, bisa menggunakan `〜せいか`..",
-    "ui_notes": "Ketika penyebab tidak begitu jelas, bisa menggunakan `〜せいか`.",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk biasa + せいで. Contoh: 遅れた (okureta) → 遅れたせいで (gara-gara terlambat). (2) Kata sifat-i bentuk biasa + せいで. Contoh: 疲れた (tsukareta) → 疲れたせいか (mungkin gara-gara lelah). (3) Kata sifat-na + な + せいで. Contoh: 元気な (genki na) → 元気なせいで (gara-gara sehat). (4) Kata benda + の + せいで. Contoh: 雨 (ame) → 雨のせいで (gara-gara hujan). Contoh pemakaian: バスが遅れたせいで、約束の時間に間に合わなかった (gara-gara bus terlambat, saya tidak sempat tepat waktu sesuai janji). 疲れたせいか、頭が痛い (mungkin gara-gara lelah, kepala saya sakit). Perbedaan dengan 〜おかげで: 〜せいで = hasil negatif (menyalahkan), 〜おかげで = hasil positif (syukur).",
     "examples": [
       {
         "jp": "バスが遅れたせいで、約束の時間に間に合わなかった。",
@@ -124,46 +50,9 @@
     "chapter": "Bab 20",
     "level": "N3",
     "title": "〜かわりに",
-    "meaning": "Dapat menggantikan subjek, predikat & objek. `※そのかわり(に)` (kata penghubung).",
+    "meaning": "Pola ini digunakan untuk menyatakan 'sebagai ganti...', 'sebagai pengganti...', 'sebagai imbalan...'. Dapat menggantikan subjek, predikat, maupun objek. Artinya ada pertukaran: karena A, maka B digunakan/dilakukan sebagai gantinya. Bisa juga menyatakan kompensasi atau trade-off. Bentuk そのかわり(に) adalah kata penghubung yang berarti 'sebagai gantinya'.",
     "formula_template": "{A}(biasa) / {B}(biasa) / {C} な / {D}の かわりに.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}(biasa) / {B}(biasa) / {C} な / {D}の かわりに.' untuk mengekspresikan: Dapat menggantikan subjek, predikat & objek. `※そのかわり(に)` (kata penghubung)..",
-    "ui_notes": "Dapat menggantikan subjek, predikat & objek. `※そのかわり(に)` (kata penghubung).",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk biasa + かわりに. Contoh: 働いた (hataraita) → 働いたかわりに (sebagai ganti bekerja). (2) Kata sifat-i bentuk biasa + かわりに. Contoh: 高い (takai) → 高いかわりに (sebagai ganti mahal). (3) Kata sifat-na + な + かわりに. Contoh: 便利な (benri na) → 便利なかわりに (sebagai ganti praktis). (4) Kata benda + の + かわりに. Contoh: ビール (biiru) → ビールのかわりに (sebagai ganti bir). Contoh pemakaian: 車で来たので、ビールのかわりにジュースをください (karena datang naik mobil, tolong beri saya jus sebagai ganti bir). 日曜日に働いたかわりに、今日休みを取りました (sebagai ganti bekerja di hari Minggu, hari ini saya mengambil libur). Kata penghubung そのかわり(に): この店は安い。そのかわり、味はあまりよくない (toko ini murah. Sebagai gantinya, rasanya kurang enak). Perbedaan dengan 〜にかわって: 〜かわりに bisa menggantikan subjek, predikat, objek; 〜にかわって hanya subjek/pelaku.",
     "examples": [
       {
         "jp": "車で来たので、ビールのかわりにジュースをください。",
@@ -184,20 +73,9 @@
     "chapter": "Bab 20",
     "level": "N3",
     "title": "〜にかわって",
-    "meaning": "Hanya dapat menggantikan subjek atau pelaku (tidak bisa objek & predikat). (Contoh salah: ✕ ビールにかわって、ジュースをください).",
+    "meaning": "Pola ini digunakan untuk menyatakan 'menggantikan...', 'sebagai pengganti...', tetapi hanya dapat menggantikan subjek atau pelaku, tidak bisa objek maupun predikat. Artinya seseorang/ sesuatu bertindak mewakili pihak lain. Contoh salah: ✕ ビールにかわって、ジュースをください (tidak bisa menggantikan objek). Yang benar untuk objek adalah 〜のかわりに. Varian: 〜にかわって / 〜にかわり.",
     "formula_template": "{A} にかわって / にかわり.",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} にかわって / にかわり.' untuk mengekspresikan: Hanya dapat menggantikan subjek atau pelaku (tidak bisa objek & predikat). (Contoh salah: ✕ ビールにかわって、ジュースをください.",
-    "ui_notes": "Hanya dapat menggantikan subjek atau pelaku (tidak bisa objek & predikat). (Contoh salah: ✕ ビールにかわって、ジュースをください).",
+    "ui_notes": "Cara membentuk: Kata benda (orang/pihak yang digantikan) + にかわって / にかわり. Contoh: 部長 (buchou) → 部長にかわって (menggantikan kepala bagian). 野球 (yakyuu) → 野球にかわり (menggantikan bisbol). Contoh pemakaian: 出張中の部長にかわって、私がごあいさつさせていただきます (menggantikan kepala bagian yang sedang dinas luar, izinkan saya menyampaikan salam). 野球にかわり、サッカーが盛んになってきた (menggantikan bisbol, sepak bola mulai menjadi populer). Catatan penting: 〜にかわって hanya untuk subjek/pelaku, tidak bisa untuk objek. Contoh salah: ✕ ビールにかわって、ジュースをください. Yang benar: ビールのかわりにジュースをください. Perbedaan dengan 〜かわりに: 〜かわりに lebih luas (subjek, predikat, objek), 〜にかわって hanya subjek/pelaku.",
     "examples": [
       {
         "jp": "出張中の部長にかわって、私がごあいさつさせていただきます。",

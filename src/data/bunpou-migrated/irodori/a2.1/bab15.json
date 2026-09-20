@@ -1,172 +1,127 @@
 [
   {
-    "id": "i_bab15_1",
-    "chapter": "Bab 15",
+    "id": "irodori_a2.1_bab15_1",
+    "chapter": 15,
     "level": "A2.1",
-    "title": "〜んです ② — Penjelasan Gejala",
-    "meaning": "Pola kalimat untuk memberikan penjelasan atau alasan tentang kondisi kesehatan. '〜んです' (atau '〜のです' lebih formal) digunakan untuk menjelaskan situasi atau gejala yang sedang dialami. Diucapkan saat berkonsultasi dengan dokter atau memberi tahu orang lain tentang kondisi sakit. Artinya '(Faktanya) [gejala/penjelasan]'.",
-    "formula_template": "{A} んです",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} んです' untuk percakapan: Pola kalimat untuk memberikan penjelasan atau alasan tentang kondisi kesehatan. '〜んです' (atau '〜のです' lebih form. Pastikan 'A' mewakili Kalimat Gejala.",
-    "ui_notes": "'〜んです' sangat berguna saat menjelaskan kondisi ke dokter. Biasanya diikuti dengan pertanyaan atau permintaan: 熱があるんですけど、どうしたらいいですか？ (Saya demam, apa yang harus saya lakukan?). Untuk gejala yang sedang berlangsung, gunakan bentuk 'V-ています': 咳が出ています (Saya batuk-batuk).",
+    "title": "～んです ②",
+    "meaning": "(Faktanya kondisinya) ...",
+    "formula_template": "N な / ナA-な / イA-い / V + んです",
+    "ui_notes": "Pada Bab 14 kita menggunakan **～んです** sebagai alasan meminta izin. Di bab ini, polanya dipakai untuk **menjelaskan gejala/kondisi penyakit** kepada dokter di rumah sakit.\n\n### 🔧 Cara Membentuk:\n* **Kata Benda**: Tambahkan **なんです** (Contoh: 風邪なんです = Saya flu)\n* **Kata Sifat-ナ**: Tambahkan **なんです** (Contoh: 大変なんです)\n* **Kata Sifat-イ**: Tambahkan **んです** (Contoh: 痛いんです)\n* **Kata Kerja (Bentuk Kamus, Ta, Nai)**: Tambahkan **んです** (Contoh: 熱があるんです, ぶつけたんです, 止まらないんです)\n\n*(Catatan: Ketika kita menanyai kondisi orang yang terlihat sakit, gunakan **どうしたんですか？**. Tapi jika dokter yang bertanya ke pasiennya, wajarnya menggunakan **どうしましたか？**).* ",
     "examples": [
       {
-        "jp": "昨日から38度の熱があって、のどがすごく痛いんです。",
-        "id": "Saya demam 38 derajat sejak kemarin, dan tenggorokan sangat sakit."
+        "japanese": "昨日から38度の熱があって、のどがすごく痛いんです。",
+        "indonesian": "Sejak kemarin saya demam sampai 38°C dan tenggorokan rasanya sakit sekali.",
+        "romaji": "Kinou kara sanjuuhachido no netsu ga atte, nodo ga sugoku itain desu."
       },
       {
-        "jp": "頭が痛くて、気持ちが悪いんです。",
-        "id": "Saya sakit kepala dan mual."
+        "japanese": "医者： 今日は、どうしましたか？\n患者： 頭が痛くて、吐き気がするんです。\n医者： いつからですか？",
+        "indonesian": "Dokter: Apa yang Anda rasakan hari ini?\nPasien: Saya sakit kepala dan merasa mual.\nDokter: Sejak kapan Anda merasakannya?",
+        "romaji": "Isha: Kyou wa, dou shimashita ka?\nKanja: Atama ga itakute, hakike ga surun desu.\nIsha: Itsu kara desu ka?"
+      },
+      {
+        "japanese": "Ａ： 腕のけが、どうしたんですか？\nＢ： 自転車で転んだんです。\nＡ： 気をつけてくださいね。",
+        "indonesian": "A: Lengan Anda luka. Apa yang terjadi?\nB: Saya jatuh dari sepeda.\nA: Lain kali lebih berhati-hati, ya.",
+        "romaji": "A: Ude no kega, dou shitan desu ka?\nB: Jitensha de korondan desu.\nA: Ki o tsukete kudasai ne."
       }
     ],
-    "tags": [
-      "A2",
-      "Kesehatan",
-      "Gejala",
-      "Penjelasan"
-    ]
+    "tags": ["irodori", "A2.1", "bab 15", "ndes", "penyakit", "gejala"]
   },
   {
-    "id": "i_bab15_2",
-    "chapter": "Bab 15",
+    "id": "irodori_a2.1_bab15_2",
+    "chapter": 15,
     "level": "A2.1",
-    "title": "V-ないでください — Tolong Jangan ...",
-    "meaning": "Pola permintaan yang sopan untuk meminta seseorang tidak melakukan sesuatu. 'V-ないで' adalah bentuk negatif dari 'V-て' (bentuk te), dan 'ください' berarti 'tolong'. Digunakan oleh dokter untuk memberikan instruksi atau larangan kepada pasien. Artinya 'Tolong jangan [melakukan V]'.",
-    "formula_template": "{A} でください",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} でください' untuk percakapan: Pola permintaan yang sopan untuk meminta seseorang tidak melakukan sesuatu. 'V-ないで' adalah bentuk negatif dari. Pastikan 'A' mewakili Kata Kerja Bentuk Negatif.",
-    "ui_notes": "Bentuk lebih sopan: V-ないでいただけますか？ (Bisakah tolong tidak V?). Untuk instruksi di rumah sakit: アルコールを飲まないでください (Tolong jangan minum alkohol). 'V-ないで' juga digunakan untuk menyatakan cara negatif: 塩をつけないで食べます (Makan tanpa garam).",
+    "title": "V-ないでください",
+    "meaning": "Tolong jangan [V]",
+    "formula_template": "V-ない (Bentuk-nai) + でください",
+    "ui_notes": "Ungkapan ini adalah instruksi atau larangan lunak, meminta orang lain untuk **tidak melakukan sesuatu**. Misalnya dokter yang meminta pasien untuk tidak bekerja, mandi, atau berolahraga berat.\n\n* Jika tingkat kesopanannya ingin divariasikan sesuai kedekatan, bisa menggunakan: **V-ないで** (casual), **V-ないでくれる？** (meminta santai), atau **V-ないでもらえませんか？** (meminta dengan sangat sopan).",
     "examples": [
       {
-        "jp": "今週は仕事を休んで、できるだけ人に会わないでください。",
-        "id": "Istirahat dari kerja minggu ini, dan tolong jangan bertemu orang sebisa mungkin."
+        "japanese": "今週は仕事を休んで、できるだけ人に会わないでください。",
+        "indonesian": "Pekan ini Anda sebaiknya cuti kerja dan sebisa mungkin jangan bertemu orang lain.",
+        "romaji": "Konshuu wa shigoto o yasunde, dekiru dake hito ni awanaide kudasai."
       },
       {
-        "jp": "この薬を飲んだら、車を運転しないでください。",
-        "id": "Setelah minum obat ini, tolong jangan mengemudi."
+        "japanese": "Ａ： 風邪ですね。しばらく、激しい運動をしないでください。\nＢ： お風呂に入ってもいいですか？\nＡ： 熱がありますから、今日は、入らないでください。",
+        "indonesian": "A: Anda menderita selesma (masuk angin). Untuk sementara waktu, jangan melakukan olahraga berat dulu.\nB: Apakah saya boleh mandi?\nA: Karena saat ini Anda demam, hari ini jangan mandi dulu.",
+        "romaji": "A: Kaze desu ne. Shibaraku, hageshii undou o shinaide kudasai.\nB: Ofuro ni haitte mo ii desu ka?\nA: Netsu ga arimasu kara, kyou wa, hairanaide kudasai."
       }
     ],
-    "tags": [
-      "A2",
-      "Larangan",
-      "Instruksi",
-      "Kesehatan"
-    ]
+    "tags": ["irodori", "A2.1", "bab 15", "larangan", "jangan", "naidekudasai"]
   },
   {
-    "id": "i_bab15_3",
-    "chapter": "Bab 15",
+    "id": "irodori_a2.1_bab15_3",
+    "chapter": 15,
     "level": "A2.1",
-    "title": "V-る前に／V-たあと — Sebelum / Sesudah V",
-    "meaning": "Pola untuk menyatakan urutan waktu: sebelum atau sesudah melakukan suatu tindakan. '前に' berarti 'sebelum' dan menggunakan bentuk kamus (V-ru). 'あと' berarti 'sesudah' dan menggunakan bentuk lampau (V-ta). Sangat berguna saat menjelaskan cara minum obat atau instruksi medis. Artinya 'Sebelum [V]' / 'Setelah [V]'.",
-    "formula_template": "{A} 前に / {B} あと",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} 前に / {B} あと' untuk percakapan: Pola untuk menyatakan urutan waktu: sebelum atau sesudah melakukan suatu tindakan. '前に' berarti 'sebelum' dan . Pastikan 'A' mewakili Kata Kerja Bentuk Kamus, 'B' mewakili Kata Kerja Bentuk Lampau.",
-    "ui_notes": "Untuk kata benda, gunakan 'Nの前に' dan 'Nのあとで'. Contoh: 食事の前に (sebelum makan), 食事のあとで (setelah makan). '前に' dan 'あとで' adalah pasangan yang sangat umum dalam instruksi medis dan jadwal minum obat.",
+    "title": "V (Bentuk Biasa) + N ①",
+    "meaning": "[N] yang fungsinya untuk [V]",
+    "formula_template": "V-る (Bentuk Kamus) + N",
+    "ui_notes": "Dalam bahasa Jepang, frasa penjelas selalu diletakkan *di depan* Kata Benda yang dijelaskan. Pola ini dipakai untuk menjelaskan khasiat/fungsi benda (misal: obat).\n\n* Contoh: *Obat* + *meredakan batuk* = **せきを抑（おさ）える ＋ 薬（くすり）** (Obat yang meredakan batuk / Obat pereda batuk).\n* Karena yang digunakan adalah \"Bentuk Biasa\" yang positif dan non-lampau, maka kata kerja penjelasnya menggunakan **Bentuk Kamus** (Contoh: 抑えます → 抑える).",
     "examples": [
       {
-        "jp": "1日1回、寝る前に飲んでください。",
-        "id": "Sekali sehari, tolong minum sebelum tidur."
+        "japanese": "こちらは、せきを抑える薬です。",
+        "indonesian": "Ini adalah obat untuk meredakan batuk.",
+        "romaji": "Kochira wa, seki o osaeru kusuri desu."
       },
       {
-        "jp": "飲んだあと、運転しないでくださいね。",
-        "id": "Setelah minum, tolong jangan mengemudi ya."
+        "japanese": "Ａ： これは何の薬ですか？\nＢ： 熱を下げる薬です。胃を守る薬と一緒に飲んでください。",
+        "indonesian": "A: Ini obat apa?\nB: Obat penurun panas. Minumlah bersama obat (pelindung) lambung.",
+        "romaji": "A: Kore wa nan no kusuri desu ka?\nB: Netsu o sageru kusuri desu. I o mamoru kusuri to issho ni nonde kudasai."
       }
     ],
-    "tags": [
-      "A2",
-      "Urutan",
-      "Instruksi",
-      "Kesehatan"
-    ]
+    "tags": ["irodori", "A2.1", "bab 15", "penjelas benda", "kata kerja kamus"]
   },
   {
-    "id": "i_bab15_4",
-    "chapter": "Bab 15",
+    "id": "irodori_a2.1_bab15_4",
+    "chapter": 15,
     "level": "A2.1",
-    "title": "〜とき（に） (~toki) — Saat ...",
-    "meaning": "Pola untuk menyatakan waktu atau kondisi tertentu saat suatu tindakan dilakukan. 'とき' berarti 'saat' atau 'ketika'. Digunakan dalam instruksi obat untuk menunjukkan kapan obat harus diminum. Artinya 'Pada saat [kondisi]'.",
-    "formula_template": "{A} とき（に）",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} とき（に）' untuk percakapan: Pola untuk menyatakan waktu atau kondisi tertentu saat suatu tindakan dilakukan. 'とき' berarti 'saat' atau 'ket. Pastikan 'A' mewakili Kalimat Kondisi.",
-    "ui_notes": "Untuk kondisi yang spesifik: 頭が痛いとき (saat sakit kepala), 咳が出るとき (saat batuk). 'とき' bisa digunakan dengan bentuk kamus (saat akan melakukan), bentuk lampau (saat sudah melakukan), atau bentuk negatif. Partikel 'に' sering ditambahkan untuk menunjukkan waktu spesifik.",
+    "title": "V-る 前（まえ）に、～ / V-た あと、～",
+    "meaning": "Sebelum [V1], ... / Setelah [V1], ...",
+    "formula_template": "V-る + 前に, ～ / V-た + あと, ～",
+    "ui_notes": "Di Bab 8 kita sudah memakai pola ini untuk Kata Benda. Sekarang, kita memakainya dengan Kata Kerja untuk mengatur **urutan waktu kegiatan**.\n\n* **前に (Sebelum)**: Disambungkan dengan **Bentuk Kamus** (Contoh: 寝る前に / Sebelum tidur)\n* **あと (Setelah)**: Disambungkan dengan **Bentuk-ta** karena kegiatannya sudah harus berlalu (Contoh: 食べたあと / Setelah makan).",
     "examples": [
       {
-        "jp": "この薬は、痛くてがまんできないときに飲んでください。",
-        "id": "Obat ini, tolong minum saat sakit dan tidak tahan."
+        "japanese": "1日1回、寝る前に飲んでください。",
+        "indonesian": "Minumlah satu hari sekali sebelum tidur.",
+        "romaji": "Ichinichi ikkai, neru mae ni nonde kudasai."
       },
       {
-        "jp": "熱があるときは、この薬を飲んでください。",
-        "id": "Saat demam, tolong minum obat ini."
+        "japanese": "飲むと、眠くなります。飲んだあと、運転しないでくださいね。",
+        "indonesian": "Kalau diminum, obat ini akan menyebabkan kantuk. Mohon jangan berkendara setelah minum obat ini, ya.",
+        "romaji": "Nomu to, nemuku narimasu. Nonda ato, unten shinaide kudasai ne."
+      },
+      {
+        "japanese": "Ａ： この薬は、いつ飲みますか？\nＢ： 白い薬は、ご飯を食べたあと、飲んでください。カプセルは、寝る前に、飲んでください。",
+        "indonesian": "A: Kapan saya harus minum obat ini?\nB: Obat berwarna putih diminum setelah makan. Obat berbentuk kapsul diminum sebelum tidur.",
+        "romaji": "A: Kono kusuri wa, itsu nomimasu ka?\nB: Shiroi kusuri wa, gohan o tabeta ato, nonde kudasai. Kapuseru wa, neru mae ni, nonde kudasai."
       }
     ],
-    "tags": [
-      "A2",
-      "Kondisi",
-      "Waktu",
-      "Instruksi"
-    ]
+    "tags": ["irodori", "A2.1", "bab 15", "urutan waktu", "mae ni", "ato de"]
+  },
+  {
+    "id": "irodori_a2.1_bab15_5",
+    "chapter": 15,
+    "level": "A2.1",
+    "title": "～とき（に）、～",
+    "meaning": "Ketika / Pada saat ...",
+    "formula_template": "Bentuk Kamus / Bentuk-ta / Bentuk-nai + とき",
+    "ui_notes": "Menyambung pola **とき** (ketika/saat) yang sebelumnya dipelajari (Bab 10 & 13), kali ini kita fokus menerapkannya pada saran medis, seperti \"Kapan obat diminum\" atau \"Apa yang harus dilakukan saat sakit\".\n\n* Dapat dirangkai dengan: **Bentuk Kamus** (熱があるとき), **Bentuk-ta** (風邪をひいたとき), maupun **Bentuk-nai** (せきが止まらないとき).\n* Tambahkan **は** di belakang **とき** (menjadi ときは) jika kamu ingin menjadikannya sebagai *Topik Utama*.",
+    "examples": [
+      {
+        "japanese": "この薬は、痛くてがまんできないときに、飲んでください。",
+        "indonesian": "Minumlah obat ini ketika merasa sakit yang sangat amat (tidak tertahankan).",
+        "romaji": "Kono kusuri wa, itakute gaman dekinai toki ni, nonde kudasai."
+      },
+      {
+        "japanese": "Ａ： この薬は、いつ飲みますか？\nＢ： 高い熱が出たとき飲んでください。",
+        "indonesian": "A: Kapan saya minum obat ini?\nB: Minumlah ketika demam tinggi.",
+        "romaji": "A: Kono kusuri wa, itsu nomimasu ka?\nB: Takai netsu ga deta toki nonde kudasai."
+      },
+      {
+        "japanese": "風邪のときは、温かくして、よく休んでください。",
+        "indonesian": "Ketika selesma (masuk angin), usahakan menjaga diri Anda tetap hangat dan banyak beristirahat.",
+        "romaji": "Kaze no toki wa, atatakaku shite, yoku yasunde kudasai."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 15", "toki", "ketika", "saat"]
   }
 ]

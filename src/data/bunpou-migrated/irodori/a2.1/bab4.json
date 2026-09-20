@@ -1,0 +1,120 @@
+[
+  {
+    "id": "irodori_a2.1_bab4_1",
+    "chapter": 4,
+    "level": "A2.1",
+    "title": "Sね 〈Simpati / 共感〉",
+    "meaning": "[Kalimat], ya. (Simpati/Persetujuan)",
+    "formula_template": "Kalimat + ね",
+    "ui_notes": "Partikel **ね** di akhir kalimat digunakan untuk meminta perhatian atau menunjukkan bahwa pembicara sependapat / bersimpati dengan kondisi atau cerita lawan bicara.\n\n* Sering digunakan untuk membicarakan cuaca (suhu, hujan, dsb) sebagai pembuka percakapan karena mudah disepakati.\n* ⚠️ Fungsi ini berbeda dengan **ね** yang dipelajari di tingkat sebelumnya yang dipakai untuk memastikan/mengonfirmasi sesuatu (misal: コピー20枚ですね - *fotokopi 20 lembar, kan?*).",
+    "examples": [
+      {
+        "japanese": "今日はいい天気ですね。",
+        "indonesian": "Hari ini cuacanya cerah, ya.",
+        "romaji": "Kyou wa ii tenki desu ne."
+      },
+      {
+        "japanese": "Ａ： 今日はいい天気ですね。\nＢ： そうですね。",
+        "indonesian": "A: Hari ini cuacanya cerah, ya.\nB: Ya, benar.",
+        "romaji": "A: Kyou wa ii tenki desu ne.\nB: Sou desu ne."
+      },
+      {
+        "japanese": "Ａ： だいぶ暖かくなりましたね。\nＢ： 本当ですね。",
+        "indonesian": "A: Udara sudah jadi hangat sekali, ya.\nB: Betul sekali.",
+        "romaji": "A: Daibu atatakaku narimashita ne.\nB: Hontou desu ne."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 4", "simpati", "partikel ne"]
+  },
+  {
+    "id": "irodori_a2.1_bab4_2",
+    "chapter": 4,
+    "level": "A2.1",
+    "title": "Non-lampau / Lampau (非過去・過去)",
+    "meaning": "Perubahan Waktu untuk Cuaca",
+    "formula_template": "",
+    "ui_notes": "Sama seperti pola simpati **ね**, kita juga membicarakan cuaca masa lampau dengan lawan bicara.\n\n* Gunakan **bentuk non-lampau** (sekarang/masa depan) saat membicarakan cuaca saat ini.\n* Gunakan **bentuk lampau** saat membicarakan cuaca kemarin, semalam, dsb.\n\n### 💡 Recap: Konjugasi Bentuk Positif (肯定形の活用)\n\n| Kelas Kata | Non-lampau (Sekarang/Akan Datang) | Lampau (Masa Lalu) |\n|---|---|---|\n| **Kata Benda** | Nです (Contoh: 雨です) | Nでした (Contoh: 雨でした) |\n| **Kata Sifat-ナ** | ナA-です (Contoh: 大変です) | ナA-でした (Contoh: 大変でした) |\n| **Kata Sifat-イ** | イA-いです (Contoh: 暑いです) | イA-かったです (Contoh: 暑かったです) |\n| **Kata Kerja** | V-ます (Contoh: 降ります) | V-ました (Contoh: 降りました) |",
+    "examples": [
+      {
+        "japanese": "昨日はすごい雨でしたね。",
+        "indonesian": "Kemarin hujan deras sekali, ya.",
+        "romaji": "Kinou wa sugoi ame deshita ne."
+      },
+      {
+        "japanese": "Ａ： おはようございます。朝から暑いですね。\nＢ： そうですね。ゆうべも暑かったですね。",
+        "indonesian": "A: Selamat pagi. Dari pagi sudah panas, ya.\nB: Betul. Kemarin malam juga panas, ya.",
+        "romaji": "A: Ohayou gozaimasu. Asa kara atsui desu ne.\nB: Sou desu ne. Yuube mo atsukatta desu ne."
+      },
+      {
+        "japanese": "Ａ： 毎日、よく降りますね。\nＢ： 本当ですね。",
+        "indonesian": "A: Setiap hari hujan, ya.\nB: Betul sekali.",
+        "romaji": "A: Mainichi, yoku furimasu ne.\nB: Hontou desu ne."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 4", "lampau", "non-lampau", "cuaca"]
+  },
+  {
+    "id": "irodori_a2.1_bab4_3",
+    "chapter": 4,
+    "level": "A2.1",
+    "title": "V-ています ③",
+    "meaning": "Sedang [V] (Kondisi saat ini / Cuaca)",
+    "formula_template": "V-て + います",
+    "ui_notes": "Selain digunakan untuk menyatakan pekerjaan dan kebiasaan, pola **「Kata kerja bentuk-て + います」** juga digunakan untuk berbicara tentang kondisi cuaca yang sedang terjadi saat ini.\n\n### Kosakata Penting untuk Dihafal:\n* **晴（は）れています** = Cerah\n* **くもっています** = Berawan / Mendung\n* **雨（あめ）が降（ふ）っています** = Sedang turun hujan\n* **雪（ゆき）が降（ふ）っています** = Sedang turun salju",
+    "examples": [
+      {
+        "japanese": "今も少し雨が降っています。",
+        "indonesian": "Sekarang pun masih gerimis.",
+        "romaji": "Ima mo sukoshi ame ga futte imasu."
+      },
+      {
+        "japanese": "今朝は、よく晴れていますね。",
+        "indonesian": "Pagi ini cerah sekali, ya.",
+        "romaji": "Kesa wa, yoku harete imasu ne."
+      },
+      {
+        "japanese": "外は、風が吹いています。注意してください。",
+        "indonesian": "Hati-hati, di luar berangin.",
+        "romaji": "Soto wa, kaze ga fuite imasu. Chuui shite kudasai."
+      },
+      {
+        "japanese": "今日はくもっていて、あまり天気がよくないですね。",
+        "indonesian": "Hari ini cuaca tidak begitu baik, ya. Berawan.",
+        "romaji": "Kyou wa kumotte ite, amari tenki ga yokunai desu ne."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 4", "cuaca", "te-imasu", "sedang"]
+  },
+  {
+    "id": "irodori_a2.1_bab4_4",
+    "chapter": 4,
+    "level": "A2.1",
+    "title": "N / [ナA]- / [イA]-い / V-る でしょう",
+    "meaning": "Pasti / Kemungkinan besar [Akan... / Adalah...] (Prakiraan)",
+    "formula_template": "Kata Benda / Kata Sifat / Kata Kerja Kamus + でしょう",
+    "ui_notes": "Ungkapan ini digunakan untuk menyatakan perkiraan, dan paling sering ditemui dalam acara **prakiraan cuaca (天気予報)**.\n\n* **Kata Benda & Sifat-ナ**: Ubah **～です** menjadi **～でしょう**.\n* **Kata Sifat-イ & Kata Kerja**: Gunakan bentuk biasa (untuk kata kerja, gunakan bentuk kamus / V-る) + **でしょう**.\n* Kata ini jarang dipakai dalam percakapan sehari-hari. Pada tahap ini, cukup kenali ungkapan ini agar kamu paham saat mendengarkan ramalan cuaca di TV/Radio.",
+    "examples": [
+      {
+        "japanese": "明日は晴れるでしょう。",
+        "indonesian": "Besok cuaca (akan) cerah.",
+        "romaji": "Ashita wa hareru deshou."
+      },
+      {
+        "japanese": "明日は晴れでしょう。",
+        "indonesian": "Besok cuaca (pasti) cerah.",
+        "romaji": "Ashita wa hare deshou."
+      },
+      {
+        "japanese": "明日も寒いでしょう。",
+        "indonesian": "Besok pun udara (kemungkinan) akan dingin.",
+        "romaji": "Ashita mo samui deshou."
+      },
+      {
+        "japanese": "雨は、今日の夕方にはやむでしょう。",
+        "indonesian": "Hujan (diperkirakan) akan reda sore ini.",
+        "romaji": "Ame wa, kyou no yuugata ni wa yamu deshou."
+      }
+    ],
+    "tags": ["irodori", "A2.1", "bab 4", "deshou", "perkiraan", "prakiraan cuaca"]
+  }
+]

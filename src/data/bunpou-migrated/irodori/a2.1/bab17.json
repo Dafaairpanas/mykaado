@@ -1,137 +1,73 @@
 [
   {
-    "id": "i_bab17_1",
-    "chapter": "Bab 17",
+    "id": "irodori_a2.1_bab17_1",
+    "chapter": 17,
     "level": "A2.1",
-    "title": "〜から持って来た飾りです — Ini Hiasan yang Dibawa dari ...",
-    "meaning": "Pola kalimat untuk menjelaskan asal atau sumber suatu benda yang dibawa. '〜から' berarti 'dari', '持って来た' adalah bentuk lampau dari '持って来る' (membawa datang), dan '飾り' berarti 'hiasan' atau benda yang dibawa. Digunakan saat memberikan oleh-oleh atau menjelaskan benda yang dibawa saat berkunjung. Artinya 'Ini adalah hiasan/benda yang dibawa dari [tempat]'.",
-    "formula_template": "{A} から 持って来た {B} です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} から 持って来た {B} です' untuk percakapan: Pola kalimat untuk menjelaskan asal atau sumber suatu benda yang dibawa. '〜から' berarti 'dari', '持って来た' adalah . Pastikan 'A' mewakili Tempat, 'B' mewakili Benda.",
-    "ui_notes": "Untuk menyebutkan benda lain selain hiasan: お土産 (oleh-oleh), お菓子 (makanan ringan), お酒 (minuman beralkohol). Bentuk lampau '持って来た' (membawa datang) menunjukkan bahwa benda tersebut sudah dibawa ke tempat sekarang. '持って行った' (membawa pergi) digunakan jika benda dibawa ke tempat lain.",
+    "title": "V (Bentuk Biasa) + N ②",
+    "meaning": "[N] yang di-[V] ...",
+    "formula_template": "V-た (Bentuk-ta) + N",
+    "ui_notes": "Berbeda dengan Bab 15 di mana frasa penjelas adalah subjek, di sini frasa penjelasnya berupa **objek/tindakan lampau**.\n\n* Contoh: *Pajangan* + *Saya membawanya dari Nepal* = **ネパールから持って来た ＋ 飾り** (Pajangan yang saya bawa dari Nepal).\n* Karena kegiatannya sudah berlalu (lampau), maka kata kerja penjelasnya menggunakan **Bentuk-ta** (Contoh: 持って来ました → 持って来た).",
     "examples": [
       {
-        "jp": "ネパールから持って来た飾りです。",
-        "id": "Ini adalah hiasan yang saya bawa dari Nepal."
+        "japanese": "ネパールから持って来た飾りです。",
+        "indonesian": "Ini adalah pajangan yang saya bawa dari Nepal.",
+        "romaji": "Nepaarukara mottekita kazari desu."
       },
       {
-        "jp": "インドネシアから持って来たお土産です。",
-        "id": "Ini adalah oleh-oleh yang saya bawa dari Indonesia."
+        "japanese": "Ａ： 私が作った料理です。よかったら、どうぞ。\nＢ： いただきます。",
+        "indonesian": "A: Ini adalah masakan yang saya buat sendiri. Silakan dicicipi kalau Anda mau.\nB: Terima kasih.",
+        "romaji": "A: Watashi ga tsukutta ryouri desu. Yokattara, douzo.\nB: Itadakimasu."
+      },
+      {
+        "japanese": "これ、北海道で買ったバターです。おいしいですよ。",
+        "indonesian": "Ini mentega yang saya beli di Hokkaido. Rasanya enak, lho.",
+        "romaji": "Kore, Hokkaidou de katta bataa desu. Oishii desu yo."
       }
     ],
-    "tags": [
-      "A2",
-      "Oleh-oleh",
-      "Berkunjung",
-      "Sumber"
-    ]
+    "tags": ["irodori", "A2.1", "bab 17", "penjelas benda lampau", "kata kerja ta"]
   },
   {
-    "id": "i_bab17_2",
-    "chapter": "Bab 17",
+    "id": "irodori_a2.1_bab17_2",
+    "chapter": 17,
     "level": "A2.1",
-    "title": "〜にもらったんです — Menerima dari ...",
-    "meaning": "Pola kalimat untuk menyatakan bahwa seseorang menerima sesuatu dari orang lain. '〜に' menunjukkan pemberi (orang yang memberikannya), 'もらった' adalah bentuk lampau dari 'もらう' (menerima), dan 'んです' memberikan penjelasan. Digunakan saat menjelaskan asal usul benda yang dimiliki atau diterima. Artinya '(Saya) menerima [benda] dari [orang]'.",
-    "formula_template": "{A} に {B} を もらったんです",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} に {B} を もらったんです' untuk percakapan: Pola kalimat untuk menyatakan bahwa seseorang menerima sesuatu dari orang lain. '〜に' menunjukkan pemberi (oran. Pastikan 'A' mewakili Orang, 'B' mewakili Benda.",
-    "ui_notes": "Perbedaan: 'もらう' (menerima) dari sudut pandang penerima, 'あげる' (memberi) dari sudut pandang pemberi, 'くれる' (memberi) dari sudut pandang penerima untuk pemberi yang dekat. Contoh: 友達がくれた (Teman memberi saya - dari sudut pandang penerima). 'もらったんです' memberikan nuansa penjelasan tentang bagaimana benda itu didapatkan.",
+    "title": "【Orang】に【Benda】をもらいます",
+    "meaning": "Menerima [Benda] dari [Orang]",
+    "formula_template": "Pemberi (Orang) + に + Benda + を + もらいます",
+    "ui_notes": "Digunakan ketika kita (atau seseorang) **menerima** sesuatu dari orang lain. \n\n* Partikel **に** di sini bermakna \"dari\" (sama seperti **から**). Kamu juga bisa menggunakan *から* secara bergantian (Contoh: 友だちにもらった = 友だちからもらった).",
     "examples": [
       {
-        "jp": "このマグカップ、誕生日に友だちにもらったんです。",
-        "id": "Mug ini, saya terima dari teman pada hari ulang tahun."
+        "japanese": "このマグカップ、誕生日に、友だちにもらったんです。",
+        "indonesian": "Mug ini saya dapatkan dari teman sewaktu ulang tahun.",
+        "romaji": "Kono magukappu, tanjoubi ni, tomodachi ni morattan desu."
       },
       {
-        "jp": "このペンは先生にもらったんです。",
-        "id": "Pena ini, saya terima dari guru."
+        "japanese": "Ａ： 今年の誕生日に、何かまらいましたか？\nＢ： 父に時計をもらいました。",
+        "indonesian": "A: Apakah Anda menerima sesuatu pada hari ulang tahun kali ini?\nB: Saya menerima jam tangan dari ayah.",
+        "romaji": "A: Kotoshi no tanjoubi ni, nani ka moraimashita ka?\nB: Chichi ni tokei o moraimashita."
       }
     ],
-    "tags": [
-      "A2",
-      "Menerima",
-      "Pemberian",
-      "Penjelasan"
-    ]
+    "tags": ["irodori", "A2.1", "bab 17", "menerima", "moraimasu"]
   },
   {
-    "id": "i_bab17_3",
-    "chapter": "Bab 17",
+    "id": "irodori_a2.1_bab17_3",
+    "chapter": 17,
     "level": "A2.1",
-    "title": "〜がくれたものです — Diberi oleh ...",
-    "meaning": "Pola kalimat untuk menyatakan bahwa seseorang memberi sesuatu kepada pembicara. '〜が' menunjukkan pemberi (subjek yang memberi), 'くれた' adalah bentuk lampau dari 'くれる' (memberi kepada saya), dan 'ものです' berarti 'benda yang'. Digunakan saat menjelaskan sumber benda yang diterima, dengan fokus pada pemberi. Artinya '(Ini adalah) benda yang diberikan oleh [orang]'.",
-    "formula_template": "{A} が くれた {B} です",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} が くれた {B} です' untuk percakapan: Pola kalimat untuk menyatakan bahwa seseorang memberi sesuatu kepada pembicara. '〜が' menunjukkan pemberi (subj. Pastikan 'A' mewakili Orang, 'B' mewakili Benda.",
-    "ui_notes": "'くれる' digunakan ketika pemberi memberikan sesuatu KEPADA pembicara atau orang yang dekat dengan pembicara. Berbeda dengan 'あげる' yang digunakan ketika pemberi (pembicara) memberikan sesuatu KEPADA orang lain. 'くれたものです' bisa disingkat menjadi 'くれたの' dalam percakapan kasual.",
+    "title": "【Orang】が【Benda】をくれます",
+    "meaning": "[Orang] memberikan [Benda] (kepada saya)",
+    "formula_template": "Pemberi (Orang) + が + Benda + を + くれます",
+    "ui_notes": "Digunakan ketika ada **orang lain yang memberikan** sesuatu kepada kita (pembicara).\n\n* Fokus kalimat (subjek) ada pada si Pemberi, karenanya menggunakan partikel **が**.\n* Frasa **私に** (kepada saya) biasanya dihilangkan karena sudah jelas dari konteks kata **くれます**.",
     "examples": [
       {
-        "jp": "これは、兄がくれたお守りです。",
-        "id": "Ini adalah azimat yang diberikan oleh kakak laki-laki saya."
+        "japanese": "これは、兄がくれたお守りです。",
+        "indonesian": "Ini adalah azimat yang saya terima dari kakak laki-laki saya.",
+        "romaji": "Kore wa, ani ga kureta omamori desu."
       },
       {
-        "jp": "これは彼女がくれたプレゼントです。",
-        "id": "Ini adalah hadiah yang diberikan oleh pacar saya."
+        "japanese": "Ａ： その時計、すてきですね。\nＢ： 父が誕生日にくれました。",
+        "indonesian": "A: Jam itu, bagus ya.\nB: Ayah memberikannya pada hari ulang tahun saya.",
+        "romaji": "A: Sono tokei, suteki desu ne.\nB: Chichi ga tanjoubi ni kuremashita."
       }
     ],
-    "tags": [
-      "A2",
-      "Memberi",
-      "Pemberian",
-      "Penjelasan"
-    ]
+    "tags": ["irodori", "A2.1", "bab 17", "kuremasu", "memberi kepada saya"]
   }
 ]

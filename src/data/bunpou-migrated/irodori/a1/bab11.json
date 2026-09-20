@@ -1,158 +1,142 @@
 [
   {
-    "id": "i_bab11_1",
+    "id": "i_a1_bab11_1",
     "chapter": "Bab 11",
     "level": "A1",
-    "title": "Nは何ですか？",
-    "meaning": "Pola pertanyaan untuk menanyakan sesuatu tentang topik tertentu. 'Nは' adalah topik yang dibicarakan, dan '何ですか' berarti 'apa?'. Sangat berguna untuk menanyakan hobi, pekerjaan, atau informasi lain tentang seseorang. Artinya 'Apa [topik]nya?'.",
-    "formula_template": "{A} は 何ですか？",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は 何ですか？' untuk percakapan: Pola pertanyaan untuk menanyakan sesuatu tentang topik tertentu. 'Nは' adalah topik yang dibicarakan, dan '何ですか. Pastikan 'A' mewakili Topik.",
-    "ui_notes": "Bisa juga digunakan untuk menanyakan hal lain: これは何ですか？ (Apa ini?). Untuk jawaban, gunakan pola yang sudah dipelajari: 趣味は映画を見ることです (Hobi saya adalah menonton film).",
+    "title": "Menanyakan Sesuatu (〜は何ですか？)",
+    "meaning": "Pendeteksi Informasi Utama! Senjata dasar mutlak untuk menggali atau mencari tahu topik apa pun mengenai lawan bicara Anda (Apa hobinya, dll).",
+    "formula_template": "[Topik yang Ingin Digali] + は + 何ですか？",
+    "ui_notes": "ATURAN BACA KANJI 何 (APA) PENTING:\n1. Dibaca **「NAN (なん)」** jika diikuti akhiran \"ですか\" (何ですか), atau diikuti satuan jumlah (何歳 / 何枚).\n2. Dibaca **「NANI (なに)」** jika disusul oleh partikel objek/penanda seperti を atau が (何を / 何が).",
     "examples": [
       {
-        "jp": "趣味は何ですか？",
-        "id": "Apa hobimu?"
+        "jp": "趣味は、何ですか？",
+        "id": "Hobinya (kamu) APA?"
       },
       {
-        "jp": "仕事は何ですか？",
-        "id": "Apa pekerjaanmu?"
+        "jp": "スポーツは、何が好きですか？",
+        "id": "Untuk urusan Olahraga, kamu suka APA?"
+      },
+      {
+        "jp": "Smartphoneは、日本語で何ですか？ ……スマホです。",
+        "id": "Benda 'Smartphone' itu, kalau dalam bahasa Jepangnya disebut APA? ...... (Orang Jepang nyebutnya) Sumaho."
       }
     ],
     "tags": [
       "A1",
-      "Hobi",
-      "Pertanyaan",
-      "Informasi Pribadi"
+      "Pendeteksi Informasi",
+      "Apa (Nandesuka)"
     ]
   },
   {
-    "id": "i_bab11_2",
+    "id": "i_a1_bab11_2",
     "chapter": "Bab 11",
     "level": "A1",
-    "title": "どんなN",
-    "meaning": "Pola pertanyaan untuk menanyakan jenis atau tipe dari suatu kata benda. 'どんな' berarti 'seperti apa' atau 'jenis apa'. Digunakan untuk menanyakan preferensi yang lebih spesifik. Artinya 'N seperti apa?' atau 'Jenis N apa?'.",
-    "formula_template": "どんな {A}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'どんな {A}' untuk percakapan: Pola pertanyaan untuk menanyakan jenis atau tipe dari suatu kata benda. 'どんな' berarti 'seperti apa' atau 'jeni. Pastikan 'A' mewakili Kata Benda.",
-    "ui_notes": "Perbedaan: '何' (nan) = 'apa' (benda tertentu), 'どんな' (donna) = 'seperti apa' (jenis/kategori). Contoh: 何の本？ (Buku apa? - judul spesifik) vs どんな本？ (Buku seperti apa? - genre/kategori).",
+    "title": "Jenis yang Seperti Apa (どんな〜)",
+    "meaning": "Pengerucut Topik! Kata tanya maut untuk menggali lebih dalam soal \"Genre\" atau \"Jenis Kategori\" dari suatu hal (Kamu suka film, tapi film jenis APA?).",
+    "formula_template": "どんな + [Topik Kategori] + が好きですか？",
+    "ui_notes": "",
     "examples": [
       {
-        "jp": "どんなスポーツが好きですか？",
-        "id": "Olahraga seperti apa yang kamu suka?"
+        "jp": "どんな スポーツが 好きですか？",
+        "id": "(Kategori/Jenis) Olahraga SEPERTI APA yang kamu sukai?"
       },
       {
-        "jp": "どんな音楽を聞きますか？",
-        "id": "Musik seperti apa yang kamu dengar?"
+        "jp": "どんな 映画が 好きですか？ ……アクション映画が 好きです。",
+        "id": "Genre Film SEPERTI APA yang kamu senangi? ...... Hamba menyukai genre Film Laga (Action)."
+      },
+      {
+        "jp": "どんな 本を、よく 読みますか？ ……ミステリーが 好きです。",
+        "id": "Jenis Buku SEPERTI APA yang rutin kamu baca? ...... Saya sukanya genre Misteri."
       }
     ],
     "tags": [
       "A1",
-      "Hobi",
-      "Pertanyaan",
-      "Preferensi"
+      "Menggali Kategori",
+      "Seperti Apa (Donna)"
     ]
   },
   {
-    "id": "i_bab11_3",
+    "id": "i_a1_bab11_3",
     "chapter": "Bab 11",
     "level": "A1",
-    "title": "あまり〜ない",
-    "meaning": "Kata keterangan yang berarti 'tidak terlalu' atau 'tidak begitu'. Selalu diikuti dengan bentuk negatif (〜ない). Digunakan untuk menyatakan bahwa sesuatu tidak terlalu sering terjadi atau tidak terlalu disukai. Artinya 'tidak begitu [aktivitas/sifat]'.",
-    "formula_template": "あまり {A}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'あまり {A}' untuk percakapan: Kata keterangan yang berarti 'tidak terlalu' atau 'tidak begitu'. Selalu diikuti dengan bentuk negatif (〜ない). . Pastikan 'A' mewakili Bentuk Negatif.",
-    "ui_notes": "Kata keterangan frekuensi yang selalu diikuti negatif: 'あまり' (tidak terlalu) dan 'ぜんぜん' (tidak sama sekali). Contoh: ぜんぜん食べません (Tidak makan sama sekali). 'あまり' bisa digunakan dengan kata sifat juga: あまり大きくない (Tidak begitu besar).",
+    "title": "Tidak Begitu... (あまり〜)",
+    "meaning": "Gaya Merendahkan Dosis! Mengungkapkan tingkat keadaan / rasa suka / kualitas yang \"kurang mantap\" atau \"tidak sebegitunya\".",
+    "formula_template": "あまり + [Kata Sifat BENTUK NEGATIF]",
+    "ui_notes": "SYARAT MUTLAK (AWAS!):\nAdverbia **「あまり」** ini HARUS dan WAJIB dikawinkan dengan ujung kalimat yang BENTUK NEGATIF (Bukan). Jika Anda mau menegaskan ZONG MUTLAK (Sama sekali tidak), gunakan kata **「ぜんぜん〜」**.\n\n### 📝 TINGKATAN DOSIS SIFAT\n- **とても** (Sangat / Banget) 👉 Positif (+)\n- **あまり** (Kurang / Tidak Begitu) 👉 Negatif (-)\n- **ぜんぜん** (Sama Sekali Nggak) 👉 Negatif Mutlak (- -)",
     "examples": [
       {
-        "jp": "スポーツはあまり好きじゃないです。",
-        "id": "Saya tidak begitu suka olahraga."
+        "jp": "スポーツは、あまり 好きじゃないです。",
+        "id": "Soal Olahraga, aku KURANG BEGITU MENYUKAINYA."
       },
       {
-        "jp": "あまり食べません。",
-        "id": "Saya tidak begitu banyak makan."
+        "jp": "田中さんは、アニメが好きですか？ ……あまり 好きじゃないです。",
+        "id": "Pak Tanaka, apakah menyenangi Anime? ...... TIDAK BEGITU Suka."
+      },
+      {
+        "jp": "部屋は 広いですか？ ……ぜんぜん 広くないです。でも、とても きれいです。",
+        "id": "Apakah kamarnya lega? ...... SAMA SEKALI NGGAK lega. Tapi, ya sangat bersih memukau."
       }
     ],
     "tags": [
       "A1",
-      "Frekuensi",
-      "Negatif",
-      "Preferensi"
+      "Dosis Merendah",
+      "Tidak Begitu (Amari)"
     ]
   },
   {
-    "id": "i_bab11_4",
+    "id": "i_a1_bab11_4",
     "chapter": "Bab 11",
     "level": "A1",
-    "title": "Frekuensi: いつも / たいてい / よく / ときどき / あまり / ぜんぜん",
-    "meaning": "Kata keterangan frekuensi untuk menyatakan seberapa sering suatu kegiatan dilakukan. Dari yang paling sering (100%) hingga tidak pernah (0%). 'いつも' (selalu), 'たいてい' (biasanya), 'よく' (sering), 'ときどき' (kadang-kadang), 'あまり' (tidak terlalu - dengan negatif), 'ぜんぜん' (tidak pernah - dengan negatif).",
-    "formula_template": "{A} {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "adv"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} {B}' untuk percakapan: Kata keterangan frekuensi untuk menyatakan seberapa sering suatu kegiatan dilakukan. Dari yang paling sering (. Pastikan 'A' mewakili Frekuensi, 'B' mewakili Kata Kerja.",
-    "ui_notes": "Urutan frekuensi dari tinggi ke rendah: いつも (100%) > たいてい (80%) > よく (60%) > ときどき (40%) > あまり〜ない (20%) > ぜんぜん〜ない (0%). 'ぜんぜん' dan 'あまり' harus diikuti bentuk negatif. Posisi dalam kalimat: sebelum kata kerja.",
+    "title": "Dosis Frekuensi Waktu (いつも/よく/ときどき...)",
+    "meaning": "Bumbu Pengukur Rutinitas! Membeberkan seberapa sering (Kekerapan) sebuah rutinitas kegiatan itu Anda lakukan di kehidupan nyata.",
+    "formula_template": "[Frekuensi Waktu] + [Kata Kerja Aksi]",
+    "ui_notes": "### 📝 TABEL BUKU PINTAR (DOSIS FREKUENSI)\n\n| Level Dosis | Kata Ajaib | Kawin Dengan | Makna |\n|---|---|---|---|\n| **Tinggi (100%)** | **いつも** | Positif (V-ます) | Selalu Rutin |\n| **Tinggi (80%)** | **たいてい** | Positif (V-ます) | Umumnya / Kebanyakan |\n| **Sedang (60%)** | **よく** | Positif (V-ます) | Sangat Sering |\n| **Sedang (40%)** | **ときどき** | Positif (V-ます) | Kadang-kadang |\n| **Rendah (10%)** | **あまり** | Negatif (V-ません) | Jarang Banget |\n| **Zong (0%)** | **ぜんぜん** | Negatif (V-ません) | Sama Sekali Nggak Pernah |",
     "examples": [
       {
-        "jp": "休みの日はたいてい映画を見ます。",
-        "id": "Di hari libur, biasanya saya menonton film."
+        "jp": "休みの日は、たいてい、映画を見ます。",
+        "id": "Di kala libur (weekend), UMUMNYA / BIASANYA (kegiatan hamba cuma) mantengin film doang."
       },
       {
-        "jp": "よく友だちと遊びます。",
-        "id": "Saya sering bermain dengan teman."
+        "jp": "スポーツは、ぜんぜん しないね。",
+        "id": "Olahraga sih SAMA SEKALI GAK PERNAH (saya) lakuin euy."
+      },
+      {
+        "jp": "夜、何を しますか？ ……よく 本を 読みます。",
+        "id": "Malam hari (ngapain rutinitasnya)? ...... (Saya) SANGAT SERING ngebaca buku."
       }
     ],
     "tags": [
       "A1",
-      "Frekuensi",
-      "Kebiasaan",
-      "Rutinitas"
+      "Rutinitas Kebiasaan",
+      "Tingkat Sering (Taitei)"
+    ]
+  },
+  {
+    "id": "i_a1_bab11_5",
+    "chapter": "Bab 11",
+    "level": "A1",
+    "title": "Melakukan Bersama di Suatu Tempat",
+    "meaning": "Paket Kombo Lengkap! Merangkum laporan dalam 1 tarikan napas: Bersama Siapa, Di Mana Lokasinya, dan Apa Kegiatannya.",
+    "formula_template": "[Orang] + と (Bersama) + [Tempat] + で (Di) + [Kata Kerja Aksi]",
+    "ui_notes": "Dalam bahasa Jepang, urutan posisinya (Apakah nyebut Orang dulu atau Tempat dulu) itu BEBAS MERDEKA! Yang penting Kata Kerja Aksinya (Makan/Bermain) ditaruh di ekor paling belakang kalimat.",
+    "examples": [
+      {
+        "jp": "夫と 公園で テニスを します。",
+        "id": "(Saya bermain) tenis DI taman BERSAMA suami (saya)."
+      },
+      {
+        "jp": "休みの日は、ときどき、友だちと 買い物を します。",
+        "id": "Kala hari libur, KADANG-KADANG, (saya) lakuin belanja BERSAMA kawan."
+      },
+      {
+        "jp": "日曜日は、いつも、子どもと 外で 遊びます。",
+        "id": "Kalau hari Minggu, (saya) SELALU kelayapan main DI luar BERSAMA anak."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Kombo Keterangan",
+      "Teman dan Lokasi Aksi"
     ]
   }
 ]

@@ -11,7 +11,7 @@ import type { BunpouItem } from "@/types";
 
 export default function BunpouPage() {
   // Navigation State
-  const [activeTab, setActiveTab] = useState<string>("irodori");
+  const [activeTab, setActiveTab] = useState<string>("minna");
   const [selectedChapterId, setSelectedChapterId] = useState<string | null>(null);
   
   // Data State
@@ -95,22 +95,22 @@ export default function BunpouPage() {
           
           <div className="flex gap-2 bg-[var(--color-bg-nav)] p-1.5 rounded-full border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] self-start md:self-auto overflow-x-auto max-w-full hide-scrollbar">
             <button
-              onClick={() => setActiveTab("irodori")}
-              className={`px-5 py-2 rounded-full font-bold text-sm transition-all whitespace-nowrap ${activeTab === "irodori" ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]" : "text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-card)]"}`}
-            >
-              Irodori
-            </button>
-            <button
               onClick={() => setActiveTab("minna")}
               className={`px-5 py-2 rounded-full font-bold text-sm transition-all whitespace-nowrap ${activeTab === "minna" ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]" : "text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-card)]"}`}
             >
               Minna
             </button>
             <button
+              onClick={() => setActiveTab("irodori")}
+              className={`px-5 py-2 rounded-full font-bold text-sm transition-all whitespace-nowrap ${activeTab === "irodori" ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]" : "text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-card)]"}`}
+            >
+              Irodori
+            </button>
+            <button
               onClick={() => setActiveTab("n3")}
               className={`px-5 py-2 rounded-full font-bold text-sm transition-all whitespace-nowrap ${activeTab === "n3" ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]" : "text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-card)]"}`}
             >
-              JLPT N3
+              Sou N3
             </button>
           </div>
         </div>
@@ -123,7 +123,7 @@ export default function BunpouPage() {
                 <div className="w-1.5 h-6 bg-[var(--color-text-main)] rounded-full"></div>
                 <h2 className="text-xl font-extrabold">{source.title}</h2>
               </div>
-              <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 xl:grid-cols-7 gap-3">
+              <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 xl:grid-cols-7 gap-3">
                 {source.chapters.map(chapter => (
                   <button
                     key={chapter.id}
@@ -199,7 +199,7 @@ export default function BunpouPage() {
             <Card key={idx} className="p-5 md:p-6 bg-[var(--color-bg-card)] transition-colors group relative overflow-hidden">
               <h3 className="text-xl md:text-2xl font-normal mb-3 jp-text relative z-10">{item.title}</h3>
               
-              <div className={`inline-block px-3 py-1.5 bg-[var(--color-bg-nav)] text-[var(--color-accent)] font-bold font-mono text-sm rounded-[var(--radius-sm)] mb-4 border border-dashed border-[var(--color-border-main)] relative z-10 transition-all ${!showFormula && "blur-sm opacity-30 select-none hover:blur-none hover:opacity-100"}`}>
+              <div className={`inline-block px-3 py-1.5 bg-[var(--color-bg-main)] text-[var(--color-text-main)] font-bold font-mono text-sm rounded-[var(--radius-sm)] mb-4 border-[length:var(--bw-sm)] border-solid border-[var(--color-accent)] shadow-[2px_2px_0px_var(--color-accent)] relative z-10 transition-all ${!showFormula && "blur-sm opacity-30 select-none hover:blur-none hover:opacity-100"}`}>
                 {item.formula_template}
               </div>
               

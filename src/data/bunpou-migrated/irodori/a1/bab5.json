@@ -1,0 +1,166 @@
+[
+  {
+    "id": "i_a1_bab5_1",
+    "chapter": "Bab 5",
+    "level": "A1",
+    "title": "〜が 好きです (Menyukai...)",
+    "meaning": "Deklarasi Cinta Objek! Pola pamungkas untuk meluapkan bahwa lidah atau hati Anda sangat menyukai / memfavoritkan sebuah benda/makanan.",
+    "formula_template": "1. [Objek Kesukaan] + が + 好きです\n2. [Objek yang Dibenci] + は + 好きじゃないです",
+    "ui_notes": "SOP MUTASI PARTIKEL (PENTING!):\n- Jika kalimat POSITIF (Saya Suka), objeknya dikurung partikel **「が」** (肉が好きです).\n- Tapi AWAS, jika kalimat NEGATIF (Tidak Suka), orang Jepang sering menyoroti kebenciannya dengan memutar/mengganti partikel menjadi **「は」** (肉は好きじゃないです).\n\n### 📝 TABEL BUKU PINTAR (好きです)\n\n| Wujud Kalimat | Pola Ajaib | Contoh Eksekusi |\n|---|---|---|\n| **Suka (Positif)** | **N が 好きです** | 魚が好きです (Saya suka ikan) |\n| **Tak Suka (Negatif)** | **N は 好きじゃないです** | 肉は好きじゃないです (Saya tidak suka daging) |\n| **Tanya Kesukaan** | **何 が 好きですか？** | 日本の食べ物、何が好きですか？ (Suka makanan Jepang apa?) |",
+    "examples": [
+      {
+        "jp": "肉と 野菜が 好きです。",
+        "id": "Saya MENYUKAI daging dan sayuran (Pola Positif)."
+      },
+      {
+        "jp": "魚は 好きじゃないです。",
+        "id": "Kalau per-ikan-an saya TIDAK MENYUKAINYA (Pola Negatif, partikel diganti 'Wa')."
+      },
+      {
+        "jp": "肉、好きですか？ ……はい、好きです。 ……野菜は？ ……野菜は 好きじゃないです。",
+        "id": "(Kamu) Suka memakan daging kah? ...... Ya, sangat suka. ...... Kalau porsian sayur gimana? ...... Hadeh sayur mah ogah, tidak suka."
+      },
+      {
+        "jp": "日本の 食べ物、何が 好きですか？ ……天ぷらが 好きです。",
+        "id": "Soal makanan kuliner Jepang, apa spesifik YANG (KAMU) SUKAI? ...... Saya (hamba) gorengan Tempura, suka banget."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Pernyataan Kesukaan",
+      "Suka Tidak Suka (Suki)"
+    ]
+  },
+  {
+    "id": "i_a1_bab5_2",
+    "chapter": "Bab 5",
+    "level": "A1",
+    "title": "Penolakan Halus (〜は ちょっと...)",
+    "meaning": "Jurus Menolak ala Ninja Beretika! Digunakan ketika Anda tidak menyukai suatu hidangan namun ingin menolaknya dengan kehalusan tingkat tinggi. Anda sengaja 'menggantung' akhir kalimat untuk meredam rasa tersinggung si penawar.",
+    "formula_template": "[Benda yang Dihindari/Dibenci] + は、ちょっと…",
+    "ui_notes": "Kata 'ちょっと (Chotto)' aslinya bermakna 'Sedikit'. Mengucapkan kalimat menggantung ini sama efeknya dengan menebas tanpa darah yang berarti: \"Aduh maaf, (Wasabi) agak-agak gimanaaa gitu rasanya (Saya nggak sanggup makan)\". Sangat khas orang Jepang yang menjaga perasaan!",
+    "examples": [
+      {
+        "jp": "わさびは、ちょっと…。",
+        "id": "Aduh, (pasta hijau pedas) Wasabi mah AGAK-AGAK GIMANA GITU YA (Nyerah deh saya gak kuat makannya)."
+      },
+      {
+        "jp": "天ぷらが 好きです。 ……刺身は？ ……刺身は、ちょっと…。",
+        "id": "(Saya) Menyukai gorengan Tempura. ...... Kalau makanan mentah Sashimi gimana? ...... Waduh kalau Sashimi mah AGAK... (Pass dulu deh, nggak doyan)."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Gaya Menolak Halus",
+      "Seni Menggantung Kalimat"
+    ]
+  },
+  {
+    "id": "i_a1_bab5_3",
+    "chapter": "Bab 5",
+    "level": "A1",
+    "title": "Nawarin Minum (〜ますか / 〜る？)",
+    "meaning": "Basa-basi Pramusaji! Jurus sakti untuk menawarkan atau mengkonfirmasi niat tindakan seseorang (Misal: Mau minum teh nggak?).",
+    "formula_template": "1. [K.Kerja Bentuk ます (Formal)] + か？\n2. [K.Kerja Bentuk Kamus (Gaul)] + ？ (Intonasi Naik)",
+    "ui_notes": "SOP NERIMA & NOLAK TAWARAN MINUM:\n- Jika Anda haus dan mau Menerima: **「はい、お願いします」** (Ya, boleh tolong buatkan).\n- Jika Anda kembung dan mau Menolak Halus: **「いえ、けっこうです」** (Nggak usah repot-repot, saya sudah cukup kok).",
+    "examples": [
+      {
+        "jp": "お茶、飲みますか？",
+        "id": "APAKAH (Bapak) BERKENAN MINUM seduhan teh?"
+      },
+      {
+        "jp": "何、飲む？",
+        "id": "(Bro), MAU MINUM apaan nih?"
+      },
+      {
+        "jp": "コーヒー、飲みますか？ ……はい、お願いします。 ……ミルクは？ ……いえ、けっこうです。",
+        "id": "Apakah berkenan minum Kopi? ...... Ya, boleh tolong buatkan ya (Nerima). ...... Pakai susu nggak? ...... Nggak usah deh, makasih (Nolak)."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Nawarin Aksi",
+      "Bentuk Kamus Lisan"
+    ]
+  },
+  {
+    "id": "i_a1_bab5_4",
+    "chapter": "Bab 5",
+    "level": "A1",
+    "title": "Menyatakan Fakta/Kebiasaan (〜を 〜ます)",
+    "meaning": "Laporan Rutinitas Harian! Kata kerja yang berakhiran '〜ます' tidak cuma dipakai untuk nembak niat masa depan, tapi juga untuk MENCERITAKAN FAKTA rutinitas (Contoh: Pagi-pagi saya biasanya makan sereal).",
+    "formula_template": "[Objek Penderita] + を + [Kata Kerja Bentuk ます]",
+    "ui_notes": "KEBIASAAN LISAN ORANG JEPANG (PENTING!):\nPartikel Objek Penderita ini wujud huruf aslinya adalah **「を (Wo)」** (Dibaca: O). NAMUN, dalam percakapan lisan gaul jalanan, partikel ini SERING SEKALI DILEPEH DAN DIBUANG. (Contoh Asli: 何を 食べますか -> Lisan Gaul: 何、食べますか？).",
+    "examples": [
+      {
+        "jp": "シリアルを 食べます。",
+        "id": "Saya (punya rutinitas) MEMAKAN hidangan Sereal."
+      },
+      {
+        "jp": "朝ご飯、いつも、何、食べますか？ ……ごはんと みそ汁を 食べます。",
+        "id": "Untuk urusan sarapan pagi, biasanya, makan apaan sih lu? (Partikel Wo dibuang semua) ...... Saya nyantap makan nasi hangat dan menyeruput Sup Miso."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Pernyataan Fakta Lisan",
+      "Kebiasaan Harian"
+    ]
+  },
+  {
+    "id": "i_a1_bab5_5",
+    "chapter": "Bab 5",
+    "level": "A1",
+    "title": "Menolak Fakta Kebiasaan (〜ません / 〜ないです)",
+    "meaning": "Laporan Kemageran! Versi kebalikan (Negatif) dari poin sebelumnya. Digunakan untuk membongkar kebiasaan aksi yang SAMA SEKALI TIDAK ANDA LAKUKAN (Saya mager / tidak terbiasa sarapan).",
+    "formula_template": "1. [K.Kerja Coret ます] + ません (Aliran Formal/Kaku)\n2. [K.Kerja Bentuk Nai] + です (Aliran Lisan/Gaul)",
+    "ui_notes": "Ada DUA ALIRAN BENTUK NEGATIF yang beredar di masyarakat Jepang. Secara makna, keduanya 100% SAMA KEKUATANNYA.\n- Aliran Pemula: 食べません (Lebih gampang dirakit otaknya).\n- Aliran Native: 食べないです (Lebih lincah terucap di jalanan).\n\n### 📝 TABEL JURUS VERBA (NON-LAMPAU)\n\n| Jenis Kalimat | Pola Rakitan | Contoh Laporan |\n|---|---|---|\n| **Positif (Sering Lakuin)** | **V-ます** | シリアルを食べます (Makan sereal) |\n| **Tanya (Ngapain?)** | **V-ますか？** | 何、食べますか？ (Lagi makan apa?) |\n| **Negatif (Gak Pernah)** | **V-ません / V-ないです** | 朝ご飯は、食べません (Gak sarapan) / 食べないです |",
+    "examples": [
+      {
+        "jp": "私は、朝ご飯は、あまり 食べません。",
+        "id": "Kalau saya, urusan sarapan pagi mah, TIDAK PERNAH SAYA MAKAN rutinitasnya."
+      },
+      {
+        "jp": "私も、食べないです。",
+        "id": "Saya JUGA SAMA DEH, GAK MAKAN sarapan (Pakai aliran lisan)."
+      },
+      {
+        "jp": "朝ご飯、何、食べますか？ ……朝ご飯は、食べません。",
+        "id": "Lu sarapan apa biasanya? ...... Kalau jatah sarapan pagi TIDAK KUMAEM sama sekali."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Laporan Negatif",
+      "Dua Aliran Masen & Nai"
+    ]
+  },
+  {
+    "id": "i_a1_bab5_6",
+    "chapter": "Bab 5",
+    "level": "A1",
+    "title": "Keterangan Frekuensi Waktu (いつも/よく/あまり)",
+    "meaning": "Bumbu Pengatur Kadar Frekuensi! Mengatur porsi / dosis / tingkat keseringan sebuah kebiasaan Anda. Posisinya ditaruh tepat di depan Kata Kerja.",
+    "formula_template": "[Adverbia Frekuensi] + [Kata Kerja]",
+    "ui_notes": "ATURAN DOSIS FREKUENSI:\n- **いつも (Selalu)**: Rutinitas Dewa (100% terjadi terus).\n- **よく (Sering)**: Keseringan Tinggi (80% terjadi).\n- **あまり (Jarang / Kurang Begitu)**: Dosis sangat rendah (10% terjadi). SYARAT MUTLAK: Harus dikawinkan dengan ujung kalimat NEGATIF! (Contoh: あまり 食べません).",
+    "examples": [
+      {
+        "jp": "私は、パンと、卵と、ヨーグルトを よく 食べます。",
+        "id": "Saya mah SERING BANGET memakan santapan roti, telur, dan semangkuk yoghurt."
+      },
+      {
+        "jp": "朝ご飯は、あまり 食べません。",
+        "id": "Kalau sarapan pagi mah, SAYA JARANG / KURANG BEGITU memakannya."
+      },
+      {
+        "jp": "朝ご飯、いつも、何、食べますか？ ……パンを 食べます。果物を よく 食べます。",
+        "id": "Porsi sarapan lu tu SELALU makan apaan emang? ...... Makan bongkahan roti doang. Terus SERING BANGET ditambah ngemil buah-buahan."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Dosis Waktu Frekuensi",
+      "Selalu Sering Jarang"
+    ]
+  }
+]

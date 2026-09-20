@@ -4,48 +4,9 @@
     "chapter": "Bab 17",
     "level": "N3",
     "title": "〜とおり",
-    "meaning": "〜とおり",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa sesuatu terjadi atau dilakukan 'sesuai dengan...', 'seperti...', 'menurut...'. Artinya, hasil atau tindakan sama persis dengan apa yang dikatakan, ditulis, digambar, atau diperkirakan sebelumnya. Varian bentuknya: 〜とおり (sesuai...), 〜とおりに (sesuai dengan...), 〜のとおり (sesuai...), 〜どおり (sesuai..., menempel pada kata benda).",
     "formula_template": "{A}る / {B}た / {C}の とおり, {D}どおり.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}る / {B}た / {C}の とおり, {D}どおり.' untuk mengekspresikan: 〜とおり.",
-    "ui_notes": "〜とおり",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus/lampau + とおり. Contoh: 言う (iu) → 言ったとおり (sesuai yang dikatakan). 書く (kaku) → 書いたとおり (sesuai yang ditulis). (2) Kata benda + の + とおり. Contoh: 地図 (chizu) → 地図のとおり (sesuai peta). (3) Kata benda + どおり (menempel langsung). Contoh: 予報 (yohou) → 予報どおり (sesuai ramalan). 説明 (setsumei) → 説明どおり (sesuai penjelasan). Contoh pemakaian: 先生が言ったとおり、試験は難しかった (sesuai yang dikatakan guru, ujiannya memang sulit). 友達がかいてくれた地図のとおりに来たが、道に迷った (datang sesuai peta yang digambar teman, tapi tetap tersesat). 雪が降ってきた。予報どおりだ (salju turun. Sesuai ramalan). 私の言うとおりにしなさい！ (lakukan sesuai yang saya katakan!). Perbedaan とおり dan どおり: とおり berdiri sendiri setelah の, どおり menempel langsung pada kata benda.",
     "examples": [
       {
         "jp": "先生が言ったとおり、試験は難しかった。/ 友達がかいてくれた地図のとおりに来たが、道に迷った。/ 雪が降ってきた。予報どおりだ。/ 私の言うとおりにしなさい！",
@@ -62,58 +23,9 @@
     "chapter": "Bab 17",
     "level": "N3",
     "title": "〜まま",
-    "meaning": "Menunjukkan hal/keadaan yang sama terjadi secara berkelanjutan.",
+    "meaning": "Pola ini digunakan untuk menunjukkan bahwa suatu keadaan atau kondisi yang sama tetap terjadi secara berkelanjutan, tanpa berubah. Artinya 'dalam keadaan...', 'tetap...', 'begitu saja...'. Sering dipakai untuk menyatakan bahwa sesuatu dilakukan atau dibiarkan tanpa mengubah kondisi sebelumnya. Bisa juga menyatakan keadaan yang seharusnya diubah tetapi tidak diubah.",
     "formula_template": "{A}た / {B}ない / {C} (biasa) / {D} な / {V4}の まま.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "V4": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}た / {B}ない / {C} (biasa) / {D} な / {V4}の まま.' untuk mengekspresikan: Menunjukkan hal/keadaan yang sama terjadi secara berkelanjutan..",
-    "ui_notes": "Menunjukkan hal/keadaan yang sama terjadi secara berkelanjutan.",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk lampau + まま. Contoh: つける (tsukeru) → つけた (tsuketa) → つけたまま (dalam keadaan menyala). (2) Kata kerja bentuk negatif + まま. Contoh: 食べる (taberu) → 食べない (tabenai) → 食べないまま (dalam keadaan tidak makan). (3) Kata kerja bentuk biasa + まま. Contoh: ある (aru) → あるまま (dalam keadaan ada). (4) Kata sifat-na + な + まま. Contoh: 元気な (genki na) → 元気なまま (dalam keadaan sehat). (5) Kata benda + の + まま. Contoh: 生 (nama) → 生のまま (dalam keadaan mentah). Contoh pemakaian: 昨夜は、テレビをつけたまま寝てしまった (tadi malam saya tertidur dalam kondisi televisi masih menyala). この野菜は、生のままで食べてもおいしいですよ (sayuran ini enak dimakan meskipun dalam keadaan mentah). Perbedaan dengan 〜っぱなし: 〜まま = netral (bisa positif/negatif), 〜っぱなし = sering negatif (tidak seharusnya).",
     "examples": [
       {
         "jp": "昨夜は、テレビをつけたまま寝てしまった。",
@@ -134,22 +46,9 @@
     "chapter": "Bab 17",
     "level": "N3",
     "title": "〜っぱなし",
-    "meaning": "Sering untuk hal negatif (yang tidak seharusnya dilakukan), mengandung rasa kecewa/tidak puas.",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa sesuatu dibiarkan dalam keadaan tertentu terus-menerus, biasanya karena kelalaian atau tidak seharusnya. Artinya 'dibiarkan...', 'terus-menerus...', 'tidak diurus...'. Sering digunakan untuk hal negatif, dan mengandung rasa kecewa, tidak puas, atau kritik. Berbeda dengan 〜まま yang netral, 〜っぱなし selalu bernuansa negatif atau keluhan.",
     "formula_template": "{A}ます (coret ます) → っぱなし.",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}ます (coret ます) → っぱなし.' untuk mengekspresikan: Sering untuk hal negatif (yang tidak seharusnya dilakukan), mengandung rasa kecewa/tidak puas..",
-    "ui_notes": "Sering untuk hal negatif (yang tidak seharusnya dilakukan), mengandung rasa kecewa/tidak puas.",
+    "ui_notes": "Cara membentuk: Kata kerja bentuk ます, coret ます, + っぱなし. Contoh: 開ける (akeru) → 開けます (akemasu) → 開けっぱなし (dibiarkan terbuka). 出す (dasu) → 出します (dashimasu) → 出しっぱなし (dibiarkan mengalir/keluar). つける (tsukeru) → つけます (tsukemasu) → つけっぱなし (dibiarkan menyala). Contoh pemakaian: 窓を開けっぱなしで出てきた (saya keluar rumah membiarkan jendela terbuka begitu saja). 水を出しっぱなしにしないでください (tolong jangan biarkan air mengalir terus-menerus). Perbedaan dengan 〜まま: 〜まま = netral (bisa disengaja atau tidak), 〜っぱなし = negatif (tidak seharusnya, kelalaian).",
     "examples": [
       {
         "jp": "窓を開けっぱなしで出てきた。",
@@ -170,20 +69,9 @@
     "chapter": "Bab 17",
     "level": "N3",
     "title": "〜きり",
-    "meaning": "Menunjukkan bahwa hal tersebut sedikit.",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa suatu hal hanya terjadi dalam jumlah yang sangat sedikit, atau hanya sampai batas tertentu dan tidak lebih. Artinya 'hanya...', 'cuma...', '... saja'. Varian bentuknya: 〜きり / 〜きりだ / 〜っきり / 〜っきりだ. Sering dipakai untuk menyatakan 'hanya dua orang', 'hanya sekali', 'hanya itu'. Bisa juga menyatakan keadaan yang terputus atau tidak berlanjut (misalnya: setelah pergi, tidak kembali lagi).",
     "formula_template": "{A} きり / きりだ / っきり / っきりだ.",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} きり / きりだ / っきり / っきりだ.' untuk mengekspresikan: Menunjukkan bahwa hal tersebut sedikit..",
-    "ui_notes": "Menunjukkan bahwa hal tersebut sedikit.",
+    "ui_notes": "Cara membentuk: (1) Kata benda + きり. Contoh: 二人 (futari) → 二人きり (hanya berdua). 一回 (ikkai) → 一回きり (hanya sekali). (2) Kata benda + っきり (lebih kasual/penekanan). Contoh: 二人っきり (hanya berdua saja). (3) 〜きりだ / 〜っきりだ di akhir kalimat. Contoh: 彼に会ったのは1回きりです (saya hanya pernah bertemu dengannya satu kali saja). Contoh pemakaian: 二人きりで話をしたいです (saya ingin berbicara berdua saja). 彼に会ったのは1回きりです (saya hanya pernah bertemu dengannya satu kali saja). Nuansa tambahan: 〜きり juga bisa berarti 'setelah... tidak lagi...'. Contoh: 彼は出かけたきり、帰ってこない (dia pergi, lalu tidak kembali lagi). Perbedaan dengan 〜だけ: 〜だけ = hanya (netral), 〜きり = hanya... saja (menekankan sedikit/terbatas).",
     "examples": [
       {
         "jp": "二人きりで話をしたいです。",

@@ -3,268 +3,72 @@
     "id": "m_bab32_1",
     "chapter": "Bab 32",
     "level": "N4",
-    "title": "A形／B ほうがいいです",
-    "meaning": "Digunakan untuk memberi masukan atau nasihat kepada lawan bicara. Mengandung makna memperbandingkan dua hal kemudian memilih salah satunya (memiliki maksud bahwa akibatnya tidak baik jika tidak melakukan perbuatan tersebut).",
-    "formula_template": "{A} / {B} ほうがいいです",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} / {B} ほうがいいです' untuk menyatakan: Digunakan untuk memberi masukan atau nasihat kepada lawan bicara. Mengandung makna memperbandingkan dua hal ke. Pastikan 'A' mewakili Kata Kerja (Bentuk た), 'B' mewakili Kata Kerja (Bentuk ない).",
-    "ui_notes": "Kalimat ini memberi kesan bahwa pembicara sedikit memaksa. Ketika hanya merekomendasikan tindakan tertentu (tanpa unsur perbandingan yang mengikat), sebaiknya gunakan ～たらいいです.",
+    "title": "〜た ほうが いいです (Sebaiknya... / Anjuran)",
+    "meaning": "Pola ini digunakan untuk memberikan saran, masukan, atau anjuran yang cukup kuat kepada lawan bicara. Mengandung makna peringatan bahwa jika saran tersebut tidak diikuti, kemungkinan akan ada akibat yang kurang baik.",
+    "formula_template": "[Kata Kerja Bentuk た (Positif) / Bentuk ない (Negatif)] ほうが いいです",
+    "ui_notes": "Catatan Penggunaan:\nKarena pola ini memberikan kesan 'memaksa' atau 'menasihati', sebaiknya dihindari saat berbicara kepada atasan/senior jika menyangkut hal sepele. Untuk memberikan saran ringan kepada atasan, lebih baik menggunakan '〜たら いいですよ' (Bab 26).",
     "examples": [
       {
-        "jp": "毎日運動したほうがいいです。",
-        "id": "Lebih baik berolahraga setiap hari."
+        "jp": "毎日 運動した ほうが いいですよ。",
+        "id": "Sebaiknya Anda berolahraga setiap hari."
       },
       {
-        "jp": "熱があるんです。……じゃ、おふろに入らないほうがいいですよ。",
-        "id": "Berdemam. ……Kalau begitu, lebih baik jangan mandi."
+        "jp": "熱が あるんです。 ……じゃ、お風呂に 入らない ほうが いいですよ。",
+        "id": "Saya sedang demam. ……Kalau begitu, sebaiknya jangan mandi dulu."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Nasihat/Saran"
+      "Saran Kuat",
+      "Anjuran"
     ]
   },
   {
     "id": "m_bab32_2",
     "chapter": "Bab 32",
     "level": "N4",
-    "title": "普通形 でしょう",
-    "meaning": "Digunakan untuk menjelaskan pikiran atau perkiraan si pembicara secara tidak pasti terhadap hal untuk masa depan atau hal yang tidak tentu.",
-    "formula_template": "{A}/ {B}-i / {C}-na / {D} でしょう",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}/ {B}-i / {C}-na / {D} でしょう' untuk menyatakan: Digunakan untuk menjelaskan pikiran atau perkiraan si pembicara secara tidak pasti terhadap hal untuk masa dep. Pastikan 'A' mewakili Kata Kerja, 'B' mewakili Kata Sifat, 'C' mewakili Kata Sifat, 'D' mewakili Kata Benda (Bentuk Biasa).",
-    "ui_notes": "Untuk Kata Sifat-na dan Kata Benda, bentuk Biasa \"～だ\" dihilangkan sebelum digabung dengan でしょう.",
+    "title": "〜でしょう (Dugaan Kuat / Prediksi)",
+    "meaning": "Digunakan untuk memaparkan dugaan, prediksi, atau ramalan si pembicara terhadap suatu hal yang akan terjadi di masa depan. Probabilitas kebenarannya cukup tinggi (sekitar 70%-80%).",
+    "formula_template": "[Kalimat Bentuk Biasa] でしょう (Nada Suara Datar / Menurun)",
+    "ui_notes": "Aturan Penghilangan 'だ':\nKhusus untuk Kata Sifat-na & Kata Benda (dalam bentuk positif sekarang), akhiran 'だ' wajib dihilangkan sebelum ditambahkan 'でしょう' (Contoh benar: 雨でしょう / Salah: 雨だでしょう).\n\nIntonasi:\nJika 'でしょう' dibaca dengan nada meninggi, artinya meminta persetujuan (\"Benar kan?\" - Bab 21). Jika dibaca dengan nada datar/menurun, artinya murni prediksi (\"Mungkin akan...\").",
     "examples": [
       {
-        "jp": "あしたは雨が降るでしょう。",
-        "id": "Besok akan turun hujan."
+        "jp": "あしたは 雨が 降る でしょう。",
+        "id": "Besok mungkin akan turun hujan. (Prediksi)"
       },
       {
-        "jp": "タワポンさんは合格するでしょうか。……きっと合格するでしょう。",
-        "id": "Apakah sdr. Thawapon akan lulus? ……Pasti akan lulus."
+        "jp": "タワポンさんは 合格する でしょうか。 ……きっと 合格する でしょう。",
+        "id": "Apakah sdr. Thawapon bakalan lulus? ……(Menurut dugaan saya) Pasti akan lulus."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Perkiraan/Prediksi"
+      "Prediksi",
+      "Dugaan Kuat"
     ]
   },
   {
     "id": "m_bab32_3",
     "chapter": "Bab 32",
     "level": "N4",
-    "title": "普通形 かもしれません",
-    "meaning": "Digunakan ketika ingin berkata bahwa ada kemungkinan suatu hal terjadi, walaupun persentase kemungkinannya sedikit.",
-    "formula_template": "{A}/ {B}-i / {C}-na / {D} かもしれません",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}/ {B}-i / {C}-na / {D} かもしれません' untuk menyatakan: Digunakan ketika ingin berkata bahwa ada kemungkinan suatu hal terjadi, walaupun persentase kemungkinannya sed. Pastikan 'A' mewakili Kata Kerja, 'B' mewakili Kata Sifat, 'C' mewakili Kata Sifat, 'D' mewakili Kata Benda (Bentuk Biasa).",
-    "ui_notes": "Sama seperti でしょう, untuk Kata Sifat-na dan Kata Benda, bentuk Biasa \"～だ\" dihilangkan sebelum digabung dengan かもしれません.",
+    "title": "〜かもしれません (Mungkin saja... / Dugaan Lemah)",
+    "meaning": "Sering disingkat menjadi 'kamo' dalam lisan. Digunakan untuk mengungkapkan kemungkinan atau dugaan yang kepastiannya tergolong rendah. Mengandung makna: \"Meski kemungkinannya kecil, bisa saja hal itu mendadak terjadi\".",
+    "formula_template": "[Kalimat Bentuk Biasa] かもしれません",
+    "ui_notes": "Aturan Penghilangan 'だ':\nSama seperti 'でしょう', khusus untuk Kata Sifat-na & Kata Benda, akhiran 'だ' wajib dihilangkan (Contoh: 故障かもしれません - Mungkin saja rusak).",
     "examples": [
       {
-        "jp": "約束の時間に間に合わないかもしれません。",
-        "id": "Ada kemungkinan terlambat untuk jam yang telah saya janjikan."
+        "jp": "約束の 時間に 間に 合わない かもしれません。",
+        "id": "Ada kemungkinan (kecil) kita tidak akan tepat waktu sesuai jam yang dijanjikan."
       },
       {
-        "jp": "エンジンの音がおかしいんですが。……そうですね。故障かもしれません。",
-        "id": "Bunyi mesinnya aneh ... ……Ya, benar. Mungkin kerusakan."
+        "jp": "もしかしたら 病気 かもしれません。",
+        "id": "Jangan-jangan (ada kemungkinan) dia sedang sakit."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Kemungkinan"
-    ]
-  },
-  {
-    "id": "m_bab32_4",
-    "chapter": "Bab 32",
-    "level": "N4",
-    "title": "A（ます形） ましょう",
-    "meaning": "Ekspresi untuk menyampaikan maksud si pembicara kepada lawan bicara. Digunakan jika mengusulkan suatu perbuatan. Bernuansa lebih tegas daripada Kata Kerja (Bentuk ます) ましょうか.",
-    "formula_template": "{A} ましょう",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ましょう' untuk menyatakan: Ekspresi untuk menyampaikan maksud si pembicara kepada lawan bicara. Digunakan jika mengusulkan suatu perbuata. Pastikan 'A' mewakili Kata Kerja (Bentuk ます - hilangkan ます).",
-    "ui_notes": "Ekspresi untuk menyampaikan maksud si pembicara kepada lawan bicara. Digunakan jika mengusulkan suatu perbuatan. Bernuansa lebih tegas daripada Kata Kerja (Bentuk ます) ましょうか.",
-    "examples": [
-      {
-        "jp": "故障かもしれません。ちょっと調べましょう。",
-        "id": "Mungkin kerusakan. Mari periksanya sebentar."
-      }
-    ],
-    "tags": [
-      "N5",
-      "Kata Kerja",
-      "Usulan/Ajakan"
-    ]
-  },
-  {
-    "id": "m_bab32_5",
-    "chapter": "Bab 32",
-    "level": "N4",
-    "title": "数量詞 で",
-    "meaning": "Partikel で dibubuhkan pada kata keterangan bilangan (waktu, harga, jumlah) untuk menyatakan batas waktu atau batasan suatu hal dapat dilakukan.",
-    "formula_template": "Kata Keterangan Bilangan で",
-    "variables": {},
-    "ai_instruction": "Gunakan pola 'Kata Keterangan Bilangan で' untuk menyatakan: Partikel で dibubuhkan pada kata keterangan bilangan (waktu, harga, jumlah) untuk menyatakan batas waktu atau b.",
-    "ui_notes": "Partikel で dibubuhkan pada kata keterangan bilangan (waktu, harga, jumlah) untuk menyatakan batas waktu atau batasan suatu hal dapat dilakukan.",
-    "examples": [
-      {
-        "jp": "駅まで30分で行けますか。",
-        "id": "Dapat pergi sampai stasiun dalam waktu tiga puluh menit?"
-      },
-      {
-        "jp": "3万円でパソコンが買えますか。",
-        "id": "Dapat membeli PC dengan tiga puluh ribu yen?"
-      }
-    ],
-    "tags": [
-      "N4",
-      "Partikel",
-      "Batasan/Limit"
-    ]
-  },
-  {
-    "id": "m_bab32_6",
-    "chapter": "Bab 32",
-    "level": "N4",
-    "title": "何か／どこか ＋ 修飾語",
-    "meaning": "Untuk menyatakan suatu hal/tempat tak tentu yang dijelaskan oleh kata sifat, kita tidak menggunakan susunan 'Kata Sifat + 何か/どこか', melainkan dipisah menjadi '何か/どこか + Kata Sifat + Kata Ganti Penunjuk (こと/ところ/もの/ひと)'.",
-    "formula_template": "何か/どこか/だれか/いつか {A} こと/ところ/ひと/もの",
-    "variables": {
-      "A": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '何か/どこか/だれか/いつか {A} こと/ところ/ひと/もの' untuk menyatakan: Untuk menyatakan suatu hal/tempat tak tentu yang dijelaskan oleh kata sifat, kita tidak menggunakan susunan 'K. Pastikan 'A' mewakili Kata Sifat.",
-    "ui_notes": "Contoh: Mengatakan \"sesuatu yang mengkhawatirkan\" adalah 何か心配なこと, BUKAN 心配な何か.",
-    "examples": [
-      {
-        "jp": "何か心配なことがあるんですか。",
-        "id": "Ada suatu hal yang mengkhawatirkan?"
-      },
-      {
-        "jp": "スキーに行きたいんですが、どこかいい所、ありますか。",
-        "id": "(Saya) Ingin pergi bermain ski, apakah ada suatu tempat yang bagus?"
-      }
-    ],
-    "tags": [
-      "N4",
-      "Pola Kalimat",
-      "Kata Tak Tentu + Modifikator"
+      "Dugaan Lemah",
+      "Kemungkinan Kecil"
     ]
   }
 ]

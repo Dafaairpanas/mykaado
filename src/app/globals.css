@@ -92,8 +92,8 @@ body {
   background-color: var(--bg-main);
   color: var(--text-main);
   background-image: 
-    linear-gradient(to right, var(--grid-color) 1px, transparent 1px),
-    linear-gradient(to bottom, var(--grid-color) 1px, transparent 1px);
+    linear-gradient(to right, var(--grid-color) 2px, transparent 2px),
+    linear-gradient(to bottom, var(--grid-color) 2px, transparent 2px);
   background-size: 32px 32px;
   background-attachment: fixed;
   @apply transition-colors duration-300 antialiased overflow-hidden flex flex-col h-screen w-screen;

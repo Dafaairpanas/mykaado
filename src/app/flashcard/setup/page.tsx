@@ -308,10 +308,22 @@ function SetupPageContent() {
   return (
     <div className="max-w-[1200px] mx-auto px-4 pb-28 lg:pb-12 pt-4">
       
-      {/* Top Bar matching screenshot */}
-
-
-      <div className="flex flex-col lg:flex-row gap-6">
+      {/* Mobile Tabs */}
+      <div className="flex md:hidden bg-[var(--color-bg-card)] rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] p-1 shadow-[2px_2px_0px_var(--color-shadow-main)] mb-6 overflow-x-auto hide-scrollbar">
+        {(["minna", "irodori", "n3", "kanji"] as const).map(tab => (
+          <Link
+            key={tab}
+            href={`?filter=${tab}`}
+            className={`flex-1 text-center min-w-[70px] whitespace-nowrap px-2 sm:px-4 py-1.5 rounded-[var(--radius-sm)] font-bold text-sm transition-colors ${
+              activeTab === tab 
+                ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)]" 
+                : "hover:bg-[var(--color-bg-nav)] text-[var(--color-text-muted)]"
+            }`}
+          >
+            {tab === "kanji" ? "Kanji" : tab === "n3" ? "Sou N3" : tab.charAt(0).toUpperCase() + tab.slice(1)}
+          </Link>
+        ))}
+      </div>      <div className="flex flex-col lg:flex-row gap-6">
         
         {/* Left Column: Control Panel (Desktop Only) */}
         <div className="hidden lg:flex w-[340px] flex-col gap-6 shrink-0">
@@ -337,38 +349,36 @@ function SetupPageContent() {
         <div className="flex-1 flex flex-col gap-6">
           
           {/* Stats Row */}
-          <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
-            <Card className="p-4 flex flex-col items-center justify-center text-center">
-              <div className="text-3xl font-extrabold">{selectedDecks.length}</div>
-              <div className="text-xs font-bold text-[var(--color-text-muted)] uppercase tracking-wider mt-1">Decks Selected</div>
-            </Card>
-            <Card className="p-4 flex flex-col items-center justify-center text-center">
-              <div className="text-3xl font-extrabold">{stats.total === 0 ? "--" : stats.total}</div>
-              <div className="text-xs font-bold text-[var(--color-text-muted)] uppercase tracking-wider mt-1">Total Cards</div>
-            </Card>
-            <Card className="p-4 flex flex-col items-center justify-center text-center">
-              <div className="text-3xl font-extrabold text-[var(--color-fsrs-again)]">{stats.total === 0 ? "0" : stats.learning}</div>
-              <div className="text-xs font-bold text-[var(--color-text-muted)] uppercase tracking-wider mt-1">Learning</div>
-            </Card>
-            <Link href="/flashcard/history" className="block">
-              <Card className="p-4 flex flex-col items-center justify-center text-center hover:bg-[var(--color-bg-nav)] transition-colors h-full">
-                <div className="text-xl font-extrabold flex items-center h-full">History</div>
-              </Card>
+          <Card className="flex flex-wrap sm:flex-nowrap items-center p-2 sm:p-4 gap-y-2 sm:gap-y-0 divide-y sm:divide-y-0 sm:divide-x divide-[var(--color-border-main)] shadow-sm">
+            <div className="flex-1 min-w-[50%] sm:min-w-0 flex flex-col items-center text-center py-1 sm:py-0">
+              <div className="text-xl sm:text-2xl font-extrabold">{selectedDecks.length}</div>
+              <div className="text-[10px] font-bold text-[var(--color-text-muted)] uppercase tracking-wider">Decks</div>
+            </div>
+            <div className="flex-1 min-w-[50%] sm:min-w-0 flex flex-col items-center text-center py-1 sm:py-0 border-t-0 sm:border-t-0">
+              <div className="text-xl sm:text-2xl font-extrabold">{stats.total === 0 ? "--" : stats.total}</div>
+              <div className="text-[10px] font-bold text-[var(--color-text-muted)] uppercase tracking-wider">Total</div>
+            </div>
+            <div className="flex-1 min-w-[50%] sm:min-w-0 flex flex-col items-center text-center py-1 sm:py-0">
+              <div className="text-xl sm:text-2xl font-extrabold text-[var(--color-fsrs-again)]">{stats.total === 0 ? "0" : stats.learning}</div>
+              <div className="text-[10px] font-bold text-[var(--color-text-muted)] uppercase tracking-wider">Learn</div>
+            </div>
+            <Link href="/flashcard/history" className="flex-1 min-w-[50%] sm:min-w-0 flex flex-col items-center justify-center text-center py-1 sm:py-0 hover:text-[var(--color-accent)] transition-colors">
+              <div className="text-sm sm:text-base font-extrabold">History</div>
             </Link>
-          </div>
+          </Card>
 
           {/* Library Select */}
-          <Card className="p-6 flex-1 flex flex-col max-h-[600px]">
-            <div className="flex justify-between items-center mb-6">
-              <h2 className="text-xl font-bold">Library Select</h2>
-              <div className="px-3 py-1 bg-[var(--color-bg-nav)] rounded-full text-xs font-bold border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)]">
+          <Card className="p-4 sm:p-5 flex-1 flex flex-col">
+            <div className="flex justify-between items-center mb-4">
+              <h2 className="text-lg font-bold">Library Select</h2>
+              <div className="px-2 py-0.5 bg-[var(--color-bg-nav)] rounded-full text-[10px] font-bold border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)]">
                 {selectedDecks.length} Selected
               </div>
             </div>
 
             {/* Quick Select Buttons */}
             {activeTab === "minna" && (
-              <div className="flex flex-wrap gap-2 mb-6">
+              <div className="flex flex-wrap gap-1.5 mb-4">
                 <Button variant="default" size="sm" onClick={() => selectRange(1, 10)}>1-10</Button>
                 <Button variant="default" size="sm" onClick={() => selectRange(11, 25)}>11-25</Button>
                 <Button variant="default" size="sm" onClick={() => selectRange(1, 25)}>1-25</Button>
@@ -380,7 +390,7 @@ function SetupPageContent() {
             )}
             
             {activeTab === "irodori" && (
-              <div className="flex flex-wrap gap-2 mb-6">
+              <div className="flex flex-wrap gap-1.5 mb-4">
                 <Button variant="default" size="sm" onClick={selectAll}>All Irodori</Button>
                 <Button variant="default" size="sm" onClick={clearSelection} className="text-[var(--color-fsrs-again)] !border-[var(--color-fsrs-again)]">Clear</Button>
               </div>
@@ -389,7 +399,7 @@ function SetupPageContent() {
             {/* Grid of Chapters */}
             {/* Grid of Chapters */}
             <div 
-              className="overflow-y-auto pr-2 pb-4 touch-pan-y select-none"
+              className="pb-4 touch-pan-y select-none"
               onPointerDown={handlePointerDown}
               onPointerMove={handlePointerMove}
               onPointerUp={handlePointerUp}

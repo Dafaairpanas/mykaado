@@ -49,12 +49,12 @@ export function Header() {
     }
   };
   return (
-    <header className="hidden md:block sticky top-0 z-50 bg-[var(--color-bg-main)] border-b-[var(--bw-sm)] border-[var(--color-border-main)] transition-colors duration-300">
-      <div className="w-full max-w-[1100px] mx-auto px-6 h-16 flex items-center justify-between">
+    <header className="sticky top-0 z-50 bg-[var(--color-bg-main)] border-b-[var(--bw-sm)] border-[var(--color-border-main)] transition-colors duration-300">
+      <div className="w-full max-w-[1100px] mx-auto px-4 md:px-6 h-14 md:h-16 flex items-center justify-between">
         
-        <div className="flex items-center gap-8">
-          <Link href="/" className="font-extrabold text-xl tracking-tight flex items-center gap-2 cursor-pointer group">
-            <Logo className="w-8 h-8 text-[var(--color-accent)] transition-transform group-hover:scale-110" />
+        <div className="flex items-center gap-4 md:gap-8">
+          <Link href="/" className="font-extrabold text-lg md:text-xl tracking-tight flex items-center gap-2 cursor-pointer group">
+            <Logo className="w-7 h-7 md:w-8 md:h-8 text-[var(--color-accent)] transition-transform group-hover:scale-110" />
             MyKaado
           </Link>
         </div>
@@ -72,7 +72,7 @@ export function Header() {
                       : "hover:bg-[var(--color-bg-nav)] text-[var(--color-text-muted)]"
                   }`}
                 >
-                  {tab === "kanji" ? "Kanji" : tab.charAt(0).toUpperCase() + tab.slice(1)}
+                  {tab === "kanji" ? "Kanji" : tab === "n3" ? "Sou N3" : tab.charAt(0).toUpperCase() + tab.slice(1)}
                 </Link>
               ))}
             </div>
@@ -86,11 +86,11 @@ export function Header() {
                   window.location.reload();
                 }
               }}
-              className="flex items-center gap-2 px-3 py-1.5 rounded-full text-[var(--color-text-main)] hover:bg-[var(--color-bg-nav)] transition-colors text-red-500 font-bold text-sm" 
+              className="flex items-center gap-2 p-2 md:px-3 md:py-1.5 rounded-full text-[var(--color-text-main)] hover:bg-[var(--color-bg-nav)] transition-colors text-red-500 font-bold text-sm" 
               title="Reset Data"
             >
-              <RotateCcw className="w-4 h-4" />
-              <span>Reset Data</span>
+              <RotateCcw className="w-5 h-5 md:w-4 md:h-4" />
+              <span className="hidden md:inline">Reset Data</span>
             </button>
           )}
           {mounted && (

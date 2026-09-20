@@ -1,0 +1,142 @@
+[
+  {
+    "id": "i_a1_bab7_1",
+    "chapter": "Bab 7",
+    "level": "A1",
+    "title": "Ini Adalah... (ここは〜です)",
+    "meaning": "Pemandu Tur Ruangan! Kata tunjuk dasar untuk memperkenalkan ruangan atau tempat Anda sedang berpijak saat ini kepada tamu (Di sini adalah...).",
+    "formula_template": "ここは + [Nama Ruangan] + です",
+    "ui_notes": "Kata **「ここ」** (Di sini) secara eksklusif menunjuk pada tanah atau lantai yang sedang Anda (pembicara) injak bersama lawan bicara.",
+    "examples": [
+      {
+        "jp": "ここは 玄関です。",
+        "id": "DI SINI ADALAH ruang genkan (pintu/jalan masuk sepatu)."
+      },
+      {
+        "jp": "ここは、お風呂です。",
+        "id": "DI SINI ADALAH ruang mandi (Ofuro)."
+      },
+      {
+        "jp": "ここは ソンさんの部屋です。どうぞ。",
+        "id": "DI SINI ADALAH kamar miliknya Saudara Son. Silakan (masuk)."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Pemandu Ruangan",
+      "Di Sini Adalah (Koko)"
+    ]
+  },
+  {
+    "id": "i_a1_bab7_2",
+    "chapter": "Bab 7",
+    "level": "A1",
+    "title": "Keberadaan Fasilitas Ruangan (〜に 〜が あります)",
+    "meaning": "Laporan Denah! Jurus untuk melaporkan fasilitas, perabotan, atau ruangan mati apa saja yang terletak dan tersedia di suatu titik bangunan.",
+    "formula_template": "[Tempat/Lantai] + に + [Nama Fasilitas] + が + あります",
+    "ui_notes": "Jika Anda ingin pamer sekaligus menyebutkan \"Jumlah\" fasilitasnya (Misal: ada 4 kamar), langsung tempelkan bilangan persis sebelum kata 'あります' (Contoh: 部屋が 4つ あります).",
+    "examples": [
+      {
+        "jp": "ここに 階段が あります。",
+        "id": "DI SINI (titik ini) ADA fasilitas tangga."
+      },
+      {
+        "jp": "1階に 部屋が 4つ あります。",
+        "id": "DI lantai 1, ADA fasilitas kamar SEBANYAK 4 BUAH."
+      },
+      {
+        "jp": "1階に、お風呂と トイレと 台所と 食堂が あります。",
+        "id": "DI lantai 1, ADA ruang mandi, DAN toilet, DAN dapur, DAN ruang makan (Digabung berturut-turut)."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Laporan Fasilitas",
+      "Keberadaan Benda (Arimasu)"
+    ]
+  },
+  {
+    "id": "i_a1_bab7_3",
+    "chapter": "Bab 7",
+    "level": "A1",
+    "title": "Tidak Ada Benda (〜ありません / 〜ないです)",
+    "meaning": "Laporan Kosong! Versi kembalikan (negatif). Menyatakan bahwa benda/fasilitas tersebut TIDAK TERSEDIA atau ZONG.",
+    "formula_template": "1. [Nama Benda] + は + ありません (Formal)\n2. [Nama Benda] + は + ないです (Gaul/Lisan)",
+    "ui_notes": "AWAS MUTASI PARTIKEL (PENTING!):\nSama seperti hukum alam kata 'Suka' (Suki). Dari kalimat positif yang pakai **「が」**, saat diubah menjadi kalimat negatif (Tidak Ada), partikelnya sering bermutasi berubah wujud menjadi **「は」**.\n(Contoh: ベッド【が】あります -> ベッド【は】ありません).",
+    "examples": [
+      {
+        "jp": "トースターは ありません。",
+        "id": "Kalau mesin pemanggang roti TIDAK ADA."
+      },
+      {
+        "jp": "ベッドは ないです。",
+        "id": "Kalau ranjang tempat tidur TIDAK ADA."
+      },
+      {
+        "jp": "部屋にベッドは ありますか？ ……はい、あります。 ……ふとんは？ ……ふとんは ありません。",
+        "id": "Apakah di kamar ADA ranjang tempat tidur? ...... Ya, ada. ...... Kalau (kasur lantai) Futon gimana? ...... Kalau Futon mah TIDAK ADA."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Laporan Benda Zong",
+      "Tidak Ada (Arimasen)"
+    ]
+  },
+  {
+    "id": "i_a1_bab7_4",
+    "chapter": "Bab 7",
+    "level": "A1",
+    "title": "Mendeskripsikan Keadaan (Adjektiva Na/I)",
+    "meaning": "Kolom Review! Menggunakan Kata Sifat (Adjektiva) untuk menceritakan kesan, kondisi, atau tampilan dari sebuah rumah atau ruangan.",
+    "formula_template": "1. [Subjek] + は + [Sifat-Na (Coret な)] + です\n2. [Subjek] + は + [Sifat-I (Murni)] + です",
+    "ui_notes": "JEBAKAN BATMAN PEMULA:\nKata **「きれい」** (Kiree / Bersih/Indah) itu adalah GOLONGAN SIFAT-NA, BUKAN SIFAT-I! Dan dilafalkan Kiree ya, bukan Kirei.",
+    "examples": [
+      {
+        "jp": "家は 静かです。",
+        "id": "Rumahnya (suasananya) SEPI (Sifat-Na)."
+      },
+      {
+        "jp": "ちょっと せまいです。",
+        "id": "(Ukurannya) agak SEMPIT (Sifat-I)."
+      },
+      {
+        "jp": "家は どうですか？ ……ちょっと 古いです。 ……そうですか。 ……でも、とても きれいです。",
+        "id": "Kalau rumahnya keadaannya BAGAIMANA? ...... Agak TUA BANGUNANNYA (Sifat-I). ...... Oh gitu ya. ...... Tapi, sangat BERSIH DAN MENAWAN (Sifat-Na)."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Kesan Ruangan",
+      "Kata Sifat Na dan I"
+    ]
+  },
+  {
+    "id": "i_a1_bab7_5",
+    "chapter": "Bab 7",
+    "level": "A1",
+    "title": "Bantahan Sifat (Bentuk Negatif Adjektiva)",
+    "meaning": "Palu Pembalik Fakta! Bantahan murni dari kata sifat. Memberikan kesan bertolak belakang atau negatif (Contoh: Tidak bersih, Tidak luas).",
+    "formula_template": "1. [Sifat-Na] + じゃないです\n2. [Sifat-I (Coret い)] + くないです",
+    "ui_notes": "Sama dengan kasus sebelum-sebelumnya, **「ないです」** bisa diganti dengan versi yang kaku formal yakni **「ありません」**. (Contoh: きれいじゃありません / 広くありません).",
+    "examples": [
+      {
+        "jp": "アパートは、あまり 静かじゃないです。",
+        "id": "Kalau apartemen (saya), kurang begitu / TIDAK SEPI (Bantahan Sifat-Na)."
+      },
+      {
+        "jp": "寮は 広くないです。",
+        "id": "Asrama (saya) TIDAK LUAS (Bantahan Sifat-I, I nya berubah jadi Ku)."
+      },
+      {
+        "jp": "部屋は 広いですか？ ……はい、広いです。でも、きれいじゃないです。",
+        "id": "Apakah kamarnya LUAS? ...... Ya, sangat LUAS. Tapi (sayangnya), TIDAK BERSIH / kotor."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Bantahan Fakta Kesan",
+      "Sifat Negatif (Kunaidesu)"
+    ]
+  }
+]

@@ -3,228 +3,132 @@
     "id": "m_bab30_1",
     "chapter": "Bab 30",
     "level": "N4",
-    "title": "A形 あります",
-    "meaning": "Menyatakan bahwa akibat atau hasil dari perbuatan seseorang (dengan suatu tujuan) sedang berlangsung. Kata kerja yang digunakan harus berupa Kata Kerja Transitif.",
-    "formula_template": "{A} に {B} が {C} あります / {D} は {E} に {V5} あります",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "C": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "E": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "V5": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} に {B} が {C} あります / {D} は {E} に {V5} あります' untuk menyatakan: Menyatakan bahwa akibat atau hasil dari perbuatan seseorang (dengan suatu tujuan) sedang berlangsung. Kata ker. Pastikan 'A' mewakili Kata Benda 1 (Tempat), 'B' mewakili Kata Benda 2 (Objek), 'C' mewakili Kata Kerja (Bentuk て), 'D' mewakili Kata Benda 2, 'E' mewakili Kata Benda 1, 'V5' mewakili Kata Kerja (Bentuk て).",
-    "ui_notes": "Terdapat perbedaan antara ～ています dan ～てあります. Jika dipakai Kata Kerja Intransitif (閉まります) + ています, itu hanya menjelaskan keadaan secara objektif (jendela tertutup). Jika dipakai Kata Kerja Transitif (閉めます) + てあります, itu menyatakan bahwa keadaan tersebut terjadi karena perbuatan sengaja dari seseorang (jendela ditutup).",
+    "title": "〜て あります (Kondisi Akibat Perbuatan Disengaja)",
+    "meaning": "Pola ini digunakan dengan Kata Kerja Transitif (Tadoushi - kata kerja berobjek). Maknanya adalah ada seseorang yang secara sengaja melakukan suatu tindakan dengan tujuan tertentu, dan hasil/kondisi dari perbuatan tersebut dibiarkan tetap seperti itu hingga saat ini.",
+    "formula_template": "[Benda Sasaran] が [Kata Kerja Transitif Bentuk て] あります",
+    "ui_notes": "Perubahan Partikel:\nPartikel objek 'を' (misal: メモを 置きます) harus diubah menjadi partikel subjek/keadaan 'が' (メモが 置いて あります). Bila benda tersebut menjadi topik pembicaraan utama, 'が' diganti dengan 'は'.",
     "examples": [
       {
-        "jp": "机の上にメモが置いてあります。",
-        "id": "Di atas meja diletakkan catatan."
+        "jp": "机の上に メモが 置いて あります。",
+        "id": "Di atas meja (telah sengaja) diletakkan catatan."
       },
       {
-        "jp": "カレンダーに今月の予定が書いてあります。",
-        "id": "Pada kalender ditulis rencana bulan ini."
+        "jp": "カレンダーに 今月の 予定が 書いて あります。",
+        "id": "Pada kalender (telah sengaja) dituliskan jadwal bulan ini (sebagai pengingat)."
+      },
+      {
+        "jp": "窓が 閉めて あります。",
+        "id": "Jendela telah sengaja ditutup. (Berbeda dengan 閉まっています yang sekadar mendeskripsikan jendela tertutup secara alami/tidak diketahui siapa pelakunya)."
+      },
+      {
+        "jp": "メモは どこですか。 ……机の上に 置いて あります。",
+        "id": "Catatannya (Topik) ada di mana? …… Sudah diletakkan di atas meja."
       }
     ],
     "tags": [
       "N4",
-      "Kata Kerja",
-      "Keadaan Akibat Kesengajaan"
+      "Hasil Tindakan Disengaja",
+      "Transitif (Tadoushi)"
     ]
   },
   {
     "id": "m_bab30_2",
     "chapter": "Bab 30",
     "level": "N4",
-    "title": "A形 おきます",
-    "meaning": "Pola kalimat ini memiliki 3 fungsi: 1) Menyelesaikan aksi/persiapan yang diperlukan sampai dengan batas waktu tertentu. 2) Menyelesaikan aksi/tindakan sementara untuk persiapan pemakaian berikutnya. 3) Membiarkan/mempertahankan suatu keadaan.",
-    "formula_template": "{A} おきます",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} おきます' untuk menyatakan: Pola kalimat ini memiliki 3 fungsi: 1) Menyelesaikan aksi/persiapan yang diperlukan sampai dengan batas waktu . Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
-    "ui_notes": "Dalam bahasa lisan percakapan, ～て おきます sering disingkat dan berubah menjadi ～ときます (Contoh: 置いておいてください menjadi 置いといてください).",
+    "title": "〜て おきます (Persiapan Sebelum Waktunya)",
+    "meaning": "Pola ini menunjukkan suatu tindakan yang sengaja dilakukan dari jauh-jauh hari atau sebelumnya sebagai bentuk persiapan atau antisipasi sebelum waktunya tiba.",
+    "formula_template": "[Objek] を [Kata Kerja Bentuk て] おきます",
+    "ui_notes": "Dalam percakapan santai, '〜て おきます' (te okimasu) sering kali disingkat menjadi '〜ときます' (tokimasu).",
     "examples": [
       {
-        "jp": "旅行のまえに、切符を買っておきます。",
-        "id": "Sebelum perjalanan, membeli karcis."
+        "jp": "旅行の まえに、切符を 買って おきます。",
+        "id": "Sebelum pergi berwisata, saya membeli tiket terlebih dahulu (sebagai persiapan)."
       },
       {
-        "jp": "次の会議までに何をしておいたらいいですか。……この資料を読んでおいてください。",
-        "id": "Apa yang harus saya lakukan sampai dengan rapat berikut? ……Diharapkan untuk membaca materi ini."
+        "jp": "次の 会議までに 何を して おいたら いいですか。",
+        "id": "Sebelum rapat berikutnya, apa yang sebaiknya saya persiapkan?"
+      },
+      {
+        "jp": "……この 資料を 読んで おいて ください。",
+        "id": "……Tolong bacalah materi ini terlebih dahulu (untuk persiapan)."
       }
     ],
     "tags": [
       "N4",
-      "Kata Kerja",
-      "Persiapan / Membiarkan Keadaan"
+      "Persiapan",
+      "Antisipasi"
     ]
   },
   {
     "id": "m_bab30_3",
     "chapter": "Bab 30",
     "level": "N4",
-    "title": "まだ ＋ 肯定形",
-    "meaning": "Kata 'mada' yang diikuti oleh bentuk positif berarti 'masih...', dan menyatakan bahwa suatu aksi atau keadaannya sedang berlangsung saat ini.",
-    "formula_template": "まだ {A}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola 'まだ {A}' untuk menyatakan: Kata 'mada' yang diikuti oleh bentuk positif berarti 'masih...', dan menyatakan bahwa suatu aksi atau keadaann. Pastikan 'A' mewakili Kata Kerja (Bentuk Positif / ています).",
-    "ui_notes": "Kata 'mada' yang diikuti oleh bentuk positif berarti 'masih...', dan menyatakan bahwa suatu aksi atau keadaannya sedang berlangsung saat ini.",
+    "title": "〜て おきます (Mengembalikan Semula / Membiarkan)",
+    "meaning": "Pola ini juga memiliki makna mengembalikan sesuatu ke tempat asalnya (setelah selesai digunakan) atau sekadar membiarkan suatu keadaan tetap seperti posisi saat ini untuk sementara waktu.",
+    "formula_template": "[Kata Kerja Bentuk て] おきます / おいて ください",
+    "ui_notes": "Untuk makna 'membiarkan', pola ini sering digunakan bersama frasa 'そのままに して おいてください' (tolong biarkan posisinya tetap seperti itu).",
     "examples": [
       {
-        "jp": "まだ雨が降っています。",
-        "id": "Masih turun hujan."
+        "jp": "はさみを 使ったら、元の 所に 戻して おいて ください。",
+        "id": "Jika selesai menggunakan gunting, tolong kembalikan ke tempat asalnya."
       },
       {
-        "jp": "道具を片づけましょうか。……まだ使っていますから、そのままにしておいてください。",
-        "id": "Apa saya yang membereskan alatnya? ……Karena masih dipakai, tolong dibiarkan begitu saja."
+        "jp": "あした 会議が ありますから、いすは このままに して おいて ください。",
+        "id": "Karena besok ada rapat, tolong biarkan kursinya tetap begini saja (tidak perlu dirapikan)."
+      },
+      {
+        "jp": "そこに 置いといて (置いて おいて) ください。",
+        "id": "Tolong biarkan/geletakkan saja di situ."
       }
     ],
     "tags": [
-      "N5",
-      "Kata Keterangan",
-      "Keadaan Berlangsung"
+      "N4",
+      "Mengembalikan Semula",
+      "Pembiaran Sementara"
     ]
   },
   {
     "id": "m_bab30_4",
     "chapter": "Bab 30",
     "level": "N4",
-    "title": "～とか～とか",
-    "meaning": "Digunakan untuk memberikan contoh beberapa hal, sama halnya dengan partikel や. Bedanya, とか lebih sering digunakan dalam bahasa lisan dan dapat ditambahkan di belakang Kata Benda terakhir di antara yang disebutkan.",
-    "formula_template": "{A} とか {B} とか",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} とか {B} とか' untuk menyatakan: Digunakan untuk memberikan contoh beberapa hal, sama halnya dengan partikel や. Bedanya, とか lebih sering diguna. Pastikan 'A' mewakili Kata Benda 1, 'B' mewakili Kata Benda 2.",
-    "ui_notes": "Digunakan untuk memberikan contoh beberapa hal, sama halnya dengan partikel や. Bedanya, とか lebih sering digunakan dalam bahasa lisan dan dapat ditambahkan di belakang Kata Benda terakhir di antara yang disebutkan.",
+    "title": "まだ + [Bentuk Positif] (Masih... Berlangsung)",
+    "meaning": "Apabila kata keterangan 'まだ' (Mada) diikuti oleh kata kerja atau keadaan yang positif (seperti pola ~て います), maknanya bukan lagi 'belum', melainkan 'masih sedang berlangsung' atau 'masih berlanjut'.",
+    "formula_template": "まだ + [Aksi / Keadaan Positif]",
+    "ui_notes": "Sering digunakan untuk menjelaskan keadaan yang masih tertahan atau belum selesai hingga saat ini.",
     "examples": [
       {
-        "jp": "どんなスポーツをしていますか。……そうですね。テニスとか水泳とか……。",
-        "id": "Berolahraga apa saja? ……Apa ya? Tenis, atau renang..."
+        "jp": "まだ 雨が 降って います。",
+        "id": "(Hingga saat ini) Hujan masih turun."
+      },
+      {
+        "jp": "道具を 片づけましょうか。 ……まだ 使って いますから、そのままに して おいて ください。",
+        "id": "Mau saya bereskan alatnya? …… (Jangan,) karena masih dipakai, tolong biarkan saja."
       }
     ],
     "tags": [
       "N4",
-      "Partikel",
-      "Memberikan Contoh"
+      "Keberlanjutan",
+      "Masih"
     ]
   },
   {
     "id": "m_bab30_5",
     "chapter": "Bab 30",
     "level": "N4",
-    "title": "助詞 ＋ も",
-    "meaning": "Jika partikel も digabung dengan Kata Benda yang biasanya dibubuhi が atau を, maka が/を dihapuskan. Jika Partikel/Kata Bantu lain (seperti に, で, から, まで, と) dibubuhkan, maka も diletakkan di belakangnya (misal: にも, でも). Khusus untuk partikel へ, boleh dihapuskan dan juga boleh untuk tidak dihapuskan (へも).",
-    "formula_template": "{A} Partikel (selain が/を) も",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} Partikel (selain が/を) も' untuk menyatakan: Jika partikel も digabung dengan Kata Benda yang biasanya dibubuhi が atau を, maka が/を dihapuskan. Jika Partikel. Pastikan 'A' mewakili Kata Benda.",
-    "ui_notes": "Jika partikel も digabung dengan Kata Benda yang biasanya dibubuhi が atau を, maka が/を dihapuskan. Jika Partikel/Kata Bantu lain (seperti に, で, から, まで, と) dibubuhkan, maka も diletakkan di belakangnya (misal: にも, でも). Khusus untuk partikel へ, boleh dihapuskan dan juga boleh untuk tidak dihapuskan (へも).",
+    "title": "〜とか (Dan lain-lain / Menyebutkan Contoh)",
+    "meaning": "Partikel 'とか' memiliki fungsi yang hampir sama dengan partikel 'や', yaitu untuk menyebutkan beberapa contoh perwakilan dari suatu kelompok benda.",
+    "formula_template": "[Benda 1] とか [Benda 2] とか...",
+    "ui_notes": "Perbedaannya dengan 'や', partikel 'とか' terkesan lebih kasual (banyak dipakai dalam ragam lisan) dan diperbolehkan dipasang di benda terakhir pada akhir deretan.",
     "examples": [
       {
-        "jp": "ほかにもいろいろあります。",
-        "id": "Selain itu masih ada macam-macam."
-      },
-      {
-        "jp": "どこ［へ］も行きません。",
-        "id": "Tidak pergi ke mana-mana."
+        "jp": "どんな スポーツを して いますか。 ……テニスとか 水泳とか……。",
+        "id": "Olahraga apa saja yang Anda lakukan? …… (Misalnya) Tenis atau renang, dan lain-lain."
       }
     ],
     "tags": [
       "N4",
-      "Partikel",
-      "Penggabungan Partikel"
+      "Menyebutkan Contoh",
+      "Dan lain-lain"
     ]
   }
 ]

@@ -4,28 +4,9 @@
     "chapter": "Bab 14",
     "level": "N3",
     "title": "〜として",
-    "meaning": "sebagai",
+    "meaning": "Pola ini digunakan untuk menyatakan 'sebagai...', yaitu menunjukkan peran, posisi, jabatan, atau kualifikasi seseorang/sesuatu. Artinya pembicara menegaskan dalam kapasitas apa seseorang/sesuatu bertindak atau dikenal. Varian bentuknya: 〜として (sebagai), 〜としては (bagi/untuk ukuran sebagai...), 〜としても (meskipun sebagai...), 〜としての + kata benda (sebagai...).",
     "formula_template": "{A} [として / としては / としても / としての {B}]",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} [として / としては / としても / としての {B}]' untuk mengekspresikan: sebagai.",
-    "ui_notes": "sebagai",
+    "ui_notes": "Cara membentuk: Kata benda + として. Contoh: 歌手 (kashu) → 歌手として (sebagai penyanyi). 日本代表 (nihon daihyou) → 日本代表として (sebagai perwakilan Jepang). Kata benda + としては. Contoh: 学生としては (bagi seorang pelajar). Kata benda + としても. Contoh: 彼としても (meskipun sebagai dia/bagi dia sendiri). Kata benda + としての + kata benda. Contoh: 親としての責任 (tanggung jawab sebagai orang tua). Contoh pemakaian: 彼は歌手として有名だ (dia terkenal sebagai penyanyi). 彼は外国人だが、日本代表として試合に出る (dia orang asing tapi tampil di pertandingan sebagai perwakilan negara Jepang). Perbedaan として dan としては: として menekankan peran, としては menekankan 'untuk ukuran sebagai...' atau 'bagi...'.",
     "examples": [
       {
         "jp": "彼は歌手として有名だ。",
@@ -46,30 +27,9 @@
     "chapter": "Bab 14",
     "level": "N3",
     "title": "〜にしては",
-    "meaning": "untuk menyatakan kenyataan yang diluar ekspektasi",
+    "meaning": "Pola ini digunakan untuk menyatakan kenyataan yang di luar ekspektasi. Artinya 'untuk ukuran...', 'padahal...', 'meskipun biasanya...'. Pembicara membandingkan kenyataan dengan apa yang umumnya diharapkan dari kategori tertentu. Sering mengandung nuansa kagum, heran, atau sedikit kritik. Contoh: 'untuk ukuran orang asing, bahasa Jepangnya bagus' (padahal biasanya orang asing tidak begitu). Bentuk それにしては adalah kata penghubung yang berarti 'padahal (itu)', 'meskipun begitu'.",
     "formula_template": "[{A}(biasa) / {B}(biasa)] にしては (※ それにしては [kata penghubung])",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B}(biasa)] にしては (※ それにしては [kata penghubung])' untuk mengekspresikan: untuk menyatakan kenyataan yang diluar ekspektasi.",
-    "ui_notes": "untuk menyatakan kenyataan yang diluar ekspektasi",
+    "ui_notes": "Cara membentuk: (1) Kata benda + にしては. Contoh: 外国人 (gaikokujin) → 外国人にしては (untuk ukuran orang asing). 初めて (hajimete) → 初めてにしては (untuk ukuran pertama kali). (2) Kata kerja/kata sifat bentuk biasa + にしては. Contoh: 学生 (gakusei) → 学生にしては (padahal dia pelajar). Contoh pemakaian: 外国人にしては日本語が上手だ (untuk ukuran orang asing, bahasa Jepangnya bagus). 初めてにしては、よくできました (untuk ukuran pertama kali, kamu sudah melakukannya dengan baik). Kata penghubung それにしては: 遅れるとは聞いていたけど、それにしては田中さん、遅いね (saya sudah dengar dia akan terlambat, tapi meskipun begitu, Tanaka-san lama ya). Perbedaan dengan 〜として: 〜として = sebagai (peran), 〜にしては = untuk ukuran... (perbandingan dengan ekspektasi).",
     "examples": [
       {
         "jp": "外国人にしては日本語が上手だ。",
@@ -90,46 +50,9 @@
     "chapter": "Bab 14",
     "level": "N3",
     "title": "〜にしても",
-    "meaning": "meskipun... (saya ngerti, tapi)",
+    "meaning": "Pola ini digunakan untuk menyatakan 'meskipun... (saya mengerti, tapi...)'. Artinya pembicara mengakui kondisi A, tetapi tetap merasa ada keberatan atau pendapat lain. Sering dipakai untuk menyampaikan keluhan, kritik halus, atau penilaian yang bertentangan. Bentuk それにしても adalah kata penghubung yang berarti 'meskipun begitu', 'walaupun demikian'.",
     "formula_template": "[{A}(biasa) / {B} (biasa) / {C} (tanpa だ) / {D}(tanpa だ)] にしても (※ それにしても [kata penghubung])",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} (tanpa だ) / {D}(tanpa だ)] にしても (※ それにしても [kata penghubung])' untuk mengekspresikan: meskipun... (saya ngerti, tapi).",
-    "ui_notes": "meskipun... (saya ngerti, tapi)",
+    "ui_notes": "Cara membentuk: (1) Kata kerja/kata sifat-i bentuk biasa + にしても. Contoh: 高い (takai) → 高いにしても (meskipun mahal). (2) Kata sifat-na: tanpa だ + にしても. Contoh: 元気 (genki) → 元気にしても (meskipun sehat). (3) Kata benda: tanpa だ + にしても. Contoh: 100円 (hyaku en) → 100円にしても (meskipun 100 yen). Contoh pemakaian: これは、100円にしても、高いと思う (ini meskipun 100 yen, menurut saya tetap mahal). 遅れるとは聞いていたけど、それにしても田中さん、遅いね (saya sudah dengar dia akan terlambat, meskipun begitu, Tanaka-san lama ya). Kata penghubung それにしても sering dipakai untuk mengalihkan atau menambahkan keberatan setelah mengakui kondisi sebelumnya. Perbedaan dengan 〜ても: 〜ても = meskipun (netral), 〜にしても = meskipun (saya ngerti, tapi tetap ada keberatan).",
     "examples": [
       {
         "jp": "これは、100円にしても、高いと思う。",
@@ -150,46 +73,9 @@
     "chapter": "Bab 14",
     "level": "N3",
     "title": "〜としたら",
-    "meaning": "biasa digunakan dalam kalimat pengandaian",
+    "meaning": "Pola ini digunakan dalam kalimat pengandaian, artinya 'seandainya...', 'kalau...'. Pembicara membayangkan suatu kondisi hipotetis, lalu menyatakan hasil, pertanyaan, atau pendapat yang berkaitan dengan kondisi tersebut. Varian 〜とすれば memiliki makna yang sama, tetapi sedikit lebih formal. Sering dipakai untuk membahas kemungkinan, asumsi, atau pertanyaan hipotetis.",
     "formula_template": "[{A}(biasa) / {B} (biasa) / {C} だ / {D}だ] としたら / とすれば",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}(biasa) / {B} (biasa) / {C} だ / {D}だ] としたら / とすれば' untuk mengekspresikan: biasa digunakan dalam kalimat pengandaian.",
-    "ui_notes": "biasa digunakan dalam kalimat pengandaian",
+    "ui_notes": "Cara membentuk: (1) Kata kerja/kata sifat-i bentuk biasa + としたら. Contoh: 本当だ (hontou da) → 本当だとしたら (seandainya benar). 行く (iku) → 行くとしたら (kalau pergi). (2) Kata sifat-na + だ + としたら. Contoh: 元気だ (genki da) → 元気だとしたら (seandainya sehat). (3) Kata benda + だ + としたら. Contoh: 学生だ (gakusei da) → 学生だとしたら (seandainya dia pelajar). Contoh pemakaian: その話が本当だとしたら、うれしいです (seandainya cerita itu benar, saya senang). 飛行機で行くとしたら、いくらぐらいかかりますか (kalau pergi menggunakan pesawat, butuh biaya berapa?). Varian とすれば: 彼が来ないとすれば、私たちだけでやるしかない (kalau dia tidak datang, kita harus lakukan sendiri). Perbedaan dengan 〜たら: 〜たら lebih umum dan netral, 〜としたら lebih menekankan asumsi/hipotesis.",
     "examples": [
       {
         "jp": "その話が本当だとしたら、うれしいです。",

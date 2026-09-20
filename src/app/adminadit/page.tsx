@@ -12,7 +12,7 @@ export default function AdminDashboard() {
   useEffect(() => {
     const auth = localStorage.getItem("admin_auth");
     if (auth !== "true") {
-      router.push("/admin/login");
+      router.push("/adminadit/login");
     } else {
       setIsAuthenticated(true);
     }
@@ -20,7 +20,7 @@ export default function AdminDashboard() {
 
   const handleLogout = () => {
     localStorage.removeItem("admin_auth");
-    router.push("/admin/login");
+    router.push("/adminadit/login");
   };
 
   if (!isAuthenticated) return null;
@@ -45,7 +45,7 @@ export default function AdminDashboard() {
         <Card className="p-6">
           <h2 className="text-xl font-bold mb-2">Manage Renshuu (JFT)</h2>
           <p className="text-[var(--color-text-muted)] text-sm mb-4">Buat soal simulasi JFT baru atau edit soal yang sudah ada.</p>
-          <Button variant="default" className="w-full">Buka Editor</Button>
+          <Button variant="default" className="w-full" onClick={() => router.push('/adminadit/renshuu')}>Buka Editor</Button>
         </Card>
       </div>
       

@@ -3,225 +3,128 @@
     "id": "m_bab33_1",
     "chapter": "Bab 33",
     "level": "N4",
-    "title": "命令形",
-    "meaning": "Bentuk ini dipakai jika memaksa suatu aksi. Ini mempunyai nada paksaan serta kedengaran sangat keras, pemakaiannya sangat terbatas (kebanyakan hanya pria). Digunakan dari posisi atas ke bawah (ayah ke anak), sesama pria, saat darurat, latihan kelompok, pengobaran semangat, atau tanda lalu-lintas.",
-    "formula_template": "Gol I: [i] -> [e] (かき-ます -> かけ) | Gol II: ろ (たべ-ます -> たべろ) | Gol III: し-ます -> しろ, き-ます -> こい",
-    "variables": {},
-    "ai_instruction": "Gunakan pola 'Gol I: [i] -> [e] (かき-ます -> かけ) | Gol II: ろ (たべ-ます -> たべろ) | Gol III: し-ます -> しろ, き-ます -> こい' untuk menyatakan: Bentuk ini dipakai jika memaksa suatu aksi. Ini mempunyai nada paksaan serta kedengaran sangat keras, pemakaia.",
-    "ui_notes": "Kata Kerja Keadaan seperti ある, できる, わかる tidak memiliki Bentuk Imperatif. Terdapat pula bentuk ~なさい (seperti 勉強しなさい) yang lebih halus, digunakan orang tua ke anak atau guru ke murid, tetapi tidak bisa digunakan untuk orang yang lebih tua.",
+    "title": "Bentuk Imperatif (Perintah Tegas) & Larangan",
+    "meaning": "Bentuk Imperatif (Meirei-kei) adalah kalimat instruksi yang sangat tegas atau kasar ('Lakukan!'). Sebaliknya, Bentuk Larangan (Kinshi-kei) adalah perintah untuk tidak melakukan sesuatu dengan tegas ('Jangan lakukan!').",
+    "formula_template": "IMPERATIF [Gol 1: い -> え] / [Gol 2: ます -> ろ] / [Gol 3: しろ / こい] || LARANGAN [Semua Bentuk Kamus + な]",
+    "ui_notes": "Batasan Penggunaan:\nPola ini dihindari dalam percakapan sehari-hari yang normal, dan hanya digunakan pada skenario tertentu:\n1. Oleh figur berotoritas mutlak (seperti komandan) kepada bawahannya.\n2. Di antara teman dekat pria (bahasa kasual keras).\n3. Keadaan darurat/bahaya (Contoh: Awas! Lari!).\n4. Rambu-rambu peringatan (Contoh: Berhenti! Dilarang Masuk!).\n5. Yel-yel atau sorakan suporter olahraga (Contoh: Semangat! Jangan menyerah!).",
     "examples": [
       {
-        "jp": "早く寝ろ。",
-        "id": "Cepat tidur!"
+        "jp": "早く 寝ろ！",
+        "id": "Cepat tidur sana!"
       },
       {
-        "jp": "あしたうちへ来い［よ］。",
-        "id": "Besok datanglah ke rumahku!"
+        "jp": "逃げろ！ エレベーターを 使うな！",
+        "id": "Cepat menghindar! Jangan gunakan lift!"
+      },
+      {
+        "jp": "頑張れ！ 負けるな！",
+        "id": "Semangat! Jangan menyerah!"
+      },
+      {
+        "jp": "止まれ。入るな。",
+        "id": "Berhenti. Dilarang masuk. (Biasa ada pada papan rambu)"
       }
     ],
     "tags": [
       "N4",
-      "Kata Kerja",
-      "Perintah Kasar/Tegas"
+      "Perintah Tegas (Meirei)",
+      "Larangan Tegas (Kinshi)"
     ]
   },
   {
     "id": "m_bab33_2",
     "chapter": "Bab 33",
     "level": "N4",
-    "title": "禁止形",
-    "meaning": "Bentuk ini dipakai jika memerintah untuk tidak melakukan suatu aksi kepada lawan bicara. Sama seperti bentuk perintah, nada bentuk ini juga keras dan penggunaannya terbatas.",
-    "formula_template": "{A} な",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} な' untuk menyatakan: Bentuk ini dipakai jika memerintah untuk tidak melakukan suatu aksi kepada lawan bicara. Sama seperti bentuk p. Pastikan 'A' mewakili Kata Kerja (Bentuk Kamus).",
-    "ui_notes": "Untuk memperlembut suasana perkataan sesama pria, biasanya dibubuhkan partikel よ pada akhir kalimat (Contoh: 飲むなよ).",
+    "title": "〜と 書いて あります / 〜と 読みます (Mengutip Tulisan)",
+    "meaning": "Pola ini fungsinya mirip dengan mengutip pembicaraan ('〜と 言います'), namun dikhususkan untuk mengutip atau melaporkan apa yang tertulis/tercetak pada suatu benda mati (papan nama, petunjuk jalan, dll).",
+    "formula_template": "[Kutipan / Teks Simbol] と 書いて あります / と 読みます",
+    "ui_notes": "Sering digunakan dengan kata kerja '書いて あります' yang memberikan penekanan bahwa tulisan tersebut dibiarkan tercetak dengan sengaja sebagai informasi (terkait pola Bab 30).",
     "examples": [
       {
-        "jp": "遅れるな。",
-        "id": "Jangan terlambat!"
+        "jp": "あの 漢字は 何と 読むんですか。",
+        "id": "Huruf Kanji itu cara membacanya bagaimana?"
       },
       {
-        "jp": "あまり飲むな［よ］。",
-        "id": "Jangan minum terlalu banyak!"
+        "jp": "あそこに 「止まれ」と 書いて あります。",
+        "id": "Di sana tertulis kalimat \"Berhenti\"."
       }
     ],
     "tags": [
       "N4",
-      "Kata Kerja",
-      "Larangan Keras"
+      "Kutipan Tertulis",
+      "Pengejaan Simbol"
     ]
   },
   {
     "id": "m_bab33_3",
     "chapter": "Bab 33",
     "level": "N4",
-    "title": "～と 書いて あります ／ ～と 読みます",
-    "meaning": "Digunakan untuk mengutip apa yang tertulis atau cara membaca sesuatu. Partikel と di sini berfungsi mengutip isi teks atau bacaan.",
-    "formula_template": "[Kutipan Teks/Bacaan] と 書いて あります / 読みます",
-    "variables": {},
-    "ai_instruction": "Gunakan pola '[Kutipan Teks/Bacaan] と 書いて あります / 読みます' untuk menyatakan: Digunakan untuk mengutip apa yang tertulis atau cara membaca sesuatu. Partikel と di sini berfungsi mengutip is.",
-    "ui_notes": "Fungsi partikel と pada pola ini sama dengan fungsi partikel と pada kalimat ～と言います (berkata bahwa...).",
+    "title": "X は Y と いう 意味です (Mendefinisikan Makna)",
+    "meaning": "Pola ini digunakan untuk menjelaskan arti, definisi, atau maksud dari sebuah simbol, tanda, jargon, atau istilah yang tidak dimengerti oleh lawan bicara.",
+    "formula_template": "[Simbol / Tanda (X)] は [Kalimat Penjelasan (Y)] と いう 意味です",
+    "ui_notes": "Jika Anda tidak mengerti arti dari suatu tanda atau istilah, Anda bisa bertanya dengan kalimat: 'どういう 意味ですか' (Apa arti/maksudnya ini?).",
     "examples": [
       {
-        "jp": "あの漢字は何と読むんですか。",
-        "id": "Huruf Kanji itu cara membacanya bagaimana?"
+        "jp": "「立入禁止」は 入るなと いう 意味です。",
+        "id": "\"Tachiiri Kinshi\" itu memiliki arti \"Jangan Masuk\"."
       },
       {
-        "jp": "あそこに「止まれ」と書いてあります。",
-        "id": "Di sana bertuliskan “Berhenti”."
+        "jp": "この マークは どういう 意味ですか。 ……洗濯機で 洗えると いう 意味です。",
+        "id": "Tanda ini apa artinya? …… Artinya adalah (baju ini) boleh dicuci menggunakan mesin cuci."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Kutipan Teks/Cara Baca"
+      "Definisi / Arti",
+      "Terjemahan Rambu"
     ]
   },
   {
     "id": "m_bab33_4",
     "chapter": "Bab 33",
     "level": "N4",
-    "title": "X は Y と いう 意味です",
-    "meaning": "Bentuk ini digunakan untuk mendefinisikan atau menjelaskan makna X. Artinya 'X bermakna/berarti Y'. Jika bertanya artinya, menggunakan Kata Tanya どういう.",
-    "formula_template": "X は Y (Penjelasan/Bentuk Biasa) という意味です",
-    "variables": {},
-    "ai_instruction": "Gunakan pola 'X は Y (Penjelasan/Bentuk Biasa) という意味です' untuk menyatakan: Bentuk ini digunakan untuk mendefinisikan atau menjelaskan makna X. Artinya 'X bermakna/berarti Y'. Jika berta.",
-    "ui_notes": "という berasal dari といいます (berkata/disebut).",
+    "title": "〜と 言って いました (Menyampaikan Pesan / Katanya...)",
+    "meaning": "Jika '〜と 言いました' mengutip ucapan secara langsung pada saat itu, '〜と 言って いました' digunakan saat pembicara berperan sebagai perantara yang menceritakan kembali perkataan/pesan dari orang ketiga kepada lawan bicaranya.",
+    "formula_template": "[Kutipan Kalimat Orang Ke-3] と 言って いました",
+    "ui_notes": "Padanan dalam bahasa Indonesia yang paling pas adalah 'Katanya si (A)...' atau 'Si (A) bilang...'. Sangat cocok untuk menyampaikan pesan berantai.",
     "examples": [
       {
-        "jp": "「立入禁止」は入るなという意味です。",
-        "id": "“Tachiiri Kinshi” berarti dilarang masuk."
+        "jp": "田中さんは 「あした 休みます」と 言って いました。",
+        "id": "Katanya Sdr. Tanaka, \"Besok saya mau libur\"."
       },
       {
-        "jp": "このマークはどういう意味ですか。……洗濯機で洗えるという意味です。",
-        "id": "Apa maksud tanda ini? ……Maksudnya dapat dicuci dengan mesin cuci."
+        "jp": "田中さんは あした 休むと 言って いました。",
+        "id": "Katanya Sdr. Tanaka (tadi ia berpesan bahwa) besok ia mau libur."
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Definisi/Makna"
+      "Penyampaian Pesan",
+      "Kutipan Lisan"
     ]
   },
   {
     "id": "m_bab33_5",
     "chapter": "Bab 33",
     "level": "N4",
-    "title": "「A」／普通形 と 言っていました",
-    "meaning": "Jika mengutip perkataan orang ketiga digunakan ～と言いました. Namun, jika MENYAMPAIKAN kembali perkataan orang ketiga tersebut kepada orang lain (menyampaikan pesan), digunakan ～と言っていました (katanya...).",
-    "formula_template": "「{A}Kutipan Langsung」 / {B}Bentuk Biasa と言っていました",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '「{A}Kutipan Langsung」 / {B}Bentuk Biasa と言っていました' untuk menyatakan: Jika mengutip perkataan orang ketiga digunakan ～と言いました. Namun, jika MENYAMPAIKAN kembali perkataan orang ketig. Pastikan 'A' mewakili Kalimat, 'B' mewakili Kalimat.",
-    "ui_notes": "Jika mengutip perkataan orang ketiga digunakan ～と言いました. Namun, jika MENYAMPAIKAN kembali perkataan orang ketiga tersebut kepada orang lain (menyampaikan pesan), digunakan ～と言っていました (katanya...).",
+    "title": "〜と 伝えて いただけませんか (Meminta Bantuan Pesan)",
+    "meaning": "Ini adalah pola permohonan yang sangat sopan. Digunakan untuk meminta tolong kepada lawan bicara agar bersedia menyampaikan pesan dari kita kepada pihak ketiga.",
+    "formula_template": "[Pihak Ketiga (Tujuan)] に [Isi Pesan/Kalimat Biasa] と 伝えて いただけませんか",
+    "ui_notes": "Karena strukturnya sangat sopan, pola ini aman digunakan dalam etika bisnis, misalnya meminta tolong resepsionis atau sekretaris agar menyampaikan pesan kita ke atasan mereka.",
     "examples": [
       {
-        "jp": "田中さんは「あした休みます」と言っていました。",
-        "id": "Sdr. Tanaka berkata bahwa “Besok tidak masuk”."
+        "jp": "ワンさんに 「あとで 電話を ください」と 伝えて いただけませんか。",
+        "id": "Sudi kiranya Anda sampaikan kepada Sdr. Wang (pesan saya) bahwa \"Nanti tolong telepon saya balik ya\"."
       },
       {
-        "jp": "田中さんはあした休むと言っていました。",
-        "id": "Katanya sdr. Tanaka besok tidak masuk."
+        "jp": "渡辺さんに あしたの パーティーは 6時からだと 伝えて いただけませんか。",
+        "id": "Bolehkah saya minta tolong Anda sampaikan kepada Sdri. Watanabe bahwa pesta besok dimulai dari pukul enam?"
       }
     ],
     "tags": [
       "N4",
-      "Pola Kalimat",
-      "Penyampaian Kutipan"
-    ]
-  },
-  {
-    "id": "m_bab33_6",
-    "chapter": "Bab 33",
-    "level": "N4",
-    "title": "「A」／普通形 と 伝えて いただけませんか",
-    "meaning": "Pola kalimat ini dipakai jika pembicara meminta lawan bicara untuk menyampaikan pesan kepada orang lain secara halus. Artinya 'Tolong sampaikan pesan bahwa...'.",
-    "formula_template": "「{A}Kutipan Langsung」 / {B}Bentuk Biasa と伝えていただけませんか",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '「{A}Kutipan Langsung」 / {B}Bentuk Biasa と伝えていただけませんか' untuk menyatakan: Pola kalimat ini dipakai jika pembicara meminta lawan bicara untuk menyampaikan pesan kepada orang lain secara. Pastikan 'A' mewakili Kalimat, 'B' mewakili Kalimat.",
-    "ui_notes": "Pola kalimat ini dipakai jika pembicara meminta lawan bicara untuk menyampaikan pesan kepada orang lain secara halus. Artinya 'Tolong sampaikan pesan bahwa...'.",
-    "examples": [
-      {
-        "jp": "ワンさんに「あとで電話をください」と伝えていただけませんか。",
-        "id": "Tolong sampaikan kepada sdr. Wang bahwa “Minta ditelepon nanti”."
-      },
-      {
-        "jp": "すみませんが、渡辺さんにあしたのパーティーは6時からだと伝えていただけませんか。",
-        "id": "Maaf, tolong sampaikan kepada sdri. Watanabe bahwa pesta besok dari pukul enam."
-      }
-    ],
-    "tags": [
-      "N4",
-      "Pola Kalimat",
-      "Meminta Sampaikan Pesan Sopan"
+      "Titip Pesan",
+      "Permohonan Sopan"
     ]
   }
 ]

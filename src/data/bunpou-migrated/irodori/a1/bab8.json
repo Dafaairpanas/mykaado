@@ -1,0 +1,138 @@
+[
+  {
+    "id": "i_a1_bab8_1",
+    "chapter": "Bab 8",
+    "level": "A1",
+    "title": "Tempat Terjadinya Aksi (〜で)",
+    "meaning": "Pin Peta Lokasi Aksi! Partikel murni yang memancarkan energi 'LOKASI' (Di...). Partikel ini menerangkan *Di Tempat Mana* sebuah kegiatan/aksi itu dilakukan (Makan di kantin, Rapat di ruang meeting).",
+    "formula_template": "[Tempat / Lokasi] + で + [Kata Kerja Aksi]",
+    "ui_notes": "",
+    "examples": [
+      {
+        "jp": "ここで 着替えます。",
+        "id": "(Karyawan bisa) ganti baju seragam kerja DI SINI (Di tempat ini aksi ganti bajunya dilakukan)."
+      },
+      {
+        "jp": "ここは 食堂です。ここで 昼ご飯を 食べます。",
+        "id": "Ini adalah ruang kantin. Kita melakukan aksi menyantap makan siang DI SINI."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Lokasi Kegiatan",
+      "Partikel Di (De)"
+    ]
+  },
+  {
+    "id": "i_a1_bab8_2",
+    "chapter": "Bab 8",
+    "level": "A1",
+    "title": "Keberadaan Orang (〜に います)",
+    "meaning": "Radar Makhluk Hidup! Menyatakan titik koordinat letak keberadaan manusia atau hewan. Digunakan untuk melacak rekan kerja di kantor.",
+    "formula_template": "[Nama Orang / Hewan] + は + [Tempat] + に + います",
+    "ui_notes": "JALAN PINTAS (SHORTCUT):\nUngkapan **「〜に います」** bisa disingkat drastis menjadi **「〜です」** saja tanpa mengubah maknanya (Contoh: 会議室です / Di ruang rapat kok). Kalau mau mengintrogasi posisi orang: **「どこに いますか？」** (Lagi di mana?).",
+    "examples": [
+      {
+        "jp": "山田さんは、食堂に います。",
+        "id": "Tuan Yamada SEDANG BERADA DI ruang kantin."
+      },
+      {
+        "jp": "田中さんは、どこに いますか？ ……会議室です。",
+        "id": "Tuan Tanaka, SEDANG BERADA DI MANA ya? ...... ADA DI ruang rapat (Disingkat pakai です)."
+      },
+      {
+        "jp": "山下さんは？ ……倉庫に いますよ。",
+        "id": "Kalau Tuan Yamashita di mana? ...... SEDANG BERADA DI area gudang lho."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Radar Manusia",
+      "Sedang Berada Di (Imasu)"
+    ]
+  },
+  {
+    "id": "i_a1_bab8_3",
+    "chapter": "Bab 8",
+    "level": "A1",
+    "title": "Orang Tidak Ada (〜いません / 〜いないです)",
+    "meaning": "Laporan Orang Ilang! Bentuk negatif! Menyatakan bahwa makhluk/orang yang dicari tersebut ZONG alias tidak ada di tempat.",
+    "formula_template": "1. [Nama Orang] + は + いません (Formal)\n2. [Nama Orang] + は + いないです (Gaul/Lisan)",
+    "ui_notes": "",
+    "examples": [
+      {
+        "jp": "辻さんは、いませんね。",
+        "id": "Tuan Tsuji TIDAK ADA ya."
+      },
+      {
+        "jp": "アマンダさん、いないですね。",
+        "id": "Amanda TIDAK ADA ya (Pakai aliran lisan)."
+      },
+      {
+        "jp": "田中さん、いますか？ ……今、いません。たぶん、会議室に います。",
+        "id": "Apakah Tuan Tanaka ADA? ...... Sekarang TIDAK ADA. Kemungkinan dia BERADA DI ruang rapat."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Makhluk Tidak Ada",
+      "Orang Ilang (Imasen)"
+    ]
+  },
+  {
+    "id": "i_a1_bab8_4",
+    "chapter": "Bab 8",
+    "level": "A1",
+    "title": "Letak Benda Mati (ここ/そこ/あそこ)",
+    "meaning": "Navigasi Dimensi Benda! Menunjuk keberadaan BENDA MATI / Fasilitas dengan menggunakan 3 jurus jarak pandang sakti (Sini, Situ, Sana).",
+    "formula_template": "[Nama Benda / Fasilitas] + は + [ここ/そこ/あそこ] + に + あります",
+    "ui_notes": "ILMU 3 DIMENSI JARAK (KOSOADO):\n- **ここ (Sini)**: Jarak pandang menempel dengan Anda (Pembicara).\n- **そこ (Situ)**: Jarak pandang menempel / dekat dengan lawan bicara Anda.\n- **あそこ (Sana)**: Jarak pandang jauh dari Anda maupun lawan bicara.\n\n### 📝 TABEL BUKU PINTAR KEBERADAAN\n\n| Jenis Subjek | Kata Kerja Positif (Ada) | Kata Kerja Negatif (Tidak Ada) |\n|---|---|---|\n| **Benda Mati / Tak Bergerak** (Meja, Pulpen) | **あります** (Arimasu) | **ありません** (Arimasen) / ないです |\n| **Makhluk Hidup / Bergerak** (Manusia, Hewan) | **います** (Imasu) | **いません** (Imasen) / いないです |",
+    "examples": [
+      {
+        "jp": "はさみは、そこに あります。",
+        "id": "Guntingnya ADA DI SITU (Dekat sama kamu)."
+      },
+      {
+        "jp": "のり、ありますか？ ……ここに あります。",
+        "id": "Lem, ADA nggak? ...... ADA DI SINI (Dekat sama aku)."
+      },
+      {
+        "jp": "コピー機は、どこに ありますか？ ……あそこです。",
+        "id": "Mesin Fotokopi, letaknya ADA DI MANA ya? ...... DI SANA (Jauh dari kita berdua)."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Letak Benda 3 Dimensi",
+      "Sini Situ Sana"
+    ]
+  },
+  {
+    "id": "i_a1_bab8_5",
+    "chapter": "Bab 8",
+    "level": "A1",
+    "title": "Posisi Detail Benda (〜の 上/中/下 にあります)",
+    "meaning": "Laporan Posisi Akurat! Membongkar letak posisi benda secara sangat rinci ke dimensi ruang, dengan meminjam tubuh benda lain sebagai patokan (Contoh: Di ATAS meja, Di DALAM laci, Di BAWAH kursi).",
+    "formula_template": "[Benda Patokan Utama] + の + [上 (Atas) / 中 (Dalam) / 下 (Bawah) / 横 (Sebelah)] + に + あります",
+    "ui_notes": "",
+    "examples": [
+      {
+        "jp": "引き出しの 中に あります。",
+        "id": "ADA DI DALAM laci meja."
+      },
+      {
+        "jp": "FAXは、どこに ありますか。 ……あそこです。コピー機の 横です。",
+        "id": "Mesin faksimile, ADA DI MANA ya letaknya? ...... Di sana. DI SEBELAH mesin fotokopi (Disingkat pakai desu)."
+      },
+      {
+        "jp": "ごみ箱、ありますか。 ……そこです。机の 下に あります。",
+        "id": "Tempat sampah, ada nggak? ...... Di situ. ADA DI BAWAH meja kerja."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Posisi Titik Akurat",
+      "Di Atas Dalam Bawah"
+    ]
+  }
+]

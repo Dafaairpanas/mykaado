@@ -1,0 +1,82 @@
+[
+  {
+    "id": "i_a1_bab3_1",
+    "chapter": "Bab 3",
+    "level": "A1",
+    "title": "Kalimat Tanya (〜か？)",
+    "meaning": "Penyihir Kalimat! Pola dasar ini mengubah kalimat pernyataan biasa (Afirmatif) menjadi sebuah pertanyaan yang menginvestigasi. Caranya gampang: tempelkan saja 'か' di ujung ekor kalimat, dan ucapkan dengan nada naik.",
+    "formula_template": "[Kalimat Pernyataan / です] + か？",
+    "ui_notes": "SOP PANGGILAN NAMA (PENTING!):\n- Di Jepang, menggunakan kata ganti kedua (あなた / Kamu) itu terkesan dingin dan HARAM dipakai di percakapan akrab! Gantilah panggilannya dengan Nama Asli ditambah **「さん」** (Contoh: マイさん / Sdr. Mai).\n- Jika berbicara dengan orang banyak, gunakan **「みなさん」** (Hadirin sekalian).\n- AWAS NARSIS: Jangan pernah sekalipun menempelkan **「さん」** ke belakang nama Anda sendiri ya!",
+    "examples": [
+      {
+        "jp": "みなさんは、友だちですか？",
+        "id": "Apakah Anda sekalian (semua ini) saling berteman?"
+      },
+      {
+        "jp": "マイさんは、ベトナムからですか？ ……はい、そうです。",
+        "id": "Saudari Mai, apakah Anda (berasal) dari Vietnam? ...... Ya, leres/benar."
+      },
+      {
+        "jp": "あのう、パクさんですか？ ……いいえ。私は キムです。",
+        "id": "Umm, apakah ini dengan Saudara Park? ...... Bukan, saya ini Kim."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Kalimat Tanya Dasar",
+      "Tanda Tanya (Ka)"
+    ]
+  },
+  {
+    "id": "i_a1_bab3_2",
+    "chapter": "Bab 3",
+    "level": "A1",
+    "title": "Partikel Persamaan (〜も / ...Juga)",
+    "meaning": "Partikel Fotokopi! Bertugas menjiplak nasib. Menunjukkan bahwa Subjek/Benda yang Anda sebutkan ini punya nasib atau identitas yang 'SAMA PERSIS / JUGA' dengan subjek yang sudah dibahas sebelumnya.",
+    "formula_template": "[Kata Benda Subjek/Topik] + も",
+    "ui_notes": "JALAN PINTAS (SHORTCUT):\nJika ada kawan bilang, 'Saya orang Filipina lho', lalu Anda kebetulan senasib dan ingin membalas 'Wah, Saya juga!', Anda cukup teriakkan satu kalimat pendek nan instan: **「私もです」** (Gak perlu sebut negaranya lagi).",
+    "examples": [
+      {
+        "jp": "ケマラさんも、ベトナムからですか？",
+        "id": "Apakah Sdr. Khemera (nasibnya sama) JUGA berasal dari Vietnam?"
+      },
+      {
+        "jp": "ジェインさんは？ ……私も フィリピンです。",
+        "id": "Kalau Sdri. Jane dari mana? ...... Saya JUGA (senasib sama kamu) berasal dari Filipina."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Nasib Sama",
+      "Partikel Fotokopi (Mo)"
+    ]
+  },
+  {
+    "id": "i_a1_bab3_3",
+    "chapter": "Bab 3",
+    "level": "A1",
+    "title": "Kalimat Negatif (〜じゃないです / Bukan...)",
+    "meaning": "Palu Penolakan Identitas! Ini adalah jurus membalikkan keadaan. Bentuk bantahan murni dari kalimat positif '〜です' yang digunakan untuk membongkar identitas atau fakta benda ('Bukan...').",
+    "formula_template": "[Kata Benda] + じゃないです",
+    "ui_notes": "LEVEL KESOPANAN:\n- **「〜じゃないです」** = Gaya bahasa ragam lisan, asyik dipakai ngobrol santai sehari-hari.\n- **「〜じゃありません」** atau **「〜ではありません」** = Gaya bahasa formal/kaku, biasanya lebih sering muncul di email resmi atau pidato.",
+    "examples": [
+      {
+        "jp": "ベトナムじゃないです。",
+        "id": "Saya BUKAN (berasal) dari Vietnam lho ya."
+      },
+      {
+        "jp": "フィリピンからですか？ ……いいえ、フィリピンじゃないです。ベトナムから来ました。",
+        "id": "Berasal dari Filipina ya? ...... Tidak, BUKAN DARI Filipina kok. Saya merantau datang dari Vietnam."
+      },
+      {
+        "jp": "ソムチャイさんですか？ ……私は、ソムチャイじゃないです。サクチャイです。",
+        "id": "Dengan Bapak Somchai? ...... Saya BUKAN Somchai. (Identitas) saya adalah Sakchai."
+      }
+    ],
+    "tags": [
+      "A1",
+      "Bantahan Identitas",
+      "Bukan (Janai-desu)"
+    ]
+  }
+]

@@ -3,270 +3,191 @@
     "id": "m_bab05_1",
     "chapter": "Bab 05",
     "level": "N5",
-    "title": "A (Tempat) へ B (Pergi / Datang / Pulang)",
-    "meaning": "Menyatakan arah pergerakan menuju suatu tempat ('pergi/datang/pulang ke A').",
-    "formula_template": "{A} へ {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan partikel へ (dibaca え) setelah kata benda tempat tujuan 'A', diikuti kata kerja perpindahan 'B' (行きます, 来ます, 帰ります).",
-    "ui_notes": "Partikel arah へ ditulis dengan huruf he (へ) tetapi diucapkan e (え).",
+    "title": "A へ 行きます / 来ます / 帰ります",
+    "meaning": "Partikel 'へ' diletakkan tepat setelah nama tempat. Digunakan secara berpasangan dengan kata kerja perpindahan seperti '行きます' (pergi), '来ます' (datang), atau '帰ります' (pulang) untuk menunjukkan arah atau tujuan dari perpindahan tersebut.",
+    "formula_template": "[Tempat] へ [行きます/来ます/帰ります]",
+    "ui_notes": "SANGAT PENTING: Secara penulisan, partikel ini ditulis menggunakan huruf 'he' (へ), namun secara pelafalan (ketika berfungsi sebagai partikel), huruf ini HARUS dibaca/dilafalkan sebagai 'e'.",
     "examples": [
       {
-        "jp": "京都へ行きます。",
+        "jp": "京都へ 行きます。",
         "id": "Pergi ke Kyoto."
       },
       {
-        "jp": "日本へ来ました。",
+        "jp": "日本へ 来ました。",
         "id": "Datang ke Jepang."
+      },
+      {
+        "jp": "うちへ 帰ります。",
+        "id": "Pulang ke rumah."
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Arah Perpindahan"
+      "Perpindahan"
     ]
   },
   {
     "id": "m_bab05_2",
     "chapter": "Bab 05",
     "level": "N5",
-    "title": "どこ［へ］も 行きません / 行きませんでした",
-    "meaning": "Penyangkalan total terhadap arah atau tujuan ('tidak pergi ke mana pun').",
-    "formula_template": "どこ{A}も {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "particle"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan kata tanya + partikel も + kata kerja negatif untuk menyatakan penyangkalan mutlak (tidak pergi ke mana pun). Partikel へ dapat disisipkan atau dihilangkan.",
-    "ui_notes": "Kata tanya tempat (どこ) + も + kata kerja negatif berarti \"ke mana pun tidak...\". Pola serupa berlaku untuk だれも (siapa pun tidak) dan なにも (apa pun tidak).",
+    "title": "どこ[へ]も 行きません",
+    "meaning": "Digunakan untuk menyangkal keberadaan suatu tujuan secara total. Artinya adalah 'Tidak pergi ke mana-mana'. Pola ini dibentuk dari Kata Tanya + partikel も + Kata Kerja bentuk negatif.",
+    "formula_template": "[Kata Tanya] + も + [Kata Kerja Negatif]",
+    "ui_notes": "Aturan ini berlaku secara universal: Kata Tanya + も + Negatif = Penyangkalan Total. Contoh lain: 'だれも〜ません' (tidak siapa-siapa), 'なにも〜ません' (tidak apa-apa). Untuk tempat, partikel 'へ' boleh disisipkan (どこへも).",
     "examples": [
       {
-        "jp": "どこ［へ］も行きません。",
+        "jp": "どこ[へ]も 行きません。",
         "id": "Tidak pergi ke mana-mana."
       },
       {
-        "jp": "何も食べません。",
-        "id": "Tidak makan apa-apa."
+        "jp": "何も 食べません。",
+        "id": "Tidak makan apa-apa. (Sebagai referensi)"
+      },
+      {
+        "jp": "だれも 来ませんでした。",
+        "id": "Tidak datang siapa-siapa. (Sebagai referensi)"
       }
     ],
     "tags": [
       "N5",
-      "Pola Kalimat",
-      "Penyangkalan Total"
+      "Negatif",
+      "Penyangkalan"
     ]
   },
   {
     "id": "m_bab05_3",
     "chapter": "Bab 05",
     "level": "N5",
-    "title": "A (Kendaraan) で B へ 行きます",
-    "meaning": "Menyatakan sarana transportasi yang digunakan untuk bepergian ('pergi dengan kendaraan A').",
-    "formula_template": "{A} で {B} へ 行きます",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan partikel で setelah sarana transportasi 'A' (misal: kereta, bus, pesawat, sepeda). Jika berjalan kaki gunakan frasa 'あるいて' tanpa partikel で.",
-    "ui_notes": "Partikel で menunjukkan alat/sarana transportasi. Pengecualian: untuk jalan kaki gunakan 歩いて (あるいて) tanpa で.",
+    "title": "Kendaraan で 行きます",
+    "meaning": "Partikel 'で' berfungsi untuk menunjukkan sarana, cara, atau alat bantu. Jika yang diikutinya adalah Kata Benda berupa kendaraan, maka 'で' menunjukkan sarana transportasi (pergi dengan / naik...).",
+    "formula_template": "[Kendaraan] で [Pergi/Datang/Pulang]",
+    "ui_notes": "PERINGATAN: Jika Anda berpindah tempat dengan cara berjalan kaki ('歩いて'), Anda TIDAK BOLEH membubuhkan partikel 'で' (bukan 歩いてで, melainkan langsung 歩いて).",
     "examples": [
       {
-        "jp": "電車で行きます。",
-        "id": "Pergi dengan kereta rel listrik."
+        "jp": "電車で 行きます。",
+        "id": "Pergi dengan/naik kereta rel listrik."
       },
       {
-        "jp": "タクシーで来ました。",
-        "id": "Datang dengan taksi."
+        "jp": "タクシーで 来ました。",
+        "id": "Datang dengan/naik taksi."
+      },
+      {
+        "jp": "駅から 歩いて 帰りました。",
+        "id": "Pulang dengan jalan kaki dari stasiun."
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Sarana/Cara"
+      "Kendaraan"
     ]
   },
   {
     "id": "m_bab05_4",
     "chapter": "Bab 05",
     "level": "N5",
-    "title": "A (Orang / Hewan) と B ます",
-    "meaning": "Menyatakan teman atau pihak yang menyertai dalam melakukan aktivitas ('bersama A').",
-    "formula_template": "{A} と {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "person"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan partikel と setelah nama orang atau hewan 'A' yang menemani melakukan aktivitas 'B'. Jika dilakukan sendirian gunakan frasa 'ひとりで' tanpa と.",
-    "ui_notes": "Partikel と menandai rekan beraktivitas (\"bersama\"). Untuk \"sendirian\", gunakan 一人で (ひとりで) tanpa partikel と.",
+    "title": "Orang/Hewan と (Bersama dengan)",
+    "meaning": "Partikel 'と' (dengan) digunakan untuk menunjukkan dengan siapa (orang atau hewan) suatu aktivitas (seperti pergi/datang) dilakukan bersama-sama.",
+    "formula_template": "[Orang/Hewan] と [Kata Kerja]",
+    "ui_notes": "Pengecualian: Jika Anda melakukan suatu aksi (misalnya pergi) sendirian, gunakanlah frasa '一人で' (Hitori de). Dalam kasus ini, Anda TIDAK menggunakan partikel 'と'.",
     "examples": [
       {
-        "jp": "家族と日本へ来ました。",
+        "jp": "家族と 日本へ 来ました。",
         "id": "Datang ke Jepang bersama dengan keluarga."
       },
       {
-        "jp": "一人で東京へ行きます。",
+        "jp": "一人で 東京へ 行きます。",
         "id": "Pergi ke Tokyo sendirian."
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Penyertaan"
+      "Kebersamaan"
     ]
   },
   {
     "id": "m_bab05_5",
     "chapter": "Bab 05",
     "level": "N5",
-    "title": "いつ A ますか",
-    "meaning": "Kata tanya untuk menanyakan waktu pelaksanaan suatu aktivitas ('Kapan?').",
-    "formula_template": "いつ {A} ますか",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan kata tanya 'いつ' untuk menanyakan waktu tanpa membubuhkan partikel に langsung setelah いつ.",
-    "ui_notes": "いつ digunakan untuk menanyakan waktu secara umum. Kata いつ tidak pernah diikuti partikel に.",
+    "title": "いつ (Kapan)",
+    "meaning": "Kata tanya 'いつ' (itsu) digunakan untuk menanyakan waktu ('Kapan?'). Berbeda dengan '何時' (jam berapa) atau '何日' (tanggal berapa) yang meminta jawaban angka spesifik, 'いつ' menanyakan waktu secara umum dan terbuka.",
+    "formula_template": "いつ [Kata Kerja] か",
+    "ui_notes": "SANGAT PENTING: Kata tanya 'いつ' TIDAK BOLEH diikuti dengan partikel waktu 'に'. Langsung saja bubuhkan kata kerja di belakangnya (いつ 行きますか).",
     "examples": [
       {
-        "jp": "いつ日本へ来ましたか。……3月25日に来ました。",
-        "id": "Kapan datang ke Jepang? ……Datang pada tanggal 25 Maret."
+        "jp": "いつ 日本へ 来ましたか。",
+        "id": "Kapan datang ke Jepang?"
       },
       {
-        "jp": "いつ広島へ行きますか。……来週行きます。",
-        "id": "Kapan pergi ke Hiroshima? ……Pergi minggu depan."
+        "jp": "……3月25日に 来ました。",
+        "id": "……Datang pada tanggal 25 Maret."
+      },
+      {
+        "jp": "いつ 広島へ 行きますか。",
+        "id": "Kapan pergi ke Hiroshima?"
+      },
+      {
+        "jp": "……来週 行きます。",
+        "id": "……Pergi minggu depan."
       }
     ],
     "tags": [
       "N5",
       "Kata Tanya",
-      "Keterangan Waktu"
+      "Waktu"
     ]
   },
   {
     "id": "m_bab05_6",
     "chapter": "Bab 05",
     "level": "N5",
-    "title": "A よ",
-    "meaning": "Partikel akhir kalimat untuk memberikan informasi baru yang belum diketahui lawan bicara ('lho / lho ya').",
-    "formula_template": "{A} よ",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Bubuhkan partikel よ di akhir kalimat ketika pembicara memberitahukan informasi baru, menegaskan kepastian, atau mengingatkan lawan bicara.",
-    "ui_notes": "Partikel よ memberi penekanan informasi baru dari pembicara kepada pendengar dengan nada ramah atau meyakinkan.",
+    "title": "Partikel Akhir よ (Penegasan)",
+    "meaning": "Partikel 'よ' (yo) dibubuhkan pada paling akhir kalimat. Fungsinya untuk memberitahukan suatu informasi baru atau fakta yang (menurut si pembicara) belum diketahui oleh lawan bicara.",
+    "formula_template": "[Kalimat] + よ",
+    "ui_notes": "Partikel ini sering disepadankan dengan akhiran 'lho' atau 'tahu' dalam bahasa Indonesia santai. Tujuannya adalah untuk memberikan penekanan dan menegaskan suatu fakta kepada pendengar.",
     "examples": [
       {
-        "jp": "この電車は甲子園へ行きますか。……いいえ、行きません。次の「普通」ですよ。",
-        "id": "Apakah kereta rel listrik ini menuju Koshien? ……Tidak, tidak pergi. Yang “Biasa” berikutnya."
+        "jp": "いいえ、行きません。次の「普通」ですよ。",
+        "id": "Tidak, tidak pergi. [Kereta] yang 'Biasa' berikutnya lho."
       },
       {
-        "jp": "北海道に馬がたくさんいますよ。",
-        "id": "Di Hokkaido ada banyak kuda."
+        "jp": "北海道に 馬が たくさん いますよ。",
+        "id": "Di Hokkaido ada banyak kuda lho."
+      },
+      {
+        "jp": "この アイスクリーム、おいしいですよ。",
+        "id": "Es krim ini enak lho."
       }
     ],
     "tags": [
       "N5",
-      "Partikel Akhir",
-      "Pemberitahuan/Pendapat"
+      "Partikel",
+      "Penekanan"
     ]
   },
   {
     "id": "m_bab05_7",
     "chapter": "Bab 05",
     "level": "N5",
-    "title": "そうですね",
-    "meaning": "Ungkapan menyetujui pendapat lawan bicara ('Iya ya / benar juga ya').",
+    "title": "そうですね (Iya ya / Betul)",
+    "meaning": "Ungkapan 'そうですね' digunakan saat Anda menyetujui, sependapat, atau bersimpati dengan pernyataan/pendapat yang baru saja dikatakan oleh lawan bicara.",
     "formula_template": "そうですね",
-    "variables": {},
-    "ai_instruction": "Gunakan ekspresi 'そうですね' saat pembicara bersimpati atau sependapat dengan apa yang dikatakan oleh lawan bicara.",
-    "ui_notes": "Berbeda dengan そうですか (menerima informasi baru), そうですね menyatakan kesepakatan atau empati bersama.",
+    "ui_notes": "JANGAN tertukar dengan 'そうですか' (Oh begitu). 'そうですね' (Iya ya/Betul ya) berarti Anda setuju atau memikirkan hal yang sama dengan lawan bicara (berbagi pandangan/perasaan yang sama).",
     "examples": [
       {
-        "jp": "あしたは日曜日ですね。……あ、そうですね。",
-        "id": "Besok hari Minggu, ya. ……O, ya betul."
+        "jp": "あしたは 日曜日ですね。",
+        "id": "Besok hari Minggu ya."
+      },
+      {
+        "jp": "……あ、そうですね。",
+        "id": "……O, ya betul."
       }
     ],
     "tags": [
       "N5",
-      "Frasa",
+      "Ungkapan",
       "Persetujuan"
     ]
   }

@@ -4,22 +4,9 @@
     "chapter": "Bab 33",
     "level": "N3",
     "title": "〜たところ",
-    "meaning": "kalimat bagian belakang terdapat penemuan (hal yang baru diketahui) atau perasaan sedikit kaget",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa setelah melakukan sesuatu, pembicara menemukan hal baru atau mengalami sesuatu yang sedikit mengejutkan. Artinya 'setelah saya... ternyata...', 'begitu saya... ternyata...'. Kalimat bagian belakang biasanya berisi penemuan, kenyataan yang baru diketahui, atau hasil yang tidak terduga. Sering dipakai dalam laporan atau cerita pengalaman.",
     "formula_template": "{A}たところ",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}たところ' untuk mengekspresikan: kalimat bagian belakang terdapat penemuan (hal yang baru diketahui) atau perasaan sedikit kaget.",
-    "ui_notes": "kalimat bagian belakang terdapat penemuan (hal yang baru diketahui) atau perasaan sedikit kaget",
+    "ui_notes": "Cara membentuk: Kata kerja bentuk lampau (た形) + ところ. Contoh: 聞く (kiku) → 聞いた (kiita) → 聞いたところ (setelah saya tanya). 行く (iku) → 行った (itta) → 行ったところ (setelah saya pergi). Contoh pemakaian: 先生に今度のテストの範囲を聞いたところ、10課までだと言われた (setelah saya tanya ke sensei batas ujian nanti, katanya sampai bab 10). 歯が痛いので歯医者さんに行ったところ、ひどい虫歯になっていると言われた (karena gigi saya sakit, setelah saya pergi ke dokter, katanya gigi saya rusak parah). Perbedaan dengan 〜たら: 〜たら = kalau/setelah (netral), 〜たところ = setelah... ternyata... (menekankan penemuan/hasil). Perbedaan dengan 〜てみたら: 〜てみたら = setelah mencoba... ternyata (lebih kasual), 〜たところ lebih formal.",
     "examples": [
       {
         "jp": "先生に今度のテストの範囲を聞いたところ、10課までだと言われた。",
@@ -40,22 +27,9 @@
     "chapter": "Bab 33",
     "level": "N3",
     "title": "〜ところだった",
-    "meaning": "menjelaskan sesuatu yang hampir saja terjadi, sedikit lagi terjadi (tapi kenyataannya tidak)",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa sesuatu hampir saja terjadi, tetapi pada kenyataannya tidak terjadi. Artinya 'hampir saja...', 'nyaris...', 'sedikit lagi...'. Sering dipakai bersama もう少しで (sedikit lagi) atau あと〜たら (kalau saja...). Nuansanya mengandung rasa lega karena hal buruk tidak terjadi.",
     "formula_template": "{A}るところだった",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}るところだった' untuk mengekspresikan: menjelaskan sesuatu yang hampir saja terjadi, sedikit lagi terjadi (tapi kenyataannya tidak).",
-    "ui_notes": "menjelaskan sesuatu yang hampir saja terjadi, sedikit lagi terjadi (tapi kenyataannya tidak)",
+    "ui_notes": "Cara membentuk: Kata kerja bentuk kamus + ところだった. Contoh: 遅刻する (chikoku suru) → 遅刻するところだった (hampir saja terlambat). 乗り遅れる (norio kureru) → 乗り遅れるところだった (hampir saja ketinggalan). Contoh pemakaian: もう少しで遅刻するところだった (sedikit lagi hampir saja terlambat). あと10秒遅かったら、電車に乗り遅れるところだった (kalau telat 10 detik, saya hampir saja terlambat naik kereta). Sering dipakai bersama もう少しで / あと〜たら / 危うく (hampir saja). Perbedaan dengan 〜たところ: 〜たところ = setelah... ternyata (penemuan), 〜ところだった = hampir saja... (nyaris terjadi, tapi tidak).",
     "examples": [
       {
         "jp": "もう少しで遅刻するところだった。",
@@ -76,22 +50,9 @@
     "chapter": "Bab 33",
     "level": "N3",
     "title": "〜てはじめて",
-    "meaning": "setelah... pertama kali",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa setelah melakukan atau mengalami sesuatu, barulah pembicara menyadari, memahami, atau merasakan hal tertentu untuk pertama kalinya. Artinya 'setelah... barulah pertama kali...', 'baru setelah... saya...'. Menekankan bahwa sebelum pengalaman itu, pembicara belum menyadari atau belum pernah merasakan hal tersebut.",
     "formula_template": "{A}てはじめて",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}てはじめて' untuk mengekspresikan: setelah... pertama kali.",
-    "ui_notes": "setelah... pertama kali",
+    "ui_notes": "Cara membentuk: Kata kerja bentuk て + はじめて. Contoh: 注意する (chuui suru) → 注意されて (chuui sarete) → 注意されてはじめて (setelah ditegur, barulah pertama kali). 見る (miru) → 見て (mite) → 見てはじめて (setelah melihat, barulah pertama kali). Contoh pemakaian: 先生に注意されてはじめて、漢字の間違いに気が付いた (setelah ditegur sensei, di situ pertama kali saya sadar akan kesalahan kanji yang saya tulis). 歌舞伎を見てはじめて、日本文化に興味を持った (setelah melihat kabuki, di situ pertama kali saya mempunyai minat terhadap budaya Jepang). Pola ini selalu diikuti kalimat yang menyatakan kesadaran/pemahaman baru. Perbedaan dengan 〜た後で: 〜た後で = setelah (netral, hanya urutan waktu), 〜てはじめて = setelah... barulah pertama kali (menekankan kesadaran baru).",
     "examples": [
       {
         "jp": "先生に注意されてはじめて、漢字の間違いに気が付いた。",
@@ -112,56 +73,9 @@
     "chapter": "Bab 33",
     "level": "N3",
     "title": "〜うちに",
-    "meaning": "untuk menyatakan sebelum keadaan berubah (selagi masih, mumpung belum) atau ditengah-tengah",
+    "meaning": "Pola ini digunakan untuk menyatakan 'selagi masih...', 'mumpung belum...', atau 'sementara...'. Artinya pembicara melakukan sesuatu selama kondisi tertentu masih berlaku, sebelum kondisi itu berubah. Bisa juga berarti 'di tengah-tengah...' untuk perubahan yang terjadi tanpa disadari. Fungsinya menekankan batas waktu yang terbatas atau perubahan keadaan.",
     "formula_template": "[{A}ている / {B}ない / {C} い / {D} な / {V4}の] 〜うちに",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "V4": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}ている / {B}ない / {C} い / {D} な / {V4}の] 〜うちに' untuk mengekspresikan: untuk menyatakan sebelum keadaan berubah (selagi masih, mumpung belum) atau ditengah-tengah.",
-    "ui_notes": "untuk menyatakan sebelum keadaan berubah (selagi masih, mumpung belum) atau ditengah-tengah",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk ている + うちに. Contoh: 忘れる (wasureru) → 忘れない (wasurenai) → 忘れないうちに (selagi belum lupa). (2) Kata kerja bentuk negatif + うちに. Contoh: 忘れる (wasureru) → 忘れない (wasurenai) → 忘れないうちに (selagi belum lupa). (3) Kata sifat-i + うちに. Contoh: 明るい (akarui) → 明るいうちに (selagi masih terang). (4) Kata sifat-na + な + うちに. Contoh: 元気な (genki na) → 元気なうちに (selagi masih sehat). (5) Kata benda + の + うちに. Contoh: 学生 (gakusei) → 学生のうちに (selagi masih pelajar). Contoh pemakaian: 忘れないうちに、メモをしておこう (selagi masih belum lupa, saya catat dulu). 明るいうちに帰ってきなさい (selagi masih terang, ayo pulang). Perbedaan dengan 〜間に: 〜間に = selama (rentang waktu, netral), 〜うちに = selagi masih... (sebelum berubah, ada batas). Perbedaan dengan 〜ているうちに: 〜ているうちに = sementara melakukan..., tiba-tiba... (perubahan tanpa disadari).",
     "examples": [
       {
         "jp": "忘れないうちに、メモをしておこう。",

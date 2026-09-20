@@ -3,180 +3,84 @@
     "id": "m_bab44_1",
     "chapter": "Bab 44",
     "level": "N4",
-    "title": "A（ます形）／形容詞（い・な） すぎます",
-    "meaning": "Menunjuk bahwa tingkat dari perbuatan atau keadaan kelewatan (terlalu...). Biasanya digunakan jika perbuatan atau kondisinya tidak menyenangkan atau berlebihan.",
-    "formula_template": "{A} / {B} / {C} すぎます",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} / {B} / {C} すぎます' untuk menyatakan: Menunjuk bahwa tingkat dari perbuatan atau keadaan kelewatan (terlalu...). Biasanya digunakan jika perbuatan a. Pastikan 'A' mewakili Kata Kerja (Bentuk ます - hilangkan ます), 'B' mewakili Kata Sifat い (hilangkan い), 'C' mewakili Kata Sifat な (hilangkan な).",
-    "ui_notes": "～すぎます dikonjugasi sebagai Kata Kerja Kelompok II (contoh: のみすぎる, のみすぎない, のみすぎた).",
+    "title": "〜すぎます (Terlalu... / Berlebihan)",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa suatu tindakan, keadaan, atau kualitas suatu benda telah melewati batas kewajaran (berlebihan), sehingga umumnya menimbulkan ketidaknyamanan atau hasil yang tidak baik.",
+    "formula_template": "1. [Kata Kerja (coret ます)] + すぎます\n2. [Kata Sifat い/な (coret ekor い/な)] + すぎます",
+    "ui_notes": "Aturan Perubahan:\nSetelah partikel '〜すぎます' (sugimasu) menempel, kata tersebut akan berubah statusnya menjadi Kata Kerja Golongan 2. \nContoh perubahannya: 飲みすぎる (Bentuk Kamus) -> 飲みすぎない (Bentuk Negatif) -> 飲みすぎた (Bentuk Lampau).",
     "examples": [
       {
-        "jp": "ゆうべお酒を飲みすぎました。",
-        "id": "Tadi malam (saya) minum terlalu banyak minuman keras."
+        "jp": "ゆうべ お酒を 飲みすぎました。",
+        "id": "Tadi malam saya terlalu banyak (berlebihan) minum minuman keras."
       },
       {
-        "jp": "このセーターは大きすぎます。",
-        "id": "Sweater ini terlalu besar."
+        "jp": "この セーターは 大きすぎます。",
+        "id": "Sweter ini kebesaran (terlalu besar)."
+      },
+      {
+        "jp": "最近の 車は 操作が 簡単すぎて、運転が おもしろくないです。",
+        "id": "Mobil-mobil zaman sekarang pengoperasiannya terlalu mudah, sehingga menyetirnya jadi tidak menarik."
       }
     ],
     "tags": [
       "N4",
-      "Akhiran",
-      "Tingkat Berlebihan"
+      "Melewati Batas",
+      "Terlalu/Berlebihan"
     ]
   },
   {
     "id": "m_bab44_2",
     "chapter": "Bab 44",
     "level": "N4",
-    "title": "A（ます形） やすいです／にくいです",
-    "meaning": "Jika menggunakan kata kerja keinginan, ～やすい bermakna melakukan aksi itu mudah, dan ～にくい bermakna sulit. Jika menggunakan kata kerja non-keinginan, ～やすい bermakna akan terjadi aksi itu dengan mudah, dan ～にくい bermakna susah terjadi.",
-    "formula_template": "{A} やすいです / にくいです",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} やすいです / にくいです' untuk menyatakan: Jika menggunakan kata kerja keinginan, ～やすい bermakna melakukan aksi itu mudah, dan ～にくい bermakna sulit. Jika m. Pastikan 'A' mewakili Kata Kerja (Bentuk ます - hilangkan ます).",
-    "ui_notes": "～やすい dan ～にくい dikonjugasi sama seperti Kata Sifat い (contoh: 飲みやすくなります, 割れにくくて).",
+    "title": "〜やすい / 〜にくい (Mudah / Sulit Dilakukan)",
+    "meaning": "Pola ini digunakan untuk menilai seberapa mudah (やすい) atau sulit (にくい) sebuah benda untuk digunakan, atau menilai seberapa sulit/mudah suatu tindakan dilakukan berdasarkan kondisi fisiknya.",
+    "formula_template": "[Kata Kerja (coret ます)] + やすいです / にくいです",
+    "ui_notes": "Berfungsi Seperti Kata Sifat-i:\nGabungan kata baru ini harus diperlakukan sama persis seperti Kata Sifat-i.\n- Bentuk Negatif: やすくない (Tidak mudah).\n- Bentuk Lampau: にくかった (Dulu sulit).\n- Jika diubah menjadi Kata Keterangan (Adverbia): やすく なります (Menjadi mudah...).",
     "examples": [
       {
-        "jp": "このパソコンは使いやすいです。",
-        "id": "PC ini mudah dipakai."
+        "jp": "この パソコンは 使いやすいです。",
+        "id": "Komputer (PC) ini sangat mudah digunakan."
       },
       {
-        "jp": "東京は住みにくいです。",
-        "id": "Tokyo tidak nyaman untuk didiami."
+        "jp": "東京は 住みにくいです。",
+        "id": "Tokyo itu (kota yang) sulit / tidak nyaman untuk ditinggali."
+      },
+      {
+        "jp": "雨の 日は 洗濯物が 乾きにくいです。",
+        "id": "Pada saat hujan, cucian sangat sulit (butuh waktu lama) untuk mengering."
+      },
+      {
+        "jp": "この 薬は 砂糖を 入れると、飲みやすく なりますよ。",
+        "id": "Obat ini jika ditambahkan gula, akan (berubah menjadi) lebih mudah diminum."
       }
     ],
     "tags": [
       "N4",
-      "Akhiran",
-      "Kemudahan/Kesulitan"
+      "Tingkat Kesulitan",
+      "Mudah / Sulit"
     ]
   },
   {
     "id": "m_bab44_3",
     "chapter": "Bab 44",
     "level": "N4",
-    "title": "形容詞（く／に）／A（に） します",
-    "meaning": "Ungkapan untuk menyatakan perbuatan sengaja untuk mengubah objek (merubah Kata Benda 1 menjadi keadaan tertentu). Berbeda dengan ～なります yang menyatakan perubahan alami.",
-    "formula_template": "{A} / {B} / {C} に します",
-    "variables": {
-      "A": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} / {B} / {C} に します' untuk menyatakan: Ungkapan untuk menyatakan perbuatan sengaja untuk mengubah objek (merubah Kata Benda 1 menjadi keadaan tertent. Pastikan 'A' mewakili Kata Sifat い (hilangkan い + く), 'B' mewakili Kata Sifat な (hilangkan な + に), 'C' mewakili Kata Benda.",
-    "ui_notes": "Ungkapan untuk menyatakan perbuatan sengaja untuk mengubah objek (merubah Kata Benda 1 menjadi keadaan tertentu). Berbeda dengan ～なります yang menyatakan perubahan alami.",
+    "title": "〜に します (Memutuskan Pilihan)",
+    "meaning": "Pola ini digunakan saat Anda mengambil keputusan atau memilih satu opsi (barang/keadaan) dari beberapa pilihan yang tersedia. Sering diucapkan saat berada di restoran, toko, hotel, atau saat menentukan jadwal.",
+    "formula_template": "[Kata Benda Opsi Pilihan] + に します",
+    "ui_notes": "Perbedaan dengan Pola Sebelumnya:\n- 'A を B に します' = Menjadikan/mengubah wujud suatu hal (Bab 19: Mengecilkan volume / Membersihkan kamar).\n- 'A に します' = Mengambil keputusan untuk memilih (A).",
     "examples": [
       {
-        "jp": "音を大きくします。",
-        "id": "Mengeras bunyi. (Membuat bunyi menjadi besar)"
+        "jp": "部屋は シングルに しますか、ツインに しますか。",
+        "id": "(Petugas Hotel): Untuk kamarnya Anda mau memutuskan pilih (ranjang) Single, atau (ranjang) Twin?"
       },
       {
-        "jp": "部屋をきれいにします。",
-        "id": "Membersihkan kamar. (Membuat kamar menjadi bersih)"
+        "jp": "会議は あしたに します。",
+        "id": "Untuk rapatnya, saya putuskan (diadakan pada) besok saja."
       }
     ],
     "tags": [
       "N4",
-      "Kata Kerja",
-      "Membuat Jadi/Mengubah"
-    ]
-  },
-  {
-    "id": "m_bab44_4",
-    "chapter": "Bab 44",
-    "level": "N4",
-    "title": "A に します",
-    "meaning": "Pola kalimat ini menyatakan pilihan atau keputusan akan suatu benda atau hal.",
-    "formula_template": "{A} に します",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} に します' untuk menyatakan: Pola kalimat ini menyatakan pilihan atau keputusan akan suatu benda atau hal.. Pastikan 'A' mewakili Kata Benda (Pilihan/Keputusan).",
-    "ui_notes": "Pola kalimat ini menyatakan pilihan atau keputusan akan suatu benda atau hal.",
-    "examples": [
-      {
-        "jp": "部屋はシングルにしますか、ツインにしますか。",
-        "id": "Kamarnya mau single atau twin?"
-      },
-      {
-        "jp": "会議はあしたにします。",
-        "id": "Rapat diadakan besok. (Memutuskan rapat besok)"
-      }
-    ],
-    "tags": [
-      "N4",
-      "Pola Kalimat",
-      "Keputusan/Pilihan"
+      "Mengambil Keputusan",
+      "Memilih Opsi"
     ]
   }
 ]

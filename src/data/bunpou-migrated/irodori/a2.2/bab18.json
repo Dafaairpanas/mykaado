@@ -6,19 +6,6 @@
     "title": "V-（よ）うと思います／思っています (V-（yo）u to omoimasu / omotte imasu) — Saya Berpikir untuk V",
     "meaning": "Pola untuk menyatakan niat atau rencana masa depan. 'V-（よ）う' adalah bentuk ajakan/keinginan (volitional), dan '思います' berarti 'berpikir'. '思っています' menunjukkan bahwa niat tersebut sudah dipikirkan dan dipertimbangkan lebih lama. Sangat berguna saat menyatakan cita-cita atau rencana. Artinya 'Saya berniat [melakukan V]'.",
     "formula_template": "{A} と思います / 思っています",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} と思います / 思っています' untuk percakapan: Pola untuk menyatakan niat atau rencana masa depan. 'V-（よ）う' adalah bentuk ajakan/keinginan (volitional), dan . Pastikan 'A' mewakili Kata Kerja Bentuk Volitional.",
     "ui_notes": "Bentuk volitional: Kelompok 1: 行く→行こう, 話す→話そう, 作る→作ろう. Kelompok 2: 食べる→食べよう, 見る→見よう. Kelompok 3: する→しよう, 来る→来よう. Perbedaan: '思います' untuk niat yang baru dipikirkan, '思っています' untuk niat yang sudah dipertimbangkan lebih lama.",
     "examples": [
       {
@@ -44,29 +31,6 @@
     "title": "V-るために、〜 (V-ru tame ni, ~) — Untuk V",
     "meaning": "Pola untuk menyatakan tujuan spesifik melakukan suatu tindakan. 'ために' berarti 'untuk' dan digunakan dengan bentuk kamus kata kerja. Berbeda dengan 'ように' (tujuan/usaha yang lebih umum), 'ために' digunakan untuk tujuan yang lebih konkret dan terencana. Sangat berguna saat menjelaskan alasan belajar atau bekerja. Artinya 'Untuk [melakukan V]'.",
     "formula_template": "{A} ために、{B}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ために、{B}' untuk percakapan: Pola untuk menyatakan tujuan spesifik melakukan suatu tindakan. 'ために' berarti 'untuk' dan digunakan dengan ben. Pastikan 'A' mewakili Kata Kerja Bentuk Kamus, 'B' mewakili Tindakan.",
     "ui_notes": "Untuk kata benda, gunakan 'Nのために'. Contoh: 家族のために働きます (Bekerja untuk keluarga). Perbedaan: 'ために' untuk tujuan spesifik/terencana, 'ように' untuk tujuan/usaha yang lebih umum. 'ために' diikuti tindakan yang disengaja, sedangkan 'ように' bisa diikuti tindakan yang tidak disengaja.",
     "examples": [
       {
@@ -92,19 +56,6 @@
     "title": "V-てあげます — Saya Memberi / Melakukan untuk Orang Lain",
     "meaning": "Pola untuk menyatakan bahwa pembicara melakukan sesuatu untuk orang lain (atau orang lain melakukan untuk orang lain). 'あげる' berarti 'memberi' dan dalam konteks ini berarti 'melakukan untuk'. Sangat berguna saat menyatakan niat membantu atau memberikan sesuatu kepada orang lain. Artinya 'Saya [melakukan V] untuk [orang lain]'.",
     "formula_template": "{A} あげます",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} あげます' untuk percakapan: Pola untuk menyatakan bahwa pembicara melakukan sesuatu untuk orang lain (atau orang lain melakukan untuk oran. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
     "ui_notes": "Arah pemberian: あげる (dari pembicara ke orang lain), くれる (dari orang lain ke pembicara), もらう (pembicara menerima dari orang lain). 'あげる' tidak boleh digunakan untuk atasan atau orang yang lebih tua (kurang sopan), gunakan '差し上げる' (sashiageru) untuk yang lebih formal/sopan.",
     "examples": [
       {
@@ -130,19 +81,6 @@
     "title": "V-てもらいます — Saya Menerima",
     "meaning": "Pola untuk menyatakan bahwa pembicara menerima tindakan dari orang lain. 'もらう' berarti 'menerima' dan menunjukkan bahwa seseorang melakukan sesuatu untuk pembicara. Sangat berguna saat mengucapkan terima kasih atas bantuan atau kebaikan orang lain. Artinya 'Saya menerima [tindakan] dari [orang lain]' atau '[Orang lain] [melakukan V] untuk saya'.",
     "formula_template": "{A} もらいます",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} もらいます' untuk percakapan: Pola untuk menyatakan bahwa pembicara menerima tindakan dari orang lain. 'もらう' berarti 'menerima' dan menunjuk. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
     "ui_notes": "Arah pemberian: あげる (saya ke orang lain), くれる (orang lain ke saya), もらう (saya menerima dari orang lain). 'もらう' fokus pada penerima (pembicara). Bentuk sopan: 'いただく' (itadaku). Contoh: 先生に教えていただきました (Saya menerima pelajaran dari guru - sangat sopan).",
     "examples": [
       {
@@ -168,19 +106,6 @@
     "title": "V-てくれます — Orang Lain Melakukan untuk Saya",
     "meaning": "Pola untuk menyatakan bahwa orang lain melakukan sesuatu untuk pembicara (atau untuk orang yang dekat dengan pembicara). 'くれる' berarti 'memberi' dan menunjukkan tindakan dari orang lain yang menguntungkan pembicara. Sangat berguna saat mengucapkan terima kasih atau menyatakan rasa syukur. Artinya '[Orang lain] [melakukan V] untuk saya'.",
     "formula_template": "{A} くれます",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} くれます' untuk percakapan: Pola untuk menyatakan bahwa orang lain melakukan sesuatu untuk pembicara (atau untuk orang yang dekat dengan p. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
     "ui_notes": "Arah pemberian: あげる (saya ke orang lain), くれる (orang lain ke saya - dari sudut pandang penerima), もらう (saya menerima dari orang lain). 'くれる' fokus pada pemberi dan digunakan ketika pembicara menerima manfaat. Bentuk sopan: 'くださる' (kudasaru). Contoh: 先生が教えてくださいました (Guru mengajari saya - sangat sopan).",
     "examples": [
       {

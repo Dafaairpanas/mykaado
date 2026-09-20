@@ -3,219 +3,148 @@
     "id": "m_bab17_1",
     "chapter": "Bab 17",
     "level": "N5",
-    "title": "ABentuk ない",
-    "meaning": "Bentuk yang disambung pada ない disebut bentuk ない. Ini merupakan dasar konjugasi untuk kalimat negatif dan pola kalimat tertentu.",
-    "formula_template": "Kelompok I: Bunyi kolom い diganti kolom あ ない | Kelompok II: Bentuk ます diganti ない | Kelompok III: します -> しない, きます -> こない",
-    "variables": {},
-    "ai_instruction": "Gunakan pola 'Kelompok I: Bunyi kolom い diganti kolom あ ない | Kelompok II: Bentuk ます diganti ない | Kelompok III: します -> しない, きます -> こない' untuk menyatakan: Bentuk yang disambung pada ない disebut bentuk ない. Ini merupakan dasar konjugasi untuk kalimat negatif dan pola .",
-    "ui_notes": "Pengecualian untuk Kelompok I: Jika bunyi terakhirnya vokal い (contoh: かいます), maka tidak diganti dengan あ melainkan わ (contoh: かわない).",
+    "title": "Bentuk ない (Bentuk Negatif Kamus)",
+    "meaning": "Bentuk 'ない' (Nai) adalah akar atau bentuk dasar dari semua konjugasi kata kerja bermakna negatif (setara persis dengan 'ません' namun lebih kasual/mentah).",
+    "formula_template": "[Konjugasi Kata Kerja ke Bentuk ない]",
+    "ui_notes": "ATURAN KONJUGASI:\n**Kelompok I:** Geser vokal huruf terakhirnya (sebelum masu) menjadi deretan vokal 'a'. (書きます -> 書か -> 書かない). \n*PENGECUALIAN FATAL*: Jika huruf sebelum masu murni vokal 'い' (seperti 買います), dilarang menggantinya jadi 'あ'. Ia wajib diganti menjadi huruf 'わ' (買わない).\n**Kelompok II:** Paling mudah. Coret 'ます', ganti dengan 'ない' (食べます -> 食べない).\n**Kelompok III:** します berubah menjadi しない. 来ます (kimasu) berubah drastis menjadi こない (konai).",
     "examples": [
       {
-        "jp": "かきます → かかない",
-        "id": "menulis -> tidak menulis"
+        "jp": "書きます -> 書かない",
+        "id": "Tidak menulis (Gol 1: ki->ka)"
       },
       {
-        "jp": "たべます → たべない",
-        "id": "makan -> tidak makan"
+        "jp": "買います -> 買わない",
+        "id": "Tidak membeli (Gol 1 Pengecualian: i->wa)"
+      },
+      {
+        "jp": "食べます -> 食べない",
+        "id": "Tidak makan (Gol 2)"
+      },
+      {
+        "jp": "来ます -> こない (Konai)",
+        "id": "Tidak datang (Gol 3 Spesial)"
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Konjugasi"
+      "Konjugasi",
+      "Negatif Kasual"
     ]
   },
   {
     "id": "m_bab17_2",
     "chapter": "Bab 17",
     "level": "N5",
-    "title": "A ないで ください",
-    "meaning": "Pola kalimat ini dipakai jika meminta atau memerintah kepada lawan bicara supaya tidak melakukan sesuatu hal (Jangan......!). Dapat juga menyatakan perhatian kepada lawan bicara untuk tidak perlu berbuat sesuatu hal.",
-    "formula_template": "{A} で ください",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} で ください' untuk menyatakan: Pola kalimat ini dipakai jika meminta atau memerintah kepada lawan bicara supaya tidak melakukan sesuatu hal (. Pastikan 'A' mewakili Kata Kerja (Bentuk ない).",
-    "ui_notes": "Pola kalimat ini dipakai jika meminta atau memerintah kepada lawan bicara supaya tidak melakukan sesuatu hal (Jangan......!). Dapat juga menyatakan perhatian kepada lawan bicara untuk tidak perlu berbuat sesuatu hal.",
+    "title": "〜ないで ください (Tolong JANGAN...)",
+    "meaning": "Apabila [Bentuk ない] dikawinkan dengan instruksi 'で ください' (de kudasai), maknanya berbalik menjadi sebuah larangan lembut atau permohonan agar si pendengar TIDAK mengeksekusi suatu tindakan.",
+    "formula_template": "[Kata Kerja Bentuk ない] で ください",
+    "ui_notes": "Sangat diplomatis dan etis bila digunakan untuk mengkhawatirkan seseorang, atau saat melarang tamu merugikan dirinya sendiri (Tolong jangan repot-repot).",
     "examples": [
       {
         "jp": "ここで 写真を 撮らないで ください。",
-        "id": "Jangan mengambil foto di sini!"
+        "id": "Tolong JANGAN mengambil foto di sini."
       },
       {
         "jp": "わたしは 元気ですから、心配しないで ください。",
-        "id": "Karena saya sehat, jangan khawatir."
+        "id": "Karena saya sehat, tolong JANGAN khawatir."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Larangan"
+      "Permohonan",
+      "Larangan Lembut"
     ]
   },
   {
     "id": "m_bab17_3",
     "chapter": "Bab 17",
     "level": "N5",
-    "title": "A なければ なりません",
-    "meaning": "Pola kalimat ini menunjukkan keharusan (Harus......).",
-    "formula_template": "{A} ければ なりません",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ければ なりません' untuk menyatakan: Pola kalimat ini menunjukkan keharusan (Harus......).. Pastikan 'A' mewakili Kata Kerja (Bentuk ない, hilangkan い).",
-    "ui_notes": "Perlu hati-hati bahwa meskipun menggunakan bentuk negatif, pola kalimat ini TIDAK berarti negatif, melainkan bermakna positif/keharusan.",
+    "title": "〜なければ なりません (Harus / Mesti)",
+    "meaning": "Ini adalah tata bahasa terpenting untuk menancapkan kewajiban atau keharusan absolut yang tak bisa ditawar-tawar (Wajib / Harus / Mesti).",
+    "formula_template": "[Bentuk ない (tanpa い)] ければ なりません",
+    "ui_notes": "AWAS TERTIPU: Meskipun secara gramatikal ia menggunakan 'Double Negative' atau penolakan ganda ('Kalau tidak X, maka tidak benar/tidak sah' -> nakereba narimasen), secara logika makna akhirnya adalah POSITIF TEGAS, yaitu 'HARUS'.",
     "examples": [
       {
         "jp": "薬を 飲まなければ なりません。",
-        "id": "Harus minum obat."
+        "id": "HARUS (Wajib) minum obat."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Keharusan"
+      "Kewajiban",
+      "Aturan Wajib"
     ]
   },
   {
     "id": "m_bab17_4",
     "chapter": "Bab 17",
     "level": "N5",
-    "title": "A なくても いいです",
-    "meaning": "Pola kalimat ini menunjukkan bahwa tidak perlu melakukan sesuatu hal (Tidak perlu......).",
-    "formula_template": "{A} くても いいです",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} くても いいです' untuk menyatakan: Pola kalimat ini menunjukkan bahwa tidak perlu melakukan sesuatu hal (Tidak perlu......).. Pastikan 'A' mewakili Kata Kerja (Bentuk ない, hilangkan い).",
-    "ui_notes": "Pola kalimat ini menunjukkan bahwa tidak perlu melakukan sesuatu hal (Tidak perlu......).",
+    "title": "〜なくても いいです (Tidak perlu / Bebas)",
+    "meaning": "Merupakan penawar/kebalikan dari pola ke-3. Pola ini menyatakan pembebasan dari kewajiban ('TIDAK PERLU / Boleh tidak dilakukan'). Sering diartikan secara harafiah 'Walaupun tidak X, juga tidak masalah/baik-baik saja'.",
+    "formula_template": "[Bentuk ない (tanpa い)] くても いいです",
+    "ui_notes": "Sangat berguna untuk meringankan beban lawan bicara (contoh: Besok tidak usah repot-repot datang kok).",
     "examples": [
       {
         "jp": "あした 来なくても いいです。",
-        "id": "Besok tidak perlu datang."
+        "id": "Besok TIDAK PERLU / Boleh tidak datang."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Tidak Harus"
+      "Izin",
+      "Pembebasan Kewajiban"
     ]
   },
   {
     "id": "m_bab17_5",
     "chapter": "Bab 17",
     "level": "N5",
-    "title": "Pentopikan Objek (Objek は)",
-    "meaning": "Jika menyatakan objek langsung sebagai topik, maka partikel を dihilangkan kemudian membubuhkan partikel は, lalu diletakkan paling di depan dalam kalimat.",
-    "formula_template": "{A} は [Keterangan] {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は [Keterangan] {B}' untuk menyatakan: Jika menyatakan objek langsung sebagai topik, maka partikel を dihilangkan kemudian membubuhkan partikel は, lal. Pastikan 'A' mewakili Kata Benda (Objek), 'B' mewakili Kata Kerja.",
-    "ui_notes": "Bentuk aslinya adalah kalimat dengan partikel を (contoh: 昼ごはんを 食べます). Partikel を diganti dengan は untuk menyoroti objek tersebut sebagai topik pembicaraan.",
+    "title": "Pentopikan Objek (Ganti を Menjadi は)",
+    "meaning": "Secara default, benda yang dikenai pekerjaan disematkan partikel 'を' (wo). TETAPI, bila Anda hendak menaikkan kasta benda tersebut menjadi Fokus Topik utama pembicaraan, seret kata tersebut ke baris paling depan kalimat, dan GANTI partikel 'を'-nya menjadi partikel topik 'は'.",
+    "formula_template": "[Objek] は + [Informasi Lanjutan]",
+    "ui_notes": "Siasat retorika ini gencar dipakai pada pengumuman peringatan publik. Maksudnya adalah: 'BENDA INI LHO, jangan di-X-kan di sini'. Benda tersebut dianggap lebih vital disoroti audiens.",
     "examples": [
       {
+        "jp": "ここに 荷物を 置かないで ください。",
+        "id": "Tolong jangan letakkan barang di sini. (Standar)"
+      },
+      {
         "jp": "荷物は ここに 置かないで ください。",
-        "id": "Barangnya jangan diletakkan di sini."
+        "id": "BARANG, tolong jangan diletakkan di sini. (Objek ditopikkan)"
       },
       {
         "jp": "昼ごはんは 会社の 食堂で 食べます。",
-        "id": "Makan siangnya makan di kantin perusahaan."
+        "id": "MAKAN SIANGNYA, (saya) makan di kantin perusahaan."
       }
     ],
     "tags": [
       "N5",
-      "Partikel",
-      "Topik"
+      "Topik",
+      "Penekanan"
     ]
   },
   {
     "id": "m_bab17_6",
     "chapter": "Bab 17",
     "level": "N5",
-    "title": "A までに B",
-    "meaning": "Menunjukkan batas waktu aksi atau peristiwa harus diselesaikan.",
-    "formula_template": "{A} までに {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "time"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} までに {B}' untuk menyatakan: Menunjukkan batas waktu aksi atau peristiwa harus diselesaikan.. Pastikan 'A' mewakili Kata Benda (waktu), 'B' mewakili Kata Kerja.",
-    "ui_notes": "Perlu hati-hati untuk tidak menyamakannya dengan partikel まで. まで menunjukkan titik akhir aksi yang sedang berlangsung (contoh: 5時まで 働きます - Bekerja sampai pukul lima), sedangkan までに menunjukkan batas waktu (tenggat waktu/deadline).",
+    "title": "Waktu / Tenggat までに (Selambat-lambatnya)",
+    "meaning": "Bila partikel waktu ditempelkan imbuhan 'に' menjadi 'までに' (made ni), ia menjelma menjadi parameter TENGGAT WAKTU (Deadline). Maknanya adalah: Aksi tersebut wajib diselesaikan minimal SATU KALI kapan saja 'Sebelum / Selambat-lambatnya pada' waktu tersebut.",
+    "formula_template": "[Titik Waktu] までに [Kata Kerja Target]",
+    "ui_notes": "HARAP JANGAN TERTUKAR DENGAN 'まで' (Bab 4). \n- 'まで' murni: Aksi Anda berlangsung terus-menerus tiada henti sampai waktu itu habis (Saya bekerja *terus sampai* jam 5). \n- 'までに': Aksi Anda selesai singkat seketika dalam kurun waktu sebelum garis akhir (Saya akan kembalikan buku ini *paling lambat/sebelum* jam 5).",
     "examples": [
       {
         "jp": "会議は 5時までに 終わります。",
-        "id": "Rapat selesai sebelum pukul lima."
+        "id": "Rapat (akan) selesai SEBELUM/SELAMBAT-LAMBATNYA pukul lima."
       },
       {
         "jp": "土曜日までに 本を 返さなければ なりません。",
-        "id": "Mengembalikan buku sampai dengan hari Sabtu."
+        "id": "Harus mengembalikan buku PALING LAMBAT hari Sabtu."
       }
     ],
     "tags": [
       "N5",
-      "Partikel",
-      "Batas Waktu"
+      "Waktu",
+      "Tenggat Deadline"
     ]
   }
 ]

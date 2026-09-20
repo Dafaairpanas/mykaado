@@ -2,11 +2,21 @@
 
 import { useState, useEffect } from "react";
 import { useParams, useRouter } from "next/navigation";
-import { RENSHUU_SOURCES } from "@/lib/data-loader";
+import { supabase } from "@/lib/supabase";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Clock, ArrowLeft, ArrowRight, CheckCircle, XCircle } from "lucide-react";
 import Link from "next/link";
+
+import jftPaket01 from "@/data/renshuu/jft-paket-01.json";
+import n5Paket01 from "@/data/renshuu/n5-paket-01.json";
+import n4Paket01 from "@/data/renshuu/n4-paket-01.json";
+
+const localSimulationsData: Record<string, any> = {
+  [jftPaket01.id]: jftPaket01,
+  [n5Paket01.id]: n5Paket01,
+  [n4Paket01.id]: n4Paket01,
+};
 
 type Status = "idle" | "running" | "finished";
 
@@ -19,18 +29,74 @@ export default function SimulationEngine() {
   const [currentQ, setCurrentQ] = useState(0);
   const [answers, setAnswers] = useState<Record<string, number>>({});
   const [timeLeft, setTimeLeft] = useState(0);
+  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     async function loadSim() {
-      const allChapters = RENSHUU_SOURCES.flatMap(s => s.chapters);
-      const chapter = allChapters.find(c => c.id === simId);
-      if (chapter) {
-        const mod = await chapter.file();
-        setData(mod.default || mod);
+      setIsLoading(true);
+      
+      // 1. Cek apakah ini simulasi lokal
+      if (typeof simId === "string" && localSimulationsData[simId]) {
+        const simData = localSimulationsData[simId];
+        let finalQuestions = simData.questions;
+        if (simData.is_randomized) {
+          finalQuestions = [...simData.questions];
+          for (let i = finalQuestions.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [finalQuestions[i], finalQuestions[j]] = [finalQuestions[j], finalQuestions[i]];
+          }
+        }
+        setData({
+          ...simData,
+          total_questions: finalQuestions.length,
+          questions: finalQuestions
+        });
+        setIsLoading(false);
+        return;
       }
+
+      // 2. Jika bukan lokal, fetch dari Supabase
+      const { data: simData, error: simErr } = await supabase
+        .from('simulations')
+        .select('*')
+        .eq('id', simId)
+        .single();
+        
+      if (simErr) {
+        alert("Simulasi tidak ditemukan!");
+        router.push("/renshuu");
+        return;
+      }
+
+      // Fetch questions
+      const { data: qData, error: qErr } = await supabase
+        .from('questions')
+        .select('*')
+        .eq('simulation_id', simId)
+        .order('order_index', { ascending: true })
+        .order('created_at', { ascending: true });
+
+      if (qData) {
+        let finalQuestions = qData;
+        if (simData.is_randomized) {
+          // Fisher-Yates shuffle
+          finalQuestions = [...qData];
+          for (let i = finalQuestions.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [finalQuestions[i], finalQuestions[j]] = [finalQuestions[j], finalQuestions[i]];
+          }
+        }
+        
+        setData({
+          ...simData,
+          total_questions: finalQuestions.length,
+          questions: finalQuestions
+        });
+      }
+      setIsLoading(false);
     }
     loadSim();
-  }, [simId]);
+  }, [simId, router]);
 
   useEffect(() => {
     if (status === "running" && timeLeft > 0) {
@@ -41,7 +107,19 @@ export default function SimulationEngine() {
     }
   }, [status, timeLeft]);
 
-  if (!data) return <div className="text-center py-20 font-bold">Loading...</div>;
+  if (isLoading || !data) return <div className="text-center py-20 font-bold animate-pulse">Memuat Ujian...</div>;
+
+  if (data.questions.length === 0) {
+    return (
+      <div className="max-w-2xl mx-auto px-4 py-12 text-center">
+        <h1 className="text-3xl font-extrabold mb-4">{data.title}</h1>
+        <p className="text-[var(--color-text-muted)] mb-8">Maaf, ujian ini belum memiliki soal.</p>
+        <Link href="/renshuu">
+          <Button variant="default">Kembali</Button>
+        </Link>
+      </div>
+    );
+  }
 
   const startExam = () => {
     setTimeLeft(data.duration_minutes * 60);
@@ -126,6 +204,14 @@ export default function SimulationEngine() {
                 </div>
                 <div className="mb-4">
                   <p className="text-sm font-bold text-[var(--color-accent)] mb-2">{q.instruction}</p>
+                  
+                  {q.image_url && (
+                    <img src={q.image_url} alt="Soal" className="max-h-48 object-contain mb-4 rounded bg-white border border-[var(--color-border-main)]" />
+                  )}
+                  {q.audio_url && (
+                    <audio src={q.audio_url} controls className="mb-4 w-full max-w-sm" />
+                  )}
+                  
                   <p className="jp-text text-xl whitespace-pre-wrap">{q.question_text}</p>
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-2 mb-4">
@@ -144,7 +230,7 @@ export default function SimulationEngine() {
                 {q.explanation && (
                   <div className="mt-4 p-4 bg-[var(--color-bg-main)] rounded-[var(--radius-sm)] border border-dashed border-[var(--color-border-main)]">
                     <p className="font-bold text-sm mb-1">Penjelasan:</p>
-                    <p className="text-sm">{q.explanation}</p>
+                    <p className="text-sm whitespace-pre-wrap">{q.explanation}</p>
                   </div>
                 )}
               </Card>
@@ -185,6 +271,19 @@ export default function SimulationEngine() {
             {question.instruction}
           </div>
           
+          {question.image_url && (
+            <div className="mb-6">
+              <img src={question.image_url} alt="Soal" className="max-w-full max-h-64 object-contain rounded-[var(--radius-sm)] border-[2px] border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] bg-white" />
+            </div>
+          )}
+          
+          {question.audio_url && (
+            <div className="mb-6 bg-[var(--color-bg-card)] p-4 rounded-[var(--radius-md)] border-[2px] border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]">
+              <p className="font-bold text-sm text-[var(--color-text-muted)] mb-2">Putar Audio (Choukai)</p>
+              <audio src={question.audio_url} controls className="w-full" />
+            </div>
+          )}
+
           <div className="text-2xl md:text-3xl jp-text font-normal mb-8 leading-relaxed whitespace-pre-wrap">
             {question.question_text}
           </div>

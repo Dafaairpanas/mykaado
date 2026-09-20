@@ -3,246 +3,164 @@
     "id": "m_bab04_1",
     "chapter": "Bab 04",
     "level": "N5",
-    "title": "今 A 時 B 分です",
-    "meaning": "Menyatakan waktu/jam saat ini dalam jam dan menit.",
-    "formula_template": "今 {A} 時 {B} 分です",
-    "variables": {
-      "A": {
-        "type": [
-          "counter"
-        ],
-        "semantic": [
-          "time"
-        ]
-      },
-      "B": {
-        "type": [
-          "counter"
-        ],
-        "semantic": [
-          "time"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola ini untuk menyatakan jam. 'A' adalah angka jam (1-12) + 時 (じ), 'B' adalah angka menit + 分 (ふん/ぷん). Untuk tepat gunakan '〜時です'.",
-    "ui_notes": "4時 dibaca よじ, 9時 dibaca くじ. Menit memiliki variasi bunyi ふん dan ぷん (misal: いっぷん, さんぷん, ろっぷん, はっぷん, じゅっぷん). Setengah jam dinyatakan dengan 半 (はん).",
+    "title": "〜時 〜分 (Menyatakan Jam)",
+    "meaning": "Untuk menyatakan waktu (jam dan menit) dalam bahasa Jepang, gunakan kata bantu bilangan '時' (ji = jam) dan '分' (fun/pun = menit) di belakang angka.",
+    "formula_template": "[Angka] 時 [Angka] 分 です",
+    "ui_notes": "Pelafalan menit ('分') bergantung pada angka di depannya. Berakhiran 2, 5, 7, 9 dibaca 'ふん' (fun). Berakhiran 1, 3, 4, 6, 8, 10 dibaca 'ぷん' (pun). Khusus angka 1(いっ), 6(ろっ), 8(はっ), dan 10(じゅっ/じっ) di depan menit mengalami perubahan bunyi. Untuk bertanya waktu, gunakan '何時' (nan-ji) dan '何分' (nam-pun).",
     "examples": [
       {
-        "jp": "今何時ですか。……7時10分です。",
-        "id": "Sekarang pukul berapa? ……Pukul tujuh lewat sepuluh menit."
+        "jp": "今 何時ですか。",
+        "id": "Sekarang pukul berapa?"
+      },
+      {
+        "jp": "……7時 10分です。",
+        "id": "……Pukul 7 lewat 10 menit (Ju-ppun)."
       }
     ],
     "tags": [
       "N5",
-      "Kata Bantu Bilangan",
-      "Waktu"
+      "Waktu",
+      "Jam"
     ]
   },
   {
     "id": "m_bab04_2",
     "chapter": "Bab 04",
     "level": "N5",
-    "title": "A ます / ません / ました / ませんでした",
-    "meaning": "Konjugasi kata kerja bentuk sopan (positif/negatif masa kini/kebiasaan dan lampau).",
-    "formula_template": "{A} ます / ません / ました / ませんでした",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan konjugasi predikat kata kerja sopan: ます (positif non-lampau), ません (negatif non-lampau), ました (positif lampau), ませんでした (negatif lampau).",
-    "ui_notes": "Bentuk non-lampau (~ます/~ません) digunakan untuk menyatakan kebiasaan rutin atau kejadian masa depan. Bentuk lampau (~ました/~ませんでした) menyatakan kejadian yang sudah selesai.",
+    "title": "Perubahan Waktu Kata Kerja (〜ます / ました)",
+    "meaning": "Kata Kerja berakhiran '〜ます' berfungsi sebagai predikat tindakan yang halus dan sopan. Bentuk ini dapat dimodifikasi (dikonjugasi) tergantung pada waktu terjadinya (lampau / masa depan) dan sifat afirmatifnya (positif / negatif).",
+    "formula_template": "[Kata Kerja] ます / ません / ました / ませんでした",
+    "ui_notes": "Bentuk 'ます' (non-lampau) merujuk pada kebiasaan sehari-hari, rutinitas, atau hal yang *baru akan* terjadi di masa depan. Negatifnya: 'ません'. Untuk kejadian yang *sudah lewat* (lampau positif) gunakan 'ました', dan negatifnya 'ませんでした'. Saat menjawab pertanyaan Kata Kerja, Anda TIDAK BOLEH membalas dengan 'そうです', melainkan harus mengulang Kata Kerja tersebut.",
     "examples": [
       {
-        "jp": "わたしは毎日勉強します。",
-        "id": "Saya belajar setiap hari."
+        "jp": "わたしは 毎日 勉強します。",
+        "id": "Saya belajar (rutinitas) setiap hari."
       },
       {
-        "jp": "毎朝6時に起きます。",
-        "id": "Setiap pagi saya bangun pukul enam."
+        "jp": "あした 6時に 起きます。",
+        "id": "Besok saya (akan) bangun pukul enam."
+      },
+      {
+        "jp": "けさ 6時に 起きました。",
+        "id": "Tadi pagi saya (sudah) bangun pukul enam."
+      },
+      {
+        "jp": "きのう 勉強しましたか。",
+        "id": "Kemarin (apakah Anda) belajar?"
+      },
+      {
+        "jp": "……いいえ、勉強しませんでした。",
+        "id": "……Tidak, (saya) tidak belajar."
       }
     ],
     "tags": [
       "N5",
       "Kata Kerja",
-      "Kala/Waktu"
+      "Tenses"
     ]
   },
   {
     "id": "m_bab04_3",
     "chapter": "Bab 04",
     "level": "N5",
-    "title": "A (Waktu Spesifik) に B ます",
-    "meaning": "Menyatakan waktu terjadinya suatu aktivitas menggunakan partikel に ('pada jam/hari A').",
-    "formula_template": "{A} に {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "time"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan partikel に setelah kata benda waktu yang menyertakan angka (jam, tanggal, hari tertentu) untuk menandai titik waktu terjadinya aksi 'B'.",
-    "ui_notes": "Partikel に wajib digunakan untuk waktu berangka (jam, hari, tanggal, tahun). JANGAN gunakan に untuk waktu relatif tanpa angka seperti きょう, あした, まいにち, いま.",
+    "title": "Partikel に (Waktu Aksi)",
+    "meaning": "Partikel 'に' ditempatkan tepat setelah Kata Benda yang menunjukkan waktu. Berfungsi untuk menandai secara persis 'pada jam/tanggal berapa' suatu aksi atau kejadian dilakukan.",
+    "formula_template": "[Waktu Spesifik] に [Kata Kerja]",
+    "ui_notes": "PERINGATAN: Partikel 'に' HANYA digunakan jika waktunya memiliki angka pasti (jam, bulan, tanggal). Anda TIDAK BOLEH menggunakan 'に' untuk penunjuk waktu relatif seperti: besok, kemarin, tadi pagi, hari ini, setiap hari, dsb. (きのう、あした、今日、毎日). Untuk nama hari, partikel 'に' boleh dipakai, boleh juga diabaikan.",
     "examples": [
       {
-        "jp": "6時半に起きます。",
-        "id": "Bangun pukul setengah tujuh."
+        "jp": "6時半に 起きます。",
+        "id": "Bangun PADA pukul setengah tujuh."
       },
       {
-        "jp": "7月2日に日本へ来ました。",
-        "id": "Datang ke Jepang pada tanggal 2 Juli yang lalu."
+        "jp": "7月2日に 日本へ 来ました。",
+        "id": "Datang ke Jepang PADA tanggal 2 Juli yang lalu."
+      },
+      {
+        "jp": "日曜日[に] 奈良へ 行きます。",
+        "id": "PADA hari Minggu pergi ke Nara."
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Keterangan Waktu"
+      "Waktu"
     ]
   },
   {
     "id": "m_bab04_4",
     "chapter": "Bab 04",
     "level": "N5",
-    "title": "A から B まで",
-    "meaning": "Menyatakan titik awal dan titik akhir rentang waktu atau tempat ('dari A sampai B').",
-    "formula_template": "{A} から {B} まで",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "time",
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "time",
-          "place"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan から untuk titik awal dan まで untuk titik akhir batas waktu atau tempat. Dapat diikuti です atau kata kerja.",
-    "ui_notes": "から berarti \"dari\", まで berarti \"sampai\". Keduanya bisa dipakai berpasangan atau berdiri sendiri-sendiri.",
+    "title": "〜から 〜まで (Dari 〜 Sampai 〜)",
+    "meaning": "Partikel 'から' (kara) menunjukkan titik awal (dari), sedangkan 'まで' (made) menunjukkan batas akhir/tenggat (sampai). Keduanya sangat serbaguna dan dapat digunakan untuk batas waktu maupun batas tempat/jarak.",
+    "formula_template": "[Awal] から [Akhir] まで",
+    "ui_notes": "Anda tidak diwajibkan memakai keduanya secara bersamaan (bisa pakai 'から' saja atau 'まで' saja). Keduanya juga bisa langsung disambungkan dengan akhiran 'です' (tanpa kata kerja) untuk sekadar menginformasikan jam operasional.",
     "examples": [
       {
-        "jp": "9時から5時まで勉強します。",
-        "id": "Belajar dari pukul sembilan sampai dengan pukul lima."
+        "jp": "9時から 5時まで 勉強します。",
+        "id": "Belajar DARI pukul 9 SAMPAI DENGAN pukul 5."
       },
       {
-        "jp": "大阪から東京まで3時間かかります。",
-        "id": "Menghabiskan waktu tiga jam dari Osaka sampai di Tokyo."
+        "jp": "9時から 働きます。",
+        "id": "Bekerja DARI pukul 9."
+      },
+      {
+        "jp": "銀行は 9時から 3時までです。",
+        "id": "Bank (buka) DARI pukul 9 SAMPAI pukul 3."
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Titik Awal & Akhir"
+      "Rentang"
     ]
   },
   {
     "id": "m_bab04_5",
     "chapter": "Bab 04",
     "level": "N5",
-    "title": "A と B",
-    "meaning": "Menghubungkan dua kata benda secara setara ('dan').",
-    "formula_template": "{A} と {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "person",
-          "time",
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "person",
-          "time",
-          "place"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan partikel と untuk menggabungkan dua atau lebih kata benda yang setara dalam satu kesatuan daftar tertutup.",
-    "ui_notes": "Partikel と hanya digunakan untuk menyambung KATA BENDA dengan KATA BENDA. Jangan gunakan と untuk menyambung kalimat.",
+    "title": "Partikel と (Dan)",
+    "meaning": "Partikel 'と' (to) digunakan untuk menyambungkan atau menderetkan dua atau lebih Kata Benda yang statusnya setara (paralel). Artinya sama dengan 'dan'.",
+    "formula_template": "[Benda 1] と [Benda 2]",
+    "ui_notes": "Perlu diingat bahwa partikel 'と' ini HANYA bisa menyambungkan sesama Kata Benda. Anda tidak bisa menggunakannya untuk menyambung kalimat, menyambung Kata Kerja, atau Kata Sifat.",
     "examples": [
       {
-        "jp": "銀行の休みは土曜日と日曜日です。",
-        "id": "Hari libur bank adalah hari Sabtu dan hari Minggu."
+        "jp": "銀行の 休みは 土曜日と 日曜日です。",
+        "id": "Hari libur bank adalah hari Sabtu DAN hari Minggu."
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Penghubung"
+      "Kata Hubung"
     ]
   },
   {
     "id": "m_bab04_6",
     "chapter": "Bab 04",
     "level": "N5",
-    "title": "A ね",
-    "meaning": "Partikel akhir kalimat untuk mencari persetujuan, simpati, atau konfirmasi ('ya / kan?').",
-    "formula_template": "{A} ね",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Bubuhkan partikel ね di akhir kalimat pernyataan ketika pembicara mengharapkan persetujuan atau ingin berbagi perasaan yang sama dengan lawan bicara.",
-    "ui_notes": "Partikel ね melunakkan pernyataan dan meminta konfirmasi seperti \"ya?\" atau \"kan?\" dalam bahasa Indonesia.",
+    "title": "Partikel Akhir ね",
+    "meaning": "Partikel 'ね' (ne) dibubuhkan di paling akhir kalimat. Digunakan ketika pembicara ingin mengharapkan persetujuan, menunjukkan simpati, atau sekadar menegaskan/mencocokkan informasi dengan pendengar.",
+    "formula_template": "[Kalimat] + ね",
+    "ui_notes": "Memiliki nuansa yang sangat mirip dengan imbuhan '...ya' atau '...kan' dalam bahasa Indonesia. Partikel ini sangat efektif digunakan dalam percakapan kasual untuk melunakkan intonasi kalimat dan membangun keakraban.",
     "examples": [
       {
-        "jp": "毎日10時まで勉強します。……大変ですね。",
-        "id": "Setiap hari belajar sampai pukul sepuluh. ……O, berat ya."
+        "jp": "毎日 10時まで 勉強します。",
+        "id": "Setiap hari belajar sampai pukul 10."
       },
       {
-        "jp": "山田さんの電話番号は871の6813です。……871の6813ですね。",
-        "id": "Nomor telepon Sdr. Yamada 871-6813. ……871-6813, ya."
+        "jp": "……大変ですね。",
+        "id": "……Berat/susah YA."
+      },
+      {
+        "jp": "電話番号は 871の 6813ですね。",
+        "id": "Nomor teleponnya 871-6813 KAN."
       }
     ],
     "tags": [
       "N5",
-      "Partikel Akhir",
-      "Persetujuan/Penegasan"
+      "Partikel",
+      "Ekspresi"
     ]
   }
 ]

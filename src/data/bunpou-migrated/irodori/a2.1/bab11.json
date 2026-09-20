@@ -1,150 +1,115 @@
 [
   {
-    "id": "i_bab11_1",
-    "chapter": "Bab 11",
+    "id": "irodori_a2.1_bab11_1",
+    "chapter": 11,
     "level": "A2.1",
-    "title": "V-て行きます／来ます — Membawa ...",
-    "meaning": "Pola kalimat untuk menyatakan bahwa seseorang membawa sesuatu saat pergi ke suatu tempat (て行きます) atau saat datang ke suatu tempat (て来ます). Kata kerja bentuk 'て' + '行きます' berarti 'pergi dengan melakukan' atau 'membawa untuk pergi', sedangkan 'て来ます' berarti 'datang dengan melakukan' atau 'membawa untuk datang'. Sangat berguna saat membicarakan persiapan acara atau pesta. Artinya 'Membawa [barang] untuk pergi/datang'.",
-    "formula_template": "{A} 行きます / 来ます",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} 行きます / 来ます' untuk percakapan: Pola kalimat untuk menyatakan bahwa seseorang membawa sesuatu saat pergi ke suatu tempat (て行きます) atau saat dat. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
-    "ui_notes": "Perbedaan: '買って行く' = membeli dan membawa pergi (dari lokasi sekarang ke tempat lain), '買って来る' = membeli dan membawa datang (ke lokasi sekarang). Contoh lain: 傘を持って行ってください (Tolong bawa payungnya pergi), お土産を買って来ました (Saya membeli oleh-oleh dan membawanya ke sini).",
+    "title": "V-て行きます / 来ます",
+    "meaning": "Melakukan [V] lalu Pergi / Datang",
+    "formula_template": "V-て + 行きます / 来ます",
+    "ui_notes": "Pola ini menunjukkan bahwa seseorang melakukan suatu tindakan (V) terlebih dahulu, kemudian langsung pergi atau datang ke suatu tempat dengan membawa hasil tindakan tersebut.\n\n* Contoh penggunaannya: **持って行く** (membawa pergi), **買って行く** (membeli lalu pergi membawa belanjaan), **作って行く** (membuat lalu pergi membawa buatannya).",
     "examples": [
       {
-        "jp": "肉と野菜は、私が買って行きますよ。",
-        "id": "Daging dan sayur, saya yang akan membelinya (untuk dibawa pergi)."
+        "japanese": "肉と野菜は、私が買って行きますよ。",
+        "indonesian": "Saya akan membeli daging dan sayur, lalu membawanya ke sana.",
+        "romaji": "Niku to yasai wa, watashi ga katte ikimasu yo."
       },
       {
-        "jp": "ケーキを持って来ました。",
-        "id": "Saya membawa kue (untuk datang ke sini)."
+        "japanese": "明日のパーティー、私はデザートを持って行きます。",
+        "indonesian": "Saya akan membawa makanan pencuci mulut ke pesta besok.",
+        "romaji": "Ashita no paatii, watashi wa dezaato o motte ikimasu."
+      },
+      {
+        "japanese": "国の料理を作って来ました。どうぞ、食べてください。",
+        "indonesian": "Saya memasak masakan khas negara saya. Silakan dicicipi.",
+        "romaji": "Kuni no ryouri o tsukutte kimashita. Douzo, tabete kudasai."
+      },
+      {
+        "japanese": "飲み物を買って来ましたよ。",
+        "indonesian": "Saya sudah membeli minuman.",
+        "romaji": "Nomimono o katte kimashita yo."
       }
     ],
-    "tags": [
-      "A2",
-      "Membawa",
-      "Arah",
-      "Persiapan"
-    ]
+    "tags": ["irodori", "A2.1", "bab 11", "te-ikimasu", "te-kimasu", "membawa"]
   },
   {
-    "id": "i_bab11_2",
-    "chapter": "Bab 11",
+    "id": "irodori_a2.1_bab11_2",
+    "chapter": 11,
     "level": "A2.1",
-    "title": "N1とN2、どっちがいいですか？ (N1 to N2, docchi ga ii desu ka?) — Mana yang Lebih Baik?",
-    "meaning": "Pola pertanyaan untuk menanyakan pilihan antara dua hal. 'どっち' berarti 'mana' dan digunakan saat membandingkan dua pilihan. 'がいいですか' berarti 'yang bagus/mana yang lebih baik?'. 'どちら' adalah bentuk lebih formal dari 'どっち'. Sangat berguna saat memilih makanan atau barang di toko. Artinya 'N1 dan N2, mana yang lebih baik?'.",
-    "formula_template": "{A} と {B}、どっちがいいですか？",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} と {B}、どっちがいいですか？' untuk percakapan: Pola pertanyaan untuk menanyakan pilihan antara dua hal. 'どっち' berarti 'mana' dan digunakan saat membandingkan. Pastikan 'A' mewakili N1, 'B' mewakili N2.",
-    "ui_notes": "Jika membandingkan lebih dari dua hal, gunakan 'どれ' (yang mana): これとそれとあれ、どれがいいですか？ (Ini, itu, dan itu, mana yang lebih baik?). 'どちら' lebih sopan daripada 'どっち' dan digunakan dalam situasi formal.",
+    "title": "N1 と N2（と）、どっちがいいですか？ / S。どれがいいですか？",
+    "meaning": "Antara N1 dan N2, mana yang lebih baik/disuka?",
+    "formula_template": "N1 と N2 (と)、どっちがいいですか？",
+    "ui_notes": "Saat menanyakan pilihan benda yang disukai lawan bicara, gunakan kata tanya **どっち** (jika ada 2 pilihan) atau **どれ** (jika ada 3 pilihan atau lebih).\n\n* **どっち** adalah bentuk santai/nonformal dari **どちら** (yang mana).\n* Untuk menjajarkan 2 pilihan, gunakan pola **N1とN2** atau kadang ditambahkan **と** lagi di belakang (menjadi **N1とN2と**).",
     "examples": [
       {
-        "jp": "チョコレートケーキとチーズケーキ、どっちがいいですか？",
-        "id": "Kue coklat dan kue keju, mana yang lebih baik?"
+        "japanese": "チョコレートケーキとチーズケーキ、どっちがいいですか？",
+        "indonesian": "Manakah yang Anda sukai? Chocolate cake atau cheese cake?",
+        "romaji": "Chokoreeto keeki to chiizu keeki, dotchi ga ii desu ka?"
       },
       {
-        "jp": "赤と青、どっちがいいですか？",
-        "id": "Merah dan biru, mana yang lebih baik?"
+        "japanese": "お茶、いろいろありますね。どれがいいですか？",
+        "indonesian": "Ada berbagai macam teh, ya. Manakah yang Anda sukai?",
+        "romaji": "Ocha, iroiro arimasu ne. Dore ga ii desu ka?"
+      },
+      {
+        "japanese": "ジュースとお茶と、どちらがいいですか？",
+        "indonesian": "Manakah yang Anda sukai? Jus atau teh (hijau)?",
+        "romaji": "Juusu to ocha to, dochira ga ii desu ka?"
+      },
+      {
+        "japanese": "アイスはチョコとバニラとストロベリー味があります。どれがいいですか？",
+        "indonesian": "Es krimnya ada rasa coklat, vanila, dan stroberi. Manakah yang Anda sukai?",
+        "romaji": "Aisu wa choko to banira to sutoroberii aji ga arimasu. Dore ga ii desu ka?"
       }
     ],
-    "tags": [
-      "A2",
-      "Perbandingan",
-      "Pilihan",
-      "Pertanyaan"
-    ]
+    "tags": ["irodori", "A2.1", "bab 11", "pilihan", "dotchi", "dore"]
   },
   {
-    "id": "i_bab11_3",
-    "chapter": "Bab 11",
+    "id": "irodori_a2.1_bab11_3",
+    "chapter": 11,
     "level": "A2.1",
-    "title": "Nのほうがいいです — N Lebih Baik",
-    "meaning": "Pola untuk menyatakan bahwa satu pilihan lebih baik dari yang lain. 'ほう' berarti 'sisi' atau 'arah', dan 'がいいです' berarti 'yang lebih baik'. Digunakan untuk memberikan pendapat atau rekomendasi saat memilih antara dua hal. Artinya '[N] yang lebih baik'.",
-    "formula_template": "{A} のほうがいいです",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} のほうがいいです' untuk percakapan: Pola untuk menyatakan bahwa satu pilihan lebih baik dari yang lain. 'ほう' berarti 'sisi' atau 'arah', dan 'がいいで. Pastikan 'A' mewakili N.",
-    "ui_notes": "Pola lengkap untuk membandingkan: [A] より [B] のほうが [sifat] です ([B] lebih [sifat] daripada [A]). Contoh: これよりあれのほうが大きいです (Itu lebih besar daripada ini). 'より' menunjukkan standar perbandingan. Dalam percakapan kasual, 'ほう' sering disingkat menjadi 'ほ'.",
+    "title": "N のほうがいいです",
+    "meaning": "Lebih baik [N] / Lebih suka [N]",
+    "formula_template": "Kata Benda (N) + のほうが + いいです",
+    "ui_notes": "Cara ini dipakai untuk menyatakan jawaban/pilihan dari 2 opsi yang ditawarkan.\n\n* Adakalanya kata **のほうが** dilesapkan (tidak diucapkan) sehingga langsung menjadi **Nがいいです**.",
     "examples": [
       {
-        "jp": "塩のほうがいいです。",
-        "id": "Yang lebih baik adalah garam."
+        "japanese": "塩のほうがいいです。",
+        "indonesian": "Saya lebih suka garam.",
+        "romaji": "Shio no hou ga ii desu."
       },
       {
-        "jp": "こちらのほうが安いですよ。",
-        "id": "Yang ini lebih murah lho."
+        "japanese": "Ａ： 肉と魚、どっちがいいですか？\nＢ： 肉がいいです。",
+        "indonesian": "A: Manakah yang Anda sukai? Daging atau ikan?\nB: Saya lebih suka daging.",
+        "romaji": "A: Niku to sakana, dotchi ga ii desu ka?\nB: Niku ga ii desu."
       }
     ],
-    "tags": [
-      "A2",
-      "Perbandingan",
-      "Pilihan",
-      "Rekomendasi"
-    ]
+    "tags": ["irodori", "A2.1", "bab 11", "pilihan", "nouhouga"]
   },
   {
-    "id": "i_bab11_4",
-    "chapter": "Bab 11",
+    "id": "irodori_a2.1_bab11_4",
+    "chapter": 11,
     "level": "A2.1",
-    "title": "何でもいいです — Apa Saja Boleh",
-    "meaning": "Pola untuk menyatakan bahwa tidak ada preferensi khusus atau apapun boleh/diterima. '何でも' berarti 'apa saja', dan 'いいです' berarti 'boleh' atau 'baik'. Sangat berguna saat ditanya pilihan dan tidak ingin repot memilih. Artinya 'Apa saja boleh'.",
-    "formula_template": "何でも いいです",
-    "variables": {},
-    "ai_instruction": "Gunakan pola '何でも いいです' untuk percakapan: Pola untuk menyatakan bahwa tidak ada preferensi khusus atau apapun boleh/diterima. '何でも' berarti 'apa saja', .",
-    "ui_notes": "Variasi: どこでもいい (di mana saja boleh), いつでもいい (kapan saja boleh), だれでもいい (siapa saja boleh). Untuk situasi formal, gunakan 'どちらでも結構です' (sama saja / mana saja baik). Hati-hati menggunakan '何でもいい' karena terkadang dianggap tidak sopan jika terlalu sering digunakan.",
+    "title": "【kata tanya / 疑問詞】でもいいです",
+    "meaning": "[Kata Tanya] pun boleh / terserah",
+    "formula_template": "Kata Tanya + でもいいです",
+    "ui_notes": "Ungkapan ini dipakai untuk menyampaikan bahwa kita tidak memiliki pilihan khusus atau membebaskan pilihan (Apa saja boleh).\n\n* **何（なん）でも** = Apa pun / Apa saja\n* **どっちでも** = Yang mana pun (dari 2 pilihan)\n* **どれでも** = Yang mana pun (dari banyak pilihan)\n* **いつでも** = Kapan pun\n* **だれでも** = Siapa pun\n* **どこでも** = Di mana pun\n* **いくつでも** = Berapa pun",
     "examples": [
       {
-        "jp": "A：何が食べたいですか？ B：何でもいいです。",
-        "id": "A: Mau makan apa? B: Apa saja boleh."
+        "japanese": "Ａ： 何が食べたいですか？\nＢ： 何でもいいです。",
+        "indonesian": "A: Anda ingin makan apa?\nB: Apa pun boleh.",
+        "romaji": "A: Nani ga tabetai desu ka?\nB: Nandemo ii desu."
       },
       {
-        "jp": "A：どれにしますか？ B：何でもいいですよ。",
-        "id": "A: Mau ambil yang mana? B: Apa saja boleh kok."
+        "japanese": "Ａ： チョコレートケーキとチーズケーキ、どっちがいいですか？\nＢ： どっちでもいいです。",
+        "indonesian": "A: Manakah yang Anda sukai? Chocolate cake atau cheese cake?\nB: Yang mana pun boleh.",
+        "romaji": "A: Chokoreeto keeki to chiizu keeki, dotchi ga ii desu ka?\nB: Dotchidemo ii desu."
+      },
+      {
+        "japanese": "Ａ： からあげは、いくつ買いましょうか？\nＢ： いくつでもいいです。",
+        "indonesian": "A: Sebaiknya beli karaage berapa potong, ya?\nB: Berapa pun boleh.",
+        "romaji": "A: Karaage wa, ikutsu kaimashou ka?\nB: Ikutsudemo ii desu."
       }
     ],
-    "tags": [
-      "A2",
-      "Pilihan",
-      "Preferensi",
-      "Kasual"
-    ]
+    "tags": ["irodori", "A2.1", "bab 11", "demo ii desu", "terserah", "kata tanya"]
   }
 ]

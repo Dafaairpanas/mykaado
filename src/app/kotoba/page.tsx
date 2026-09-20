@@ -100,7 +100,7 @@ export default function KotobaPage() {
               onClick={() => setActiveTab("n3")}
               className={`px-5 py-2 rounded-full font-bold text-sm transition-all whitespace-nowrap ${activeTab === "n3" ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]" : "text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-card)]"}`}
             >
-              JLPT N3
+              Sou N3
             </button>
           </div>
         </div>
@@ -113,7 +113,7 @@ export default function KotobaPage() {
                 <div className="w-1.5 h-6 bg-[var(--color-text-main)] rounded-full"></div>
                 <h2 className="text-xl font-extrabold">{source.title}</h2>
               </div>
-              <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 xl:grid-cols-7 gap-3">
+              <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 xl:grid-cols-7 gap-3">
                 {source.chapters.map(chapter => (
                   <button
                     key={chapter.id}

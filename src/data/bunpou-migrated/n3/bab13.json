@@ -4,46 +4,9 @@
     "chapter": "Bab 13",
     "level": "N3",
     "title": "〜ても",
-    "meaning": "meskipun",
+    "meaning": "Pola ini digunakan untuk menyatakan 'meskipun...', 'walaupun...', 'biarpun...'. Artinya, meskipun kondisi A terjadi, hasil atau tindakan B tetap dilakukan atau tetap berlaku. Sering dipakai untuk menyatakan bahwa sesuatu tidak terpengaruh oleh kondisi tertentu. Bentuknya menyesuaikan jenis kata: kata kerja bentuk て + も, kata sifat-i bentuk く + ても, kata sifat-na / kata benda + でも.",
     "formula_template": "{A}ても / {B} 〜くても / {C} 〜でも / {D}でも",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}ても / {B} 〜くても / {C} 〜でも / {D}でも' untuk mengekspresikan: meskipun.",
-    "ui_notes": "meskipun",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk て + も. Contoh: 高い (takai) → 高くても (meskipun mahal). 調べる (shiraberu) → 調べても (meskipun mencari tahu). (2) Kata sifat-i: coret い, + くても. Contoh: 高い (takai) → 高くても (meskipun mahal). 暑い (atsui) → 暑くても (meskipun panas). (3) Kata sifat-na: + でも. Contoh: 元気だ (genki da) → 元気でも (meskipun sehat). (4) Kata benda: + でも. Contoh: 学生だ (gakusei da) → 学生でも (meskipun pelajar). Contoh: 必要なので、高くても買います (karena saya butuh, meskipun mahal tetap saya beli). 調べてもわからなかったので、先生に聞いた (meskipun sudah mencari tahu, saya tidak tahu, jadi saya tanya ke guru).",
     "examples": [
       {
         "jp": "必要なので、高くても買います。",
@@ -64,46 +27,9 @@
     "chapter": "Bab 13",
     "level": "N3",
     "title": "KATA TANYA 〜ても",
-    "meaning": "se...pun",
+    "meaning": "Pola ini menggabungkan kata tanya dengan 〜ても, artinya 'se...pun', 'bagaimanapun...', 'berapa kali pun...'. Menyatakan bahwa tidak peduli seberapa besar/kecil/sering kondisi tertentu, hasilnya tetap sama. Contoh: いくら〜ても (sebanyak apapun), どんなに〜ても (sebagaimanapun), どう〜ても (bagaimanapun), いつ〜ても (kapan pun), だれが〜ても (siapa pun), 何を〜ても (apapun yang dilakukan).",
     "formula_template": "[どんなに / いくら / (dan lain-lain)] [{A}ても / {B} 〜くても / {C} 〜でも / {D}でも] | 例: どんなに〜ても / どう〜ても / いくら〜ても / いつ〜ても / だれが〜ても / 何を〜ても",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[どんなに / いくら / (dan lain-lain)] [{A}ても / {B} 〜くても / {C} 〜でも / {D}でも] | 例: どんなに〜ても / どう〜ても / いくら〜ても / いつ〜ても / だれが〜ても / 何を〜ても' untuk mengekspresikan: se...pun.",
-    "ui_notes": "se...pun",
+    "ui_notes": "Cara membentuk: Kata tanya + 〜ても. Contoh: いくらお酒を飲む (ikura osake o nomu) → いくらお酒を飲んでも (sebanyak apapun minum sake). どんなに暑い (donna ni atsui) → どんなに暑くても (sepanas apapun). Kata tanya yang sering dipakai: いくら (seberapa banyak), どんなに (bagaimanapun), どう (bagaimana), いつ (kapan), だれ (siapa), 何 (apa). Contoh: いくらお酒を飲んでも顔色が変わらない (sebanyak apapun saya minum sake, wajah saya tidak berubah). 私はどんなに暑くても寝るときはクーラーを消して寝ます (sepanas apapun, ketika tidur saya mematikan AC). Pola ini selalu diikuti bentuk ても/でも yang menegaskan 'tidak peduli seberapa pun'.",
     "examples": [
       {
         "jp": "いくらお酒を飲んでも顔色が変わらない。",
@@ -124,22 +50,9 @@
     "chapter": "Bab 13",
     "level": "N3",
     "title": "〜ずに",
-    "meaning": "ungkapan ini terkesan lebih kaku & formal dari pada 〜ないで",
+    "meaning": "Pola ini berarti 'tanpa melakukan...', 'tidak melakukan... lalu...'. Fungsinya sama seperti 〜ないで, tetapi 〜ずに terkesan lebih kaku dan formal. Sering dipakai dalam tulisan resmi, laporan, atau situasi formal. Bentuk ini dibentuk dari kata kerja bentuk negatif ない, dengan mencoret ない dan menggantinya dengan ずに. Pengecualian: する → せずに (bukan しずに).",
     "formula_template": "{A}ない (coret ない) → ずに (※ しない → ✓ せずに / ✗ しずに)",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}ない (coret ない) → ずに (※ しない → ✓ せずに / ✗ しずに)' untuk mengekspresikan: ungkapan ini terkesan lebih kaku & formal dari pada 〜ないで.",
-    "ui_notes": "ungkapan ini terkesan lebih kaku & formal dari pada 〜ないで",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk negatif ない, coret ない, + ずに. Contoh: 使う (tsukau) → 使わない (tsukawanai) → 使わずに (tanpa menggunakan). 歯をみがく (ha o migaku) → みがかない (migakanai) → みがかずに (tanpa menggosok gigi). (2) Pengecualian: する (suru) → しない (shinai) → せずに (sezu ni), bukan しずに. Contoh: 辞書を使わずに書いたので、自信がありません (karena saya menulis tanpa menggunakan kamus, saya tidak percaya diri). 昨夜、歯をみがかずに寝てしまった (semalam saya tertidur tanpa gosok gigi). Perbedaan dengan 〜ないで: maknanya sama, tetapi 〜ずに lebih formal/kaku dan sering dipakai dalam tulisan. Contoh: 朝ごはんを食べずに学校へ行った (pergi ke sekolah tanpa makan pagi).",
     "examples": [
       {
         "jp": "辞書を使わずに書いたので、自信がありません。",

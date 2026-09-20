@@ -6,28 +6,6 @@
     "title": "V-（ら）れます (Pasif ④) — Dibangun/Dibuat",
     "meaning": "Pola kalimat pasif untuk menyatakan bahwa suatu bangunan atau fasilitas dibangun, didirikan, atau dibuat oleh seseorang. Sangat umum digunakan dalam penjelasan tentang fasilitas umum atau sejarah bangunan. Artinya '[Bangunan] di-[V]'.",
     "formula_template": "{A} が {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} が {B}' untuk percakapan: Pola kalimat pasif untuk menyatakan bahwa suatu bangunan atau fasilitas dibangun, didirikan, atau dibuat oleh . Pastikan 'A' mewakili Bangunan/Fasilitas, 'B' mewakili Kata Kerja Pasif.",
     "ui_notes": "Bentuk pasif untuk '建てる' (membangun) adalah '建てられる'. Kata kerja lain yang umum dalam pasif untuk bangunan: 作られる (dibuat), 設計される (didirikan), 改装される (direnovasi). Dalam kalimat pasif, pelaku (arsitek/kontraktor) jarang disebutkan, hanya fokus pada bangunan itu sendiri.",
     "examples": [
       {
@@ -53,19 +31,6 @@
     "title": "V-てあります — Sudah di-V",
     "meaning": "Pola untuk menyatakan hasil dari suatu tindakan yang sudah selesai dan masih terlihat/berlaku. 'V-てあります' menunjukkan bahwa seseorang telah melakukan suatu tindakan, dan hasilnya masih terlihat. Berbeda dengan 'V-ています' yang menunjukkan tindakan sedang berlangsung. Sangat berguna saat menjelaskan persiapan atau pameran. Artinya 'Sudah [di-V] (dan masih dalam keadaan itu)'.",
     "formula_template": "{A} あります",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} あります' untuk percakapan: Pola untuk menyatakan hasil dari suatu tindakan yang sudah selesai dan masih terlihat/berlaku. 'V-てあります' menun. Pastikan 'A' mewakili Kata Kerja Bentuk te.",
     "ui_notes": "Perbedaan: 'V-てあります' (hasil tindakan - fokus pada keadaan) vs 'V-ています' (tindakan berlangsung - fokus pada aktivitas). Contoh: 電気が消してあります (Lampu sudah dimatikan - dalam keadaan mati) vs 電気が消えています (Lampu sedang mati - keadaan alami). 'V-てあります' biasanya menggunakan kata kerja transitif (memerlukan objek).",
     "examples": [
       {
@@ -91,36 +56,6 @@
     "title": "N1だけじゃなくて、N2も〜 (N1 dake janakute, N2 mo ~) — Tidak Hanya N1, Tapi Juga N2",
     "meaning": "Pola untuk menyatakan bahwa tidak hanya satu hal, tetapi juga hal lain yang termasuk. 'だけじゃなくて' berarti 'tidak hanya', dan 'も' berarti 'juga'. Sangat berguna saat menjelaskan berbagai fasilitas atau layanan yang tersedia. Artinya 'Tidak hanya N1, tetapi juga N2'.",
     "formula_template": "{A} だけじゃなくて、{B} も {C}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} だけじゃなくて、{B} も {C}' untuk percakapan: Pola untuk menyatakan bahwa tidak hanya satu hal, tetapi juga hal lain yang termasuk. 'だけじゃなくて' berarti 'tidak. Pastikan 'A' mewakili N1, 'B' mewakili N2, 'C' mewakili Predikat.",
     "ui_notes": "Bentuk formal: だけでなく (dake de naku). Contoh: 本だけでなく、CDも借りられます (Tidak hanya buku, tetapi CD juga bisa dipinjam). 'だけじゃなくて' lebih kasual dan sering digunakan dalam percakapan. Untuk menambahkan lebih dari dua item, gunakan 'も' untuk setiap tambahan.",
     "examples": [
       {
@@ -146,27 +81,6 @@
     "title": "Nなら、〜 (N nara, ~) — Kalau N, ...",
     "meaning": "Pola untuk menyatakan kondisi atau topik tertentu, sering digunakan saat memberikan penjelasan tentang aturan atau kebijakan. 'なら' berarti 'kalau' atau 'mengenai' dan menunjukkan bahwa pembicaraan terfokus pada topik yang disebutkan. Sangat berguna saat menjelaskan aturan perpustakaan. Artinya 'Kalau [N], ...' atau 'Mengenai [N], ...'.",
     "formula_template": "{A} なら、{B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} なら、{B}' untuk percakapan: Pola untuk menyatakan kondisi atau topik tertentu, sering digunakan saat memberikan penjelasan tentang aturan . Pastikan 'A' mewakili Topik, 'B' mewakili Penjelasan.",
     "ui_notes": "'なら' berbeda dengan 'と' dan 'ば' karena digunakan ketika topik sudah disebutkan atau diketahui. Contoh: 学生なら割引があります (Kalau pelajar, ada diskon). Sering digunakan untuk memberikan informasi spesifik tentang topik yang sedang dibicarakan.",
     "examples": [
       {
@@ -192,37 +106,6 @@
     "title": "【kata tanya】V-ても、〜 — Meskipun V di Mana Pun ...",
     "meaning": "Pola untuk menyatakan bahwa sesuatu berlaku tidak peduli bagaimana, di mana, atau kapan. '〜ても' berarti 'meskipun' atau 'bahkan jika', dan dengan kata tanya menjadi 'di mana pun', 'kapan pun', dll. Sangat berguna saat menjelaskan aturan yang fleksibel. Artinya 'Di mana pun [V], [akibat]'.",
     "formula_template": "{A} {B} も、{C}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "C": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} {B} も、{C}' untuk percakapan: Pola untuk menyatakan bahwa sesuatu berlaku tidak peduli bagaimana, di mana, atau kapan. '〜ても' berarti 'meskip. Pastikan 'A' mewakili Kata Tanya, 'B' mewakili Kata Kerja Bentuk te, 'C' mewakili Akibat.",
     "ui_notes": "Contoh dengan kata tanya lain: 誰に聞いても (Tanya siapa pun), 何を食べても (Makan apa pun), どうやっても (Bagaimana pun caranya). '〜ても' dengan kata tanya berarti 'tidak peduli [kata tanya]' atau '[kata tanya] pun'. Sangat berguna untuk menjelaskan aturan yang fleksibel.",
     "examples": [
       {

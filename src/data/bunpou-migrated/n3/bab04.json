@@ -4,32 +4,9 @@
     "chapter": "Bab 04",
     "level": "N3",
     "title": "〜ようにする",
-    "meaning": "digunakan untuk mengungkapkan sebuah usaha, kebiasaan",
+    "meaning": "Pola ini digunakan untuk mengungkapkan sebuah usaha atau kebiasaan yang dilakukan secara sadar dan berkelanjutan. Artinya 'berusaha untuk...', 'membiasakan diri untuk...', 'mengupayakan agar...'. Penekanannya bukan pada hasil akhir, melainkan pada proses usaha yang dilakukan. Sering dipakai untuk menyatakan target pribadi, aturan, atau imbauan. Jika diubah ke bentuk 〜ようにしています, artinya 'saya sedang berusaha/membiasakan diri untuk...' (kebiasaan yang sedang dijalani).",
     "formula_template": "[{A}る / {B}ない] ようにする",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}る / {B}ない] ようにする' untuk mengekspresikan: digunakan untuk mengungkapkan sebuah usaha, kebiasaan.",
-    "ui_notes": "digunakan untuk mengungkapkan sebuah usaha, kebiasaan",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus (bentuk る) + ようにする. Contoh: 歯をみがく (ha o migaku) → 歯をみがくようにする. (2) Kata kerja bentuk negatif (ない形) + ようにする. Contoh: 忘れる (wasureru) → 忘れない (wasurenai) → 忘れないようにする. Pola ini bisa diubah ke bentuk sopan: ようにします, ようにしています (sedang membiasakan), ようにしましょう (mari kita usahakan). Perbedaan dengan 〜ようになる: 〜ようにする menekankan usaha sadar dari pembicara, sedangkan 〜ようになる menekankan perubahan keadaan yang terjadi secara alami atau bertahap.",
     "examples": [
       {
         "jp": "忘れ物をしないようにしましょう。",
@@ -50,32 +27,9 @@
     "chapter": "Bab 04",
     "level": "N3",
     "title": "〜ようになる",
-    "meaning": "jika menggunakan kata kerja potensial, terdapat perubahan dari tidak bisa menjadi bisa",
+    "meaning": "Pola ini digunakan untuk mengungkapkan perubahan keadaan atau kemampuan yang terjadi secara bertahap, alami, atau sebagai hasil dari suatu proses. Artinya 'menjadi bisa...', 'akhirnya menjadi...', 'mulai...'. Jika menggunakan kata kerja potensial, pola ini menunjukkan perubahan dari tidak bisa menjadi bisa. Jika menggunakan kata kerja biasa, pola ini menunjukkan perubahan kebiasaan atau keadaan. Penekanannya pada perubahan itu sendiri, bukan pada usaha sadar (bandingkan dengan 〜ようにする).",
     "formula_template": "[{A}る / {B}れる] ようになる",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}る / {B}れる] ようになる' untuk mengekspresikan: jika menggunakan kata kerja potensial, terdapat perubahan dari tidak bisa menjadi bisa.",
-    "ui_notes": "jika menggunakan kata kerja potensial, terdapat perubahan dari tidak bisa menjadi bisa",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus (bentuk る) + ようになる. Contoh: 作る (tsukuru) → 作るようになる (jadi membuat). (2) Kata kerja bentuk potensial (れる/られる) + ようになる. Contoh: 食べる (taberu) → 食べられる (taberareru) → 食べられるようになる (jadi bisa makan). Pola ini sering dipakai dengan 最近 (akhir-akhir ini), 〜から (sejak...), だんだん (perlahan-lahan). Bentuk sopan: ようになります, ようになりました (sudah menjadi bisa). Perbedaan dengan 〜ようにする: 〜ようになる = perubahan terjadi (tidak menekankan usaha), 〜ようにする = usaha sadar yang dilakukan.",
     "examples": [
       {
         "jp": "最近、納豆が食べられるようになりました。",
@@ -96,42 +50,9 @@
     "chapter": "Bab 04",
     "level": "N3",
     "title": "〜ように",
-    "meaning": "sering digunakan dengan kata kerja potensial; ✓ dan kata kerja yang menyatakan keadaan (bukan keinginan); ✓ keadaan seperti itu lah yang diinginkan oleh pembica",
+    "meaning": "Pola ini digunakan untuk menyatakan tujuan atau harapan, artinya 'supaya...', 'agar...'. Sering digunakan dengan kata kerja potensial dan kata kerja yang menyatakan keadaan (bukan keinginan). Keadaan seperti itulah yang diinginkan oleh pembicara. Berbeda dengan 〜ために yang menekankan niat/keinginan kuat, 〜ように lebih menekankan pada terwujudnya suatu keadaan atau kemampuan. Sering dipakai dalam kalimat perintah, permintaan, atau doa/harapan.",
     "formula_template": "[{A}る / {B}ない / {C}れる] ように",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "C": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}る / {B}ない / {C}れる] ように' untuk mengekspresikan: sering digunakan dengan kata kerja potensial; ✓ dan kata kerja yang menyatakan keadaan (bukan keinginan); ✓ ke.",
-    "ui_notes": "sering digunakan dengan kata kerja potensial; ✓ dan kata kerja yang menyatakan keadaan (bukan keinginan); ✓ keadaan seperti itu lah yang diinginkan oleh pembicara",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus + ように. Contoh: 聞こえる (kikoeru) → 聞こえるように (supaya terdengar). (2) Kata kerja bentuk negatif + ように. Contoh: 忘れる (wasureru) → 忘れない (wasurenai) → 忘れないように (supaya tidak lupa). (3) Kata kerja potensial + ように. Contoh: 食べられる (taberareru) → 食べられるように (supaya bisa makan). Pola ini biasanya diikuti dengan kalimat perintah/permintaan/harapan. Contoh: 忘れないように、手帳に書いておこう (supaya tidak lupa, ayo tulis di agenda). Perbedaan dengan 〜ために: 〜ように + kata kerja keadaan/potensial, 〜ために + kata kerja niat/keinginan kuat.",
     "examples": [
       {
         "jp": "忘れないように、手帳に書いておこう。",
@@ -152,30 +73,9 @@
     "chapter": "Bab 04",
     "level": "N3",
     "title": "〜ために",
-    "meaning": "untuk mewujudkan cita-cita, tujuan & sebuah keinginan yang kuat; ✓ biasanya dengan kata kerja yang mengandung maksud, niat & keinginan (bukan keadaan).",
+    "meaning": "Pola ini digunakan untuk menyatakan tujuan demi mewujudkan cita-cita, tujuan, atau keinginan yang kuat. Artinya 'demi...', 'untuk...', 'karena...'. Biasanya diikuti dengan kata kerja yang mengandung maksud, niat, dan keinginan (bukan kata kerja keadaan). Berbeda dengan 〜ように yang menekankan terwujudnya keadaan, 〜ために menekankan pada tujuan yang ingin dicapai melalui tindakan yang disengaja. Perhatikan bahwa 〜ために juga bisa berarti 'karena' jika diikuti kata benda atau kata sifat-na + な, tetapi pada pola ini fokusnya adalah tujuan.",
     "formula_template": "[{A}る / {B}の] ために",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}る / {B}の] ために' untuk mengekspresikan: untuk mewujudkan cita-cita, tujuan & sebuah keinginan yang kuat; ✓ biasanya dengan kata kerja yang mengandung .",
-    "ui_notes": "untuk mewujudkan cita-cita, tujuan & sebuah keinginan yang kuat; ✓ biasanya dengan kata kerja yang mengandung maksud, niat & keinginan (bukan keadaan).",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus + ために. Contoh: 買う (kau) → 買うために (untuk membeli). (2) Kata benda + の + ために. Contoh: 家族 (kazoku) → 家族のために (untuk keluarga). Pola ini sering diikuti kata kerja yang menyatakan usaha, niat, atau tindakan sengaja. Contoh: 家を買うために貯金をしている (menabung demi membeli rumah). Perbedaan dengan 〜ように: 〜ために + kata kerja niat/keinginan kuat (beli, belajar, bekerja), 〜ように + kata kerja keadaan/potensial (terdengar, bisa makan, tidak lupa).",
     "examples": [
       {
         "jp": "家を買うために貯金をしている。",

@@ -3,212 +3,140 @@
     "id": "m_bab15_1",
     "chapter": "Bab 15",
     "level": "N5",
-    "title": "ABentuk ても いいですか",
-    "meaning": "Ini adalah ungkapan untuk meminta izin (Boleh......?).",
-    "formula_template": "{A} も いいですか",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} も いいですか' untuk menyatakan: Ini adalah ungkapan untuk meminta izin (Boleh......?).. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
-    "ui_notes": "Untuk menjawab tidak memberi izin, bisa dengan menolak secara tidak langsung (すみません、ちょっと……) atau memakai ekspresi larangan (～てはいけません) sambil memberikan alasan.",
+    "title": "〜ても いいですか (Bolehkah... / Meminta Izin)",
+    "meaning": "Pola kalimat ini (gabungan 'Bentuk て' + 'も いいですか') secara harafiah berarti 'Meskipun saya (melakukan X), apakah tidak apa-apa?'. Fungsinya adalah untuk meminta izin, permisi, atau persetujuan kepada lawan bicara.",
+    "formula_template": "[Kata Kerja Bentuk て] も いいですか",
+    "ui_notes": "CARA MENJAWAB: \n- Jika MENGIZINKAN: Balas dengan senyum menggunakan 'ええ、[〜ても]いいですよ' (Ya, silakan/boleh).\n- Jika MENOLAK HALUS: Hindari kalimat larangan kasar. Cukup potong dengan 'すみません、ちょっと…' (Maaf, agak kurang pantas/tidak boleh).\n- Jika MENOLAK KERAS (karena aturan): Gunakan pola larangan mutlak '〜てはいけません' (Lihat materi poin ke-2).",
     "examples": [
       {
         "jp": "写真を 撮っても いいですか。",
-        "id": "Boleh mengambil foto?"
+        "id": "Apakah BOLEH mengambil foto?"
       },
       {
-        "jp": "ここで たばこを 吸っても いいですか。……ええ、［吸っても］ いいですよ。",
-        "id": "Boleh merokok di sini? ……Ya, boleh [merokok]."
+        "jp": "……ええ、[撮っても] いいですよ。",
+        "id": "……Ya, BOLEH [mengambil foto]."
+      },
+      {
+        "jp": "……すみません、ちょっと……。",
+        "id": "……Maaf, agak (tidak boleh, mohon pengertiannya)."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Meminta Izin"
+      "Izin",
+      "Permohonan"
     ]
   },
   {
     "id": "m_bab15_2",
     "chapter": "Bab 15",
     "level": "N5",
-    "title": "ABentuk ては いけません",
-    "meaning": "Ekspresi ini menunjukkan arti larangan (Tidak boleh......).",
-    "formula_template": "{A} は いけません",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} は いけません' untuk menyatakan: Ekspresi ini menunjukkan arti larangan (Tidak boleh......).. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
-    "ui_notes": "Ekspresi ini tidak dapat dipakai oleh bawahan terhadap atasan.",
+    "title": "〜ては いけません (Tidak boleh / Dilarang)",
+    "meaning": "Ekspresi ini (gabungan 'Bentuk て' + 'は いけません') menunjukkan LARANGAN YANG KERAS dan tegas, sering kali berkaitan dengan peraturan yang tidak bisa ditawar ('DILARANG... / TIDAK BOLEH...').",
+    "formula_template": "[Kata Kerja Bentuk て] は いけません",
+    "ui_notes": "SANGAT PERLU DIPERHATIKAN: Nada dari tata bahasa ini sangat konfrontatif jika dipakai dalam percakapan. Oleh karena itu, ekspresi ini DILARANG KERAS dipakai oleh bawahan terhadap atasan/senior. Lebih lazim dipakai pada pengumuman papan peringatan resmi atau digunakan orang dewasa kepada anak-anak/muridnya.",
     "examples": [
       {
         "jp": "ここで たばこを 吸っては いけません。禁煙ですから。",
-        "id": "Tidak boleh merokok di sini. Sebab dilarang merokok."
-      },
-      {
-        "jp": "ここに 入っては いけません。",
-        "id": "Tidak boleh masuk ke sini."
+        "id": "TIDAK BOLEH/DILARANG merokok di sini. Sebab kawasan bebas asap rokok."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Larangan"
+      "Larangan",
+      "Aturan Keras"
     ]
   },
   {
     "id": "m_bab15_3",
     "chapter": "Bab 15",
     "level": "N5",
-    "title": "ABentuk て います (Keadaan & Kebiasaan)",
-    "meaning": "Selain menunjukkan aksi yang sedang berlangsung, pola ini juga menunjukkan keadaan yang berlanjut sebagai hasil dari suatu tindakan di masa lalu (seperti menikah, tahu, punya, tinggal), serta menunjukkan perbuatan dari kebiasaan/pekerjaan yang berlangsung berulang-ulang dalam jangka waktu lama.",
-    "formula_template": "{A} います",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} います' untuk menyatakan: Selain menunjukkan aksi yang sedang berlangsung, pola ini juga menunjukkan keadaan yang berlanjut sebagai hasi. Pastikan 'A' mewakili Kata Kerja (Bentuk て).",
-    "ui_notes": "Bentuk negatif dari 知って います (tahu) adalah 知りません (tidak tahu), BUKAN 知って いません. もって います mempunyai dua arti: sedang memegang dan memiliki.",
+    "title": "〜て います (Keadaan Status & Rutinitas Profesi)",
+    "meaning": "Pola '〜ています' tidak hanya berarti 'sedang berlangsung' (seperti di Bab 14). Pola ini punya DUA FUNGSI MAHA PENTING lainnya, yaitu: (1) Menyatakan sebuah Keadaan Permanen/Status, dan (2) Menyatakan Pekerjaan Rutin/Status Profesi dari waktu ke waktu.",
+    "formula_template": "[Kata Kerja Bentuk て] います / いません",
+    "ui_notes": "(1) Keadaan Status: Wajib dipakai untuk hal yang hasilnya melekat, seperti: Telah menikah (結婚しています), Tahu/Kenal (知っています), Punya (持っています), Domisili (住んでいます). \n**PENGECUALIAN MUTLAK:** Bentuk negatif dari '知っています' BUKAN '知っていません', MELAINKAN '知りません' (Shirimasen / Tidak tahu).\n(2) Profesi: Dipakai jika Anda bekerja atau kuliah menetap (働いています、勉強しています).",
     "examples": [
       {
         "jp": "わたしは 結婚して います。",
-        "id": "Saya telah menikah. (Keadaan)"
+        "id": "Saya (statusnya) SUDAH MENIKAH."
       },
       {
-        "jp": "わたしは 田中さんを 知って います。",
-        "id": "Saya kenal Sdr. Tanaka. (Keadaan)"
+        "jp": "市役所の 電話番号を 知って いますか。",
+        "id": "Apakah (statusnya) TAHU nomor telepon balai kota?"
+      },
+      {
+        "jp": "……いいえ、知りません。",
+        "id": "……Tidak, saya TIDAK TAHU (Pengecualian khusus)."
+      },
+      {
+        "jp": "わたしは カメラを 持って います。",
+        "id": "Saya MEMILIKI (status menyimpan) kamera."
+      },
+      {
+        "jp": "ミラーさんは IMCで 働いて います。",
+        "id": "Sdr. Miller (rutinitas harian/profesinya) BEKERJA di IMC."
+      },
+      {
+        "jp": "IMCは コンピューターソフトを 作って います。",
+        "id": "IMC (rutinitas usahanya) MEMPRODUKSI perangkat lunak komputer."
       }
     ],
     "tags": [
       "N5",
-      "Kata Kerja",
-      "Keadaan",
-      "Kebiasaan"
+      "Tenses",
+      "Status Tetap"
     ]
   },
   {
     "id": "m_bab15_4",
     "chapter": "Bab 15",
     "level": "N5",
-    "title": "Aに B",
-    "meaning": "Partikel に digunakan bersama Kata Kerja tertentu (seperti はいります, すわります, のります, dll) untuk menunjukkan titik/tempat akhir di mana subjek berada setelah melakukan aksi tersebut.",
-    "formula_template": "{A} に {B}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} に {B}' untuk menyatakan: Partikel に digunakan bersama Kata Kerja tertentu (seperti はいります, すわります, のります, dll) untuk menunjukkan titik/tem. Pastikan 'A' mewakili Kata Benda (Tempat), 'B' mewakili Kata Kerja.",
-    "ui_notes": "Partikel に digunakan bersama Kata Kerja tertentu (seperti はいります, すわります, のります, dll) untuk menunjukkan titik/tempat akhir di mana subjek berada setelah melakukan aksi tersebut.",
+    "title": "Tempat に Masuk / Duduk / Naik",
+    "meaning": "Partikel 'に' digunakan bersama dengan kata kerja gerakan tubuh spesifik, seperti: Masuk (入ります), Duduk (座ります), Naik transportasi (乗ります). Fungsinya adalah untuk menyorot 'TITIK MENDARAT' terakhir tempat subjek berada setelah aksinya selesai.",
+    "formula_template": "[Tempat / Titik Pendaratan] に [入ります/座ります/乗ります]",
+    "ui_notes": "Sangat berbeda dengan partikel 'で' (tempat melakukan aktivitas). Di sini, 'に' menyoroti target persinggahan yang seolah-olah Anda menempel padanya layaknya stiker (seperti bangku atau lantai ruangan).",
     "examples": [
       {
-        "jp": "ここに 座っても いいですか。",
-        "id": "Boleh duduk di sini?"
+        "jp": "ここに 入っては いけません。",
+        "id": "Tidak boleh masuk KE sini (Titik landing)."
       },
       {
-        "jp": "ここに 入っては いけません。",
-        "id": "Tidak boleh masuk ke sini."
+        "jp": "ここに 座っても いいですか。",
+        "id": "Boleh duduk DI sini (Menempel pada kursi ini)?"
+      },
+      {
+        "jp": "16番の バスに 乗ります。",
+        "id": "Naik KE [dalam] bus nomor 16."
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Titik Tujuan"
+      "Titik Pendaratan"
     ]
   },
   {
     "id": "m_bab15_5",
     "chapter": "Bab 15",
     "level": "N5",
-    "title": "A に B を C",
-    "meaning": "Partikel に menunjukkan tempat di mana objek (Kata Benda2) berada atau ditempatkan akibat dari melakukan sebuah aksi.",
-    "formula_template": "{A} に {B} を {C}",
-    "variables": {
-      "A": {
-        "type": [
-          "noun",
-          "pronoun"
-        ],
-        "semantic": [
-          "place"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun"
-        ],
-        "semantic": [
-          "object"
-        ]
-      },
-      "C": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} に {B} を {C}' untuk menyatakan: Partikel に menunjukkan tempat di mana objek (Kata Benda2) berada atau ditempatkan akibat dari melakukan sebuah. Pastikan 'A' mewakili Kata Benda1 (Tempat), 'B' mewakili Kata Benda2 (Objek), 'C' mewakili Kata Kerja.",
-    "ui_notes": "Partikel に menunjukkan tempat di mana objek (Kata Benda2) berada atau ditempatkan akibat dari melakukan sebuah aksi.",
+    "title": "Tempat に Objek を Meletakkan / Menulis",
+    "meaning": "Memperluas logika dari poin nomor 4, partikel 'に' juga dipakai untuk menyoroti titik bertengger/titik lengketnya sebuah OBJEK (Benda) akibat dari kata kerja yang Anda lakukan (misalnya: memarkir mobil di tanah, menulis tinta alamat di atas kertas).",
+    "formula_template": "[Tempat Permukaan] に [Objek] を [Kata Kerja (止めます / 書きます)]",
+    "ui_notes": "Saat Anda memarkir mobil, mobil tersebut MENEMPEL dan tertinggal di permukaan tanah tempat tersebut. Itulah alasan kuat mengapa Anda wajib menggunakan 'に' alih-alih 'で'.",
     "examples": [
       {
         "jp": "ここに 車を 止めて ください。",
-        "id": "Hentikan mobil di sini."
+        "id": "Tolong hentikan/parkirkan mobil DI SINI (Melekat di tanah ini)."
       },
       {
         "jp": "ここに 住所を 書いて ください。",
-        "id": "Tuliskan alamat di sini."
+        "id": "Tolong tuliskan alamat DI SINI (Tinta menempel di kotak formulir ini)."
       }
     ],
     "tags": [
       "N5",
       "Partikel",
-      "Lokasi Hasil Tindakan"
+      "Titik Akhir Objek"
     ]
   }
 ]

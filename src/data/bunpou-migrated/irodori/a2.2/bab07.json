@@ -6,33 +6,6 @@
     "title": "〜たら、〜 (~tara, ~) — Kalau Sudah V, Maka ...",
     "meaning": "Pola kondisional untuk menyatakan bahwa jika kondisi tertentu terpenuhi, maka akan terjadi sesuatu. 'たら' adalah bentuk kondisional yang menggunakan bentuk lampau + ら. Digunakan untuk kondisi spesifik, sering dengan nuansa 'setelah' atau 'kalau sudah'. Sangat berguna saat membahas perubahan jadwal acara karena cuaca. Artinya 'Kalau [V1], maka [V2]'.",
     "formula_template": "{A} ら、{B}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "noun",
-          "v1",
-          "v2",
-          "v3",
-          "adj-i",
-          "adj-na"
-        ],
-        "semantic": [
-          "action",
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A} ら、{B}' untuk percakapan: Pola kondisional untuk menyatakan bahwa jika kondisi tertentu terpenuhi, maka akan terjadi sesuatu. 'たら' adala. Pastikan 'A' mewakili Kata Kerja Bentuk Lampau, 'B' mewakili Klausa Akibat.",
     "ui_notes": "Perbedaan dengan 'と' (kondisi umum) dan 'ば' (kondisi hipotetis): 'たら' lebih spesifik dan natural untuk percakapan sehari-hari. Untuk kata sifat: 暑かったら (kalau panas), 安かったら (kalau murah). Untuk kata benda: 学生だったら (kalau pelajar). Dalam kalimat sopan, gunakan 'ましたら' untuk kondisi yang lebih formal.",
     "examples": [
       {
@@ -58,19 +31,6 @@
     "title": "V-（ら）れます — Dilakukan / Di-V",
     "meaning": "Pola kalimat pasif untuk menyatakan bahwa suatu tindakan dilakukan oleh seseorang atau sesuatu. Kata kerja diubah menjadi bentuk pasif dengan menambahkan 'られる' (untuk kelompok 2 & 3) atau aturan khusus untuk kelompok 1. Sangat berguna saat membaca pengumuman acara. Artinya '[Subjek] di-[V]'.",
     "formula_template": "{A}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}' untuk percakapan: Pola kalimat pasif untuk menyatakan bahwa suatu tindakan dilakukan oleh seseorang atau sesuatu. Kata kerja diu. Pastikan 'A' mewakili Kata Kerja Bentuk Pasif.",
     "ui_notes": "Bentuk pasif: Kelompok 1: 書く→書かれる, 話す→話される, 読む→読まれる. Kelompok 2: 食べる→食べられる, 見る→見られる. Kelompok 3: する→される, 来る→来られる. Dalam pengumuman, bentuk pasif sangat umum: 開催される (diadakan), 行われる (dilakukan), 中止される (dibatalkan).",
     "examples": [
       {
@@ -96,19 +56,6 @@
     "title": "V-（られ）ます (Potensial ②) — Dapat V",
     "meaning": "Pola untuk menyatakan kemampuan atau kemungkinan melakukan suatu tindakan (bentuk potensial). Sama seperti Bab 5, tetapi diulang di sini untuk konteks acara wilayah. Kata kerja diubah menjadi bentuk potensial. Sangat berguna saat menjelaskan siapa yang bisa berpartisipasi dalam acara. Artinya 'Dapat [melakukan V]'.",
     "formula_template": "{A}",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '{A}' untuk percakapan: Pola untuk menyatakan kemampuan atau kemungkinan melakukan suatu tindakan (bentuk potensial). Sama seperti Bab. Pastikan 'A' mewakili Kata Kerja Bentuk Potensial.",
     "ui_notes": "Bentuk potensial: Kelompok 1: 行く→行ける (bisa pergi), 飲む→飲める (bisa minum). Kelompok 2: 食べる→食べられる (bisa makan), 見る→見られる (bisa lihat). Kelompok 3: する→できる (bisa lakukan), 来る→来られる (bisa datang). 'できる' adalah bentuk potensial dari 'する' dan sering digunakan sendiri.",
     "examples": [
       {

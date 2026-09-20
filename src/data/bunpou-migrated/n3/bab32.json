@@ -4,32 +4,9 @@
     "chapter": "Bab 32",
     "level": "N3",
     "title": "〜ことになる",
-    "meaning": "menjelaskan sesuatu yang telah ditetapkan bersama (bukan atas keinginan diri sendiri)",
+    "meaning": "Pola ini digunakan untuk menjelaskan sesuatu yang telah ditetapkan, diputuskan, atau ditentukan oleh pihak lain, bukan atas keinginan pembicara sendiri. Artinya 'telah diputuskan bahwa...', 'hasilnya jadi...', 'berakhir dengan...'. Sering mengandung nuansa bahwa pembicara menerima keputusan tersebut. Bentuk 〜ことになっている berarti 'telah diatur/ditetapkan bahwa...' (aturan atau kebiasaan yang berlaku).",
     "formula_template": "[{A}る / {B}ない] 〜ことになる",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}る / {B}ない] 〜ことになる' untuk mengekspresikan: menjelaskan sesuatu yang telah ditetapkan bersama (bukan atas keinginan diri sendiri).",
-    "ui_notes": "menjelaskan sesuatu yang telah ditetapkan bersama (bukan atas keinginan diri sendiri)",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus + ことになる. Contoh: 転勤する (tenkin suru) → 転勤することになりました (diputuskan akan pindah kantor). (2) Kata kerja bentuk negatif + ことになる. Contoh: 行く (iku) → 行かない (ikanai) → 行かないことになった (diputuskan tidak pergi). Contoh pemakaian: 明日、新しい企画についての会議が行われることになっている (besok telah diputuskan akan diadakan rapat mengenai rencana baru). 今度、大阪に転勤することになりました (saya telah diputuskan nanti akan pindah ke kantor di Osaka). Perbedaan dengan 〜ことにする: 〜ことになる = ditetapkan pihak lain/bukan keinginan sendiri, 〜ことにする = memutuskan sendiri. Perbedaan dengan 〜ことになっている: 〜ことになっている = aturan/kebiasaan yang sudah berlaku.",
     "examples": [
       {
         "jp": "明日、新しい企画についての会議が行われることになっている。",
@@ -50,32 +27,9 @@
     "chapter": "Bab 32",
     "level": "N3",
     "title": "〜ことにする",
-    "meaning": "menjelaskan sesuatu yang diputuskan atas keinginan pembicara",
+    "meaning": "Pola ini digunakan untuk menjelaskan sesuatu yang diputuskan atas keinginan atau kebijaksanaan pembicara sendiri. Artinya 'memutuskan untuk...', 'bertekad untuk...'. Berbeda dengan 〜ことになる yang berasal dari keputusan pihak lain, 〜ことにする menekankan bahwa pembicara sendiri yang mengambil keputusan. Bentuk 〜ことにしている berarti 'sudah memutuskan dan menjadikannya kebiasaan'.",
     "formula_template": "[{A}る / {B}ない] 〜ことにする",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}る / {B}ない] 〜ことにする' untuk mengekspresikan: menjelaskan sesuatu yang diputuskan atas keinginan pembicara.",
-    "ui_notes": "menjelaskan sesuatu yang diputuskan atas keinginan pembicara",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus + ことにする. Contoh: ジョギングする (jogingu suru) → ジョギングすることにしています (memutuskan untuk joging). (2) Kata kerja bentuk negatif + ことにする. Contoh: 行く (iku) → 行かない (ikanai) → 行かないことにした (memutuskan tidak pergi). Contoh pemakaian: 毎朝、30分ジョギングすることにしています (saya memutuskan untuk joging selama 30 menit setiap pagi). 「あれ？買い物に行かないの？」「うん、明日行くことにした。」 (eh kamu gak pergi belanja?! Enggak, saya putuskan besok saja). Perbedaan dengan 〜ことになる: 〜ことにする = keputusan sendiri, 〜ことになる = keputusan pihak lain. Perbedaan dengan 〜ようにする: 〜ことにする = memutuskan (keputusan tegas), 〜ようにする = berusaha/membiasakan (usaha).",
     "examples": [
       {
         "jp": "毎朝、30分ジョギングすることにしています。",
@@ -96,64 +50,9 @@
     "chapter": "Bab 32",
     "level": "N3",
     "title": "〜ことは〜が…",
-    "meaning": "...nya sih...",
+    "meaning": "Pola ini digunakan untuk mengakui bahwa sesuatu memang benar, tetapi ada keberatan atau keterbatasan yang menyertainya. Artinya '...nya sih..., tapi...', 'memang..., tetapi...'. Fungsinya menyatakan pengakuan setengah hati: pembicara mengakui fakta A, lalu menambahkan kontras atau kondisi B. Sering dipakai untuk menyampaikan pendapat yang tidak sepenuhnya negatif atau positif.",
     "formula_template": "[{A}ることは {B}る／〜ます / {C} いことは {D} い / {V4} なことは {V5} だ] が／けど／けれど",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "V4": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "V5": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}ることは {B}る／〜ます / {C} いことは {D} い / {V4} なことは {V5} だ] が／けど／けれど' untuk mengekspresikan: ...nya sih....",
-    "ui_notes": "...nya sih...",
+    "ui_notes": "Cara membentuk: (1) Kata kerja bentuk kamus + ことは + kata kerja bentuk yang sama + が/けど. Contoh: 弾ける (hikeru) → 弾けることは弾けますが (bisanya sih bisa). (2) Kata sifat-i + ことは + kata sifat-i yang sama + が/けど. Contoh: 高い (takai) → 高いことは高いけれど (mahalnya sih mahal). (3) Kata sifat-na + な + ことは + kata sifat-na + だ + が/けど. Contoh: 大変だ (taihen da) → 大変なことは大変だが (susahnya sih susah). Contoh pemakaian: ピアノは、弾けることは弾けますが、うまくありません (kalau piano, bisanya sih bisa, tapi tidak jago). このバッグ、高いことは高いけれど、すごく使いやすいです (tas ini, mahalnya sih mahal, tapi enak dipakai). Pola ini selalu mengulang kata yang sama di kedua sisi (A ことは A が). Perbedaan dengan 〜が/けど biasa: 〜ことは〜が lebih menekankan pengakuan setengah hati, bukan sekadar kontras.",
     "examples": [
       {
         "jp": "ピアノは、弾けることは弾けますが、うまくありません。",
@@ -174,48 +73,9 @@
     "chapter": "Bab 32",
     "level": "N3",
     "title": "〜ないことはない",
-    "meaning": "bukannya tidak",
+    "meaning": "Pola ini digunakan untuk menyatakan bahwa sesuatu 'bukannya tidak...', 'bukan berarti tidak...'. Artinya pembicara tidak sepenuhnya menolak, tetapi juga tidak sepenuhnya menerima. Ada kemungkinan atau sebagian kebenaran, meskipun dengan syarat atau keraguan. Sering dipakai untuk menyatakan jawaban yang tidak tegas: 'boleh juga...', 'bisa juga sih...', 'bukan tidak mungkin...'.",
     "formula_template": "[{A}ない / {B}られない / {C} 〜くない / {D} 〜じゃない] 〜ことはない",
-    "variables": {
-      "A": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "B": {
-        "type": [
-          "v1",
-          "v2",
-          "v3"
-        ],
-        "semantic": [
-          "action"
-        ]
-      },
-      "C": {
-        "type": [
-          "adj-i"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      },
-      "D": {
-        "type": [
-          "adj-na"
-        ],
-        "semantic": [
-          "abstract"
-        ]
-      }
-    },
-    "ai_instruction": "Gunakan pola '[{A}ない / {B}られない / {C} 〜くない / {D} 〜じゃない] 〜ことはない' untuk mengekspresikan: bukannya tidak.",
-    "ui_notes": "bukannya tidak",
+    "ui_notes": "Cara membentuk: Kata kerja/kata sifat bentuk negatif + ことはない. (1) Kata kerja bentuk negatif + ことはない. Contoh: 食べる (taberu) → 食べない (tabenai) → 食べないことはない (bukannya tidak makan). (2) Kata kerja bentuk potensial negatif + ことはない. Contoh: 間に合う (maniau) → 間に合わない (maniawanai) → 間に合わないことはない (bukannya tidak bisa keburu). (3) Kata sifat-i negatif + ことはない. Contoh: 高くない (takakunai) → 高くないことはない (bukannya tidak mahal). (4) Kata sifat-na/kata benda negatif + ことはない. Contoh: 嫌いじゃない (kirai ja nai) → 嫌いじゃないことはない (bukannya tidak benci). Contoh pemakaian: 鶏肉は、食べないことはないですが、あまり好きではありません (kalau daging ayam, bukan berarti tidak makan, tapi saya kurang suka). 走れば間に合わないことはないよ。急ごう！ (kalau kita lari, bukan tidak mungkin akan keburu, ayo cepetan!). Pola ini sering dipakai untuk jawaban yang ambigu atau setengah-setengah. Perbedaan dengan 〜ないことはない dan 〜ことはない (tidak perlu): 〜ないことはない = bukannya tidak (double negative), 〜ことはない = tidak perlu.",
     "examples": [
       {
         "jp": "鶏肉は、食べないことはないですが、あまり好きではありません。",
