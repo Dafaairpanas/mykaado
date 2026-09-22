@@ -25,14 +25,14 @@ const COLORS = [
 ];
 
 export default function SettingsPage() {
-  const [theme, setTheme] = useState("dark");
-  const [style, setStyle] = useState("modern");
+  const [theme, setTheme] = useState("light");
+  const [style, setStyle] = useState("neobrutalism");
   const [color, setColor] = useState("matcha");
 
   useEffect(() => {
     // Load initial from html element attributes
-    setTheme(document.documentElement.getAttribute("data-theme") || "dark");
-    setStyle(document.documentElement.getAttribute("data-style") || "modern");
+    setTheme(document.documentElement.getAttribute("data-theme") || "light");
+    setStyle(document.documentElement.getAttribute("data-style") || "neobrutalism");
     setColor(document.documentElement.getAttribute("data-color") || "matcha");
   }, []);
 

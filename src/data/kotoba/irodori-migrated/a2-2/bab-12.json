@@ -337,8 +337,8 @@
   },
   {
     "id": "ir-a2-2-12-025",
-    "kanji": "便利（な）",
-    "kana": "べんり（な）",
+    "kanji": "便利",
+    "kana": "べんり",
     "romaji": "benri(na)",
     "meaning": "praktis",
     "level": "N3",
@@ -421,8 +421,8 @@
   },
   {
     "id": "ir-a2-2-12-031",
-    "kanji": "簡単（な）",
-    "kana": "かんたん（な）",
+    "kanji": "簡単",
+    "kana": "かんたん",
     "romaji": "kantan(na)",
     "meaning": "mudah / sederhana",
     "level": "N2",
@@ -1513,8 +1513,8 @@
   },
   {
     "id": "ir-a2-2-12-109",
-    "kanji": "複雑（な）",
-    "kana": "ふくざつ（な）",
+    "kanji": "複雑",
+    "kana": "ふくざつ",
     "romaji": "fukuzatsu(na)",
     "meaning": "rumit",
     "level": "N2",

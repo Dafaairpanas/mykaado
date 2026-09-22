@@ -20,6 +20,28 @@ function shuffleArray<T>(arr: T[]): T[] {
   return a;
 }
 
+// Helper to render Japanese text where Kana is faded if Kanji is present
+function renderKanjiWithFadedKana(text: string | undefined | null) {
+  if (!text) return null;
+  const hasKanji = /[\u4E00-\u9FAF\u3400-\u4DBF]/.test(text);
+  if (!hasKanji) return <>{text}</>;
+
+  const parts = text.split(/([\u4E00-\u9FAF\u3400-\u4DBF]+)/);
+  
+  return (
+    <>
+      {parts.map((part, i) => {
+        if (/^[\u4E00-\u9FAF\u3400-\u4DBF]+$/.test(part)) {
+          return <span key={i}>{part}</span>;
+        } else if (part) {
+          return <span key={i} className="opacity-40">{part}</span>;
+        }
+        return null;
+      })}
+    </>
+  );
+}
+
 // We read this from localStorage that was saved in /flashcard/setup
 interface FlashcardConfig {
   selectedDecks: string[];
@@ -308,7 +330,7 @@ export default function FlashcardPage() {
                 const jp = c.title || c.kanji || c.kana;
                 return (
                   <div key={idx} className="flex flex-col bg-[var(--color-bg-nav)] p-3 rounded border-[length:var(--bw-sm)] border-[var(--color-border-main)]">
-                    <span className="font-bold text-lg jp-text">{jp}</span>
+                    <span className="font-bold text-lg jp-text">{renderKanjiWithFadedKana(jp)}</span>
                     <span className="text-sm text-[var(--color-text-muted)]">{c.meaning}</span>
                   </div>
                 );
@@ -344,7 +366,7 @@ export default function FlashcardPage() {
       frontContent = <div className="text-xl md:text-3xl font-bold text-center leading-tight opacity-75 px-4">{bunpouCard.meaning}</div>;
       backContent = (
         <div className="flex flex-col items-center justify-center w-full h-full overflow-y-auto pb-4">
-          <div className="text-3xl md:text-5xl jp-text mb-4 text-center font-bold text-[var(--color-accent)]">{bunpouCard.title}</div>
+          <div className="text-3xl md:text-5xl jp-text mb-4 text-center font-bold text-[var(--color-accent)]">{renderKanjiWithFadedKana(bunpouCard.title)}</div>
           <div className="text-lg md:text-xl text-[var(--color-text-main)] mb-6 text-center font-mono bg-[var(--color-bg-nav)] px-4 py-2 rounded-lg">{bunpouCard.formula_template}</div>
           
           {bunpouCard.ui_notes && (
@@ -370,7 +392,7 @@ export default function FlashcardPage() {
       // Standard
       frontContent = (
         <>
-          <div className="text-3xl md:text-5xl jp-text mb-6 text-center font-bold">{bunpouCard.title}</div>
+          <div className="text-3xl md:text-5xl jp-text mb-6 text-center font-bold">{renderKanjiWithFadedKana(bunpouCard.title)}</div>
           <div className="text-lg md:text-xl text-[var(--color-text-main)] font-mono bg-[var(--color-bg-nav)] px-4 py-2 rounded-lg border-[length:var(--bw-sm)] border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]">
             {bunpouCard.formula_template}
           </div>
@@ -408,14 +430,14 @@ export default function FlashcardPage() {
     frontContent = <div className="text-3xl md:text-5xl font-bold text-center leading-tight opacity-75">{card.meaning}</div>;
     backContent = (
       <>
-        <div className="text-5xl md:text-7xl jp-text mb-4 text-center">{card.kanji || ("kana" in card && card.kana)}</div>
+        <div className="text-5xl md:text-7xl jp-text mb-4 text-center">{renderKanjiWithFadedKana(card.kanji || ("kana" in card && card.kana))}</div>
         <div className="text-xl md:text-2xl text-[var(--color-text-muted)] mb-2 text-center opacity-60">
            {isKanjiData ? (card as any).onyomi : ("kana" in card ? card.kana : "")}
         </div>
       </>
     );
   } else if (studyMode === "Kanji") {
-    frontContent = <div className="text-6xl md:text-8xl jp-text mb-4 text-center">{card.kanji || ("kana" in card && card.kana)}</div>;
+    frontContent = <div className="text-6xl md:text-8xl jp-text mb-4 text-center">{renderKanjiWithFadedKana(card.kanji || ("kana" in card && card.kana))}</div>;
     backContent = (
       <>
         <div className="text-2xl md:text-4xl jp-text font-normal mb-4 text-center opacity-70">
@@ -428,7 +450,7 @@ export default function FlashcardPage() {
     );
   } else if (studyMode === "Mix") {
     // Show kanji if exists, else kana
-    frontContent = <div className="text-6xl md:text-8xl jp-text mb-4 text-center">{card.kanji ? card.kanji : ("kana" in card ? card.kana : "")}</div>;
+    frontContent = <div className="text-6xl md:text-8xl jp-text mb-4 text-center">{renderKanjiWithFadedKana(card.kanji ? card.kanji : ("kana" in card ? card.kana : ""))}</div>;
     backContent = (
       <>
         {card.kanji && "kana" in card && (
@@ -452,7 +474,7 @@ export default function FlashcardPage() {
     );
     backContent = (
       <>
-        <div className="text-4xl md:text-6xl jp-text mb-4 text-center">{card.kanji || ("kana" in card && card.kana)}</div>
+        <div className="text-4xl md:text-6xl jp-text mb-4 text-center">{renderKanjiWithFadedKana(card.kanji || ("kana" in card && card.kana))}</div>
         <div className="text-xl md:text-2xl text-[var(--color-text-main)] mb-2 text-center opacity-70">
            {card.meaning}
         </div>
@@ -462,7 +484,7 @@ export default function FlashcardPage() {
     // Standard Mode (JP -> ID)
     frontContent = (
       <>
-        <div className="text-6xl md:text-8xl jp-text mb-4 text-center">{card.kanji || ("kana" in card && card.kana)}</div>
+        <div className="text-6xl md:text-8xl jp-text mb-4 text-center">{renderKanjiWithFadedKana(card.kanji || ("kana" in card && card.kana))}</div>
         {card.kanji && "kana" in card && (
           <div className="text-xl text-[var(--color-text-muted)] jp-text font-normal text-center opacity-60">{card.kana}</div>
         )}

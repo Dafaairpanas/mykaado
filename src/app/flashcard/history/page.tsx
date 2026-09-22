@@ -51,11 +51,12 @@ export default function HistoryPage() {
         // Sort ascending by time
         cardHistories.sort((a, b) => new Date(a.reviewed_at).getTime() - new Date(b.reviewed_at).getTime());
         
+        // Show all cards in the log for better visibility
+        unmasteredCards.set(cardId, cardHistories[cardHistories.length - 1]);
+
         const prog = progressMap.get(cardId);
         if (prog && prog.unmastered !== undefined) {
-          if (prog.unmastered) {
-            unmasteredCards.set(cardId, cardHistories[cardHistories.length - 1]);
-          } else {
+          if (!prog.unmastered) {
             masteredCards.add(cardId);
           }
         } else {
@@ -73,8 +74,6 @@ export default function HistoryPage() {
 
           if (firstReviewOfLatestSession.rating === 4) {
             masteredCards.add(cardId);
-          } else {
-            unmasteredCards.set(cardId, cardHistories[cardHistories.length - 1]);
           }
         }
       });
@@ -98,10 +97,11 @@ export default function HistoryPage() {
 
       map.forEach((card, id) => {
         let bucket = "";
-        if (id.startsWith("minna")) bucket = "minna";
-        else if (id.startsWith("ir_")) bucket = "irodori";
-        else if (id.startsWith("n3_")) bucket = "n3";
-        else if (id.startsWith("kj_")) bucket = "kanji";
+        const idLower = id.toLowerCase();
+        if (idLower.startsWith("mn-") || idLower.startsWith("minna") || idLower.startsWith("bp_minna")) bucket = "minna";
+        else if (idLower.startsWith("ir-") || idLower.startsWith("ir_") || idLower.startsWith("bp_irodori")) bucket = "irodori";
+        else if (idLower.startsWith("n3-") || idLower.startsWith("n3_") || idLower.startsWith("bp_n3")) bucket = "n3";
+        else if (idLower.startsWith("kj-") || idLower.startsWith("kj_")) bucket = "kanji";
 
         if (bucket) {
           statsMap[bucket].total++;
@@ -205,25 +205,25 @@ export default function HistoryPage() {
       </div>
 
       {/* Tabs */}
-      <div className="flex flex-wrap gap-2 mb-8 bg-[var(--color-bg-card)] p-2 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] w-fit">
+      <div className="flex flex-col sm:flex-row gap-2 mb-8 bg-[var(--color-bg-card)] p-2 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] w-full sm:w-fit">
         <Button 
           variant={activeTab === "log" ? "primary" : "default"}
           onClick={() => setActiveTab("log")}
-          className="font-bold flex gap-2 items-center"
+          className="font-bold flex gap-2 items-center justify-center flex-1"
         >
           <BookOpen className="w-4 h-4" /> Review Log
         </Button>
         <Button 
           variant={activeTab === "progress" ? "primary" : "default"}
           onClick={() => setActiveTab("progress")}
-          className="font-bold flex gap-2 items-center"
+          className="font-bold flex gap-2 items-center justify-center flex-1"
         >
           <BarChart2 className="w-4 h-4" /> Progress
         </Button>
         <Button 
           variant={activeTab === "activity" ? "primary" : "default"}
           onClick={() => setActiveTab("activity")}
-          className="font-bold flex gap-2 items-center"
+          className="font-bold flex gap-2 items-center justify-center flex-1"
         >
           <Activity className="w-4 h-4" /> 7-Day Activity
         </Button>
@@ -234,8 +234,8 @@ export default function HistoryPage() {
         <div className="flex flex-col gap-4">
           <div className="flex justify-between items-center bg-[var(--color-bg-card)] p-4 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]">
             <div className="flex gap-2 items-center">
-              <span className="font-bold text-sm bg-[var(--color-bg-main)] px-3 py-2 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)]">
-                Kartu Belum Dikuasai
+              <span className="font-bold text-sm bg-[var(--color-bg-main)] px-3 py-2 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] whitespace-nowrap">
+                Semua Riwayat Kartu
               </span>
             </div>
             <Button variant="primary" onClick={handlePracticeFiltered} disabled={filteredLog.length === 0}>
@@ -243,8 +243,8 @@ export default function HistoryPage() {
             </Button>
           </div>
 
-          <div className="bg-[var(--color-bg-card)] rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] overflow-hidden shadow-[2px_2px_0px_var(--color-shadow-main)]">
-            <div className="max-h-[600px] overflow-y-auto">
+          <div className="bg-[var(--color-bg-card)] rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] overflow-x-auto shadow-[2px_2px_0px_var(--color-shadow-main)]">
+            <div className="max-h-[600px] overflow-y-auto min-w-[600px]">
               <table className="w-full text-left border-collapse">
                 <thead className="bg-[var(--color-bg-nav)] sticky top-0 z-10 border-b-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)]">
                   <tr>

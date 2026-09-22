@@ -118,8 +118,8 @@
   },
   {
     "id": "mn-08-010",
-    "kanji": "綺麗",
-    "kana": "きれい（な）",
+    "kanji": "きれい",
+    "kana": "きれい",
     "romaji": "kirei(na)",
     "meaning": "Cantik / bersih",
     "level": "-",
@@ -144,8 +144,8 @@
   },
   {
     "id": "mn-08-012",
-    "kanji": "素敵",
-    "kana": "すてき（な）",
+    "kanji": "すてき",
+    "kana": "すてき",
     "romaji": "suteki(na)",
     "meaning": "Bagus",
     "level": "-",
@@ -236,7 +236,7 @@
   {
     "id": "mn-08-019",
     "kanji": "賑やか",
-    "kana": "にぎやか（な）",
+    "kana": "にぎやか",
     "romaji": "nigiyaka(na)",
     "meaning": "Ramai",
     "level": "-",
@@ -327,7 +327,7 @@
   {
     "id": "mn-08-026",
     "kanji": "暇",
-    "kana": "ひま（な）",
+    "kana": "ひま",
     "romaji": "hima(na)",
     "meaning": "Senggang",
     "level": "-",
@@ -366,7 +366,7 @@
   {
     "id": "mn-08-029",
     "kanji": "元気",
-    "kana": "げんき（な）",
+    "kana": "げんき",
     "romaji": "genki(na)",
     "meaning": "Sehat",
     "level": "N4",
@@ -521,8 +521,8 @@
   },
   {
     "id": "mn-08-041",
-    "kanji": "新設（な）",
-    "kana": "しんせつ（な）",
+    "kanji": "新設",
+    "kana": "しんせつ",
     "romaji": "shinsetsu(na)",
     "meaning": "Baik hati ( Tidak untuk sendiri )",
     "level": "N3",
@@ -561,7 +561,7 @@
   {
     "id": "mn-08-044",
     "kanji": "静か",
-    "kana": "しずか（な）",
+    "kana": "しずか",
     "romaji": "shizuka(na)",
     "meaning": "Sunyi / tenang",
     "level": "N2",
@@ -665,7 +665,7 @@
   {
     "id": "mn-08-052",
     "kanji": "便利",
-    "kana": "べんり（な）",
+    "kana": "べんり",
     "romaji": "benri(na)",
     "meaning": "Praktis",
     "level": "N3",
@@ -691,7 +691,7 @@
   {
     "id": "mn-08-054",
     "kanji": "有名",
-    "kana": "ゆうめい（な）",
+    "kana": "ゆうめい",
     "romaji": "yuumei(na)",
     "meaning": "Terkenal",
     "level": "N4",

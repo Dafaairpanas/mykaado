@@ -54,7 +54,7 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{
             __html: `
               try {
-                let theme = localStorage.getItem('theme') || 'dark';
+                let theme = localStorage.getItem('theme') || 'light';
                 let style = localStorage.getItem('style') || 'neobrutalism';
                 let color = localStorage.getItem('color') || 'matcha';
                 

@@ -327,7 +327,7 @@
   {
     "id": "mn-09-026",
     "kanji": "下手な",
-    "kana": "へた（な）",
+    "kana": "へた",
     "romaji": "heta(na)",
     "meaning": "Tidak pandai , tidak pintar , bodoh",
     "level": "N4",
@@ -392,7 +392,7 @@
   {
     "id": "mn-09-031",
     "kanji": "嫌いな",
-    "kana": "きらい（な）",
+    "kana": "きらい",
     "romaji": "kirai(na)",
     "meaning": "Benci",
     "level": "-",
@@ -405,7 +405,7 @@
   {
     "id": "mn-09-032",
     "kanji": "好きな",
-    "kana": "すき（な）",
+    "kana": "すき",
     "romaji": "suki(na)",
     "meaning": "Suka , gemar",
     "level": "N3",
@@ -509,7 +509,7 @@
   {
     "id": "mn-09-040",
     "kanji": "上手な",
-    "kana": "じょうず（な）",
+    "kana": "じょうず",
     "romaji": "jouzu(na)",
     "meaning": "Pandai , pintar",
     "level": "N4",
