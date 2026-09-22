@@ -21,8 +21,8 @@ function shuffleArray<T>(arr: T[]): T[] {
 }
 
 // Helper to render Japanese text where Kana is faded if Kanji is present
-function renderKanjiWithFadedKana(text: string | undefined | null) {
-  if (!text) return null;
+function renderKanjiWithFadedKana(text: string | undefined | null | boolean) {
+  if (typeof text !== 'string' || !text) return null;
   const hasKanji = /[\u4E00-\u9FAF\u3400-\u4DBF]/.test(text);
   if (!hasKanji) return <>{text}</>;
 
