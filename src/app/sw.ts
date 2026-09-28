@@ -34,7 +34,10 @@ const precacheUrls = [
   '/ringkasan',
   '/renshuu',
   '/settings'
-].map(url => ({ url, revision: process.env.NEXT_PUBLIC_APP_VERSION || 'v1' }));
+].map(url => ({ url, revision: process.env.NEXT_PUBLIC_APP_VERSION || 'v2' }));
+
+// Precache the offline page
+precacheUrls.push({ url: '/~offline', revision: process.env.NEXT_PUBLIC_APP_VERSION || 'v2' });
 
 const serwist = new Serwist({
   precacheEntries: [...(self.__SW_MANIFEST || []), ...precacheUrls],
@@ -42,6 +45,16 @@ const serwist = new Serwist({
   clientsClaim: true,
   navigationPreload: true,
   runtimeCaching: customCache,
+  fallbacks: {
+    entries: [
+      {
+        url: "/~offline",
+        matcher({ request }) {
+          return request.destination === "document";
+        },
+      },
+    ],
+  },
 });
 
 serwist.addEventListeners();
