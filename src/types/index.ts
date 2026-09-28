@@ -29,6 +29,7 @@ export interface BunpouItem {
   title: string;
   meaning: string;
   formula_template: string;
+  ui_notes?: string;
   variables: Record<string, any>;
   examples: { jp: string; id: string }[];
   tags: string[];

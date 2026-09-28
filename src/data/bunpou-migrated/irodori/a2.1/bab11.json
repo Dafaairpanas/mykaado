@@ -9,23 +9,23 @@
     "ui_notes": "Pola ini menunjukkan bahwa seseorang melakukan suatu tindakan (V) terlebih dahulu, kemudian langsung pergi atau datang ke suatu tempat dengan membawa hasil tindakan tersebut.\n\n* Contoh penggunaannya: **持って行く** (membawa pergi), **買って行く** (membeli lalu pergi membawa belanjaan), **作って行く** (membuat lalu pergi membawa buatannya).",
     "examples": [
       {
-        "japanese": "肉と野菜は、私が買って行きますよ。",
-        "indonesian": "Saya akan membeli daging dan sayur, lalu membawanya ke sana.",
+        "jp": "肉と野菜は、私が買って行きますよ。",
+        "id": "Saya akan membeli daging dan sayur, lalu membawanya ke sana.",
         "romaji": "Niku to yasai wa, watashi ga katte ikimasu yo."
       },
       {
-        "japanese": "明日のパーティー、私はデザートを持って行きます。",
-        "indonesian": "Saya akan membawa makanan pencuci mulut ke pesta besok.",
+        "jp": "明日のパーティー、私はデザートを持って行きます。",
+        "id": "Saya akan membawa makanan pencuci mulut ke pesta besok.",
         "romaji": "Ashita no paatii, watashi wa dezaato o motte ikimasu."
       },
       {
-        "japanese": "国の料理を作って来ました。どうぞ、食べてください。",
-        "indonesian": "Saya memasak masakan khas negara saya. Silakan dicicipi.",
+        "jp": "国の料理を作って来ました。どうぞ、食べてください。",
+        "id": "Saya memasak masakan khas negara saya. Silakan dicicipi.",
         "romaji": "Kuni no ryouri o tsukutte kimashita. Douzo, tabete kudasai."
       },
       {
-        "japanese": "飲み物を買って来ましたよ。",
-        "indonesian": "Saya sudah membeli minuman.",
+        "jp": "飲み物を買って来ましたよ。",
+        "id": "Saya sudah membeli minuman.",
         "romaji": "Nomimono o katte kimashita yo."
       }
     ],
@@ -41,23 +41,23 @@
     "ui_notes": "Saat menanyakan pilihan benda yang disukai lawan bicara, gunakan kata tanya **どっち** (jika ada 2 pilihan) atau **どれ** (jika ada 3 pilihan atau lebih).\n\n* **どっち** adalah bentuk santai/nonformal dari **どちら** (yang mana).\n* Untuk menjajarkan 2 pilihan, gunakan pola **N1とN2** atau kadang ditambahkan **と** lagi di belakang (menjadi **N1とN2と**).",
     "examples": [
       {
-        "japanese": "チョコレートケーキとチーズケーキ、どっちがいいですか？",
-        "indonesian": "Manakah yang Anda sukai? Chocolate cake atau cheese cake?",
+        "jp": "チョコレートケーキとチーズケーキ、どっちがいいですか？",
+        "id": "Manakah yang Anda sukai? Chocolate cake atau cheese cake?",
         "romaji": "Chokoreeto keeki to chiizu keeki, dotchi ga ii desu ka?"
       },
       {
-        "japanese": "お茶、いろいろありますね。どれがいいですか？",
-        "indonesian": "Ada berbagai macam teh, ya. Manakah yang Anda sukai?",
+        "jp": "お茶、いろいろありますね。どれがいいですか？",
+        "id": "Ada berbagai macam teh, ya. Manakah yang Anda sukai?",
         "romaji": "Ocha, iroiro arimasu ne. Dore ga ii desu ka?"
       },
       {
-        "japanese": "ジュースとお茶と、どちらがいいですか？",
-        "indonesian": "Manakah yang Anda sukai? Jus atau teh (hijau)?",
+        "jp": "ジュースとお茶と、どちらがいいですか？",
+        "id": "Manakah yang Anda sukai? Jus atau teh (hijau)?",
         "romaji": "Juusu to ocha to, dochira ga ii desu ka?"
       },
       {
-        "japanese": "アイスはチョコとバニラとストロベリー味があります。どれがいいですか？",
-        "indonesian": "Es krimnya ada rasa coklat, vanila, dan stroberi. Manakah yang Anda sukai?",
+        "jp": "アイスはチョコとバニラとストロベリー味があります。どれがいいですか？",
+        "id": "Es krimnya ada rasa coklat, vanila, dan stroberi. Manakah yang Anda sukai?",
         "romaji": "Aisu wa choko to banira to sutoroberii aji ga arimasu. Dore ga ii desu ka?"
       }
     ],
@@ -73,13 +73,13 @@
     "ui_notes": "Cara ini dipakai untuk menyatakan jawaban/pilihan dari 2 opsi yang ditawarkan.\n\n* Adakalanya kata **のほうが** dilesapkan (tidak diucapkan) sehingga langsung menjadi **Nがいいです**.",
     "examples": [
       {
-        "japanese": "塩のほうがいいです。",
-        "indonesian": "Saya lebih suka garam.",
+        "jp": "塩のほうがいいです。",
+        "id": "Saya lebih suka garam.",
         "romaji": "Shio no hou ga ii desu."
       },
       {
-        "japanese": "Ａ： 肉と魚、どっちがいいですか？\nＢ： 肉がいいです。",
-        "indonesian": "A: Manakah yang Anda sukai? Daging atau ikan?\nB: Saya lebih suka daging.",
+        "jp": "Ａ： 肉と魚、どっちがいいですか？\nＢ： 肉がいいです。",
+        "id": "A: Manakah yang Anda sukai? Daging atau ikan?\nB: Saya lebih suka daging.",
         "romaji": "A: Niku to sakana, dotchi ga ii desu ka?\nB: Niku ga ii desu."
       }
     ],
@@ -95,18 +95,18 @@
     "ui_notes": "Ungkapan ini dipakai untuk menyampaikan bahwa kita tidak memiliki pilihan khusus atau membebaskan pilihan (Apa saja boleh).\n\n* **何（なん）でも** = Apa pun / Apa saja\n* **どっちでも** = Yang mana pun (dari 2 pilihan)\n* **どれでも** = Yang mana pun (dari banyak pilihan)\n* **いつでも** = Kapan pun\n* **だれでも** = Siapa pun\n* **どこでも** = Di mana pun\n* **いくつでも** = Berapa pun",
     "examples": [
       {
-        "japanese": "Ａ： 何が食べたいですか？\nＢ： 何でもいいです。",
-        "indonesian": "A: Anda ingin makan apa?\nB: Apa pun boleh.",
+        "jp": "Ａ： 何が食べたいですか？\nＢ： 何でもいいです。",
+        "id": "A: Anda ingin makan apa?\nB: Apa pun boleh.",
         "romaji": "A: Nani ga tabetai desu ka?\nB: Nandemo ii desu."
       },
       {
-        "japanese": "Ａ： チョコレートケーキとチーズケーキ、どっちがいいですか？\nＢ： どっちでもいいです。",
-        "indonesian": "A: Manakah yang Anda sukai? Chocolate cake atau cheese cake?\nB: Yang mana pun boleh.",
+        "jp": "Ａ： チョコレートケーキとチーズケーキ、どっちがいいですか？\nＢ： どっちでもいいです。",
+        "id": "A: Manakah yang Anda sukai? Chocolate cake atau cheese cake?\nB: Yang mana pun boleh.",
         "romaji": "A: Chokoreeto keeki to chiizu keeki, dotchi ga ii desu ka?\nB: Dotchidemo ii desu."
       },
       {
-        "japanese": "Ａ： からあげは、いくつ買いましょうか？\nＢ： いくつでもいいです。",
-        "indonesian": "A: Sebaiknya beli karaage berapa potong, ya?\nB: Berapa pun boleh.",
+        "jp": "Ａ： からあげは、いくつ買いましょうか？\nＢ： いくつでもいいです。",
+        "id": "A: Sebaiknya beli karaage berapa potong, ya?\nB: Berapa pun boleh.",
         "romaji": "A: Karaage wa, ikutsu kaimashou ka?\nB: Ikutsudemo ii desu."
       }
     ],

@@ -9,13 +9,13 @@
     "ui_notes": "Ungkapan ini digunakan untuk memberikan **saran atau anjuran ringan** kepada lawan bicara (misalnya saran soal kesehatan).\n\n* Digabungkan dengan kata kerja bentuk kamus.",
     "examples": [
       {
-        "japanese": "よく眠れないときは、ぬるいお風呂にゆっくり入るといいですよ。",
-        "indonesian": "Ketika tidak dapat tidur nyenyak, sebaiknya bersantai sambil mandi berendam di air hangat.",
+        "jp": "よく眠れないときは、ぬるいお風呂にゆっくり入るといいですよ。",
+        "id": "Ketika tidak dapat tidur nyenyak, sebaiknya bersantai sambil mandi berendam di air hangat.",
         "romaji": "Yoku nemurenai toki wa, nurui ofuro ni yukkuri hairu to ii desu yo."
       },
       {
-        "japanese": "Ａ： よく眠れないときは、どうすればいいですか？\nＢ： 静かな音楽を聞くといいですよ。",
-        "indonesian": "A: Apa yang sebaiknya saya lakukan saat tidak bisa tidur nyenyak?\nB: Sebaiknya mendengarkan musik yang tenang.",
+        "jp": "Ａ： よく眠れないときは、どうすればいいですか？\nＢ： 静かな音楽を聞くといいですよ。",
+        "id": "A: Apa yang sebaiknya saya lakukan saat tidak bisa tidur nyenyak?\nB: Sebaiknya mendengarkan musik yang tenang.",
         "romaji": "A: Yoku nemurenai toki wa, dou sureba ii desu ka?\nB: Shizukana ongaku o kiku to ii desu yo."
       }
     ],
@@ -31,18 +31,18 @@
     "ui_notes": "Pola **すぎます / すぎる** digunakan untuk menunjukkan aksi atau kondisi yang *berlebihan dari batas sewajarnya*. Biasanya bernuansa negatif.\n\n* **Cara pakai**: Coret **ます**, lalu gabung. Contoh yang sering dipakai: **食べすぎる** (Terlalu banyak makan), **飲みすぎる** (Terlalu banyak minum), **働きすぎる** (Terlalu banyak bekerja).",
     "examples": [
       {
-        "japanese": "昨日、飲みすぎました。",
-        "indonesian": "Kemarin saya minum terlalu banyak.",
+        "jp": "昨日、飲みすぎました。",
+        "id": "Kemarin saya minum terlalu banyak.",
         "romaji": "Kinou, nomisugimashita."
       },
       {
-        "japanese": "食べすぎて、お腹が痛いです。",
-        "indonesian": "Saya sakit perut karena terlalu banyak makan.",
+        "jp": "食べすぎて、お腹が痛いです。",
+        "id": "Saya sakit perut karena terlalu banyak makan.",
         "romaji": "Tabesugite, onaka ga itai desu."
       },
       {
-        "japanese": "スマホの画面を見すぎて、目が痛くなりました。",
-        "indonesian": "Mata saya menjadi sakit karena terlalu banyak menatap layar ponsel.",
+        "jp": "スマホの画面を見すぎて、目が痛くなりました。",
+        "id": "Mata saya menjadi sakit karena terlalu banyak menatap layar ponsel.",
         "romaji": "Sumaho no gamen o misugite, me ga itaku narimashita."
       }
     ],
@@ -58,18 +58,18 @@
     "ui_notes": "Pola ini dipakai ketika kita ingin **memberikan contoh** dari banyak kegiatan yang kita lakukan, tanpa harus menyebutkan semuanya secara detail. Pola ini seakan mengatakan *\"Misalnya ya V1, atau V2...\"*\n\n* **Cara membuat**: Tambahkan **り** pada kata kerja *Bentuk-ta*.\n* Di akhir kalimat *wajib* ditutup dengan kata **します** (atau bentuk modifikasinya seperti *しています*, *するようにしています*).",
     "examples": [
       {
-        "japanese": "ジョギングしたり、ときどき家でヨガをしたりしてます。",
-        "indonesian": "Saya joging dan kadang-kadang melakukan yoga di rumah.",
+        "jp": "ジョギングしたり、ときどき家でヨガをしたりしてます。",
+        "id": "Saya joging dan kadang-kadang melakukan yoga di rumah.",
         "romaji": "Jogingu shitari, tokidoki ie de yoga o shitari shitemasu."
       },
       {
-        "japanese": "Ａ： 健康のために、何か気をつけていますか？\nＢ： ジムに行ったり、ウォーキングをしたりしています。",
-        "indonesian": "A: Adakah sesuatu yang Anda lakukan untuk menjaga kesehatan?\nB: Saya pergi berolahraga ke gym dan melakukan walking (jalan santai).",
+        "jp": "Ａ： 健康のために、何か気をつけていますか？\nＢ： ジムに行ったり、ウォーキングをしたりしています。",
+        "id": "A: Adakah sesuatu yang Anda lakukan untuk menjaga kesehatan?\nB: Saya pergi berolahraga ke gym dan melakukan walking (jalan santai).",
         "romaji": "A: Kenkou no tame ni, nani ka ki o tsukete imasu ka?\nB: Jimu ni ittari, uookingu o shitari shite imasu."
       },
       {
-        "japanese": "休みは、テレビを見たり、音楽を聞いたりして、ゆっくり過ごします。",
-        "indonesian": "Saya bersantai di hari libur, misalnya dengan menonton tv dan mendengarkan musik.",
+        "jp": "休みは、テレビを見たり、音楽を聞いたりして、ゆっくり過ごします。",
+        "id": "Saya bersantai di hari libur, misalnya dengan menonton tv dan mendengarkan musik.",
         "romaji": "Yasumi wa, terebi o mitari, ongaku o kiitari shite, yukkuri sugoshimasu."
       }
     ],
@@ -85,18 +85,18 @@
     "ui_notes": "Ungkapan ini menunjukkan **upaya yang disadari/disengaja** (habit) untuk mengubah atau menjaga suatu kebiasaan. Sangat cocok dipakai saat menceritakan gaya hidup sehat atau tekad.\n\n* **Positif**: V-る ようにしています (Berusaha/membiasakan untuk ...)\n* **Negatif**: V-ない ようにしています (Berusaha untuk *tidak* ...)",
     "examples": [
       {
-        "japanese": "できるだけ、野菜をたくさん食べるようにしています。",
-        "indonesian": "Saya berusaha sedapat mungkin untuk selalu banyak makan sayuran.",
+        "jp": "できるだけ、野菜をたくさん食べるようにしています。",
+        "id": "Saya berusaha sedapat mungkin untuk selalu banyak makan sayuran.",
         "romaji": "Dekiru dake, yasai o takusan taberu you ni shite imasu."
       },
       {
-        "japanese": "健康のために、食べすぎないようにしています。",
-        "indonesian": "Untuk alasan kesehatan, saya berusaha untuk tidak makan terlalu banyak.",
+        "jp": "健康のために、食べすぎないようにしています。",
+        "id": "Untuk alasan kesehatan, saya berusaha untuk tidak makan terlalu banyak.",
         "romaji": "Kenkou no tame ni, tabesuginai you ni shite imasu."
       },
       {
-        "japanese": "Ａ： 健康のために、何か気をつけていますか？\nＢ： 私は、できるだけ、早く寝るようにしています。\nＣ： 私は、ストレスをためないようにしています。",
-        "indonesian": "A: Adakah hal yang Anda lakukan untuk menjaga kesehatan?\nB: Saya berusaha sedapat mungkin untuk tidur lebih awal.\nC: Saya berusaha agar tidak menumpuk stres.",
+        "jp": "Ａ： 健康のために、何か気をつけていますか？\nＢ： 私は、できるだけ、早く寝るようにしています。\nＣ： 私は、ストレスをためないようにしています。",
+        "id": "A: Adakah hal yang Anda lakukan untuk menjaga kesehatan?\nB: Saya berusaha sedapat mungkin untuk tidur lebih awal.\nC: Saya berusaha agar tidak menumpuk stres.",
         "romaji": "A: Kenkou no tame ni, nani ka ki o tsukete imasu ka?\nB: Watashi wa, dekiru dake, hayaku neru you ni shite imasu.\nC: Watashi wa, sutoresu o tamenai you ni shite imasu."
       }
     ],

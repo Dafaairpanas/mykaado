@@ -4,9 +4,9 @@
     "chapter": "Bab 08",
     "level": "A1",
     "title": "【tempat】でV-ます ([Tempat] de V-masu)",
-    "meaning": "Pola kalimat untuk menyatakan lokasi terjadinya suatu aktivitas atau tindakan. Partikel 'で' menunjukkan tempat di mana suatu kegiatan dilakukan. Berbeda dengan 'に' yang menunjukkan lokasi keberadaan, 'で' menunjukkan lokasi aktivitas. Artinya 'melakukan [aktivitas] di [tempat]'.",
+    "meaning": "Pola kalimat buat ngasih tau di mana kita ngelakuin suatu aktivitas. Partikel 'で' nunjukin tempat kegiatannya. Beda ya sama 'に' yang buat nunjukin tempat keberadaan, kalau 'で' khusus buat tempat aktivitas. Artinya 'ngelakuin [aktivitas] di [tempat]'.",
     "formula_template": "{A} で {B}",
-    "ui_notes": "Perbedaan penting: 'で' untuk aktivitas (tempat melakukan sesuatu), 'に' untuk keberadaan (tempat benda/orang berada). Contoh: 食堂で食べます (Makan di kantin - aktivitas) vs 食堂にいます (Berada di kantin - keberadaan).",
+    "ui_notes": "Bedanya yang penting nih: 'で' buat aktivitas (tempat ngelakuin sesuatu), kalau 'に' buat keberadaan (tempat benda/orang ada). Contoh: 食堂で食べます (Makan di kantin - aktivitas) vs 食堂にいます (Lagi di kantin - keberadaan).",
     "examples": [
       {
         "jp": "ここで着替えます。",
@@ -30,9 +30,9 @@
     "chapter": "Bab 08",
     "level": "A1",
     "title": "【orang】は【tempat】にいます ([Orang] wa [tempat] ni imasu)",
-    "meaning": "Pola kalimat untuk menyatakan keberadaan seseorang atau makhluk hidup di suatu tempat. 'に' menunjukkan lokasi, dan 'います' berarti 'ada' (untuk orang/hewan). Berbeda dengan 'あります' yang digunakan untuk benda mati. Artinya '[Orang] ada di [tempat]'.",
+    "meaning": "Pola kalimat buat ngasih tau keberadaan orang atau hewan di suatu tempat. 'に' nunjukin tempatnya, terus 'います' artinya 'ada' (khusus makhluk hidup). Beda sama 'あります' yang buat benda mati ya. Artinya '[Orang/hewan] ada di [tempat]'.",
     "formula_template": "{A} は {B} に います",
-    "ui_notes": "Gunakan 'います' untuk orang dan hewan. Gunakan 'あります' untuk benda mati dan tanaman (meskipun tanaman hidup, secara gramatikal dianggap benda mati dalam konteks ini). Untuk pertanyaan, tambahkan 'か' di akhir: 山田さんは食堂にいますか？ (Apakah Yamada ada di kantin?).",
+    "ui_notes": "Ingat ya, pakai 'います' khusus buat orang sama hewan. Kalau benda mati atau tanaman pakai 'あります'. Kalau mau nanya, tinggal tambahin 'か' di belakang: 山田さんは食堂にいますか？ (Pak Yamada ada di kantin nggak?).",
     "examples": [
       {
         "jp": "山田さんは食堂にいます。",
@@ -56,9 +56,9 @@
     "chapter": "Bab 08",
     "level": "A1",
     "title": "【benda】は【ここ/そこ/あそこ】にあります ([Benda] wa [koko/soko/asoko] ni arimasu)",
-    "meaning": "Pola kalimat untuk menyatakan letak suatu benda menggunakan kata penunjuk tempat. 'ここ' (di sini - dekat pembicara), 'そこ' (di situ - dekat lawan bicara), 'あそこ' (di sana - jauh dari keduanya). Digunakan untuk menunjukkan lokasi benda dengan lebih spesifik. Artinya '[Benda] ada di [sini/situ/sana]'.",
+    "meaning": "Pola kalimat buat nunjukin letak benda pakai kata tunjuk tempat. 'ここ' (di sini - deket yang ngomong), 'そこ' (di situ - deket lawan bicara), 'あそこ' (di sana - jauh dari dua-duanya). Biar lebih jelas letaknya di mana.",
     "formula_template": "{A} は {B} に あります",
-    "ui_notes": "Perbedaan: 'ここ' (ini tempat saya/bicara), 'そこ' (tempat di dekat lawan bicara), 'あそこ' (tempat jauh dari keduanya). 'どこ' (di mana) untuk pertanyaan. Contoh: はさみはどこにありますか？ (Di mana gunting?). Untuk benda di dalam ruangan, bisa gunakan 'こちら/そちら/あちら' untuk lebih sopan.",
+    "ui_notes": "Inget bedanya: 'ここ' (di sini), 'そこ' (di situ), 'あそこ' (di sana). Kalau mau nanya pakai 'どこ' (di mana). Contoh: はさみはどこにありますか？ (Gunting ada di mana?). Kalau di dalam ruangan, bisa pakai 'こちら/そちら/あちら' biar lebih sopan.",
     "examples": [
       {
         "jp": "はさみはそこにあります。",
@@ -82,9 +82,9 @@
     "chapter": "Bab 08",
     "level": "A1",
     "title": "Nの【posisi】にあります (N no [posisi] ni arimasu)",
-    "meaning": "Pola kalimat untuk menyatakan lokasi benda secara lebih spesifik dengan menunjukkan posisi relatif terhadap benda lain. 'の' menghubungkan benda dengan posisinya. Posisi bisa berupa: 上 (ue - atas), 下 (shita - bawah), 中 (naka - dalam), 前 (mae - depan), 後ろ (ushiro - belakang), 横 (yoko - samping), dll.",
+    "meaning": "Pola kalimat buat ngasih tau lokasi benda lebih detail dengan nyebutin posisinya dibanding benda lain. Partikel 'の' dipakai buat nyambungin bendanya sama posisinya. Posisinya bisa macem-macem kayak: 上 (ue - atas), 下 (shita - bawah), 中 (naka - dalam), 前 (mae - depan), 後ろ (ushiro - belakang), 横 (yoko - samping), dll.",
     "formula_template": "{A} の {B} に {C} が あります",
-    "ui_notes": "Posisi yang umum: 上 (ue - atas), 下 (shita - bawah), 中 (naka - dalam), 前 (mae - depan), 後ろ (ushiro - belakang), 横 (yoko - samping), 隣 (tonari - di samping/sebelah), 間 (aida - di antara). Untuk pertanyaan, gunakan: どこにありますか？ (Di mana ada?).",
+    "ui_notes": "Posisi yang sering dipakai: 上 (atas), 下 (bawah), 中 (dalam), 前 (depan), 後ろ (belakang), 横 (samping), 隣 (tonari - sebelah), 間 (aida - di antara). Kalau nanya, pakainya: どこにありますか？ (Ada di mana?).",
     "examples": [
       {
         "jp": "引き出しの中にあります。",

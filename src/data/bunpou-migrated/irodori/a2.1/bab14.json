@@ -9,28 +9,28 @@
     "ui_notes": "Pola penyambung menggunakan Bentuk-te ini ternyata tidak hanya berfungsi untuk menyambung kalimat saja, tetapi juga bisa berfungsi sebagai **penyebab atau alasan** dari bagian kalimat selanjutnya. Pola ini juga sering dipakai saat meminta maaf beserta alasannya.\n\n### 🔧 Cara Membentuk:\n* **Kata Benda**: Tambahkan **で** (Contoh: 事故で = Karena kecelakaan)\n* **Kata Sifat-ナ**: Tambahkan **で** (Contoh: 仕事が大変で = Karena pekerjaannya parah/sulit)\n* **Kata Sifat-イ**: Ubah 'i' jadi **くて** (Contoh: 体の具合が悪くて = Karena kondisi badan buruk)\n* **Kata Kerja**: Ubah menjadi **Bentuk-te** (Contoh: 休んで = Karena libur/absen, atau 混んでいて = Karena sedang macet)",
     "examples": [
       {
-        "japanese": "道が混んでいて、ぜんぜん動きません。",
-        "indonesian": "Lalu lintasnya padat (karena macet) dan sama sekali tidak bergerak.",
+        "jp": "道が混んでいて、ぜんぜん動きません。",
+        "id": "Lalu lintasnya padat (karena macet) dan sama sekali tidak bergerak.",
         "romaji": "Michi ga konde ite, zenzen ugokimasen."
       },
       {
-        "japanese": "昨日は、休んですみませんでした。",
-        "indonesian": "Saya mohon maaf karena kemarin mengambil cuti (absen).",
+        "jp": "昨日は、休んですみませんでした。",
+        "id": "Saya mohon maaf karena kemarin mengambil cuti (absen).",
         "romaji": "Kinou wa, yasunde sumimasen deshita."
       },
       {
-        "japanese": "事故で、電車が遅れています。",
-        "indonesian": "Keretanya terlambat karena ada kecelakaan.",
+        "jp": "事故で、電車が遅れています。",
+        "id": "Keretanya terlambat karena ada kecelakaan.",
         "romaji": "Jiko de, densha ga okurete imasu."
       },
       {
-        "japanese": "道が複雑で、よくわかりません。",
-        "indonesian": "Saya tersasar karena jalannya ruwet.",
+        "jp": "道が複雑で、よくわかりません。",
+        "id": "Saya tersasar karena jalannya ruwet.",
         "romaji": "Michi ga fukuzatsu de, yoku wakarimasen."
       },
       {
-        "japanese": "熱があって、会社を休みました。",
-        "indonesian": "Saya tidak masuk kantor karena demam.",
+        "jp": "熱があって、会社を休みました。",
+        "id": "Saya tidak masuk kantor karena demam.",
         "romaji": "Netsu ga atte, kaisha o yasumimashita."
       }
     ],
@@ -46,18 +46,18 @@
     "ui_notes": "Kata sambung **それで** digunakan untuk menghubungkan dua kalimat, di mana **Kalimat 1** merupakan sebab atau alasan dari **Kalimat 2**.\n\n* Artinya sangat mirip dengan \"Oleh karena itu\" atau \"Maka dari itu\".",
     "examples": [
       {
-        "japanese": "これから病院に行きます。それで、少し遅刻します。",
-        "indonesian": "Saya akan ke rumah sakit sekarang. Karena itu, saya akan sedikit terlambat.",
+        "jp": "これから病院に行きます。それで、少し遅刻します。",
+        "id": "Saya akan ke rumah sakit sekarang. Karena itu, saya akan sedikit terlambat.",
         "romaji": "Kore kara byouin ni ikimasu. Sore de, sukoshi chikoku shimasu."
       },
       {
-        "japanese": "家に財布を忘れました。これから取りに帰ります。それで、少し遅れます。",
-        "indonesian": "Dompet saya tertinggal di rumah. Sekarang saya akan kembali ke rumah untuk mengambilnya. Karena itu, saya datang agak terlambat.",
+        "jp": "家に財布を忘れました。これから取りに帰ります。それで、少し遅れます。",
+        "id": "Dompet saya tertinggal di rumah. Sekarang saya akan kembali ke rumah untuk mengambilnya. Karena itu, saya datang agak terlambat.",
         "romaji": "Ie ni saifu o wasuremashita. Kore kara tori ni kaerimasu. Sore de, sukoshi okuremasu."
       },
       {
-        "japanese": "Ａ： すみません。昨日から熱があります。それで、今日は1日休みたいんですが…。\nＢ： わかりました。お大事に。",
-        "indonesian": "A: Maaf, saya demam sejak kemarin. Karena itu, saya izin tidak masuk hari ini...\nB: Baik, saya mengerti. Semoga lekas sembuh.",
+        "jp": "Ａ： すみません。昨日から熱があります。それで、今日は1日休みたいんですが…。\nＢ： わかりました。お大事に。",
+        "id": "A: Maaf, saya demam sejak kemarin. Karena itu, saya izin tidak masuk hari ini...\nB: Baik, saya mengerti. Semoga lekas sembuh.",
         "romaji": "A: Sumimasen. Kinou kara netsu ga arimasu. Sore de, kyou wa ichinichi yasumitain desu ga...\nB: Wakarimashita. Odaiji ni."
       }
     ],
@@ -73,18 +73,18 @@
     "ui_notes": "Ungkapan yang digunakan untuk **meminta izin** melakukan sesuatu kepada lawan bicara.\n\n* Saat memberikan izin, lawan bicara bisa merespons dengan: **どうぞ** (Silakan), **わかりました** (Baik, saya mengerti), atau **いいですよ** (Tentu saja boleh).",
     "examples": [
       {
-        "japanese": "トイレに行って来てもいいですか？",
-        "indonesian": "Bolehkah saya permisi ke toilet?",
+        "jp": "トイレに行って来てもいいですか？",
+        "id": "Bolehkah saya permisi ke toilet?",
         "romaji": "Toire ni itte kite mo ii desu ka?"
       },
       {
-        "japanese": "Ａ： あのう、ちょっと休憩してもいいですか？\nＢ： どうぞ。",
-        "indonesian": "A: Maaf, bolehkah saya beristirahat sebentar?\nB: Silakan.",
+        "jp": "Ａ： あのう、ちょっと休憩してもいいですか？\nＢ： どうぞ。",
+        "id": "A: Maaf, bolehkah saya beristirahat sebentar?\nB: Silakan.",
         "romaji": "A: Anou, chotto kyuukei shite mo ii desu ka?\nB: Douzo."
       },
       {
-        "japanese": "Ａ： ちょっと、質問してもいいですか？\nＢ： すみませんが、あとにしてもらえませんか？",
-        "indonesian": "A: Maaf, bolehkah saya bertanya?\nB: Maaf, bisakah nanti saja (bertanyanya)?",
+        "jp": "Ａ： ちょっと、質問してもいいですか？\nＢ： すみませんが、あとにしてもらえませんか？",
+        "id": "A: Maaf, bolehkah saya bertanya?\nB: Maaf, bisakah nanti saja (bertanyanya)?",
         "romaji": "A: Chotto, shitsumon shite mo ii desu ka?\nB: Sumimasen ga, ato ni shite moraemasen ka?"
       }
     ],
@@ -100,13 +100,13 @@
     "ui_notes": "Versi yang **lebih sopan** dari pola **～てもいいですか？**. Sangat cocok digunakan untuk meminta izin kepada atasan atau orang yang dihormati di tempat kerja.",
     "examples": [
       {
-        "japanese": "明日の午後、早退してもいいでしょうか？",
-        "indonesian": "Apakah besok siang saya boleh izin pulang lebih awal?",
+        "jp": "明日の午後、早退してもいいでしょうか？",
+        "id": "Apakah besok siang saya boleh izin pulang lebih awal?",
         "romaji": "Ashita no gogo, soutai shite mo ii deshou ka?"
       },
       {
-        "japanese": "Ａ： すみません。ちょっと質問してもいいでしょうか？\nＢ： はい、何ですか？",
-        "indonesian": "A: Maaf, apakah saya boleh bertanya?\nB: Ya, ada apa?",
+        "jp": "Ａ： すみません。ちょっと質問してもいいでしょうか？\nＢ： はい、何ですか？",
+        "id": "A: Maaf, apakah saya boleh bertanya?\nB: Ya, ada apa?",
         "romaji": "A: Sumimasen. Chotto shitsumon shite mo ii deshou ka?\nB: Hai, nan desu ka?"
       }
     ],
@@ -122,18 +122,18 @@
     "ui_notes": "Ungkapan ini menunjukkan **kewajiban** atau sesuatu yang *mau tidak mau harus dilakukan*, terlepas dari keinginan diri sendiri.\n\n* **Cara membuat**: Ubah kata kerja ke *Bentuk-nai*, coret **ない**-nya, lalu tambahkan **なければなりません**.\n  * (Contoh: 行く → 行か(ない) + なければなりません = 行かなければなりません)\n* Jika berbicara dengan bentuk biasa (casual), gunakan **～なければならない**.\n* Ketika menyatakan alasan (misal ingin pulang cepat *karena* harus V), orang Jepang sering menambahkan **んです** sehingga bentuknya menjadi **～なければならないんです**.",
     "examples": [
       {
-        "japanese": "ちょっと、役所に行かなければならないんです。",
-        "indonesian": "Saya harus pergi ke Balai Kota.",
+        "jp": "ちょっと、役所に行かなければならないんです。",
+        "id": "Saya harus pergi ke Balai Kota.",
         "romaji": "Chotto, yakusho ni ikanakereba naranain desu."
       },
       {
-        "japanese": "Ａ： すみません。明日の午後、早退してもいいでしょうか？ 病院に行かなければならないんです。\nＢ： わかりました。",
-        "indonesian": "A: Maaf, bolehkah besok siang saya izin pulang lebih awal? Karena saya harus ke rumah sakit.\nB: Baik, saya mengerti.",
+        "jp": "Ａ： すみません。明日の午後、早退してもいいでしょうか？ 病院に行かなければならないんです。\nＢ： わかりました。",
+        "id": "A: Maaf, bolehkah besok siang saya izin pulang lebih awal? Karena saya harus ke rumah sakit.\nB: Baik, saya mengerti.",
         "romaji": "A: Sumimasen. Ashita no gogo, soutai shite mo ii deshou ka? Byouin ni ikanakereba naranain desu.\nB: Wakarimashita."
       },
       {
-        "japanese": "今日はガスの点検があって、午前中は家にいなければなりません。",
-        "indonesian": "Pagi ini saya harus berada di rumah, karena hari ini akan ada pemeriksaan layanan gas.",
+        "jp": "今日はガスの点検があって、午前中は家にいなければなりません。",
+        "id": "Pagi ini saya harus berada di rumah, karena hari ini akan ada pemeriksaan layanan gas.",
         "romaji": "Kyou wa gasu no tenken ga atte, gozenchuu wa ie ni inakereba narimasen."
       }
     ],
@@ -149,13 +149,13 @@
     "ui_notes": "Akhiran **～んです** (tanpa が) digunakan secara lugas untuk **memberikan penjelasan** atau **menyatakan alasan kuat** kepada lawan bicara (seperti alasan untuk meminta izin cuti).\n\n* Di bab ini, polanya akan banyak digabung dengan *Bentuk Kamus* atau *Bentuk Keharusan (～なければならないんです)*.",
     "examples": [
       {
-        "japanese": "東京から、国の友だちが来るんです。",
-        "indonesian": "Teman (senegara) saya akan datang ke sini dari Tokyo.",
+        "jp": "東京から、国の友だちが来るんです。",
+        "id": "Teman (senegara) saya akan datang ke sini dari Tokyo.",
         "romaji": "Toukyou kara, kuni no tomodachi ga kurun desu."
       },
       {
-        "japanese": "Ａ： すみません。来週の月曜日、お休みを取ってもいいでしょうか？ 市役所に行かなければならないんです。\nＢ： わかりました。",
-        "indonesian": "A: Maaf, apakah hari Senin depan saya boleh mengambil cuti? Karena saya harus ke Balai Kota.\nB: Baik, saya mengerti.",
+        "jp": "Ａ： すみません。来週の月曜日、お休みを取ってもいいでしょうか？ 市役所に行かなければならないんです。\nＢ： わかりました。",
+        "id": "A: Maaf, apakah hari Senin depan saya boleh mengambil cuti? Karena saya harus ke Balai Kota.\nB: Baik, saya mengerti.",
         "romaji": "A: Sumimasen. Raishuu no getsuyoubi, oyasumi o totte mo ii deshou ka? Shiyakusho ni ikanakereba naranain desu.\nB: Wakarimashita."
       }
     ],

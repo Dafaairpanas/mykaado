@@ -1,0 +1,49 @@
+[
+  {
+    "id": "verb_te_form",
+    "title": "Perubahan Kata Kerja: Bentuk -TE",
+    "description": "Cara mengubah kata kerja ke bentuk -te.",
+    "rules": [
+      {"group": "Grup 1", "rule": "う、つ、る ➔ って (u, tsu, ru ➔ tte)", "example": "買う ➔ 買って"},
+      {"group": "Grup 1", "rule": "む、ぶ、ぬ ➔ んで (mu, bu, nu ➔ nde)", "example": "飲む ➔ 飲んで"},
+      {"group": "Grup 1", "rule": "く ➔ いて (ku ➔ ite), ぐ ➔ いで (gu ➔ ide)", "example": "書く ➔ 書いて (*Kecuali 行く ➔ 行って)"},
+      {"group": "Grup 1", "rule": "す ➔ して (su ➔ shite)", "example": "話す ➔ 話して"},
+      {"group": "Grup 2", "rule": "Coret る ➔ + て (ru ➔ te)", "example": "食べる ➔ 食べて"},
+      {"group": "Grup 3", "rule": "する ➔ して, 来る (くる) ➔ 来て (きて)", "example": "勉強する ➔ 勉強して"}
+    ],
+    "related_bunpou": [
+      {"pattern": "〜て ください", "meaning": "Tolong ..."},
+      {"pattern": "〜て います", "meaning": "Sedang ..."},
+      {"pattern": "〜て もいいですか", "meaning": "Bolehkah saya ...?"}
+    ]
+  },
+  {
+    "id": "verb_nai_form",
+    "title": "Perubahan Kata Kerja: Bentuk -NAI",
+    "description": "Cara mengubah kata kerja ke bentuk -nai (negatif/tidak).",
+    "rules": [
+      {"group": "Grup 1", "rule": "Ubah akhiran vokal -u menjadi vokal -a, lalu + ない (*Kecuali う jadi わない)", "example": "書く ➔ 書かない, 買う ➔ 買わない"},
+      {"group": "Grup 2", "rule": "Coret る ➔ + ない", "example": "食べる ➔ 食べない"},
+      {"group": "Grup 3", "rule": "する ➔ しない, 来る (くる) ➔ 来ない (こない)", "example": "勉強する ➔ 勉強しない"}
+    ],
+    "related_bunpou": [
+      {"pattern": "〜ないで ください", "meaning": "Tolong jangan ..."},
+      {"pattern": "〜なければ なりません", "meaning": "Harus ..."}
+    ]
+  },
+  {
+    "id": "adjective_form",
+    "title": "Perubahan Kata Sifat",
+    "description": "Cara mengubah kata sifat I dan Na ke bentuk lampau dan negatif.",
+    "rules": [
+      {"group": "Sifat -I", "rule": "Negatif: Coret い + くない (kunai)", "example": "高い ➔ 高くない"},
+      {"group": "Sifat -I", "rule": "Lampau: Coret い + かった (katta)", "example": "高い ➔ 高かった"},
+      {"group": "Sifat -Na / Kata Benda", "rule": "Negatif: + じゃない (janai)", "example": "静か ➔ 静かじゃない"},
+      {"group": "Sifat -Na / Kata Benda", "rule": "Lampau: + だった (datta)", "example": "静か ➔ 静かだった"}
+    ],
+    "related_bunpou": [
+      {"pattern": "〜くて / 〜で", "meaning": "Dan / Lalu (Menyambung sifat)"},
+      {"pattern": "〜なります", "meaning": "Menjadi ..."}
+    ]
+  }
+]

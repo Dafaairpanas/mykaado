@@ -4,9 +4,9 @@
     "chapter": "Bab 01",
     "level": "A1",
     "title": "はじめまして",
-    "meaning": "Ungkapan salam saat pertama kali bertemu dengan seseorang. Setara dengan 'Salam kenal' atau 'Senang bertemu dengan Anda'. Diucapkan di awal perkenalan diri.",
+    "meaning": "Dipakai buat ngasih salam pas baru pertama kali ketemu orang. Mirip kayak 'Salam kenal' atau 'Senang bertemu dengan Anda'. Diucapinnya pas awal banget mau kenalan.",
     "formula_template": "はじめまして。 {A}",
-    "ui_notes": "Hanya diucapkan SATU KALI saat pertama kali bertemu seumur hidup dengan orang tersebut.",
+    "ui_notes": "Cukup diucapin SEKALI aja ya pas pertama kali ketemu orang itu seumur hidup.",
     "examples": [
       {
         "jp": "はじめまして。わたしは マルシアです。",
@@ -24,9 +24,9 @@
     "chapter": "Bab 01",
     "level": "A1",
     "title": "～から きました",
-    "meaning": "Digunakan untuk menyatakan asal negara atau daerah. 'Kara' berarti 'dari', dan 'kimashita' berarti 'telah datang'. Secara harfiah berarti 'telah datang dari...'.",
+    "meaning": "Dipakai buat ngasih tau asal daerah atau negara kita. 'Kara' itu artinya 'dari', terus 'kimashita' artinya 'datang'. Jadi kalau digabung, maksudnya 'Saya datang dari...' atau 'Asal saya dari...'.",
     "formula_template": "{A} からきました",
-    "ui_notes": "Sering digunakan berpasangan dengan nama dan diakhiri dengan 'yoroshiku onegaishimasu'.",
+    "ui_notes": "Biasanya sih dipakai barengan sebut nama, terus ditutup pakai 'yoroshiku onegaishimasu'.",
     "examples": [
       {
         "jp": "インドネシアから きました。",
@@ -48,9 +48,9 @@
     "chapter": "Bab 01",
     "level": "A1",
     "title": "どうぞ よろしく（お願いします）",
-    "meaning": "Ungkapan yang diucapkan di akhir perkenalan diri. Secara harfiah sulit diterjemahkan, tetapi nuansanya adalah 'Mohon bantuannya' atau 'Senang berkenalan dengan Anda'.",
+    "meaning": "Ungkapan ini diucapin pas kita udah selesai perkenalan diri. Kalau diartiin perkata emang agak susah, tapi intinya kayak 'Mohon bantuannya ya' atau 'Senang bisa kenalan sama kamu'.",
     "formula_template": "どうぞ よろしく おねがいします。",
-    "ui_notes": "'Douzo yoroshiku' adalah bentuk standar, penambahan 'onegaishimasu' membuatnya jauh lebih sopan. Biasakan untuk menundukkan kepala (ojigi) saat mengucapkan ini.",
+    "ui_notes": "Bentuk standarnya sih 'Douzo yoroshiku', nah kalau ditambah 'onegaishimasu' jadinya jauh lebih sopan. Biasain juga sambil nunduk (ojigi) pas ngomong ini ya.",
     "examples": [
       {
         "jp": "はじめまして。アリです。インドネシアからきました。どうぞよろしく おねがいします。",

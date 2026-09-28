@@ -9,13 +9,13 @@
     "ui_notes": "Bila di Bab 8 kita belajar **V-たいんですが…** (saya ingin V), pola **V-てみたいんですが…** ini lebih khusus digunakan saat kita ingin **mencoba suatu hal baru untuk pertama kalinya** dan mengonsultasikannya dengan lawan bicara.\n\n* Berasal dari gabungan bentuk **V-てみる** (mencoba V) + **たい** (ingin) + **んですが** (pembuka pembicaraan / konsultasi).",
     "examples": [
       {
-        "japanese": "合気道をやってみたいんですが…。",
-        "indonesian": "Saya ingin mencoba berlatih Aikido.",
+        "jp": "合気道をやってみたいんですが…。",
+        "id": "Saya ingin mencoba berlatih Aikido.",
         "romaji": "Aikidou o yatte mitain desu ga..."
       },
       {
-        "japanese": "Ａ： 書道教室に参加してみたいんですが…。\nＢ： 体験教室ですか？ それとも毎週のコースですか？",
-        "indonesian": "A: Saya ingin mencoba ikut kelas kaligrafi Jepang.\nB: Apakah Anda ingin mengikuti kelas percobaan atau program kursus mingguan?",
+        "jp": "Ａ： 書道教室に参加してみたいんですが…。\nＢ： 体験教室ですか？ それとも毎週のコースですか？",
+        "id": "A: Saya ingin mencoba ikut kelas kaligrafi Jepang.\nB: Apakah Anda ingin mengikuti kelas percobaan atau program kursus mingguan?",
         "romaji": "A: Shodoukyoushitsu ni sanka shite mitain desu ga...\nB: Taiken kyoushitsu desu ka? Soretomo maishuu no koosu desu ka?"
       }
     ],
@@ -31,18 +31,18 @@
     "ui_notes": "Digunakan untuk menyatakan frekuensi atau seberapa sering suatu kegiatan dilakukan dalam rentang waktu tertentu.\n\n* Rentang waktunya bisa berupa: **週 / ～週間** (minggu), **月 / ～か月** (bulan), **年 / ～年** (tahun).\n* Partikel **に** sering kali boleh dilesapkan.\n* Tambahkan **ぐらい** di belakang **回** untuk menyatakan gambaran kasar (Kira-kira ... kali).",
     "examples": [
       {
-        "japanese": "日本語クラスは週に1回です。",
-        "indonesian": "Kelas bahasa Jepang diadakan seminggu sekali.",
+        "jp": "日本語クラスは週に1回です。",
+        "id": "Kelas bahasa Jepang diadakan seminggu sekali.",
         "romaji": "Nihongo kurasu wa shuu ni ikkai desu."
       },
       {
-        "japanese": "月に2回、国際交流会があります。",
-        "indonesian": "Pertemuan pertukaran internasional diadakan sebulan dua kali.",
+        "jp": "月に2回、国際交流会があります。",
+        "id": "Pertemuan pertukaran internasional diadakan sebulan dua kali.",
         "romaji": "Tsuki ni nikai, kokusai kouryuukai ga arimasu."
       },
       {
-        "japanese": "オリンピックは4年に1回あります。",
-        "indonesian": "Olimpiade diadakan setiap 4 tahun sekali.",
+        "jp": "オリンピックは4年に1回あります。",
+        "id": "Olimpiade diadakan setiap 4 tahun sekali.",
         "romaji": "Orinpikku wa yonen ni ikkai arimasu."
       }
     ],
@@ -58,13 +58,13 @@
     "ui_notes": "Ini adalah ungkapan sopan yang digunakan saat kamu **menawarkan bantuan atau sesuatu** kepada lawan bicara secara sukarela.",
     "examples": [
       {
-        "japanese": "教室のチラシを持って来ましょうか？",
-        "indonesian": "Apakah perlu saya ambilkan selebaran untuk informasi kelas?",
+        "jp": "教室のチラシを持って来ましょうか？",
+        "id": "Apakah perlu saya ambilkan selebaran untuk informasi kelas?",
         "romaji": "Kyoushitsu no chirashi o motte kimashou ka?"
       },
       {
-        "japanese": "Ａ： よかったら、手伝いましょうか？\nＢ： ありがとうございます。",
-        "indonesian": "A: Kalau Anda bersedia, boleh saya membantu?\nB: Terima kasih.",
+        "jp": "Ａ： よかったら、手伝いましょうか？\nＢ： ありがとうございます。",
+        "id": "A: Kalau Anda bersedia, boleh saya membantu?\nB: Terima kasih.",
         "romaji": "A: Yokattara, tetsudaimashou ka?\nB: Arigatou gozaimasu."
       }
     ],
@@ -80,13 +80,13 @@
     "ui_notes": "Digunakan ketika kita tidak mengerti arti suatu kata atau ucapan lawan bicara dan ingin menanyakannya kembali (mengonfirmasi makna).\n\n* Kita bisa mengutip kata yang membingungkan dan bertanya **「～はどういう意味ですか？」** (Apa artinya ...?) atau **「～は何ですか？」** (Apa itu ...?).\n* Cara santainya bisa cukup dengan **mengulang kata tersebut sambil menaikkan intonasi** (Misal: 「どうぎ？」 ⤴️).",
     "examples": [
       {
-        "japanese": "すみません。「ぼご」はどういう意味ですか？",
-        "indonesian": "Maaf, apa artinya 「ぼご」?",
+        "jp": "すみません。「ぼご」はどういう意味ですか？",
+        "id": "Maaf, apa artinya 「ぼご」?",
         "romaji": "Sumimasen. 'Bogo' wa, dou iu imi desu ka?"
       },
       {
-        "japanese": "Ａ： 合気道の道着、持ってますか？\nＢ： どうぎ？\nＡ： 合気道の服です。",
-        "indonesian": "A: Apakah Anda sudah punya doogi Aikido?\nB: Doogi?\nA: Pakaian untuk berlatih Aikido.",
+        "jp": "Ａ： 合気道の道着、持ってますか？\nＢ： どうぎ？\nＡ： 合気道の服です。",
+        "id": "A: Apakah Anda sudah punya doogi Aikido?\nB: Doogi?\nA: Pakaian untuk berlatih Aikido.",
         "romaji": "A: Aikidou no dougi, mottemasu ka?\nB: Dougi?\nA: Aikidou no fuku desu."
       }
     ],
@@ -102,23 +102,23 @@
     "ui_notes": "Pola ini digunakan untuk menyatakan *kapan* atau pada kondisi *apa* hal/kejadian di belakang kalimat terjadi.\n\n* **Kata Benda**: Tambahkan **の** + とき (Contoh: 高校のとき = Saat SMA).\n* **Kata Sifat-ナ**: Tambahkan **な** + とき (Contoh: 暇なとき = Saat senggang).\n* **Kata Sifat-イ**: Langsung tambahkan **とき** (Contoh: 若いとき = Saat muda).",
     "examples": [
       {
-        "japanese": "高校のとき、少し日本語を勉強しました。",
-        "indonesian": "Saya (pernah) sedikit belajar bahasa Jepang saat SMA.",
+        "jp": "高校のとき、少し日本語を勉強しました。",
+        "id": "Saya (pernah) sedikit belajar bahasa Jepang saat SMA.",
         "romaji": "Koukou no toki, sukoshi nihongo o benkyou shimashita."
       },
       {
-        "japanese": "買い物のとき、お店の人と日本語で話します。",
-        "indonesian": "Saya berbicara dalam bahasa Jepang dengan pegawai toko ketika berbelanja.",
+        "jp": "買い物のとき、お店の人と日本語で話します。",
+        "id": "Saya berbicara dalam bahasa Jepang dengan pegawai toko ketika berbelanja.",
         "romaji": "Kaimono no toki, omise no hito to nihongo de hanashimasu."
       },
       {
-        "japanese": "暇なとき、日本のドラマを見ます。",
-        "indonesian": "Saya menonton drama Jepang ketika senggang.",
+        "jp": "暇なとき、日本のドラマを見ます。",
+        "id": "Saya menonton drama Jepang ketika senggang.",
         "romaji": "Hima na toki, Nihon no dorama o mimasu."
       },
       {
-        "japanese": "若いとき、いろいろな国のことばを習いました。",
-        "indonesian": "Saya belajar berbagai bahasa asing ketika masih muda.",
+        "jp": "若いとき、いろいろな国のことばを習いました。",
+        "id": "Saya belajar berbagai bahasa asing ketika masih muda.",
         "romaji": "Wakai toki, iroiro na kuni no kotoba o naraimashita."
       }
     ],

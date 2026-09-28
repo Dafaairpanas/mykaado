@@ -24,8 +24,20 @@ const customCache: RuntimeCaching[] = [
   ...defaultCache,
 ];
 
+const precacheUrls = [
+  '/', 
+  '/flashcard/setup', 
+  '/flashcard',
+  '/kanji',
+  '/kotoba',
+  '/bunpou',
+  '/ringkasan',
+  '/renshuu',
+  '/settings'
+].map(url => ({ url, revision: process.env.NEXT_PUBLIC_APP_VERSION || 'v1' }));
+
 const serwist = new Serwist({
-  precacheEntries: self.__SW_MANIFEST,
+  precacheEntries: [...(self.__SW_MANIFEST || []), ...precacheUrls],
   skipWaiting: true,
   clientsClaim: true,
   navigationPreload: true,

@@ -1,6 +1,7 @@
 "use client";
 
-import { useState, useEffect, useMemo } from "react";
+import { useState, useEffect, useMemo, Suspense } from "react";
+import { useRouter, useSearchParams, usePathname } from "next/navigation";
 import { Search, ChevronLeft, Eye } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Modal } from "@/components/ui/modal";
@@ -9,10 +10,24 @@ import { Card } from "@/components/ui/card";
 import { BUNPOU_SOURCES, fetchSelectedDecks, type DeckSource } from "@/lib/data-loader";
 import type { BunpouItem } from "@/types";
 
-export default function BunpouPage() {
+function BunpouContent() {
+  const router = useRouter();
+  const searchParams = useSearchParams();
+  const pathname = usePathname();
+
   // Navigation State
   const [activeTab, setActiveTab] = useState<string>("minna");
-  const [selectedChapterId, setSelectedChapterId] = useState<string | null>(null);
+  const selectedChapterId = searchParams.get("chapter");
+
+  const setSelectedChapterId = (id: string | null) => {
+    const params = new URLSearchParams(searchParams.toString());
+    if (id) {
+      params.set("chapter", id);
+    } else {
+      params.delete("chapter");
+    }
+    router.push(`${pathname}?${params.toString()}`);
+  };
   
   // Data State
   const [chapterData, setChapterData] = useState<BunpouItem[]>([]);
@@ -199,13 +214,18 @@ export default function BunpouPage() {
             <Card key={idx} className="p-5 md:p-6 bg-[var(--color-bg-card)] transition-colors group relative overflow-hidden">
               <h3 className="text-xl md:text-2xl font-normal mb-3 jp-text relative z-10">{item.title}</h3>
               
-              <div className={`inline-block px-3 py-1.5 bg-[var(--color-bg-main)] text-[var(--color-text-main)] font-bold font-mono text-sm rounded-[var(--radius-sm)] mb-4 border-[length:var(--bw-sm)] border-solid border-[var(--color-accent)] shadow-[2px_2px_0px_var(--color-accent)] relative z-10 transition-all ${!showFormula && "blur-sm opacity-30 select-none hover:blur-none hover:opacity-100"}`}>
+              <div className={`inline-block px-3 py-1.5 bg-[var(--color-bg-main)] text-[var(--color-text-main)] font-bold font-mono text-sm rounded-[var(--radius-sm)] mb-4 border-[length:var(--bw-sm)] border-solid border-[var(--color-accent)] shadow-[2px_2px_0px_var(--color-accent)] relative z-10 transition-all whitespace-pre-wrap ${!showFormula && "blur-sm opacity-30 select-none hover:blur-none hover:opacity-100"}`}>
                 {item.formula_template}
               </div>
               
-              <p className={`text-[var(--color-text-muted)] mb-5 font-medium relative z-10 transition-all ${!showMeaning && "blur-sm opacity-30 select-none hover:blur-none hover:opacity-100"}`}>
-                {item.meaning}
-              </p>
+              <div className={`text-[var(--color-text-muted)] mb-5 font-medium relative z-10 transition-all whitespace-pre-wrap ${!showMeaning && "blur-sm opacity-30 select-none hover:blur-none hover:opacity-100"}`}>
+                <p>{item.meaning}</p>
+                {item.ui_notes && (
+                  <div className="mt-4 text-sm md:text-base italic border-l-4 border-[var(--color-accent)] pl-4 text-left whitespace-pre-wrap">
+                    {item.ui_notes}
+                  </div>
+                )}
+              </div>
               
               {item.examples && item.examples.length > 0 && (
                 <div className={`bg-[var(--color-bg-nav)] p-4 rounded-[var(--radius-md)] border-l-[4px] border-[var(--color-accent)] relative z-10 transition-all ${!showExamples && "blur-sm opacity-30 select-none hover:blur-none hover:opacity-100"}`}>
@@ -253,5 +273,13 @@ export default function BunpouPage() {
       </Modal>
 
     </div>
+  );
+}
+
+export default function BunpouPage() {
+  return (
+    <Suspense fallback={<div className="flex items-center justify-center min-h-screen text-xl font-bold">Memuat...</div>}>
+      <BunpouContent />
+    </Suspense>
   );
 }

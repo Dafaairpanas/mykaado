@@ -4,21 +4,21 @@
     "chapter": "Bab 15",
     "level": "A1",
     "title": "Mengutarakan Keinginan Terpendam (〜がほしいんですが)",
-    "meaning": "Sinyal Minta Tolong! Jurus memelas ketika Anda berkeliling etalase toko dan pusing mencari barang spesifik, lalu meminta tolong pegawai toko untuk melacak keberadaan barang idaman Anda (\"Mas, saya lagi nyari... nih\").",
+    "meaning": "Pola buat minta tolong pas lagi keliling toko dan nyari barang spesifik, buat nanya ke pegawai tokonya (\"Mas/Mbak, saya lagi nyari... nih\").",
     "formula_template": "[Barang Idaman/Buruan] + がほしいんですが",
-    "ui_notes": "SENI MENGGANTUNG KALIMAT:\nEkor kalimat ini dibiarkan dibiarkan menggantung '...Ga (Namun...)' agar terkesan mengiba/memelas, sehingga secara insting sang pegawai kasir akan otomatis tergerak melayani dan mencarikan solusi untuk Anda. Kalau Anda penganut sekte to-the-point, Anda bisa membentak dengan: **「どこで 買えますか？」** (Beli di mana woy?!).",
+    "ui_notes": "TIPS CARA NGOMONG:\nAkhiran kalimatnya emang sengaja digantung pakai '...ga (Tapi...)' biar kesannya lebih halus dan bikin pegawainya otomatis inisiatif bantuin nyari. Kalau mau yang lebih to-the-point, bisa langsung nanya: **「どこで 買えますか？」** (Beli di mana ya?).",
     "examples": [
       {
         "jp": "電池が ほしいんですが、どこで 買えますか？",
-        "id": "Saya tuh lagi HASRAT BANGET BUTUH bongkahan Baterai (NAMUN SUSAH DICARI)... DI SEBELAH MANAKAH hamba BISA MEMBELINYA?"
+        "id": "Saya lagi nyari baterai nih, bisa beli di mana ya?"
       },
       {
         "jp": "延長コードが ほしいんですが…。",
-        "id": "Saya tuh NYARI-NYARI DAN BUTUH kabel colokan sambungan memanjang, (NAMUN SUSAH KETEMU, tolong dicarikan ya)."
+        "id": "Saya lagi nyari kabel rol nih... (bisa tolong dicarikan?)."
       },
       {
         "jp": "ドライヤーが ほしいんですが、どこに ありますか？ ……3階で ございます。",
-        "id": "Saya tuh lagi BUTUH SANGAT sama alat pengering rambut (Hair Dryer), NGUMPET ADA DI MANA letaknya (etalasenya)? ...... Letaknya ada di lantai ke-3 tuan."
+        "id": "Saya butuh hair dryer, letaknya di mana ya? ...... Ada di lantai 3 kak."
       }
     ],
     "tags": [
@@ -32,25 +32,25 @@
     "chapter": "Bab 15",
     "level": "A1",
     "title": "Memuji Barang Spontan (Kesan Adjektiva)",
-    "meaning": "Bawel Belanja! Luapan ekspresi dan hasrat ketika mengomentari desain dagangan baju/barang yang menempel di tubuh maneken toko.",
-    "formula_template": "1. [Benda] + [Kata Sifat] + ですね (Bawel ke Teman)\n2. [Benda] + [Kata Sifat] + (Murni Tanpa Desu) (Spontan Jiwa Kaget)",
-    "ui_notes": "ILMU MEMUJI:\n- Kalau Anda nge-review bareng rekan ngemall, BUBUHKAN partikel **「ね (Ne)」** untuk meminta persetujuan. (Contoh: Lucu YA KAN).\n- Kalau Anda lagi nge-mall JOMBLO SENDIRIAN dan kaget ngelihat diskon atau barang bagus, LANGSUNG TERIAKKAN SIFATNYA SECARA MURNI tanpa Desu (Contoh: Gila, murah!).",
+    "meaning": "Luapan ekspresi pas lagi ngomentarin baju atau barang yang dipajang di toko.",
+    "formula_template": "1. [Benda] + [Kata Sifat] + ですね (Ngobrol santai ke temen)\n2. [Benda] + [Kata Sifat] + (Murni Tanpa Desu) (Ekspresi spontan)",
+    "ui_notes": "TIPS MEMUJI:\n- Kalau lagi ngobrol sama temen pas nge-mall, tambahin partikel **「ね (ne)」** buat nyari persetujuan. (Contoh: Lucu ya kan?).\n- Kalau lagi spontan ngomong sendiri karena kaget nemu barang bagus, langsung aja sebutin kata sifatnya tanpa 'desu' (Contoh: Wah, murah!).",
     "examples": [
       {
         "jp": "このコート、おしゃれですね。",
-        "id": "Mantel jaket ini desainnya MODIS (Fashionable) YA KAN."
+        "id": "Jaket ini modis banget ya."
       },
       {
         "jp": "このコート、すてき！",
-        "id": "Wah mantel jaket ini KECE BADAI!"
+        "id": "Wah jaket ini keren!"
       },
       {
         "jp": "このバッグ、かわいい！",
-        "id": "(Gila murni menjerit:) Wadidaw tas gembol ini LUCU IMUT GEMOY BANGET!"
+        "id": "Wah tas ini lucu banget!"
       },
       {
         "jp": "このシャツ、かっこいい！ ……本当。それに、安いですね。",
-        "id": "Yaampun kemeja yang ini, GANTENG PARAH! ...... Eh iya lho emang. Ditambah point plus, (Harganya) gila MURAH YAK."
+        "id": "Kemeja ini keren! ...... Beneran. Apalagi harganya murah ya."
       }
     ],
     "tags": [

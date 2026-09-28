@@ -367,10 +367,10 @@ export default function FlashcardPage() {
       backContent = (
         <div className="flex flex-col items-center justify-center w-full h-full overflow-y-auto pb-4">
           <div className="text-3xl md:text-5xl jp-text mb-4 text-center font-bold text-[var(--color-accent)]">{renderKanjiWithFadedKana(bunpouCard.title)}</div>
-          <div className="text-lg md:text-xl text-[var(--color-text-main)] mb-6 text-center font-mono bg-[var(--color-bg-nav)] px-4 py-2 rounded-lg">{bunpouCard.formula_template}</div>
+          <div className="text-lg md:text-xl text-[var(--color-text-main)] mb-6 text-center font-mono bg-[var(--color-bg-nav)] px-4 py-2 rounded-lg whitespace-pre-wrap">{bunpouCard.formula_template}</div>
           
           {bunpouCard.ui_notes && (
-             <div className="text-sm md:text-base text-[var(--color-text-muted)] mb-6 text-center italic border-l-4 border-[var(--color-accent)] pl-4 text-left max-w-full">
+             <div className="text-sm md:text-base text-[var(--color-text-muted)] mb-6 text-center italic border-l-4 border-[var(--color-accent)] pl-4 text-left max-w-full whitespace-pre-wrap">
                {bunpouCard.ui_notes}
              </div>
           )}
@@ -393,7 +393,7 @@ export default function FlashcardPage() {
       frontContent = (
         <>
           <div className="text-3xl md:text-5xl jp-text mb-6 text-center font-bold">{renderKanjiWithFadedKana(bunpouCard.title)}</div>
-          <div className="text-lg md:text-xl text-[var(--color-text-main)] font-mono bg-[var(--color-bg-nav)] px-4 py-2 rounded-lg border-[length:var(--bw-sm)] border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]">
+          <div className="text-lg md:text-xl text-[var(--color-text-main)] font-mono bg-[var(--color-bg-nav)] px-4 py-2 rounded-lg border-[length:var(--bw-sm)] border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] whitespace-pre-wrap">
             {bunpouCard.formula_template}
           </div>
         </>
@@ -405,7 +405,7 @@ export default function FlashcardPage() {
                {bunpouCard.meaning}
              </div>
              {bunpouCard.ui_notes && (
-                <div className="text-sm md:text-base text-[var(--color-text-muted)] italic border-l-4 border-[var(--color-accent)] pl-4 mb-4 text-left">
+                <div className="text-sm md:text-base text-[var(--color-text-muted)] italic border-l-4 border-[var(--color-accent)] pl-4 mb-4 text-left whitespace-pre-wrap">
                   {bunpouCard.ui_notes}
                 </div>
              )}

@@ -4,21 +4,21 @@
     "chapter": "Bab 12",
     "level": "A1",
     "title": "Pemberitahuan Acara (〜に 〜で 〜があります)",
-    "meaning": "Laporan Pengumuman Event! Jurus untuk mengumumkan penyelenggaraan sebuah event/acara, festival, atau rapat di titik lokasi dan jam tertentu.",
+    "meaning": "Pola kalimat buat ngasih pengumuman kalau bakal ada acara, festival, atau rapat di tempat dan jam tertentu.",
     "formula_template": "[Waktu Tanggal] + に + [Tempat] + で + [Nama Acara] + があります",
-    "ui_notes": "PENGECUALIAN PARTIKEL WAKTU:\nPartikel 「に」 tidak usah dan terlarang dipakai jika kata waktunya merujuk pada masa relatif tanpa angka pasti (Contoh Haram: 明日に / 今晩に / 来週に ❌). Kata-kata besok, lusa, nanti malam langsung teriakkan saja tanpa partikel.\n\n### 📝 BUKU PINTAR PARTIKEL (で vs に)\n\n| Partikel | Logika Pemakaian | Contoh Kejadian |\n|---|---|---|\n| **に** | Tempat Singgah (Diam/Bermukim) | 東京**に**住む (Tinggal di Tokyo) |\n| **に** | Tempat Keberadaan Benda (Diam) | 食堂**に**ある (Ada di kantin) |\n| **で** | Tempat Melakukan Aksi (Gerak) | 公園**で**サッカー (Main bola di taman) |\n| **で** | Tempat Acara Diselenggarakan (Event) | 公園**で**祭りがある (Ada festival di taman) |",
+    "ui_notes": "PENGECUALIAN PARTIKEL WAKTU:\nPartikel 「に」 nggak usah dipakai kalau keterangan waktunya nggak ada angka pastinya (Contoh yang salah: 明日に / 今晩に / 来週に ❌). Kata-kata kayak besok, lusa, nanti malam langsung aja sebutin tanpa partikel.\n\n### 📝 BEDA PARTIKEL で vs に\n\n| Partikel | Fungsinya | Contoh |\n|---|---|---|\n| **に** | Tempat tinggal/menetap | 東京**に**住む (Tinggal di Tokyo) |\n| **に** | Posisi benda | 食堂**に**ある (Ada di kantin) |\n| **で** | Tempat ngelakuin kegiatan | 公園**で**サッカー (Main bola di taman) |\n| **で** | Tempat acara diselenggarain | 公園**で**祭りがある (Ada festival di taman) |",
     "examples": [
       {
         "jp": "日曜日に、さくら公園で タイフェスティバルが ありますね。",
-        "id": "PADA HARI Minggu, ADA acara Festival Thailand DI Taman Sakura ya."
+        "id": "Hari Minggu, ada acara Festival Thailand di Taman Sakura ya."
       },
       {
         "jp": "12月20日に、会社で 忘年会が あります。",
-        "id": "PADA TANGGAL 20 Desember, BAKAL ADA pesta kumpul akhir tahun DI lingkungan kantor."
+        "id": "Tanggal 20 Desember, bakal ada pesta akhir tahun di kantor."
       },
       {
         "jp": "明日、夏祭りが ありますね。 ……どこで ありますか？ ……中央公園です。",
-        "id": "Besok (Gak pake Ni!), BAKAL ADA festival musim panas kan. ...... BAKAL ADA DI sebelah mana diadakannya? ...... (Diadakan) Di Taman Chuuoo."
+        "id": "Besok, bakal ada festival musim panas kan. ...... Di mana diadakannya? ...... Di Taman Chuuoo."
       }
     ],
     "tags": [
@@ -32,21 +32,21 @@
     "chapter": "Bab 12",
     "level": "A1",
     "title": "Tujuan Bepergian (〜に行きます)",
-    "meaning": "Peta Misi Perjalanan! Mengungkapkan apa misi atau niat utama Anda bepergian ke suatu tempat (Tujuan Acara).",
+    "meaning": "Dipakai buat ngasih tau apa tujuan atau niat utama kamu pergi ke suatu tempat (tujuan acara).",
     "formula_template": "[Acara/Misi (Nomina)] + に + 行きます",
-    "ui_notes": "Partikel 「に」 di sini tidak berfungsi sebagai letak benda, melainkan berfungsi sebagai TARGET TUJUAN (Demi / Untuk).",
+    "ui_notes": "Partikel 「に」 di sini bukan buat nunjukin tempat ya, tapi buat nunjukin TUJUAN (demi / untuk).",
     "examples": [
       {
         "jp": "明日の 忘年会に 行きますか？",
-        "id": "Apakah lu bakal berangkat PERGI MENUJU (TUJUAN MENGHADIRI) Pesta Akhir Tahun besok?"
+        "id": "Besok mau pergi ke pesta akhir tahun nggak?"
       },
       {
         "jp": "毎朝、散歩に 行きます。",
-        "id": "Tiap hari di pagi hari, (aku) PERGI (UNTUK MISI) jalan santai."
+        "id": "Tiap pagi, (aku) pergi jalan-jalan santai."
       },
       {
         "jp": "田中さんのサッカーの試合に 行きますか？ ……もちろんです。",
-        "id": "Apakah lu bakal ikut berangkat PERGI MENUJU (TUJUAN MENGHADIRI) pertandingan bola milik pak Tanaka? ...... Udah mutlak tentu saja dong."
+        "id": "Mau ikutan nonton pertandingan bolanya Pak Tanaka nggak? ...... Pastinya dong."
       }
     ],
     "tags": [
@@ -60,21 +60,21 @@
     "chapter": "Bab 12",
     "level": "A1",
     "title": "Mengajak Sopan (〜ませんか？)",
-    "meaning": "Jurus Merayu Kawan! Ajakan halus tingkat dewa. Sangat sopan karena berbentuk pertanyaan yang memberikan opsi bagi lawan bicara untuk menolak tanpa segan ('Maukah Anda... / Tidakkah Anda ingin...').",
+    "meaning": "Cara halus buat ngajak orang. Sopan banget karena bentuknya pertanyaan, jadi ngasih kesempatan orangnya nolak tanpa ngerasa nggak enak ('Maukah... / Gimana kalau...').",
     "formula_template": "[Kata Kerja Bentuk ます (coret ます)] + ませんか？ (Intonasi Naik)",
     "ui_notes": "",
     "examples": [
       {
         "jp": "いっしょに 行きませんか？",
-        "id": "MAUKAH (Bapak/Ibu) PERGI beringan bersama saya?"
+        "id": "Mau pergi bareng nggak?"
       },
       {
         "jp": "これから、昼ご飯に 行きます。いっしょに 行きませんか？ ……いいですね。",
-        "id": "Lepas dari ini, (saya mau) pergi (untuk misi) makan siang. MAUKAH (LU IKUT) PERGI bareng? ...... Ide sedap tuh boleh (Gas)."
+        "id": "Abis ini mau pergi makan siang. Mau ikut bareng nggak? ...... Boleh juga tuh."
       },
       {
         "jp": "日曜日、いっしょに 買い物に 行きませんか？ ……すみません。日曜日は ちょっと…。",
-        "id": "Btw di hari Minggu, MAUKAH KITA PERGI (untuk misi) belanja barengan? ...... Aduh maaf euy, kalau Minggumah AGAK SUSAH YAK."
+        "id": "Hari Minggu, mau pergi belanja bareng nggak? ...... Duh maaf, kalau Minggu agak susah nih."
       }
     ],
     "tags": [
@@ -88,21 +88,21 @@
     "chapter": "Bab 12",
     "level": "A1",
     "title": "Ayo / Mari (〜ましょう)",
-    "meaning": "Palu Persetujuan Antusias! Jurus ini merangkap 2 fungsi: 1) Mengiyakan ajakan orang dengan nada setuju penuh semangat ('Ayo!'), 2) Menawarkan ide kegiatan komando ('Mari kita...').",
+    "meaning": "Pola kalimat yang fungsinya ada dua: 1) Buat ngeiyain ajakan orang dengan antusias ('Ayo!'), 2) Buat nawarin ide kegiatan ke orang lain ('Mari kita...').",
     "formula_template": "[Kata Kerja Bentuk ます (coret ます)] + ましょう",
     "ui_notes": "",
     "examples": [
       {
         "jp": "また今度 行きましょう。",
-        "id": "Lain waktu kapan-kapan MARILAH KITA PERGI ke sana lagi."
+        "id": "Lain kali kita pergi lagi yuk."
       },
       {
         "jp": "今度、みんなで、ハイキングに 行きませんか？ ……いいですね。行きましょう。",
-        "id": "Kapan-kapan, ramai-ramai se-geng, MAUKAH KITA PERGI (misi) hiking naik gunung? ...... Ide mulia tuh! AYO KITA BERANGKAT."
+        "id": "Kapan-kapan, pada mau pergi hiking nggak? ...... Boleh tuh. Ayo berangkat."
       },
       {
         "jp": "明日、ご飯に 行きませんか？ ……明日は ちょっと…。 ……そうですか。じゃあ、また今度 行きましょう。",
-        "id": "MAUKAH KITA PERGI makan hura-hura besok? ...... Maaf aduh besok mah rada padat. ...... Oh gitu, Yawis kalau gitu kapan-kapan aja MARILAH KITA PERGI (lagi)."
+        "id": "Besok, mau pergi makan bareng nggak? ...... Duh kalau besok kayaknya nggak bisa deh. ...... Oh gitu. Ya udah, kapan-kapan pergi lagi yuk."
       }
     ],
     "tags": [
@@ -116,21 +116,21 @@
     "chapter": "Bab 12",
     "level": "A1",
     "title": "Pergi Untuk Melakukan Sesuatu (V-に行きます)",
-    "meaning": "Peta Misi Eksekusi! Kalau pola sebelumnya misinya memakai \"Kata Benda Acara\", pola yang ini Misi Kepergiannya memakai \"Kata Kerja Tindakan\".",
+    "meaning": "Kalau pola yang sebelumnya tujuannya pakai kata benda (acara), nah pola yang ini tujuan perginya pakai kata kerja (tindakan).",
     "formula_template": "[KATA KERJA AKSIN (coret ます)] + に + 行きます",
-    "ui_notes": "Contoh perakitannya:\n食べる (Makan) -> 食べます (Coret Mas) -> 食べ + に行きます (Pergi untuk misi MAKAN).",
+    "ui_notes": "Cara gabunginnya:\n食べる (Makan) -> 食べます (Coret Mas-nya) -> 食べ + に行きます (Pergi buat MAKAN).",
     "examples": [
       {
         "jp": "みんなで、いっしょに 焼き肉を 食べに 行きませんか？",
-        "id": "Bersama se-geng, MAUKAH KITA PERGI BERSAMA UNTUK MISI MEMAKAN daging bakar yakiniku?"
+        "id": "Mau pada pergi makan yakiniku bareng nggak?"
       },
       {
         "jp": "金曜日の夜、ジャズを 聞きに 行きませんか？",
-        "id": "Pas Jumat malem, MAUKAH KITA PERGI UNTUK MISI MENDENGARKAN lantunan lagu jazz?"
+        "id": "Jumat malam, mau pergi dengerin musik jazz nggak?"
       },
       {
         "jp": "今晩、飲みに 行きませんか？",
-        "id": "Tar malem, MAUKAH KITA PERGI UNTUK (MISI) MINUM (mabuk-mabukan bar) bareng?"
+        "id": "Nanti malam, mau pergi minum bareng nggak?"
       }
     ],
     "tags": [

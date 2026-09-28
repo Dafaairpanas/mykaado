@@ -9,23 +9,23 @@
     "ui_notes": "Berbeda dengan Bab 8 dan 10 yang menggunakan **たいんですが...** (keinginan), di sini **～んですが…** digunakan untuk melaporkan suatu *kondisi atau permasalahan*, dengan harapan lawan bicara akan menanggapi atau memberikan instruksi penanganannya.\n\n### 🔧 Cara Menyambung (Contoh):\n* **Bentuk Kamus**: 変な音がするんですが… (Berbunyi aneh...)\n* **Bentuk-ta**: トイレットペーパーがなくなったんですが… (Tisu toiletnya habis...)\n* **Bentuk-nai**: 電気がつかないんですが… (Lampunya tidak menyala...)\n\n*(Catatan: Cara membuat Bentuk-nai dibahas lebih lanjut di materi lain, namun intinya adalah konjugasi kata kerja yang berakhiran 'nai' untuk menyatakan negatif).* ",
     "examples": [
       {
-        "japanese": "会議室の電気がつかないんですが…。",
-        "indonesian": "Lampu di ruang rapat tidak menyala...",
+        "jp": "会議室の電気がつかないんですが…。",
+        "id": "Lampu di ruang rapat tidak menyala...",
         "romaji": "Kaigishitsu no denki ga tsukanain desu ga..."
       },
       {
-        "japanese": "Ａ： あのう、エアコンがつかないんですが…。\nＢ： じゃあ、業者に電話してください。",
-        "indonesian": "A: Maaf, AC-nya tidak menyala...\nB: Kalau begitu, telepon agennya.",
+        "jp": "Ａ： あのう、エアコンがつかないんですが…。\nＢ： じゃあ、業者に電話してください。",
+        "id": "A: Maaf, AC-nya tidak menyala...\nB: Kalau begitu, telepon agennya.",
         "romaji": "A: Anou, eakon ga tsukanain desu ga...\nB: Jaa, gyousha ni denwa shite kudasai."
       },
       {
-        "japanese": "Ａ： コピーの紙、なくなったんですが…。\nＢ： じゃあ、倉庫に取りに行ってくれる？",
-        "indonesian": "A: Kertas fotokopinya habis...\nB: Kalau begitu, bisa tolong ambilkan di gudang?",
+        "jp": "Ａ： コピーの紙、なくなったんですが…。\nＢ： じゃあ、倉庫に取りに行ってくれる？",
+        "id": "A: Kertas fotokopinya habis...\nB: Kalau begitu, bisa tolong ambilkan di gudang?",
         "romaji": "A: Kopii no kami, nakunattan desu ga...\nB: Jaa, souko ni tori ni itte kureru?"
       },
       {
-        "japanese": "コンピュータが動かないんですが…。",
-        "indonesian": "Komputernya tidak berfungsi...",
+        "jp": "コンピュータが動かないんですが…。",
+        "id": "Komputernya tidak berfungsi...",
         "romaji": "Konpyuuta ga ugokanain desu ga..."
       }
     ],
@@ -41,18 +41,18 @@
     "ui_notes": "Di Bab 12 kita belajar **そうです** untuk tebakan penampilan menggunakan *Kata Sifat*. Di sini, kita menggunakan **そうです** dengan *Kata Kerja* untuk menyatakan **perkiraan/prediksi kelanjutan suatu aksi** (misalnya perkiraan waktu selesai).\n\n* **Cara pakai**: Coret akhiran **ます** dari bentuk sopan, lalu tambahkan **そうです**. (Contoh: 終わります → 終わりそうです = Kelihatannya akan selesai).\n* Jika ingin menyebutkan perkiraan waktu, gunakan partikel **で** untuk menunjukkan rentang waktunya (Contoh: 10分ぐらいで = Sekitar 10 menit lagi).",
     "examples": [
       {
-        "japanese": "どのぐらいかかりそうですか？",
-        "indonesian": "Kelihatannya perlu waktu berapa lama?",
+        "jp": "どのぐらいかかりそうですか？",
+        "id": "Kelihatannya perlu waktu berapa lama?",
         "romaji": "Dono gurai kakarisou desu ka?"
       },
       {
-        "japanese": "あと10分ぐらいで終わりそうです。",
-        "indonesian": "Kelihatannya akan selesai sekitar 10 menit lagi.",
+        "jp": "あと10分ぐらいで終わりそうです。",
+        "id": "Kelihatannya akan selesai sekitar 10 menit lagi.",
         "romaji": "Ato juppun gurai de owarisou desu."
       },
       {
-        "japanese": "Ａ： 1人で、できそうですか？\nＢ： はい、だいじょうぶです。",
-        "indonesian": "A: Apakah kelihatannya Anda bisa mengerjakannya sendiri?\nB: Ya, tidak apa-apa (saya bisa).",
+        "jp": "Ａ： 1人で、できそうですか？\nＢ： はい、だいじょうぶです。",
+        "id": "A: Apakah kelihatannya Anda bisa mengerjakannya sendiri?\nB: Ya, tidak apa-apa (saya bisa).",
         "romaji": "A: Hitori de, dekisou desu ka?\nB: Hai, daijoubu desu."
       }
     ],
@@ -68,13 +68,13 @@
     "ui_notes": "Ungkapan ini digunakan saat kita ingin melakukan sesuatu, tetapi bingung caranya dan ingin **meminta saran** kepada lawan bicara.\n\n* Biasanya diikuti oleh frasa **どうすればいいですか？** (Apa yang sebaiknya saya lakukan?).",
     "examples": [
       {
-        "japanese": "両面コピーしたいときは、どうすればいいですか？",
-        "indonesian": "Apa yang harus dilakukan saat ingin memfotokopi bolak-balik (dua sisi kertas)?",
+        "jp": "両面コピーしたいときは、どうすればいいですか？",
+        "id": "Apa yang harus dilakukan saat ingin memfotokopi bolak-balik (dua sisi kertas)?",
         "romaji": "Ryoumen kopii shitai toki wa, dou sureba ii desu ka?"
       },
       {
-        "japanese": "Ａ： 拡大コピーしたいときは、どうすればいいですか？\nＢ： このボタンを押してください。",
-        "indonesian": "A: Apa yang harus dilakukan saat ingin memfotokopi dengan hasil salinan yang diperbesar?\nB: Silakan tekan tombol ini.",
+        "jp": "Ａ： 拡大コピーしたいときは、どうすればいいですか？\nＢ： このボタンを押してください。",
+        "id": "A: Apa yang harus dilakukan saat ingin memfotokopi dengan hasil salinan yang diperbesar?\nB: Silakan tekan tombol ini.",
         "romaji": "A: Kakudai kopii shitai toki wa, dou sureba ii desu ka?\nB: Kono botan o oshite kudasai."
       }
     ],
@@ -90,18 +90,18 @@
     "ui_notes": "Pola ini digunakan untuk menyatakan suatu hal yang pasti terjadi sebagai **akibat/hasil alami** dari suatu tindakan. Pola ini sangat umum dipakai ketika *menjelaskan cara kerja sebuah mesin atau alat*.\n\n* Disambungkan dengan kata kerja bentuk kamus (Contoh: 押す + と = 押すと / Kalau ditekan, maka...)",
     "examples": [
       {
-        "japanese": "このスタートボタンを押すと、コピーが始まります。",
-        "indonesian": "Kalau Anda menekan tombol 'mulai' ini, maka mesin akan mulai membuat salinan (kopian).",
+        "jp": "このスタートボタンを押すと、コピーが始まります。",
+        "id": "Kalau Anda menekan tombol 'mulai' ini, maka mesin akan mulai membuat salinan (kopian).",
         "romaji": "Kono sutaato botan o osu to, kopii ga hajimarimasu."
       },
       {
-        "japanese": "このボタンを押すと、カラーコピーができます。",
-        "indonesian": "Kalau Anda menekan tombol ini, maka dapat membuat kopian berwarna.",
+        "jp": "このボタンを押すと、カラーコピーができます。",
+        "id": "Kalau Anda menekan tombol ini, maka dapat membuat kopian berwarna.",
         "romaji": "Kono botan o osu to, karaa kopii ga dekimasu."
       },
       {
-        "japanese": "このトイレは、ここに手をかざすと、水が流れます。",
-        "indonesian": "Kalau Anda melambaikan tangan pada bagian ini, maka air toiletnya akan mengalir.",
+        "jp": "このトイレは、ここに手をかざすと、水が流れます。",
+        "id": "Kalau Anda melambaikan tangan pada bagian ini, maka air toiletnya akan mengalir.",
         "romaji": "Kono toire wa, koko ni te o kazasu to, mizu ga nagaremasu."
       }
     ],
@@ -117,13 +117,13 @@
     "ui_notes": "Dalam bahasa Jepang, **はい (Ya)** dan **いいえ (Tidak)** tidak selalu berarti Positif/Negatif secara langsung, melainkan bermakna **Setuju/Tidak Setuju** terhadap pertanyaan lawan bicara.\n\n* Jika seseorang bertanya dengan kalimat *negatif* (Contoh: \"Belum pernah pakai?\"):\n  * Jika faktanya memang belum: Kamu menjawab **はい** (Ya, benar yang Anda tanyakan) lalu diikuti kalimat negatif (Belum pernah).\n  * Jika faktanya sudah pernah: Kamu menjawab **いいえ** (Tidak, pernyataan Anda salah) lalu diikuti kalimat positif (Sudah pernah).",
     "examples": [
       {
-        "japanese": "Ａ： コピー機、使ったことないですか？\nＢ： はい、ないです。",
-        "indonesian": "A: Apakah Anda belum pernah menggunakan mesin fotokopi sebelumnya?\nB: Ya, belum pernah.",
+        "jp": "Ａ： コピー機、使ったことないですか？\nＢ： はい、ないです。",
+        "id": "A: Apakah Anda belum pernah menggunakan mesin fotokopi sebelumnya?\nB: Ya, belum pernah.",
         "romaji": "A: Kopii ki, tsukatta koto nai desu ka?\nB: Hai, nai desu."
       },
       {
-        "japanese": "Ａ： この機械、前に使ったことないですか？\nＢ： はい、一度もありません。\nＣ： いいえ。私は、前に一度使ったことがあります。",
-        "indonesian": "A: Apakah Anda belum pernah menggunakan mesin ini sebelumnya?\nB: Ya, belum pernah sekalipun.\nC: Tidak, sebelumnya saya pernah menggunakannya sekali.",
+        "jp": "Ａ： この機械、前に使ったことないですか？\nＢ： はい、一度もありません。\nＣ： いいえ。私は、前に一度使ったことがあります。",
+        "id": "A: Apakah Anda belum pernah menggunakan mesin ini sebelumnya?\nB: Ya, belum pernah sekalipun.\nC: Tidak, sebelumnya saya pernah menggunakannya sekali.",
         "romaji": "A: Kono kikai, mae ni tsukatta koto nai desu ka?\nB: Hai, ichido mo arimasen.\nC: Iie. Watashi wa, mae ni ichido tsukatta koto ga arimasu."
       }
     ],

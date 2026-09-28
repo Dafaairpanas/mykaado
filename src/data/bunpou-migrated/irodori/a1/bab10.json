@@ -4,25 +4,25 @@
     "chapter": "Bab 10",
     "level": "A1",
     "title": "Meminta Tolong / Instruksi (Bentuk 〜て)",
-    "meaning": "Tongkat Komando! Jurus mutlak untuk menyuruh, meminta tolong, atau memberi instruksi aksi kepada bawahan atau rekan kerja. Harus memakai Kata Kerja sakti \"Bentuk-TE\".",
+    "meaning": "Pola kalimat buat minta tolong atau nyuruh orang lain ngelakuin sesuatu. Kuncinya ada di pemakaian kata kerja bentuk 'te'.",
     "formula_template": "1. [K.Kerja Bentuk-TE] + ください (Formal Sopan)\n2. [K.Kerja Bentuk-TE] + くれる？ (Santai Biasa)\n3. [K.Kerja Bentuk-TE Murni] (Gaul / Ke Bawahan)",
-    "ui_notes": "3 TINGKATAN KESOPANAN MENYURUH:\n1. **〜てください** : Sopan. Cocok di lingkungan kerja profesional (Tolong tuliskan).\n2. **〜てくれる？** : Santai ke Rekan. (Bisa tolong ambilin?).\n3. **〜て (Murni)** : Kasual Kasar. HANYA untuk teman karib/sohib nongkrong (Tunggu bentar!).",
+    "ui_notes": "Ada 3 tingkatan kesopanan nih:\n1. **〜てください** : Paling sopan, cocok buat di tempat kerja.\n2. **〜てくれる？** : Lebih santai, buat ke temen kerja (Bisa tolong ambilin?).\n3. **〜て (Murni)** : Kasual banget, cuma buat temen akrab (Tunggu bentar!).",
     "examples": [
       {
         "jp": "ちょっと、手伝って ください。",
-        "id": "TOLONGLAH BANTU hamba (pekerjaan ini) sebentar (Sopan)."
+        "id": "Tolong bantu saya sebentar."
       },
       {
         "jp": "そこのドライバー、取って。",
-        "id": "AMBILIN obeng di situ! (Perintah murni ke bawahan/sohib)."
+        "id": "Ambilin obeng di situ dong."
       },
       {
         "jp": "窓、閉めて くれる？",
-        "id": "BISA TOLONG TUTUPIN jendelanya? (Santai ke rekan sejawat)."
+        "id": "Bisa tolong tutupin jendelanya?"
       },
       {
         "jp": "ここに、名前と電話番号を 書いて ください。 ……はい、わかりました。",
-        "id": "TOLONG TULISKAN nama dan nomor telepon Anda di (kolom) sini. ...... Baik, saya mengerti laksanakan."
+        "id": "Tolong tuliskan nama dan nomor telepon Anda di sini. ...... Baik, mengerti."
       }
     ],
     "tags": [
@@ -36,21 +36,21 @@
     "chapter": "Bab 10",
     "level": "A1",
     "title": "Mengkonfirmasi Ulang Instruksi (〜ですね)",
-    "meaning": "Gema Kejelasan! Jurus sakti untuk menghindari 'Miskom' di kantor. Mengulangi poin pesanan/instruksi bos untuk memastikan bahwa otak Anda telah menyerap informasi dengan benar.",
+    "meaning": "Cara buat ngulangin omongan atau instruksi dari lawan bicara biar nggak salah paham. Kepakai banget buat mastiin kita udah nangkep pesannya dengan bener.",
     "formula_template": "[Poin Penting/Angka yang Dikonfirmasi] + ですね",
-    "ui_notes": "Bubuhi partikel **「ね (Ne)」** di ekor kalimat agar terdengar seperti mencari validasi dari lawan bicara (\"Oh, ini 30 lembar YA KAN?\").",
+    "ui_notes": "Cukup tambahin partikel **「ね (ne)」** di belakang kalimatnya buat mastiin bener atau nggaknya (\"Oh, ini 30 lembar ya kan?\").",
     "examples": [
       {
         "jp": "これ、コピー、30枚 お願い。 ……はい、30ですね。",
-        "id": "Tolong ya, dokumen ini difotokopi sebanyak 30 lembar. ...... Siap laksanakan, 30 lembar YA KAN (Konfirmasi kejelasan)."
+        "id": "Tolong fotokopi ini 30 lembar ya. ...... Siap, 30 lembar ya."
       },
       {
         "jp": "これ、今日の午後 5時までに お願いします。 ……はい、5時ですね。",
-        "id": "Tolong kerjakan target ini selambatnya sampai jam 05:00 sore ini. ...... Baik dimengerti, selambatnya jam 05:00 YA."
+        "id": "Tolong selesaikan ini maksimal jam 5 sore ini ya. ...... Baik, maksimal jam 5 sore ya."
       },
       {
         "jp": "会議は、1時から です。 ……すみません。何時ですか？ ……1時。13時です。",
-        "id": "Rapat dimulai dari jam 1. ...... Mohon maaf (kurang denger/paham). JAM BERAPA mulainya? ...... Jam 1. Tepatnya Jam 13:00."
+        "id": "Rapatnya mulai jam 1. ...... Maaf, jam berapa mulainya? ...... Jam 1. Jam 13:00 siang."
       }
     ],
     "tags": [
@@ -64,29 +64,29 @@
     "chapter": "Bab 10",
     "level": "A1",
     "title": "Seni Meminjam Barang (貸してください / いいですか)",
-    "meaning": "Peminjam Berkelas! 4 variasi jurus permohonan sakti untuk meminjam paksa barang/ATK milik teman kantor.",
-    "formula_template": "1. [Benda] + 貸してください (Tolong Pinjamkan)\n2. [Benda] + 借りてもいいですか？ (Bolehkah saya pinjam?)\n3. [Benda] + いいですか？ (Boleh pakai? *Sambil Nunjuk*)\n4. [Benda] + ありますか？ (Punya nggak? *Basa-basi*)",
-    "ui_notes": "JALAN PINTAS (SHORTCUT) NOMOR 3:\nKalau Anda mager mikir grammar ribet, tinggal tunjuk saja barangnya (Misal: Isolasi) lalu teriakkan **「これ、いいですか？」** (Ini, boleh ngikut pakai?). Sangat natural dan disukai orang lapangan!",
+    "meaning": "Beberapa cara yang bisa dipakai buat minjem barang ke temen atau orang kantor.",
+    "formula_template": "1. [Benda] + 貸してください (Tolong pinjamkan)\n2. [Benda] + 借りてもいいですか？ (Boleh pinjam?)\n3. [Benda] + いいですか？ (Boleh pakai? *Sambil Nunjuk*)\n4. [Benda] + ありますか？ (Punya nggak?)",
+    "ui_notes": "CARA PALING GAMPANG NOMOR 3:\nKalau males mikir pola yang ribet, tinggal tunjuk aja barangnya terus ngomong **「これ、いいですか？」** (Ini, boleh kupakai?). Kelihatan natural dan gampang diucapin!",
     "examples": [
       {
         "jp": "ホチキス、貸して ください。",
-        "id": "TOLONG PINJAMKAN alat stapler (kepada saya)."
+        "id": "Tolong pinjamkan staplernya."
       },
       {
         "jp": "すみません。借りても いいですか？",
-        "id": "Mohon dimaafkan. APAKAH BOLEH HAMBA MEMINJAMNYA?"
+        "id": "Permisi, boleh saya pinjam?"
       },
       {
         "jp": "これ、いいですか？",
-        "id": "Ini, BOLEH DIPAKAI (DIPINJAM) NGGAK?"
+        "id": "Ini boleh kupakai nggak?"
       },
       {
         "jp": "スマホの充電器、ありますか？",
-        "id": "(Charger) Pengisi daya smartphone, ADA/PUNYA NGGAK?"
+        "id": "Kamu punya charger HP nggak?"
       },
       {
         "jp": "すみません。これ、いいですか？ ……のり？ いいよ。どうぞ。",
-        "id": "Permisi. Benda ini, BOLEH NGGAK DIPAKAI/DIPINJAM? ...... Maksudnya Lem? Boleh dong ah. Silakan."
+        "id": "Permisi, ini boleh kupinjam? ...... Lem? Boleh kok, silakan."
       }
     ],
     "tags": [

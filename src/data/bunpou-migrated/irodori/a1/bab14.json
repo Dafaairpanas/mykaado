@@ -4,21 +4,21 @@
     "chapter": "Bab 14",
     "level": "A1",
     "title": "〜に ありますか？ (Apakah ada... di...?)",
-    "meaning": "Pendeteksi Fasilitas Umum! Digunakan saat Anda kebingungan di jalan dan ingin bertanya kepada warga sekitar mengenai letak keberadaan suatu tempat/fasilitas (seperti ATM, mini market, toilet).",
+    "meaning": "Sering dipakai pas lagi kebingungan di jalan dan pengen nanya ke orang sekitar tentang letak tempat atau fasilitas (kayak ATM, minimarket, toilet).",
     "formula_template": "[Tempat Acuan] に、[Fasilitas/Benda] は ありますか？",
-    "ui_notes": "SOP BERTANYA DI JALAN:\n- Sangat manjur digabung dengan kata pengantar **「この近くに」** (Apakah di dekat-dekat sini ada...?).\n- JIKA Anda ingin bertanya lebih to the point tanpa basa-basi (Tembak Langsung), gunakan: **「〜は、どこにありますか？」** (Ada di sebelah mana ya?) atau **「〜は、どこですか？」** (Di mana ya?).",
+    "ui_notes": "TIPS NANYA DI JALAN:\n- Biasanya digabung sama pembuka **「この近くに」** (Apakah di deket sini ada...?).\n- Kalau mau nanya langsung to the point tanpa basa-basi, bisa pakai: **「〜は、どこにありますか？」** (Ada di sebelah mana ya?) atau **「〜は、どこですか？」** (Di mana ya?).",
     "examples": [
       {
         "jp": "すみません。この近くに、ATMは ありますか？ ……ええ、この先に ありますよ。",
-        "id": "Permisi. APAKAH ADA ATM di dekat-dekat sini? ...... Ya, ADA di depan situ kok."
+        "id": "Permisi. Apa di deket sini ada ATM? ...... Iya, ada di depan situ kok."
       },
       {
         "jp": "あのう、自動販売機は、どこに ありますか？ ……あっちです。",
-        "id": "Umm, Mesin penjual otomatis (Vending Machine) ADA DI SEBELAH MANA ya? ...... (Ada) di sebelah sana tuh."
+        "id": "Umm, mesin penjual otomatisnya ada di sebelah mana ya? ...... Oh, di sebelah sana."
       },
       {
         "jp": "あのう、トイレは、どこですか？ ……この奥です。",
-        "id": "Umm, Toilet DI MANA ya? ...... Di bagian dalam sana."
+        "id": "Permisi, toiletnya di mana ya? ...... Ada di dalem sana."
       }
     ],
     "tags": [
@@ -32,17 +32,17 @@
     "chapter": "Bab 14",
     "level": "A1",
     "title": "〜に います (Saya Sedang Berada di...)",
-    "meaning": "Pemancar GPS Darurat! Pola ini digunakan untuk membeberkan koordinat titik kumpul secara spesifik mengenai TEMPAT KEBERADAAN DIRI ANDA saat ini. Sangat krusial dipakai ketika janjian bertemu kawan agar tidak nyasar.",
+    "meaning": "Pola ini dipakai buat ngasih tau posisi detail kita lagi ada di mana. Berguna banget kalau lagi janjian ketemuan sama temen biar nggak nyasar.",
     "formula_template": "[Tempat Patokan] の [Posisi Arah (前/横/中/後ろ)] に います",
-    "ui_notes": "CARA SHORTCUT / JALAN PINTAS:\nDi akhir kalimat, ketimbang repot bilang **「〜に います」** (Sedang ada di...), orang Jepang aslinya sangat sering menyederhanakannya menjadi **「〜です」** saja (Contoh: インフォメーションの前です / Saya di depan pusat informasi kok!).",
+    "ui_notes": "CARA LEBIH GAMPANG:\nDaripada repot-repot bilang **「〜に います」** (Sedang ada di...), orang Jepang aslinya lebih sering pakai singkatan **「〜です」** aja di belakang kalimat (Contoh: インフォメーションの前です / Saya di depan pusat informasi!).",
     "examples": [
       {
         "jp": "今、どこに いますか？ ……コンビニの中に います。",
-        "id": "Sekarang lagi BERADA DI mana? ...... SAYA LAGI ADA DI DALAM minimarket nih."
+        "id": "Sekarang lagi di mana? ...... Aku lagi di dalem minimarket nih."
       },
       {
         "jp": "あのう、今、どこですか？ ……インフォメーションの前です。",
-        "id": "Umm, sekarang posisinya DI MANA? ...... (Saya) DI DEPAN pusat informasi (Disingkat pakai です)."
+        "id": "Permisi, sekarang posisinya di mana? ...... Aku di depan pusat informasi."
       }
     ],
     "tags": [
@@ -56,21 +56,21 @@
     "chapter": "Bab 14",
     "level": "A1",
     "title": "Kata Sifat + Kata Benda (〜な N / 〜い N)",
-    "meaning": "Penyambung Kesan Estetika! Digunakan untuk menyuntikkan nyawa/kesan pada sebuah tempat atau barang. Sang Kata Sifat dikawinkan dan dilem menempel langsung persis DI DEPAN Kata Benda yang disifatinya.",
+    "meaning": "Dipakai buat ngasih sifat/kesan ke suatu tempat atau barang. Kata sifatnya digabung langsung DI DEPAN kata benda yang dijelasin.",
     "formula_template": "1. [Sifat-ナ (coret だ) + な] + Kata Benda\n2. [Sifat-イ (murni ekor い)] + Kata Benda",
-    "ui_notes": "JEBAKAN BATMAN PEMULA (AWAS!):\n- **きれい** (Kirei / Indah/Cantik/Bersih) itu adalah golongan KATA SIFAT-NA mutlak! Jadi HARUS pakai **な** (きれいな公園 / Taman yang cantik), BUKAN きれいい!\n- Khusus 2 saudara: **大きい (Besar)** & **小さい (Kecil)** adalah Kata Sifat-I, NAMUN mereka punya KARTU VIP. Keduanya BISA memakai dua wujud kostum: Boleh pakai **い** (大きい建物), BOLEH JUGA pakai **な** (大きな建物). Maknanya 100% sama persis.\n\n### 📝 TABEL PERBANDINGAN SIFAT (Adjektiva ナ vs イ)\n\n| Jenis Sifat | Akhiran Positif | Saat Menerangkan Benda | Akhiran Negatif |\n|---|---|---|---|\n| **Sifat ナ** | 〜です (にぎやかです) | **〜な** (にぎやかな通り) | 〜じゃないです (にぎやかじゃないです) |\n| **Sifat イ** | 〜いです (広いです) | **〜い** (広い公園) | 〜くないです (広くないです) |",
+    "ui_notes": "HATI-HATI YA:\n- **きれい** (Kirei / Cantik/Bersih) itu termasuk KATA SIFAT-NA! Jadi HARUS pakai **な** (きれいな公園 / Taman yang cantik), BUKAN きれいい!\n- Khusus 2 kata ini: **大きい (Besar)** & **小さい (Kecil)** itu Kata Sifat-I, TAPI mereka bisa pakai dua bentuk: Boleh pakai **い** (大きい建物), BOLEH JUGA pakai **な** (大きな建物). Artinya sama persis kok.\n\n### 📝 PERBANDINGAN SIFAT (Adjektiva ナ vs イ)\n\n| Jenis Sifat | Bentuk Biasa | Pas Nempel ke Benda | Bentuk Negatif |\n|---|---|---|---|\n| **Sifat ナ** | 〜です (にぎやかです) | **〜な** (にぎやかな通り) | 〜じゃないです (にぎやかじゃないです) |\n| **Sifat イ** | 〜いです (広いです) | **〜い** (広い公園) | 〜くないです (広くないです) |",
     "examples": [
       {
         "jp": "にぎやかな 通りですね。",
-        "id": "Jalanan YANG RAMAI RIUH (Sifat-Na) ya (Kesannya)."
+        "id": "Jalanan yang rame ya."
       },
       {
         "jp": "広い 公園ですね。",
-        "id": "Taman YANG LUAS BENTANG (Sifat-I) ya."
+        "id": "Taman yang luas ya."
       },
       {
         "jp": "ここは、中央公園です。 ……わあ、きれいな 公園ですね。",
-        "id": "Ini adalah Taman Chuuoo. ...... Wah, taman YANG INDAH MENAWAN (きれいな) ya."
+        "id": "Ini Taman Chuuoo. ...... Wah, taman yang indah ya."
       }
     ],
     "tags": [

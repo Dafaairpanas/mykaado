@@ -4,9 +4,9 @@
     "chapter": "Bab 09",
     "level": "A1",
     "title": "【waktu】にV-ます ([Waktu] ni V-masu)",
-    "meaning": "Pola kalimat untuk menyatakan waktu terjadinya suatu aktivitas. Partikel 'に' digunakan untuk menunjukkan waktu spesifik (jam, hari, tanggal). Berbeda dengan 'で' untuk lokasi aktivitas, 'に' untuk waktu aktivitas. Artinya 'melakukan [aktivitas] pada [waktu]'.",
+    "meaning": "Pola kalimat buat ngasih tau kapan suatu kegiatan dilakuin. Partikel 'に' dipakai buat nunjukin waktu yang spesifik (jam, hari, tanggal). Ingat, kalau 'で' buat lokasi aktivitas, nah 'に' ini buat waktu aktivitas.",
     "formula_template": "{A} に {B}",
-    "ui_notes": "'ごろ' (goro) berarti 'sekitar' dan digunakan setelah waktu untuk menunjukkan perkiraan. Tidak perlu partikel 'に' setelah 'ごろ'. Contoh: 8時ごろ起きます (Bangun sekitar jam 8). Untuk hari, gunakan 'に' seperti: 月曜日に働きます (Bekerja pada hari Senin).",
+    "ui_notes": "Kalau 'ごろ' (goro) itu artinya 'sekitar' dan dipakai habis nyebutin waktu buat ngasih perkiraan. Abis 'ごろ' nggak perlu dipakain 'に' lagi ya. Contoh: 8時ごろ起きます (Bangun sekitar jam 8-an). Buat hari juga pakai 'に': 月曜日に働きます (Kerja di hari Senin).",
     "examples": [
       {
         "jp": "5時に起きます。",
@@ -30,9 +30,9 @@
     "chapter": "Bab 09",
     "level": "A1",
     "title": "【waktu】から【waktu】まで ([Waktu] kara [waktu] made)",
-    "meaning": "Pola kalimat untuk menyatakan rentang waktu dari titik awal hingga titik akhir. 'から' berarti 'dari' dan 'まで' berarti 'sampai'. Digunakan untuk menjelaskan durasi atau jadwal suatu kegiatan. Artinya 'dari [waktu] sampai [waktu]'.",
+    "meaning": "Pola kalimat buat ngasih tau rentang waktu dari awal sampai akhir. 'から' artinya 'dari' dan 'まで' artinya 'sampai'. Biasa dipakai buat ngejelasin durasi atau jadwal.",
     "formula_template": "{A} から {B} まで",
-    "ui_notes": "Bisa juga digunakan untuk menyatakan rentang hari atau tanggal. Contoh: 月曜日から金曜日まで (dari Senin sampai Jumat). Untuk menanyakan rentang waktu, gunakan: 何時から何時までですか？ (Dari jam berapa sampai jam berapa?).",
+    "ui_notes": "Bisa juga dipakai buat rentang hari atau tanggal lho. Contoh: 月曜日から金曜日まで (dari hari Senin sampai Jumat). Kalau mau nanya rentang waktunya, pakainya: 何時から何時までですか？ (Dari jam berapa sampai jam berapa?).",
     "examples": [
       {
         "jp": "12時から1時まで昼休みです。",
@@ -56,9 +56,9 @@
     "chapter": "Bab 09",
     "level": "A1",
     "title": "【hari/waktu】がいいです ([Hari/Waktu] ga ii desu)",
-    "meaning": "Pola kalimat untuk menyatakan pilihan waktu atau hari yang dianggap baik/nyaman. 'が' menandakan subjek (waktu yang dipilih), dan 'いいです' berarti 'bagus'. Sangat berguna saat menentukan jadwal pertemuan atau janji. Artinya '[Hari/waktu] itu bagus' atau 'Saya pilih [hari/waktu]'.",
+    "meaning": "Pola kalimat buat milih waktu atau hari yang dirasa pas/cocok. 'が' nandain subjeknya (waktu yang dipilih), terus 'いいです' artinya 'bagus/oke'. Berguna banget pas lagi nentuin jadwal janjian.",
     "formula_template": "{A} が いいです",
-    "ui_notes": "Untuk menanyakan pilihan waktu orang lain: いつがいいですか？ (Kapan yang bagus?). Untuk menawarkan pilihan: 水曜日はどうですか？ (Bagaimana kalau Rabu?). Bisa juga digunakan untuk pilihan benda: これがいいです。 (Saya pilih ini.)",
+    "ui_notes": "Kalau mau nanya ke orang lain bisanya kapan: いつがいいですか？ (Kapan bisanya/enaknya?). Kalau mau nawarin pilihan: 水曜日はどうですか？ (Kalau Rabu gimana?). Bisa juga buat milih barang: これがいいです。 (Saya pilih yang ini aja).",
     "examples": [
       {
         "jp": "私は土曜日がいいです。",

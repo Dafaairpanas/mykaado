@@ -9,13 +9,13 @@
     "ui_notes": "Pola ini digunakan untuk menyatakan **penilaian langsung menggunakan indra penglihatan** (menebak dari penampilan). Misalnya saat melihat masakan dan berkomentar *kelihatannya enak*, *kelihatannya pedas*, dsb.\n\n* **Kata Sifat-イ**: Coret bunyi **い**, lalu tambah **そうです** (おいしい → おいしそうです).\n* **Kata Sifat-ナ**: Coret akhiran **な**, lalu tambah **そうです** (元気 → 元気そうです).",
     "examples": [
       {
-        "japanese": "そのお弁当、おいしそうですね。",
-        "indonesian": "Bekal Anda kelihatannya enak ya.",
+        "jp": "そのお弁当、おいしそうですね。",
+        "id": "Bekal Anda kelihatannya enak ya.",
         "romaji": "Sono obentou, oishisou desu ne."
       },
       {
-        "japanese": "Ａ： みかん、ちょっとすっぱそうですね。\nＢ： そんなことないわよ。甘いわよ。",
-        "indonesian": "A: Jeruk ini kelihatannya agak asam, ya?\nB: Tidak kok. Manis, lho.",
+        "jp": "Ａ： みかん、ちょっとすっぱそうですね。\nＢ： そんなことないわよ。甘いわよ。",
+        "id": "A: Jeruk ini kelihatannya agak asam, ya?\nB: Tidak kok. Manis, lho.",
         "romaji": "A: Mikan, chotto suppasou desu ne.\nB: Sonna koto nai wa yo. Amai wa yo."
       }
     ],
@@ -31,13 +31,13 @@
     "ui_notes": "Kalau kamu ingin menjadikan tebakan/penampilan itu sebagai *penjelas* untuk sebuah benda, ubah **そうです** menjadi **そうな**.\n\n* Contoh: **おいしそうなケーキ** (Kue yang kelihatannya enak).",
     "examples": [
       {
-        "japanese": "それ、辛そうな料理ですね。",
-        "indonesian": "Sepertinya itu masakan yang pedas, ya.",
+        "jp": "それ、辛そうな料理ですね。",
+        "id": "Sepertinya itu masakan yang pedas, ya.",
         "romaji": "Sore, karasouna ryouri desu ne."
       },
       {
-        "japanese": "おいしそうなケーキですね。",
-        "indonesian": "Kue yang terlihat lezat, ya.",
+        "jp": "おいしそうなケーキですね。",
+        "id": "Kue yang terlihat lezat, ya.",
         "romaji": "Oishisouna keeki desu ne."
       }
     ],
@@ -53,23 +53,23 @@
     "ui_notes": "Pada Bab 5 kita sudah memakai **～くて** untuk menderetkan dua kata sifat. Namun, ternyata bentuk **～くて** juga bisa berfungsi sebagai **alasan** untuk kalimat selanjutnya.\n\n* Positif: **～くて** (Contoh: 甘くて = Karena manis)\n* Negatif: **～くなくて** (Contoh: 甘くなくて = Karena tidak manis)",
     "examples": [
       {
-        "japanese": "この卵焼き、甘くて、おいしいですね。",
-        "indonesian": "Tamagoyaki ini enak karena manis.",
+        "jp": "この卵焼き、甘くて、おいしいですね。",
+        "id": "Tamagoyaki ini enak karena manis.",
         "romaji": "Kono tamagoyaki, amakute, oishii desu ne."
       },
       {
-        "japanese": "茶碗蒸し、甘くなくて、おいしいですよ。",
-        "indonesian": "Chawanmushi-nya enak karena tidak manis, lho.",
+        "jp": "茶碗蒸し、甘くなくて、おいしいですよ。",
+        "id": "Chawanmushi-nya enak karena tidak manis, lho.",
         "romaji": "Chawanmushi, amakunakute, oishii desu yo."
       },
       {
-        "japanese": "梅干しはすっぱくて、苦手です。",
-        "indonesian": "Saya tidak suka umeboshi, karena asam.",
+        "jp": "梅干しはすっぱくて、苦手です。",
+        "id": "Saya tidak suka umeboshi, karena asam.",
         "romaji": "Umeboshi wa suppakute, nigate desu."
       },
       {
-        "japanese": "この料理は辛くなくて、子どもも食べることができます。",
-        "indonesian": "Anak-anak pun bisa makan masakan ini karena tidak pedas.",
+        "jp": "この料理は辛くなくて、子どもも食べることができます。",
+        "id": "Anak-anak pun bisa makan masakan ini karena tidak pedas.",
         "romaji": "Kono ryouri wa karakunakute, kodomo mo taberu koto ga dekimasu."
       }
     ],
@@ -85,18 +85,18 @@
     "ui_notes": "Digunakan ketika kita akan melakukan sesuatu untuk pertama kalinya agar tahu seperti apa rasanya / efeknya (misal: mencicipi makanan).\n\n* Dapat digabungkan dengan ungkapan ajakan/saran, seperti: **食べてみてください** (tolong coba cicipi), **行ってみませんか？** (maukah coba pergi ke sana?), atau **行ってみたい** (ingin coba pergi).",
     "examples": [
       {
-        "japanese": "よかったら、この卵焼き、食べてみてください。",
-        "indonesian": "Kalau Anda mau, silakan cicipi tamagoyaki ini.",
+        "jp": "よかったら、この卵焼き、食べてみてください。",
+        "id": "Kalau Anda mau, silakan cicipi tamagoyaki ini.",
         "romaji": "Yokattara, kono tamagoyaki, tabete mite kudasai."
       },
       {
-        "japanese": "Ａ： 梅干し、食べてみる？\nＢ： はい。いただきます。",
-        "indonesian": "A: Mau coba cicipi umeboshi?\nB: Ya, terima kasih.",
+        "jp": "Ａ： 梅干し、食べてみる？\nＢ： はい。いただきます。",
+        "id": "A: Mau coba cicipi umeboshi?\nB: Ya, terima kasih.",
         "romaji": "A: Umeboshi, tabete miru?\nB: Hai. Itadakimasu."
       },
       {
-        "japanese": "今度、おすしを作ってみます。",
-        "indonesian": "Berikutnya, saya akan coba membuat sushi.",
+        "jp": "今度、おすしを作ってみます。",
+        "id": "Berikutnya, saya akan coba membuat sushi.",
         "romaji": "Kondo, osushi o tsukutte mimasu."
       }
     ],
@@ -112,23 +112,23 @@
     "ui_notes": "Bahasa Jepang membedakan kata kerja berdasarkan pelakunya:\n\n* **Verba Transitif (他動詞)**: Menunjukkan bahwa seseorang melakukan aksi secara sengaja. Polanya: **(Orang が) N を V**. Contoh: **入れる** (memasukkan).\n* **Verba Intransitif (自動詞)**: Fokus pada *peristiwa* atau *kondisi*, bukan pelakunya. Polanya: **N が V**. Contoh: **入る** (masuk / berisi).\n\n### 💡 Recap: Pasangan Kata Kerja\n| Verba Intransitif (Fokus Kondisi) | Verba Transitif (Fokus Pelaku) |\n|---|---|\n| **入（はい）る** (isinya/terkandung) | **入（い）れる** (memasukkan) |\n| **焼（や）ける** (sudah matang) | **焼（や）く** (memanggang) |\n| **煮（に）える** (sudah matang direbus) | **煮（に）る** (merebus) |\n\n*Catatan: **Verba Intransitif bentuk-te + います** dipakai untuk menjelaskan suatu kondisi secara objektif (Contoh: ~が入っています = di dalamnya berisi ~).* ",
     "examples": [
       {
-        "japanese": "鶏肉とか、エビとか、きのことかが入ってます。",
-        "indonesian": "Isinya ayam, udang, dan jamur.",
+        "jp": "鶏肉とか、エビとか、きのことかが入ってます。",
+        "id": "Isinya ayam, udang, dan jamur.",
         "romaji": "Toriniku toka, ebi toka, kinoko toka ga haittemasu."
       },
       {
-        "japanese": "ときどき、銀杏も入れますよ。",
-        "indonesian": "Kadang memasukkan kacang ginkgo juga.",
+        "jp": "ときどき、銀杏も入れますよ。",
+        "id": "Kadang memasukkan kacang ginkgo juga.",
         "romaji": "Tokidoki, ginnan mo iremasu yo."
       },
       {
-        "japanese": "すき焼きには牛肉、豆腐、ねぎが入っています。ときどき、しいたけを入れます。",
-        "indonesian": "Sukiyaki isinya daging sapi, tahu, dan daun bawang. Kadang saya memasukkan jamur shiitake.",
+        "jp": "すき焼きには牛肉、豆腐、ねぎが入っています。ときどき、しいたけを入れます。",
+        "id": "Sukiyaki isinya daging sapi, tahu, dan daun bawang. Kadang saya memasukkan jamur shiitake.",
         "romaji": "Sukiyaki ni wa gyuuniku, toufu, negi ga haitte imasu. Tokidoki, shiitake o iremasu."
       },
       {
-        "japanese": "Ａ： 肉が焼けましたよ。食べてください。\nＢ： いただきます。\nＡ： 次は何を焼きますか？",
-        "indonesian": "A: Dagingnya sudah matang, silakan dimakan.\nB: Terima kasih.\nA: Selanjutnya memanggang apa?",
+        "jp": "Ａ： 肉が焼けましたよ。食べてください。\nＢ： いただきます。\nＡ： 次は何を焼きますか？",
+        "id": "A: Dagingnya sudah matang, silakan dimakan.\nB: Terima kasih.\nA: Selanjutnya memanggang apa?",
         "romaji": "A: Niku ga yakemashita yo. Tabete kudasai.\nB: Itadakimasu.\nA: Tsugi wa nani o yakimasu ka?"
       }
     ],
@@ -144,13 +144,13 @@
     "ui_notes": "Ungkapan ini adalah pertanyaan bernada khawatir, dipakai untuk memastikan apakah lawan bicara merasa baik-baik saja dengan kondisi yang ada.\n\n* Contoh: **寒くないですか？** (Apakah tidak kedinginan?), **難しくないですか？** (Apakah tidak sulit?).",
     "examples": [
       {
-        "japanese": "味は、うすくないですか？",
-        "indonesian": "Apakah bumbunya tidak kurang terasa?",
+        "jp": "味は、うすくないですか？",
+        "id": "Apakah bumbunya tidak kurang terasa?",
         "romaji": "Aji wa, usukunai desu ka?"
       },
       {
-        "japanese": "Ａ： わさび、辛くないですか？\nＢ： だいじょうぶです。わさび、大好きですから。",
-        "indonesian": "A: Apakah wasabinya tidak pedas?\nB: Tidak apa-apa, saya sangat suka wasabi.",
+        "jp": "Ａ： わさび、辛くないですか？\nＢ： だいじょうぶです。わさび、大好きですから。",
+        "id": "A: Apakah wasabinya tidak pedas?\nB: Tidak apa-apa, saya sangat suka wasabi.",
         "romaji": "A: Wasabi, karakunai desu ka?\nB: Daijoubu desu. Wasabi, daisuki desu kara."
       }
     ],

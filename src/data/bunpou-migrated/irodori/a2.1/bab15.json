@@ -9,18 +9,18 @@
     "ui_notes": "Pada Bab 14 kita menggunakan **～んです** sebagai alasan meminta izin. Di bab ini, polanya dipakai untuk **menjelaskan gejala/kondisi penyakit** kepada dokter di rumah sakit.\n\n### 🔧 Cara Membentuk:\n* **Kata Benda**: Tambahkan **なんです** (Contoh: 風邪なんです = Saya flu)\n* **Kata Sifat-ナ**: Tambahkan **なんです** (Contoh: 大変なんです)\n* **Kata Sifat-イ**: Tambahkan **んです** (Contoh: 痛いんです)\n* **Kata Kerja (Bentuk Kamus, Ta, Nai)**: Tambahkan **んです** (Contoh: 熱があるんです, ぶつけたんです, 止まらないんです)\n\n*(Catatan: Ketika kita menanyai kondisi orang yang terlihat sakit, gunakan **どうしたんですか？**. Tapi jika dokter yang bertanya ke pasiennya, wajarnya menggunakan **どうしましたか？**).* ",
     "examples": [
       {
-        "japanese": "昨日から38度の熱があって、のどがすごく痛いんです。",
-        "indonesian": "Sejak kemarin saya demam sampai 38°C dan tenggorokan rasanya sakit sekali.",
+        "jp": "昨日から38度の熱があって、のどがすごく痛いんです。",
+        "id": "Sejak kemarin saya demam sampai 38°C dan tenggorokan rasanya sakit sekali.",
         "romaji": "Kinou kara sanjuuhachido no netsu ga atte, nodo ga sugoku itain desu."
       },
       {
-        "japanese": "医者： 今日は、どうしましたか？\n患者： 頭が痛くて、吐き気がするんです。\n医者： いつからですか？",
-        "indonesian": "Dokter: Apa yang Anda rasakan hari ini?\nPasien: Saya sakit kepala dan merasa mual.\nDokter: Sejak kapan Anda merasakannya?",
+        "jp": "医者： 今日は、どうしましたか？\n患者： 頭が痛くて、吐き気がするんです。\n医者： いつからですか？",
+        "id": "Dokter: Apa yang Anda rasakan hari ini?\nPasien: Saya sakit kepala dan merasa mual.\nDokter: Sejak kapan Anda merasakannya?",
         "romaji": "Isha: Kyou wa, dou shimashita ka?\nKanja: Atama ga itakute, hakike ga surun desu.\nIsha: Itsu kara desu ka?"
       },
       {
-        "japanese": "Ａ： 腕のけが、どうしたんですか？\nＢ： 自転車で転んだんです。\nＡ： 気をつけてくださいね。",
-        "indonesian": "A: Lengan Anda luka. Apa yang terjadi?\nB: Saya jatuh dari sepeda.\nA: Lain kali lebih berhati-hati, ya.",
+        "jp": "Ａ： 腕のけが、どうしたんですか？\nＢ： 自転車で転んだんです。\nＡ： 気をつけてくださいね。",
+        "id": "A: Lengan Anda luka. Apa yang terjadi?\nB: Saya jatuh dari sepeda.\nA: Lain kali lebih berhati-hati, ya.",
         "romaji": "A: Ude no kega, dou shitan desu ka?\nB: Jitensha de korondan desu.\nA: Ki o tsukete kudasai ne."
       }
     ],
@@ -36,13 +36,13 @@
     "ui_notes": "Ungkapan ini adalah instruksi atau larangan lunak, meminta orang lain untuk **tidak melakukan sesuatu**. Misalnya dokter yang meminta pasien untuk tidak bekerja, mandi, atau berolahraga berat.\n\n* Jika tingkat kesopanannya ingin divariasikan sesuai kedekatan, bisa menggunakan: **V-ないで** (casual), **V-ないでくれる？** (meminta santai), atau **V-ないでもらえませんか？** (meminta dengan sangat sopan).",
     "examples": [
       {
-        "japanese": "今週は仕事を休んで、できるだけ人に会わないでください。",
-        "indonesian": "Pekan ini Anda sebaiknya cuti kerja dan sebisa mungkin jangan bertemu orang lain.",
+        "jp": "今週は仕事を休んで、できるだけ人に会わないでください。",
+        "id": "Pekan ini Anda sebaiknya cuti kerja dan sebisa mungkin jangan bertemu orang lain.",
         "romaji": "Konshuu wa shigoto o yasunde, dekiru dake hito ni awanaide kudasai."
       },
       {
-        "japanese": "Ａ： 風邪ですね。しばらく、激しい運動をしないでください。\nＢ： お風呂に入ってもいいですか？\nＡ： 熱がありますから、今日は、入らないでください。",
-        "indonesian": "A: Anda menderita selesma (masuk angin). Untuk sementara waktu, jangan melakukan olahraga berat dulu.\nB: Apakah saya boleh mandi?\nA: Karena saat ini Anda demam, hari ini jangan mandi dulu.",
+        "jp": "Ａ： 風邪ですね。しばらく、激しい運動をしないでください。\nＢ： お風呂に入ってもいいですか？\nＡ： 熱がありますから、今日は、入らないでください。",
+        "id": "A: Anda menderita selesma (masuk angin). Untuk sementara waktu, jangan melakukan olahraga berat dulu.\nB: Apakah saya boleh mandi?\nA: Karena saat ini Anda demam, hari ini jangan mandi dulu.",
         "romaji": "A: Kaze desu ne. Shibaraku, hageshii undou o shinaide kudasai.\nB: Ofuro ni haitte mo ii desu ka?\nA: Netsu ga arimasu kara, kyou wa, hairanaide kudasai."
       }
     ],
@@ -58,13 +58,13 @@
     "ui_notes": "Dalam bahasa Jepang, frasa penjelas selalu diletakkan *di depan* Kata Benda yang dijelaskan. Pola ini dipakai untuk menjelaskan khasiat/fungsi benda (misal: obat).\n\n* Contoh: *Obat* + *meredakan batuk* = **せきを抑（おさ）える ＋ 薬（くすり）** (Obat yang meredakan batuk / Obat pereda batuk).\n* Karena yang digunakan adalah \"Bentuk Biasa\" yang positif dan non-lampau, maka kata kerja penjelasnya menggunakan **Bentuk Kamus** (Contoh: 抑えます → 抑える).",
     "examples": [
       {
-        "japanese": "こちらは、せきを抑える薬です。",
-        "indonesian": "Ini adalah obat untuk meredakan batuk.",
+        "jp": "こちらは、せきを抑える薬です。",
+        "id": "Ini adalah obat untuk meredakan batuk.",
         "romaji": "Kochira wa, seki o osaeru kusuri desu."
       },
       {
-        "japanese": "Ａ： これは何の薬ですか？\nＢ： 熱を下げる薬です。胃を守る薬と一緒に飲んでください。",
-        "indonesian": "A: Ini obat apa?\nB: Obat penurun panas. Minumlah bersama obat (pelindung) lambung.",
+        "jp": "Ａ： これは何の薬ですか？\nＢ： 熱を下げる薬です。胃を守る薬と一緒に飲んでください。",
+        "id": "A: Ini obat apa?\nB: Obat penurun panas. Minumlah bersama obat (pelindung) lambung.",
         "romaji": "A: Kore wa nan no kusuri desu ka?\nB: Netsu o sageru kusuri desu. I o mamoru kusuri to issho ni nonde kudasai."
       }
     ],
@@ -80,18 +80,18 @@
     "ui_notes": "Di Bab 8 kita sudah memakai pola ini untuk Kata Benda. Sekarang, kita memakainya dengan Kata Kerja untuk mengatur **urutan waktu kegiatan**.\n\n* **前に (Sebelum)**: Disambungkan dengan **Bentuk Kamus** (Contoh: 寝る前に / Sebelum tidur)\n* **あと (Setelah)**: Disambungkan dengan **Bentuk-ta** karena kegiatannya sudah harus berlalu (Contoh: 食べたあと / Setelah makan).",
     "examples": [
       {
-        "japanese": "1日1回、寝る前に飲んでください。",
-        "indonesian": "Minumlah satu hari sekali sebelum tidur.",
+        "jp": "1日1回、寝る前に飲んでください。",
+        "id": "Minumlah satu hari sekali sebelum tidur.",
         "romaji": "Ichinichi ikkai, neru mae ni nonde kudasai."
       },
       {
-        "japanese": "飲むと、眠くなります。飲んだあと、運転しないでくださいね。",
-        "indonesian": "Kalau diminum, obat ini akan menyebabkan kantuk. Mohon jangan berkendara setelah minum obat ini, ya.",
+        "jp": "飲むと、眠くなります。飲んだあと、運転しないでくださいね。",
+        "id": "Kalau diminum, obat ini akan menyebabkan kantuk. Mohon jangan berkendara setelah minum obat ini, ya.",
         "romaji": "Nomu to, nemuku narimasu. Nonda ato, unten shinaide kudasai ne."
       },
       {
-        "japanese": "Ａ： この薬は、いつ飲みますか？\nＢ： 白い薬は、ご飯を食べたあと、飲んでください。カプセルは、寝る前に、飲んでください。",
-        "indonesian": "A: Kapan saya harus minum obat ini?\nB: Obat berwarna putih diminum setelah makan. Obat berbentuk kapsul diminum sebelum tidur.",
+        "jp": "Ａ： この薬は、いつ飲みますか？\nＢ： 白い薬は、ご飯を食べたあと、飲んでください。カプセルは、寝る前に、飲んでください。",
+        "id": "A: Kapan saya harus minum obat ini?\nB: Obat berwarna putih diminum setelah makan. Obat berbentuk kapsul diminum sebelum tidur.",
         "romaji": "A: Kono kusuri wa, itsu nomimasu ka?\nB: Shiroi kusuri wa, gohan o tabeta ato, nonde kudasai. Kapuseru wa, neru mae ni, nonde kudasai."
       }
     ],
@@ -107,18 +107,18 @@
     "ui_notes": "Menyambung pola **とき** (ketika/saat) yang sebelumnya dipelajari (Bab 10 & 13), kali ini kita fokus menerapkannya pada saran medis, seperti \"Kapan obat diminum\" atau \"Apa yang harus dilakukan saat sakit\".\n\n* Dapat dirangkai dengan: **Bentuk Kamus** (熱があるとき), **Bentuk-ta** (風邪をひいたとき), maupun **Bentuk-nai** (せきが止まらないとき).\n* Tambahkan **は** di belakang **とき** (menjadi ときは) jika kamu ingin menjadikannya sebagai *Topik Utama*.",
     "examples": [
       {
-        "japanese": "この薬は、痛くてがまんできないときに、飲んでください。",
-        "indonesian": "Minumlah obat ini ketika merasa sakit yang sangat amat (tidak tertahankan).",
+        "jp": "この薬は、痛くてがまんできないときに、飲んでください。",
+        "id": "Minumlah obat ini ketika merasa sakit yang sangat amat (tidak tertahankan).",
         "romaji": "Kono kusuri wa, itakute gaman dekinai toki ni, nonde kudasai."
       },
       {
-        "japanese": "Ａ： この薬は、いつ飲みますか？\nＢ： 高い熱が出たとき飲んでください。",
-        "indonesian": "A: Kapan saya minum obat ini?\nB: Minumlah ketika demam tinggi.",
+        "jp": "Ａ： この薬は、いつ飲みますか？\nＢ： 高い熱が出たとき飲んでください。",
+        "id": "A: Kapan saya minum obat ini?\nB: Minumlah ketika demam tinggi.",
         "romaji": "A: Kono kusuri wa, itsu nomimasu ka?\nB: Takai netsu ga deta toki nonde kudasai."
       },
       {
-        "japanese": "風邪のときは、温かくして、よく休んでください。",
-        "indonesian": "Ketika selesma (masuk angin), usahakan menjaga diri Anda tetap hangat dan banyak beristirahat.",
+        "jp": "風邪のときは、温かくして、よく休んでください。",
+        "id": "Ketika selesma (masuk angin), usahakan menjaga diri Anda tetap hangat dan banyak beristirahat.",
         "romaji": "Kaze no toki wa, atatakaku shite, yoku yasunde kudasai."
       }
     ],

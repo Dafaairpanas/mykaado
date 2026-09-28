@@ -4,21 +4,21 @@
     "chapter": "Bab 17",
     "level": "A1",
     "title": "Laporan Aksi Masa Lampau (〜ました / 〜ませんでした)",
-    "meaning": "Mesin Waktu Aksi! Menceritakan laporan aktivitas, aksi, atau kebiasaan bergerak yang STATUSNYA SUDAH BASI alias SUDAH BERLALU atau KELAR dieksekusi di masa lampau.",
+    "meaning": "Pola buat nyeritain kejadian, aktivitas, atau kegiatan yang SUDAH SELESAI kejadiannya alias udah lewat di masa lalu.",
     "formula_template": "1. [K.Kerja] + ました (Sudah / Telah Eksekusi)\n2. [K.Kerja] + ませんでした (Tidak Mengeksekusinya kala itu)",
-    "ui_notes": "### 📝 TABEL BUKU PINTAR LORONG WAKTU (VERBA)\n\n| Lorong Waktu Dimensi | Aksi Terjadi / Positif | Aksi Batal / Negatif |\n|---|---|---|\n| **Saat Ini / Masa Depan (Rencana)** | **V-ます** (Menonton) | **V-ません / ないです** (Tidak Menonton) |\n| **Masa Lampau (Basi / Sudah Berlalu)** | **V-ました** (UDAH Menonton) | **V-ませんでした** (KEMARIN Tidak Menonton) |",
+    "ui_notes": "### 📝 TABEL LORONG WAKTU KATA KERJA\n\n| Waktu Kejadian | Udah Dilakuin (Positif) | Nggak Dilakuin (Negatif) |\n|---|---|---|\n| **Sekarang / Masa Depan** | **V-ます** (Nonton) | **V-ません / ないです** (Nggak Nonton) |\n| **Masa Lampau (Udah Lewat)** | **V-ました** (Udah Nonton) | **V-ませんでした** (Kemarin Nggak Nonton) |",
     "examples": [
       {
         "jp": "週末は、何もしませんでした。家でゆっくりしました。",
-        "id": "Akhir pekan KEMARIN, TIDAK ADA yang hamba EKSEKUSI. Hamba murni HANYA TELAH BERLEHA-LEHA di rumah rebahan."
+        "id": "Akhir pekan kemarin aku nggak ngapa-ngapain. Cuma nyantai aja di rumah."
       },
       {
         "jp": "土日は、ジムで運動しました。",
-        "id": "Saat kalender menunjuk di Sabtu-Minggu lalu, (saya) UDAH MERES KERINGAT BEROLAHRAGA di lokasi Gym."
+        "id": "Sabtu-Minggu kemarin, aku olahraga di gym."
       },
       {
         "jp": "週末は、何をしましたか？ ……家でテレビを見ました。",
-        "id": "Akhir pekan YANG SUDAH LEWAT, (Kamu) UDAH NGE-EKSEKUSI LAKUIN aksi APAAAN? ...... (Aku) UDAH MANTEK NONTON siaran televisi di dalam kandang rumah."
+        "id": "Akhir pekan kemarin kamu ngapain aja? ...... Aku nonton TV di rumah."
       }
     ],
     "tags": [
@@ -32,21 +32,21 @@
     "chapter": "Bab 17",
     "level": "A1",
     "title": "Zong Absolut Masa Lampau (何も〜 / どこにも〜)",
-    "meaning": "Palu Kekosongan Waktu! Jurus untuk menekan pernyataan kelam bahwa kemarin di masa lampau Anda BENAR-BENAR TIDAK MELAKUKAN APA-APA (Nganggur murni) atau TIDAK PERGI KE MANA-MANA (Di rumah doang).",
+    "meaning": "Pola buat ngasih tau dengan tegas kalau pas masa lalu (kemarin/minggu lalu) kamu BENER-BENER NGGAK NGELAKUIN APA-APA atau NGGAK PERGI KE MANA-MANA.",
     "formula_template": "1. 何も (Apa pun) + [K.Kerja ませんでした]\n2. どこにも (Ke mana pun) + 行きませんでした",
     "ui_notes": "",
     "examples": [
       {
         "jp": "週末は、何も しませんでした。",
-        "id": "Minggu kemarin, (aku) TIDAK (melakukan aksi) APA PUN murni bolong mager."
+        "id": "Minggu kemarin aku nggak ngapa-ngapain."
       },
       {
         "jp": "私は、どこにも 行きませんでした。",
-        "id": "Kalau saya, KEMARIN SAMA SEKALI TIDAK berangkat pergi MENUJU KE MANA PUN (Kecuali ke kasur)."
+        "id": "Kalau aku kemarin nggak pergi ke mana-mana."
       },
       {
         "jp": "連休は、どこに行きましたか？ ……どこにも 行きませんでした。家で本を読みました。",
-        "id": "Pas liburan beruntun YANG UDAH LEWAT, kamu TELAH BERANGKAT mampir KE MANA SAJA gerangan? ...... (Sedih banget nih) TIDAK PERGI MAMPIR KEMANA-MANA SAMA SEKALI. Mentok SUDAH MEMBACA koleksi buku ngumpet di rumah."
+        "id": "Pas liburan kemarin, pada pergi ke mana aja? ...... Aku nggak ke mana-mana. Cuma baca buku di rumah."
       }
     ],
     "tags": [
@@ -60,21 +60,21 @@
     "chapter": "Bab 17",
     "level": "A1",
     "title": "Kesan Masa Lampau (Adjektiva Bentuk Lampau)",
-    "meaning": "Juri Reviewer Basi! Mengomentari atau memberikan kesan (Kata Sifat) terhadap acara film / festival / kegiatan fisik YANG SUDAH SELESAI dilewati di masa lampau.",
+    "meaning": "Buat ngasih kesan atau komentar (pakai kata sifat) soal acara/film/festival yang UDAH SELESAI kamu alamin di masa lalu.",
     "formula_template": "1. [Kesan Sifat-Na (Coret な)] + でした\n2. [Kesan Sifat-I (Coret い)] + かったです\n*Pengecualian*: いい (Bagus) berubah gila menjadi 👉 よかったです",
-    "ui_notes": "### 📝 RANGKUMAN KATA TANYA INTELEJEN\n- **いくつ** : Umur berapa / Berapa buah\n- **いくら** : Berapa harganya\n- **いつ** : Kapan (Waktunya)\n- **だれ** : Siapa (Tersangkanya)\n- **どう** : Bagaimana (Kesan sifatnya)\n- **どうして** : Kenapa / Mengapa\n- **どうやって** : Bagaimana Metodenya/Cara\n- **どこ** : Ke Mana / Di Mana",
+    "ui_notes": "### 📝 RANGKUMAN KATA TANYA\n- **いくつ** : Umur berapa / Berapa buah\n- **いくら** : Berapa harganya\n- **いつ** : Kapan (Waktunya)\n- **だれ** : Siapa\n- **どう** : Gimana (Nanya kesan)\n- **どうして** : Kenapa / Mengapa\n- **どうやって** : Gimana caranya\n- **どこ** : Ke mana / Di mana",
     "examples": [
       {
         "jp": "「ゴジラ」は、まあまあでした。",
-        "id": "Film tayangan Godzila YANG KEMARIN DITONTON (Kesannya) yah lumayan-lumayan B-Aja LAH."
+        "id": "Film Godzila kemarin ya lumayan lah."
       },
       {
         "jp": "国際フェスティバルは、とても楽しかったです。",
-        "id": "Penyelenggaraan Festival kancah Internasional KEMARIN, (Bikin hamba sangat kesannya) MENYENANGKAN SERU BANGET."
+        "id": "Festival Internasional kemarin seru banget."
       },
       {
         "jp": "休みは、どうでしたか？ ……ハイキングに行きました。とても、よかったです。",
-        "id": "Gimana KESAN Liburan KAMU KEMARIN? ...... (Saya) TELAH meluncur wisata Hiking. (Kesannya) SANGAT SUPER MANTUL SEKALI."
+        "id": "Gimana liburannya kemarin? ...... Aku pergi hiking. Seru banget deh pokoknya."
       }
     ],
     "tags": [
@@ -88,21 +88,21 @@
     "chapter": "Bab 17",
     "level": "A1",
     "title": "Fakta Masa Lampau (〜でした)",
-    "meaning": "Laporan Keadaan Basi! Menceritakan identitas, cuaca, atau fakta mutlak (Kata Benda) yang HANYA TERJADI DI MASA LAMPAU alias sudah tidak terjadi lagi (Contoh: Kemarin cuacanya hujan / Kemarin bapak ultah).",
+    "meaning": "Buat nyeritain identitas, kondisi cuaca, atau fakta (kata benda) yang kejadiannya CUMA DI MASA LALU (misal: Kemarin ujan / Kemarin ulang tahun).",
     "formula_template": "[Kata Benda Status / Fakta Keadaan] + でした",
     "ui_notes": "",
     "examples": [
       {
         "jp": "とてもいい 天気でした。",
-        "id": "(Kala itu kemarin status) cuacanya SANGATLAH TERANG BAGUS."
+        "id": "Cuacanya kemarin bagus banget."
       },
       {
         "jp": "昨日は、父の 誕生日でした。みんなで、ケーキを 食べました。",
-        "id": "Pada saat kejadian kemarin itu (statusnya) ADALAH HARI ULANG TAHUN milik Ayah. Se-geng berkumpul TELAH BERSAMA memakan porsi demi porsi kue basah."
+        "id": "Kemarin tuh ulang tahun ayahku. Kita makan kue bareng-bareng."
       },
       {
         "jp": "カラオケに行きました。でも、店は 休みでした。",
-        "id": "Hamba SUDAH PERGI MENEMBUS ruang karaoke. NAMUN SAYANGNYA (Pas aku samperin), warung tokonya ITU BERADA DALAM STATUS LIBUR KOSONG."
+        "id": "Kemarin pergi ke tempat karaoke. Tapi sayangnya tokonya lagi libur."
       }
     ],
     "tags": [
@@ -116,21 +116,21 @@
     "chapter": "Bab 17",
     "level": "A1",
     "title": "Bantahan Masa Lampau (Bentuk Lampau Negatif)",
-    "meaning": "Mesin Pembantah Harapan! Mengomentari kekecewaan. Membantah mentah-mentah kesan atau fakta sebuah acara yang sudah terlewat (Acara kemarin mah Zong, nggak asyik blass / Kemarin itu bukan hujan kok).",
+    "meaning": "Dipakai buat ngungkapin kekecewaan atau ngebantah kesan/fakta tentang hal di masa lalu (misal: Acaranya kemarin nggak asyik / Kemarin tuh nggak hujan).",
     "formula_template": "1. [Kata Benda / Sifat-Na] + じゃなかったです\n2. [Sifat-I (Coret い)] + くなかったです\n*(Aliran formal bisa ganti '〜なかったです' menjadi '〜ありませんでした')*",
-    "ui_notes": "### 📝 TABEL BUKU PINTAR LORONG WAKTU (FAKTA & SIFAT)\n| Golongan Subjek | Masa Depan Positif | Masa Lampau Negatif (Bantahan) |\n|---|---|---|\n| **Kata Benda (Fakta)** | 休みです (Besok Libur) | 休みじゃなかったです (Kemarin bukan libur) |\n| **Sifat-Na (Kesan)** | きれいです (Indah) | きれいじゃなかったです (Gak indah blass) |\n| **Sifat-I (Kesan)** | 楽しいです (Seru) | 楽しくなかったです (Gak seru pisan euy) |",
+    "ui_notes": "### 📝 TABEL BANTUAN LORONG WAKTU (FAKTA & KESAN)\n| Jenis Kata | Masa Depan/Sekarang (Positif) | Masa Lalu (Negatif/Bantahan) |\n|---|---|---|\n| **Kata Benda (Fakta)** | 休みです (Libur) | 休みじゃなかったです (Kemarin bukan libur) |\n| **Sifat-Na (Kesan)** | きれいです (Cantik) | きれいじゃなかったです (Kemarin nggak cantik) |\n| **Sifat-I (Kesan)** | 楽しいです (Seru) | 楽しくなかったです (Kemarin nggak seru) |",
     "examples": [
       {
         "jp": "お客さんは、あまり 多くなかったです。",
-        "id": "(Pas acara KEMARIN itu kenyataannya) Massa penonton TAMU pengunjung TIDAK BEGITU MEMBELUDAK BANYAK jumlahnya."
+        "id": "Kemarin tamu pengunjungnya nggak begitu banyak."
       },
       {
         "jp": "温泉に入りました。でも、露天風呂じゃなかったです。",
-        "id": "(Kemarin) TUBUH SUDAH MENYEMPLUNG ke bak air Onsen. TAPI SEDIHNYA, FAKTA MENUNJUKKAN ITU BUKAN (Jenis Onsen alam/Outdoor)."
+        "id": "Kemarin berendam di onsen. Tapi ternyata bukan onsen outdoor."
       },
       {
         "jp": "料理は、どうでしたか？ ……あまり おいしくなかったです。",
-        "id": "GIMANA KESANNYA Makanan sajian yang kemarin elu lahap masuk mulut? ...... AGAK GIMANA GITU, TIDAK LEZAT-LEZAT AMAT ELAH."
+        "id": "Gimana makanannya kemarin? ...... Nggak begitu enak sih."
       }
     ],
     "tags": [

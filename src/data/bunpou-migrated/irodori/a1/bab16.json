@@ -4,21 +4,21 @@
     "chapter": "Bab 16",
     "level": "A1",
     "title": "Nanya Harga Barang (〜いくらですか？)",
-    "meaning": "Mata Duitan! Pertanyaan mutlak bin wajib yang diucapkan ketika Anda berbelanja dan ingin membongkar label harga dagangan. \"Ini / Itu harganya berapa (Rupiah/Yen)?\".",
+    "meaning": "Pertanyaan yang wajib banget dipakai pas kamu lagi belanja dan pengen nanya harga barang. Artinya kira-kira 'Ini/Itu harganya berapa?'.",
     "formula_template": "[これ / それ / あれ] + は + いくらですか？",
-    "ui_notes": "ILMU 3 DIMENSI JARAK (KOSOADO BARANG):\n- **これ (Ini)**: Menunjuk barang yang jaraknya nempel / sedang dipegang oleh Anda (Pembeli).\n- **それ (Itu Dekat)**: Menunjuk barang yang sedang dipegang / dekat dengan badan si penjual (Lawan Bicara).\n- **あれ (Itu Jauh/Sana)**: Menunjuk barang etalase pojokan toko yang jauh dari kalian berdua.",
+    "ui_notes": "ATURAN PAKAI KOSOADO BARANG:\n- **これ (Ini)**: Buat nunjuk barang yang jaraknya nempel atau lagi kamu pegang (pembeli).\n- **それ (Itu Dekat)**: Buat nunjuk barang yang lagi dipegang atau dekat sama penjual/lawan bicara.\n- **あれ (Itu Jauh/Sana)**: Buat nunjuk barang di etalase yang jauh dari kalian berdua.",
     "examples": [
       {
         "jp": "これ、いくらですか？",
-        "id": "(Barang) INI (Yang sedang kupegang) BERAPAKAH KISARAN HARGANYA?"
+        "id": "Ini harganya berapa?"
       },
       {
         "jp": "あれは、いくらですか？ ……ジャケットですか？ 15,000円です。",
-        "id": "(Barang) YANG DI POJOK SANA ITU, BERAPAKAH HARGANYA? ...... Ooh maksudnya Jaket pelindung? (Pungut bayar) 15,000 Yen saja bung."
+        "id": "Yang di sana itu harganya berapa? ...... Jaket ya? 15.000 Yen."
       },
       {
         "jp": "それ、いいですね。サウスフェースのバッグ。 ……あ、これですか？",
-        "id": "(Barang) ITU YANG NEMPEL SAMA KAMU, kece abis yak. Tas merk South Face. ...... Oh, kamu nanyain yang INI (Sekarang nempel sama aku, makanya jadi KORE)?"
+        "id": "Itu bagus ya. Tas merk South Face. ...... Oh, kamu nanyain yang ini?"
       }
     ],
     "tags": [
@@ -32,21 +32,21 @@
     "chapter": "Bab 16",
     "level": "A1",
     "title": "Menunjuk Barang Spesifik (この / その / あの)",
-    "meaning": "Lampu Sorot Barang Spesifik! Ketika Anda ingin mengunci target dengan menyebutkan NAMA/IDENTITAS BENDANYA secara gamblang, kata tunjuknya harus dimutasi/diubah dari Kore-Sore-Are menjadi: KONO-SONO-ANO.",
+    "meaning": "Dipakai pas kamu mau nunjuk barang lebih spesifik dengan nyebutin NAMA BENDANYA. Kata tunjuknya berubah dari Kore-Sore-Are jadi KONO-SONO-ANO.",
     "formula_template": "[この / その / あの] + [Nama Spesifik Benda] + は + いくらですか？",
-    "ui_notes": "### 📝 TABEL BUKU SAKTI (KOSOADO)\n\n| Posisi Jarak (Dimensi) | Menunjuk Buta (Tak Sebut Nama) | Menunjuk Spesifik (+ Nama Benda) | Menunjuk Titik Tempat |\n|---|---|---|---|\n| **Dipegang Pembicara (Dekat)** | **これ** (Ini) | **この** (Benda Ini...) | **ここ** (Di sini) |\n| **Dipegang Lawan Bicara** | **それ** (Itu Situ) | **その** (Benda Itu...) | **そこ** (Di situ) |\n| **Jauh Memisahkan Diri** | **あれ** (Itu Sana) | **あの** (Benda Sana...) | **あそこ** (Di sana) |",
+    "ui_notes": "### 📝 TABEL BUKU SAKTI (KOSOADO)\n\n| Posisi Jarak | Tanpa Nama Benda | Spesifik (+ Nama Benda) | Nunjuk Tempat |\n|---|---|---|---|\n| **Dekat Pembicara** | **これ** (Ini) | **この** (Benda Ini...) | **ここ** (Di sini) |\n| **Dekat Lawan Bicara** | **それ** (Itu) | **その** (Benda Itu...) | **そこ** (Di situ) |\n| **Jauh dari Keduanya** | **あれ** (Itu Sana) | **あの** (Benda Sana...) | **あそこ** (Di sana) |",
     "examples": [
       {
         "jp": "そのカレンダー、いくらですか？",
-        "id": "Kalender (milik Anda) ITU, BERAPAKAH HARGANYA?"
+        "id": "Kalender itu harganya berapa?"
       },
       {
         "jp": "あのバッグは いくらですか？ ……あれは、6,800円です。",
-        "id": "Tas gembol YANG DI POJOKAN SANA, BERAPAKAH HARGANYA? ...... (Penjual ikut merespons objek jauh:) YANG DI POJOK SANA itu harganya 6,800 Yen."
+        "id": "Tas yang di sana itu harganya berapa? ...... Oh yang di sana harganya 6.800 Yen."
       },
       {
         "jp": "すみません。その時計を 見せてください。",
-        "id": "Misi kang. Tolong (izinkan aku) MEMANDANG / MELIHAT Jam Tangan ITU (Yang diamankan sama pihak kasir)."
+        "id": "Permisi, tolong perlihatkan jam tangan itu dong."
       }
     ],
     "tags": [
@@ -60,21 +60,21 @@
     "chapter": "Bab 16",
     "level": "A1",
     "title": "Membeli Jumlah Imbang (〜ずつ / Masing-masing)",
-    "meaning": "Mata Pisau Keadilan! Jurus belanja ketika Anda membeli BERAGAM JENIS BARANG (Kue, Daging), TAPI ANDA MEMINTA PORSI/JUMLAHNYA DIBAGI RATA SAMA BANYAK! (\"Masing-masing 2 buah\").",
+    "meaning": "Pola buat belanja pas kamu beli banyak barang beda jenis, TAPI kamu minta dibikinin porsi rata/sama banyak buat tiap barangnya (\"Masing-masing 2 buah ya\").",
     "formula_template": "[Daftar Barang Beda Jenis] + [Angka/Kuantitas Satuan] + ずつ + お願いします",
-    "ui_notes": "Daripada capek mulut nge-rap bilang: \"Kue coklat 2 buah, terus kue keju juga 2 buah\", mending teriakkan sekaligus pakai jurus pangkas kata: **「〜2個ずつ お願いします」** (Masing-masing porsi 2 buah).",
+    "ui_notes": "Daripada capek ngomong: \"Kue coklatnya 2 buah, terus kue kejunya juga 2 buah\", mending pakai cara singkat: **「〜2個ずつ お願いします」** (Masing-masing 2 buah ya).",
     "examples": [
       {
         "jp": "チョコレートケーキと チーズケーキ、2個ずつ お願いします。",
-        "id": "Saya (Tolong siapkan pesanan) Cake coklat, dan Cake Keju, MASING-MASING SEJUMLAH 2 BIJI / PORSI."
+        "id": "Tolong cake coklat sama cake keju, masing-masing 2 porsi."
       },
       {
         "jp": "昆布と、たらこと、梅、3つずつ ください。",
-        "id": "Hamba MINTA PESAN irisan ganggang laut Kombu, telur ikan Tarako, dan asaman plum Ume, MASING-MASING TERBAGI SEJUMLAH 3 PORSI (3 porsi Kombu, 3 Tarako, 3 Ume)."
+        "id": "Minta kombu, tarako, sama ume, masing-masing 3 porsi ya."
       },
       {
         "jp": "鶏肉と牛肉、300gずつ お願いします。",
-        "id": "Saya PESAN daging (hewan unggas) Ayam, dan daging (hewan merumput) Sapi, MASING-MASING SEBERAT TAKARAN 300 GRAM."
+        "id": "Tolong daging ayam sama sapi, masing-masing 300 gram ya."
       }
     ],
     "tags": [

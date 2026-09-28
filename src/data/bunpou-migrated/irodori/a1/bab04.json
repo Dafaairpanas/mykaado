@@ -4,9 +4,9 @@
     "chapter": "Bab 04",
     "level": "A1",
     "title": "N1とN2",
-    "meaning": "Partikel 'と' berarti 'dan'. Digunakan untuk menggabungkan dua kata benda (orang, benda, tempat, dll.) dalam satu frasa. Sering digunakan saat memperkenalkan anggota keluarga atau menyebutkan dua hal sekaligus.",
+    "meaning": "Partikel 'と' itu artinya 'dan'. Dipakai buat gabungin dua kata benda (orang, barang, tempat, dll) dalam satu kalimat. Biasanya sering dipakai pas ngenalin keluarga atau nyebutin dua hal sekaligus.",
     "formula_template": "{A} と {B}",
-    "ui_notes": "Partikel 'と' hanya digunakan untuk menggabungkan kata benda (nomina), bukan kata kerja atau kalimat. Dalam percakapan sehari-hari, bagian akhir 'です' sering mengikuti frasa ini untuk melengkapi pernyataan.",
+    "ui_notes": "Partikel 'と' ini cuma bisa buat gabungin kata benda ya, bukan kata kerja atau kalimat utuh. Pas ngobrol, biasanya ditambahin 'です' di belakangnya biar kalimatnya komplit.",
     "examples": [
       {
         "jp": "夫と子どもです。",
@@ -28,9 +28,9 @@
     "chapter": "Bab 04",
     "level": "A1",
     "title": "〜歳ですか？",
-    "meaning": "Pola pertanyaan untuk menanyakan usia seseorang. '〜歳' dibaca '~sai' berarti 'umur ~ tahun', dan 'ですか' adalah partikel tanya. '何歳' (nan-sai) berarti 'berapa umur'.",
+    "meaning": "Pola buat nanyain umur seseorang. '〜歳' dibacanya '~sai' yang artinya 'umur ~ tahun', terus 'ですか' itu partikel nanya. Kalau '何歳' (nan-sai) artinya 'umur berapa'.",
     "formula_template": "{A} 歳ですか？ / 何歳ですか？",
-    "ui_notes": "⚠️ Dalam budaya Jepang, menanyakan usia kepada orang yang lebih tua atau atasan bisa dianggap tidak sopan. Gunakan hanya jika situasinya tepat (misalnya dengan teman sebaya). Untuk usia 1, 8, 10, 20, dan pertanyaan 'berapa' ada pengecualian bacaan: 1歳 (issai), 8歳 (hassai), 10歳 (jussai/ttssai), 20歳 (hatachi), 何歳 (nan-sai).",
+    "ui_notes": "⚠️ Di Jepang, nanyain umur ke orang yang lebih tua atau atasan itu bisa dianggap kurang sopan lho. Jadi pakai pas situasinya pas aja (misal ke temen seumuran). Ohiya ada pengecualian cara baca buat umur 1 (issai), 8 (hassai), 10 (jussai/jissai), 20 (hatachi), dan pas nanya 'berapa' (nan-sai).",
     "examples": [
       {
         "jp": "何歳ですか？",
@@ -52,9 +52,9 @@
     "chapter": "Bab 04",
     "level": "A1",
     "title": "〜に住んでいます",
-    "meaning": "Digunakan untuk menyatakan tempat tinggal. 'に' adalah partikel yang menunjukkan lokasi, '住んでいます' (sunde imasu) adalah bentuk 'te-iru' dari '住む' (sumu) yang berarti 'tinggal' dan menunjukkan keadaan sedang tinggal.",
+    "meaning": "Dipakai buat ngasih tau tempat tinggal kita. 'に' itu partikel penunjuk lokasi, '住んでいます' (sunde imasu) itu bentuk 'te-iru' dari '住む' (sumu) yang artinya 'tinggal', nandain kalau kita emang lagi menetap di situ.",
     "formula_template": "{A} に住んでいます",
-    "ui_notes": "Jika subjeknya adalah orang lain, pastikan konteksnya jelas. Bentuk '住んでいます' menunjukkan keadaan tinggal saat ini (bukan sementara). Untuk menyatakan tempat tinggal orang lain, bisa gunakan nama orang + は + [tempat] + に住んでいます.",
+    "ui_notes": "Kalau subjeknya orang lain, pastiin konteks obrolannya jelas ya. Bentuk '住んでいます' ini nandain kalau tinggalnya emang menetap (bukan sementara). Kalau mau nyebutin tempat tinggal orang lain, bisa pakai [nama orang] + は + [tempat] + に住んでいます.",
     "examples": [
       {
         "jp": "家族はフィリピンに住んでいます。",
@@ -76,9 +76,9 @@
     "chapter": "Bab 04",
     "level": "A1",
     "title": "N1のN2",
-    "meaning": "Partikel 'の' menunjukkan hubungan kepemilikan atau afiliasi antara dua kata benda. N1 adalah pemilik, N2 adalah benda/orang yang dimiliki. Setara dengan kata 'milik' atau 'dari' dalam bahasa Indonesia. Juga bisa digunakan untuk menyatakan hubungan seperti 'N2 dari N1' atau 'N2 milik N1'.",
+    "meaning": "Partikel 'の' ini buat nunjukin kepemilikan atau hubungan antara dua kata benda. N1 itu yang punya, N2 itu barang/orang yang dipunyai. Kira-kira artinya 'milik' atau 'dari' kalau di bahasa Indonesia.",
     "formula_template": "{A} の {B}",
-    "ui_notes": "'の' juga bisa digunakan untuk menunjukkan hubungan lain seperti: 1) Kepemilikan: 私の本 (buku saya); 2) Asal: 日本の車 (mobil Jepang); 3) Posisi/jabatan: 会社の社長 (presiden perusahaan). Dalam percakapan, 'N1のN2' sering digunakan untuk menjelaskan hubungan antara orang dan benda/orang lain.",
+    "ui_notes": "Selain buat kepemilikan (contoh: 私の本 = buku saya), 'の' juga bisa buat nunjukin asal (contoh: 日本の車 = mobil Jepang) atau posisi/jabatan (contoh: 会社の社長 = presiden perusahaan). Intinya sering banget dipakai buat ngejelasin hubungan antar kata benda.",
     "examples": [
       {
         "jp": "私の母です。",

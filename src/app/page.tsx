@@ -34,6 +34,11 @@ export default function Dashboard() {
       title: "Settings",
       jpTitle: "設定",
       href: "/settings",
+    },
+    {
+      title: "Ringkasan",
+      jpTitle: "まとめ",
+      href: "/ringkasan",
     }
   ];
 

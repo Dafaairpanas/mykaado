@@ -4,21 +4,21 @@
     "chapter": "Bab 11",
     "level": "A1",
     "title": "Menanyakan Sesuatu (〜は何ですか？)",
-    "meaning": "Pendeteksi Informasi Utama! Senjata dasar mutlak untuk menggali atau mencari tahu topik apa pun mengenai lawan bicara Anda (Apa hobinya, dll).",
+    "meaning": "Pola dasar buat nanya-nanya info ke lawan bicara (misal nanyain hobi, dll). Artinya kira-kira 'Apa [Topik]mu?'.",
     "formula_template": "[Topik yang Ingin Digali] + は + 何ですか？",
-    "ui_notes": "ATURAN BACA KANJI 何 (APA) PENTING:\n1. Dibaca **「NAN (なん)」** jika diikuti akhiran \"ですか\" (何ですか), atau diikuti satuan jumlah (何歳 / 何枚).\n2. Dibaca **「NANI (なに)」** jika disusul oleh partikel objek/penanda seperti を atau が (何を / 何が).",
+    "ui_notes": "ATURAN BACA KANJI 何 (APA) YANG PENTING:\n1. Dibaca **「NAN (なん)」** kalau diikuti \"ですか\" (何ですか), atau diikuti satuan hitung (何歳 / 何枚).\n2. Dibaca **「NANI (なに)」** kalau diikuti sama partikel kayak を atau が (何を / 何が).",
     "examples": [
       {
         "jp": "趣味は、何ですか？",
-        "id": "Hobinya (kamu) APA?"
+        "id": "Hobimu apa?"
       },
       {
         "jp": "スポーツは、何が好きですか？",
-        "id": "Untuk urusan Olahraga, kamu suka APA?"
+        "id": "Soal olahraga, kamu suka apa?"
       },
       {
         "jp": "Smartphoneは、日本語で何ですか？ ……スマホです。",
-        "id": "Benda 'Smartphone' itu, kalau dalam bahasa Jepangnya disebut APA? ...... (Orang Jepang nyebutnya) Sumaho."
+        "id": "Smartphone bahasa Jepangnya apa? ...... Sumaho."
       }
     ],
     "tags": [
@@ -32,21 +32,21 @@
     "chapter": "Bab 11",
     "level": "A1",
     "title": "Jenis yang Seperti Apa (どんな〜)",
-    "meaning": "Pengerucut Topik! Kata tanya maut untuk menggali lebih dalam soal \"Genre\" atau \"Jenis Kategori\" dari suatu hal (Kamu suka film, tapi film jenis APA?).",
+    "meaning": "Kata tanya buat nanyain lebih spesifik soal 'kategori' atau 'jenis' dari suatu hal. Kayak nanya 'Kamu suka jenis film yang kayak gimana?'.",
     "formula_template": "どんな + [Topik Kategori] + が好きですか？",
     "ui_notes": "",
     "examples": [
       {
         "jp": "どんな スポーツが 好きですか？",
-        "id": "(Kategori/Jenis) Olahraga SEPERTI APA yang kamu sukai?"
+        "id": "Kamu suka jenis olahraga yang gimana?"
       },
       {
         "jp": "どんな 映画が 好きですか？ ……アクション映画が 好きです。",
-        "id": "Genre Film SEPERTI APA yang kamu senangi? ...... Hamba menyukai genre Film Laga (Action)."
+        "id": "Kamu suka film yang kayak gimana? ...... Aku suka film action."
       },
       {
         "jp": "どんな 本を、よく 読みますか？ ……ミステリーが 好きです。",
-        "id": "Jenis Buku SEPERTI APA yang rutin kamu baca? ...... Saya sukanya genre Misteri."
+        "id": "Kamu biasanya baca buku jenis apa? ...... Aku suka buku misteri."
       }
     ],
     "tags": [
@@ -60,21 +60,21 @@
     "chapter": "Bab 11",
     "level": "A1",
     "title": "Tidak Begitu... (あまり〜)",
-    "meaning": "Gaya Merendahkan Dosis! Mengungkapkan tingkat keadaan / rasa suka / kualitas yang \"kurang mantap\" atau \"tidak sebegitunya\".",
+    "meaning": "Dipakai buat ngasih tau kalau rasanya/sifatnya tuh 'nggak terlalu' atau 'kurang begitu'. Cocok buat merendah atau nolak secara halus.",
     "formula_template": "あまり + [Kata Sifat BENTUK NEGATIF]",
-    "ui_notes": "SYARAT MUTLAK (AWAS!):\nAdverbia **「あまり」** ini HARUS dan WAJIB dikawinkan dengan ujung kalimat yang BENTUK NEGATIF (Bukan). Jika Anda mau menegaskan ZONG MUTLAK (Sama sekali tidak), gunakan kata **「ぜんぜん〜」**.\n\n### 📝 TINGKATAN DOSIS SIFAT\n- **とても** (Sangat / Banget) 👉 Positif (+)\n- **あまり** (Kurang / Tidak Begitu) 👉 Negatif (-)\n- **ぜんぜん** (Sama Sekali Nggak) 👉 Negatif Mutlak (- -)",
+    "ui_notes": "YANG HARUS DIINGAT:\nKata **「あまり」** ini HARUS dipasangin sama ujung kalimat yang BENTUK NEGATIF (Bukan). Kalau mau bilang 'sama sekali nggak', pakainya **「ぜんぜん〜」**.\n\n### 📝 TINGKATANNYA\n- **とても** (Sangat / Banget) 👉 Positif (+)\n- **あまり** (Nggak begitu) 👉 Negatif (-)\n- **ぜんぜん** (Sama sekali nggak) 👉 Negatif Mutlak (- -)",
     "examples": [
       {
         "jp": "スポーツは、あまり 好きじゃないです。",
-        "id": "Soal Olahraga, aku KURANG BEGITU MENYUKAINYA."
+        "id": "Soal olahraga, aku nggak begitu suka."
       },
       {
         "jp": "田中さんは、アニメが好きですか？ ……あまり 好きじゃないです。",
-        "id": "Pak Tanaka, apakah menyenangi Anime? ...... TIDAK BEGITU Suka."
+        "id": "Pak Tanaka, suka anime nggak? ...... Nggak begitu suka sih."
       },
       {
         "jp": "部屋は 広いですか？ ……ぜんぜん 広くないです。でも、とても きれいです。",
-        "id": "Apakah kamarnya lega? ...... SAMA SEKALI NGGAK lega. Tapi, ya sangat bersih memukau."
+        "id": "Kamarnya luas nggak? ...... Nggak luas sama sekali. Tapi bersih banget kok."
       }
     ],
     "tags": [
@@ -88,21 +88,21 @@
     "chapter": "Bab 11",
     "level": "A1",
     "title": "Dosis Frekuensi Waktu (いつも/よく/ときどき...)",
-    "meaning": "Bumbu Pengukur Rutinitas! Membeberkan seberapa sering (Kekerapan) sebuah rutinitas kegiatan itu Anda lakukan di kehidupan nyata.",
+    "meaning": "Cara buat ngasih tau seberapa sering kamu ngelakuin suatu kebiasaan atau rutinitas.",
     "formula_template": "[Frekuensi Waktu] + [Kata Kerja Aksi]",
-    "ui_notes": "### 📝 TABEL BUKU PINTAR (DOSIS FREKUENSI)\n\n| Level Dosis | Kata Ajaib | Kawin Dengan | Makna |\n|---|---|---|---|\n| **Tinggi (100%)** | **いつも** | Positif (V-ます) | Selalu Rutin |\n| **Tinggi (80%)** | **たいてい** | Positif (V-ます) | Umumnya / Kebanyakan |\n| **Sedang (60%)** | **よく** | Positif (V-ます) | Sangat Sering |\n| **Sedang (40%)** | **ときどき** | Positif (V-ます) | Kadang-kadang |\n| **Rendah (10%)** | **あまり** | Negatif (V-ません) | Jarang Banget |\n| **Zong (0%)** | **ぜんぜん** | Negatif (V-ません) | Sama Sekali Nggak Pernah |",
+    "ui_notes": "### 📝 TINGKATAN SEBERAPA SERING\n\n| Seberapa Sering | Kata Bahasa Jepang | Pasangannya | Makna |\n|---|---|---|---|\n| **Tinggi (100%)** | **いつも** | Positif (V-ます) | Selalu |\n| **Tinggi (80%)** | **たいてい** | Positif (V-ます) | Biasanya |\n| **Sedang (60%)** | **よく** | Positif (V-ます) | Sering |\n| **Sedang (40%)** | **ときどき** | Positif (V-ます) | Kadang-kadang |\n| **Rendah (10%)** | **あまり** | Negatif (V-ません) | Nggak begitu sering |\n| **Nol (0%)** | **ぜんぜん** | Negatif (V-ません) | Nggak pernah sama sekali |",
     "examples": [
       {
         "jp": "休みの日は、たいてい、映画を見ます。",
-        "id": "Di kala libur (weekend), UMUMNYA / BIASANYA (kegiatan hamba cuma) mantengin film doang."
+        "id": "Kalau hari libur, biasanya aku cuma nonton film."
       },
       {
         "jp": "スポーツは、ぜんぜん しないね。",
-        "id": "Olahraga sih SAMA SEKALI GAK PERNAH (saya) lakuin euy."
+        "id": "Olahraga sih sama sekali nggak pernah lakuin ya."
       },
       {
         "jp": "夜、何を しますか？ ……よく 本を 読みます。",
-        "id": "Malam hari (ngapain rutinitasnya)? ...... (Saya) SANGAT SERING ngebaca buku."
+        "id": "Malam hari, ngapain aja biasanya? ...... Seringnya sih baca buku."
       }
     ],
     "tags": [
@@ -116,21 +116,21 @@
     "chapter": "Bab 11",
     "level": "A1",
     "title": "Melakukan Bersama di Suatu Tempat",
-    "meaning": "Paket Kombo Lengkap! Merangkum laporan dalam 1 tarikan napas: Bersama Siapa, Di Mana Lokasinya, dan Apa Kegiatannya.",
+    "meaning": "Pola komplit buat ngasih tau kita ngelakuin kegiatan sama siapa dan di mana tempatnya.",
     "formula_template": "[Orang] + と (Bersama) + [Tempat] + で (Di) + [Kata Kerja Aksi]",
-    "ui_notes": "Dalam bahasa Jepang, urutan posisinya (Apakah nyebut Orang dulu atau Tempat dulu) itu BEBAS MERDEKA! Yang penting Kata Kerja Aksinya (Makan/Bermain) ditaruh di ekor paling belakang kalimat.",
+    "ui_notes": "Di bahasa Jepang, urutan nyebutin orang sama tempat tuh BEBAS kok! Yang penting, kata kerjanya (misal: makan/main) harus ditaruh paling belakang kalimat.",
     "examples": [
       {
         "jp": "夫と 公園で テニスを します。",
-        "id": "(Saya bermain) tenis DI taman BERSAMA suami (saya)."
+        "id": "Saya main tenis di taman bareng suami."
       },
       {
         "jp": "休みの日は、ときどき、友だちと 買い物を します。",
-        "id": "Kala hari libur, KADANG-KADANG, (saya) lakuin belanja BERSAMA kawan."
+        "id": "Kalau hari libur, kadang-kadang aku belanja bareng temen."
       },
       {
         "jp": "日曜日は、いつも、子どもと 外で 遊びます。",
-        "id": "Kalau hari Minggu, (saya) SELALU kelayapan main DI luar BERSAMA anak."
+        "id": "Kalau hari Minggu, aku selalu main di luar bareng anak."
       }
     ],
     "tags": [
