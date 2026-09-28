@@ -33,7 +33,8 @@ const precacheUrls = [
   '/bunpou',
   '/ringkasan',
   '/renshuu',
-  '/settings'
+  '/settings',
+  '/all-data.json'
 ].map(url => ({ url, revision: process.env.NEXT_PUBLIC_APP_VERSION || 'v2' }));
 
 // Precache the offline page

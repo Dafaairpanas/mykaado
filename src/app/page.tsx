@@ -2,8 +2,14 @@
 
 import Link from "next/link";
 import { Card } from "@/components/ui/card";
+import { useEffect } from "react";
+import { syncAllData } from "@/lib/indexeddb";
 
 export default function Dashboard() {
+  useEffect(() => {
+    // Silently fetch and sync all JSON data to IndexedDB for offline support
+    syncAllData().catch(console.error);
+  }, []);
   const menuItems = [
     {
       title: "Flashcard",
