@@ -1,7 +1,7 @@
 import { Suspense } from 'react';
 import { Outlet } from 'react-router-dom';
 import { Header } from '@/components/layout/header';
-import { BottomNav } from '@/components/layout/bottom-nav';
+
 
 export function App() {
   return (
@@ -9,7 +9,7 @@ export function App() {
       <Suspense fallback={<div className="h-16" />}>
         <Header />
       </Suspense>
-      <main className="flex-1 overflow-y-auto pt-8 pb-24 md:pb-8">
+      <main className="flex-1 overflow-y-auto pt-8 pb-8">
         <Outlet />
         
         <footer className="mt-20 pb-8 text-center text-sm font-bold w-full">
@@ -21,7 +21,6 @@ export function App() {
           </div>
         </footer>
       </main>
-      <BottomNav />
     </>
   );
 }
