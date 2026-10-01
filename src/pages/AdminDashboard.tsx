@@ -1,26 +1,24 @@
-"use client";
-
 import { useEffect, useState } from "react";
-import { useRouter } from "next/navigation";
+import { useNavigate } from "react-router-dom";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 
 export default function AdminDashboard() {
-  const router = useRouter();
+  const navigate = useNavigate();
   const [isAuthenticated, setIsAuthenticated] = useState(false);
 
   useEffect(() => {
     const auth = localStorage.getItem("admin_auth");
     if (auth !== "true") {
-      router.push("/adminadit/login");
+      navigate("/adminadit/login");
     } else {
       setIsAuthenticated(true);
     }
-  }, [router]);
+  }, [navigate]);
 
   const handleLogout = () => {
     localStorage.removeItem("admin_auth");
-    router.push("/adminadit/login");
+    navigate("/adminadit/login");
   };
 
   if (!isAuthenticated) return null;
@@ -45,7 +43,7 @@ export default function AdminDashboard() {
         <Card className="p-6">
           <h2 className="text-xl font-bold mb-2">Manage Renshuu (JFT)</h2>
           <p className="text-[var(--color-text-muted)] text-sm mb-4">Buat soal simulasi JFT baru atau edit soal yang sudah ada.</p>
-          <Button variant="default" className="w-full" onClick={() => router.push('/adminadit/renshuu')}>Buka Editor</Button>
+          <Button variant="default" className="w-full" onClick={() => navigate('/adminadit/renshuu')}>Buka Editor</Button>
         </Card>
       </div>
       

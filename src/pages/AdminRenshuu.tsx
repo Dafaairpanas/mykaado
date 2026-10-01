@@ -1,26 +1,23 @@
-"use client";
-
 import { useEffect, useState } from "react";
-import { useRouter } from "next/navigation";
+import { useNavigate, Link } from "react-router-dom";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Plus, Edit, Trash2 } from "lucide-react";
 import { supabase } from "@/lib/supabase";
-import Link from "next/link";
 
 export default function AdminRenshuuList() {
-  const router = useRouter();
+  const navigate = useNavigate();
   const [simulations, setSimulations] = useState<any[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     const auth = localStorage.getItem("admin_auth");
     if (auth !== "true") {
-      router.push("/adminadit/login");
+      navigate("/adminadit/login");
       return;
     }
     fetchSimulations();
-  }, [router]);
+  }, [navigate]);
 
   async function fetchSimulations() {
     setIsLoading(true);
@@ -72,7 +69,7 @@ export default function AdminRenshuuList() {
     if (error) {
       alert("Gagal membuat simulasi: " + error.message);
     } else if (data && data.length > 0) {
-      router.push(`/adminadit/renshuu/${data[0].id}`);
+      navigate(`/adminadit/renshuu/${data[0].id}`);
     }
   }
 
@@ -80,7 +77,7 @@ export default function AdminRenshuuList() {
     <div className="max-w-4xl mx-auto px-4">
       <div className="flex flex-col md:flex-row md:items-center justify-between mb-8 gap-4">
         <div>
-          <Link href="/adminadit" className="text-sm font-bold text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] mb-2 inline-block">
+          <Link to="/adminadit" className="text-sm font-bold text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] mb-2 inline-block">
             &larr; Kembali ke Dashboard
           </Link>
           <h1 className="text-3xl font-extrabold mb-2">Manage Renshuu</h1>
@@ -112,7 +109,7 @@ export default function AdminRenshuuList() {
                 </div>
               </div>
               <div className="flex gap-2">
-                <Link href={`/adminadit/renshuu/${sim.id}`} className="flex-1">
+                <Link to={`/adminadit/renshuu/${sim.id}`} className="flex-1">
                   <Button variant="default" className="w-full flex items-center justify-center">
                     <Edit className="w-4 h-4 mr-2" /> Edit Soal
                   </Button>

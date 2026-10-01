@@ -1,17 +1,14 @@
-"use client";
-
 import { useEffect, useState, useRef } from "react";
-import { useParams, useRouter } from "next/navigation";
+import { useParams, useNavigate, Link } from "react-router-dom";
 import { supabase } from "@/lib/supabase";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Modal } from "@/components/ui/modal";
 import { ChevronLeft, Plus, Edit, Trash2, Save, Upload, GripVertical } from "lucide-react";
-import Link from "next/link";
 
 export default function AdminSimulationEditor() {
   const { simId } = useParams();
-  const router = useRouter();
+  const navigate = useNavigate();
 
   const [simulation, setSimulation] = useState<any>(null);
   const [questions, setQuestions] = useState<any[]>([]);
@@ -24,11 +21,11 @@ export default function AdminSimulationEditor() {
   useEffect(() => {
     const auth = localStorage.getItem("admin_auth");
     if (auth !== "true") {
-      router.push("/adminadit/login");
+      navigate("/adminadit/login");
       return;
     }
     fetchData();
-  }, [simId, router]);
+  }, [simId, navigate]);
 
   async function fetchData() {
     setIsLoading(true);
@@ -41,7 +38,7 @@ export default function AdminSimulationEditor() {
     
     if (simErr) {
       alert("Simulasi tidak ditemukan!");
-      router.push('/adminadit/renshuu');
+      navigate('/adminadit/renshuu');
       return;
     }
     setSimulation(simData);
@@ -153,7 +150,7 @@ export default function AdminSimulationEditor() {
 
   return (
     <div className="max-w-5xl mx-auto px-4 pb-20">
-      <Link href="/adminadit/renshuu" className="flex items-center text-sm font-bold text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] mb-6">
+      <Link to="/adminadit/renshuu" className="flex items-center text-sm font-bold text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] mb-6">
         <ChevronLeft className="w-4 h-4 mr-1" /> Kembali ke Daftar Simulasi
       </Link>
 

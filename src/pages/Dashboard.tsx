@@ -1,6 +1,4 @@
-"use client";
-
-import Link from "next/link";
+import { Link } from "react-router-dom";
 import { Card } from "@/components/ui/card";
 import { useEffect } from "react";
 import { syncAllData } from "@/lib/indexeddb";
@@ -58,7 +56,7 @@ export default function Dashboard() {
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 md:gap-6">
         {menuItems.map((item, idx) => {
           return (
-            <Link key={idx} href={item.href}>
+            <Link key={idx} to={item.href}>
               <Card 
                 className="p-4 md:aspect-square hover:-translate-y-1 hover:shadow-[6px_6px_0px_var(--color-shadow-main)] transition-all cursor-pointer group flex sm:flex-col items-center sm:justify-center gap-4 sm:gap-3 animate-fade-in-up"
                 style={{ animationDelay: `${idx * 50}ms` }}

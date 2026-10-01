@@ -1,5 +1,3 @@
-"use client";
-
 import { useState, useEffect } from "react";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -44,6 +42,13 @@ export default function SettingsPage() {
       document.documentElement.classList.add("dark");
     } else {
       document.documentElement.classList.remove("dark");
+    }
+    
+    // Switch to default color for theme if user hasn't customized it
+    if (!localStorage.getItem("color")) {
+      const defaultColor = newTheme === "dark" ? "crimson" : "matcha";
+      setColor(defaultColor);
+      document.documentElement.setAttribute("data-color", defaultColor);
     }
   };
 

@@ -1,7 +1,5 @@
-"use client";
-
 import { useEffect, useState } from "react";
-import Link from "next/link";
+import { Link } from "react-router-dom";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { supabase } from "@/lib/supabase";
@@ -60,7 +58,7 @@ export default function RenshuuPage() {
                 <h3 className="text-xl font-bold mb-2">{sim.title}</h3>
                 <p className="text-[var(--color-text-muted)] mb-6">{sim.duration_minutes} Menit</p>
               </div>
-              <Link href={`/renshuu/${sim.id}`}>
+              <Link to={`/renshuu/${sim.id}`}>
                 <Button variant="primary" className="w-full">
                   Pilih Simulasi
                 </Button>

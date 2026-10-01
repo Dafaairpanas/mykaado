@@ -1,21 +1,19 @@
-"use client";
-
 import { useState } from "react";
-import { useRouter } from "next/navigation";
+import { useNavigate } from "react-router-dom";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 
 export default function AdminLogin() {
   const [password, setPassword] = useState("");
   const [error, setError] = useState(false);
-  const router = useRouter();
+  const navigate = useNavigate();
 
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
     // Hardcoded simple password for admin access
     if (password === "@r27Pd81") {
       localStorage.setItem("admin_auth", "true");
-      router.push("/adminadit");
+      navigate("/adminadit");
     } else {
       setError(true);
     }

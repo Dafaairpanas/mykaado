@@ -1,13 +1,11 @@
-"use client";
-
 import { useState, useEffect } from "react";
-import Link from "next/link";
-import { usePathname } from "next/navigation";
+import { Link, useLocation } from "react-router-dom";
 import { LayoutGrid, Layers, Type, List, Moon, Sun } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 export function BottomNav() {
-  const pathname = usePathname();
+  const location = useLocation();
+  const pathname = location.pathname;
   const [isDark, setIsDark] = useState(false);
   const [mounted, setMounted] = useState(false);
 
@@ -58,7 +56,7 @@ export function BottomNav() {
         return (
           <Link
             key={link.href}
-            href={link.href}
+            to={link.href}
             className={cn(
               "flex flex-col items-center gap-1 text-[0.7rem] font-semibold flex-1 py-2 rounded-[var(--radius-sm)] transition-all duration-200",
               isActive ? "text-[var(--color-text-main)]" : "text-[var(--color-text-muted)]"

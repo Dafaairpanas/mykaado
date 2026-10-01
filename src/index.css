@@ -1,0 +1,119 @@
+@import "tailwindcss";
+
+@theme {
+  --font-outfit: "Outfit", sans-serif;
+  --font-jp: "UD Digi Kyokasho N-R", "Noto Sans JP", sans-serif;
+}
+
+@layer base {
+  :root {
+    --color-bg-main: #fcfcfc;
+    --color-bg-card: #ffffff;
+    --color-bg-nav: #f3f4f6;
+    --color-text-main: #1a1a1a;
+    --color-text-muted: #6b7280;
+    --color-accent: #a3e635; /* matcha lime */
+    --color-border-main: #1a1a1a;
+    --color-shadow-main: #1a1a1a;
+    --color-btn-text: #1a1a1a;
+    --color-fsrs-again: #ef4444;
+    --color-fsrs-hard: #f97316;
+    --color-fsrs-good: #22c55e;
+    --color-fsrs-easy: #3b82f6;
+
+    --bw-sm: 2px;
+    --bw-md: 3px;
+    --bw-lg: 4px;
+    
+    --radius-sm: 6px;
+    --radius-md: 12px;
+    --radius-lg: 16px;
+  }
+
+  :root[data-theme="dark"] {
+    --color-bg-main: #111111;
+    --color-bg-card: #1a1a1a;
+    --color-bg-nav: #222222;
+    --color-text-main: #f3f4f6;
+    --color-text-muted: #9ca3af;
+    --color-border-main: #333333;
+    --color-shadow-main: transparent;
+    --color-btn-text: #111111;
+  }
+
+  /* Color mapping */
+  :root[data-color="matcha"] { --color-accent: #C0D684; }
+  :root[data-color="lime"] { --color-accent: #A0D468; }
+  :root[data-color="green"] { --color-accent: #89D99D; }
+  :root[data-color="teal"] { --color-accent: #38B2AC; }
+  :root[data-color="cyan"] { --color-accent: #0BC5EA; }
+  :root[data-color="blue"] { --color-accent: #7BB4F0; }
+  :root[data-color="indigo"] { --color-accent: #667EEA; }
+  :root[data-color="purple"] { --color-accent: #C4B5FD; }
+  :root[data-color="violet"] { --color-accent: #B794F4; }
+  :root[data-color="pink"] { --color-accent: #F9A8D4; }
+  :root[data-color="sakura"] { --color-accent: #FFB7B2; }
+  :root[data-color="rose"] { --color-accent: #F56565; }
+  :root[data-color="crimson"] { --color-accent: #FF5A5F; }
+  :root[data-color="orange"] { --color-accent: #F0A07B; }
+  :root[data-color="amber"] { --color-accent: #F6AD55; }
+  :root[data-color="yellow"] { --color-accent: #FFD54F; }
+
+  /* Style mapping */
+  :root[data-style="modern"] {
+    --bw-sm: 0px;
+    --bw-md: 0px;
+    --bw-lg: 0px;
+    --color-shadow-main: transparent;
+  }
+}
+
+body {
+  font-family: var(--font-outfit);
+  background-color: var(--color-bg-main);
+  color: var(--color-text-main);
+}
+
+.jp-text {
+  font-family: var(--font-jp);
+}
+
+@layer utilities {
+  .animate-fade-in-up {
+    animation: fade-in-up 0.5s ease-out forwards;
+  }
+  
+  .animate-scale-in {
+    animation: scale-in 0.3s ease-out forwards;
+  }
+
+  @keyframes fade-in-up {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes scale-in {
+    from {
+      opacity: 0;
+      transform: scale(0.95);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .hide-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

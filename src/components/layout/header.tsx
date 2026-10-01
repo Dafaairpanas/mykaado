@@ -1,8 +1,5 @@
-"use client";
 import { useState, useEffect } from "react";
-
-import Link from "next/link";
-import { usePathname, useSearchParams } from "next/navigation";
+import { Link, useLocation, useSearchParams } from "react-router-dom";
 import { Logo } from "@/components/ui/logo";
 import { db } from "@/lib/db";
 
@@ -10,8 +7,9 @@ import { RotateCcw, Moon, Sun } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 export function Header() {
-  const pathname = usePathname();
-  const searchParams = useSearchParams();
+  const location = useLocation();
+  const [searchParams] = useSearchParams();
+  const pathname = location.pathname;
   const filter = searchParams.get("filter") || "minna";
   const isSetupPage = pathname === "/flashcard/setup";
 
@@ -53,7 +51,7 @@ export function Header() {
       <div className="w-full max-w-[1100px] mx-auto px-4 md:px-6 h-14 md:h-16 flex items-center justify-between">
         
         <div className="flex items-center gap-4 md:gap-8">
-          <Link href="/" className="font-extrabold text-lg md:text-xl tracking-tight flex items-center gap-2 cursor-pointer group">
+          <Link to="/" className="font-extrabold text-lg md:text-xl tracking-tight flex items-center gap-2 cursor-pointer group">
             <Logo className="w-7 h-7 md:w-8 md:h-8 text-[var(--color-accent)] transition-transform group-hover:scale-110" />
             MyKaado
           </Link>
@@ -65,7 +63,7 @@ export function Header() {
               {(["minna", "irodori", "n3", "kanji"] as const).map(tab => (
                 <Link
                   key={tab}
-                  href={`?filter=${tab}`}
+                  to={`?filter=${tab}`}
                   className={`px-4 py-1.5 rounded-[var(--radius-sm)] font-bold text-sm transition-colors ${
                     filter === tab 
                       ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)]" 

@@ -1,12 +1,9 @@
-"use client";
-
 import { useState, useEffect } from "react";
-import { useParams, useRouter } from "next/navigation";
+import { useParams, useNavigate, Link } from "react-router-dom";
 import { supabase } from "@/lib/supabase";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Clock, ArrowLeft, ArrowRight, CheckCircle, XCircle } from "lucide-react";
-import Link from "next/link";
 
 import jftPaket01 from "@/data/renshuu/jft-paket-01.json";
 import n5Paket01 from "@/data/renshuu/n5-paket-01.json";
@@ -22,7 +19,7 @@ type Status = "idle" | "running" | "finished";
 
 export default function SimulationEngine() {
   const { simId } = useParams();
-  const router = useRouter();
+  const navigate = useNavigate();
   
   const [data, setData] = useState<any>(null);
   const [status, setStatus] = useState<Status>("idle");
@@ -64,7 +61,7 @@ export default function SimulationEngine() {
         
       if (simErr) {
         alert("Simulasi tidak ditemukan!");
-        router.push("/renshuu");
+        navigate("/renshuu");
         return;
       }
 
@@ -96,7 +93,7 @@ export default function SimulationEngine() {
       setIsLoading(false);
     }
     loadSim();
-  }, [simId, router]);
+  }, [simId, navigate]);
 
   useEffect(() => {
     if (status === "running" && timeLeft > 0) {
@@ -114,7 +111,7 @@ export default function SimulationEngine() {
       <div className="max-w-2xl mx-auto px-4 py-12 text-center">
         <h1 className="text-3xl font-extrabold mb-4">{data.title}</h1>
         <p className="text-[var(--color-text-muted)] mb-8">Maaf, ujian ini belum memiliki soal.</p>
-        <Link href="/renshuu">
+        <Link to="/renshuu">
           <Button variant="default">Kembali</Button>
         </Link>
       </div>
@@ -164,7 +161,7 @@ export default function SimulationEngine() {
             </li>
           </ul>
           <div className="flex gap-4 justify-center">
-            <Link href="/renshuu">
+            <Link to="/renshuu">
               <Button variant="default">Kembali</Button>
             </Link>
             <Button variant="primary" onClick={startExam}>Mulai Sekarang</Button>
@@ -239,7 +236,7 @@ export default function SimulationEngine() {
         </div>
 
         <div className="mt-8 text-center">
-          <Link href="/renshuu">
+          <Link to="/renshuu">
             <Button variant="primary" className="px-8">Kembali ke Menu</Button>
           </Link>
         </div>

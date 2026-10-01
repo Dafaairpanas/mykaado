@@ -1,7 +1,5 @@
-"use client";
-
 import { useEffect, useState, useCallback } from "react";
-import { useRouter } from "next/navigation";
+import { useNavigate } from "react-router-dom";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { FSRSEngine, type ReviewCard } from "@/lib/fsrs-engine";
@@ -52,7 +50,7 @@ interface FlashcardConfig {
 }
 
 export default function FlashcardPage() {
-  const router = useRouter();
+  const navigate = useNavigate();
   const [config, setConfig] = useState<FlashcardConfig | null>(null);
   const [cards, setCards] = useState<ReviewCard[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -117,7 +115,7 @@ export default function FlashcardPage() {
           hideLabel: false
         };
       } else {
-        router.push("/flashcard/setup");
+        navigate("/flashcard/setup");
         return;
       }
       
@@ -209,7 +207,7 @@ export default function FlashcardPage() {
       setIsLoading(false);
     }
     init();
-  }, [router]);
+  }, [navigate]);
 
   const handleRate = useCallback(async (rating: Rating) => {
     if (currentIndex >= cards.length) return;
@@ -342,7 +340,7 @@ export default function FlashcardPage() {
           </div>
         )}
 
-        <Button variant="default" onClick={() => router.push("/flashcard/setup")}>Kembali ke Setup</Button>
+        <Button variant="default" onClick={() => navigate("/flashcard/setup")}>Kembali ke Setup</Button>
       </div>
     );
   }
@@ -510,7 +508,7 @@ export default function FlashcardPage() {
       <div className="w-full max-w-[800px] flex justify-between items-center mb-6 font-semibold text-sm px-2">
         <div className="flex items-center gap-4">
           <button 
-            onClick={() => router.push("/flashcard/setup")}
+            onClick={() => navigate("/flashcard/setup")}
             className="flex items-center justify-center p-2 rounded-full bg-[var(--color-bg-nav)] hover:bg-[var(--color-accent)] hover:text-[var(--color-bg-main)] transition-colors border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] active:translate-y-[1px] active:translate-x-[1px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] mr-2 md:mr-4"
             title="Kembali"
           >

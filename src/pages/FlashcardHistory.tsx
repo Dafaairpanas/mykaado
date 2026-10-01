@@ -1,8 +1,5 @@
-"use client";
-
 import { useState, useEffect } from "react";
-import Link from "next/link";
-import { useRouter } from "next/navigation";
+import { Link, useNavigate } from "react-router-dom";
 import { ArrowLeft, Trash2, Play, Activity, BarChart2, BookOpen } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
@@ -10,7 +7,7 @@ import { db } from "@/lib/db";
 import { fetchAllCardsMap } from "@/lib/data-loader";
 
 export default function HistoryPage() {
-  const router = useRouter();
+  const navigate = useNavigate();
   const [activeTab, setActiveTab] = useState<"log" | "progress" | "activity">("log");
   const [cardsMap, setCardsMap] = useState<Map<string, any>>(new Map());
   const [isLoading, setIsLoading] = useState(true);
@@ -166,7 +163,7 @@ export default function HistoryPage() {
     if (cardsToPractice.length === 0) return;
     
     localStorage.setItem("mykaado_custom_cards", JSON.stringify(cardsToPractice));
-    router.push("/flashcard");
+    navigate("/flashcard");
   };
 
   const filteredLog = [...historyItems].sort((a, b) => new Date(b.reviewed_at).getTime() - new Date(a.reviewed_at).getTime());
@@ -196,7 +193,7 @@ export default function HistoryPage() {
     <div className="max-w-[1000px] mx-auto px-4 pb-12 pt-4">
       {/* Header */}
       <div className="flex items-center gap-4 mb-8">
-        <Link href="/flashcard/setup">
+        <Link to="/flashcard/setup">
           <Button variant="default" size="icon" className="rounded-full">
             <ArrowLeft className="w-5 h-5" />
           </Button>

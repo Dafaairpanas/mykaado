@@ -1,8 +1,5 @@
-"use client";
-
 import { useState, useEffect, Suspense } from "react";
-import { useRouter, useSearchParams } from "next/navigation";
-import Link from "next/link";
+import { useNavigate, useSearchParams, Link } from "react-router-dom";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Toggle } from "@/components/ui/toggle";
@@ -20,8 +17,8 @@ export default function SetupPage() {
 }
 
 function SetupPageContent() {
-  const router = useRouter();
-  const searchParams = useSearchParams();
+  const navigate = useNavigate();
+  const [searchParams] = useSearchParams();
   const activeTab = searchParams.get("filter") as "minna" | "irodori" | "n3" | "kanji" || "minna";
 
   // State
@@ -54,7 +51,7 @@ function SetupPageContent() {
           else if (firstDeck.startsWith("kj_")) targetTab = "kanji";
 
           if (!window.location.search.includes("filter") && targetTab !== "minna") {
-            router.replace(`?filter=${targetTab}`);
+            navigate(`?filter=${targetTab}`, { replace: true });
           }
         }
         if (config.grades && Array.isArray(config.grades)) setSelectedGrades(config.grades);
@@ -272,7 +269,7 @@ function SetupPageContent() {
     
     localStorage.removeItem("mykaado_custom_cards");
     localStorage.setItem("mykaado_flashcard_config", JSON.stringify(config));
-    router.push("/flashcard");
+    navigate("/flashcard");
   };
 
   const settingsContent = (
@@ -353,7 +350,7 @@ function SetupPageContent() {
         {(["minna", "irodori", "n3", "kanji"] as const).map(tab => (
           <Link
             key={tab}
-            href={`?filter=${tab}`}
+            to={`?filter=${tab}`}
             className={`flex-1 text-center min-w-[70px] whitespace-nowrap px-2 sm:px-4 py-1.5 rounded-[var(--radius-sm)] font-bold text-sm transition-colors ${
               activeTab === tab 
                 ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)]" 
@@ -402,7 +399,7 @@ function SetupPageContent() {
               <div className="text-xl sm:text-2xl font-extrabold text-[var(--color-fsrs-again)]">{stats.total === 0 ? "0" : stats.learning}</div>
               <div className="text-[10px] font-bold text-[var(--color-text-muted)] uppercase tracking-wider">Learn</div>
             </div>
-            <Link href="/flashcard/history" className="flex-1 min-w-[50%] sm:min-w-0 flex flex-col items-center justify-center text-center py-1 sm:py-0 hover:text-[var(--color-accent)] transition-colors">
+            <Link to="/flashcard/history" className="flex-1 min-w-[50%] sm:min-w-0 flex flex-col items-center justify-center text-center py-1 sm:py-0 hover:text-[var(--color-accent)] transition-colors">
               <div className="text-sm sm:text-base font-extrabold">History</div>
             </Link>
           </Card>
