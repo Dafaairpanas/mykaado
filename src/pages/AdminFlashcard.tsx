@@ -22,10 +22,14 @@ export default function AdminFlashcard() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
   const [success, setSuccess] = useState("");
+  const [isLocalMode, setIsLocalMode] = useState(true);
 
   const [search, setSearch] = useState("");
   const [editingIndex, setEditingIndex] = useState<number | null>(null);
   const [editForm, setEditForm] = useState<string>("");
+
+  const [fileList, setFileList] = useState<string[]>([]);
+  const [showFileList, setShowFileList] = useState(false);
 
   useEffect(() => {
     const savedToken = localStorage.getItem("github_pat");
@@ -37,6 +41,36 @@ export default function AdminFlashcard() {
     }
   }, [navigate]);
 
+  const fetchFileList = async () => {
+    try {
+      if (isLocalMode) {
+        const response = await fetch('/api/local-crud/list');
+        const data = await response.json();
+        if (data.files) setFileList(data.files);
+      } else {
+        if (!config.token) return;
+        const response = await fetch(`https://api.github.com/repos/${config.repo}/git/trees/${config.branch}?recursive=1`, {
+          headers: { "Authorization": `token ${config.token}` }
+        });
+        const data = await response.json();
+        if (data.tree) {
+          const files = data.tree
+            .filter((t: any) => t.type === 'blob' && t.path.startsWith('src/data/') && t.path.endsWith('.json'))
+            .map((t: any) => t.path);
+          setFileList(files);
+        }
+      }
+    } catch (err) {
+      console.error("Gagal mengambil list file", err);
+    }
+  };
+
+  useEffect(() => {
+    if (showFileList) {
+      fetchFileList();
+    }
+  }, [showFileList, isLocalMode, config.repo, config.branch, config.token]);
+
   const saveToken = (token: string) => {
     setConfig(prev => ({ ...prev, token }));
     localStorage.setItem("github_pat", token);
@@ -47,26 +81,39 @@ export default function AdminFlashcard() {
     setError("");
     setSuccess("");
     try {
-      const response = await fetch(`https://api.github.com/repos/${config.repo}/contents/${filePath}?ref=${config.branch}`, {
-        headers: {
-          "Authorization": `token ${config.token}`,
-          "Accept": "application/vnd.github.v3+json"
+      if (isLocalMode) {
+        const response = await fetch(`/api/local-crud?file=${filePath}`);
+        if (response.status === 404) {
+          setData([]);
+          setSuccess("File belum ada di lokal. Anda sedang membuat file baru. Data awal kosong.");
+          return;
         }
-      });
-      if (response.status === 404) {
-        setFileSha("");
-        setData([]);
-        setSuccess("File belum ada di GitHub. Anda sedang membuat file baru. Data awal kosong.");
-        return;
+        if (!response.ok) throw new Error("Gagal memuat file lokal.");
+        const parsed = await response.json();
+        setData(Array.isArray(parsed) ? parsed : []);
+        setSuccess("File lokal berhasil dimuat!");
+      } else {
+        const response = await fetch(`https://api.github.com/repos/${config.repo}/contents/${filePath}?ref=${config.branch}`, {
+          headers: {
+            "Authorization": `token ${config.token}`,
+            "Accept": "application/vnd.github.v3+json"
+          }
+        });
+        if (response.status === 404) {
+          setFileSha("");
+          setData([]);
+          setSuccess("File belum ada di GitHub. Anda sedang membuat file baru. Data awal kosong.");
+          return;
+        }
+        if (!response.ok) throw new Error("Gagal mengambil file dari GitHub. Pastikan token dan path benar.");
+        const result = await response.json();
+        setFileSha(result.sha);
+        
+        const content = decodeURIComponent(escape(atob(result.content)));
+        const parsed = JSON.parse(content);
+        setData(Array.isArray(parsed) ? parsed : []);
+        setSuccess("File GitHub berhasil dimuat!");
       }
-      if (!response.ok) throw new Error("Gagal mengambil file. Pastikan token dan path benar.");
-      const result = await response.json();
-      setFileSha(result.sha);
-      
-      const content = decodeURIComponent(escape(atob(result.content)));
-      const parsed = JSON.parse(content);
-      setData(Array.isArray(parsed) ? parsed : []);
-      setSuccess("File berhasil dimuat!");
     } catch (err: any) {
       setError(err.message);
     } finally {
@@ -75,41 +122,52 @@ export default function AdminFlashcard() {
   };
 
   const commitFile = async () => {
-    if (!confirm("Yakin ingin commit perubahan ini ke GitHub?")) return;
+    if (!confirm(isLocalMode ? "Yakin ingin menyimpan perubahan ini ke komputer lokal?" : "Yakin ingin commit perubahan ini ke GitHub?")) return;
     setLoading(true);
     setError("");
     setSuccess("");
     try {
       const contentStr = JSON.stringify(data, null, 2);
-      const encoded = btoa(unescape(encodeURIComponent(contentStr)));
-      
-      const bodyPayload: any = {
-        message: `Update ${filePath} via Admin Dashboard`,
-        content: encoded,
-        branch: config.branch
-      };
-      if (fileSha) {
-        bodyPayload.sha = fileSha;
-      }
-      
-      const response = await fetch(`https://api.github.com/repos/${config.repo}/contents/${filePath}`, {
-        method: "PUT",
-        headers: {
-          "Authorization": `token ${config.token}`,
-          "Accept": "application/vnd.github.v3+json",
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify(bodyPayload)
-      });
 
-      if (!response.ok) {
-        const errorData = await response.json();
-        throw new Error(errorData.message || "Gagal melakukan commit.");
+      if (isLocalMode) {
+        const response = await fetch(`/api/local-crud?file=${filePath}`, {
+          method: "PUT",
+          headers: { "Content-Type": "application/json" },
+          body: contentStr
+        });
+        if (!response.ok) throw new Error("Gagal menyimpan ke lokal.");
+        setSuccess("Berhasil disimpan ke komputer lokal!");
+      } else {
+        const encoded = btoa(unescape(encodeURIComponent(contentStr)));
+        
+        const bodyPayload: any = {
+          message: `Update ${filePath} via Admin Dashboard`,
+          content: encoded,
+          branch: config.branch
+        };
+        if (fileSha) {
+          bodyPayload.sha = fileSha;
+        }
+        
+        const response = await fetch(`https://api.github.com/repos/${config.repo}/contents/${filePath}`, {
+          method: "PUT",
+          headers: {
+            "Authorization": `token ${config.token}`,
+            "Accept": "application/vnd.github.v3+json",
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify(bodyPayload)
+        });
+
+        if (!response.ok) {
+          const errorData = await response.json();
+          throw new Error(errorData.message || "Gagal melakukan commit.");
+        }
+        
+        const result = await response.json();
+        setFileSha(result.content.sha); // Update SHA
+        setSuccess("Berhasil commit ke GitHub!");
       }
-      
-      const result = await response.json();
-      setFileSha(result.content.sha); // Update SHA
-      setSuccess("Berhasil commit ke GitHub!");
     } catch (err: any) {
       setError(err.message);
     } finally {
@@ -164,47 +222,110 @@ export default function AdminFlashcard() {
       <div className="flex justify-between items-center mb-6">
         <div>
           <h1 className="text-3xl font-extrabold mb-2">Admin Flashcard JSON</h1>
-          <p className="text-[var(--color-text-muted)]">CRUD dan Commit langsung ke GitHub</p>
+          <p className="text-[var(--color-text-muted)]">CRUD Data dan simpan langsung ke sistem</p>
         </div>
         <Button variant="default" onClick={() => navigate("/adminadit")}>Kembali</Button>
       </div>
 
-      <Card className="p-6 mb-6 flex flex-col gap-4">
-        <h2 className="font-bold text-xl">1. Konfigurasi GitHub</h2>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          <div>
-            <label className="block text-sm font-bold mb-1">GitHub PAT (Token)</label>
-            <input type="password" value={config.token} onChange={e => saveToken(e.target.value)} className="w-full p-2 rounded bg-[var(--color-bg-nav)] border border-[var(--color-border-main)]" placeholder="ghp_..." />
+      <div className="flex gap-2 mb-6">
+        <Button 
+          variant={isLocalMode ? "primary" : "default"} 
+          onClick={() => { setIsLocalMode(true); setData([]); setSuccess(""); setError(""); }}
+        >
+          💻 Local Mode (Dev)
+        </Button>
+        <Button 
+          variant={!isLocalMode ? "primary" : "default"} 
+          onClick={() => { setIsLocalMode(false); setData([]); setSuccess(""); setError(""); }}
+        >
+          ☁️ GitHub Mode
+        </Button>
+      </div>
+
+      {!isLocalMode && (
+        <Card className="p-6 mb-6 flex flex-col gap-4">
+          <h2 className="font-bold text-xl">1. Konfigurasi GitHub</h2>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <div>
+              <label className="block text-sm font-bold mb-1">GitHub PAT (Token)</label>
+              <input type="password" value={config.token} onChange={e => saveToken(e.target.value)} className="w-full p-2 rounded bg-[var(--color-bg-nav)] border border-[var(--color-border-main)]" placeholder="ghp_..." />
+            </div>
+            <div>
+              <label className="block text-sm font-bold mb-1">Repository (owner/repo)</label>
+              <input type="text" value={config.repo} onChange={e => setConfig(prev => ({ ...prev, repo: e.target.value }))} className="w-full p-2 rounded bg-[var(--color-bg-nav)] border border-[var(--color-border-main)]" />
+            </div>
+            <div>
+              <label className="block text-sm font-bold mb-1">Branch</label>
+              <input type="text" value={config.branch} onChange={e => setConfig(prev => ({ ...prev, branch: e.target.value }))} className="w-full p-2 rounded bg-[var(--color-bg-nav)] border border-[var(--color-border-main)]" />
+            </div>
           </div>
-          <div>
-            <label className="block text-sm font-bold mb-1">Repository (owner/repo)</label>
-            <input type="text" value={config.repo} onChange={e => setConfig(prev => ({ ...prev, repo: e.target.value }))} className="w-full p-2 rounded bg-[var(--color-bg-nav)] border border-[var(--color-border-main)]" />
-          </div>
-          <div>
-            <label className="block text-sm font-bold mb-1">Branch</label>
-            <input type="text" value={config.branch} onChange={e => setConfig(prev => ({ ...prev, branch: e.target.value }))} className="w-full p-2 rounded bg-[var(--color-bg-nav)] border border-[var(--color-border-main)]" />
-          </div>
-        </div>
-      </Card>
+        </Card>
+      )}
 
       <Card className="p-6 mb-6">
-        <h2 className="font-bold text-xl mb-4">2. Load File</h2>
-        <div className="flex gap-4 items-end">
-          <div className="flex-1">
-            <label className="block text-sm font-bold mb-1">File Path di Repo (cth: src/data/kanji/iroa1.json)</label>
-            <input type="text" value={filePath} onChange={e => setFilePath(e.target.value)} className="w-full p-2 rounded bg-[var(--color-bg-nav)] border border-[var(--color-border-main)]" />
-          </div>
-          <Button variant="primary" onClick={loadFile} disabled={loading || !config.token}>Load Data</Button>
+        <h2 className="font-bold text-xl mb-4">{isLocalMode ? '1. Load File Lokal' : '2. Load File GitHub'}</h2>
+        
+        <div className="mb-4">
+           <Button variant="default" className="w-full md:w-auto mb-2 text-sm py-1.5" onClick={() => setShowFileList(!showFileList)}>
+             {showFileList ? 'Tutup Daftar File' : 'Lihat Daftar File (src/data/)'}
+           </Button>
+           {showFileList && (
+             <div className="p-2 bg-[var(--color-bg-nav)] rounded border border-[var(--color-border-main)] max-h-64 flex flex-col gap-2 shadow-inner">
+               <input 
+                 type="text" 
+                 placeholder="Cari nama atau folder file..." 
+                 className="w-full p-2 text-sm rounded bg-[var(--color-bg-main)] border border-[var(--color-border-main)] focus:outline-none focus:ring-1 focus:ring-[var(--color-accent)]"
+                 onChange={(e) => {
+                   const q = e.target.value.toLowerCase();
+                   const items = document.querySelectorAll('.file-list-item');
+                   items.forEach((item) => {
+                     const text = item.textContent?.toLowerCase() || '';
+                     if (text.includes(q)) {
+                       (item as HTMLElement).style.display = 'block';
+                     } else {
+                       (item as HTMLElement).style.display = 'none';
+                     }
+                   });
+                 }}
+               />
+               <div className="overflow-y-auto custom-scrollbar flex-1 pr-1">
+                 {fileList.length === 0 ? <p className="text-sm opacity-50 p-2 text-center">Memuat daftar file...</p> : (
+                   <ul className="flex flex-col gap-1">
+                     {fileList.map((f, i) => (
+                       <li key={i} className="file-list-item">
+                         <button 
+                           className="w-full text-left p-2 text-sm rounded hover:bg-[var(--color-accent)] hover:text-[var(--color-bg-main)] font-mono transition-colors active:scale-[0.98]"
+                           onClick={() => { setFilePath(f); setShowFileList(false); }}
+                         >
+                           📄 {f}
+                         </button>
+                       </li>
+                     ))}
+                   </ul>
+                 )}
+               </div>
+             </div>
+           )}
         </div>
-        {error && <p className="text-red-500 font-bold mt-2">{error}</p>}
-        {success && <p className="text-green-500 font-bold mt-2">{success}</p>}
+
+        <div className="flex flex-col md:flex-row gap-3 items-end">
+          <div className="flex-1 w-full">
+            <label className="block text-sm font-bold mb-1">Atau ketik File Path {isLocalMode ? '(lokal)' : 'di Repo'}</label>
+            <input type="text" value={filePath} onChange={e => setFilePath(e.target.value)} className="w-full p-2 rounded bg-[var(--color-bg-nav)] border border-[var(--color-border-main)] font-mono text-sm" placeholder="src/data/kanji/iroa1.json" />
+          </div>
+          <Button variant="primary" className="w-full md:w-auto shadow-[3px_3px_0px_var(--color-shadow-main)]" onClick={loadFile} disabled={loading || (!isLocalMode && !config.token)}>Load Data</Button>
+        </div>
+        {error && <p className="text-red-500 font-bold mt-2 text-sm">{error}</p>}
+        {success && <p className="text-green-500 font-bold mt-2 text-sm">{success}</p>}
       </Card>
 
       {data.length > 0 && (
         <Card className="p-6">
           <div className="flex justify-between items-center mb-4">
-            <h2 className="font-bold text-xl">3. Edit Data ({data.length} item)</h2>
-            <Button variant="danger" onClick={commitFile} disabled={loading}>Commit ke GitHub</Button>
+            <h2 className="font-bold text-xl">{isLocalMode ? '2' : '3'}. Edit Data ({data.length} item)</h2>
+            <Button variant="danger" onClick={commitFile} disabled={loading}>
+              {isLocalMode ? '💾 Simpan File Lokal' : '☁️ Commit ke GitHub'}
+            </Button>
           </div>
           
           <div className="flex justify-between mb-4 gap-4">
