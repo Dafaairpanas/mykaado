@@ -92,6 +92,9 @@ export const KANJI_SOURCES: DeckSource[] = [
       { id: "kj_n2", label: "JLPT N2", pathKey: "kanji/n2.json", file: () => import(`@/data/kanji/n2.json`) },
       { id: "kj_n1", label: "JLPT N1", pathKey: "kanji/n1.json", file: () => import(`@/data/kanji/n1.json`) },
       { id: "kj_irodori", label: "Irodori Dasar", pathKey: "kanji/irodorikanjidasar.json", file: () => import(`@/data/kanji/irodorikanjidasar.json`) },
+      { id: "kj_iroa1", label: "Irodori A1", pathKey: "kanji/iroa1.json", file: () => import(`@/data/kanji/iroa1.json`) },
+      { id: "kj_iroa2_1", label: "Irodori A2-1", pathKey: "kanji/iroa2-1.json", file: () => import(`@/data/kanji/iroa2-1.json`) },
+      { id: "kj_iroa2_2", label: "Irodori A2-2", pathKey: "kanji/iroa2_2.json", file: () => import(`@/data/kanji/iroa2_2.json`) },
       { id: "kj_jfta2", label: "JFT A2 Kanji", pathKey: "renshuu/jfta2kanji.json", file: () => import(`@/data/renshuu/jfta2kanji.json`) }
     ]
   }

@@ -1,5 +1,13 @@
 @import "tailwindcss";
 
+@font-face {
+  font-family: "UD Digi Kyokasho N-R";
+  src: url("/fonts/UDDigiKyokashoN-R-01.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 @theme {
   --font-outfit: "Outfit", sans-serif;
   --font-jp: "UD Digi Kyokasho N-R", "Noto Sans JP", sans-serif;

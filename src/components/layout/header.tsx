@@ -3,7 +3,7 @@ import { Link, useLocation, useSearchParams } from "react-router-dom";
 import { Logo } from "@/components/ui/logo";
 import { db } from "@/lib/db";
 
-import { RotateCcw, Moon, Sun } from "lucide-react";
+import { RotateCcw, Moon, Sun, Volume2, VolumeX } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 export function Header() {
@@ -12,14 +12,23 @@ export function Header() {
   const pathname = location.pathname;
   const filter = searchParams.get("filter") || "minna";
   const isSetupPage = pathname === "/flashcard/setup";
+  const isFlashcardPage = pathname === "/flashcard";
 
   const [isDark, setIsDark] = useState(false);
   const [mounted, setMounted] = useState(false);
+  const [isMuted, setIsMuted] = useState(() => localStorage.getItem("mykaado_flashcard_muted") === "true");
 
   useEffect(() => {
     setMounted(true);
     setIsDark(document.documentElement.getAttribute('data-theme') === 'dark');
   }, []);
+
+  const toggleMute = () => {
+    const nextMuted = !isMuted;
+    setIsMuted(nextMuted);
+    localStorage.setItem("mykaado_flashcard_muted", String(nextMuted));
+    window.dispatchEvent(new CustomEvent("flashcard-mute-toggle", { detail: { isMuted: nextMuted } }));
+  };
 
   const toggleTheme = () => {
     const isCurrentlyDark = document.documentElement.getAttribute('data-theme') === 'dark';
@@ -89,6 +98,15 @@ export function Header() {
             >
               <RotateCcw className="w-5 h-5 md:w-4 md:h-4" />
               <span className="hidden md:inline">Reset Data</span>
+            </button>
+          )}
+          {isFlashcardPage && mounted && (
+            <button
+              onClick={toggleMute}
+              className="p-2 rounded-full text-[var(--color-text-main)] hover:bg-[var(--color-bg-nav)] transition-colors"
+              title="Toggle Sound"
+            >
+              {isMuted ? <VolumeX className="w-5 h-5 text-red-500" /> : <Volume2 className="w-5 h-5" />}
             </button>
           )}
           {mounted && (

@@ -1,0 +1,2234 @@
+[
+  {
+    "id": "kj-ir-a2-1-001",
+    "kanji": "学生",
+    "kana": "がくせい",
+    "onyomi": "-",
+    "kunyomi": "がくせい",
+    "meaning": "pelajar/mahasiswa",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-002",
+    "kanji": "学校",
+    "kana": "がっこう",
+    "onyomi": "-",
+    "kunyomi": "がっこう",
+    "meaning": "sekolah",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-003",
+    "kanji": "生活",
+    "kana": "せいかつ",
+    "onyomi": "-",
+    "kunyomi": "せいかつ",
+    "meaning": "kehidupan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-004",
+    "kanji": "去年",
+    "kana": "きょねん",
+    "onyomi": "-",
+    "kunyomi": "きょねん",
+    "meaning": "tahun lalu",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-005",
+    "kanji": "先週",
+    "kana": "せんしゅう",
+    "onyomi": "-",
+    "kunyomi": "せんしゅう",
+    "meaning": "minggu lalu",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-006",
+    "kanji": "漢字",
+    "kana": "かんじ",
+    "onyomi": "-",
+    "kunyomi": "かんじ",
+    "meaning": "aksara Kanji",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-007",
+    "kanji": "注意",
+    "kana": "ちゅうい",
+    "onyomi": "-",
+    "kunyomi": "ちゅうい",
+    "meaning": "perhatian",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-008",
+    "kanji": "読む",
+    "kana": "よむ",
+    "onyomi": "-",
+    "kunyomi": "よむ",
+    "meaning": "membaca",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-009",
+    "kanji": "仕事",
+    "kana": "しごと",
+    "onyomi": "-",
+    "kunyomi": "しごと",
+    "meaning": "pekerjaan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-010",
+    "kanji": "元気",
+    "kana": "げんき",
+    "onyomi": "-",
+    "kunyomi": "げんき",
+    "meaning": "sehat/bersemangat",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-011",
+    "kanji": "忙しい",
+    "kana": "いそがしい",
+    "onyomi": "-",
+    "kunyomi": "いそがしい",
+    "meaning": "sibuk",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-012",
+    "kanji": "働く",
+    "kana": "はたらく",
+    "onyomi": "-",
+    "kunyomi": "はたらく",
+    "meaning": "bekerja",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-013",
+    "kanji": "作る",
+    "kana": "つくる",
+    "onyomi": "-",
+    "kunyomi": "つくる",
+    "meaning": "membuat",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-014",
+    "kanji": "日本",
+    "kana": "にほん",
+    "onyomi": "-",
+    "kunyomi": "にほん",
+    "meaning": "Jepang",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-015",
+    "kanji": "来る",
+    "kana": "くる",
+    "onyomi": "-",
+    "kunyomi": "くる",
+    "meaning": "datang",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-016",
+    "kanji": "慣れる",
+    "kana": "なれる",
+    "onyomi": "-",
+    "kunyomi": "なれる",
+    "meaning": "terbiasa",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-017",
+    "kanji": "今",
+    "kana": "いま",
+    "onyomi": "-",
+    "kunyomi": "いま",
+    "meaning": "sekarang",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-018",
+    "kanji": "日本語",
+    "kana": "にほんご",
+    "onyomi": "-",
+    "kunyomi": "にほんご",
+    "meaning": "bahasa Jepang",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-019",
+    "kanji": "通う",
+    "kana": "かよう",
+    "onyomi": "-",
+    "kunyomi": "かよう",
+    "meaning": "pergi bolak-balik",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-020",
+    "kanji": "野菜",
+    "kana": "やさい",
+    "onyomi": "-",
+    "kunyomi": "やさい",
+    "meaning": "sayuran",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-021",
+    "kanji": "介護",
+    "kana": "かいご",
+    "onyomi": "-",
+    "kunyomi": "かいご",
+    "meaning": "perawatan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-022",
+    "kanji": "人",
+    "kana": "ひと",
+    "onyomi": "-",
+    "kunyomi": "ひと",
+    "meaning": "orang",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-023",
+    "kanji": "犬",
+    "kana": "いぬ",
+    "onyomi": "-",
+    "kunyomi": "いぬ",
+    "meaning": "anjing",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-024",
+    "kanji": "家族",
+    "kana": "かぞく",
+    "onyomi": "-",
+    "kunyomi": "かぞく",
+    "meaning": "keluarga",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-025",
+    "kanji": "夕方",
+    "kana": "ゆうがた",
+    "onyomi": "-",
+    "kunyomi": "ゆうがた",
+    "meaning": "sore",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-026",
+    "kanji": "英語",
+    "kana": "えいご",
+    "onyomi": "-",
+    "kunyomi": "えいご",
+    "meaning": "bahasa Inggris",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-027",
+    "kanji": "音楽",
+    "kana": "おんがく",
+    "onyomi": "-",
+    "kunyomi": "おんがく",
+    "meaning": "musik",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-028",
+    "kanji": "習う",
+    "kana": "ならう",
+    "onyomi": "-",
+    "kunyomi": "ならう",
+    "meaning": "belajar",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-029",
+    "kanji": "話す",
+    "kana": "はなす",
+    "onyomi": "-",
+    "kunyomi": "はなす",
+    "meaning": "berbicara",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-030",
+    "kanji": "出かける",
+    "kana": "でかける",
+    "onyomi": "-",
+    "kunyomi": "でかける",
+    "meaning": "pergi keluar",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-031",
+    "kanji": "私",
+    "kana": "わたし",
+    "onyomi": "-",
+    "kunyomi": "わたし",
+    "meaning": "saya",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-032",
+    "kanji": "大好き",
+    "kana": "だいすき",
+    "onyomi": "-",
+    "kunyomi": "だいすき",
+    "meaning": "sangat suka",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-033",
+    "kanji": "趣味",
+    "kana": "しゅみ",
+    "onyomi": "-",
+    "kunyomi": "しゅみ",
+    "meaning": "hobi",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-034",
+    "kanji": "夫",
+    "kana": "おっと",
+    "onyomi": "-",
+    "kunyomi": "おっと",
+    "meaning": "suami",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-035",
+    "kanji": "日本人",
+    "kana": "にほんじん",
+    "onyomi": "-",
+    "kunyomi": "にほんじん",
+    "meaning": "orang Jepang",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-036",
+    "kanji": "季節",
+    "kana": "きせつ",
+    "onyomi": "-",
+    "kunyomi": "きせつ",
+    "meaning": "musim",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-037",
+    "kanji": "春",
+    "kana": "はる",
+    "onyomi": "-",
+    "kunyomi": "はる",
+    "meaning": "musim semi",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-038",
+    "kanji": "夏",
+    "kana": "なつ",
+    "onyomi": "-",
+    "kunyomi": "なつ",
+    "meaning": "musim panas",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-039",
+    "kanji": "秋",
+    "kana": "あき",
+    "onyomi": "-",
+    "kunyomi": "あき",
+    "meaning": "musim gugur",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-040",
+    "kanji": "冬",
+    "kana": "ふゆ",
+    "onyomi": "-",
+    "kunyomi": "ふゆ",
+    "meaning": "musim dingin",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-041",
+    "kanji": "花",
+    "kana": "はな",
+    "onyomi": "-",
+    "kunyomi": "はな",
+    "meaning": "bunga",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-042",
+    "kanji": "同じ",
+    "kana": "おなじ",
+    "onyomi": "-",
+    "kunyomi": "おなじ",
+    "meaning": "sama",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-043",
+    "kanji": "暑い",
+    "kana": "あつい",
+    "onyomi": "-",
+    "kunyomi": "あつい",
+    "meaning": "panas",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-044",
+    "kanji": "寒い",
+    "kana": "さむい",
+    "onyomi": "-",
+    "kunyomi": "さむい",
+    "meaning": "dingin",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-045",
+    "kanji": "果物",
+    "kana": "くだもの",
+    "onyomi": "-",
+    "kunyomi": "くだもの",
+    "meaning": "buah",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-046",
+    "kanji": "咲く",
+    "kana": "さく",
+    "onyomi": "-",
+    "kunyomi": "さく",
+    "meaning": "berbunga",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-047",
+    "kanji": "好き",
+    "kana": "すき",
+    "onyomi": "-",
+    "kunyomi": "すき",
+    "meaning": "suka",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-048",
+    "kanji": "国",
+    "kana": "くに",
+    "onyomi": "-",
+    "kunyomi": "くに",
+    "meaning": "negara",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-049",
+    "kanji": "天気",
+    "kana": "てんき",
+    "onyomi": "-",
+    "kunyomi": "てんき",
+    "meaning": "cuaca",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-050",
+    "kanji": "晴れ",
+    "kana": "はれ",
+    "onyomi": "-",
+    "kunyomi": "はれ",
+    "meaning": "cerah",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-051",
+    "kanji": "雨",
+    "kana": "あめ",
+    "onyomi": "-",
+    "kunyomi": "あめ",
+    "meaning": "hujan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-052",
+    "kanji": "雪",
+    "kana": "ゆき",
+    "onyomi": "-",
+    "kunyomi": "ゆき",
+    "meaning": "salju",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-053",
+    "kanji": "風",
+    "kana": "かぜ",
+    "onyomi": "-",
+    "kunyomi": "かぜ",
+    "meaning": "angin",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-054",
+    "kanji": "昨日",
+    "kana": "きのう",
+    "onyomi": "-",
+    "kunyomi": "きのう",
+    "meaning": "kemarin",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-055",
+    "kanji": "明日",
+    "kana": "あした",
+    "onyomi": "-",
+    "kunyomi": "あした",
+    "meaning": "besok",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-056",
+    "kanji": "毎日",
+    "kana": "まいにち",
+    "onyomi": "-",
+    "kunyomi": "まいにち",
+    "meaning": "setiap hari",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-057",
+    "kanji": "強い",
+    "kana": "つよい",
+    "onyomi": "-",
+    "kunyomi": "つよい",
+    "meaning": "kuat",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-058",
+    "kanji": "降る",
+    "kana": "ふる",
+    "onyomi": "-",
+    "kunyomi": "ふる",
+    "meaning": "turun",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-059",
+    "kanji": "今日",
+    "kana": "きょう",
+    "onyomi": "-",
+    "kunyomi": "きょう",
+    "meaning": "hari ini",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-060",
+    "kanji": "朝",
+    "kana": "あさ",
+    "onyomi": "-",
+    "kunyomi": "あさ",
+    "meaning": "pagi",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-061",
+    "kanji": "町",
+    "kana": "まち",
+    "onyomi": "-",
+    "kunyomi": "まち",
+    "meaning": "kota kecil",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-062",
+    "kanji": "店",
+    "kana": "みせ",
+    "onyomi": "-",
+    "kunyomi": "みせ",
+    "meaning": "toko",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-063",
+    "kanji": "食堂",
+    "kana": "しょくどう",
+    "onyomi": "-",
+    "kunyomi": "しょくどう",
+    "meaning": "kantin",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-064",
+    "kanji": "便利",
+    "kana": "べんり",
+    "onyomi": "-",
+    "kunyomi": "べんり",
+    "meaning": "praktis",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-065",
+    "kanji": "不便",
+    "kana": "ふべん",
+    "onyomi": "-",
+    "kunyomi": "ふべん",
+    "meaning": "tidak praktis",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-066",
+    "kanji": "静か",
+    "kana": "しずか",
+    "onyomi": "-",
+    "kunyomi": "しずか",
+    "meaning": "tenang",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-067",
+    "kanji": "有名",
+    "kana": "ゆうめい",
+    "onyomi": "-",
+    "kunyomi": "ゆうめい",
+    "meaning": "terkenal",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-068",
+    "kanji": "多い",
+    "kana": "おおい",
+    "onyomi": "-",
+    "kunyomi": "おおい",
+    "meaning": "banyak",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-069",
+    "kanji": "少ない",
+    "kana": "すくない",
+    "onyomi": "-",
+    "kunyomi": "すくない",
+    "meaning": "sedikit",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-070",
+    "kanji": "遠い",
+    "kana": "とおい",
+    "onyomi": "-",
+    "kunyomi": "とおい",
+    "meaning": "jauh",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-071",
+    "kanji": "公園",
+    "kana": "こうえん",
+    "onyomi": "-",
+    "kunyomi": "こうえん",
+    "meaning": "taman",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-072",
+    "kanji": "道",
+    "kana": "みち",
+    "onyomi": "-",
+    "kunyomi": "みち",
+    "meaning": "jalan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-073",
+    "kanji": "銀行",
+    "kana": "ぎんこう",
+    "onyomi": "-",
+    "kunyomi": "ぎんこう",
+    "meaning": "bank",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-074",
+    "kanji": "お寺",
+    "kana": "おてら",
+    "onyomi": "-",
+    "kunyomi": "おてら",
+    "meaning": "kuil Buddha",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-075",
+    "kanji": "神社",
+    "kana": "じんじゃ",
+    "onyomi": "-",
+    "kunyomi": "じんじゃ",
+    "meaning": "kuil Shinto",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-076",
+    "kanji": "右",
+    "kana": "みぎ",
+    "onyomi": "-",
+    "kunyomi": "みぎ",
+    "meaning": "kanan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-077",
+    "kanji": "左",
+    "kana": "ひだり",
+    "onyomi": "-",
+    "kunyomi": "ひだり",
+    "meaning": "kiri",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-078",
+    "kanji": "近く",
+    "kana": "ちかく",
+    "onyomi": "-",
+    "kunyomi": "ちかく",
+    "meaning": "dekat",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-079",
+    "kanji": "車",
+    "kana": "くるま",
+    "onyomi": "-",
+    "kunyomi": "くるま",
+    "meaning": "mobil",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-080",
+    "kanji": "送る",
+    "kana": "おくる",
+    "onyomi": "-",
+    "kunyomi": "おくる",
+    "meaning": "mengantar",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-081",
+    "kanji": "信号",
+    "kana": "しんごう",
+    "onyomi": "-",
+    "kunyomi": "しんごう",
+    "meaning": "lampu lalu lintas",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-082",
+    "kanji": "曲がる",
+    "kana": "まがる",
+    "onyomi": "-",
+    "kunyomi": "まがる",
+    "meaning": "berbelok",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-083",
+    "kanji": "角",
+    "kana": "かど",
+    "onyomi": "-",
+    "kunyomi": "かど",
+    "meaning": "sudut",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-084",
+    "kanji": "家",
+    "kana": "いえ",
+    "onyomi": "-",
+    "kunyomi": "いえ",
+    "meaning": "rumah",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-085",
+    "kanji": "辺",
+    "kana": "へん",
+    "onyomi": "-",
+    "kunyomi": "へん",
+    "meaning": "daerah sekitar",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-086",
+    "kanji": "隣",
+    "kana": "となり",
+    "onyomi": "-",
+    "kunyomi": "となり",
+    "meaning": "sebelah",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-087",
+    "kanji": "行く",
+    "kana": "いく",
+    "onyomi": "-",
+    "kunyomi": "いく",
+    "meaning": "pergi",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-088",
+    "kanji": "次",
+    "kana": "つぎ",
+    "onyomi": "-",
+    "kunyomi": "つぎ",
+    "meaning": "berikutnya",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-089",
+    "kanji": "時間",
+    "kana": "じかん",
+    "onyomi": "-",
+    "kunyomi": "じかん",
+    "meaning": "waktu",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-090",
+    "kanji": "場所",
+    "kana": "ばしょ",
+    "onyomi": "-",
+    "kunyomi": "ばしょ",
+    "meaning": "tempat",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-091",
+    "kanji": "駅",
+    "kana": "えき",
+    "onyomi": "-",
+    "kunyomi": "えき",
+    "meaning": "stasiun",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-092",
+    "kanji": "受付",
+    "kana": "うけつけ",
+    "onyomi": "-",
+    "kunyomi": "うけつけ",
+    "meaning": "resepsionis",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-093",
+    "kanji": "門",
+    "kana": "もん",
+    "onyomi": "-",
+    "kunyomi": "もん",
+    "meaning": "gerbang",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-094",
+    "kanji": "電車",
+    "kana": "でんしゃ",
+    "onyomi": "-",
+    "kunyomi": "でんしゃ",
+    "meaning": "kereta listrik",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-095",
+    "kanji": "待つ",
+    "kana": "まつ",
+    "onyomi": "-",
+    "kunyomi": "まつ",
+    "meaning": "menunggu",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-096",
+    "kanji": "止まる",
+    "kana": "とまる",
+    "onyomi": "-",
+    "kunyomi": "とまる",
+    "meaning": "berhenti",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-097",
+    "kanji": "着く",
+    "kana": "つく",
+    "onyomi": "-",
+    "kunyomi": "つく",
+    "meaning": "tiba",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-098",
+    "kanji": "急ぐ",
+    "kana": "いそぐ",
+    "onyomi": "-",
+    "kunyomi": "いそぐ",
+    "meaning": "bergegas",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-099",
+    "kanji": "集合",
+    "kana": "しゅうごう",
+    "onyomi": "-",
+    "kunyomi": "しゅうごう",
+    "meaning": "berkumpul",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-100",
+    "kanji": "事故",
+    "kana": "じこ",
+    "onyomi": "-",
+    "kunyomi": "じこ",
+    "meaning": "kecelakaan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-101",
+    "kanji": "前",
+    "kana": "まえ",
+    "onyomi": "-",
+    "kunyomi": "まえ",
+    "meaning": "depan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-102",
+    "kanji": "お金",
+    "kana": "おかね",
+    "onyomi": "-",
+    "kunyomi": "おかね",
+    "meaning": "uang",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-103",
+    "kanji": "食事",
+    "kana": "しょくじ",
+    "onyomi": "-",
+    "kunyomi": "しょくじ",
+    "meaning": "makan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-104",
+    "kanji": "博物館",
+    "kana": "はくぶつかん",
+    "onyomi": "-",
+    "kunyomi": "はくぶつかん",
+    "meaning": "museum",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-105",
+    "kanji": "動物園",
+    "kana": "どうぶつえん",
+    "onyomi": "-",
+    "kunyomi": "どうぶつえん",
+    "meaning": "kebun binatang",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-106",
+    "kanji": "試合",
+    "kana": "しあい",
+    "onyomi": "-",
+    "kunyomi": "しあい",
+    "meaning": "pertandingan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-107",
+    "kanji": "楽しい",
+    "kana": "たのしい",
+    "onyomi": "-",
+    "kunyomi": "たのしい",
+    "meaning": "menyenangkan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-108",
+    "kanji": "難しい",
+    "kana": "むずかしい",
+    "onyomi": "-",
+    "kunyomi": "むずかしい",
+    "meaning": "sulit",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-109",
+    "kanji": "登る",
+    "kana": "のぼる",
+    "onyomi": "-",
+    "kunyomi": "のぼる",
+    "meaning": "mendaki",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-110",
+    "kanji": "富士山",
+    "kana": "ふじさん",
+    "onyomi": "-",
+    "kunyomi": "ふじさん",
+    "meaning": "Gunung Fuji",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-111",
+    "kanji": "映画",
+    "kana": "えいが",
+    "onyomi": "-",
+    "kunyomi": "えいが",
+    "meaning": "film",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-112",
+    "kanji": "買う",
+    "kana": "かう",
+    "onyomi": "-",
+    "kunyomi": "かう",
+    "meaning": "membeli",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-113",
+    "kanji": "見る",
+    "kana": "みる",
+    "onyomi": "-",
+    "kunyomi": "みる",
+    "meaning": "melihat",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-114",
+    "kanji": "高校",
+    "kana": "こうこう",
+    "onyomi": "-",
+    "kunyomi": "こうこう",
+    "meaning": "SMA",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-115",
+    "kanji": "大学",
+    "kana": "だいがく",
+    "onyomi": "-",
+    "kunyomi": "だいがく",
+    "meaning": "universitas",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-116",
+    "kanji": "練習",
+    "kana": "れんしゅう",
+    "onyomi": "-",
+    "kunyomi": "れんしゅう",
+    "meaning": "latihan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-117",
+    "kanji": "無料",
+    "kana": "むりょう",
+    "onyomi": "-",
+    "kunyomi": "むりょう",
+    "meaning": "gratis",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-118",
+    "kanji": "言う",
+    "kana": "いう",
+    "onyomi": "-",
+    "kunyomi": "いう",
+    "meaning": "berkata",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-119",
+    "kanji": "書く",
+    "kana": "かく",
+    "onyomi": "-",
+    "kunyomi": "かく",
+    "meaning": "menulis",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-120",
+    "kanji": "貸す",
+    "kana": "かす",
+    "onyomi": "-",
+    "kunyomi": "かす",
+    "meaning": "meminjamkan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-121",
+    "kanji": "教える",
+    "kana": "おしえる",
+    "onyomi": "-",
+    "kunyomi": "おしえる",
+    "meaning": "mengajar",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-122",
+    "kanji": "説明",
+    "kana": "せつめい",
+    "onyomi": "-",
+    "kunyomi": "せつめい",
+    "meaning": "penjelasan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-123",
+    "kanji": "会話",
+    "kana": "かいわ",
+    "onyomi": "-",
+    "kunyomi": "かいわ",
+    "meaning": "percakapan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-124",
+    "kanji": "簡単",
+    "kana": "かんたん",
+    "onyomi": "-",
+    "kunyomi": "かんたん",
+    "meaning": "sederhana",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-125",
+    "kanji": "辞書",
+    "kana": "じしょ",
+    "onyomi": "-",
+    "kunyomi": "じしょ",
+    "meaning": "kamus",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-126",
+    "kanji": "一度",
+    "kana": "いちど",
+    "onyomi": "-",
+    "kunyomi": "いちど",
+    "meaning": "sekali",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-127",
+    "kanji": "教室",
+    "kana": "きょうしつ",
+    "onyomi": "-",
+    "kunyomi": "きょうしつ",
+    "meaning": "kelas",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-128",
+    "kanji": "勉強",
+    "kana": "べんきょう",
+    "onyomi": "-",
+    "kunyomi": "べんきょう",
+    "meaning": "belajar",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-129",
+    "kanji": "午前",
+    "kana": "ごぜん",
+    "onyomi": "-",
+    "kunyomi": "ごぜん",
+    "meaning": "pagi AM",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-130",
+    "kanji": "午後",
+    "kana": "ごご",
+    "onyomi": "-",
+    "kunyomi": "ごご",
+    "meaning": "siang/sore PM",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-131",
+    "kanji": "教科書",
+    "kana": "きょうかしょ",
+    "onyomi": "-",
+    "kunyomi": "きょうかしょ",
+    "meaning": "buku pelajaran",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-132",
+    "kanji": "先生",
+    "kana": "せんせい",
+    "onyomi": "-",
+    "kunyomi": "せんせい",
+    "meaning": "guru",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-133",
+    "kanji": "全部",
+    "kana": "ぜんぶ",
+    "onyomi": "-",
+    "kunyomi": "ぜんぶ",
+    "meaning": "semua",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-134",
+    "kanji": "回",
+    "kana": "かい",
+    "onyomi": "-",
+    "kunyomi": "かい",
+    "meaning": "kali",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-135",
+    "kanji": "参加",
+    "kana": "さんか",
+    "onyomi": "-",
+    "kunyomi": "さんか",
+    "meaning": "ikut serta",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-136",
+    "kanji": "用意",
+    "kana": "ようい",
+    "onyomi": "-",
+    "kunyomi": "ようい",
+    "meaning": "persiapan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-137",
+    "kanji": "道具",
+    "kana": "どうぐ",
+    "onyomi": "-",
+    "kunyomi": "どうぐ",
+    "meaning": "alat",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-138",
+    "kanji": "料理",
+    "kana": "りょうり",
+    "onyomi": "-",
+    "kunyomi": "りょうり",
+    "meaning": "masakan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-139",
+    "kanji": "聞く",
+    "kana": "きく",
+    "onyomi": "-",
+    "kunyomi": "きく",
+    "meaning": "bertanya/mendengar",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-140",
+    "kanji": "飲み物",
+    "kana": "のみもの",
+    "onyomi": "-",
+    "kunyomi": "のみもの",
+    "meaning": "minuman",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-141",
+    "kanji": "牛肉",
+    "kana": "ぎゅうにく",
+    "onyomi": "-",
+    "kunyomi": "ぎゅうにく",
+    "meaning": "daging sapi",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-142",
+    "kanji": "お茶",
+    "kana": "おちゃ",
+    "onyomi": "-",
+    "kunyomi": "おちゃ",
+    "meaning": "teh",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-143",
+    "kanji": "お酒",
+    "kana": "おさけ",
+    "onyomi": "-",
+    "kunyomi": "おさけ",
+    "meaning": "minuman beralkohol",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-144",
+    "kanji": "材料",
+    "kana": "ざいりょう",
+    "onyomi": "-",
+    "kunyomi": "ざいりょう",
+    "meaning": "bahan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-145",
+    "kanji": "豚肉",
+    "kana": "ぶたにく",
+    "onyomi": "-",
+    "kunyomi": "ぶたにく",
+    "meaning": "daging babi",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-146",
+    "kanji": "皿",
+    "kana": "さら",
+    "onyomi": "-",
+    "kunyomi": "さら",
+    "meaning": "piring",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-147",
+    "kanji": "売る",
+    "kana": "うる",
+    "onyomi": "-",
+    "kunyomi": "うる",
+    "meaning": "menjual",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-148",
+    "kanji": "持って行く",
+    "kana": "もっていく",
+    "onyomi": "-",
+    "kunyomi": "もっていく",
+    "meaning": "membawa pergi",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-149",
+    "kanji": "入る",
+    "kana": "はいる",
+    "onyomi": "-",
+    "kunyomi": "はいる",
+    "meaning": "masuk/termasuk",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-150",
+    "kanji": "何",
+    "kana": "なに",
+    "onyomi": "-",
+    "kunyomi": "なに",
+    "meaning": "apa",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-151",
+    "kanji": "お願いします",
+    "kana": "おねがいします",
+    "onyomi": "-",
+    "kunyomi": "おねがいします",
+    "meaning": "tolong",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-152",
+    "kanji": "使う",
+    "kana": "つかう",
+    "onyomi": "-",
+    "kunyomi": "つかう",
+    "meaning": "menggunakan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-153",
+    "kanji": "卵",
+    "kana": "たまご",
+    "onyomi": "-",
+    "kunyomi": "たまご",
+    "meaning": "telur",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-154",
+    "kanji": "お湯",
+    "kana": "おゆ",
+    "onyomi": "-",
+    "kunyomi": "おゆ",
+    "meaning": "air panas",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-155",
+    "kanji": "調理方法",
+    "kana": "ちょうりほうほう",
+    "onyomi": "-",
+    "kunyomi": "ちょうりほうほう",
+    "meaning": "cara memasak",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-156",
+    "kanji": "少し",
+    "kana": "すこし",
+    "onyomi": "-",
+    "kunyomi": "すこし",
+    "meaning": "sedikit",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-157",
+    "kanji": "味",
+    "kana": "あじ",
+    "onyomi": "-",
+    "kunyomi": "あじ",
+    "meaning": "rasa",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-158",
+    "kanji": "甘い",
+    "kana": "あまい",
+    "onyomi": "-",
+    "kunyomi": "あまい",
+    "meaning": "manis",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-159",
+    "kanji": "辛い",
+    "kana": "からい",
+    "onyomi": "-",
+    "kunyomi": "からい",
+    "meaning": "pedas",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-160",
+    "kanji": "苦手",
+    "kana": "にがて",
+    "onyomi": "-",
+    "kunyomi": "にがて",
+    "meaning": "tidak suka/lemah",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-161",
+    "kanji": "お好み焼き",
+    "kana": "おこのみやき",
+    "onyomi": "-",
+    "kunyomi": "おこのみやき",
+    "meaning": "okonomiyaki",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-162",
+    "kanji": "食べる",
+    "kana": "たべる",
+    "onyomi": "-",
+    "kunyomi": "たべる",
+    "meaning": "makan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-163",
+    "kanji": "入れる",
+    "kana": "いれる",
+    "onyomi": "-",
+    "kunyomi": "いれる",
+    "meaning": "memasukkan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-164",
+    "kanji": "コピー機",
+    "kana": "コピーき",
+    "onyomi": "-",
+    "kunyomi": "コピーき",
+    "meaning": "mesin fotokopi",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-165",
+    "kanji": "悪い",
+    "kana": "わるい",
+    "onyomi": "-",
+    "kunyomi": "わるい",
+    "meaning": "buruk",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-166",
+    "kanji": "数字",
+    "kana": "すうじ",
+    "onyomi": "-",
+    "kunyomi": "すうじ",
+    "meaning": "angka",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-167",
+    "kanji": "電気",
+    "kana": "でんき",
+    "onyomi": "-",
+    "kunyomi": "でんき",
+    "meaning": "listrik",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-168",
+    "kanji": "音",
+    "kana": "おと",
+    "onyomi": "-",
+    "kunyomi": "おと",
+    "meaning": "suara",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-169",
+    "kanji": "机",
+    "kana": "つくえ",
+    "onyomi": "-",
+    "kunyomi": "つくえ",
+    "meaning": "meja",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-170",
+    "kanji": "都合",
+    "kana": "つごう",
+    "onyomi": "-",
+    "kunyomi": "つごう",
+    "meaning": "keadaan/ketersediaan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-171",
+    "kanji": "動く",
+    "kana": "うごく",
+    "onyomi": "-",
+    "kunyomi": "うごく",
+    "meaning": "bergerak",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-172",
+    "kanji": "終わる",
+    "kana": "おわる",
+    "onyomi": "-",
+    "kunyomi": "おわる",
+    "meaning": "selesai",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-173",
+    "kanji": "原稿",
+    "kana": "げんこう",
+    "onyomi": "-",
+    "kunyomi": "げんこう",
+    "meaning": "naskah",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-174",
+    "kanji": "枚数",
+    "kana": "まいすう",
+    "onyomi": "-",
+    "kunyomi": "まいすう",
+    "meaning": "jumlah lembar",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-175",
+    "kanji": "変",
+    "kana": "へん",
+    "onyomi": "-",
+    "kunyomi": "へん",
+    "meaning": "aneh",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-176",
+    "kanji": "用事",
+    "kana": "ようじ",
+    "onyomi": "-",
+    "kunyomi": "ようじ",
+    "meaning": "urusan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-177",
+    "kanji": "済む",
+    "kana": "すむ",
+    "onyomi": "-",
+    "kunyomi": "すむ",
+    "meaning": "selesai",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-178",
+    "kanji": "氏名",
+    "kana": "しめい",
+    "onyomi": "-",
+    "kunyomi": "しめい",
+    "meaning": "nama lengkap",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-179",
+    "kanji": "理由",
+    "kana": "りゆう",
+    "onyomi": "-",
+    "kunyomi": "りゆう",
+    "meaning": "alasan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-180",
+    "kanji": "連絡先",
+    "kana": "れんらくさき",
+    "onyomi": "-",
+    "kunyomi": "れんらくさき",
+    "meaning": "kontak",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-181",
+    "kanji": "早く",
+    "kana": "はやく",
+    "onyomi": "-",
+    "kunyomi": "はやく",
+    "meaning": "cepat",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-182",
+    "kanji": "吸う",
+    "kana": "すう",
+    "onyomi": "-",
+    "kunyomi": "すう",
+    "meaning": "menghisap",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-183",
+    "kanji": "取る",
+    "kana": "とる",
+    "onyomi": "-",
+    "kunyomi": "とる",
+    "meaning": "mengambil",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-184",
+    "kanji": "別に",
+    "kana": "べつに",
+    "onyomi": "-",
+    "kunyomi": "べつに",
+    "meaning": "tidak khususnya",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-185",
+    "kanji": "伝える",
+    "kana": "つたえる",
+    "onyomi": "-",
+    "kunyomi": "つたえる",
+    "meaning": "menyampaikan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-186",
+    "kanji": "帰る",
+    "kana": "かえる",
+    "onyomi": "-",
+    "kunyomi": "かえる",
+    "meaning": "pulang",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-187",
+    "kanji": "遅れる",
+    "kana": "おくれる",
+    "onyomi": "-",
+    "kunyomi": "おくれる",
+    "meaning": "terlambat",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-188",
+    "kanji": "休み",
+    "kana": "やすみ",
+    "onyomi": "-",
+    "kunyomi": "やすみ",
+    "meaning": "istirahat/libur",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-189",
+    "kanji": "熱",
+    "kana": "ねつ",
+    "onyomi": "-",
+    "kunyomi": "ねつ",
+    "meaning": "demam",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-190",
+    "kanji": "薬",
+    "kana": "くすり",
+    "onyomi": "-",
+    "kunyomi": "くすり",
+    "meaning": "obat",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-191",
+    "kanji": "病気",
+    "kana": "びょうき",
+    "onyomi": "-",
+    "kunyomi": "びょうき",
+    "meaning": "penyakit",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-192",
+    "kanji": "病院",
+    "kana": "びょういん",
+    "onyomi": "-",
+    "kunyomi": "びょういん",
+    "meaning": "rumah sakit",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-193",
+    "kanji": "医者",
+    "kana": "いしゃ",
+    "onyomi": "-",
+    "kunyomi": "いしゃ",
+    "meaning": "dokter",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-194",
+    "kanji": "住所",
+    "kana": "じゅうしょ",
+    "onyomi": "-",
+    "kunyomi": "じゅうしょ",
+    "meaning": "alamat",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-195",
+    "kanji": "才",
+    "kana": "さい",
+    "onyomi": "-",
+    "kunyomi": "さい",
+    "meaning": "usia",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-196",
+    "kanji": "痛い",
+    "kana": "いたい",
+    "onyomi": "-",
+    "kunyomi": "いたい",
+    "meaning": "sakit",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-197",
+    "kanji": "眠い",
+    "kana": "ねむい",
+    "onyomi": "-",
+    "kunyomi": "ねむい",
+    "meaning": "mengantuk",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-198",
+    "kanji": "寝る",
+    "kana": "ねる",
+    "onyomi": "-",
+    "kunyomi": "ねる",
+    "meaning": "tidur",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-199",
+    "kanji": "記入する",
+    "kana": "きにゅうする",
+    "onyomi": "-",
+    "kunyomi": "きにゅうする",
+    "meaning": "mengisi",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-200",
+    "kanji": "問診票",
+    "kana": "もんしんひょう",
+    "onyomi": "-",
+    "kunyomi": "もんしんひょう",
+    "meaning": "formulir pertanyaan medis",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-201",
+    "kanji": "お腹",
+    "kana": "おなか",
+    "onyomi": "-",
+    "kunyomi": "おなか",
+    "meaning": "perut",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-202",
+    "kanji": "夜",
+    "kana": "よる",
+    "onyomi": "-",
+    "kunyomi": "よる",
+    "meaning": "malam",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-203",
+    "kanji": "大きな",
+    "kana": "おおきな",
+    "onyomi": "-",
+    "kunyomi": "おおきな",
+    "meaning": "besar",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-204",
+    "kanji": "名前",
+    "kana": "なまえ",
+    "onyomi": "-",
+    "kunyomi": "なまえ",
+    "meaning": "nama",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-205",
+    "kanji": "生年月日",
+    "kana": "せいねんがっぴ",
+    "onyomi": "-",
+    "kunyomi": "せいねんがっぴ",
+    "meaning": "tanggal lahir",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-206",
+    "kanji": "飲む",
+    "kana": "のむ",
+    "onyomi": "-",
+    "kunyomi": "のむ",
+    "meaning": "minum",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-207",
+    "kanji": "体",
+    "kana": "からだ",
+    "onyomi": "-",
+    "kunyomi": "からだ",
+    "meaning": "tubuh",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-208",
+    "kanji": "顔",
+    "kana": "かお",
+    "onyomi": "-",
+    "kunyomi": "かお",
+    "meaning": "wajah",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-209",
+    "kanji": "目",
+    "kana": "め",
+    "onyomi": "-",
+    "kunyomi": "め",
+    "meaning": "mata",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-210",
+    "kanji": "耳",
+    "kana": "みみ",
+    "onyomi": "-",
+    "kunyomi": "みみ",
+    "meaning": "telinga",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-211",
+    "kanji": "口",
+    "kana": "くち",
+    "onyomi": "-",
+    "kunyomi": "くち",
+    "meaning": "mulut",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-212",
+    "kanji": "頭",
+    "kana": "あたま",
+    "onyomi": "-",
+    "kunyomi": "あたま",
+    "meaning": "kepala",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-213",
+    "kanji": "足",
+    "kana": "あし",
+    "onyomi": "-",
+    "kunyomi": "あし",
+    "meaning": "kaki",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-214",
+    "kanji": "手",
+    "kana": "て",
+    "onyomi": "-",
+    "kunyomi": "て",
+    "meaning": "tangan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-215",
+    "kanji": "起きる",
+    "kana": "おきる",
+    "onyomi": "-",
+    "kunyomi": "おきる",
+    "meaning": "bangun",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-216",
+    "kanji": "歩く",
+    "kana": "あるく",
+    "onyomi": "-",
+    "kunyomi": "あるく",
+    "meaning": "berjalan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-217",
+    "kanji": "走る",
+    "kana": "はしる",
+    "onyomi": "-",
+    "kunyomi": "はしる",
+    "meaning": "berlari",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-218",
+    "kanji": "運動",
+    "kana": "うんどう",
+    "onyomi": "-",
+    "kunyomi": "うんどう",
+    "meaning": "olahraga",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-219",
+    "kanji": "鼻",
+    "kana": "はな",
+    "onyomi": "-",
+    "kunyomi": "はな",
+    "meaning": "hidung",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-220",
+    "kanji": "開ける",
+    "kana": "あける",
+    "onyomi": "-",
+    "kunyomi": "あける",
+    "meaning": "membuka",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-221",
+    "kanji": "洗う",
+    "kana": "あらう",
+    "onyomi": "-",
+    "kunyomi": "あらう",
+    "meaning": "mencuci",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-222",
+    "kanji": "石けん",
+    "kana": "せっけん",
+    "onyomi": "-",
+    "kunyomi": "せっけん",
+    "meaning": "sabun",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-223",
+    "kanji": "お父さん",
+    "kana": "おとうさん",
+    "onyomi": "-",
+    "kunyomi": "おとうさん",
+    "meaning": "ayah",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-224",
+    "kanji": "お母さん",
+    "kana": "おかあさん",
+    "onyomi": "-",
+    "kunyomi": "おかあさん",
+    "meaning": "ibu",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-225",
+    "kanji": "兄",
+    "kana": "あに",
+    "onyomi": "-",
+    "kunyomi": "あに",
+    "meaning": "kakak laki-laki",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-226",
+    "kanji": "弟",
+    "kana": "おとうと",
+    "onyomi": "-",
+    "kunyomi": "おとうと",
+    "meaning": "adik laki-laki",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-227",
+    "kanji": "妹",
+    "kana": "いもうと",
+    "onyomi": "-",
+    "kunyomi": "いもうと",
+    "meaning": "adik perempuan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-228",
+    "kanji": "お兄さん",
+    "kana": "おにいさん",
+    "onyomi": "-",
+    "kunyomi": "おにいさん",
+    "meaning": "kakak laki-laki orang lain",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-229",
+    "kanji": "姉",
+    "kana": "あね",
+    "onyomi": "-",
+    "kunyomi": "あね",
+    "meaning": "kakak perempuan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-230",
+    "kanji": "お姉さん",
+    "kana": "おねえさん",
+    "onyomi": "-",
+    "kunyomi": "おねえさん",
+    "meaning": "kakak perempuan orang lain",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-231",
+    "kanji": "妻",
+    "kana": "つま",
+    "onyomi": "-",
+    "kunyomi": "つま",
+    "meaning": "istri",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-232",
+    "kanji": "両親",
+    "kana": "りょうしん",
+    "onyomi": "-",
+    "kunyomi": "りょうしん",
+    "meaning": "orang tua",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-233",
+    "kanji": "遊び",
+    "kana": "あそび",
+    "onyomi": "-",
+    "kunyomi": "あそび",
+    "meaning": "bermain",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-234",
+    "kanji": "住む",
+    "kana": "すむ",
+    "onyomi": "-",
+    "kunyomi": "すむ",
+    "meaning": "tinggal",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-235",
+    "kanji": "お菓子",
+    "kana": "おかし",
+    "onyomi": "-",
+    "kunyomi": "おかし",
+    "meaning": "kue",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-236",
+    "kanji": "お世話",
+    "kana": "おせわ",
+    "onyomi": "-",
+    "kunyomi": "おせわ",
+    "meaning": "bantuan/perhatian",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-237",
+    "kanji": "男の子",
+    "kana": "おとこのこ",
+    "onyomi": "-",
+    "kunyomi": "おとこのこ",
+    "meaning": "anak laki-laki",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-238",
+    "kanji": "女の子",
+    "kana": "おんなのこ",
+    "onyomi": "-",
+    "kunyomi": "おんなのこ",
+    "meaning": "anak perempuan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-239",
+    "kanji": "お祝い",
+    "kana": "おいわい",
+    "onyomi": "-",
+    "kunyomi": "おいわい",
+    "meaning": "ucapan selamat/hadiah",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-240",
+    "kanji": "誕生日",
+    "kana": "たんじょうび",
+    "onyomi": "-",
+    "kunyomi": "たんじょうび",
+    "meaning": "ulang tahun",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-241",
+    "kanji": "結婚",
+    "kana": "けっこん",
+    "onyomi": "-",
+    "kunyomi": "けっこん",
+    "meaning": "pernikahan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-242",
+    "kanji": "時計",
+    "kana": "とけい",
+    "onyomi": "-",
+    "kunyomi": "とけい",
+    "meaning": "jam",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-243",
+    "kanji": "幸せ",
+    "kana": "しあわせ",
+    "onyomi": "-",
+    "kunyomi": "しあわせ",
+    "meaning": "bahagia",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-244",
+    "kanji": "生まれる",
+    "kana": "うまれる",
+    "onyomi": "-",
+    "kunyomi": "うまれる",
+    "meaning": "dilahirkan",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-245",
+    "kanji": "思う",
+    "kana": "おもう",
+    "onyomi": "-",
+    "kunyomi": "おもう",
+    "meaning": "berpikir/merasa",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-246",
+    "kanji": "選ぶ",
+    "kana": "えらぶ",
+    "onyomi": "-",
+    "kunyomi": "えらぶ",
+    "meaning": "memilih",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-247",
+    "kanji": "合格する",
+    "kana": "ごうかくする",
+    "onyomi": "-",
+    "kunyomi": "ごうかくする",
+    "meaning": "lulus",
+    "level": "A2"
+  },
+  {
+    "id": "kj-ir-a2-1-248",
+    "kanji": "お子さん",
+    "kana": "おこさん",
+    "onyomi": "-",
+    "kunyomi": "おこさん",
+    "meaning": "anak orang lain",
+    "level": "A2"
+  }
+]

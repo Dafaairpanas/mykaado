@@ -64,6 +64,7 @@ export default function FlashcardPage() {
 
   const playAudio = useCallback((text: string) => {
     if (!text || typeof window === 'undefined') return;
+    if (localStorage.getItem("mykaado_flashcard_muted") === "true") return;
     window.speechSynthesis.cancel();
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = "ja-JP";
@@ -94,6 +95,17 @@ export default function FlashcardPage() {
       }
     }
   }, [currentIndex, isFlipped, cards, config, playAudio]);
+
+  // Listener to stop speech when muted
+  useEffect(() => {
+    const handleMuteToggle = (e: any) => {
+      if (e.detail?.isMuted) {
+         window.speechSynthesis.cancel();
+      }
+    };
+    window.addEventListener("flashcard-mute-toggle", handleMuteToggle);
+    return () => window.removeEventListener("flashcard-mute-toggle", handleMuteToggle);
+  }, []);
 
   useEffect(() => {
     async function init() {

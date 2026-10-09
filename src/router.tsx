@@ -16,6 +16,7 @@ import AdminDashboard from './pages/AdminDashboard';
 import AdminLogin from './pages/AdminLogin';
 import AdminRenshuu from './pages/AdminRenshuu';
 import AdminRenshuuEdit from './pages/AdminRenshuuEdit';
+import AdminFlashcard from './pages/AdminFlashcard';
 
 export const router = createBrowserRouter([
   {
@@ -35,6 +36,7 @@ export const router = createBrowserRouter([
       { path: '/ringkasan', element: <Ringkasan /> },
       { path: '/adminadit', element: <AdminDashboard /> },
       { path: '/adminadit/login', element: <AdminLogin /> },
+      { path: '/adminadit/flashcard', element: <AdminFlashcard /> },
       { path: '/adminadit/renshuu', element: <AdminRenshuu /> },
       { path: '/adminadit/renshuu/:simId', element: <AdminRenshuuEdit /> },
     ],

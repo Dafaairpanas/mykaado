@@ -35,9 +35,9 @@ export default function AdminDashboard() {
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         <Card className="p-6">
-          <h2 className="text-xl font-bold mb-2">Manage Kotoba</h2>
-          <p className="text-[var(--color-text-muted)] text-sm mb-4">Edit atau tambahkan kosakata baru ke dalam master data.</p>
-          <Button variant="default" className="w-full">Buka Editor</Button>
+          <h2 className="text-xl font-bold mb-2">Manage Flashcard JSON</h2>
+          <p className="text-[var(--color-text-muted)] text-sm mb-4">Edit atau tambahkan kosakata baru dan simpan langsung ke GitHub.</p>
+          <Button variant="default" className="w-full" onClick={() => navigate('/adminadit/flashcard')}>Buka Editor</Button>
         </Card>
         
         <Card className="p-6">
