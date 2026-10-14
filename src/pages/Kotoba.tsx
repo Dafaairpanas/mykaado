@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo } from "react";
 import { useNavigate } from "react-router-dom";
-import { Search, ChevronLeft, Eye, Bookmark, Play } from "lucide-react";
+import { Search, ChevronLeft, Eye, Bookmark, Play, Shuffle, RotateCcw } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Modal } from "@/components/ui/modal";
 import { Toggle } from "@/components/ui/toggle";
@@ -19,6 +19,10 @@ export default function KotobaPage() {
   const [isLoading, setIsLoading] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
   
+  // Shuffle / Order State
+  const [isShuffled, setIsShuffled] = useState(false);
+  const [shuffledOrder, setShuffledOrder] = useState<number[]>([]);
+
   // Selection / Marking State
   const [filterMode, setFilterMode] = useState<"all" | "marked">("all");
   const [markedItems, setMarkedItems] = useState<Set<string>>(() => {
@@ -45,6 +49,9 @@ export default function KotobaPage() {
 
   // Load detailed chapter data when a chapter is selected
   useEffect(() => {
+    setIsShuffled(false);
+    setShuffledOrder([]);
+
     if (!selectedChapterId) {
       setChapterData([]);
       return;
@@ -62,6 +69,23 @@ export default function KotobaPage() {
     }
     loadChapter();
   }, [selectedChapterId]);
+
+  // Shuffle helper functions
+  const handleShuffle = () => {
+    if (chapterData.length === 0) return;
+    const indices = Array.from({ length: chapterData.length }, (_, i) => i);
+    // Fisher-Yates shuffle
+    for (let i = indices.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [indices[i], indices[j]] = [indices[j], indices[i]];
+    }
+    setShuffledOrder(indices);
+    setIsShuffled(true);
+  };
+
+  const handleResetOrder = () => {
+    setIsShuffled(false);
+  };
 
   // Find the label for the currently selected chapter
   const currentChapterInfo = useMemo(() => {
@@ -143,23 +167,32 @@ export default function KotobaPage() {
     }).length;
   }, [chapterData, markedItems]);
 
+  const displayItems = useMemo(() => {
+    if (!isShuffled || shuffledOrder.length !== chapterData.length) {
+      return chapterData.map((item, originalIndex) => ({ item, originalIndex }));
+    }
+    return shuffledOrder
+      .map(idx => ({ item: chapterData[idx], originalIndex: idx }))
+      .filter(x => Boolean(x.item));
+  }, [chapterData, isShuffled, shuffledOrder]);
+
   const filteredData = useMemo(() => {
-    let list = chapterData;
+    let list = displayItems;
     if (filterMode === "marked") {
-      list = list.filter((item, idx) => {
-        const id = item.id || `${item.kana}-${item.meaning}-${idx}`;
+      list = list.filter(({ item, originalIndex }) => {
+        const id = item.id || `${item.kana}-${item.meaning}-${originalIndex}`;
         return markedItems.has(id);
       });
     }
     if (!searchQuery) return list;
     const q = searchQuery.toLowerCase();
-    return list.filter(item => 
+    return list.filter(({ item }) => 
       (item.kanji && item.kanji.toLowerCase().includes(q)) ||
       (item.kana && item.kana.toLowerCase().includes(q)) ||
       (item.romaji && item.romaji.toLowerCase().includes(q)) ||
       (item.meaning && item.meaning.toLowerCase().includes(q))
     );
-  }, [chapterData, searchQuery, filterMode, markedItems]);
+  }, [displayItems, searchQuery, filterMode, markedItems]);
 
   // View: LIST OF CHAPTERS
   if (!selectedChapterId) {
@@ -206,7 +239,13 @@ export default function KotobaPage() {
                 {source.chapters.map(chapter => (
                   <button
                     key={chapter.id}
-                    onClick={() => { setSelectedChapterId(chapter.id); setSearchQuery(""); setFilterMode("all"); }}
+                    onClick={() => { 
+                      setSelectedChapterId(chapter.id); 
+                      setSearchQuery(""); 
+                      setFilterMode("all"); 
+                      setIsShuffled(false);
+                      setShuffledOrder([]);
+                    }}
                     className="py-3 px-2 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] bg-[var(--color-bg-card)] text-center font-bold text-sm hover:translate-y-[-2px] hover:shadow-[3px_3px_0px_var(--color-shadow-main)] transition-all"
                   >
                     {chapter.label}
@@ -226,7 +265,17 @@ export default function KotobaPage() {
       {/* Detail Header */}
       <div className="flex flex-col md:flex-row md:items-center justify-between mb-8 gap-4">
         <div className="flex items-center gap-4 w-full md:w-auto">
-          <Button variant="default" size="sm" onClick={() => { setSelectedChapterId(null); setFilterMode("all"); }} className="h-10 shrink-0">
+          <Button 
+            variant="default" 
+            size="sm" 
+            onClick={() => { 
+              setSelectedChapterId(null); 
+              setFilterMode("all"); 
+              setIsShuffled(false);
+              setShuffledOrder([]);
+            }} 
+            className="h-10 shrink-0"
+          >
             <ChevronLeft className="w-5 h-5 mr-1" /> Pilih Bab
           </Button>
           <div className="flex items-center gap-2.5 flex-wrap">
@@ -238,6 +287,12 @@ export default function KotobaPage() {
               <span className="px-2.5 py-1 bg-amber-500/10 text-amber-700 dark:text-amber-400 rounded-full text-xs font-bold border border-amber-500/30 shrink-0 flex items-center gap-1.5 animate-fade-in-up">
                 <Bookmark className="w-3.5 h-3.5 fill-amber-500 text-amber-500" />
                 <span>{chapterMarkedCount} ditandai</span>
+              </span>
+            )}
+            {isShuffled && (
+              <span className="px-2.5 py-1 bg-[var(--color-accent)] text-[var(--color-btn-text)] rounded-full text-xs font-bold border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[1px_1px_0px_var(--color-shadow-main)] shrink-0 flex items-center gap-1.5 animate-fade-in-up">
+                <Shuffle className="w-3.5 h-3.5" />
+                <span>Urutan Diacak</span>
               </span>
             )}
           </div>
@@ -252,6 +307,8 @@ export default function KotobaPage() {
                setSelectedChapterId(e.target.value);
                setSearchQuery("");
                setFilterMode("all");
+               setIsShuffled(false);
+               setShuffledOrder([]);
              }}
            >
              {KOTOBA_SOURCES.map(source => (
@@ -279,8 +336,8 @@ export default function KotobaPage() {
 
       {/* Action & Filter Bar */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-6 bg-[var(--color-bg-card)] p-2.5 md:p-3 rounded-[var(--radius-md)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]">
-        {/* Filter Pills */}
-        <div className="flex items-center gap-2">
+        {/* Filter & Order Controls */}
+        <div className="flex items-center gap-2 flex-wrap">
           <button
             onClick={() => setFilterMode("all")}
             className={`px-3.5 py-1.5 rounded-full font-bold text-xs md:text-sm transition-all ${
@@ -302,6 +359,40 @@ export default function KotobaPage() {
             <Bookmark className={`w-3.5 h-3.5 ${filterMode === "marked" ? "fill-white" : ""}`} />
             Ditandai ({chapterMarkedCount})
           </button>
+
+          <div className="w-[1px] h-5 bg-[var(--color-border-main)] opacity-20 mx-0.5 hidden sm:block" />
+
+          {/* Shuffle / Randomize Button */}
+          {!isShuffled ? (
+            <button
+              onClick={handleShuffle}
+              className="px-3.5 py-1.5 rounded-full font-bold text-xs md:text-sm transition-all flex items-center gap-1.5 border-[length:var(--bw-sm)] border-dashed border-[var(--color-border-main)] text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-nav)] hover:border-solid hover:shadow-[1px_1px_0px_var(--color-shadow-main)] active:scale-95 cursor-pointer"
+              title="Acak urutan kata agar hafalan lebih teruji"
+            >
+              <Shuffle className="w-3.5 h-3.5" />
+              <span>Acak Urutan</span>
+            </button>
+          ) : (
+            <div className="flex items-center gap-1 bg-[var(--color-bg-nav)] p-1 rounded-full border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[1px_1px_0px_var(--color-shadow-main)]">
+              <button
+                onClick={handleShuffle}
+                className="px-3 py-1 rounded-full font-bold text-xs md:text-sm bg-[var(--color-accent)] text-[var(--color-btn-text)] shadow-[1px_1px_0px_var(--color-shadow-main)] flex items-center gap-1.5 active:scale-95 hover:brightness-105 transition-all cursor-pointer"
+                title="Acak ulang kembali susunan kata"
+              >
+                <Shuffle className="w-3.5 h-3.5" />
+                <span>Acak Lagi</span>
+              </button>
+              <button
+                onClick={handleResetOrder}
+                className="px-2.5 py-1 rounded-full font-bold text-xs md:text-sm text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-card)] transition-all flex items-center gap-1 cursor-pointer"
+                title="Kembalikan ke urutan bab asli"
+              >
+                <RotateCcw className="w-3 h-3" />
+                <span className="hidden sm:inline">Urutan Asli</span>
+                <span className="sm:hidden">Reset</span>
+              </button>
+            </div>
+          )}
         </div>
 
         {/* Action Buttons & Hint */}
@@ -370,8 +461,8 @@ export default function KotobaPage() {
           </div>
         ) : (
           <div className="divide-y-[1px] divide-dashed divide-[var(--color-border-main)]">
-            {filteredData.map((item, idx) => {
-              const itemId = item.id || `${item.kana}-${item.meaning}-${idx}`;
+            {filteredData.map(({ item, originalIndex }) => {
+              const itemId = item.id || `${item.kana}-${item.meaning}-${originalIndex}`;
               const isMarked = markedItems.has(itemId);
 
               return (
@@ -421,7 +512,7 @@ export default function KotobaPage() {
       {/* Floating Action Button for Settings */}
       <button 
         onClick={() => setIsSettingsOpen(true)}
-        className="fixed bottom-6 right-6 md:bottom-10 md:right-10 w-14 h-14 bg-[var(--color-accent)] text-[var(--color-bg-main)] rounded-full border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] flex items-center justify-center shadow-[4px_4px_0px_var(--color-shadow-main)] hover:translate-y-[2px] hover:translate-x-[2px] hover:shadow-[2px_2px_0px_var(--color-shadow-main)] transition-all z-50"
+        className="fixed bottom-6 right-6 md:bottom-10 md:right-10 w-14 h-14 bg-[var(--color-accent)] text-[var(--color-bg-main)] rounded-full border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] flex items-center justify-center shadow-[4px_4px_0px_var(--color-shadow-main)] hover:translate-y-[2px] hover:translate-x-[2px] hover:shadow-[2px_2px_0px_var(--color-shadow-main)] transition-all z-50 cursor-pointer"
         title="Pengaturan Tampilan & Hafalan"
       >
         <Eye className="w-6 h-6 text-[#111]" />
@@ -444,6 +535,25 @@ export default function KotobaPage() {
           <div className="flex items-center justify-between p-3 border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] rounded-[var(--radius-sm)] bg-[var(--color-bg-nav)]">
             <span className="font-bold">Tampilkan Arti</span>
             <Toggle pressed={showMeaning} onPressedChange={setShowMeaning} className="py-1 h-auto text-sm">Arti</Toggle>
+          </div>
+          <div className="flex items-center justify-between p-3 border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] rounded-[var(--radius-sm)] bg-[var(--color-bg-nav)]">
+            <div>
+              <span className="font-bold block">Acak Urutan Kata</span>
+              <span className="text-xs text-[var(--color-text-muted)]">Tampilkan kata secara tidak berurutan</span>
+            </div>
+            <Toggle 
+              pressed={isShuffled} 
+              onPressedChange={(pressed) => {
+                if (pressed) {
+                  handleShuffle();
+                } else {
+                  handleResetOrder();
+                }
+              }} 
+              className="py-1 h-auto text-sm"
+            >
+              Acak
+            </Toggle>
           </div>
 
           <div className="pt-2 border-t border-dashed border-[var(--color-border-main)]">
