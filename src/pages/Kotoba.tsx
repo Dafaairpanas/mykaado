@@ -1,18 +1,31 @@
 import { useState, useEffect, useMemo } from "react";
-import { useNavigate } from "react-router-dom";
-import { Search, ChevronLeft, Eye, Bookmark, Play, Shuffle, RotateCcw } from "lucide-react";
+import { useNavigate, useParams, useSearchParams, Link } from "react-router-dom";
+import { Search, ChevronLeft, Eye, Bookmark, Play, Shuffle, RotateCcw, AlertCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Modal } from "@/components/ui/modal";
 import { Toggle } from "@/components/ui/toggle";
 import { KOTOBA_SOURCES, fetchSelectedDecks, type DeckSource } from "@/lib/data-loader";
+import { getKotobaChapterUrl, resolveKotobaRoute } from "@/lib/kotoba-routes";
 import type { KotobaItem } from "@/types";
 
 export default function KotobaPage() {
   const navigate = useNavigate();
+  const { source, chapter } = useParams<{ source?: string; chapter?: string }>();
+  const [searchParams] = useSearchParams();
+
+  // Resolve current route into chapter ID and active tab
+  const routeInfo = useMemo(() => {
+    return resolveKotobaRoute(source, chapter, searchParams.get("tab"));
+  }, [source, chapter, searchParams]);
 
   // Navigation State
-  const [activeTab, setActiveTab] = useState<string>("minna");
-  const [selectedChapterId, setSelectedChapterId] = useState<string | null>(null);
+  const [activeTab, setActiveTab] = useState<string>(routeInfo.activeTab);
+  const selectedChapterId = routeInfo.chapterId;
+
+  // Keep activeTab in sync with routeInfo
+  useEffect(() => {
+    setActiveTab(routeInfo.activeTab);
+  }, [routeInfo.activeTab]);
   
   // Data State
   const [chapterData, setChapterData] = useState<KotobaItem[]>([]);
@@ -47,10 +60,18 @@ export default function KotobaPage() {
   };
   const activeSources = getActiveSources();
 
+  // Tab switch handler
+  const handleTabChange = (tab: "minna" | "irodori" | "n3") => {
+    setActiveTab(tab);
+    navigate(`/kotoba/${tab}`, { replace: true });
+  };
+
   // Load detailed chapter data when a chapter is selected
   useEffect(() => {
     setIsShuffled(false);
     setShuffledOrder([]);
+    setSearchQuery("");
+    setFilterMode("all");
 
     if (!selectedChapterId) {
       setChapterData([]);
@@ -96,6 +117,15 @@ export default function KotobaPage() {
     }
     return null;
   }, [selectedChapterId]);
+
+  // Set document title according to chapter or page
+  useEffect(() => {
+    if (currentChapterInfo) {
+      document.title = `${currentChapterInfo.title} ${currentChapterInfo.label} - Kotoba | MyKaado`;
+    } else {
+      document.title = "List Kotoba | MyKaado";
+    }
+  }, [currentChapterInfo]);
 
   // Helper to toggle marked state
   const toggleMark = (id: string) => {
@@ -194,6 +224,26 @@ export default function KotobaPage() {
     );
   }, [displayItems, searchQuery, filterMode, markedItems]);
 
+  // View: CHAPTER NOT FOUND
+  if (routeInfo.isNotFound) {
+    return (
+      <div className="max-w-[600px] mx-auto px-4 py-20 text-center animate-fade-in-up">
+        <div className="p-8 rounded-[var(--radius-md)] border-[length:var(--bw-md)] border-solid border-[var(--color-border-main)] bg-[var(--color-bg-card)] shadow-[4px_4px_0px_var(--color-shadow-main)] flex flex-col items-center">
+          <div className="w-14 h-14 rounded-full bg-red-100 dark:bg-red-950/40 text-red-600 dark:text-red-400 flex items-center justify-center font-bold text-2xl mb-4 border-[length:var(--bw-sm)] border-solid border-red-300 dark:border-red-900">
+            <AlertCircle className="w-7 h-7" />
+          </div>
+          <h2 className="text-2xl font-black mb-2">Bab Tidak Ditemukan</h2>
+          <p className="text-[var(--color-text-muted)] text-sm mb-6 max-w-sm">
+            Bab atau sumber kosakata yang Anda tuju tidak ditemukan atau tautan salah.
+          </p>
+          <Button variant="primary" onClick={() => navigate("/kotoba")}>
+            Kembali ke Daftar Bab
+          </Button>
+        </div>
+      </div>
+    );
+  }
+
   // View: LIST OF CHAPTERS
   if (!selectedChapterId) {
     return (
@@ -207,20 +257,20 @@ export default function KotobaPage() {
           
           <div className="flex gap-2 bg-[var(--color-bg-nav)] p-1.5 rounded-full border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] self-start md:self-auto overflow-x-auto max-w-full hide-scrollbar">
             <button
-              onClick={() => setActiveTab("minna")}
-              className={`px-5 py-2 rounded-full font-bold text-sm transition-all whitespace-nowrap ${activeTab === "minna" ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]" : "text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-card)]"}`}
+              onClick={() => handleTabChange("minna")}
+              className={`px-5 py-2 rounded-full font-bold text-sm transition-all whitespace-nowrap cursor-pointer ${activeTab === "minna" ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]" : "text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-card)]"}`}
             >
               Minna
             </button>
             <button
-              onClick={() => setActiveTab("irodori")}
-              className={`px-5 py-2 rounded-full font-bold text-sm transition-all whitespace-nowrap ${activeTab === "irodori" ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]" : "text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-card)]"}`}
+              onClick={() => handleTabChange("irodori")}
+              className={`px-5 py-2 rounded-full font-bold text-sm transition-all whitespace-nowrap cursor-pointer ${activeTab === "irodori" ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]" : "text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-card)]"}`}
             >
               Irodori
             </button>
             <button
-              onClick={() => setActiveTab("n3")}
-              className={`px-5 py-2 rounded-full font-bold text-sm transition-all whitespace-nowrap ${activeTab === "n3" ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]" : "text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-card)]"}`}
+              onClick={() => handleTabChange("n3")}
+              className={`px-5 py-2 rounded-full font-bold text-sm transition-all whitespace-nowrap cursor-pointer ${activeTab === "n3" ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]" : "text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-card)]"}`}
             >
               Sou N3
             </button>
@@ -237,19 +287,13 @@ export default function KotobaPage() {
               </div>
               <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 xl:grid-cols-7 gap-3">
                 {source.chapters.map(chapter => (
-                  <button
+                  <Link
                     key={chapter.id}
-                    onClick={() => { 
-                      setSelectedChapterId(chapter.id); 
-                      setSearchQuery(""); 
-                      setFilterMode("all"); 
-                      setIsShuffled(false);
-                      setShuffledOrder([]);
-                    }}
-                    className="py-3 px-2 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] bg-[var(--color-bg-card)] text-center font-bold text-sm hover:translate-y-[-2px] hover:shadow-[3px_3px_0px_var(--color-shadow-main)] transition-all"
+                    to={getKotobaChapterUrl(chapter.id)}
+                    className="py-3 px-2 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] bg-[var(--color-bg-card)] text-center font-bold text-sm hover:translate-y-[-2px] hover:shadow-[3px_3px_0px_var(--color-shadow-main)] transition-all flex items-center justify-center cursor-pointer"
                   >
                     {chapter.label}
-                  </button>
+                  </Link>
                 ))}
               </div>
             </div>
@@ -269,10 +313,7 @@ export default function KotobaPage() {
             variant="default" 
             size="sm" 
             onClick={() => { 
-              setSelectedChapterId(null); 
-              setFilterMode("all"); 
-              setIsShuffled(false);
-              setShuffledOrder([]);
+              navigate(`/kotoba/${activeTab}`);
             }} 
             className="h-10 shrink-0"
           >
@@ -302,13 +343,11 @@ export default function KotobaPage() {
         <div className="flex items-center w-full md:w-auto shrink-0">
            <select 
              className="w-full md:w-auto px-4 py-2.5 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] bg-[var(--color-bg-card)] font-bold text-sm outline-none cursor-pointer focus:shadow-[2px_2px_0px_var(--color-shadow-main)]"
-             value={selectedChapterId}
+             value={selectedChapterId || ""}
              onChange={(e) => {
-               setSelectedChapterId(e.target.value);
-               setSearchQuery("");
-               setFilterMode("all");
-               setIsShuffled(false);
-               setShuffledOrder([]);
+               const targetChapterId = e.target.value;
+               const targetUrl = getKotobaChapterUrl(targetChapterId);
+               navigate(targetUrl);
              }}
            >
              {KOTOBA_SOURCES.map(source => (
@@ -464,6 +503,11 @@ export default function KotobaPage() {
             {filteredData.map(({ item, originalIndex }) => {
               const itemId = item.id || `${item.kana}-${item.meaning}-${originalIndex}`;
               const isMarked = markedItems.has(itemId);
+              const itemPriority = "priority" in item ? Number(item.priority)
+                                 : "importinity" in item ? Number((item as any).importinity)
+                                 : "importantity" in item ? Number((item as any).importantity)
+                                 : 1;
+              const isOptional = itemPriority === 2 || itemPriority === 3;
 
               return (
                 <div 
@@ -492,9 +536,19 @@ export default function KotobaPage() {
                     >
                       <Bookmark className={`w-4 h-4 transition-all ${isMarked ? "fill-amber-500 text-amber-500" : ""}`} />
                     </button>
-                    <span className={`jp-text text-lg font-normal text-[var(--color-text-main)] transition-all leading-snug ${!showKana && "blur-sm opacity-30 select-none group-hover:blur-none group-hover:opacity-100"}`}>
-                      {item.kana}
-                    </span>
+                    <div className="flex flex-wrap items-center gap-2 min-w-0">
+                      <span className={`jp-text text-lg font-normal text-[var(--color-text-main)] transition-all leading-snug ${!showKana && "blur-sm opacity-30 select-none group-hover:blur-none group-hover:opacity-100"}`}>
+                        {item.kana}
+                      </span>
+                      {isOptional && (
+                        <span 
+                          className="inline-flex items-center px-1.5 py-0.5 rounded text-[10px] font-bold tracking-wide uppercase bg-[var(--color-bg-nav)] text-[var(--color-text-muted)] border border-solid border-[var(--color-border-main)]/40 shrink-0 select-none shadow-[1px_1px_0px_var(--color-shadow-main)]"
+                          title="Kosakata opsional (tidak wajib)"
+                        >
+                          Opsional
+                        </span>
+                      )}
+                    </div>
                   </div>
                   <div className={`p-4 jp-text text-lg font-normal text-[var(--color-text-main)] transition-all flex items-center leading-snug ${!showKanji && "blur-sm opacity-30 select-none group-hover:blur-none group-hover:opacity-100"}`}>
                     {item.kanji || "-"}

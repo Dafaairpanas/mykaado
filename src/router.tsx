@@ -29,6 +29,8 @@ export const router = createBrowserRouter([
       { path: '/flashcard/history', element: <FlashcardHistory /> },
       { path: '/kanji', element: <Kanji /> },
       { path: '/kotoba', element: <Kotoba /> },
+      { path: '/kotoba/:source', element: <Kotoba /> },
+      { path: '/kotoba/:source/:chapter', element: <Kotoba /> },
       { path: '/bunpou', element: <Bunpou /> },
       { path: '/renshuu', element: <Renshuu /> },
       { path: '/renshuu/:simId', element: <RenshuuSim /> },
