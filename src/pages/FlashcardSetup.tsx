@@ -294,7 +294,7 @@ function SetupPageContent() {
       <div>
         <h3 className="font-bold text-sm text-[var(--color-text-muted)] mb-2 uppercase tracking-wider">Level JLPT</h3>
         <div className="flex flex-wrap gap-2">
-          {["ALL", "N5", "N4", "N3", "N2", "N1"].map(lvl => (
+          {["ALL", "N5", "N4", "N3", "N2", "N1", "A1", "A2"].map(lvl => (
             <Toggle 
               key={lvl} 
               pressed={selectedLevels.includes(lvl)} 

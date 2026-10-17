@@ -95,10 +95,10 @@ export default function HistoryPage() {
       map.forEach((card, id) => {
         let bucket = "";
         const idLower = id.toLowerCase();
-        if (idLower.startsWith("mn-") || idLower.startsWith("minna") || idLower.startsWith("bp_minna")) bucket = "minna";
+        if (idLower.startsWith("kj-") || idLower.startsWith("kj_") || idLower.startsWith("jft") || idLower.startsWith("latsol") || idLower.startsWith("ir-a2-1-99")) bucket = "kanji";
+        else if (idLower.startsWith("mn-") || idLower.startsWith("minna") || idLower.startsWith("bp_minna")) bucket = "minna";
         else if (idLower.startsWith("ir-") || idLower.startsWith("ir_") || idLower.startsWith("bp_irodori")) bucket = "irodori";
         else if (idLower.startsWith("n3-") || idLower.startsWith("n3_") || idLower.startsWith("bp_n3")) bucket = "n3";
-        else if (idLower.startsWith("kj-") || idLower.startsWith("kj_")) bucket = "kanji";
 
         if (bucket) {
           statsMap[bucket].total++;
