@@ -1,4 +1,4 @@
-import { useEffect, useState, useCallback } from "react";
+import { useEffect, useState, useCallback, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -6,7 +6,11 @@ import { FSRSEngine, type ReviewCard } from "@/lib/fsrs-engine";
 import { fetchSelectedDecks, fetchAllCardsMap } from "@/lib/data-loader";
 import { db } from "@/lib/db";
 import { Rating, State } from "ts-fsrs";
-import { ArrowLeft } from "lucide-react";
+import { ArrowLeft, Mouse } from "lucide-react";
+import { MouseShortcutWidget } from "@/components/flashcard/MouseShortcutWidget";
+import { MouseShortcutModal } from "@/components/flashcard/MouseShortcutModal";
+import { MouseShortcutConfig, MouseInputCode } from "@/types/shortcuts";
+import { loadMouseShortcutConfig, saveMouseShortcutConfig } from "@/lib/mouse-shortcuts";
 
 // Fisher-Yates shuffle
 function shuffleArray<T>(arr: T[]): T[] {
@@ -61,6 +65,9 @@ export default function FlashcardPage() {
   
   // Stats: learned = cards already reviewed, rev = re-queued cards remaining, new = unseen cards remaining
   const [stats, setStats] = useState({ learned: 0, rev: 0 });
+  const [mouseConfig, setMouseConfig] = useState<MouseShortcutConfig>(loadMouseShortcutConfig);
+  const [isShortcutModalOpen, setIsShortcutModalOpen] = useState(false);
+  const lastWheelTriggerRef = useRef(0);
 
   const playAudio = useCallback((text: string) => {
     if (!text || typeof window === 'undefined') return;
@@ -282,28 +289,217 @@ export default function FlashcardPage() {
     }, 400);
   }, [currentIndex, cards, cardStartTime]);
 
+  // History Shield: Mencegah browser back tak sengaja (misal dari tombol samping mouse / gesture)
+  useEffect(() => {
+    // Push dummy state agar jika tombol back tertekan, pengguna tidak langsung terlempar keluar
+    window.history.pushState({ flashcardShield: true }, "", window.location.href);
+
+    const handlePopState = () => {
+      window.history.pushState({ flashcardShield: true }, "", window.location.href);
+    };
+
+    window.addEventListener("popstate", handlePopState);
+    return () => {
+      window.removeEventListener("popstate", handlePopState);
+    };
+  }, []);
+
   // Keyboard events
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
-      // Ignore if typing in an input
+      // Cegah navigasi browser back/forward via Alt+Left atau Alt+Right
+      if (e.altKey && (e.key === "ArrowLeft" || e.key === "ArrowRight")) {
+        e.preventDefault();
+      }
+
+      // Ignore if typing in an input or if shortcut modal is open
+      if (isShortcutModalOpen) return;
       if (e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement) return;
       
-      if (e.code === "Space") {
+      const keyInputCode: MouseInputCode = `key:${e.code}`;
+      const charInputCode: MouseInputCode = `key:${e.key}`;
+
+      // Default Space key or custom key for flip
+      if (e.code === "Space" || (mouseConfig.enabled && (mouseConfig.bindings.flip === keyInputCode || mouseConfig.bindings.flip === charInputCode))) {
         e.preventDefault();
         if (!isFlipped) setIsFlipped(true);
+        return;
       }
       
       if (isFlipped) {
-        if (e.key === "1") handleRate(Rating.Again);
-        if (e.key === "2") handleRate(Rating.Hard);
-        if (e.key === "3") handleRate(Rating.Good);
-        if (e.key === "4") handleRate(Rating.Easy);
+        // Again
+        if (e.key === "1" || (mouseConfig.enabled && (mouseConfig.bindings.again === keyInputCode || mouseConfig.bindings.again === charInputCode))) {
+          e.preventDefault();
+          handleRate(Rating.Again);
+          return;
+        }
+        // Hard
+        if (e.key === "2" || (mouseConfig.enabled && (mouseConfig.bindings.hard === keyInputCode || mouseConfig.bindings.hard === charInputCode))) {
+          e.preventDefault();
+          handleRate(Rating.Hard);
+          return;
+        }
+        // Good
+        if (e.key === "3" || (mouseConfig.enabled && (mouseConfig.bindings.good === keyInputCode || mouseConfig.bindings.good === charInputCode))) {
+          e.preventDefault();
+          handleRate(Rating.Good);
+          return;
+        }
+        // Easy
+        if (e.key === "4" || (mouseConfig.enabled && (mouseConfig.bindings.easy === keyInputCode || mouseConfig.bindings.easy === charInputCode))) {
+          e.preventDefault();
+          handleRate(Rating.Easy);
+          return;
+        }
       }
     };
     
     window.addEventListener("keydown", handleKeyDown);
     return () => window.removeEventListener("keydown", handleKeyDown);
-  }, [isFlipped, handleRate]);
+  }, [isFlipped, handleRate, isShortcutModalOpen, mouseConfig]);
+
+  // Mouse & Wheel shortcuts listener
+  useEffect(() => {
+    if (!mouseConfig.enabled || isShortcutModalOpen) return;
+
+    const handleMouseDown = (e: MouseEvent) => {
+      const target = e.target as HTMLElement | null;
+      // Jangan trigger jika klik tombol UI, input, link, atau widget
+      if (target?.closest("button, input, textarea, a, [role='button'], .mouse-shortcut-widget")) {
+        return;
+      }
+
+      let inputCode: MouseInputCode | null = null;
+      if (e.button === 0) inputCode = "mouse:left";
+      else if (e.button === 1) inputCode = "mouse:middle";
+      else if (e.button === 2) inputCode = "mouse:right";
+      else if (e.button === 3) inputCode = "mouse:back";
+      else if (e.button === 4) inputCode = "mouse:forward";
+
+      if (!inputCode) return;
+
+      // Cegah default browser pada middle click & side buttons (autoscroll / browser back)
+      if (e.button === 1 || e.button === 3 || e.button === 4) {
+        e.preventDefault();
+        e.stopPropagation();
+      }
+      if (e.button === 2 && mouseConfig.preventContextMenu) {
+        e.preventDefault();
+      }
+
+      // Action: Balik Kartu (Flip)
+      if (!isFlipped && mouseConfig.bindings.flip === inputCode) {
+        e.preventDefault();
+        setIsFlipped(true);
+        return;
+      }
+
+      // Action: Rating respon (saat kartu sudah dibalik)
+      if (isFlipped) {
+        if (mouseConfig.bindings.again === inputCode) {
+          e.preventDefault();
+          handleRate(Rating.Again);
+          return;
+        }
+        if (mouseConfig.bindings.hard === inputCode) {
+          e.preventDefault();
+          handleRate(Rating.Hard);
+          return;
+        }
+        if (mouseConfig.bindings.good === inputCode) {
+          e.preventDefault();
+          handleRate(Rating.Good);
+          return;
+        }
+        if (mouseConfig.bindings.easy === inputCode) {
+          e.preventDefault();
+          handleRate(Rating.Easy);
+          return;
+        }
+      }
+    };
+
+    // Mencegah browser back / forward navigasi yang dieksekusi browser saat tombol samping dilepas (mouseup/auxclick)
+    const handlePreventBrowserNav = (e: MouseEvent | PointerEvent) => {
+      if (e.button === 3 || e.button === 4 || e.button === 1) {
+        e.preventDefault();
+        e.stopPropagation();
+      }
+    };
+
+    const handleWheel = (e: WheelEvent) => {
+      const target = e.target as HTMLElement | null;
+      // Izinkan scroll jika user sedang membaca isi contoh yang panjang
+      if (target?.closest(".custom-scrollbar, pre, code")) return;
+
+      const now = Date.now();
+      if (now - lastWheelTriggerRef.current < 250) {
+        e.preventDefault();
+        return;
+      }
+
+      const inputCode: MouseInputCode = e.deltaY < 0 ? "mouse:wheelup" : "mouse:wheeldown";
+
+      if (!isFlipped && mouseConfig.bindings.flip === inputCode) {
+        e.preventDefault();
+        lastWheelTriggerRef.current = now;
+        setIsFlipped(true);
+        return;
+      }
+
+      if (isFlipped) {
+        if (mouseConfig.bindings.easy === inputCode) {
+          e.preventDefault();
+          lastWheelTriggerRef.current = now;
+          handleRate(Rating.Easy);
+          return;
+        }
+        if (mouseConfig.bindings.good === inputCode) {
+          e.preventDefault();
+          lastWheelTriggerRef.current = now;
+          handleRate(Rating.Good);
+          return;
+        }
+        if (mouseConfig.bindings.hard === inputCode) {
+          e.preventDefault();
+          lastWheelTriggerRef.current = now;
+          handleRate(Rating.Hard);
+          return;
+        }
+        if (mouseConfig.bindings.again === inputCode) {
+          e.preventDefault();
+          lastWheelTriggerRef.current = now;
+          handleRate(Rating.Again);
+          return;
+        }
+      }
+    };
+
+    const handleContextMenu = (e: MouseEvent) => {
+      if (
+        mouseConfig.preventContextMenu ||
+        Object.values(mouseConfig.bindings).includes("mouse:right")
+      ) {
+        e.preventDefault();
+      }
+    };
+
+    window.addEventListener("mousedown", handleMouseDown, { capture: true });
+    window.addEventListener("mouseup", handlePreventBrowserNav, { capture: true });
+    window.addEventListener("auxclick", handlePreventBrowserNav, { capture: true });
+    window.addEventListener("pointerup", handlePreventBrowserNav, { capture: true });
+    window.addEventListener("wheel", handleWheel, { passive: false });
+    window.addEventListener("contextmenu", handleContextMenu);
+
+    return () => {
+      window.removeEventListener("mousedown", handleMouseDown, { capture: true });
+      window.removeEventListener("mouseup", handlePreventBrowserNav, { capture: true });
+      window.removeEventListener("auxclick", handlePreventBrowserNav, { capture: true });
+      window.removeEventListener("pointerup", handlePreventBrowserNav, { capture: true });
+      window.removeEventListener("wheel", handleWheel);
+      window.removeEventListener("contextmenu", handleContextMenu);
+    };
+  }, [mouseConfig, isFlipped, handleRate, isShortcutModalOpen]);
 
   if (isLoading || !config) {
     return <div className="flex items-center justify-center h-[60vh] font-bold">Memuat kartu...</div>;
@@ -530,7 +726,27 @@ export default function FlashcardPage() {
           <span className="text-[var(--color-fsrs-hard)] font-bold">Learn: {stats.learned}</span>
           <span className="text-[var(--color-fsrs-again)] font-bold">Rev: {stats.rev}</span>
         </div>
-        <span className="text-[var(--color-text-muted)] bg-[var(--color-bg-nav)] px-2 py-1 rounded font-mono">{currentIndex + 1} / {cards.length}</span>
+
+        <div className="flex items-center gap-2">
+          {/* Tombol Pengaturan Shortcut Mouse di Header */}
+          <button
+            onClick={() => setIsShortcutModalOpen(true)}
+            className="flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-[var(--color-bg-nav)] hover:bg-[var(--color-accent)] hover:text-[var(--color-btn-text)] text-xs font-bold border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] transition-colors active:translate-y-[1px] active:translate-x-[1px]"
+            title="Pengaturan Shortcut Mouse"
+          >
+            <Mouse className="w-3.5 h-3.5" />
+            <span
+              className={`w-2 h-2 rounded-full ${
+                mouseConfig.enabled ? "bg-green-500 animate-pulse" : "bg-red-400"
+              }`}
+            />
+            <span className="hidden sm:inline">Shortcut</span>
+          </button>
+
+          <span className="text-[var(--color-text-muted)] bg-[var(--color-bg-nav)] px-2.5 py-1 rounded-full font-mono text-xs border border-[var(--color-border-main)]/20">
+            {currentIndex + 1} / {cards.length}
+          </span>
+        </div>
       </div>
 
       {/* Flashcard Area */}
@@ -608,6 +824,25 @@ export default function FlashcardPage() {
           EASY <span className="block text-xs font-bold opacity-80 mt-1">✓</span>
         </button>
       </div>
+
+      {/* Mouse Shortcut Floating Widget (bisa diminimize / dihide) */}
+      <MouseShortcutWidget
+        config={mouseConfig}
+        onToggleEnabled={() => {
+          const next = { ...mouseConfig, enabled: !mouseConfig.enabled };
+          setMouseConfig(next);
+          saveMouseShortcutConfig(next);
+        }}
+        onOpenSettings={() => setIsShortcutModalOpen(true)}
+      />
+
+      {/* Mouse Shortcut Settings Modal (Manual Mapping) */}
+      <MouseShortcutModal
+        isOpen={isShortcutModalOpen}
+        onClose={() => setIsShortcutModalOpen(false)}
+        config={mouseConfig}
+        onChangeConfig={(newCfg) => setMouseConfig(newCfg)}
+      />
     </div>
   );
 }
