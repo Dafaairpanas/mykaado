@@ -28,10 +28,10 @@ export function MouseShortcutWidget({
     return null;
   }
 
-  // Mode Minimalis (Hanya icon kecil mengambang di pojok layar agar bebas distraksi)
+  // Mode Minimalis (Hanya icon kecil mengambang di pojok layar agar bebas distraksi - disembunyikan di mobile)
   if (isMinimized) {
     return (
-      <div className="fixed bottom-6 right-6 z-40">
+      <div className="hidden md:block fixed bottom-6 right-6 z-40">
         <button
           onClick={() => setIsMinimized(false)}
           className={`flex items-center gap-2 px-3 py-2 rounded-full border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[3px_3px_0px_var(--color-shadow-main)] transition-all duration-200 active:translate-x-[1px] active:translate-y-[1px] group ${
@@ -47,7 +47,7 @@ export function MouseShortcutWidget({
               config.enabled ? "bg-green-500 animate-pulse" : "bg-red-400"
             }`}
           />
-          <span className="text-xs font-bold hidden sm:inline group-hover:inline">
+          <span className="text-xs font-bold">
             Shortcut {config.enabled ? "ON" : "OFF"}
           </span>
         </button>
@@ -55,9 +55,9 @@ export function MouseShortcutWidget({
     );
   }
 
-  // Mode Terbuka (Expanded Dock)
+  // Mode Terbuka (Expanded Dock - disembunyikan di mobile)
   return (
-    <div className="fixed bottom-6 right-6 z-40 max-w-[280px] bg-[var(--color-bg-card)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] rounded-2xl shadow-[4px_4px_0px_var(--color-shadow-main)] p-3.5 animate-in fade-in zoom-in-95 duration-150">
+    <div className="hidden md:block fixed bottom-6 right-6 z-40 max-w-[280px] bg-[var(--color-bg-card)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] rounded-2xl shadow-[4px_4px_0px_var(--color-shadow-main)] p-3.5 animate-in fade-in zoom-in-95 duration-150">
       {/* Top Header */}
       <div className="flex items-center justify-between pb-2 mb-2 border-b border-[var(--color-border-main)]/20">
         <div className="flex items-center gap-2">

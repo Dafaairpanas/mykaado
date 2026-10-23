@@ -51,6 +51,8 @@ interface FlashcardConfig {
   levels: string[];
   studyMode: string;
   hideLabel: boolean;
+  isBatchEnabled?: boolean;
+  batchSize?: number;
 }
 
 export default function FlashcardPage() {
@@ -114,119 +116,143 @@ export default function FlashcardPage() {
     return () => window.removeEventListener("flashcard-mute-toggle", handleMuteToggle);
   }, []);
 
-  useEffect(() => {
-    async function init() {
-      // Baca config baru atau lama (backward compatibility)
-      const savedConfig = localStorage.getItem("mykaado_flashcard_config");
-      const savedDecksOnly = localStorage.getItem("mykaado_selected_decks");
-      const customCardsStr = localStorage.getItem("mykaado_custom_cards");
+  const loadSessionCards = useCallback(async () => {
+    setIsLoading(true);
+    // Baca config baru atau lama (backward compatibility)
+    const savedConfig = localStorage.getItem("mykaado_flashcard_config");
+    const savedDecksOnly = localStorage.getItem("mykaado_selected_decks");
+    const customCardsStr = localStorage.getItem("mykaado_custom_cards");
+    
+    let parsedConfig: FlashcardConfig;
+    
+    if (savedConfig) {
+      parsedConfig = JSON.parse(savedConfig);
+    } else if (savedDecksOnly) {
+      parsedConfig = {
+        selectedDecks: JSON.parse(savedDecksOnly),
+        grades: [1, 2, 3],
+        levels: ["ALL"],
+        studyMode: "Standard",
+        hideLabel: false,
+        batchSize: 20
+      };
+    } else {
+      navigate("/flashcard/setup");
+      return;
+    }
+    
+    setConfig(parsedConfig);
+
+    if (customCardsStr) {
+      const customCardIds: string[] = JSON.parse(customCardsStr);
+      const map = await fetchAllCardsMap();
+      const customData = customCardIds.map(id => map.get(id)).filter(Boolean);
       
-      let parsedConfig: FlashcardConfig;
-      
-      if (savedConfig) {
-        parsedConfig = JSON.parse(savedConfig);
-      } else if (savedDecksOnly) {
-        parsedConfig = {
-          selectedDecks: JSON.parse(savedDecksOnly),
-          grades: [1, 2, 3],
-          levels: ["ALL"],
-          studyMode: "Standard",
-          hideLabel: false
-        };
-      } else {
-        navigate("/flashcard/setup");
-        return;
-      }
-      
-      setConfig(parsedConfig);
-
-      if (customCardsStr) {
-        const customCardIds: string[] = JSON.parse(customCardsStr);
-        const map = await fetchAllCardsMap();
-        const customData = customCardIds.map(id => map.get(id)).filter(Boolean);
-        
-        const now = new Date();
-        const dueCards: ReviewCard[] = [];
-        const isKanjiDeck = customData.length > 0 && "onyomi" in customData[0];
-        const deckType = isKanjiDeck ? "kanji" : "kotoba";
-
-        const progressList = await db.progress.where('card_id').anyOf(customCardIds).toArray();
-        const progressMap = new Map(progressList.map(p => [p.card_id, p]));
-
-        for (const card of customData) {
-          let progress = progressMap.get(card.id);
-          if (!progress) {
-            progress = {
-              card_id: card.id,
-              type: deckType,
-              state: State.New,
-              due: now,
-              stability: 0,
-              difficulty: 0,
-              elapsed_days: 0,
-              scheduled_days: 0,
-              reps: 0,
-              lapses: 0,
-              last_review: null
-            };
-          }
-          dueCards.push({ card, progress, type: deckType });
-          dueCards.push({ card, progress, type: deckType }); // Duplicate 2x for Custom Session
-        }
-
-        setCards(shuffleArray(dueCards));
-        setStats({ learned: 0, rev: 0 });
-        setCardStartTime(Date.now());
-        setIsLoading(false);
-        return;
-      }
-
-      const rawData = await fetchSelectedDecks(parsedConfig.selectedDecks);
-      
-      // Filter data by priority and level before passing to FSRS
-      const filteredData = rawData.filter(item => {
-        // Filter by Priority / Grade (if priority exists, fallback to 1)
-        const itemPriority = "priority" in item ? Number(item.priority) 
-                           : "importinity" in item ? Number(item.importinity)
-                           : "importantity" in item ? Number(item.importantity)
-                           : 1;
-        if (parsedConfig.grades.length > 0 && !parsedConfig.grades.includes(itemPriority)) {
-          return false;
-        }
-        
-        // Filter by Level
-        if (!parsedConfig.levels.includes("ALL")) {
-          const itemLevel = item.level || "";
-          if (!parsedConfig.levels.includes(itemLevel)) {
-            if (itemLevel !== "-" || !parsedConfig.levels.includes("-")) {
-                return false;
-            }
-          }
-        }
-        
-        return true;
-      });
-
-      // If Kanji mode, only keep cards that actually contain kanji characters
-      const hasKanji = (str: string) => /[\u4E00-\u9FAF\u3400-\u4DBF]/.test(str);
-      const finalData = parsedConfig.studyMode === "Kanji"
-        ? filteredData.filter(item => "kanji" in item && hasKanji((item as any).kanji || ""))
-        : filteredData;
-
-      // Default type to kotoba for FSRS bucket.
-      const isKanjiDeck = finalData.length > 0 && "onyomi" in finalData[0];
+      const now = new Date();
+      const dueCards: ReviewCard[] = [];
+      const isKanjiDeck = customData.length > 0 && "onyomi" in customData[0];
       const deckType = isKanjiDeck ? "kanji" : "kotoba";
 
-      const dueCards = await FSRSEngine.getDueCards(finalData, deckType, finalData.length);
-      
-      // Shuffle so cards are never in sequential order
-      setCards(shuffleArray(dueCards));
+      const progressList = await db.progress.where('card_id').anyOf(customCardIds).toArray();
+      const progressMap = new Map(progressList.map(p => [p.card_id, p]));
+
+      for (const card of customData) {
+        let progress = progressMap.get(card.id);
+        if (!progress) {
+          progress = {
+            card_id: card.id,
+            type: deckType,
+            state: State.New,
+            due: now,
+            stability: 0,
+            difficulty: 0,
+            elapsed_days: 0,
+            scheduled_days: 0,
+            reps: 0,
+            lapses: 0,
+            last_review: null
+          };
+        }
+        dueCards.push({ card, progress, type: deckType });
+        dueCards.push({ card, progress, type: deckType }); // Duplicate 2x for Custom Session
+      }
+
+      const shuffled = shuffleArray(dueCards);
+      const sessionCustomCards = (parsedConfig.batchSize && parsedConfig.batchSize > 0)
+        ? shuffled.slice(0, parsedConfig.batchSize)
+        : shuffled;
+
+      setCards(sessionCustomCards);
+      setCurrentIndex(0);
+      setStruggledCards(new Map());
       setStats({ learned: 0, rev: 0 });
       setCardStartTime(Date.now());
       setIsLoading(false);
+      return;
     }
-    init();
+
+    const rawData = await fetchSelectedDecks(parsedConfig.selectedDecks);
+    
+    // Filter data by priority and level before passing to FSRS
+    const filteredData = rawData.filter(item => {
+      // Filter by Priority / Grade (if priority exists, fallback to 1)
+      const itemPriority = "priority" in item ? Number(item.priority) 
+                         : "importinity" in item ? Number(item.importinity)
+                         : "importantity" in item ? Number(item.importantity)
+                         : 1;
+      if (parsedConfig.grades.length > 0 && !parsedConfig.grades.includes(itemPriority)) {
+        return false;
+      }
+      
+      // Filter by Level
+      if (!parsedConfig.levels.includes("ALL")) {
+        const itemLevel = item.level || "";
+        if (!parsedConfig.levels.includes(itemLevel)) {
+          if (itemLevel !== "-" || !parsedConfig.levels.includes("-")) {
+              return false;
+          }
+        }
+      }
+      
+      return true;
+    });
+
+    // If Kanji mode, only keep cards that actually contain kanji characters
+    const hasKanji = (str: string) => /[\u4E00-\u9FAF\u3400-\u4DBF]/.test(str);
+    const finalData = parsedConfig.studyMode === "Kanji"
+      ? filteredData.filter(item => "kanji" in item && hasKanji((item as any).kanji || ""))
+      : filteredData;
+
+    // Default type to kotoba for FSRS bucket.
+    const isKanjiDeck = finalData.length > 0 && "onyomi" in finalData[0];
+    const deckType = isKanjiDeck ? "kanji" : "kotoba";
+
+    // PENTING: Acak (randomize) seluruh data kartu dari semua bab terpilih di background terlebih dahulu!
+    const randomizedSource = shuffleArray(finalData);
+
+    // Ambil kartu yang siap direview (due / new)
+    const dueCards = await FSRSEngine.getDueCards(randomizedSource, deckType, randomizedSource.length);
+    
+    // Acak kembali due cards secara menyeluruh agar urutan benar-benar bervariasi antar bab
+    const thoroughlyRandomized = shuffleArray(dueCards);
+
+    // Terapkan batasan batch jika opsi dicentang/aktif dan > 0
+    const isBatchActive = Boolean(parsedConfig.isBatchEnabled && parsedConfig.batchSize && parsedConfig.batchSize > 0);
+    const sessionCards = isBatchActive
+      ? thoroughlyRandomized.slice(0, parsedConfig.batchSize!)
+      : thoroughlyRandomized;
+
+    setCards(sessionCards);
+    setCurrentIndex(0);
+    setStruggledCards(new Map());
+    setStats({ learned: 0, rev: 0 });
+    setCardStartTime(Date.now());
+    setIsLoading(false);
   }, [navigate]);
+
+  useEffect(() => {
+    loadSessionCards();
+  }, [loadSessionCards]);
 
   const handleRate = useCallback(async (rating: Rating) => {
     if (currentIndex >= cards.length) return;
@@ -525,7 +551,11 @@ export default function FlashcardPage() {
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] py-12 px-4 max-w-4xl mx-auto w-full">
         <h2 className="text-3xl font-bold mb-4">Selesai! 🎉</h2>
-        <p className="text-[var(--color-text-muted)] mb-8 text-center">Anda telah mereview semua kartu yang dijadwalkan hari ini.</p>
+        <p className="text-[var(--color-text-muted)] mb-8 text-center max-w-md">
+          {config?.isBatchEnabled && config?.batchSize && config.batchSize > 0
+            ? `Batch sesi ini (${cards.length} kartu) telah selesai direview.`
+            : "Anda telah mereview semua kartu yang dijadwalkan hari ini."}
+        </p>
         
         {struggledList.length > 0 && (
           <div className="w-full bg-[var(--color-bg-card)] p-6 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[4px_4px_0px_var(--color-shadow-main)] mb-8">
@@ -548,7 +578,20 @@ export default function FlashcardPage() {
           </div>
         )}
 
-        <Button variant="default" onClick={() => navigate("/flashcard/setup")}>Kembali ke Setup</Button>
+        <div className="flex flex-col sm:flex-row gap-3 w-full max-w-md">
+          {config?.isBatchEnabled && config?.batchSize && config.batchSize > 0 && (
+            <Button 
+              variant="primary" 
+              className="flex-1 py-4 text-base font-extrabold shadow-[2px_2px_0px_var(--color-shadow-main)]" 
+              onClick={() => loadSessionCards()}
+            >
+              Batch Berikutnya 🎲
+            </Button>
+          )}
+          <Button variant="default" className="flex-1 py-4 text-base font-bold" onClick={() => navigate("/flashcard/setup")}>
+            Kembali ke Setup
+          </Button>
+        </div>
       </div>
     );
   }
@@ -728,10 +771,10 @@ export default function FlashcardPage() {
         </div>
 
         <div className="flex items-center gap-2">
-          {/* Tombol Pengaturan Shortcut Mouse di Header */}
+          {/* Tombol Pengaturan Shortcut Mouse di Header (hanya untuk PC/desktop) */}
           <button
             onClick={() => setIsShortcutModalOpen(true)}
-            className="flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-[var(--color-bg-nav)] hover:bg-[var(--color-accent)] hover:text-[var(--color-btn-text)] text-xs font-bold border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] transition-colors active:translate-y-[1px] active:translate-x-[1px]"
+            className="hidden md:flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-[var(--color-bg-nav)] hover:bg-[var(--color-accent)] hover:text-[var(--color-btn-text)] text-xs font-bold border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] transition-colors active:translate-y-[1px] active:translate-x-[1px]"
             title="Pengaturan Shortcut Mouse"
           >
             <Mouse className="w-3.5 h-3.5" />
@@ -740,11 +783,17 @@ export default function FlashcardPage() {
                 mouseConfig.enabled ? "bg-green-500 animate-pulse" : "bg-red-400"
               }`}
             />
-            <span className="hidden sm:inline">Shortcut</span>
+            <span>Shortcut</span>
           </button>
 
-          <span className="text-[var(--color-text-muted)] bg-[var(--color-bg-nav)] px-2.5 py-1 rounded-full font-mono text-xs border border-[var(--color-border-main)]/20">
-            {currentIndex + 1} / {cards.length}
+          <span 
+            className="text-[var(--color-text-muted)] bg-[var(--color-bg-nav)] px-2.5 py-1 rounded-full font-mono text-xs border border-[var(--color-border-main)]/20 flex items-center gap-1.5"
+            title={config?.isBatchEnabled && config?.batchSize && config.batchSize > 0 ? `Sesi Batch: ${config.batchSize} kartu` : "Sesi Semua Kartu"}
+          >
+            {config?.isBatchEnabled && config?.batchSize && config.batchSize > 0 && (
+              <span className="text-[10px] font-bold text-[var(--color-accent)] uppercase">Batch</span>
+            )}
+            <span>{currentIndex + 1} / {cards.length}</span>
           </span>
         </div>
       </div>

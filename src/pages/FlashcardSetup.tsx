@@ -3,10 +3,11 @@ import { useNavigate, useSearchParams, Link } from "react-router-dom";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Toggle } from "@/components/ui/toggle";
-import { Play, Volume2, RotateCcw, Settings } from "lucide-react";
+import { Play, Volume2, RotateCcw, Settings, Shuffle, Check, SlidersHorizontal, ChevronDown } from "lucide-react";
 import { KOTOBA_SOURCES, KANJI_SOURCES, type DeckSource } from "@/lib/data-loader";
 import { db } from "@/lib/db";
 import { Modal } from "@/components/ui/modal";
+import { cn } from "@/lib/utils";
 
 export default function SetupPage() {
   return (
@@ -26,6 +27,27 @@ function SetupPageContent() {
   const [selectedLevels, setSelectedLevels] = useState<string[]>(["ALL"]);
   const [studyMode, setStudyMode] = useState<string>("Standard");
   const [hideLabel, setHideLabel] = useState<boolean>(false);
+  const [isBatchEnabled, setIsBatchEnabled] = useState<boolean>(() => {
+    const savedConfigStr = localStorage.getItem("mykaado_flashcard_config");
+    if (savedConfigStr) {
+      try {
+        const config = JSON.parse(savedConfigStr);
+        if (typeof config.isBatchEnabled === "boolean") return config.isBatchEnabled;
+      } catch (e) {}
+    }
+    return false; // Default: OFF (nonaktifkan secara default)
+  });
+  const [isHiddenMenuOpen, setIsHiddenMenuOpen] = useState(false); // Default: Hidden/Collapsed
+  const [batchSize, setBatchSize] = useState<number>(() => {
+    const savedConfigStr = localStorage.getItem("mykaado_flashcard_config");
+    if (savedConfigStr) {
+      try {
+        const config = JSON.parse(savedConfigStr);
+        if (typeof config.batchSize === "number" && config.batchSize > 0) return config.batchSize;
+      } catch (e) {}
+    }
+    return 20; // Default 20 kartu jika diaktifkan
+  });
   const [selectedDecks, setSelectedDecks] = useState<string[]>([]);
   const [stats, setStats] = useState({ total: 0, learning: 0 });
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
@@ -58,6 +80,12 @@ function SetupPageContent() {
         if (config.levels && Array.isArray(config.levels)) setSelectedLevels(config.levels);
         if (config.studyMode) setStudyMode(config.studyMode);
         if (config.hideLabel !== undefined) setHideLabel(config.hideLabel);
+        if (typeof config.isBatchEnabled === "boolean") {
+          setIsBatchEnabled(config.isBatchEnabled);
+        } else {
+          setIsBatchEnabled(false);
+        }
+        if (config.batchSize && config.batchSize > 0) setBatchSize(config.batchSize);
       } catch (e) {
         console.error("Failed to parse previous flashcard config", e);
       }
@@ -264,7 +292,9 @@ function SetupPageContent() {
       grades: selectedGrades,
       levels: selectedLevels,
       studyMode,
-      hideLabel
+      hideLabel,
+      isBatchEnabled,
+      batchSize: isBatchEnabled ? batchSize : 0
     };
     
     localStorage.removeItem("mykaado_custom_cards");
@@ -310,7 +340,7 @@ function SetupPageContent() {
       {/* Study Mode */}
       <div>
         <h3 className="font-bold text-sm text-[var(--color-text-muted)] mb-2 uppercase tracking-wider">Mode Belajar</h3>
-        <div className="grid grid-cols-2 gap-2 mb-4">
+        <div className="grid grid-cols-2 gap-2 mb-2">
           <Toggle pressed={studyMode === "Standard"} onPressedChange={() => setStudyMode("Standard")} className="py-2 h-auto flex flex-col gap-1" title="Jepang ke Indonesia">
             <span className="text-sm font-bold">JP あ - ID</span>
               <span className="text-[10px] uppercase font-bold opacity-70">Standard</span>
@@ -328,16 +358,152 @@ function SetupPageContent() {
             <span className="text-[10px] uppercase font-bold opacity-70">Mix</span>
           </Toggle>
         </div>
-        
-        <div className="flex items-center justify-between p-3 bg-[var(--color-bg-nav)] rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] mt-2">
+      </div>
+
+      {/* Label Bab Toggle */}
+      <div>
+        <div className="flex items-center justify-between p-3 bg-[var(--color-bg-nav)] rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]">
           <span className="font-bold text-sm">Tampilkan Label Bab</span>
           <button 
+            type="button"
             onClick={() => setHideLabel(!hideLabel)}
             className={`w-12 h-6 rounded-full p-1 transition-colors border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] flex items-center ${!hideLabel ? "bg-[var(--color-text-main)]" : "bg-[var(--color-bg-card)]"}`}
           >
             <div className={`w-4 h-4 rounded-full bg-[var(--color-bg-main)] transition-transform border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] ${!hideLabel ? "translate-x-5" : ""}`} />
           </button>
         </div>
+      </div>
+
+      {/* Hidden Option: Batch Sesi (Discreet / Low-profile) */}
+      <div className="pt-0.5">
+        <div className="flex items-center justify-between px-1">
+          <button
+            type="button"
+            onClick={() => setIsHiddenMenuOpen(!isHiddenMenuOpen)}
+            className="group inline-flex items-center gap-1.5 text-[11px] font-medium text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] opacity-40 hover:opacity-100 transition-all select-none py-1"
+          >
+            <SlidersHorizontal className="w-3 h-3 transition-transform group-hover:scale-110" />
+            <span>Opsi batch</span>
+            {isBatchEnabled && (
+              <span className="text-[10px] font-mono font-bold text-[var(--color-text-main)]">
+                • {batchSize} krt
+              </span>
+            )}
+            <ChevronDown className={cn("w-3 h-3 transition-transform duration-200", isHiddenMenuOpen && "rotate-180")} />
+          </button>
+
+          {isBatchEnabled && !isHiddenMenuOpen && (
+            <button
+              type="button"
+              onClick={() => setIsBatchEnabled(false)}
+              className="text-[10px] text-[var(--color-text-muted)] hover:text-red-500 opacity-40 hover:opacity-100 transition-opacity underline"
+              title="Nonaktifkan mode batch"
+            >
+              Reset
+            </button>
+          )}
+        </div>
+
+        {/* Panel Terbuka */}
+        {isHiddenMenuOpen && (
+          <div className="mt-2 p-3 rounded-[var(--radius-sm)] bg-[var(--color-bg-nav)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] flex flex-col gap-3 animate-in fade-in slide-in-from-top-1 duration-150">
+            {/* Header Switch di dalam Hidden Menu */}
+            <div className="flex items-center justify-between pb-2 border-b border-[var(--color-border-main)]/15">
+              <div className="flex flex-col">
+                <span className="font-bold text-xs flex items-center gap-1.5">
+                  <SlidersHorizontal className="w-3.5 h-3.5 text-[var(--color-text-main)]" />
+                  Batas Kartu per Sesi
+                </span>
+                <span className="text-[10px] text-[var(--color-text-muted)]">
+                  {isBatchEnabled ? `Aktif (${batchSize} kartu diacak)` : "Nonaktif (review semua kartu)"}
+                </span>
+              </div>
+
+              <button
+                type="button"
+                onClick={() => setIsBatchEnabled(!isBatchEnabled)}
+                className={`w-11 h-6 rounded-full p-0.5 transition-colors border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] flex items-center shrink-0 ${
+                  isBatchEnabled ? "bg-[var(--color-text-main)]" : "bg-[var(--color-bg-card)]"
+                }`}
+              >
+                <div
+                  className={`w-4 h-4 rounded-full bg-[var(--color-bg-main)] transition-transform border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] ${
+                    isBatchEnabled ? "translate-x-5" : ""
+                  }`}
+                />
+              </button>
+            </div>
+
+            {/* Kontrol Batch jika Switch diaktifkan */}
+            {isBatchEnabled && (
+              <div className="flex flex-col gap-2.5 animate-in fade-in duration-150">
+                {/* Presets */}
+                <div>
+                  <div className="text-[10px] font-bold uppercase tracking-wider text-[var(--color-text-muted)] mb-1">
+                    Preset Sesi:
+                  </div>
+                  <div className="grid grid-cols-5 gap-1.5">
+                    {[10, 20, 30, 50].map((num) => (
+                      <button
+                        key={num}
+                        type="button"
+                        onClick={() => setBatchSize(num)}
+                        className={cn(
+                          "py-1 text-xs font-extrabold rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid transition-all active:translate-y-[1px]",
+                          batchSize === num
+                            ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)] border-[var(--color-border-main)] shadow-[1px_1px_0px_var(--color-shadow-main)]"
+                            : "bg-[var(--color-bg-card)] text-[var(--color-text-muted)] border-[var(--color-border-main)] hover:text-[var(--color-text-main)]"
+                        )}
+                      >
+                        {num}
+                      </button>
+                    ))}
+                    <button
+                      type="button"
+                      onClick={() => setBatchSize(Math.max(10, stats.total > 0 ? stats.total : 100))}
+                      className={cn(
+                        "py-1 text-xs font-extrabold rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid transition-all active:translate-y-[1px]",
+                        batchSize >= (stats.total > 0 ? stats.total : 100)
+                          ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)] border-[var(--color-border-main)] shadow-[1px_1px_0px_var(--color-shadow-main)]"
+                          : "bg-[var(--color-bg-card)] text-[var(--color-text-muted)] border-[var(--color-border-main)] hover:text-[var(--color-text-main)]"
+                      )}
+                    >
+                      Max
+                    </button>
+                  </div>
+                </div>
+
+                {/* Slider & Number Input */}
+                <div className="flex items-center gap-2.5 bg-[var(--color-bg-card)] p-2 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[1px_1px_0px_var(--color-shadow-main)]">
+                  <input
+                    type="range"
+                    min={5}
+                    max={Math.max(50, stats.total > 0 ? stats.total : 100)}
+                    step={5}
+                    value={batchSize}
+                    onChange={(e) => setBatchSize(Number(e.target.value))}
+                    className="flex-1 accent-[var(--color-text-main)] cursor-pointer h-2 bg-[var(--color-bg-nav)] rounded-lg"
+                  />
+                  <div className="flex items-center gap-1 shrink-0">
+                    <input
+                      type="number"
+                      min={1}
+                      max={stats.total > 0 ? stats.total : 999}
+                      value={batchSize}
+                      onChange={(e) => setBatchSize(Math.max(1, parseInt(e.target.value, 10) || 1))}
+                      className="w-14 px-1 py-1 text-center font-mono font-bold text-xs bg-[var(--color-bg-nav)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] rounded shadow-[1px_1px_0px_var(--color-shadow-main)] focus:outline-none focus:ring-1 focus:ring-[var(--color-border-main)]"
+                    />
+                    <span className="text-[10px] font-bold text-[var(--color-text-muted)]">krt</span>
+                  </div>
+                </div>
+
+                <p className="text-[10px] text-[var(--color-text-muted)] leading-tight italic">
+                  💡 Seluruh kartu bab terpilih diacak di latar belakang sebelum dibagi per batch.
+                </p>
+              </div>
+            )}
+          </div>
+        )}
       </div>
     </>
   );
@@ -373,11 +539,11 @@ function SetupPageContent() {
           <Button 
             variant="primary" 
             size="lg" 
-            className="w-full text-lg h-14"
+            className="w-full text-lg h-14 font-extrabold shadow-[2px_2px_0px_var(--color-shadow-main)]"
             disabled={selectedDecks.length === 0}
             onClick={handleStartSession}
           >
-            START SESSION <Play className="w-5 h-5 ml-2 fill-current" />
+            START SESSION {isBatchEnabled && batchSize > 0 ? `(${batchSize})` : ""} <Play className="w-5 h-5 ml-2 fill-current" />
           </Button>
 
         </div>
@@ -407,10 +573,25 @@ function SetupPageContent() {
           {/* Library Select */}
           <Card className="p-4 sm:p-5 flex-1 flex flex-col">
             <div className="flex justify-between items-center mb-4">
-              <h2 className="text-lg font-bold">Library Select</h2>
-              <div className="px-2 py-0.5 bg-[var(--color-bg-nav)] rounded-full text-[10px] font-bold border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)]">
-                {selectedDecks.length} Selected
+              <div className="flex items-center gap-2">
+                <h2 className="text-lg font-bold">Library Select</h2>
+                <div className="px-2 py-0.5 bg-[var(--color-bg-nav)] rounded-full text-[10px] font-bold border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)]">
+                  {selectedDecks.length} Selected
+                </div>
               </div>
+              
+              {/* Quick Batch Pill (Mobile quick access to settings) - only shown when batch is active */}
+              {isBatchEnabled && batchSize > 0 && (
+                <button
+                  type="button"
+                  onClick={() => setIsSettingsOpen(true)}
+                  className="lg:hidden flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs font-extrabold border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] bg-[var(--color-bg-nav)] text-[var(--color-text-main)] shadow-[1px_1px_0px_var(--color-shadow-main)] transition-colors"
+                  title="Atur Batch per Sesi"
+                >
+                  <Shuffle className="w-3.5 h-3.5" />
+                  <span>Batch: {batchSize}</span>
+                </button>
+              )}
             </div>
 
             {/* Quick Select Buttons */}
@@ -497,12 +678,25 @@ function SetupPageContent() {
       </div>
 
       {/* Mobile Bottom Action Bar */}
-      <div className="fixed bottom-0 left-0 right-0 p-4 bg-[var(--color-bg-main)] border-t-[length:var(--bw-md)] border-solid border-[var(--color-border-main)] flex gap-2 lg:hidden z-50">
-        <Button variant="default" className="flex-none px-4 h-14 bg-[var(--color-bg-card)]" onClick={() => setIsSettingsOpen(true)}>
-          <Settings className="w-6 h-6" />
+      <div className="fixed bottom-0 left-0 right-0 p-3 bg-[var(--color-bg-main)] border-t-[length:var(--bw-md)] border-solid border-[var(--color-border-main)] flex gap-2 lg:hidden z-50 shadow-[0_-4px_12px_rgba(0,0,0,0.06)]">
+        <Button 
+          variant="default" 
+          className="flex-none px-3.5 h-14 bg-[var(--color-bg-card)] flex flex-col items-center justify-center gap-0.5 border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]" 
+          onClick={() => setIsSettingsOpen(true)}
+          title="Buka Pengaturan & Batch Sesi"
+        >
+          <Settings className="w-5 h-5" />
+          <span className="text-[10px] font-extrabold uppercase font-mono text-[var(--color-text-main)]">
+            {isBatchEnabled && batchSize > 0 ? `${batchSize} krt` : "Atur"}
+          </span>
         </Button>
-        <Button variant="primary" className="flex-1 h-14 text-lg" disabled={selectedDecks.length === 0} onClick={handleStartSession}>
-          START SESSION <Play className="w-5 h-5 ml-2 fill-current" />
+        <Button 
+          variant="primary" 
+          className="flex-1 h-14 text-base sm:text-lg font-extrabold shadow-[2px_2px_0px_var(--color-shadow-main)]" 
+          disabled={selectedDecks.length === 0} 
+          onClick={handleStartSession}
+        >
+          START SESSION {isBatchEnabled && batchSize > 0 ? `(${batchSize})` : ""} <Play className="w-5 h-5 ml-1.5 fill-current" />
         </Button>
       </div>
 

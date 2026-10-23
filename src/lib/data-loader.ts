@@ -224,28 +224,69 @@ export async function fetchSelectedDecks(selectedChapterIds: string[]) {
   return results;
 }
 
-// Helper to fetch all cards as a map (useful for history lookups)
-export async function fetchAllCardsMap() {
-  const allChapters = [...KOTOBA_SOURCES, ...KANJI_SOURCES, ...BUNPOU_SOURCES, ...RENSHUU_SOURCES].flatMap(s => s.chapters);
-  const map = new Map<string, any>();
-  
-  for (const chapter of allChapters) {
-    try {
-      let items = null;
-      try {
-        const fromDb = await appDb.chapters.get(chapter.pathKey);
-        if (fromDb && fromDb.data) items = fromDb.data;
-      } catch (e) {}
+let cachedAllCardsMap: Map<string, any> | null = null;
 
-      if (!items) {
-        const data = await chapter.file();
-        items = data.default || data;
-      }
-      
-      for (const item of items) {
-        if (item.id) map.set(item.id, item);
-      }
-    } catch (e) {}
+// Helper to fetch all cards as a map (useful for history lookups)
+export async function fetchAllCardsMap(): Promise<Map<string, any>> {
+  if (cachedAllCardsMap && cachedAllCardsMap.size > 0) {
+    return cachedAllCardsMap;
   }
+
+  const map = new Map<string, any>();
+
+  // 1. Try fast path: read from appDb if already populated
+  try {
+    const count = await appDb.chapters.count();
+    if (count > 0) {
+      const allEntries = await appDb.chapters.toArray();
+      for (const entry of allEntries) {
+        if (Array.isArray(entry.data)) {
+          for (const item of entry.data) {
+            if (item && item.id) map.set(item.id, item);
+          }
+        }
+      }
+      if (map.size > 0) {
+        cachedAllCardsMap = map;
+        return map;
+      }
+    }
+  } catch (e) {}
+
+  // 2. Try fetching /all-data.json directly (single fast bundle)
+  try {
+    const res = await fetch('/all-data.json');
+    if (res.ok) {
+      const allData = await res.json();
+      for (const [, chapterData] of Object.entries(allData)) {
+        const items = Array.isArray(chapterData) ? chapterData : (chapterData as any)?.default;
+        if (Array.isArray(items)) {
+          for (const item of items) {
+            if (item && item.id) map.set(item.id, item);
+          }
+        }
+      }
+      if (map.size > 0) {
+        cachedAllCardsMap = map;
+        return map;
+      }
+    }
+  } catch (e) {}
+
+  // 3. Fallback: dynamic imports in parallel batches
+  const allChapters = [...KOTOBA_SOURCES, ...KANJI_SOURCES, ...BUNPOU_SOURCES, ...RENSHUU_SOURCES].flatMap(s => s.chapters);
+  const results = await Promise.allSettled(allChapters.map(c => c.file()));
+  for (const res of results) {
+    if (res.status === 'fulfilled') {
+      const items = res.value?.default || res.value;
+      if (Array.isArray(items)) {
+        for (const item of items) {
+          if (item && item.id) map.set(item.id, item);
+        }
+      }
+    }
+  }
+
+  cachedAllCardsMap = map;
   return map;
 }
