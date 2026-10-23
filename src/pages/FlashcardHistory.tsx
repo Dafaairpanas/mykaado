@@ -66,9 +66,13 @@ export default function HistoryPage() {
         else if (r === 4 || h.rating === "Easy") easyCount++;
       });
 
-      // Tampilkan kartu yang PERNAH direspon: Again (1), Hard (2), atau Good (3),
-      // atau kartu yang memiliki lapses > 0 / status unmastered
-      const hasStruggledOrRepeated = againCount > 0 || hardCount > 0 || goodCount > 0 || (progress && ((progress.lapses || 0) > 0 || progress.unmastered));
+      // KRUSIAL (Sesuai Permintaan User):
+      // Yang masuk ke riwayat adalah kartu yang PERNAH di-review Again (1), Hard (2), atau Good (3).
+      // - Walaupun kartu tersebut pada akhirnya di-review Easy, kartu itu TETAP MASUK ke history!
+      // - Sebaliknya, jika kartu langsung di-review Easy (tanpa pernah di-review Again, Hard, atau Good),
+      //   kartu tersebut TIDAK MASUK ke history!
+      const hasStruggledOrRepeated = (againCount > 0 || hardCount > 0 || goodCount > 0) ||
+        (cardHistories.length === 0 && progress && ((progress.lapses || 0) > 0 || progress.unmastered));
 
       if (hasStruggledOrRepeated) {
         const lastLog = cardHistories.length > 0 ? cardHistories[cardHistories.length - 1] : null;
@@ -478,6 +482,11 @@ export default function HistoryPage() {
                             {item.goodCount > 0 && (
                               <span className="px-1.5 py-0.5 rounded bg-blue-100 text-blue-700 border border-blue-200">
                                 Good: {item.goodCount}x
+                              </span>
+                            )}
+                            {item.easyCount > 0 && (
+                              <span className="px-1.5 py-0.5 rounded bg-green-100 text-green-700 border border-green-200">
+                                Easy: {item.easyCount}x
                               </span>
                             )}
                           </div>

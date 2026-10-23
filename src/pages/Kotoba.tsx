@@ -1,10 +1,10 @@
 import { useState, useEffect, useMemo } from "react";
 import { useNavigate, useParams, useSearchParams, Link } from "react-router-dom";
-import { Search, ChevronLeft, Eye, Bookmark, Play, Shuffle, RotateCcw, AlertCircle } from "lucide-react";
+import { Search, ChevronLeft, Eye, Bookmark, Play, Shuffle, RotateCcw, AlertCircle, X, ExternalLink } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Modal } from "@/components/ui/modal";
 import { Toggle } from "@/components/ui/toggle";
-import { KOTOBA_SOURCES, fetchSelectedDecks, type DeckSource } from "@/lib/data-loader";
+import { KOTOBA_SOURCES, fetchSelectedDecks, fetchAllKotobaForSearch, type DeckSource, type UniversalKotobaItem } from "@/lib/data-loader";
 import { getKotobaChapterUrl, resolveKotobaRoute } from "@/lib/kotoba-routes";
 import type { KotobaItem } from "@/types";
 
@@ -21,6 +21,13 @@ export default function KotobaPage() {
   // Navigation State
   const [activeTab, setActiveTab] = useState<string>(routeInfo.activeTab);
   const selectedChapterId = routeInfo.chapterId;
+
+  // Universal Search State (cross-material search on List Kotoba)
+  const [universalSearchQuery, setUniversalSearchQuery] = useState("");
+  const [universalSourceFilter, setUniversalSourceFilter] = useState<"all" | "minna" | "irodori" | "n3">("all");
+  const [allKotobaItems, setAllKotobaItems] = useState<UniversalKotobaItem[]>([]);
+  const [isUniversalLoading, setIsUniversalLoading] = useState(false);
+  const [universalResultsLimit, setUniversalResultsLimit] = useState(40);
 
   // Keep activeTab in sync with routeInfo
   useEffect(() => {
@@ -90,6 +97,94 @@ export default function KotobaPage() {
     }
     loadChapter();
   }, [selectedChapterId]);
+
+  // Load all kotoba cards in background for universal search
+  useEffect(() => {
+    let isMounted = true;
+    async function loadAll() {
+      setIsUniversalLoading(true);
+      try {
+        const list = await fetchAllKotobaForSearch();
+        if (isMounted) setAllKotobaItems(list);
+      } catch (e) {
+        console.error("Failed to load universal kotoba", e);
+      } finally {
+        if (isMounted) setIsUniversalLoading(false);
+      }
+    }
+    loadAll();
+    return () => { isMounted = false; };
+  }, []);
+
+  // Filtered Universal Search Results
+  const universalSearchResults = useMemo(() => {
+    const q = universalSearchQuery.trim().toLowerCase();
+    if (!q) return [];
+
+    return allKotobaItems.filter(item => {
+      // Tab filter (all | minna | irodori | n3)
+      if (universalSourceFilter !== "all" && item.sourceCategory !== universalSourceFilter) {
+        return false;
+      }
+
+      const kanji = (item.kanji || "").toLowerCase();
+      const kana = (item.kana || "").toLowerCase();
+      const romaji = (item.romaji || "").toLowerCase();
+      const meaning = (item.meaning || "").toLowerCase();
+      const chapter = (item.chapterLabel || item.chapter || "").toLowerCase();
+
+      return kanji.includes(q) || kana.includes(q) || romaji.includes(q) || meaning.includes(q) || chapter.includes(q);
+    });
+  }, [allKotobaItems, universalSearchQuery, universalSourceFilter]);
+
+  // Counts for material filter tabs in Universal Search
+  const universalFilterCounts = useMemo(() => {
+    const q = universalSearchQuery.trim().toLowerCase();
+    if (!q) return { all: 0, minna: 0, irodori: 0, n3: 0 };
+    let all = 0, minna = 0, irodori = 0, n3 = 0;
+    
+    for (const item of allKotobaItems) {
+      const kanji = (item.kanji || "").toLowerCase();
+      const kana = (item.kana || "").toLowerCase();
+      const romaji = (item.romaji || "").toLowerCase();
+      const meaning = (item.meaning || "").toLowerCase();
+      const chapter = (item.chapterLabel || item.chapter || "").toLowerCase();
+
+      if (kanji.includes(q) || kana.includes(q) || romaji.includes(q) || meaning.includes(q) || chapter.includes(q)) {
+        all++;
+        if (item.sourceCategory === "minna") minna++;
+        else if (item.sourceCategory === "irodori") irodori++;
+        else if (item.sourceCategory === "n3") n3++;
+      }
+    }
+    return { all, minna, irodori, n3 };
+  }, [allKotobaItems, universalSearchQuery]);
+
+  // Practice handlers for Universal Search
+  const handlePracticeUniversalResults = () => {
+    const ids = universalSearchResults.slice(0, 100).map(i => i.id).filter(Boolean);
+    if (ids.length === 0) return;
+    localStorage.setItem("mykaado_custom_cards", JSON.stringify(ids));
+    navigate("/flashcard");
+  };
+
+  const handlePracticeSingleKotoba = (id: string) => {
+    localStorage.setItem("mykaado_custom_cards", JSON.stringify([id]));
+    navigate("/flashcard");
+  };
+
+  // Auto-scroll to highlighted item if arriving from Universal Search "Buka Bab"
+  const highlightId = searchParams.get("highlight");
+  useEffect(() => {
+    if (!highlightId || chapterData.length === 0) return;
+    const timer = setTimeout(() => {
+      const el = document.getElementById(`kotoba-row-${highlightId}`);
+      if (el) {
+        el.scrollIntoView({ behavior: "smooth", block: "center" });
+      }
+    }, 350);
+    return () => clearTimeout(timer);
+  }, [highlightId, chapterData]);
 
   // Shuffle helper functions
   const handleShuffle = () => {
@@ -249,56 +344,351 @@ export default function KotobaPage() {
     return (
       <div className="max-w-[1200px] mx-auto px-4 pb-20 pt-4">
         {/* Header */}
-        <div className="flex flex-col md:flex-row md:items-end justify-between mb-10 gap-6">
+        <div className="flex flex-col md:flex-row md:items-end justify-between mb-6 gap-6">
           <div>
             <h1 className="text-3xl font-extrabold mb-2">List Kotoba</h1>
-            <p className="text-[var(--color-text-muted)] font-medium">Pilih bab untuk melihat daftar kosakata</p>
+            <p className="text-[var(--color-text-muted)] font-medium">Pilih bab atau cari kosakata universal lintas materi</p>
           </div>
           
           <div className="flex gap-2 bg-[var(--color-bg-nav)] p-1.5 rounded-full border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] self-start md:self-auto overflow-x-auto max-w-full hide-scrollbar">
             <button
-              onClick={() => handleTabChange("minna")}
+              onClick={() => {
+                setUniversalSearchQuery("");
+                handleTabChange("minna");
+              }}
               className={`px-5 py-2 rounded-full font-bold text-sm transition-all whitespace-nowrap cursor-pointer ${activeTab === "minna" ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]" : "text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-card)]"}`}
             >
               Minna
             </button>
             <button
-              onClick={() => handleTabChange("irodori")}
+              onClick={() => {
+                setUniversalSearchQuery("");
+                handleTabChange("irodori");
+              }}
               className={`px-5 py-2 rounded-full font-bold text-sm transition-all whitespace-nowrap cursor-pointer ${activeTab === "irodori" ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]" : "text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-card)]"}`}
             >
               Irodori
             </button>
             <button
-              onClick={() => handleTabChange("n3")}
+              onClick={() => {
+                setUniversalSearchQuery("");
+                handleTabChange("n3");
+              }}
               className={`px-5 py-2 rounded-full font-bold text-sm transition-all whitespace-nowrap cursor-pointer ${activeTab === "n3" ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]" : "text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-card)]"}`}
             >
               Sou N3
             </button>
           </div>
         </div>
-        
-        {/* Chapters Grid */}
-        <div className="flex flex-col gap-10">
-          {activeSources.map(source => (
-            <div key={source.id}>
-              <div className="flex items-center gap-4 mb-5">
-                <div className="w-1.5 h-6 bg-[var(--color-text-main)] rounded-full"></div>
-                <h2 className="text-xl font-extrabold">{source.title}</h2>
+
+        {/* Universal Search Bar */}
+        <div className="relative mb-8">
+          <div className="relative flex items-center">
+            <Search className="w-5 h-5 absolute left-4 top-1/2 -translate-y-1/2 text-[var(--color-text-muted)] pointer-events-none" />
+            <input
+              type="text"
+              placeholder="🔍 Universal Search: Cari kosakata lintas materi (contoh: makan, たべる, taberu, 食べる)..."
+              value={universalSearchQuery}
+              onChange={(e) => {
+                setUniversalSearchQuery(e.target.value);
+                setUniversalResultsLimit(40);
+              }}
+              className="w-full pl-12 pr-12 py-3.5 text-sm sm:text-base font-bold rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] bg-[var(--color-bg-card)] shadow-[3px_3px_0px_var(--color-shadow-main)] focus:outline-none focus:ring-2 focus:ring-[var(--color-accent)] placeholder:text-[var(--color-text-muted)]/70 transition-all"
+            />
+            {universalSearchQuery && (
+              <button
+                type="button"
+                onClick={() => setUniversalSearchQuery("")}
+                className="absolute right-3.5 top-1/2 -translate-y-1/2 p-1 rounded-full text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-nav)] transition-colors cursor-pointer"
+                title="Bersihkan pencarian"
+              >
+                <X className="w-4 h-4" />
+              </button>
+            )}
+          </div>
+        </div>
+
+        {/* Universal Search Results View (Active when search query is entered) */}
+        {universalSearchQuery.trim() ? (
+          <div className="flex flex-col gap-6 animate-fade-in-up">
+            {/* Header bar with summary and quick actions */}
+            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 p-4 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] bg-[var(--color-bg-card)] shadow-[2px_2px_0px_var(--color-shadow-main)]">
+              <div className="flex items-center gap-2.5">
+                <div className="w-8 h-8 rounded-full bg-[var(--color-accent)] text-[var(--color-btn-text)] flex items-center justify-center font-black shrink-0 shadow-[1px_1px_0px_var(--color-shadow-main)]">
+                  <Search className="w-4 h-4" />
+                </div>
+                <div>
+                  <h3 className="font-extrabold text-base leading-tight">
+                    Hasil Pencarian Lintas Materi
+                  </h3>
+                  <p className="text-xs text-[var(--color-text-muted)] font-bold">
+                    Ditemukan <span className="text-[var(--color-text-main)] font-black">{universalSearchResults.length}</span> kosakata untuk &ldquo;{universalSearchQuery}&rdquo;
+                  </p>
+                </div>
               </div>
-              <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 xl:grid-cols-7 gap-3">
-                {source.chapters.map(chapter => (
-                  <Link
-                    key={chapter.id}
-                    to={getKotobaChapterUrl(chapter.id)}
-                    className="py-3 px-2 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] bg-[var(--color-bg-card)] text-center font-bold text-sm hover:translate-y-[-2px] hover:shadow-[3px_3px_0px_var(--color-shadow-main)] transition-all flex items-center justify-center cursor-pointer"
+
+              <div className="flex items-center gap-2 flex-wrap">
+                {universalSearchResults.length > 0 && (
+                  <Button
+                    variant="primary"
+                    size="sm"
+                    onClick={handlePracticeUniversalResults}
+                    className="font-extrabold text-xs h-9 shadow-[2px_2px_0px_var(--color-shadow-main)]"
+                    title="Latih hasil pencarian langsung di flashcard"
                   >
-                    {chapter.label}
-                  </Link>
-                ))}
+                    <Play className="w-3.5 h-3.5 mr-1.5 fill-current" />
+                    Latih {Math.min(universalSearchResults.length, 100)} di Flashcard
+                  </Button>
+                )}
+                <Button
+                  variant="default"
+                  size="sm"
+                  onClick={() => setUniversalSearchQuery("")}
+                  className="font-extrabold text-xs h-9"
+                >
+                  <RotateCcw className="w-3.5 h-3.5 mr-1.5" />
+                  Kembali ke Bab
+                </Button>
               </div>
             </div>
-          ))}
-        </div>
+
+            {/* Material Filter Tabs for Universal Search */}
+            <div className="flex items-center gap-2 overflow-x-auto hide-scrollbar pb-1">
+              <button
+                type="button"
+                onClick={() => setUniversalSourceFilter("all")}
+                className={`px-4 py-2 rounded-full font-bold text-xs sm:text-sm whitespace-nowrap transition-all border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] cursor-pointer ${
+                  universalSourceFilter === "all"
+                    ? "bg-[var(--color-text-main)] text-[var(--color-bg-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]"
+                    : "bg-[var(--color-bg-card)] text-[var(--color-text-muted)] hover:text-[var(--color-text-main)]"
+                }`}
+              >
+                Semua Materi ({universalFilterCounts.all})
+              </button>
+              <button
+                type="button"
+                onClick={() => setUniversalSourceFilter("minna")}
+                className={`px-4 py-2 rounded-full font-bold text-xs sm:text-sm whitespace-nowrap transition-all border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] flex items-center gap-1.5 cursor-pointer ${
+                  universalSourceFilter === "minna"
+                    ? "bg-blue-600 text-white shadow-[2px_2px_0px_var(--color-shadow-main)]"
+                    : "bg-[var(--color-bg-card)] text-[var(--color-text-muted)] hover:text-[var(--color-text-main)]"
+                }`}
+              >
+                <span>Minna no Nihongo</span>
+                <span className="text-[10px] px-1.5 py-0.2 rounded-full bg-black/15 font-mono">({universalFilterCounts.minna})</span>
+              </button>
+              <button
+                type="button"
+                onClick={() => setUniversalSourceFilter("irodori")}
+                className={`px-4 py-2 rounded-full font-bold text-xs sm:text-sm whitespace-nowrap transition-all border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] flex items-center gap-1.5 cursor-pointer ${
+                  universalSourceFilter === "irodori"
+                    ? "bg-emerald-600 text-white shadow-[2px_2px_0px_var(--color-shadow-main)]"
+                    : "bg-[var(--color-bg-card)] text-[var(--color-text-muted)] hover:text-[var(--color-text-main)]"
+                }`}
+              >
+                <span>Irodori</span>
+                <span className="text-[10px] px-1.5 py-0.2 rounded-full bg-black/15 font-mono">({universalFilterCounts.irodori})</span>
+              </button>
+              <button
+                type="button"
+                onClick={() => setUniversalSourceFilter("n3")}
+                className={`px-4 py-2 rounded-full font-bold text-xs sm:text-sm whitespace-nowrap transition-all border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] flex items-center gap-1.5 cursor-pointer ${
+                  universalSourceFilter === "n3"
+                    ? "bg-purple-600 text-white shadow-[2px_2px_0px_var(--color-shadow-main)]"
+                    : "bg-[var(--color-bg-card)] text-[var(--color-text-muted)] hover:text-[var(--color-text-main)]"
+                }`}
+              >
+                <span>Sou N3</span>
+                <span className="text-[10px] px-1.5 py-0.2 rounded-full bg-black/15 font-mono">({universalFilterCounts.n3})</span>
+              </button>
+            </div>
+
+            {/* Results Table */}
+            {isUniversalLoading ? (
+              <div className="p-16 text-center font-extrabold flex flex-col items-center justify-center gap-3">
+                <div className="w-8 h-8 border-4 border-[var(--color-border-main)] border-t-[var(--color-accent)] rounded-full animate-spin" />
+                <span>Memuat data lintas materi...</span>
+              </div>
+            ) : universalSearchResults.length === 0 ? (
+              <div className="p-16 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] bg-[var(--color-bg-card)] shadow-[2px_2px_0px_var(--color-shadow-main)] text-center flex flex-col items-center justify-center gap-3">
+                <div className="w-12 h-12 rounded-full bg-[var(--color-bg-nav)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] flex items-center justify-center">
+                  <Search className="w-6 h-6 text-[var(--color-text-muted)]" />
+                </div>
+                <h4 className="text-lg font-black">Tidak Ada Kosakata yang Cocok</h4>
+                <p className="text-xs text-[var(--color-text-muted)] max-w-sm font-medium">
+                  Tidak ditemukan kata yang cocok dengan &ldquo;{universalSearchQuery}&rdquo; di materi {universalSourceFilter === "all" ? "manapun" : universalSourceFilter.toUpperCase()}. Coba cari dengan romaji, kana, kanji, atau arti bahasa Indonesia.
+                </p>
+                <Button
+                  variant="default"
+                  size="sm"
+                  onClick={() => setUniversalSearchQuery("")}
+                  className="mt-2 font-bold"
+                >
+                  Bersihkan Pencarian
+                </Button>
+              </div>
+            ) : (
+              <div className="rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] overflow-hidden bg-[var(--color-bg-card)] shadow-[3px_3px_0px_var(--color-shadow-main)]">
+                <div className="overflow-x-auto">
+                  <table className="w-full text-left border-collapse min-w-[700px]">
+                    <thead className="bg-[var(--color-bg-nav)] border-b-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] text-xs uppercase tracking-wider font-extrabold">
+                      <tr>
+                        <th className="p-3 w-48">Materi & Bab</th>
+                        <th className="p-3 w-64">Kosakata (Kana / Kanji)</th>
+                        <th className="p-3">Arti (Indonesia)</th>
+                        <th className="p-3 w-40 text-right">Aksi</th>
+                      </tr>
+                    </thead>
+                    <tbody className="divide-y-[1px] divide-dashed divide-[var(--color-border-main)]">
+                      {universalSearchResults.slice(0, universalResultsLimit).map((item, idx) => {
+                        const isMarked = markedItems.has(item.id);
+                        return (
+                          <tr
+                            key={item.id || `${item.kana}-${idx}`}
+                            className="hover:bg-[var(--color-bg-nav)]/60 transition-colors group"
+                          >
+                            {/* Source & Chapter */}
+                            <td className="p-3 align-top">
+                              <div className="flex flex-col gap-1.5 items-start">
+                                <span className={`text-[10px] font-extrabold px-2 py-0.5 rounded shadow-[1px_1px_0px_var(--color-shadow-main)] border border-[var(--color-border-main)] ${
+                                  item.sourceCategory === "minna" 
+                                    ? "bg-blue-100 dark:bg-blue-950/40 text-blue-800 dark:text-blue-300"
+                                    : item.sourceCategory === "irodori"
+                                      ? "bg-emerald-100 dark:bg-emerald-950/40 text-emerald-800 dark:text-emerald-300"
+                                      : "bg-purple-100 dark:bg-purple-950/40 text-purple-800 dark:text-purple-300"
+                                }`}>
+                                  {item.sourceTitle}
+                                </span>
+                                <div className="flex items-center gap-1.5">
+                                  <span className="text-xs font-bold text-[var(--color-text-muted)]">
+                                    {item.chapterLabel}
+                                  </span>
+                                  {item.level && item.level !== "-" && (
+                                    <span className="text-[10px] font-mono font-bold px-1 rounded bg-[var(--color-bg-nav)] border border-[var(--color-border-main)]/30">
+                                      {item.level}
+                                    </span>
+                                  )}
+                                </div>
+                              </div>
+                            </td>
+
+                            {/* Kotoba (Kana / Kanji / Romaji) */}
+                            <td className="p-3 align-top">
+                              <div className="flex flex-col gap-0.5">
+                                <div className="flex items-baseline gap-2">
+                                  <span className="font-bold text-xl jp-text leading-tight text-[var(--color-text-main)]">
+                                    {item.kanji || item.kana}
+                                  </span>
+                                  {item.kanji && item.kana && (
+                                    <span className="text-xs text-[var(--color-text-muted)] jp-text font-normal">
+                                      {item.kana}
+                                    </span>
+                                  )}
+                                </div>
+                                {item.romaji && (
+                                  <span className="text-xs font-mono text-[var(--color-text-muted)] opacity-80">
+                                    {item.romaji}
+                                  </span>
+                                )}
+                              </div>
+                            </td>
+
+                            {/* Meaning */}
+                            <td className="p-3 align-top">
+                              <div className="flex flex-col gap-1">
+                                <span className="text-sm font-semibold text-[var(--color-text-main)] leading-relaxed">
+                                  {item.meaning}
+                                </span>
+                                {item.type && (
+                                  <span className="text-[10px] font-mono text-[var(--color-text-muted)] uppercase tracking-wider">
+                                    {item.type} {item.transitivity ? `• ${item.transitivity}` : ""}
+                                  </span>
+                                )}
+                              </div>
+                            </td>
+
+                            {/* Actions */}
+                            <td className="p-3 align-top text-right">
+                              <div className="flex items-center justify-end gap-1.5">
+                                <Link
+                                  to={`${getKotobaChapterUrl(item.chapterId)}?highlight=${item.id}`}
+                                  className="h-8 px-2.5 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] bg-[var(--color-bg-nav)] hover:bg-[var(--color-accent)] hover:text-[var(--color-btn-text)] text-xs font-extrabold flex items-center gap-1 shadow-[1px_1px_0px_var(--color-shadow-main)] transition-all cursor-pointer"
+                                  title={`Buka ${item.sourceTitle} ${item.chapterLabel}`}
+                                >
+                                  <span>Buka</span>
+                                  <ExternalLink className="w-3 h-3" />
+                                </Link>
+
+                                <button
+                                  type="button"
+                                  onClick={() => handlePracticeSingleKotoba(item.id)}
+                                  className="h-8 w-8 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] bg-[var(--color-accent)] text-[var(--color-btn-text)] hover:brightness-105 flex items-center justify-center shadow-[1px_1px_0px_var(--color-shadow-main)] transition-all cursor-pointer"
+                                  title="Latih di Flashcard"
+                                >
+                                  <Play className="w-3 h-3 fill-current" />
+                                </button>
+
+                                <button
+                                  type="button"
+                                  onClick={() => toggleMark(item.id)}
+                                  className={`h-8 w-8 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] flex items-center justify-center shadow-[1px_1px_0px_var(--color-shadow-main)] transition-all cursor-pointer ${
+                                    isMarked 
+                                      ? "bg-amber-100 text-amber-600 dark:bg-amber-950/60 dark:text-amber-400" 
+                                      : "bg-[var(--color-bg-nav)] text-[var(--color-text-muted)] hover:text-amber-500"
+                                  }`}
+                                  title={isMarked ? "Hapus tanda sulit" : "Tandai kata sulit"}
+                                >
+                                  <Bookmark className={`w-3.5 h-3.5 ${isMarked ? "fill-current" : ""}`} />
+                                </button>
+                              </div>
+                            </td>
+                          </tr>
+                        );
+                      })}
+                    </tbody>
+                  </table>
+                </div>
+
+                {/* Pagination / Load more */}
+                {universalSearchResults.length > universalResultsLimit && (
+                  <div className="p-4 bg-[var(--color-bg-nav)] border-t-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] text-center">
+                    <Button
+                      variant="default"
+                      size="sm"
+                      onClick={() => setUniversalResultsLimit(prev => prev + 40)}
+                      className="font-extrabold text-xs shadow-[1px_1px_0px_var(--color-shadow-main)]"
+                    >
+                      Muat Lebih Banyak ({universalSearchResults.length - universalResultsLimit} kata tersisa)
+                    </Button>
+                  </div>
+                )}
+              </div>
+            )}
+          </div>
+        ) : (
+          /* Chapters Grid (When query is empty) */
+          <div className="flex flex-col gap-10">
+            {activeSources.map(source => (
+              <div key={source.id}>
+                <div className="flex items-center gap-4 mb-5">
+                  <div className="w-1.5 h-6 bg-[var(--color-text-main)] rounded-full"></div>
+                  <h2 className="text-xl font-extrabold">{source.title}</h2>
+                </div>
+                <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 xl:grid-cols-7 gap-3">
+                  {source.chapters.map(chapter => (
+                    <Link
+                      key={chapter.id}
+                      to={getKotobaChapterUrl(chapter.id)}
+                      className="py-3 px-2 rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] bg-[var(--color-bg-card)] text-center font-bold text-sm hover:translate-y-[-2px] hover:shadow-[3px_3px_0px_var(--color-shadow-main)] transition-all flex items-center justify-center cursor-pointer"
+                    >
+                      {chapter.label}
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            ))}
+          </div>
+        )}
       </div>
     );
   }
@@ -509,14 +899,19 @@ export default function KotobaPage() {
                                  : 1;
               const isOptional = itemPriority === 2 || itemPriority === 3;
 
+              const isHighlighted = Boolean(highlightId && (item.id === highlightId || itemId === highlightId));
+
               return (
                 <div 
                   key={itemId} 
+                  id={`kotoba-row-${item.id || itemId}`}
                   onClick={() => handleRowClick(itemId)}
                   className={`grid grid-cols-3 divide-x-[1px] divide-dashed divide-[var(--color-border-main)] transition-colors cursor-pointer group select-none md:select-text border-l-4 ${
-                    isMarked 
-                      ? "bg-amber-100/45 dark:bg-amber-500/15 hover:bg-amber-100/65 dark:hover:bg-amber-500/25 border-l-amber-500" 
-                      : "border-l-transparent hover:bg-[var(--color-bg-nav)]"
+                    isHighlighted
+                      ? "bg-[var(--color-accent)]/20 border-l-[var(--color-accent)] ring-2 ring-[var(--color-accent)] shadow-[0_0_12px_rgba(var(--color-accent-rgb),0.3)] animate-pulse"
+                      : isMarked 
+                        ? "bg-amber-100/45 dark:bg-amber-500/15 hover:bg-amber-100/65 dark:hover:bg-amber-500/25 border-l-amber-500" 
+                        : "border-l-transparent hover:bg-[var(--color-bg-nav)]"
                   }`}
                   title={isMarked ? "Klik untuk membatalkan tanda sulit" : "Klik untuk menandai sebagai kata sulit"}
                 >

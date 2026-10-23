@@ -1,4 +1,5 @@
 import { appDb } from "./indexeddb";
+import type { KotobaItem } from "@/types";
 
 export interface DeckSource {
   id: string;
@@ -100,7 +101,8 @@ export const KANJI_SOURCES: DeckSource[] = [
       { id: "kj_marugoto", label: "Marugoto", pathKey: "kanji/marugoto.json", file: () => import(`@/data/kanji/marugoto.json`) },
       { id: "kj_jfta2", label: "JFT A2 Kanji", pathKey: "renshuu/jfta2kanji.json", file: () => import(`@/data/renshuu/jfta2kanji.json`) },
       { id: "kj_jft_1", label: "Kanji for JFT 1", pathKey: "kanji/kanjiforjft_1.json", file: () => import(`@/data/kanji/kanjiforjft_1.json`) },
-      { id: "kj_kotobalatsol1", label: "Kotoba Latsol 1", pathKey: "kanji/kotobalatsol1.json", file: () => import(`@/data/kanji/kotobalatsol1.json`) }
+      { id: "kj_kotobalatsol1", label: "Kotoba Latsol 1", pathKey: "kanji/kotobalatsol1.json", file: () => import(`@/data/kanji/kotobalatsol1.json`) },
+      { id: "kj_kotobaa1ekstra", label: "Kotoba A1 Ekstra", pathKey: "kanji/kotoba_a1_ekstra.json", file: () => import(`@/data/kanji/kotoba_a1_ekstra.json`) }
     ]
   }
 ];
@@ -290,3 +292,84 @@ export async function fetchAllCardsMap(): Promise<Map<string, any>> {
   cachedAllCardsMap = map;
   return map;
 }
+
+export interface UniversalKotobaItem extends KotobaItem {
+  sourceId: string;
+  sourceTitle: string;
+  sourceCategory: "minna" | "irodori" | "n3";
+  chapterId: string;
+  chapterLabel: string;
+}
+
+let cachedAllKotobaList: UniversalKotobaItem[] | null = null;
+
+export async function fetchAllKotobaForSearch(): Promise<UniversalKotobaItem[]> {
+  if (cachedAllKotobaList && cachedAllKotobaList.length > 0) {
+    return cachedAllKotobaList;
+  }
+
+  const enriched: UniversalKotobaItem[] = [];
+
+  // 1. Try fast bundle fetch from public /all-data.json
+  try {
+    const res = await fetch('/all-data.json');
+    if (res.ok) {
+      const allData = await res.json();
+      for (const source of KOTOBA_SOURCES) {
+        const cat = source.id.startsWith("irodori") ? "irodori" : (source.id as "minna" | "n3");
+        for (const ch of source.chapters) {
+          const rawChapter = allData[ch.pathKey];
+          const items = Array.isArray(rawChapter) ? rawChapter : (rawChapter?.default || []);
+          for (const it of items) {
+            if (it && (it.kanji || it.kana || it.meaning)) {
+              enriched.push({
+                ...it,
+                sourceId: source.id,
+                sourceTitle: source.title,
+                sourceCategory: cat,
+                chapterId: ch.id,
+                chapterLabel: ch.label
+              });
+            }
+          }
+        }
+      }
+      if (enriched.length > 0) {
+        cachedAllKotobaList = enriched;
+        return enriched;
+      }
+    }
+  } catch (e) {
+    console.warn("Failed to load /all-data.json for search, falling back to dynamic import", e);
+  }
+
+  // 2. Fallback: dynamic imports
+  const allKotobaChapters = KOTOBA_SOURCES.flatMap(s => s.chapters.map(ch => ({ source: s, ch })));
+  const results = await Promise.allSettled(allKotobaChapters.map(item => item.ch.file()));
+  for (let i = 0; i < results.length; i++) {
+    const res = results[i];
+    if (res.status === 'fulfilled') {
+      const { source, ch } = allKotobaChapters[i];
+      const cat = source.id.startsWith("irodori") ? "irodori" : (source.id as "minna" | "n3");
+      const items = res.value?.default || res.value;
+      if (Array.isArray(items)) {
+        for (const it of items) {
+          if (it && (it.kanji || it.kana || it.meaning)) {
+            enriched.push({
+              ...it,
+              sourceId: source.id,
+              sourceTitle: source.title,
+              sourceCategory: cat,
+              chapterId: ch.id,
+              chapterLabel: ch.label
+            });
+          }
+        }
+      }
+    }
+  }
+
+  cachedAllKotobaList = enriched;
+  return enriched;
+}
+

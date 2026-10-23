@@ -64,6 +64,7 @@ export default function FlashcardPage() {
   const [isLoading, setIsLoading] = useState(true);
   const [cardStartTime, setCardStartTime] = useState(Date.now());
   const [struggledCards, setStruggledCards] = useState<Map<string, ReviewCard>>(new Map());
+  const struggledCardsRef = useRef<Map<string, ReviewCard>>(new Map());
   
   // Stats: learned = cards already reviewed, rev = re-queued cards remaining, new = unseen cards remaining
   const [stats, setStats] = useState({ learned: 0, rev: 0 });
@@ -184,6 +185,7 @@ export default function FlashcardPage() {
 
       setCards(sessionCustomCards);
       setCurrentIndex(0);
+      struggledCardsRef.current = new Map();
       setStruggledCards(new Map());
       setStats({ learned: 0, rev: 0 });
       setCardStartTime(Date.now());
@@ -244,6 +246,7 @@ export default function FlashcardPage() {
 
     setCards(sessionCards);
     setCurrentIndex(0);
+    struggledCardsRef.current = new Map();
     setStruggledCards(new Map());
     setStats({ learned: 0, rev: 0 });
     setCardStartTime(Date.now());
@@ -265,13 +268,12 @@ export default function FlashcardPage() {
 
     if (rating !== Rating.Easy) {
       newUnmasteredState = true;
-      setStruggledCards(prev => {
-        const next = new Map(prev);
-        next.set(key, currentCard);
-        return next;
-      });
+      struggledCardsRef.current.set(key, currentCard);
+      setStruggledCards(new Map(struggledCardsRef.current));
     } else {
-      if (!struggledCards.has(key)) {
+      // Jika kartu ini PERNAH dijawab Again/Hard/Good di sesi ini, jangan di-reset unmastered-nya
+      // Hanya jika kartu ini BELUM PERNAH kesulitan di sesi ini, unmastered di-set false
+      if (!struggledCardsRef.current.has(key)) {
         newUnmasteredState = false;
       }
     }
@@ -532,7 +534,7 @@ export default function FlashcardPage() {
   }
 
   if (currentIndex >= cards.length) {
-    const struggledList = Array.from(struggledCards.values());
+    const struggledList = Array.from(struggledCardsRef.current.values());
     
     const handleRelearn = () => {
       // Multiply by 2x
@@ -543,6 +545,7 @@ export default function FlashcardPage() {
       }
       setCards(shuffleArray(newCards));
       setCurrentIndex(0);
+      struggledCardsRef.current = new Map();
       setStruggledCards(new Map());
       setStats({ learned: 0, rev: 0 });
       setCardStartTime(Date.now());
