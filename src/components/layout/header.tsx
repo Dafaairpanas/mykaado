@@ -87,9 +87,8 @@ export function Header() {
           {isSetupPage && (
             <button 
               onClick={async () => {
-                if (window.confirm("Yakin ingin menghapus semua progress hafalan (Reset Data)?")) {
+                if (window.confirm("Yakin ingin mereset semua progress hafalan (Reset Data)?\n\n(Catatan: Riwayat Kotoba TIDAK akan terhapus dan tetap tersimpan)")) {
                   await db.progress.clear();
-                  await db.history.clear();
                   window.location.reload();
                 }
               }}

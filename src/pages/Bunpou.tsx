@@ -6,6 +6,7 @@ import { Modal } from "@/components/ui/modal";
 import { Toggle } from "@/components/ui/toggle";
 import { Card } from "@/components/ui/card";
 import { BUNPOU_SOURCES, fetchSelectedDecks, type DeckSource } from "@/lib/data-loader";
+import { matchesJapaneseSearch } from "@/lib/japanese-search";
 import type { BunpouItem } from "@/types";
 
 function BunpouContent() {
@@ -86,13 +87,9 @@ function BunpouContent() {
   }, [selectedChapterId]);
 
   const filteredData = useMemo(() => {
-    if (!searchQuery) return chapterData;
-    const q = searchQuery.toLowerCase();
-    return chapterData.filter(item => 
-      (item.title && item.title.toLowerCase().includes(q)) ||
-      (item.meaning && item.meaning.toLowerCase().includes(q)) ||
-      (item.formula_template && item.formula_template.toLowerCase().includes(q))
-    );
+    if (!searchQuery.trim()) return chapterData;
+    const q = searchQuery.trim();
+    return chapterData.filter(item => matchesJapaneseSearch(item, q));
   }, [chapterData, searchQuery]);
 
   // View: LIST OF CHAPTERS

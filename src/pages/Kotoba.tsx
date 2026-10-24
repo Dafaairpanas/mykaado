@@ -6,6 +6,7 @@ import { Modal } from "@/components/ui/modal";
 import { Toggle } from "@/components/ui/toggle";
 import { KOTOBA_SOURCES, fetchSelectedDecks, fetchAllKotobaForSearch, type DeckSource, type UniversalKotobaItem } from "@/lib/data-loader";
 import { getKotobaChapterUrl, resolveKotobaRoute } from "@/lib/kotoba-routes";
+import { matchesJapaneseSearch, getSearchRelevanceScore } from "@/lib/japanese-search";
 import type { KotobaItem } from "@/types";
 
 export default function KotobaPage() {
@@ -118,39 +119,29 @@ export default function KotobaPage() {
 
   // Filtered Universal Search Results
   const universalSearchResults = useMemo(() => {
-    const q = universalSearchQuery.trim().toLowerCase();
+    const q = universalSearchQuery.trim();
     if (!q) return [];
 
-    return allKotobaItems.filter(item => {
-      // Tab filter (all | minna | irodori | n3)
-      if (universalSourceFilter !== "all" && item.sourceCategory !== universalSourceFilter) {
-        return false;
-      }
+    return allKotobaItems
+      .filter(item => {
+        // Tab filter (all | minna | irodori | n3)
+        if (universalSourceFilter !== "all" && item.sourceCategory !== universalSourceFilter) {
+          return false;
+        }
 
-      const kanji = (item.kanji || "").toLowerCase();
-      const kana = (item.kana || "").toLowerCase();
-      const romaji = (item.romaji || "").toLowerCase();
-      const meaning = (item.meaning || "").toLowerCase();
-      const chapter = (item.chapterLabel || item.chapter || "").toLowerCase();
-
-      return kanji.includes(q) || kana.includes(q) || romaji.includes(q) || meaning.includes(q) || chapter.includes(q);
-    });
+        return matchesJapaneseSearch(item, q);
+      })
+      .sort((a, b) => getSearchRelevanceScore(b, q) - getSearchRelevanceScore(a, q));
   }, [allKotobaItems, universalSearchQuery, universalSourceFilter]);
 
   // Counts for material filter tabs in Universal Search
   const universalFilterCounts = useMemo(() => {
-    const q = universalSearchQuery.trim().toLowerCase();
+    const q = universalSearchQuery.trim();
     if (!q) return { all: 0, minna: 0, irodori: 0, n3: 0 };
     let all = 0, minna = 0, irodori = 0, n3 = 0;
     
     for (const item of allKotobaItems) {
-      const kanji = (item.kanji || "").toLowerCase();
-      const kana = (item.kana || "").toLowerCase();
-      const romaji = (item.romaji || "").toLowerCase();
-      const meaning = (item.meaning || "").toLowerCase();
-      const chapter = (item.chapterLabel || item.chapter || "").toLowerCase();
-
-      if (kanji.includes(q) || kana.includes(q) || romaji.includes(q) || meaning.includes(q) || chapter.includes(q)) {
+      if (matchesJapaneseSearch(item, q)) {
         all++;
         if (item.sourceCategory === "minna") minna++;
         else if (item.sourceCategory === "irodori") irodori++;
@@ -309,14 +300,11 @@ export default function KotobaPage() {
         return markedItems.has(id);
       });
     }
-    if (!searchQuery) return list;
-    const q = searchQuery.toLowerCase();
-    return list.filter(({ item }) => 
-      (item.kanji && item.kanji.toLowerCase().includes(q)) ||
-      (item.kana && item.kana.toLowerCase().includes(q)) ||
-      (item.romaji && item.romaji.toLowerCase().includes(q)) ||
-      (item.meaning && item.meaning.toLowerCase().includes(q))
-    );
+    if (!searchQuery.trim()) return list;
+    const q = searchQuery.trim();
+    return list
+      .filter(({ item }) => matchesJapaneseSearch(item, q))
+      .sort((a, b) => getSearchRelevanceScore(b.item, q) - getSearchRelevanceScore(a.item, q));
   }, [displayItems, searchQuery, filterMode, markedItems]);
 
   // View: CHAPTER NOT FOUND

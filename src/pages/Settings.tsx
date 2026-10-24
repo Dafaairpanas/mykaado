@@ -65,14 +65,13 @@ export default function SettingsPage() {
   };
 
   const handleClearProgress = async () => {
-    if (window.confirm("PERINGATAN: Apakah Anda yakin ingin menghapus SEMUA progress belajar flashcard? Anda akan mengulang semua kartu dari awal. Aksi ini tidak dapat dibatalkan!")) {
+    if (window.confirm("PERINGATAN: Apakah Anda yakin ingin mereset SEMUA progress belajar flashcard? Anda akan mengulang semua kartu dari awal.\n\n(Catatan: Riwayat Kotoba TIDAK akan terhapus dan tetap tersimpan)")) {
       try {
         await db.progress.clear();
-        await db.history.clear();
-        alert("Semua progress berhasil dihapus!");
+        alert("Semua progress hafalan berhasil di-reset! Riwayat kotoba tetap tersimpan.");
       } catch (error) {
         console.error(error);
-        alert("Gagal menghapus progress.");
+        alert("Gagal mereset progress.");
       }
     }
   };
@@ -147,9 +146,11 @@ export default function SettingsPage() {
         {/* Danger Zone */}
         <section>
           <h2 className="text-sm font-bold text-red-500 uppercase tracking-wider mb-2">Zona Bahaya</h2>
-          <p className="text-[var(--color-text-muted)] mb-4 text-sm max-w-xl">Menghapus data akan menghilangkan semua rekam jejak hafalan (riwayat kapan kartu direview, kartu yang sudah dikuasai, dll) secara permanen dari perangkat ini.</p>
+          <p className="text-[var(--color-text-muted)] mb-4 text-sm max-w-xl">
+            Mereset data akan mengembalikan jadwal pengulangan flashcard (SRS) ke awal. Riwayat Kotoba yang pernah kamu latih tetap aman dan hanya bisa dihapus manual dari halaman Riwayat Kotoba.
+          </p>
           <Button variant="danger" className="w-full sm:w-auto bg-red-500 text-white hover:bg-red-600 border-red-700 font-bold px-6" onClick={handleClearProgress}>
-            Hapus Semua Progress
+            Reset Semua Progress Flashcard
           </Button>
         </section>
       </div>

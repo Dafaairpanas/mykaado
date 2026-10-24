@@ -4,6 +4,7 @@ import { ArrowLeft, Trash2, Play, Search, RotateCcw, AlertTriangle, BookOpen, Ch
 import { Button } from "@/components/ui/button";
 import { db } from "@/lib/db";
 import { fetchAllCardsMap } from "@/lib/data-loader";
+import { matchesJapaneseSearch } from "@/lib/japanese-search";
 
 export default function HistoryPage() {
   const navigate = useNavigate();
@@ -72,7 +73,7 @@ export default function HistoryPage() {
       // - Sebaliknya, jika kartu langsung di-review Easy (tanpa pernah di-review Again, Hard, atau Good),
       //   kartu tersebut TIDAK MASUK ke history!
       const hasStruggledOrRepeated = (againCount > 0 || hardCount > 0 || goodCount > 0) ||
-        (cardHistories.length === 0 && progress && ((progress.lapses || 0) > 0 || progress.unmastered));
+        Boolean(progress && ((progress.lapses || 0) > 0 || progress.unmastered));
 
       if (hasStruggledOrRepeated) {
         const lastLog = cardHistories.length > 0 ? cardHistories[cardHistories.length - 1] : null;
@@ -123,13 +124,7 @@ export default function HistoryPage() {
       .filter(item => {
         // Search Query
         if (!searchQuery.trim()) return true;
-        const q = searchQuery.toLowerCase();
-        const kanji = (item.cardData.kanji || "").toLowerCase();
-        const kana = (item.cardData.kana || "").toLowerCase();
-        const romaji = (item.cardData.romaji || "").toLowerCase();
-        const meaning = (item.cardData.meaning || "").toLowerCase();
-        const chapter = (item.cardData.chapter || "").toLowerCase();
-        return kanji.includes(q) || kana.includes(q) || romaji.includes(q) || meaning.includes(q) || chapter.includes(q);
+        return matchesJapaneseSearch(item.cardData, searchQuery);
       })
       .sort((a, b) => new Date(b.reviewed_at).getTime() - new Date(a.reviewed_at).getTime());
   }, [historyItems, activeTab, searchQuery]);
@@ -167,7 +162,11 @@ export default function HistoryPage() {
 
     const idsToDelete = filteredItems.map(h => h.card_id);
     await db.progress.where("card_id").anyOf(idsToDelete).delete();
-    await db.history.where("card_id").anyOf(idsToDelete).delete();
+    if (activeTab === "all" && !searchQuery.trim()) {
+      await db.history.clear();
+    } else {
+      await db.history.where("card_id").anyOf(idsToDelete).delete();
+    }
 
     setHistoryItems(prev => prev.filter(h => !idsToDelete.includes(h.card_id)));
     setSelectedCards(new Set());

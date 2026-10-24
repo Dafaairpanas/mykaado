@@ -50,6 +50,7 @@ function SetupPageContent() {
   });
   const [selectedDecks, setSelectedDecks] = useState<string[]>([]);
   const [stats, setStats] = useState({ total: 0, learning: 0 });
+  const [historyCount, setHistoryCount] = useState<number>(0);
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
 
   // Drag to select state
@@ -198,6 +199,21 @@ function SetupPageContent() {
       } catch (e) {
         console.error("Failed to load IndexedDB progress", e);
         setStats({ total: relevantTotal, learning: relevantTotal }); // fallback
+      }
+
+      try {
+        const histories = await db.history.toArray();
+        const uniqueHistoryCards = new Set(
+          histories
+            .filter(h => {
+              const r = Number(h.rating);
+              return r === 1 || r === 2 || r === 3;
+            })
+            .map(h => h.card_id)
+        );
+        setHistoryCount(uniqueHistoryCards.size);
+      } catch (e) {
+        console.error("Failed to load history count", e);
       }
     }
     loadStats();
@@ -566,7 +582,8 @@ function SetupPageContent() {
               <div className="text-[10px] font-bold text-[var(--color-text-muted)] uppercase tracking-wider">Learn</div>
             </div>
             <Link to="/flashcard/history" className="flex-1 min-w-[50%] sm:min-w-0 flex flex-col items-center justify-center text-center py-1 sm:py-0 hover:text-[var(--color-accent)] transition-colors">
-              <div className="text-sm sm:text-base font-extrabold">History</div>
+              <div className="text-xl sm:text-2xl font-extrabold">{historyCount}</div>
+              <div className="text-[10px] font-bold text-[var(--color-text-muted)] uppercase tracking-wider">History</div>
             </Link>
           </Card>
 
