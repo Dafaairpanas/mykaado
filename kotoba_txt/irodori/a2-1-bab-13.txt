@@ -1,0 +1,91 @@
+電気;でんき;lampu, aliran listrik;tenaga listrik atau penerangan lampu
+点く;つく;menyala (intransitif);lampu atau daya listrik menyala (電気がつく)
+変[な];へん[な];aneh, ganjil;tidak wajar atau mencurigakan keadaannya
+音;おと;suara, bunyi mesin;suara benda mati atau gemerisik mesin
+音がする;おとがする;terdengar bunyi;menimbulkan suara asing atau berisik
+動く;うごく;bergerak, beroperasi;mesin atau perangkat berfungsi normal
+トイレットペーパー;トイレットペーパー;tisu toilet;kertas gulung tisu pembersih toilet
+なくなる;なくなる;habis, lenyap;persediaan barang tandas tidak bersisa
+業者;ぎょうしゃ;vendor, teknisi rekanan;pihak luar atau perusahaan penyedia layanan perbaikan
+電話する;でんわする;menelepon;melakukan panggilan suara lewat telepon
+再起動する;さいきどうする;memulai ulang, me-restart;mematikan lalu menyalakan kembali sistem komputer/mesin
+管理室;かんりしつ;ruang pengelola gedung;kantor manajemen perawatan gedung dan keamanan
+連絡する;れんらくする;menghubungi;memberikan kabar laporan ke bagian terkait
+倉庫;そうこ;gudang penyimpanan;ruangan khusus menyimpan stok barang atau arsip
+取って来る;とってくる;mengambil lalu kembali;pergi mengambil barang lalu kembali lagi ke ruangan
+コーヒーマシーン;コーヒーマシーン;mesin kopi;alat penyeduh kopi otomatis kantor
+パソコン;パソコン;komputer, laptop (PC);perangkat komputer meja atau laptop kerja
+とりあえず;とりあえず;untuk sementara waktu;tindakan penanganan cepat terlebih dahulu sebelum langkah berikutnya
+やり方;やりかた;tata cara pengoperasian;langkah kerja mengoperasikan alat atau melakukan tugas
+終わる;おわる;selesai (intransitif);tugas atau pekerjaan rampung tuntas (仕事が終わる)
+もうすぐ;もうすぐ;sebentar lagi, segera;dalam hitungan waktu singkat akan segera terwujud
+できる;できる;selesai tuntas, rampung;dokumen atau tugas telah berhasil dicetak/diselesaikan
+コピー機;コピーき;mesin fotokopi;perangkat pengganda dokumen kertas kantor
+原稿;げんこう;naskah dokumen asli;lembar master kertas yang akan digandakan
+セットする;セットする;memasang, memposisikan naskah;menaruh dokumen master di atas kaca pemindai
+枚数;まいすう;jumlah lembar;kuantitas jumlah lembaran kertas cetak
+数字;すうじ;angka numerik;karakter angka angka pada tombol mesin
+入れる;いれる;memasukkan angka;mengetikkan nominal angka jumlah salinan
+スタート;スタート;tombol mulai;tombol awal untuk menjalankan proses mesin fotokopi
+ボタン;ボタン;tombol sakelar;tombol mekanik atau digital untuk ditekan
+押す;おす;menekan;mendorong tombol ke bawah dengan jari
+両面;りょうめん;dua sisi, bolak-balik;pencetakan pada kedua sisi muka dan belakang kertas
+片面;かためん;satu sisi;pencetakan hanya pada satu sisi halaman kertas
+カラー;カラー;cetak berwarna;pencetakan dokumen menggunakan aneka tinta warna
+できるだけ;できるだけ;sebisa mungkin;mengupayakan batas maksimal sesuai kebutuhan
+白黒;しろくろ;hitam putih, monokrom;pencetakan hemat hanya memakai tinta hitam saja
+スキャナ;スキャナ;pemindai, scanner;alat digital pemindai naskah kertas ke berkas komputer
+ファックス;ファックス;mesin faks;perangkat pengirim salinan dokumen lewat saluran kabel telepon
+自動選択;じどうせんたく;seleksi otomatis;fitur mesin yang mendeteksi ukuran kertas sendiri
+フルカラー;フルカラー;cetak warna penuh;kualitas pencetakan foto dengan spektrum warna komplit
+２色;にしょく;dua warna;pencetakan terbatas menggunakan 2 paduan warna saja
+単色;たんしょく;warna tunggal;pencetakan hanya memakai 1 warna tinta saja
+自動濃度;じどうのうど;densitas tinta otomatis;pengaturan kepekatan ketebalan tinta secara otomatis
+用紙;ようし;kertas cetak;kertas kosong berbagai ukuran untuk mencetak (A4, B5, dll.)
+手差し;てざし;umpan kertas manual;memasukkan lembaran kertas khusus langsung lewat baki samping
+倍率;ばいりつ;rasio pembesaran/pengecilan;persentase skala ukuran cetak dokumen
+等倍;とうばい;skala 100 persen (1:1);mencetak sesuai ukuran asli naskah tanpa pengubahan
+変倍;へんばい;skala ubah bebas;mengubah rasio cetak secara kustom
+拡大;かくだい;pembesaran dokumen;memperbesar ukuran cetak naskah ke kertas lebih lebar
+縮小;しゅくしょう;pengecilan dokumen;memperkecil ukuran cetak naskah ke kertas lebih mungil
+ソート;ソート;menyortir halaman urut;fitur menyusun salinan kertas sesuai urutan bab halaman
+ホチキス止め;ホチキスどめ;menjilid staples otomatis;fitur mesin yang langsung menjepret dokumen dengan isi staples
+資料;しりょう;berkas materi rapat;lembaran dokumen bahan presentasi atau laporan
+キャビネット;キャビネット;kabinet berkas, lemari arsip;lemari kantor berpenutup atau berlaci untuk menyimpan arsip
+戻す;もどす;mengembalikan ke tempat semula;menaruh kembali barang yang telah dipinjam (元の場所に戻す)
+扉;とびら;daun pintu lemari;pintu penutup rak kabinet
+開ける;あける;membuka;menggeser atau menarik daun pintu lemari (扉を開ける)
+棚;たな;rak bertingkat;papan susun rak tempat meletakkan berkas/benda
+並べる;ならべる;menata berjejer rapi;menyusun barang secara rapi berdampingan (本・椅子を並べる)
+丸い;まるい;bundar melingkar;bentuk meja atau susunan yang melingkar
+出す;だす;mengeluarkan;mengambil barang keluar dari laci atau lemari
+〜列;〜れつ;... baris jajaran;satuan hitung susunan deretan kursi/meja (misal 3列 3 baris)
+後ろ;うしろ;bagian belakang;ruang atau area di sisi punggung
+スペース;スペース;ruang kosong, celah jarak;jarak jeda lowong antar perabot
+あける;あける;memberi jeda jarak, mengosongkan;menyisakan ruang sela lowong (スペースをあける)
+入り口;いりぐち;pintu masuk;akses pintu untuk masuk ke dalam ruangan
+四角い;しかくい;persegi empat;bentuk benda atau meja bersudut siku-siku
+置く;おく;meletakkan, menaruh;menempatkan barang di atas meja atau lantai (机の上に置く)
+会議;かいぎ;rapat formal;pertemuan resmi membahas urusan pekerjaan
+セッティング;セッティング;penataan tata letak;mengatur susunan meja dan kursi di ruang pertemuan
+コの字;コのじ;bentuk huruf U, tapal kuda;susunan formasi meja rapat mengelilingi ruang bagai katakana コ
+準備する;じゅんびする;mempersiapkan;menata segala sarana sebelum rapat dimulai
+人数分;にんずうぶん;sejumlah hadirin peserta;porsi atau rangkap berkas sebanyak jumlah orang yang hadir
+〜部;〜ぶ;... eksemplar, ... bundel;satuan hitung berkas dokumen atau cetakan koran (misal 1部 1 bundel)
+頼む;たのむ;meminta tolong, memesan;memohon bantuan rekan kerja untuk mengerjakan tugas
+いいです;いいです;tidak usah, tidak perlu;penolakan halus atas tawaran bantuan yang diajukan orang
+件名;けんめい;subjek perihal;judul subjek topik pada surat elektronik kantor
+変更;へんこう;perubahan;pengubahan jadwal, tempat, atau ketentuan rapat
+お知らせ;おしらせ;pemberitahuan, pengumuman;informasi resmi yang dibagikan kepada seluruh anggota
+都合が悪い;つごうがわるい;berhalangan, jadwal bentrok;kondisi waktu yang tidak memungkinkan untuk hadir
+注意する;ちゅういする;memperhatikan, berhati-hati;memberi perhatian cermat pada suatu instruksi
+社内メール;しゃないメール;surel internal kantor;email resmi komunikasi antar karyawan dalam satu perusahaan
+打ち合わせ;うちあわせ;rapat koordinasi, meeting;pertemuan kerja membahas langkah taktis teknis pelaksanaan tugas
+日程;にってい;susunan jadwal tanggal;rincian tanggal dan urutan waktu kegiatan
+差出人;さしだしにん;nama pengirim;identitas pihak yang mengirimkan surat/email
+日付;ひづけ;tanggal penulisan;keterangan hari, bulan, dan tahun dokumen dibuat
+皆様;みなさま;Bapak/Ibu sekalian;salam pembuka sangat hormat kepada seluruh staf atau hadirin
+なお;なお;sebagai catatan tambahan;kata sambung formal dalam surel kantor untuk menyisipkan info pelengkap penting
+お知らせします;おしらせします;kami memberitahukan bahwa;bentuk sopan menyampaikan pengumuman resmi (kenjougo)
+ご連絡ください;ごれんらくください;mohon hubungi kami;permohonan sopan agar penerima membalas atau mengontak pengirim
+ご注意ください;ごちゅういください;harap diperhatikan dengan cermat;peringatan sopan agar pembaca memperhatikan poin penting

@@ -1,0 +1,110 @@
+お神輿;おみこし;tandu kuil mikoshi;tandu replika kuil Shinto megah yang diarak warga saat festival
+担ぐ;かつぐ;memikul di pundak, menggotong;mengangkat mikoshi atau beban di atas bahu (おみこしを担ぐ)
+海岸;かいがん;pesisir pantai;daerah pesisir tepi laut
+ごみ;ごみ;sampah, kotoran;barang sisa buangan yang tak terpakai lagi
+拾う;ひろう;memungut dari tanah;mengambil sampah yang berserakan (ごみを拾う)
+出る;でる;mengalir keluar;air mengucur keluar dari keran (水が出る)
+地震;じしん;gempa bumi;getaran lempeng tektonik tanah
+火事;かじ;kebakaran bangunan;peristiwa amukan api yang membakar perumahan
+訓練;くんれん;latihan simulasi;praktik simulasi kesiapsiagaan menghadapi bencana
+断水する;だんすいする;pemadaman aliran air;penghentian sementara pasokan air ledeng pipa
+水道工事;すいどうこうじ;perbaikan saluran pipa air;pekerjaan teknis infrastruktur pipa air minum kota
+濁る;にごる;menjadi keruh (intransitif);air ledeng tampak berwarna keruh kecokelatan (水が濁る)
+使用する;しようする;menggunakan fasilitas;memanfaatkan air atau sarana umum
+お知らせ;おしらせ;pengumuman warga;lembaran surat edaran maklumat penting untuk warga
+下記のとおり;かきのとおり;sebagaimana tercantum di bawah ini;frasa formal penunjuk rincian teks di bagian bawah surat
+しばらく;しばらく;untuk sementara waktu;kurun waktu sesaat
+水を出す;みずをだす;mengalirkan air keran;memutar keran membiarkan air mengalir hingga kembali jernih
+ご迷惑;ごめいわく;ketidaknyamanan, kerepotan;rasa terganggu atau kerepotan warga akibat perbaikan
+ご協力お願いいたします;ごきょうりょくおねがいいたします;mohon bantuan dan kerja sama Anda sekalian;ungkapan permohonan sopan di akhir surat pengumuman
+防災;ぼうさい;mitigasi pencegahan bencana;upaya preventif meminimalisir dampak marabahaya bencana
+小学校;しょうがっこう;Sekolah Dasar (SD);jenjang sekolah dasar formal anak
+校庭;こうてい;lapangan halaman sekolah;area terbuka pekarangan gedung sekolah
+雨天;うてん;cuaca hari hujan;kondisi cuaca saat hujan turun (lawan dari 晴天)
+場合;ばあい;apabila terjadi ..., sekiranya ...;menunjukkan kondisi persyaratan situasi (misal 雨天の場合)
+内容;ないよう;isi materi, konten agenda;muatan topik rangkaian acara simulasi
+通報訓練;つうほうくんれん;simulasi panggilan darurat;latihan menghubungi nomor darurat pemadam 119
+避難訓練;ひなんくんれん;simulasi evakuasi mandiri;latihan menyelamatkan diri ke tempat aman saat bencana
+消火訓練;しょうかくんれん;latihan pemadaman api;praktik menggunakan tabung alat pemadam api ringan (APAR)
+AED訓練;エーイーディーくんれん;pelatihan alat kejut jantung AED;latihan mengoperasikan alat kejut jantung portabel darurat
+隣近所の人;となりきんじょのひと;warga tetangga sekitar;orang-orang yang tinggal di seputar lingkungan rumah
+声をかけ合う;こえをかけあう;saling menyapa dan mengingatkan;berkomunikasi saling memeriksa keselamatan satu sama lain
+条件;じょうけん;syarat ketentuan;ketentuan persyaratan yang wajib dipenuhi
+運動靴;うんどうぐつ;sepatu olahraga kets;alas kaki lentur yang aman untuk bergerak aktif
+動きやすい;うごきやすい;leluasa bergerak aktif;pakaian yang tidak menghalangi gerak badan
+法被;はっぴ;rompi festival happi;busana luaran tradisional Jepang bercorak kanji untuk festival matsuri
+貸し出し;かしだし;peminjaman fasilitas;layanan meminjamkan perlengkapan tanpa dipungut biaya
+希望;きぼう;harapan, permohonan;keinginan untuk berpartisipasi (希望者 calon peminat)
+申し込む;もうしこむ;mendaftarkan diri;mengajukan diri untuk ikut serta dalam kegiatan
+集合;しゅうごう;berkumpul bersama;hadir di titik kumpul pada jam yang ditentukan
+ジーンズ;ジーンズ;celana jin, celana denim;celana kasual berbahan kain denim
+当日;とうじつ;pada hari H pelaksanaan;hari berlangsungnya kegiatan acara
+おいでください;おいでください;silakan datang menghadiri;undangan sopan mempersilakan warga hadir ke lokasi
+延期する;えんきする;mengundur jadwal, menunda;menggeser tanggal pelaksanaan ke waktu mendatang (bukan batal)
+持ち物;もちもの;barang bawaan wajib;daftar barang yang perlu dipersiapkan dibawa peserta
+汚れる;よごれる;menjadi kotor bernoda;pakaian terkena noda lumpur atau debu saat kerja bakti
+軍手;ぐんて;sarung tangan rajut kerja;sarung tangan katun tebal pelindung telapak saat kerja bakti
+〜程度;〜ていど;sekitar kisaran ..., kurang lebih ...;estimasi durasi waktu pelaksanaan (misal 2時間程度 sekitar 2 jam)
+作業;さぎょう;pekerjaan bakti fisik;aktivitas kerja bakti membersihkan lingkungan
+世話役;せわやく;fasilitator, koordinator panitia;penanggung jawab penggerak kegiatan warga
+ボランティアの会;ボランティアのかい;komunitas sukarelawan;perkumpulan warga relawan peduli lingkungan
+ガス;ガス;saluran gas kota;aliran bahan bakar gas rumah tangga
+点検;てんけん;pemeriksaan berkala, inspeksi;mengecek keamanan pipa gas dan kompor
+フリーマーケット;フリーマーケット;pasar loak, flea market;bazar warga menjual barang bekas layak pakai harga murah
+お祭り;おまつり;festival tradisi matsuri;perayaan pesta rakyat tradisional Jepang
+寄付;きふ;donasi sumbangan dana;sumbangan sukarela untuk kemaslahatan warga
+お願い;おねがい;permohonan bantuan;permintaan tolong secara santun kepada sesama warga
+花火大会;はなびたいかい;pesta kembang api musim panas;festival pertunjukan kembang api raksasa di tepi sungai
+今月;こんげつ;bulan ini berjalan;bulan yang sedang berlangsung saat ini
+来月;らいげつ;bulan depan;satu bulan sesudah bulan ini
+ポスト;ポスト;kotak surat rumah;kotak penampung surat edaran dan koran
+ガス会社;ガスがいしゃ;perusahaan penyedia gas;badan usaha penyuplai gas rumah tangga
+間;あいだ;antara jam ... hingga ...;rentang waktu kunjungan petugas teknisi (misal 14時から15時の間)
+封筒;ふうとう;amplop kertas;kantung kertas pembungkus surat tagihan atau edaran
+手紙;てがみ;surat tulisan;kertas pesan tertulis resmi
+〜だけ;〜だけ;hanya sebatas ...;pembatasan pengecualian hal tertentu saja
+中止;ちゅうし;pembatalan acara;acara resmi dibatalkan total (misal karena hujan lebat)
+広場;ひろば;alun-alun lapangan terbuka;area tanah lapang fasilitas publik warga kota
+〜回目;〜かいめ;yang ke-... kali;urutan penyelenggaraan acara (misal 2回目 gelaran ke-2)
+食器;しょっき;perabot makan;aneka piring, mangkuk, gelas, dan sendok
+おもちゃ;おもちゃ;mainan anak-anak;benda sarana bermain anak kecil
+コンサート;コンサート;konser pertunjukan musik;pagelaran musik langsung di depan penonton
+販売会;はんばいかい;bazar penjualan produk;acara pameran jual beli hasil panen atau kerajinan lokal
+カラオケ大会;カラオケたいかい;lomba menyanyi karaoke;kompetisi adu suara vokal karaoke warga
+ブラスバンド;ブラスバンド;orkes tiup, brass band;grup musik instrumen tiup logam dan perkusi
+演奏;えんそう;pertunjukan musik instrumen;memainkan instrumen alat musik di panggung
+踊り;おどり;tarian tradisional;gerakan tari berirama lagu daerah
+練習;れんしゅう;latihan gerakan tari;berlatih tari bon odori bersama-sama
+道の駅;みちのえき;michi-no-eki, rest area jalan raya;pusat peristirahatan tepi jalan raya penampil produk khas lokal
+公民館;こうみんかん;balai warga, balai komunitas;gedung pertemuan serbaguna milik lingkungan warga
+市民センター;しみんセンター;pusat layanan warga kota;gedung administrasi dan aula kegiatan masyarakat
+〜において;〜において;bertempat di ..., berlokasi di ...;kata depan penunjuk lokasi formal tertulis di undangan
+開催する;かいさいする;menyelenggarakan acara;mengadakan gelaran festival atau pameran (bazar, konser)
+入場券;にゅうじょうけん;tiket karcis masuk;karcis tanda bukti pembayaran masuk aula
+販売中;はんばいちゅう;sedang dijual tiketnya;status tiket yang saat ini tersedia dapat dibeli
+ピアノの夕べ;ピアノのゆうべ;malam resital piano;acara malam pertunjukan alunan piano klasik
+および;および;serta, dan juga;kata sambung formal dalam pengumuman tertulis
+〜からお知らせします;〜からおしらせします;pengumuman resmi disampaikan oleh ...;kalimat pembuka dari panitia penyelenggara
+皆様のご来場をお待ちしています;みなさまのごらいじょうをおまちしています;kami menantikan kehadiran Bapak/Ibu sekalian;undangan santun menyambut kedatangan hadirin di pintu aula
+明日;あす / あした;esok hari, besok;hari setelah hari ini (あす ragam lebih formal)
+行う;おこなう;melaksanakan kegiatan;menggelar acara atau rapat warga
+見学する;けんがくする;meninjau melihat-lihat;mengamati jalannya latihan tanpa harus ikut menari
+どなたでも;どなたでも;siapa pun dipersilakan;bentuk sopan terbuka bagi siapa saja warga yang berminat
+〜からのお知らせです;〜からのおしらせです;maklumat pengumuman dari pihak ...;maklumat resmi pembuka siaran warga
+お気軽にお越しください;おきがるにおこしください;silakan mampir dengan santai;anjuran ramah mempersilakan hadirin datang tanpa rasa sungkan
+〜について;〜について;mengenai perihal ...;topik subjek yang sedang dibahas
+本日;ほんじつ;hari ini;ragam formal dari 今日 untuk naskah pengumuman
+開く;ひらく;membuka, menggelar acara;membuka pameran atau menggelar bazar warga
+予定する;よていする;dijadwalkan terlaksana;waktu agenda yang direncanakan berlangsung
+〜についてお知らせします;〜についておしらせします;kami umumkan informasi mengenai ...;kalimat pembuka siaran pengeras suara kelurahan
+お誘い合わせの上、お出かけください;おさそいあわせのうえ、おでかけください;ajaklah serta keluarga dan teman Anda menghadiri acara;anjuran santun mengundang sanak keluarga datang bersama
+地元;じもと;daerah setempat, lokal;lingkungan wilayah asal tempat tinggal
+農家;のうか;keluarga petani lokal;warga yang bermatapencaharian bercocok tanam
+生産する;せいさんする;memproduksi hasil bumi;menghasilkan komoditas sayuran atau kerajinan tangan
+町役場;まちやくば;kantor pemerintah kecamatan/desa;kantor balai pamong praja kelurahan
+盆踊り;ぼんおどり;tarian Bon Odori musim panas;tarian rakyat melingkar di sekeliling panggung yagura saat festival obon
+輪になる;わになる;membentuk formasi lingkaran;berbaris melingkar bersama para penari lain
+〜に合わせて;〜にあわせて;selaras mengiringi irama ...;menyesuaikan ayunan langkah dengan tempo musik (音楽に合わせて)
+誰でも;だれでも;siapa saja tanpa syarat;setiap orang boleh ikut menari
+〜たち;〜たち;rombongan ..., sekalian ...;akhiran jamak untuk orang (misal 娘たち putri-putriku)
+１人で;ひとりで;seorang diri mandiri;melakukan aktivitas tanpa didampingi orang lain

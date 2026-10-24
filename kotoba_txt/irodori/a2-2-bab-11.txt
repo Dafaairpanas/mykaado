@@ -1,0 +1,100 @@
+色;いろ;warna;aneka corak visual warna pakaian
+サイズ;サイズ;ukuran pakaian;dimensi ukuran baju, celana, atau sepatu
+赤;あか;warna merah;warna merah menyala
+青;あお;warna biru;warna biru laut atau langit
+緑;みどり;warna hijau;warna hijau dedaunan
+黄色;きいろ;warna kuning;warna kuning cerah
+黒;くろ;warna hitam;warna hitam gelap
+白;しろ;warna putih;warna putih bersih
+ベージュ;ベージュ;warna krem, beige;warna cokelat muda keabuan pucat
+ピンク;ピンク;merah muda, merah jambu;warna merah muda cerah
+茶色;ちゃいろ;warna cokelat;warna cokelat kayu
+グレー;グレー;warna abu-abu;warna abu-abu semen
+カーキ;カーキ;warna khaki;warna cokelat kehijauan seragam militer
+S;エス;ukuran kecil (Small);ukuran baju paling kecil
+M;エム;ukuran sedang (Medium);ukuran baju standar rata-rata
+L;エル;ukuran besar (Large);ukuran baju berbadan besar
+XL;エックスエル;ekstra besar (Extra Large);ukuran baju sangat besar
+フリー;フリー;satu ukuran untuk semua (all-size);pakaian dengan ukuran fleksibel tanpa varian S/M/L
+〜cm;〜センチ;... sentimeter;ukuran panjang atau nomor sepatu (misal 24.5cm)
+ただいま;ただいま;saat ini, sekarang ini;keterangan waktu saat berlangsungnya promo toko
+全品;ぜんぴん;seluruh produk tanpa kecuali;semua barang dagangan di toko
+〜％オフ;〜パーセントオフ;diskon ... persen;potongan harga jual produk (misal 10％オフ diskon 10 persen)
+セーター;セーター;sweter rajut;baju hangat luaran dari benang wol
+試着室;しちゃくしつ;kamar pas, ruang ganti;ruang kecil tertutup untuk mencoba pakaian
+派手[な];はで[な];mencolok, berwarna ngejreng;corak warna pakaian yang sangat ramai atau menyolok mata
+試着する;しちゃくする;mencoba mengenakan pakaian;mencoba baju di kamar pas sebelum membeli
+よろしければ;よろしければ;jika Anda berkenan;tawaran sangat sopan kepada pelanggan toko
+ごゆっくりご覧ください;ごゆっくりごらんください;silakan lihat-lihat dengan santai;sapaan ramah pelayan toko mempersilakan pembeli berkeliling
+ご案内いたします;ごあんないいたします;saya akan memandu Anda ke tempatnya;ungkapan sopan pelayan mengantar pembeli ke lorong barang
+駐輪場;ちゅうりんじょう;tempat parkir sepeda;area khusus memarkir sepeda atau motor kecil
+インフォメーション;インフォメーション;meja informasi, pusat bantuan;pos layanan informasi bantuan pengunjung di mal
+フードコート;フードコート;pujasera, food court;area makan luas bersama dengan berbagai stan makanan
+探す;さがす;mencari barang;berupaya menemukan benda yang terselip atau toko
+レシート;レシート;struk belanja, nota kasir;kertas bukti pembayaran yang dicetak dari mesin kasir
+救急車;きゅうきゅうしゃ;mobil ambulans;kendaraan medis darurat pengangkut pasien sakit gawat
+盗む;ぬすむ;mencuri;mengambil barang milik orang lain tanpa izin (transitif: 盗む)
+停める;とめる;memarkir kendaraan;memarkirkan mobil atau sepeda di tempat parkir (車・自転車を停める)
+移動する;いどうする;memindahkan, bergeser;berpindah tempat atau memindahkan barang
+急に;きゅうに;tiba-tiba, mendadak;terjadi mendadak tanpa firasat sebelumnya
+ソファ;ソファ;kursi sofa empuk;tempat duduk sofa berlapis busa di lobi mal
+さっき;さっき;tadi, beberapa saat lalu;waktu yang baru saja berselang singkat
+もしかしたら;もしかしたら;jangan-jangan, mungkinkah;dugaan kekhawatiran atas kemungkinan buruk
+取る;とる;mengambil, mencuri;mengambil barang belanjaan orang lain
+ポイントカード;ポイントカード;kartu poin belanja;kartu langganan toko pengumpul poin diskon
+スタンプ;スタンプ;cap stempel toko;cap stempel bertinta pada kartu pelanggan
+スタンプを押す;スタンプをおす;membubuhkan cap stempel;mengecapkan stempel pada kartu belanja
+どうなさいましたか？;どうなさいましたか？;ada masalah apa, apa yang terjadi?;pertanyaan sangat sopan staf informasi menanyakan keluhan tamu
+お持ちください;おもちください;silakan bawa serta;anjuran sopan meminta pembeli membawa struk belanja
+警察;けいさつ;kantor polisi, aparat polisi;petugas penegak hukum dan keamanan
+気分が悪い;きぶんがわるい;tidak enak badan, mual pusing;kondisi fisik mendadak lemas atau pusing di mal
+会員証;かいいんしょう;kartu tanda anggota;kartu identitas member toko atau pusat kebugaran
+お書きください;おかきください;silakan ditulis di lembar ini;anjuran santun meminta tamu mengisi formulir laporan
+どうなさいますか？;どうなさいますか？;apa rencana tindakan Anda?;pertanyaan sopan menanyakan langkah yang diinginkan tamu
+特徴;とくちょう;ciri khas, karakteristik;tanda fisik spesifik barang yang hilang (warna, merek, gantungan)
+値段;ねだん;harga banderol;nilai harga barang yang hilang
+機種;きしゅ;tipe model perangkat;merek dan seri model ponsel yang hilang
+なくす;なくす;menghilangkan barang;tidak sengaja menjatuhkan atau menghilangkan barang bawaan (transitif)
+届く;とどく;diserahkan ke pos temuan;barang tercecer dilaporkan dan diserahkan ke satpam (落とし物が届く)
+スマートフォン;スマートフォン / スマホ;ponsel pintar, smartphone;perangkat telepon genggam pintar
+カバー;カバー;casing pelindung ponsel;sarung pelindung bodi ponsel
+ついている;ついている;dilengkapi dengan;ada gantungan atau stiker yang menempel di barang
+買い物する;かいものする;berbelanja barang;membeli kebutuhan di pusat perbelanjaan
+気づく;きづく;menyadari kehilangan;baru sadar bahwa dompet atau ponsel tidak ada di saku
+そのような;そのような;yang seperti itu cirinya;menunjukkan barang yang memiliki kesamaan ciri
+つながる;つながる;tersambung panggilannya;panggilan telepon berhasil berdering tersambung
+見つかる;みつかる;ditemukan (intransitif);barang yang hilang telah berhasil ditemukan (財布が見つかる)
+遺失物届;いしつぶつとどけ;laporan barang hilang;formulir resmi pelaporan kehilangan barang ke polisi/satpam mal
+連絡をとる;れんらくをとる;menghubungi kontak;mengontak pemilik barang yang tertinggal
+お調べいたします;おしらべいたします;saya akan segera memeriksanya;jawaban sopan staf informasi mengecek daftar temuan barang
+落とし物;おとしもの;barang temuan tercecer;benda milik pengunjung yang jatuh atau tertinggal
+案内;あんない;informasi panduan;pengumuman informasi jadwal atau lokasi
+呼び出し;よびだし;panggilan pengumuman nama;pengumuman memanggil pengunjung lewat pelantang suara
+営業時間;えいぎょうじかん;jam operasional buka toko;rentang jam buka toko dari pagi hingga tutup malam
+セール;セール;obral diskon besar (sale);promosi potongan harga produk di toko
+延長する;えんちょうする;memperpanjang durasi waktu;menambah jam buka toko lebih malam
+営業する;えいぎょうする;beroperasi, membuka toko;toko melayani transaksi pelanggan
+レストラン街;レストランがい;area sentra restoran mal;lantai khusus yang dipenuhi deretan restoran di mal
+開催中;かいさいちゅう;sedang berlangsung digelar;acara promosi pameran yang saat ini aktif berjalan
+通常どおり;つうじょうどおり;sebagaimana hari biasa;berjalan normal tanpa ada perubahan jam operasional
+くり返しご案内いたします;くりかえしごあんないいたします;sekali lagi kami sampaikan pengumuman;kalimat siaran pengeras suara mengulang info penting
+先ほど;さきほど;beberapa saat yang lalu;ragam sopan dari さっき merujuk waktu baru saja
+婦人服;ふじんふく;busana wanita;pakaian dan gaun khusus perempuan
+婦人服売り場;ふじんふくうりば;area penjualan pakaian wanita;lantai atau stan khusus menjual busana wanita
+お買い上げ;おかいあげ;pembelian barang belanjaan;sebutan sangat hormat untuk belanjaan konsumen (お買い上げいただき)
+恐れ入りますが;おそれいりますが;mohon maaf sebesar-besarnya, namun ...;kalimat pembuka santun sebelum menyampaikan panggilan pelanggan
+お呼び出しを申し上げます;およびだしをもうしあげます;kami tujukan panggilan kepada ...;maklumat sopan memanggil nama pelanggan lewat pengeras suara
+お伝えしたいことがございます;おつたえしたいことがございます;ada informasi penting untuk Anda;pemberitahuan sopan bahwa ada pesan atau barang tertinggal
+お越しください;おこしください;silakan segera menuju ke ...;anjuran sangat sopan meminta pelanggan datang ke pusat informasi
+男性用;だんせいよう;khusus untuk pria;peruntukan barang bagi kaum laki-laki
+鍵;かぎ;anak kunci;alat logam pembuka gembok atau mobil
+心当たり;こころあたり;merasa memiliki informasi terkait;merasa barang tersebut miliknya atau tahu pemiliknya
+インフォメーションカウンター;インフォメーションカウンター;meja konter layanan informasi;meja pos pelayanan pelanggan di lobi utama
+〜フェア;〜フェア;pekan raya promosi ...;pameran tematik produk daerah (misal 北海道フェア)
+海の幸;うみのさち;boga bahari, sari laut;anugerah hasil laut segar nan lezat (kepiting, kerang, ikan)
+スイーツ;スイーツ;aneka hidangan penutup manis;penganan kue, puding, dan es krim manis
+秋の味覚;あきのみかく;cita rasa kuliner musim gugur;kelezatan aneka bahan pangan musiman khas musim gugur (jamur, ubi, ikan)
+〜限り;〜かぎり;hanya terbatas selama ...;pembatasan durasi promo (misal 1週間限り hanya 1 minggu)
+札幌;さっぽろ;Sapporo;ibu kota Prefektur Hokkaido yang terkenal dengan festival salju dan kuliner
+機会;きかい;kesempatan emas;peluang baik untuk berbelanja produk khas langka
+ご来場を心からお待ちしております;ごらいじょうをこころからおまちしております;kami nantikan kehadiran Anda dengan sepenuh hati;kalimat penutup sopan siaran promosi menyambut pengunjung

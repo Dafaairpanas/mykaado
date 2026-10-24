@@ -11,7 +11,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "iklim periodik dalam siklus satu tahun"
   },
   {
     "id": "ir-a2-1-03-002",
@@ -25,7 +26,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ujaran kata lisan maupun tulisan"
   },
   {
     "id": "ir-a2-1-03-003",
@@ -39,7 +41,8 @@
     "chapter": "Bab 03",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "suhu udara lingkungan yang panas terik"
   },
   {
     "id": "ir-a2-1-03-004",
@@ -53,7 +56,8 @@
     "chapter": "Bab 03",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hawa udara sejuk menyegarkan khas awal musim gugur"
   },
   {
     "id": "ir-a2-1-03-005",
@@ -67,7 +71,8 @@
     "chapter": "Bab 03",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "suhu udara lingkungan yang menusuk dingin"
   },
   {
     "id": "ir-a2-1-03-006",
@@ -81,7 +86,8 @@
     "chapter": "Bab 03",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "suhu udara musim semi yang nyaman tidak dingin"
   },
   {
     "id": "ir-a2-1-03-007",
@@ -95,7 +101,8 @@
     "chapter": "Bab 03",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "kondisi ruangan atau udara berkadar uap air tinggi"
   },
   {
     "id": "ir-a2-1-03-008",
@@ -109,7 +116,8 @@
     "chapter": "Bab 03",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hawa panas terik campur lembap tinggi khas musim panas Jepang"
   },
   {
     "id": "ir-a2-1-03-009",
@@ -123,7 +131,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "butiran tetesan air yang turun dari langit"
   },
   {
     "id": "ir-a2-1-03-010",
@@ -137,7 +146,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "presipitasi cuaca dari langit (雨・雪が降る)"
   },
   {
     "id": "ir-a2-1-03-011",
@@ -151,7 +161,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "butiran kristal es putih dari langit di musim dingin"
   },
   {
     "id": "ir-a2-1-03-012",
@@ -165,7 +176,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bunga ikonik mekar khas musim semi Jepang"
   },
   {
     "id": "ir-a2-1-03-013",
@@ -179,7 +191,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "tumbuhan berbunga aneka warna"
   },
   {
     "id": "ir-a2-1-03-014",
@@ -193,7 +206,8 @@
     "chapter": "Bab 03",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "kelopak bunga membuka mekar (花が咲く)"
   },
   {
     "id": "ir-a2-1-03-015",
@@ -207,7 +221,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "perubahan warna merah keemasan daun pohon mapel musim gugur"
   },
   {
     "id": "ir-a2-1-03-016",
@@ -221,7 +236,8 @@
     "chapter": "Bab 03",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "keindahan pemandangan rupa atau kebersihan ruangan"
   },
   {
     "id": "ir-a2-1-03-017",
@@ -235,7 +251,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "serangga musim panas yang berderik nyaring di dahan pohon"
   },
   {
     "id": "ir-a2-1-03-018",
@@ -249,7 +266,8 @@
     "chapter": "Bab 03",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "bunyi kicauan burung, gonggong hewan, atau derik serangga"
   },
   {
     "id": "ir-a2-1-03-019",
@@ -263,7 +281,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "musim mekarnya bunga (Maret - Mei di Jepang)"
   },
   {
     "id": "ir-a2-1-03-020",
@@ -277,7 +296,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "periode hujan lebat lembap sekitar Juni - pertengahan Juli di Jepang"
   },
   {
     "id": "ir-a2-1-03-021",
@@ -291,7 +311,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "musim terik bersuhu tinggi (Juni - Agustus)"
   },
   {
     "id": "ir-a2-1-03-022",
@@ -305,7 +326,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "musim panen dan daun memerah bersuhu sejuk (September - November)"
   },
   {
     "id": "ir-a2-1-03-023",
@@ -319,7 +341,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "musim salju dan suhu beku (Desember - Februari)"
   },
   {
     "id": "ir-a2-1-03-024",
@@ -333,7 +356,8 @@
     "chapter": "Bab 03",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jumlah kuantitas benda atau tindakan yang melimpah"
   },
   {
     "id": "ir-a2-1-03-025",
@@ -347,7 +371,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "lembaga pendidikan formal"
   },
   {
     "id": "ir-a2-1-03-026",
@@ -361,7 +386,8 @@
     "chapter": "Bab 03",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "berubah keadaan menjadi kondisi tertentu (misal 休みになる tiba masa libur)"
   },
   {
     "id": "ir-a2-1-03-027",
@@ -375,7 +401,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "berlangsung terus menerus selama 12 bulan penuh"
   },
   {
     "id": "ir-a2-1-03-028",
@@ -389,7 +416,8 @@
     "chapter": "Bab 03",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ukuran bentang jarak atau durasi waktu yang lama"
   },
   {
     "id": "ir-a2-1-03-029",
@@ -403,7 +431,8 @@
     "chapter": "Bab 03",
     "type": "adv",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "berlangsung tanpa putus atau perbandingan yang terpaut jauh"
   },
   {
     "id": "ir-a2-1-03-030",
@@ -417,7 +446,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "musim banyak turun hujan di wilayah tropis"
   },
   {
     "id": "ir-a2-1-03-031",
@@ -431,7 +461,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "musim kering tanpa banyak hujan di wilayah tropis"
   },
   {
     "id": "ir-a2-1-03-032",
@@ -445,7 +476,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "siklus lengkap musim semi, panas, gugur, dan dingin"
   },
   {
     "id": "ir-a2-1-03-033",
@@ -459,7 +491,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tidak memiliki perbedaan wujud maupun sifat"
   },
   {
     "id": "ir-a2-1-03-034",
@@ -473,7 +506,8 @@
     "chapter": "Bab 03",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "satuan ukuran suhu temperatur (misal 40度)"
   },
   {
     "id": "ir-a2-1-03-035",
@@ -487,7 +521,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tanda nilai suhu di bawah titik beku (misal マイナス5度)"
   },
   {
     "id": "ir-a2-1-03-036",
@@ -501,7 +536,8 @@
     "chapter": "Bab 03",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ukuran dimensi jarak pendek atau durasi waktu sebentar"
   },
   {
     "id": "ir-a2-1-03-037",
@@ -515,7 +551,8 @@
     "chapter": "Bab 03",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ungkapan menyimak info baru yang belum diketahui sebelumnya"
   },
   {
     "id": "ir-a2-1-03-038",
@@ -529,7 +566,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "hasil bumi buah manis segar tanaman"
   },
   {
     "id": "ir-a2-1-03-039",
@@ -543,7 +581,8 @@
     "chapter": "Bab 03",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "cita rasa makanan yang nikmat di lidah"
   },
   {
     "id": "ir-a2-1-03-040",
@@ -557,7 +596,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pemandangan visual panorama sekitar"
   },
   {
     "id": "ir-a2-1-03-041",
@@ -571,7 +611,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "dataran alam yang menjulang tinggi"
   },
   {
     "id": "ir-a2-1-03-042",
@@ -585,7 +626,8 @@
     "chapter": "Bab 03",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "melakukan aktivitas hiburan dan rekreasi"
   },
   {
     "id": "ir-a2-1-03-043",
@@ -599,7 +641,8 @@
     "chapter": "Bab 03",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "memiliki rasa gemar dan minat positif pada suatu hal"
   },
   {
     "id": "ir-a2-1-03-044",
@@ -613,7 +656,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "lemah dalam suatu hal atau tidak tahan hawa tertentu (暑さが苦手)"
   },
   {
     "id": "ir-a2-1-03-045",
@@ -627,7 +671,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tingkatan superlatif teratas di antara semuanya"
   },
   {
     "id": "ir-a2-1-03-046",
@@ -641,7 +686,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata tanya menanyakan alasan atau penyebab"
   },
   {
     "id": "ir-a2-1-03-047",
@@ -655,7 +701,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata tanya memilih satu objek di antara tiga pilihan atau lebih"
   },
   {
     "id": "ir-a2-1-03-048",
@@ -669,7 +716,8 @@
     "chapter": "Bab 03",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "akhiran kalimat mengajak lawan bicara menyetujui pendapat pembicara"
   },
   {
     "id": "ir-a2-1-03-049",
@@ -683,7 +731,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "buah buni manis berair bergerombol"
   },
   {
     "id": "ir-a2-1-03-050",
@@ -697,6 +746,7 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "buah pir berair manis renyah khas Asia"
   }
 ]

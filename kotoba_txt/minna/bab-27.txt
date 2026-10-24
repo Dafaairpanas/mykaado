@@ -1,0 +1,87 @@
+～しか;～しか;hanya ... / cuma ...;Diikuti bentuk negatif untuk menegaskan keterbatasan (cth: 100円しかない = cuma punya 100 yen)
+～教室;～きょうしつ;kursus ... / les ...;Kelas les keterampilan atau kursus hobi (cth: 料理教室, ピアノ教室)
+～後;～ご;setelah ... / lewat ...;Rentang waktu setelah momen tertentu (cth: 3か月後 = 3 bulan kemudian)
+いつか;いつか;suatu saat nanti / suatu hari;Waktu di masa depan yang belum tentu kapan (cth: いつか日本へ行きたい)
+キッチン;キッチン;dapur;Ruangan dapur memasak gaya modern (sinonim: 台所)
+クリーニング;クリーニング;jasa cuci binatu / laundry;Layanan binatu pakaian profesional (クリーニングに出す)
+すばらしい;すばらしい;luar biasa hebat / mengagumkan;Pujian atas karya, pemandangan, atau penampilan memukau
+できます;できます;selesai dibangun / terbentuk / rampung;Jalan raya rampung (道ができる), punya teman baru (友達ができる)
+ドラえもん;ドラえもん;Doraemon;Karakter robot kucing abad ke-22 populer karya Fujiko F. Fujio
+パーティールーム;パーティールーム;ruang pesta;Ruang sewa khusus untuk perayaan pesta bersama di apartemen
+はっきり;はっきり;jelas / tegas;Melihat atau mendengar dengan gamblang tanpa samar-samar (cth: はっきり見える)
+ペット;ペット;hewan peliharaan;Hewan kesayangan piaraan di rumah (anjing, kucing, burung)
+ほかの;ほかの;yang lain;Menunjuk benda atau orang alternatif lain (ほかの人, ほかの本)
+ポケット;ポケット;kantong saku baju;Saku pakaian untuk menyimpan uang kecil atau barang saku
+マンション;マンション;apartemen / kondominium;Gedung hunian bertingkat modern berdinding beton kokoh
+家;いえ;rumah / kediaman;Bangunan tempat tinggal fisik rumah
+家具;かぐ;perabot rumah / mebel;Perabotan rumah tangga (meja, kursi, lemari pakaian)
+花火;はなび;kembang api;Letusan bunga api warna-warni memukau di langit malam musim panas Jepang
+開きます;ひらきます;membuka / menyelenggarakan;Membuka kelas kursus baru, atau menyelenggarakan pameran (教室を開く)
+空;そら;langit;Cakrawala angkasa biru di atas bumi
+形;かたち;bentuk / wujud rupa;Wujud fisik geometri atau siluet suatu objek
+建てます;たてます;membangun / mendirikan;Mendirikan rumah atau gedung bangunan bertingkat (transitif: 家を建てる)
+見えます;みえます;terlihat (alami/spontan);Objek terlihat masuk ke dalam pandangan mata tanpa perlu usaha (gunung ditandai が: 富士山が見える)
+子どもたち;こどもたち;anak-anak;Sekelompok anak kecil
+飼います;かいます;memelihara (hewan);Merawat dan memberi makan hewan peliharaan (transitif: 犬を飼う)
+自分;じぶん;diri sendiri;Pribadi diri sendiri secara mandiri (自分でやる)
+自由に;じゆうに;dengan bebas;Melakukan sesuatu tanpa kekangan atau aturan ketat (cth: 自由に使ってください)
+主人公;しゅじんこう;tokoh utama / protagonis;Pemeran karakter utama dalam novel, film, atau komik
+将来;しょうらい;masa depan / kelak;Hari depan kehidupan seseorang nanti (cth: 将来の夢)
+心配［な］;しんぱい［な］;khawatir / cemas;Perasaan gelisah memikirkan masa depan atau keselamatan orang
+声;こえ;suara (manusia/hewan);Bunyi vokal yang keluar dari pita suara makhluk bernyawa (声が聞こえる)
+昔;むかし;dahulu kala / zaman dahulu;Masa lampau bertahun-tahun yang lalu (昔々 = pada zaman dahulu)
+走ります;はしります;melaju / beroperasi di jalan;Kereta atau mobil melaju di jalan tol (道・新幹線が走る)
+大好き［な］;だいすき［な］;sangat suka / gemar sekali;Tingkat kesukaan yang sangat mendalam,  lebih kuat dari 好き
+鳥;とり;burung / unggas;Hewan berbulu dan bersayap yang terbang di angkasa
+道具;どうぐ;alat / perkakas;Peralatan untuk memudahkan pekerjaan (cth: 大工の道具)
+波;なみ;ombak laut / gelombang;Gulungan ombak di pantai pesisir laut
+飛びます;とびます;terbang melayang;Melayang di udara bebas dengan sayap atau mesin
+不思議［な］;ふしぎ［な］;ajaib / aneh / misterius;Hal luar biasa yang tidak masuk akal nalar biasa
+付けます;つけます;memasang / menempelkan;Memasang kantong saku, menempelkan stiker, atau menambahkan aksesoris
+聞こえます;きこえます;terdengar (alami/spontan);Bunyi suara tertangkap gendang telinga tanpa disengaja (bunyi ditandai が: 音が聞こえる)
+方;かた;orang (ragam sopan);Bentuk halus dan sopan (sonkeigo) dari 人 (ひと)
+本棚;ほんだな;rak buku / lemari buku;Papan susun tempat menata buku bacaan
+例えば;たとえば;misalnya / contohnya;Mengawali penyebutan contoh konkret ilustrasi
+ATM;エーティーエム;mesin ATM;Anjungan tunai mandiri transaksi bank
+クリーニング屋;クリーニングや;toko binatu / laundry;Toko jasa pencucian dan penyetrikaan pakaian
+コピー、ファクス;コピー、ファクス;fotokopi dan mesin faks;Layanan penggandaan dokumen dan pengiriman faksimili di minimarket
+コンサートチケットの販売;コンサートチケットのはんばい;penjualan tiket konser;Layanan pembelian tiket pertunjukan musik di mesin minimarket
+コンビニ;コンビニ;minimarket (24 jam);Toko kelontong modern penyedia aneka layanan kebutuhan publik
+サービスサイズ;サービスサイズ;ukuran foto standar (3R/4R);Ukuran standar cetak foto kertas harian (L-size)
+サイズ直し;サイズなおし;permak ukuran pakaian;Memotong atau mengecilkan ukuran pakaian agar pas di badan
+スライド;スライド;film slide;Lembaran film proyektor gambar transparan
+つま先修理;つまさきしゅうり;perbaikan ujung sepatu;Reparasi bagian moncong depan sepatu yang rusak/terkelupas
+ドライクリーニング;ドライクリーニング;cuci kering (dry cleaning);Mencuci pakaian wol/jas menggunakan larutan kimia khusus tanpa air
+ネガ;ネガ;klise film / film negatif;Lembaran pita negatif foto analog kamera analog
+はがき・切手の販売;はがき・きってのはんばい;penjualan kartu pos & perangko;Layanan pos yang tersedia di kasir minimarket Jepang
+はっ水加工;はっすいかこう;lapisan anti-air (water repellent);Pelapisan bahan kimia penolak butiran air pada jaket/sepatu
+パノラマサイズ;パノラマサイズ;ukuran foto panorama;Format cetak foto memanjang horizontal berpemandangan luas
+ハンドル・持ち手交換;ハンドル・もちてこうかん;ganti pegangan tas;Reparasi mengganti tali jinjingan koper atau tas kulit yang putus
+ヒール・かかと修理;ヒール・かかとしゅうり;reparasi hak / tumit sepatu;Memperbaiki bantalan hak sepatu wanita atau sol tumit sepatu pria yang aus
+ファスナー交換;ファスナーこうかん;ganti ritsleting;Mengganti resleting jaket atau tas yang macet patah
+プリント;プリント;cetak foto digital / lembar tugas;Mencetak foto kamera ke kertas foto, atau lembar tugas kertas
+ほつれ・縫い目の修理;ほつれ・ぬいめのしゅうり;perbaikan jahitan robek;Menjahit kembali jahitan benang pakaian yang terlepas/robek
+ほとんど;ほとんど;hampir semuanya;Sebagian besar kuantitas (sekitar 85-95%)
+ロボット;ロボット;robot otomatis;Perangkat mesin mekanik terprogram
+引き伸ばし;ひきのばし;pembesaran cetak foto;Mencetak ulang foto ke ukuran lembaran poster yang lebih besar
+近くの店;ちかくのみせ;toko sekitar lingkungan rumah;Pertokoan lingkungan sekitar pemukiman
+靴・かばん修理、合いかぎ;くつ・かばんしゅうり、あいかぎ;reparasi sepatu-tas & duplikat kunci;Jasa terpadu servis perbaikan tas/sepatu dan duplikat kunci
+現像;げんぞう;cuci klise film (developing);Proses kimiawi memunculkan gambar dari rol film analog gelap
+公共料金等の支払い;こうきょうりょうきんとうのしはらい;pembayaran tagihan utilitas umum;Membayar tagihan listrik, air, dan gas di kasir minimarket Jepang
+合いかぎ;あいかぎ;kunci cadangan / duplikat kunci;Kunci tiruan serep pintu rumah atau kendaraan (kanji: 合鍵)
+自動販売機;じどうはんばいき;mesin jual otomatis;Vending machine mandiri minuman dingin/panas
+写真屋;しゃしんや;studio / toko cetak foto;Toko jasa pemotretan dan cetak pasfoto/album
+写真現像;しゃしんげんぞう;cuci cetak foto;Proses mencuci rol film dan mencetaknya ke lembaran foto
+取ります;とります;mengambil (cuti);Mengambil hak libur kerja (cth: 休みを取る)
+縮む;ちぢむ;menyusut / menciut;Ukuran kain baju mengecil setelah dicuci air panas (intransitif,  lawan dari 伸びる)
+焼き増し;やきまし;cetak ulang foto tambahan;Mencetak lembar tambahan dari rol klise atau file foto yang sama
+伸びる;のびる;melar / meregang;Bahan rajut melar memanjang (intransitif,  lawan dari 縮む)
+水洗い;みずあらい;cuci dengan air;Mencuci pakaian biasa memakai air dan detergen sabun
+染み抜き;しみぬき;penghilangan noda membandel;Membersihkan noda minyak, kopi, atau saus dari serat pakaian di laundry
+宅配便の受け付け;たくはいびんのうけつけ;penerimaan kiriman paket kilat;Layanan menitipkan paket kurir kilat takkyubin di kasir minimarket
+中敷き交換;なかじきこうかん;ganti bantalan sol dalam sepatu;Mengganti insole pengalas telapak kaki bagian dalam sepatu
+昼間;ひるま;waktu siang hari;Kurun waktu dari fajar matahari terbit hingga senja petang,  lawan dari 夜間
+通信販売;つうしんはんばい;belanja jarak jauh / belanja online;Membeli barang via pos, katalog, atau internet (disingkat 通販)
+日曜大工;にちようだいく;pertukangan mandiri (DIY);Aktivitas membuat mebel rak kayu sendiri di rumah saat akhir pekan
+漫画;まんが;komik / manga;Buku cerita bergambar berpanel khas budaya Jepang
+夢;ゆめ;impian / cita-cita / mimpi;Harapan masa depan yang ingin diraih, atau mimpi saat tidur

@@ -10,7 +10,8 @@
     "chapter": "Bab 33",
     "type": "particle",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan estimasi taksiran jumlah kuantitas atau waktu (sinonim: ～くらい)"
   },
   {
     "id": "mn-33-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan aktivitas yang sedang berlangsung berjalan (cth: 授業中, 使用中)"
   },
   {
     "id": "mn-33-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sapaan ramah atau pidato sambutan sepatah kata (あいさつをする)"
   },
   {
     "id": "mn-33-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 33",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Berhenti berjuang karena merasa tidak sanggup (transitif: 夢をあきらめる)"
   },
   {
     "id": "mn-33-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sisa kuantitas atau waktu yang tertinggal (cth: あと5分 = sisa 5 menit lagi)"
   },
   {
     "id": "mn-33-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 33",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menerima panggilan sambungan telepon masuk (cth: 電話がある)"
   },
   {
     "id": "mn-33-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan pengandaian batas usaha (cth: いくら安くても買わない)"
   },
   {
     "id": "mn-33-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan larangan keras atau kegagalan hasil"
   },
   {
     "id": "mn-33-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menanyakan arti maksud dari suatu tanda rambu atau istilah (cth: どういう意味ですか)"
   },
   {
     "id": "mn-33-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bola karet untuk bermain sepak bola, tenis, atau bisbol"
   },
   {
     "id": "mn-33-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Simbol piktogram atau logo penanda peringatan (mark)"
   },
   {
     "id": "mn-33-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 33",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Diikuti bentuk kalimat negatif menyatakan penghentian (cth: もう走れない)"
   },
   {
     "id": "mn-33-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 33",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menambah derajat kualitas atau kuantitas (cth: もっと勉強してください)"
   },
   {
     "id": "mn-33-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi asal pembawaan sejak mula pertama"
   },
   {
     "id": "mn-33-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 33",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengolah kembali barang limbah bekas menjadi barang berguna (recycle)"
   },
   {
     "id": "mn-33-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Paket bebas memesan minuman beralkohol/soda sepuasnya dalam batas waktu"
   },
   {
     "id": "mn-33-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 33",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Meninggalkan meja kerja sementara waktu (transitif: 席を外す)"
   },
   {
     "id": "mn-33-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pengurangan nominal harga barang dagangan (cth: 2割引 = diskon 20%)"
   },
   {
     "id": "mn-33-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 33",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Situasi atau area yang berisiko mencelakai nyawa,  lawan dari 安全"
   },
   {
     "id": "mn-33-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi emosi batin atau sensasi fisik raga"
   },
   {
     "id": "mn-33-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ketentuan hukum atau aturan tertulis yang wajib ditaati"
   },
   {
     "id": "mn-33-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 33",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Terjadinya kecelakaan atau peristiwa bencana (intransitif: 事故が起きる)"
   },
   {
     "id": "mn-33-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Instansi penegak hukum aparat polisi pemerintah"
   },
   {
     "id": "mn-33-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tanda rambu larangan mengoperasikan fasilitas/mesin"
   },
   {
     "id": "mn-33-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Penanda toilet atau ruangan yang sedang ada pemakainya"
   },
   {
     "id": "mn-33-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 33",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Upacara seremonial atau pertandingan dimulai (intransitif)"
   },
   {
     "id": "mn-33-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 33",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menaati aturan peraturan tata tertib, atau melindungi janji (transitif)"
   },
   {
     "id": "mn-33-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pintu untuk meninggalkan area stasiun atau gedung"
   },
   {
     "id": "mn-33-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 33",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Hadir dalam rapat, upacara, atau seminar resmi (acara ditandai に)"
   },
   {
     "id": "mn-33-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 33",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Bekerja sama saling membantu saat tertimpa kesusahan"
   },
   {
     "id": "mn-33-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rambu kendaraan wajib melaju lambat siap berhenti mendadak"
   },
   {
     "id": "mn-33-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kursi atau bangku tempat duduk di ruangan atau kereta"
   },
   {
     "id": "mn-33-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Orang yang menjadi lawan bicara atau lawan tanding olahraga"
   },
   {
     "id": "mn-33-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 33",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membuat suara gaduh bising yang mengganggu ketenangan (騒ぐな = jangan ribut!)"
   },
   {
     "id": "mn-33-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bencana guncangan seismik lempeng kerak bumi"
   },
   {
     "id": "mn-33-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 33",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Waspada terhadap laju mobil di jalan (車に注意する)"
   },
   {
     "id": "mn-33-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 33",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pelanggaran hukum memarkir kendaraan di area terlarang"
   },
   {
     "id": "mn-33-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Tenggat batas waktu penyerahan tugas naskah atau berkas"
   },
   {
     "id": "mn-33-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 33",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Meneruskan pesan amanat kepada orang lain (transitif: メッセージを伝える)"
   },
   {
     "id": "mn-33-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 33",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Melemparkan bola ke arah sasaran target (transitif: ボールを投げる)"
   },
   {
     "id": "mn-33-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 33",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kabur dari bahaya kebakaran atau melarikan diri dari kejaran (intransitif)"
   },
   {
     "id": "mn-33-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tidak berbeda sifat atau wujudnya,  lawan dari 違う"
   },
   {
     "id": "mn-33-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pintu akses masuk ke dalam gedung atau ruangan"
   },
   {
     "id": "mn-33-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hukuman denda uang atas pelanggaran hukum lalu lintas"
   },
   {
     "id": "mn-33-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 33",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perasaan duka nestapa di dalam batin,  lawan dari うれしい"
   },
   {
     "id": "mn-33-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pintu jalur evakuasi keselamatan saat bahaya kebakaran/gempa"
   },
   {
     "id": "mn-33-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tanda sedang menerima lamaran kerja atau murid baru"
   },
   {
     "id": "mn-33-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bebas biaya tanpa pungutan tarif uang"
   },
   {
     "id": "mn-33-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 33",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kembali ke ruangan kantor seusai urusan selesai"
   },
   {
     "id": "mn-33-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rambu larangan keras bagi orang luar melangkah masuk ke area tersebut"
   },
   {
     "id": "mn-33-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Petunjuk perawatan cucian pakaian halus dengan suhu setrika dingin"
   },
   {
     "id": "mn-33-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Instruksi mencuci pakaian jas wol tanpa menggunakan air biasa"
   },
   {
     "id": "mn-33-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 33",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Stiker daun hijau-kuning penanda mobil yang dikemudikan pengemudi baru"
   },
   {
     "id": "mn-33-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tanda papan toko/restoran sedang beroperasi buka"
   },
   {
     "id": "mn-33-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Petunjuk pakaian tidak boleh dicuci cairan pemutih agar tidak luntur"
   },
   {
     "id": "mn-33-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Ragam sopan halus penunjuk ruangan toilet wanita/pria"
   },
   {
     "id": "mn-33-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Peringatan keras bahaya ledakan dilarang membawa rokok/api di dekat bahan kimia"
   },
   {
     "id": "mn-33-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Stiker paket peringatan hati-hati membawa wadah kaca/keramik"
   },
   {
     "id": "mn-33-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Tempat duduk bebas asap rokok di dalam restoran atau gerbong kereta"
   },
   {
     "id": "mn-33-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rambu penanda jalan sedang diperbaiki atau ada proyek pembangunan gedung"
   },
   {
     "id": "mn-33-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 33",
     "type": "adv",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Instruksi cucian baju wajib dikucek manual tangan tanpa mesin cuci"
   },
   {
     "id": "mn-33-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tanda restoran sedang jeda menyiapkan bahan sebelum jam buka sesi berikutnya"
   },
   {
     "id": "mn-33-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari libur rutin mingguan tutupnya suatu toko atau museum"
   },
   {
     "id": "mn-33-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Toko mengakhiri operasional jam kerja hari tersebut,  lawan dari 開店"
   },
   {
     "id": "mn-33-065",
@@ -842,6 +906,7 @@
     "chapter": "Bab 33",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Meja restoran yang sudah dipesan terlebih dahulu oleh pelanggan lain"
   }
 ]

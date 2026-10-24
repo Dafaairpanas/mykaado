@@ -10,7 +10,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Nasi bercuka berpuncak irisan ikan laut mentah segar (sashimi)"
   },
   {
     "id": "mn-12-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perayaan budaya tradisional kuil di Jepang dengan arak-arakan kuil mikoshi"
   },
   {
     "id": "mn-12-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 12",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Memilih opsi yang disukai saat ditawari (cth: コーヒーがいいです)"
   },
   {
     "id": "mn-12-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tingkat superlatif dalam perbandingan (cth: 日本で一番高い山)"
   },
   {
     "id": "mn-12-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 12",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sambutan ramah orang di rumah menyambut orang yang baru pulang (ただいま)"
   },
   {
     "id": "mn-12-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara pulau modern di Asia Tenggara"
   },
   {
     "id": "mn-12-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Masakan daging sapi iris tipis rebusan kecap manis dan sayur dalam panci panas (hotpot)"
   },
   {
     "id": "mn-12-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 12",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Seruan takjub melihat lautan kerumunan banyak orang"
   },
   {
     "id": "mn-12-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 12",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan perbandingan yang jauh lebih unggul (cth: ずっと美味しい)"
   },
   {
     "id": "mn-12-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 12",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ucapan salam saat baru tiba kembali di rumah atau kantor"
   },
   {
     "id": "mn-12-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Gorengan udang atau sayuran berbalut adonan tepung krispi khas Jepang"
   },
   {
     "id": "mn-12-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata tanya untuk memilih 1 di antara 2 pilihan (cth: どちらが好きですか)"
   },
   {
     "id": "mn-12-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan kedua pilihan sama-sama terpilih (cth: どちらも好きです)"
   },
   {
     "id": "mn-12-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Daging unggas ayam konsumsi (sering juga ditulis 鳥肉)"
   },
   {
     "id": "mn-12-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Acara perayaan berkumpul makan-minum (パーティーをする = berpesta)"
   },
   {
     "id": "mn-12-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Penginapan modern bertaraf komersial"
   },
   {
     "id": "mn-12-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Wilayah administratif khusus di pesisir selatan Tiongkok (香港)"
   },
   {
     "id": "mn-12-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Buah jeruk sitrun kuning berasa asam segar"
   },
   {
     "id": "mn-12-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 12",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Seruan spontan rasa takjub, kagum, atau terkejut"
   },
   {
     "id": "mn-12-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tetesan air curahan presipitasi dari langit (雨が降る = turun hujan)"
   },
   {
     "id": "mn-12-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 12",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jarak tempuh fisik yang membentang jauh,  lawan kata dari 近い"
   },
   {
     "id": "mn-12-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 12",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Suhu sentuhan minuman sup atau kehangatan hati (lawan kata dari 冷たい)"
   },
   {
     "id": "mn-12-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Musim bersuhu terik di Jepang (Juni - Agustus)"
   },
   {
     "id": "mn-12-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perairan lautan asin luas atau pantai pesisir"
   },
   {
     "id": "mn-12-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 12",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rasa gula, madu, atau permen,  lawan kata dari 辛い (pedas/asin)"
   },
   {
     "id": "mn-12-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 12",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tidak rumit dan mudah dikerjakan,  lawan kata dari 難しい atau 複雑"
   },
   {
     "id": "mn-12-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Empat pembagian iklim cuaca alami tahunan (春, 夏, 秋, 冬)"
   },
   {
     "id": "mn-12-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Festival musim panas paling megah dan bersejarah di Kyoto setiap bulan Juli"
   },
   {
     "id": "mn-12-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Daging hewan ternak sapi konsumsi"
   },
   {
     "id": "mn-12-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 12",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jarak tempuh fisik yang tidak jauh,  lawan kata dari 遠い"
   },
   {
     "id": "mn-12-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Pelabuhan udara tempat lepas landas dan mendaratnya pesawat terbang"
   },
   {
     "id": "mn-12-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 12",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bobot massa benda yang enteng,  lawan kata dari 重い"
   },
   {
     "id": "mn-12-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Daun pohon mapel yang berubah merah jingga memukau di musim gugur Jepang (perbaikan baris kosong)"
   },
   {
     "id": "mn-12-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Irisan daging ikan laut mentah segar siap santap dengan celupan kecap shoyu dan wasabi"
   },
   {
     "id": "mn-12-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Musim panen dan daun menguning merah di Jepang (September - November)"
   },
   {
     "id": "mn-12-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 12",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bobot timbangan benda yang berat,  lawan kata dari 軽い"
   },
   {
     "id": "mn-12-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Musim mekarnya kuncup bunga sakura di Jepang (Maret - Mei)"
   },
   {
     "id": "mn-12-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 12",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pengalaman baru yang belum pernah dilakukan sebelumnya"
   },
   {
     "id": "mn-12-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 12",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kuantitas orang atau barang yang minim (cth: 人が少ない,  lawan dari 多い)"
   },
   {
     "id": "mn-12-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 12",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rasa cabai membakar lidah (lawan kata dari 甘い)"
   },
   {
     "id": "mn-12-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Seluruh penjuru bumi dan peradaban manusia"
   },
   {
     "id": "mn-12-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Seni tradisional Jepang merangkai bunga berestetika tinggi (生け花をする)"
   },
   {
     "id": "mn-12-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Gumpalan butiran kristal es putih dingin yang turun dari langit (雪が降る)"
   },
   {
     "id": "mn-12-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 12",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Waktu kedatangan yang lebih awal atau jam bangun pagi,  lawan dari 遅い"
   },
   {
     "id": "mn-12-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 12",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pergerakan laju kencang kereta Shinkansen atau mobil balap,  lawan dari 遅い"
   },
   {
     "id": "mn-12-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 12",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kuantitas orang atau barang yang melimpah (cth: 人が多い,  lawan dari 少ない)"
   },
   {
     "id": "mn-12-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 12",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Suhu hawa udara nyaman musim semi,  lawan kata dari 寒い"
   },
   {
     "id": "mn-12-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 12",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Laju pergerakan pelan, atau waktu malam yang sudah larut,  lawan dari 早い/速い"
   },
   {
     "id": "mn-12-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi atmosfer harian udara (cerah, hujan, mendung,  sopan: お天気)"
   },
   {
     "id": "mn-12-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Musim bersuhu beku bersalju di Jepang (Desember - Februari)"
   },
   {
     "id": "mn-12-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Daging hewan babi konsumsi"
   },
   {
     "id": "mn-12-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 12",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi langit tertutup gumpalan awan kelabu"
   },
   {
     "id": "mn-12-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 12",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi tubuh kehilangan energi setelah bekerja keras"
   },
   {
     "id": "mn-12-054",
@@ -699,6 +752,7 @@
     "chapter": "Bab 12",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Suhu hawa udara sejuk menyegarkan khas musim gugur (lawan kata dari 蒸し暑い)"
   }
 ]

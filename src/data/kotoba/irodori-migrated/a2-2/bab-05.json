@@ -11,7 +11,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "lingkungan hidup panorama alam (gunung, laut, danau)"
   },
   {
     "id": "ir-a2-2-05-002",
@@ -25,7 +26,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "keberlimpahan potensi alam atau budaya (自然が豊か)"
   },
   {
     "id": "ir-a2-2-05-003",
@@ -39,7 +41,8 @@
     "chapter": "Bab 05",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "suhu udara yang hangat menyenangkan (lawan dari 寒い)"
   },
   {
     "id": "ir-a2-2-05-004",
@@ -53,7 +56,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tempat wisata atau kereta padat dijejali orang"
   },
   {
     "id": "ir-a2-2-05-005",
@@ -67,7 +71,8 @@
     "chapter": "Bab 05",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menghabiskan waktu bersenang-senang dan rekreasi"
   },
   {
     "id": "ir-a2-2-05-006",
@@ -81,7 +86,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "negara seberang laut di luar Jepang"
   },
   {
     "id": "ir-a2-2-05-007",
@@ -95,7 +101,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "orang yang datang berwisata menikmati objek lokal"
   },
   {
     "id": "ir-a2-2-05-008",
@@ -109,7 +116,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "destinasi yang disukai banyak pengunjung"
   },
   {
     "id": "ir-a2-2-05-009",
@@ -123,7 +131,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pulau besar paling utara di Jepang terkenal dengan salju dan kuliner laut"
   },
   {
     "id": "ir-a2-2-05-010",
@@ -137,7 +146,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kepulauan tropis di selatan Jepang terkenal dengan laut biru"
   },
   {
     "id": "ir-a2-2-05-011",
@@ -151,7 +161,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sepanjang waktu dari pagi hingga malam hari"
   },
   {
     "id": "ir-a2-2-05-012",
@@ -165,7 +176,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "makanan laut atau sayuran segar baru dipanen"
   },
   {
     "id": "ir-a2-2-05-013",
@@ -179,7 +191,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gonad bulu babi bercita rasa gurih legit khas kuliner pesisir"
   },
   {
     "id": "ir-a2-2-05-014",
@@ -193,7 +206,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menyelam di permukaan air laut dangkal memakai masker dan pipa napas"
   },
   {
     "id": "ir-a2-2-05-015",
@@ -207,7 +221,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "tayangan program televisi atau radio"
   },
   {
     "id": "ir-a2-2-05-016",
@@ -221,7 +236,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "waktu di masa depan yang belum dipastikan"
   },
   {
     "id": "ir-a2-2-05-017",
@@ -235,7 +251,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "penegasan bahwa realitas sesuai dengan perkiraan semula"
   },
   {
     "id": "ir-a2-2-05-018",
@@ -249,7 +266,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "kepadatan luar biasa arus mudik wisata di jalan/stasiun"
   },
   {
     "id": "ir-a2-2-05-019",
@@ -263,7 +281,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "wahana wisata pameran biota laut dalam tangki kaca"
   },
   {
     "id": "ir-a2-2-05-020",
@@ -277,7 +296,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perahu kecil untuk rekreasi di danau"
   },
   {
     "id": "ir-a2-2-05-021",
@@ -291,7 +311,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menjelajahi keindahan alam menggunakan sepeda sewaan"
   },
   {
     "id": "ir-a2-2-05-022",
@@ -305,7 +326,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "taman rekreasi wahana permainan (roller coaster, bianglala)"
   },
   {
     "id": "ir-a2-2-05-023",
@@ -319,7 +341,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kolam mata air panas mineral vulkanik untuk berendam"
   },
   {
     "id": "ir-a2-2-05-024",
@@ -333,7 +356,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "tempat destinasi yang hendak dikunjungi"
   },
   {
     "id": "ir-a2-2-05-025",
@@ -347,7 +371,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hamparan perairan tawar luas di daratan"
   },
   {
     "id": "ir-a2-2-05-026",
@@ -361,7 +386,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "layanan penyewaan sepeda untuk wisatawan"
   },
   {
     "id": "ir-a2-2-05-027",
@@ -375,7 +401,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "rekan kerja atau rekan belajar yang lebih dulu berpengalaman"
   },
   {
     "id": "ir-a2-2-05-028",
@@ -389,7 +416,8 @@
     "chapter": "Bab 05",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "melangkah keluar memulai tur wisata"
   },
   {
     "id": "ir-a2-2-05-029",
@@ -403,7 +431,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ungkapan permohonan maaf akrab atas kekhilafan"
   },
   {
     "id": "ir-a2-2-05-030",
@@ -417,7 +446,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bepergian mengunjungi tempat baru untuk rekreasi"
   },
   {
     "id": "ir-a2-2-05-031",
@@ -431,7 +461,8 @@
     "chapter": "Bab 05",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "bermalam di akomodasi penginapan (ホテルに泊まる)"
   },
   {
     "id": "ir-a2-2-05-032",
@@ -445,7 +476,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "akomodasi bertingkat gaya modern barat"
   },
   {
     "id": "ir-a2-2-05-033",
@@ -459,7 +491,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "akomodasi kamar tatami dengan onsen dan jamuan hidangan lokal"
   },
   {
     "id": "ir-a2-2-05-034",
@@ -473,7 +506,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "penginapan tradisional rumahan yang dikelola ramah keluarga lokal"
   },
   {
     "id": "ir-a2-2-05-035",
@@ -487,7 +521,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "pilihan armada bepergian (kereta, bus, pesawat, kapal)"
   },
   {
     "id": "ir-a2-2-05-036",
@@ -501,7 +536,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "kendaraan roda empat angkutan massal"
   },
   {
     "id": "ir-a2-2-05-037",
@@ -515,7 +551,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "armada kereta rel listrik penumpang"
   },
   {
     "id": "ir-a2-2-05-038",
@@ -529,7 +566,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "moda transportasi perairan"
   },
   {
     "id": "ir-a2-2-05-039",
@@ -543,7 +581,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "armada transportasi angkutan udara"
   },
   {
     "id": "ir-a2-2-05-040",
@@ -557,7 +596,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "kendaraan roda empat"
   },
   {
     "id": "ir-a2-2-05-041",
@@ -571,7 +611,8 @@
     "chapter": "Bab 05",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menyiapkan tiket, pakaian, dan perlengkapan liburan"
   },
   {
     "id": "ir-a2-2-05-042",
@@ -585,7 +626,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sepasang bilah papan untuk meluncur di atas salju"
   },
   {
     "id": "ir-a2-2-05-043",
@@ -599,7 +641,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "jaket dan celana tebal kedap air khusus olahraga salju"
   },
   {
     "id": "ir-a2-2-05-044",
@@ -613,7 +656,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "penghangat telapak tangan dari suhu dingin salju"
   },
   {
     "id": "ir-a2-2-05-045",
@@ -627,7 +671,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "kacamata peredup silau sinar matahari dan pantulan salju"
   },
   {
     "id": "ir-a2-2-05-046",
@@ -641,7 +686,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "pakaian khusus untuk berenang di pantai atau kolam"
   },
   {
     "id": "ir-a2-2-05-047",
@@ -655,7 +701,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "daerah wisata pegunungan dan kuil bersejarah di Tochigi"
   },
   {
     "id": "ir-a2-2-05-048",
@@ -669,7 +716,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pemandangan memerahnya dedaunan mapel di pegunungan"
   },
   {
     "id": "ir-a2-2-05-049",
@@ -683,7 +731,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tingkatan suhu atau kondisi yang melebihi perkiraan"
   },
   {
     "id": "ir-a2-2-05-050",
@@ -697,7 +746,8 @@
     "chapter": "Bab 05",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bahan jaket tebal penghalau hawa dingin menusuk"
   },
   {
     "id": "ir-a2-2-05-051",
@@ -711,7 +761,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pakaian hangat luaran penutup badan"
   },
   {
     "id": "ir-a2-2-05-052",
@@ -725,7 +776,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kota kuno bersejarah di Kansai terkenal dengan taman rusa liar"
   },
   {
     "id": "ir-a2-2-05-053",
@@ -739,7 +791,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata penjelas benda berukuran kecil (小さな宿)"
   },
   {
     "id": "ir-a2-2-05-054",
@@ -753,7 +806,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "istilah umum untuk tempat menginap wisatawan"
   },
   {
     "id": "ir-a2-2-05-055",
@@ -767,7 +821,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "periode waktu tertentu (misal musim puncak liburan)"
   },
   {
     "id": "ir-a2-2-05-056",
@@ -781,7 +836,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kondisi destinasi yang dipadati wisatawan"
   },
   {
     "id": "ir-a2-2-05-057",
@@ -795,7 +851,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "susunan rencana perjalanan wisata"
   },
   {
     "id": "ir-a2-2-05-058",
@@ -809,7 +866,8 @@
     "chapter": "Bab 05",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "susunan rencana perjalanan wisata"
   },
   {
     "id": "ir-a2-2-05-059",
@@ -823,7 +881,8 @@
     "chapter": "Bab 05",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengecek ulasan rute, harga, dan tiket di internet"
   },
   {
     "id": "ir-a2-2-05-060",
@@ -837,7 +896,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "daerah pesisir Laut Jepang terkenal dengan panorama teluk dan seafood"
   },
   {
     "id": "ir-a2-2-05-061",
@@ -851,7 +911,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "memiliki pengetahuan lengkap tentang seluk-beluk suatu daerah"
   },
   {
     "id": "ir-a2-2-05-062",
@@ -865,7 +926,8 @@
     "chapter": "Bab 05",
     "type": "adv",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "restoran sushi dengan piring sajian berputar di atas ban konveyor"
   },
   {
     "id": "ir-a2-2-05-063",
@@ -879,7 +941,8 @@
     "chapter": "Bab 05",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menunggu giliran dalam barisan panjang antrean kedai"
   },
   {
     "id": "ir-a2-2-05-064",
@@ -893,7 +956,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "prefektur berpegunungan tinggi terkenal dengan resor ski salju"
   },
   {
     "id": "ir-a2-2-05-065",
@@ -907,7 +971,8 @@
     "chapter": "Bab 05",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "kulit berubah kecokelatan akibat terpapar terik matahari/pantulan salju"
   },
   {
     "id": "ir-a2-2-05-066",
@@ -921,7 +986,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "cabang olahraga meluncur di lereng bersalju"
   },
   {
     "id": "ir-a2-2-05-067",
@@ -935,7 +1001,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kawasan lereng gunung bersalju fasilitas olahraga ski"
   },
   {
     "id": "ir-a2-2-05-068",
@@ -949,7 +1016,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ragam santai menunjuk sisi ini"
   },
   {
     "id": "ir-a2-2-05-069",
@@ -963,7 +1031,8 @@
     "chapter": "Bab 05",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menjepret kenangan wisata dengan kamera (写真を撮る)"
   },
   {
     "id": "ir-a2-2-05-070",
@@ -977,7 +1046,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kotak pemutar melodi nada mekanik indah"
   },
   {
     "id": "ir-a2-2-05-071",
@@ -991,7 +1061,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "gedung pameran karya seni lukis dan patung estetika"
   },
   {
     "id": "ir-a2-2-05-072",
@@ -1005,7 +1076,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "kereta kabin gantung berkabel penembus puncak pegunungan"
   },
   {
     "id": "ir-a2-2-05-073",
@@ -1019,7 +1091,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hamparan perairan tawar luas di daratan"
   },
   {
     "id": "ir-a2-2-05-074",
@@ -1033,7 +1106,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hamparan perairan tawar luas di daratan"
   },
   {
     "id": "ir-a2-2-05-075",
@@ -1047,7 +1121,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kolam pemandian air panas alami terbuka beratapkan langit"
   },
   {
     "id": "ir-a2-2-05-076",
@@ -1061,7 +1136,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "wisata tanpa menginap langsung pulang pada hari yang sama"
   },
   {
     "id": "ir-a2-2-05-077",
@@ -1075,7 +1151,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "penolakan total yang digabungkan bentuk negatif"
   },
   {
     "id": "ir-a2-2-05-078",
@@ -1089,7 +1166,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "singgah sebentar di suatu tempat di tengah perjalanan"
   },
   {
     "id": "ir-a2-2-05-079",
@@ -1103,7 +1181,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kenyataan yang meleset dari ekspektasi awal"
   },
   {
     "id": "ir-a2-2-05-080",
@@ -1117,7 +1196,8 @@
     "chapter": "Bab 05",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "merasakan kegembiraan dan keasyikan liburan"
   },
   {
     "id": "ir-a2-2-05-081",
@@ -1131,7 +1211,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kegiatan bermalam di hotel atau losmen wisata"
   },
   {
     "id": "ir-a2-2-05-082",
@@ -1145,7 +1226,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bepergian keliling melihat keindahan panorama daerah"
   },
   {
     "id": "ir-a2-2-05-083",
@@ -1159,7 +1241,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "makanan khas lezat menggoyang lidah wisatawan"
   },
   {
     "id": "ir-a2-2-05-084",
@@ -1173,7 +1256,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "istilah resmi dokumen paspor negara atau tiket karcis perjalanan"
   },
   {
     "id": "ir-a2-2-05-085",
@@ -1187,7 +1271,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "penilaian dan testimoni rekomendasi dari sesama pengunjung di web"
   },
   {
     "id": "ir-a2-2-05-086",
@@ -1201,7 +1286,8 @@
     "chapter": "Bab 05",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengunggah komentar atau foto ulasan wisata di media sosial/web"
   },
   {
     "id": "ir-a2-2-05-087",
@@ -1215,7 +1301,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hamparan perairan tawar luas di daratan"
   },
   {
     "id": "ir-a2-2-05-088",
@@ -1229,6 +1316,7 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "waktu perjalanan saat beranjak kembali ke rumah"
   }
 ]

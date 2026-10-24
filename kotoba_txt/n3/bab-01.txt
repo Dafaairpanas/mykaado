@@ -1,0 +1,38 @@
+キッチン・台所;きっちん・だいどころ;dapur
+冷蔵庫;れいぞうこ;kulkas
+電子レンジ;でんしれんじ;microwave
+ガスレンジ／ガスコンロ;がすれんじ／がすこんろ;kompor
+湯のみ（茶わん）;ゆのみ（ちゃわん）;gelas air/teh
+茶わん;ちゃわん;mangkuk kecil
+居間・リビング;いま・りびんぐ;living room
+窓ガラス;まどがらす;kaca jendela
+ワイングラス;わいんぐらす;gelas wine
+コーヒーカップ;こうひいかっぷ;cangkir kopi
+ガラスのコップ;がらすのこっぷ;gelas kaca
+レバー;ればあ;tuas (putaran) keran
+流し;ながし;sink (bak wastafel)
+雨戸;あまど;pintu penghalang air hujan
+網戸;あみど;pintu penghalang serangga
+ヒーター;ひいたあ;penghangat
+床;ゆか;lantai
+コンセント;こんせんと;stop kontak
+天井;てんじょう;atap
+じゅうたん／カーペット;じゅうたん／かあぺっと;karpet
+エアコン;えあこん;air conditioner
+コード;こうど;kabel
+水道の蛇口をひねる;すいどうのじゃぐちをひねる;memutar air keran
+水が凍る;みずがこおる;airnya membeku
+冷凍して保存する;れいとうしてほぞんする;menyimpan dengan membekukannya
+残り物を温める;のこりものをあたためる;menghangatkan makanan yang tersisa
+ビールを冷やす;びいるをひやす;mendinginkan bir
+ビールが冷えている;びいるがひえている;birnya dingin
+エアコンのリモコン;えあこんのりもこん;remot AC
+スイッチ;すいっち;tombol sakelar
+電源を入れる;でんげんをいれる;menyalakan
+電源を切る;でんげんをきる;mematikan
+じゅうたんを敷く;じゅうたんをしく;menggelar karpet
+部屋を暖める;へやをあたためる;menghangatkan ruangan
+暖房をつける;だんぼうをつける;menyalakan penghangat
+冷房（クーラー）が効いている;れいぼう（くうらあ）がきいている;dinginnya terasa
+日当たりがいい;ひあたりがいい;(terkena sinar matahari)
+日当たりが悪い;ひあたりがわるい;(tidak terkena sinar matahari)

@@ -11,7 +11,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "pergantian siklus musim dalam satu tahun"
   },
   {
     "id": "ir-a2-2-09-002",
@@ -25,7 +26,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kegiatan perayaan berkala di masyarakat"
   },
   {
     "id": "ir-a2-2-09-003",
@@ -39,7 +41,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "perayaan awal tahun baru di Jepang tgl 1 Januari"
   },
   {
     "id": "ir-a2-2-09-004",
@@ -53,7 +56,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "hari libur nasional merayakan pemuda yang menginjak usia 20 tahun"
   },
   {
     "id": "ir-a2-2-09-005",
@@ -67,7 +71,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perayaan tgl 3 Maret mendoakan kesehatan anak perempuan"
   },
   {
     "id": "ir-a2-2-09-006",
@@ -81,7 +86,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "hari libur nasional tgl 5 Mei memasang bendera koinobori"
   },
   {
     "id": "ir-a2-2-09-007",
@@ -95,7 +101,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "festival tgl 7 Juli tradisi menggantung kertas harapan di bambu"
   },
   {
     "id": "ir-a2-2-09-008",
@@ -109,7 +116,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "perayaan tgl 25 Desember berkumpul santap ayam dan kue"
   },
   {
     "id": "ir-a2-2-09-009",
@@ -123,7 +131,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "seremoni perhelatan acara formal"
   },
   {
     "id": "ir-a2-2-09-010",
@@ -137,7 +146,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kepala pemerintahan daerah perkotaan"
   },
   {
     "id": "ir-a2-2-09-011",
@@ -151,7 +161,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "wejangan kata sambutan atau kisah"
   },
   {
     "id": "ir-a2-2-09-012",
@@ -165,7 +176,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hidangan ayam tradisi malam Natal di Jepang"
   },
   {
     "id": "ir-a2-2-09-013",
@@ -179,7 +191,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ranting daun bambu tempat menggantung hiasan Tanabata"
   },
   {
     "id": "ir-a2-2-09-014",
@@ -193,7 +206,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pajangan pernak-pernik perayaan"
   },
   {
     "id": "ir-a2-2-09-015",
@@ -207,7 +221,8 @@
     "chapter": "Bab 09",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "pajangan pernak-pernik perayaan"
   },
   {
     "id": "ir-a2-2-09-016",
@@ -221,7 +236,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "busana tradisional Jepang berlengan lebar"
   },
   {
     "id": "ir-a2-2-09-017",
@@ -235,7 +251,8 @@
     "chapter": "Bab 09",
     "type": "adv",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "nasi sushi bertabur aneka pugasan warna-warni lauk dan sayur"
   },
   {
     "id": "ir-a2-2-09-018",
@@ -249,7 +266,8 @@
     "chapter": "Bab 09",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "jalan bersama pasangan kekasih saat perayaan hari besar"
   },
   {
     "id": "ir-a2-2-09-019",
@@ -263,7 +281,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "kertas strip panjang warna-warni untuk menulis harapan di ranting Tanabata"
   },
   {
     "id": "ir-a2-2-09-020",
@@ -277,7 +296,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "harapan yang ingin dikabulkan di masa depan"
   },
   {
     "id": "ir-a2-2-09-021",
@@ -291,7 +311,8 @@
     "chapter": "Bab 09",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menggoreskan tulisan doa di kertas tanzaku"
   },
   {
     "id": "ir-a2-2-09-022",
@@ -305,7 +326,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "minuman tradisional beras manis fermentasi bernutrisi"
   },
   {
     "id": "ir-a2-2-09-023",
@@ -319,7 +341,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "memperagakan tata cara tradisi secara langsung"
   },
   {
     "id": "ir-a2-2-09-024",
@@ -333,7 +356,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "butiran beras pangan pokok"
   },
   {
     "id": "ir-a2-2-09-025",
@@ -347,7 +371,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kadar zat alkohol pada minuman keras"
   },
   {
     "id": "ir-a2-2-09-026",
@@ -361,7 +386,8 @@
     "chapter": "Bab 09",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "usia muda enerjik"
   },
   {
     "id": "ir-a2-2-09-027",
@@ -375,7 +401,8 @@
     "chapter": "Bab 09",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menggelar sukacita menyambut kelulusan atau kedewasaan"
   },
   {
     "id": "ir-a2-2-09-028",
@@ -389,7 +416,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "upacara resmi bagi pemuda berusia 20 tahun mengenakan kimono furisode"
   },
   {
     "id": "ir-a2-2-09-029",
@@ -403,7 +431,8 @@
     "chapter": "Bab 09",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengenakan pakaian indah dan merias diri"
   },
   {
     "id": "ir-a2-2-09-030",
@@ -417,7 +446,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "jenjang pendidikan formal 3 tahun"
   },
   {
     "id": "ir-a2-2-09-031",
@@ -431,7 +461,8 @@
     "chapter": "Bab 09",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "suasana pesta yang ramai penuh gelak tawa"
   },
   {
     "id": "ir-a2-2-09-032",
@@ -445,7 +476,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hidangan ayam goreng tradisi populer malam Natal di Jepang"
   },
   {
     "id": "ir-a2-2-09-033",
@@ -459,7 +491,8 @@
     "chapter": "Bab 09",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hal yang tak pernah terlewatkan dilakukan"
   },
   {
     "id": "ir-a2-2-09-034",
@@ -473,7 +506,8 @@
     "chapter": "Bab 09",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "melewati hari libur bersama keluarga di rumah"
   },
   {
     "id": "ir-a2-2-09-035",
@@ -487,7 +521,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "cakram digital rekaman film atau musik"
   },
   {
     "id": "ir-a2-2-09-036",
@@ -501,7 +536,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "kediaman tempat tinggal orang tua kandung"
   },
   {
     "id": "ir-a2-2-09-037",
@@ -515,7 +551,8 @@
     "chapter": "Bab 09",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "rebahan santai di rumah tanpa banyak pikiran"
   },
   {
     "id": "ir-a2-2-09-038",
@@ -529,7 +566,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "amplop uang saku yang dibagikan orang dewasa kepada anak saat tahun baru"
   },
   {
     "id": "ir-a2-2-09-039",
@@ -543,7 +581,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "atraksi kereta atau bianglala di taman hiburan"
   },
   {
     "id": "ir-a2-2-09-040",
@@ -557,7 +596,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "tahun kalender yang sedang dijalani"
   },
   {
     "id": "ir-a2-2-09-041",
@@ -571,7 +611,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hubungan keluarga besar di luar keluarga inti"
   },
   {
     "id": "ir-a2-2-09-042",
@@ -585,7 +626,8 @@
     "chapter": "Bab 09",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "seluruh keluarga berkumpul di ruang tengah"
   },
   {
     "id": "ir-a2-2-09-043",
@@ -599,7 +641,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "frekuensi rutin tahunan"
   },
   {
     "id": "ir-a2-2-09-044",
@@ -613,7 +656,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "putra dari saudara kandung sendiri"
   },
   {
     "id": "ir-a2-2-09-045",
@@ -627,7 +671,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "putri dari saudara kandung sendiri"
   },
   {
     "id": "ir-a2-2-09-046",
@@ -641,7 +686,8 @@
     "chapter": "Bab 09",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ucapan resmi memberi selamat atas tibanya tahun baru"
   },
   {
     "id": "ir-a2-2-09-047",
@@ -655,7 +701,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perhelatan pesta adat dan budaya"
   },
   {
     "id": "ir-a2-2-09-048",
@@ -669,7 +716,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "wilayah luar kota tempat asri keluarga menetap"
   },
   {
     "id": "ir-a2-2-09-049",
@@ -683,7 +731,8 @@
     "chapter": "Bab 09",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memajang ornamen perayaan di dinding atau meja"
   },
   {
     "id": "ir-a2-2-09-050",
@@ -697,7 +746,8 @@
     "chapter": "Bab 09",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "berbeda dari hari-hari biasa"
   },
   {
     "id": "ir-a2-2-09-051",
@@ -711,7 +761,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kegiatan berkumpul makan minum dan bersuka ria"
   },
   {
     "id": "ir-a2-2-09-052",
@@ -725,7 +776,8 @@
     "chapter": "Bab 09",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "melantunkan lagu bersama sanak famili"
   },
   {
     "id": "ir-a2-2-09-053",
@@ -739,7 +791,8 @@
     "chapter": "Bab 09",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menggerakkan badan berirama musik pesta"
   },
   {
     "id": "ir-a2-2-09-054",
@@ -753,7 +806,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "lembaran uang kertas hadiah"
   },
   {
     "id": "ir-a2-2-09-055",
@@ -767,7 +821,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menahan lapar dan haus dari fajar hingga senja"
   },
   {
     "id": "ir-a2-2-09-056",
@@ -781,7 +836,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menahan lapar dan haus dari fajar hingga senja"
   },
   {
     "id": "ir-a2-2-09-057",
@@ -795,7 +851,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sistem kalender tradisional berbasis fase peredaran bulan"
   },
   {
     "id": "ir-a2-2-09-058",
@@ -809,7 +866,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "agama monoteis yang merayakan hari raya Natal"
   },
   {
     "id": "ir-a2-2-09-059",
@@ -823,7 +881,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "syukuran memperingati momen hari besar"
   },
   {
     "id": "ir-a2-2-09-060",
@@ -837,7 +896,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "festival saling menyiram air merayakan tahun baru di Thailand"
   },
   {
     "id": "ir-a2-2-09-061",
@@ -851,7 +911,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "hitungan tahun penanggalan"
   },
   {
     "id": "ir-a2-2-09-062",
@@ -865,7 +926,8 @@
     "chapter": "Bab 09",
     "type": "particle",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hitungan tahun penanggalan"
   },
   {
     "id": "ir-a2-2-09-063",
@@ -879,7 +941,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "perayaan pergantian tahun baru tradisional masyarakat Tionghoa"
   },
   {
     "id": "ir-a2-2-09-064",
@@ -893,7 +956,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "perayaan tahun baru tradisional Thailand dengan tradisi siram air"
   },
   {
     "id": "ir-a2-2-09-065",
@@ -907,7 +971,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "hari raya perayaan kemenangan umat Islam di Indonesia"
   },
   {
     "id": "ir-a2-2-09-066",
@@ -921,7 +986,8 @@
     "chapter": "Bab 09",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "pelesiran berlibur ke mancanegara saat cuti panjang"
   },
   {
     "id": "ir-a2-2-09-067",
@@ -935,7 +1001,8 @@
     "chapter": "Bab 09",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "warna merah keberuntungan tradisi Imlek"
   },
   {
     "id": "ir-a2-2-09-068",
@@ -949,7 +1016,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "saling mencipratkan air bersih kepada sesama warga"
   },
   {
     "id": "ir-a2-2-09-069",
@@ -963,7 +1031,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "beras masak berbungkus anyaman janur kelapa khas Lebaran"
   },
   {
     "id": "ir-a2-2-09-070",
@@ -977,7 +1046,8 @@
     "chapter": "Bab 09",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pangsit keberuntungan lambang kemakmuran saat Imlek"
   },
   {
     "id": "ir-a2-2-09-071",
@@ -991,7 +1061,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hewan ternak babi"
   },
   {
     "id": "ir-a2-2-09-072",
@@ -1005,7 +1076,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "memanggang hewan secara utuh di atas bara api"
   },
   {
     "id": "ir-a2-2-09-073",
@@ -1019,7 +1091,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "kudapan biskuit renyah jamuan tamu hari raya"
   },
   {
     "id": "ir-a2-2-09-074",
@@ -1033,7 +1106,8 @@
     "chapter": "Bab 09",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hal bernilai mulia yang dijaga penuh hormat"
   },
   {
     "id": "ir-a2-2-09-075",
@@ -1047,7 +1121,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menanyakan detail prosesi perayaan adat"
   },
   {
     "id": "ir-a2-2-09-076",
@@ -1061,7 +1136,8 @@
     "chapter": "Bab 09",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memperingati hari raya bersama orang terkasih"
   },
   {
     "id": "ir-a2-2-09-077",
@@ -1075,7 +1151,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "warna simbol kemeriahan dan penangkal bala"
   },
   {
     "id": "ir-a2-2-09-078",
@@ -1089,7 +1166,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "suasana bahagia yang layak disyukuri dan dirayakan"
   },
   {
     "id": "ir-a2-2-09-079",
@@ -1103,7 +1181,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "aneka warna visual"
   },
   {
     "id": "ir-a2-2-09-080",
@@ -1117,7 +1196,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "agama samawi yang dibawa oleh Nabi Muhammad SAW"
   },
   {
     "id": "ir-a2-2-09-081",
@@ -1131,7 +1211,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bulan suci ibadah puasa selama satu bulan penuh bagi muslim"
   },
   {
     "id": "ir-a2-2-09-082",
@@ -1145,7 +1226,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata pembuka menyajikan ilustrasi contoh konkret"
   },
   {
     "id": "ir-a2-2-09-083",
@@ -1159,7 +1241,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "aktivitas menata hiasan ornamen ruangan"
   },
   {
     "id": "ir-a2-2-09-084",
@@ -1173,7 +1256,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "porsi 50 persen dari keseluruhan"
   },
   {
     "id": "ir-a2-2-09-085",
@@ -1187,7 +1271,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "tradisi menumbuk beras ketan kukus dengan alu kine di dalam lesung batu"
   },
   {
     "id": "ir-a2-2-09-086",
@@ -1201,7 +1286,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "hari saat acara tradisi tersebut digelar"
   },
   {
     "id": "ir-a2-2-09-087",
@@ -1215,7 +1301,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "orang yang telah cukup umur"
   },
   {
     "id": "ir-a2-2-09-088",
@@ -1229,7 +1316,8 @@
     "chapter": "Bab 09",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengecap nikmatnya kue mochi segar atau suasana tradisi"
   },
   {
     "id": "ir-a2-2-09-089",
@@ -1243,7 +1331,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "berdasarkan adat istiadat warisan leluhur"
   },
   {
     "id": "ir-a2-2-09-090",
@@ -1257,7 +1346,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sistem adat dan kebiasaan adiluhung masyarakat"
   },
   {
     "id": "ir-a2-2-09-091",
@@ -1271,7 +1361,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tanggapan emosional seusai mengikuti acara"
   },
   {
     "id": "ir-a2-2-09-092",
@@ -1285,7 +1376,8 @@
     "chapter": "Bab 09",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menceritakan pengalaman pribadi kepada orang lain"
   },
   {
     "id": "ir-a2-2-09-093",
@@ -1299,7 +1391,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "laporan tertulis hasil pelaksanaan kegiatan sosial"
   },
   {
     "id": "ir-a2-2-09-094",
@@ -1313,7 +1406,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "mempraktikkan sendiri bukan sekadar mendengar teori"
   },
   {
     "id": "ir-a2-2-09-095",
@@ -1327,7 +1421,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "alat penumbuk dari kayu berat untuk menghantam beras ketan di lesung"
   },
   {
     "id": "ir-a2-2-09-096",
@@ -1341,7 +1436,8 @@
     "chapter": "Bab 09",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "merasakan langsung pengalaman menumbuk kue mochi"
   },
   {
     "id": "ir-a2-2-09-097",
@@ -1355,7 +1451,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kue mochi hangat kenyal yang baru selesai ditumbuk"
   },
   {
     "id": "ir-a2-2-09-098",
@@ -1369,7 +1466,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kue beras ketan kenyal gurih khas tradisi Jepang"
   },
   {
     "id": "ir-a2-2-09-099",
@@ -1383,7 +1481,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bubuk kedelai panggang manis penabur mochi"
   },
   {
     "id": "ir-a2-2-09-100",
@@ -1397,7 +1496,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "selai pasta kacang merah manis isian mochi"
   },
   {
     "id": "ir-a2-2-09-101",
@@ -1411,7 +1511,8 @@
     "chapter": "Bab 09",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengayunkan alu kine memukul ketan di lesung usu"
   },
   {
     "id": "ir-a2-2-09-102",
@@ -1425,7 +1526,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kekompakan antara penumbuk dan pembalik adonan mochi"
   },
   {
     "id": "ir-a2-2-09-103",
@@ -1439,7 +1541,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kue beras tradisional kenyal khas Korea Selatan"
   },
   {
     "id": "ir-a2-2-09-104",
@@ -1453,7 +1556,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hasil atau usaha yang melampaui dugaan awal"
   },
   {
     "id": "ir-a2-2-09-105",
@@ -1467,7 +1571,8 @@
     "chapter": "Bab 09",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ragam formal dari 去年 dalam surat ucapan resmi"
   },
   {
     "id": "ir-a2-2-09-106",
@@ -1481,7 +1586,8 @@
     "chapter": "Bab 09",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "salam formal berterima kasih atas kerja sama setahun silam"
   },
   {
     "id": "ir-a2-2-09-107",
@@ -1495,7 +1601,8 @@
     "chapter": "Bab 09",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "salam pembuka formal di awal tahun baru"
   },
   {
     "id": "ir-a2-2-09-108",
@@ -1509,7 +1616,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ragam gaul kasual singkatan dari 明けましておめでとう"
   },
   {
     "id": "ir-a2-2-09-109",
@@ -1523,7 +1631,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ragam gaul kasual singkatan dari 今年もよろしく"
   },
   {
     "id": "ir-a2-2-09-110",
@@ -1537,7 +1646,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "ungkapan empat kanji formal tertulis di kartu pos tahun baru"
   },
   {
     "id": "ir-a2-2-09-111",
@@ -1551,7 +1661,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ajakan santai mengajak teman pergi bersenang-senang"
   },
   {
     "id": "ir-a2-2-09-112",
@@ -1565,6 +1676,7 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ungkapan akrab menjaga jalinan pertemanan seusai kumpul"
   }
 ]

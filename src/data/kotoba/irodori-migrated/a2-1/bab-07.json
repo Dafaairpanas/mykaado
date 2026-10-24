@@ -11,7 +11,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "stasiun perkeretaapian tempat naik-turun kereta"
   },
   {
     "id": "ir-a2-1-07-002",
@@ -25,7 +26,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "meja pendaftaran tamu atau informasi di depan gedung"
   },
   {
     "id": "ir-a2-1-07-003",
@@ -39,7 +41,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "ruang aula besar untuk pertunjukan atau pertemuan umum"
   },
   {
     "id": "ir-a2-1-07-004",
@@ -53,7 +56,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "tempat berbadan usaha mempekerjakan karyawan"
   },
   {
     "id": "ir-a2-1-07-005",
@@ -67,7 +71,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pintu gerbang pagar masuk ke pekarangan gedung/sekolah"
   },
   {
     "id": "ir-a2-1-07-006",
@@ -81,7 +86,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "berkumpul bersama di suatu titik lokasi yang ditentukan"
   },
   {
     "id": "ir-a2-1-07-007",
@@ -95,7 +101,8 @@
     "chapter": "Bab 07",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata pembuka menyepakati jadwal atau memulai topik pembicaraan"
   },
   {
     "id": "ir-a2-1-07-008",
@@ -109,7 +116,8 @@
     "chapter": "Bab 07",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menunjukkan jalan atau memandu tamu melihat fasilitas"
   },
   {
     "id": "ir-a2-1-07-009",
@@ -123,7 +131,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kesepakatan janji bertemu di tempat dan jam tertentu"
   },
   {
     "id": "ir-a2-1-07-010",
@@ -137,7 +146,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "acara khusus seperti bazar, seminar, atau festival"
   },
   {
     "id": "ir-a2-1-07-011",
@@ -151,7 +161,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "suatu acara atau film mulai berlangsung (イベントが始まる)"
   },
   {
     "id": "ir-a2-1-07-012",
@@ -165,7 +176,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "petugas atau anggota pelaksana kegiatan"
   },
   {
     "id": "ir-a2-1-07-013",
@@ -179,7 +191,8 @@
     "chapter": "Bab 07",
     "type": "counter",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "rentang waktu sebelum jadwal dimulai (misal 30分前 30 menit sebelumnya)"
   },
   {
     "id": "ir-a2-1-07-014",
@@ -193,7 +206,8 @@
     "chapter": "Bab 07",
     "type": "v3",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menunggu dan saling bertemu di lokasi yang disepakati"
   },
   {
     "id": "ir-a2-1-07-015",
@@ -207,7 +221,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "keadaan aman tenteram tanpa konflik atau peperangan"
   },
   {
     "id": "ir-a2-1-07-016",
@@ -221,7 +236,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "unggas bersayap yang dapat terbang"
   },
   {
     "id": "ir-a2-1-07-017",
@@ -235,7 +251,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "karya seni ukir patung perunggu/batu sebagai simbol"
   },
   {
     "id": "ir-a2-1-07-018",
@@ -249,7 +266,8 @@
     "chapter": "Bab 07",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pertanyaan santai mengonfirmasi istilah asing dari ucapan lawan bicara"
   },
   {
     "id": "ir-a2-1-07-019",
@@ -263,7 +281,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kejadian darurat di jalan atau transportasi yang menghambat rute"
   },
   {
     "id": "ir-a2-1-07-020",
@@ -277,7 +296,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "kendaraan atau kereta berhenti melaju (電車が止まる)"
   },
   {
     "id": "ir-a2-1-07-021",
@@ -291,7 +311,8 @@
     "chapter": "Bab 07",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memberi kabar lewat telepon, pesan teks, atau email"
   },
   {
     "id": "ir-a2-1-07-022",
@@ -305,7 +326,8 @@
     "chapter": "Bab 07",
     "type": "v3",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "terlelap terlalu lama sehingga telat bangun tidur di pagi hari"
   },
   {
     "id": "ir-a2-1-07-023",
@@ -319,7 +341,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "berangkat atau bertindak tepat dari saat ini juga"
   },
   {
     "id": "ir-a2-1-07-024",
@@ -333,7 +356,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mempercepat langkah agar tidak terlambat"
   },
   {
     "id": "ir-a2-1-07-025",
@@ -347,7 +371,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "melakukan tindakan lebih dulu mendahului yang lain (お先に)"
   },
   {
     "id": "ir-a2-1-07-026",
@@ -361,7 +386,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "mengawali suatu kegiatan atau membuka acara (会を始める)"
   },
   {
     "id": "ir-a2-1-07-027",
@@ -375,7 +401,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "kehilangan arah dan tidak tahu jalan yang harus dilalui"
   },
   {
     "id": "ir-a2-1-07-028",
@@ -389,7 +416,8 @@
     "chapter": "Bab 07",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "datang melebihi jam janjian yang telah disepakati (時間に遅れる)"
   },
   {
     "id": "ir-a2-1-07-029",
@@ -403,7 +431,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sampai di stasiun atau titik tujuan akhir (駅に着く)"
   },
   {
     "id": "ir-a2-1-07-030",
@@ -417,7 +446,8 @@
     "chapter": "Bab 07",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "aman tanpa masalah atau tidak perlu dikhawatirkan"
   },
   {
     "id": "ir-a2-1-07-031",
@@ -431,7 +461,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "waktu jam yang telah ditentukan"
   },
   {
     "id": "ir-a2-1-07-032",
@@ -445,7 +476,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "melakukan kekeliruan atau salah jadwal/tempat"
   },
   {
     "id": "ir-a2-1-07-033",
@@ -459,7 +491,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menunggu kehadiran seseorang di titik kumpul"
   },
   {
     "id": "ir-a2-1-07-034",
@@ -473,6 +506,7 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "tempat santai minum kopi dan menyantap kudapan"
   }
 ]

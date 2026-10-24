@@ -10,7 +10,8 @@
     "chapter": "Bab 07",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menawarkan makanan/minuman kepada orang lain secara sopan (cth: コーヒーはいかがですか)"
   },
   {
     "id": "mn-07-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 07",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memberi barang kepada orang lain (dari sudut pandang pemberi)"
   },
   {
     "id": "mn-07-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Diucapkan sebelum mulai makan atau saat menerima pemberian secara hormat"
   },
   {
     "id": "mn-07-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 07",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Salam akrab menyambut tamu yang datang ke rumah"
   },
   {
     "id": "mn-07-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Alat pembayaran resmi (koin dan uang kertas)"
   },
   {
     "id": "mn-07-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Panggilan untuk ayah orang lain, atau sapaan anak ke ayahnya sendiri"
   },
   {
     "id": "mn-07-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Panggilan untuk ibu orang lain, atau sapaan anak ke ibunya sendiri"
   },
   {
     "id": "mn-07-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 07",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Melakukan sambungan panggilan telepon (電話をかける)"
   },
   {
     "id": "mn-07-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perayaan hari Natal 25 Desember"
   },
   {
     "id": "mn-07-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Telepon seluler genggam (kependekan 携帯電話 / けいたいでんわ)"
   },
   {
     "id": "mn-07-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 07",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Diucapkan setelah selesai makan untuk menghargai makanan dan tuan rumah"
   },
   {
     "id": "mn-07-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 07",
     "type": "adv",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Menyatakan waktu yang akan segera dimulai setelah ini"
   },
   {
     "id": "mn-07-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pakaian baju berkancing atau kaos (shirt)"
   },
   {
     "id": "mn-07-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 07",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Memuji keindahan atau penampilan barang/orang lain"
   },
   {
     "id": "mn-07-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Alat makan untuk menyendok makanan berkuah/nasi"
   },
   {
     "id": "mn-07-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di kawasan Eropa Barat Daya"
   },
   {
     "id": "mn-07-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pita perekat bening (merek dagang Sellotape)"
   },
   {
     "id": "mn-07-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 07",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mempersilakan tamu melangkah naik ke lantai rumah Jepang"
   },
   {
     "id": "mn-07-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Alat pemotong tajam untuk makanan atau keperluan dapur"
   },
   {
     "id": "mn-07-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Alat pemotong kertas atau kain bergagang ganda (kanji: 鋏)"
   },
   {
     "id": "mn-07-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sepasang stik alat makan khas Asia Timur (sopan: お箸)"
   },
   {
     "id": "mn-07-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Komputer pribadi (personal computer), baik laptop maupun desktop"
   },
   {
     "id": "mn-07-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Alat pembolong kertas untuk arsip binder (hole puncher)"
   },
   {
     "id": "mn-07-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Alat makan bercabang untuk menusuk makanan"
   },
   {
     "id": "mn-07-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pemberian hadiah ulang tahun atau perayaan"
   },
   {
     "id": "mn-07-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Alat penstaples kertas (diambil dari nama penemu EH Hotchkiss)"
   },
   {
     "id": "mn-07-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 07",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan suatu hal belum terlaksana (cth: まだです)"
   },
   {
     "id": "mn-07-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Surat elektronik (e-mail), bisa juga pesan teks di HP"
   },
   {
     "id": "mn-07-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 07",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan hal yang telah selesai dilakukan (cth: もう食べました)"
   },
   {
     "id": "mn-07-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menerima barang atau kebaikan dari orang lain"
   },
   {
     "id": "mn-07-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Anggota keluarga sendiri"
   },
   {
     "id": "mn-07-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Bunga tanaman mekar yang indah (sopan: お花)"
   },
   {
     "id": "mn-07-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Barang yang dibawa atau paket kiriman barang"
   },
   {
     "id": "mn-07-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 07",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengajarkan pelajaran, atau memberi info alamat/nomor telepon"
   },
   {
     "id": "mn-07-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Lembaran kertas tulis atau bungkus"
   },
   {
     "id": "mn-07-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 07",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Diucapkan saat masuk/keluar ruangan atau menyela orang lain"
   },
   {
     "id": "mn-07-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 07",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Meminjam barang atau uang dari orang lain (pemberi pinjaman ditandai に)"
   },
   {
     "id": "mn-07-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Bagian tubuh tangan manusia"
   },
   {
     "id": "mn-07-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mempelajari keahlian dari seorang guru (guru ditandai に)"
   },
   {
     "id": "mn-07-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Alat untuk menghapus goresan pensil di kertas"
   },
   {
     "id": "mn-07-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membagi benda menjadi bagian-bagian dengan alat tajam"
   },
   {
     "id": "mn-07-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Tiket perjalanan kereta api, bus, atau wahana"
   },
   {
     "id": "mn-07-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengirim barang/paket lewat pos, atau mengantar orang"
   },
   {
     "id": "mn-07-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 07",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memberikan hak pakai barang kepada orang lain untuk sementara"
   },
   {
     "id": "mn-07-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Kartu pos ucapan selamat tahun baru yang dikirim di Jepang"
   },
   {
     "id": "mn-07-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut ayah kandung sendiri saat berbicara kepada orang lain"
   },
   {
     "id": "mn-07-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut ibu kandung sendiri saat berbicara kepada orang lain"
   },
   {
     "id": "mn-07-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Sebutan sopan untuk adik perempuan milik orang lain"
   },
   {
     "id": "mn-07-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Panggilan sopan untuk istri milik orang lain"
   },
   {
     "id": "mn-07-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Sebutan sopan untuk anak milik orang lain"
   },
   {
     "id": "mn-07-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Sebutan sopan kakek orang lain, atau sapaan ramah pria tua"
   },
   {
     "id": "mn-07-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Sebutan sopan untuk adik laki-laki milik orang lain"
   },
   {
     "id": "mn-07-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Sebutan sopan kakak laki-laki orang lain, atau sapaan pria muda"
   },
   {
     "id": "mn-07-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Sebutan sopan kakak perempuan orang lain, atau sapaan wanita muda"
   },
   {
     "id": "mn-07-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Sebutan sopan nenek orang lain, atau sapaan ramah wanita tua"
   },
   {
     "id": "mn-07-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Bentuk sopan menanyakan saudara kandung lawan bicara"
   },
   {
     "id": "mn-07-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Bentuk sopan merujuk pasutri orang lain"
   },
   {
     "id": "mn-07-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Bentuk sopan untuk ayah-ibu milik orang lain"
   },
   {
     "id": "mn-07-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Sebutan sopan untuk putra milik orang lain"
   },
   {
     "id": "mn-07-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Sebutan sopan untuk putri milik orang lain"
   },
   {
     "id": "mn-07-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut kakak laki-laki sendiri kepada orang lain"
   },
   {
     "id": "mn-07-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut saudara kandung sendiri"
   },
   {
     "id": "mn-07-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut istri sendiri kepada orang lain (ragam akrab: 家内 / かない)"
   },
   {
     "id": "mn-07-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut kakak perempuan sendiri kepada orang lain"
   },
   {
     "id": "mn-07-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Anak keturunan sendiri atau anak kecil secara umum"
   },
   {
     "id": "mn-07-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut kakek kandung sendiri kepada orang lain"
   },
   {
     "id": "mn-07-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut kakek dan nenek sendiri secara kolektif"
   },
   {
     "id": "mn-07-068",
@@ -881,7 +948,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut nenek kandung sendiri kepada orang lain"
   },
   {
     "id": "mn-07-069",
@@ -894,7 +962,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut putra kandung sendiri kepada orang lain"
   },
   {
     "id": "mn-07-070",
@@ -907,7 +976,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut adik laki-laki sendiri kepada orang lain"
   },
   {
     "id": "mn-07-071",
@@ -920,7 +990,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut suami sendiri kepada orang lain (ragam akrab: 主人 / しゅじん)"
   },
   {
     "id": "mn-07-072",
@@ -933,7 +1004,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut pasangan pasutri diri sendiri"
   },
   {
     "id": "mn-07-073",
@@ -946,7 +1018,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut adik perempuan sendiri kepada orang lain"
   },
   {
     "id": "mn-07-074",
@@ -959,7 +1032,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut putri kandung sendiri kepada orang lain"
   },
   {
     "id": "mn-07-075",
@@ -972,6 +1046,7 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut ayah dan ibu kandung sendiri kepada orang lain"
   }
 ]

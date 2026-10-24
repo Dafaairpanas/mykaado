@@ -1,0 +1,77 @@
+～方;～かた;cara ...;Dilekatkan pada akar kata kerja masu (cth: 読み方 = cara membaca, 使い方 = cara memakai)
+あとで;あとで;nanti / setelah ini;Melakukan aktivitas setelah selesainya suatu urutan waktu
+あれ？;あれ？;lho? / kok?;Seruan heran spontan saat melihat kejanggalan atau hal aneh
+エアコン;エアコン;AC / pendingin ruangan;Perangkat pendingin udara ruangan (air conditioner)
+お釣り;おつり;uang kembalian;Kelebihan uang pembayaran belanjaan yang dikembalikan kasir
+コピーします;コピーします;memfotokopi;Menggandakan dokumen dengan mesin fotokopi
+これでお願いします;これでおねがいします;tolong bayar dengan ini;Diucapkan saat menyerahkan uang atau kartu pembayaran di kasir
+さあ;さあ;mari / ayo;Kata seru untuk mengajak lawan bicara bergegas
+すぐ;すぐ;segera / langsung;Melakukan tindakan seketika tanpa menunda waktu
+つけます;つけます;menyalakan / menghidupkan;Menyalakan daya listrik lampu atau perangkat elektronik (cth: 電気を~)
+パスポート;パスポート;paspor;Buku identitas paspor perjalanan antarnegara
+また;また;lagi / kembali;Melakukan kegiatan sekali lagi, atau bertemu lagi nanti
+まっすぐ;まっすぐ;lurus;Melangkah atau melaju lurus tanpa berbelok
+もう～;もう～;... lagi (tambah);Menambah kuantitas frekuensi (cth: もう一度 = sekali lagi)
+もう少し;もうすこし;sedikit lagi;Menambah porsi atau durasi sedikit lagi
+ゆっくり;ゆっくり;perlahan-lahan / santai;Melakukan sesuatu dengan tenang tanpa terburu-buru
+塩;しお;garam;Bumbu dapur pemberi rasa asin (kanji: 塩)
+開けます;あけます;membuka;Membuka pintu, jendela, atau tutup botol (transitif: ドアを開ける)
+急ぎます;いそぎます;bergegas / terburu-buru;Mempercepat langkah atau gerak karena waktu mepet
+教えます;おしえます;memberitahu / mengajar;Memberitahu alamat, nama, atau nomor telepon (住所を教える)
+見せます;みせます;memperlihatkan / menunjukkan;Menunjukkan barang atau dokumen kepada orang lain
+呼びます;よびます;memanggil;Memanggil nama seseorang, atau memanggil armada taksi (タクシーを呼ぶ)
+降ります;ふります;turun (hujan/salju);Jatuhnya curahan presipitasi cuaca (cth: 雨が降る = hujan turun)
+砂糖;さとう;gula;Bumbu dapur pemanis makanan/minuman
+座ります;すわります;duduk;Merebahkan pantat di atas kursi atau lantai (kursi ditandai に: 椅子に座る)
+使います;つかいます;memakai / menggunakan;Mengoperasikan alat, fasilitas, atau membelanjakan uang
+止めます;とめます;menghentikan / memarkir;Menghentikan laju kendaraan, atau memarkir mobil (車を止める)
+持ちます;もちます;membawa / memegang;Memegang atau membawa barang di tangan (荷物を持つ)
+取ります;とります;mengambilkan;Mengambil benda untuk diberikan kepada orang lain (cth: 塩を取る)
+手伝います;てつだいます;membantu / menolong pekerjaan;Membantu pekerjaan fisik atau tugas orang lain
+住所;じゅうしょ;alamat tempat tinggal;Keterangan lokasi domisili rumah tinggal
+出ます;でます;keluar;Meninggalkan suatu ruangan atau tempat (tempat keluar ditandai を: 部屋を出る)
+消します;けします;mematikan / memadamkan;Mematikan lampu, daya listrik, atau memadamkan api (cth: 電気を消す)
+信号を右へ曲がってください;しんごうをみぎへまがってください;tolong belok kanan di lampu merah;Instruksi petunjuk jalan saat naik taksi atau memandu orang
+待ちます;まちます;menunggu;Menantikan kehadiran seseorang atau kedatangan bus
+地図;ちず;peta;Gambaran denah geografis wilayah daratan
+電気;でんき;listrik / lampu penerangan;Daya aliran listrik atau bola lampu penerangan ruangan
+答え;こたえ;jawaban / solusi;Jawaban dari suatu soal pertanyaan ujian
+読み方;よみかた;cara membaca;Pelafalan cara mengeja huruf kanji atau naskah
+入ります;はいります;masuk;Melangkah ke dalam suatu ruangan (ruangan ditandai に: 喫茶店に入る)
+閉めます;しめます;menutup;Menutup daun pintu atau jendela (transitif: ドアを閉める)
+名前;なまえ;nama;Identitas nama diri seseorang
+問題;もんだい;masalah / soal latihan;Pertanyaan soal ujian tugas, atau persoalan pelik masalah
+立ちます;たちます;berdiri;Menegakkan badan bertumpu pada kedua kaki
+話します;はなします;berbicara / bercerita;Bertutur kata mengobrol dengan orang lain
+［プラット］ホーム;［プラット］ホーム;peron stasiun;Lantai tunggu penumpang di samping rel kereta api (platform)
+コインロッカー;コインロッカー;loker koin;Lemari loker penitipan barang berbayar koin di stasiun
+タクシー乗り場;タクシーのりば;pangkalan taksi;Area khusus antrean armada taksi menjemput penumpang
+バスターミナル;バスターミナル;terminal bus;Pusat pangkalan transit dan keberangkatan armada bus kota/antarkota
+バス停;バスてい;halte bus;Tempat perhentian bus di pinggir jalan untuk naik-turun penumpang
+駅;えき;stasiun kereta api;Gedung tempat perhentian dan stasiun kereta
+出口;でぐち;pintu keluar;Pintu untuk keluar dari stasiun atau gedung,  lawan dari 入口
+西口;にしぐち;pintu barat;Gerbang pintu keluar sisi arah barat stasiun
+中央口;ちゅうおうぐち;pintu tengah / pintu utama;Gerbang pintu sentral utama di stasiun kereta
+東口;ひがしぐち;pintu timur;Gerbang pintu keluar sisi arah timur stasiun
+南口;みなみぐち;pintu selatan;Gerbang pintu keluar sisi arah selatan stasiun
+入口;いりぐち;pintu masuk;Pintu akses untuk masuk ke dalam stasiun atau gedung,  lawan dari 出口
+売店;ばいてん;kios stasiun / kedai kecil;Warung kios kecil penjual koran, minuman, dan snack di stasiun
+非常口;ひじょうぐち;pintu darurat;Pintu jalur evakuasi keselamatan saat terjadi bahaya kebakaran/gempa
+北口;きたぐち;pintu utara;Gerbang pintu keluar sisi arah utara stasiun
+～着;～ちゃく;tiba di ... / tiba pukul ...;Menyatakan waktu kedatangan atau kota tujuan tiba (cth: 東京着 = tiba di Tokyo)
+～発;～はつ;berangkat dari ... / berangkat pukul ...;Menyatakan waktu keberangkatan atau stasiun awal (cth: 9時発 = berangkat jam 9)
+～行き;～ゆき / ～いき;tujuan ke ...;Jurusan arah tujuan kereta atau bus (cth: 東京行き = tujuan Tokyo)
+往復;おうふく;tiket pulang-pergi (PP);Perjalanan pergi dan pulang kembali,  lawan dari 片道
+回数券;かいすうけん;tiket kupon bukuan;Buku kupon tiket perjalanan berdiskon untuk beberapa kali jalan
+快速;かいそく;kereta api cepat (rapid);Kereta cepat lokal yang melewati beberapa stasiun kecil
+改札口;かいさつぐち;gerbang pemeriksaan karcis;Gerbang tap tiket otomatis tempat masuk-keluar peron stasiun
+急行;きゅうこう;kereta api ekspres;Kereta cepat antar-stasiun besar kota
+時刻表;じこくひょう;jadwal keberangkatan;Tabel waktu jadwal jadwal tiba dan berangkatnya kereta/bus
+自動券売機;じどうけんばいき;mesin tiket otomatis;Mesin mandiri untuk membeli karcis kereta atau mengisi saldo kartu
+準急;じゅんきゅう;kereta semi-ekspres;Kereta semi-cepat yang berhenti di lebih banyak stasiun dari ekspres
+精算機;せいさんき;mesin penyesuaian tarif;Mesin penyesuaian kekurangan saldo tiket sebelum tap keluar gerbang peron
+切符売り場;きっぷうりば;loket penjualan tiket;Area loket dan mesin pembelian karcis di stasiun
+定期券;ていきけん;kartu langganan komuter;Tiket abonemen bulanan untuk rute harian kerja/sekolah (disingkat 定期)
+特急;とっきゅう;kereta limited express;Kereta ekspres khusus berkecepatan tinggi dengan biaya tiket tambahan
+普通;ふつう;kereta lokal / biasa;Kereta api penumpang yang berhenti di setiap stasiun sepanjang rute
+片道;かたみち;sekali jalan / satu arah;Tiket perjalanan pergi saja tanpa tiket pulang,  lawan dari 往復

@@ -1,0 +1,90 @@
+バーベキュー;バーベキュー;barbeku, pesta BBQ;kegiatan memanggang daging dan sayur di alam terbuka
+肉;にく;daging;daging konsumsi hewani
+牛肉;ぎゅうにく;daging sapi;daging dari ternak sapi
+豚肉;ぶたにく;daging babi;daging dari ternak babi
+鶏肉;とりにく;daging ayam;daging dari unggas ayam
+ソーセージ;ソーセージ;sosis;olahan daging cincang berbalut selongsong
+シーフード;シーフード;makanan laut, sari laut;aneka olahan hasil laut (ikan, udang, kerang)
+魚;さかな;ikan;hewan perairan bersisik
+海老;エビ / えび;udang;hewan krustasea laut bercangkang lentur
+烏賊;イカ / いか;cumi-cumi;moluska bertentakel laut
+帆立;ホタテ;kerang simping, scallop;kerang laut bercangkang kipas berdaging manis tebal
+林檎;りんご;apel;buah manis renyah berdaging putih
+バナナ;バナナ;pisang;buah berkulit kuning manis lembut
+焼きそば;やきそば;yakisoba;mi goreng khas Jepang bertabur kol dan saus gurih manis
+おにぎり;おにぎり;onigiri, nasi kepal;nasi kepal segitiga berbalut rumput laut nori
+焼肉;やきにく;yakiniku, daging panggang;irisan daging panggang ala Jepang dengan saus celup
+たれ;たれ;saus celup tare;saus cocolan gurih manis untuk daging panggang
+ソース;ソース;saus, saus barbeku;saus kental penyedap masakan
+お菓子;おかし;camilan, makanan ringan, kue;kudapan manis atau gurih teman santai
+ソフトドリンク;ソフトドリンク;minuman non-alkohol, soft drink;minuman ringan bersoda atau jus tanpa kandungan alkohol
+お茶;おちゃ;teh hijau jepang;seduhan teh hijau khas Jepang (ocha)
+ジュース;ジュース;jus buah;minuman sari buah manis segar
+お酒;おさけ;minuman beralkohol;minuman yang mengandung alkohol (sake, bir, anggur)
+ビール;ビール;bir;minuman fermentasi jelai berbusa
+ワイン;ワイン;wine, minuman anggur beralkohol;minuman fermentasi sari buah anggur
+日本酒;にほんしゅ;sake Jepang, nihonshu;minuman beralkohol tradisional hasil fermentasi beras
+焼酎;しょうちゅう;shochu;minuman keras suling tradisional berkadar alkohol lebih pekat
+コップ;コップ;gelas, cangkir;wadah minum berbahan kaca atau plastik
+お皿;おさら;piring;wadah datar penyaji makanan
+割り箸;わりばし;sumpit kayu sekali pakai;sumpit bambu/kayu yang dibelah saat hendak digunakan
+ごみ袋;ごみぶくろ;kantong plastik sampah;kantong tempat mengumpulkan sampah
+準備;じゅんび;persiapan;mempersiapkan perlengkapan dan logistik sebelum acara
+持って行く;もっていく;membawa pergi ke sana;membawa barang menuju ke tempat tujuan acara
+手伝う;てつだう;membantu, menolong;meringankan tugas orang lain dalam persiapan (準備を手伝う)
+飲み物;のみもの;minuman;aneka cairan untuk dikonsumsi pelepas dahaga
+バーベキュー場;バーベキューじょう;area barbeku;lokasi luar ruangan khusus untuk pesta panggang BBQ
+デザート;デザート;hidangan penutup;kudapan manis penyegar mulut seusai makan
+焼く;やく;memanggang, membakar;memasak makanan di atas bara api, wajan, atau pemanggang
+唐揚げ;からあげ;karaage;ayam goreng tepung khas Jepang yang renyah dan gurih
+焼き鳥;やきとり;yakitori, sate ayam Jepang;sate potongan daging ayam panggang bertusuk bambu
+塩;しお;garam;bumbu dapur asin putih kristal
+紅茶;こうちゃ;teh hitam;seduhan daun teh hitam teroksidasi gaya barat
+ウーロン茶;ウーロンちゃ;teh oolong;teh aromatik fermentasi sebagian khas Tiongkok
+チョコレートケーキ;チョコレートケーキ;kue cokelat;bolu manis bercita rasa cokelat pekat
+チーズケーキ;チーズケーキ;kue keju, cheesecake;kue lembut dengan bahan dasar keju krim
+どっち;どっち;yang mana (antara 2 opsi);kata tanya memilih di antara dua alternatif dalam ragam santai
+どれ;どれ;yang mana (3 opsi atau lebih);kata tanya memilih satu pilihan di antara banyak alternatif
+売る;うる;menjual;menyerahkan barang dagangan dengan imbalan uang (lawan dari 買う)
+両方;りょうほう;keduanya;dua-duanya tanpa terkecuali
+アレルギー;アレルギー;alergi;reaksi hipersensitivitas imun tubuh terhadap zat makanan tertentu
+蟹;カニ / かに;kepiting;hewan krustasea bercapit keras
+卵;たまご;telur;telur ayam untuk bahan pangan masakan
+ピーナッツ;ピーナッツ;kacang tanah (peanuts);kacang tanah olahan
+落花生;らっかせい;kacang tanah berpolong;tanaman polong kacang tanah dengan kulitnya
+そば粉;そばこ;tepung soba;tepung gandum buckwheat bahan dasar mi soba
+小麦;こむぎ;gandum;tanaman serealia bahan pembuat tepung terigu
+小麦粉;こむぎこ;tepung terigu;tepung gandum halus untuk kue, roti, dan mi
+乳製品;にゅうせいひん;produk olahan susu, dairy;makanan olahan hasil perahan susu (keju, mentega)
+牛乳;ぎゅうにゅう;susu sapi murni;minuman susu segar dari sapi
+バター;バター;mentega;lemak padat olahan krim susu sapi
+チーズ;チーズ;keju;olahan susu yang digumpalkan dan difermentasi
+ヨーグルト;ヨーグルト;yogurt;susu fermentasi bakteri asam laktat yang kental asam manis
+材料;ざいりょう;bahan-bahan masakan;komposisi bahan yang dibutuhkan untuk membuat makanan
+ハラル;ハラル;halal;makanan dan minuman yang diizinkan syariat Islam untuk dikonsumsi
+消費期限;しょうひきげん;batas tanggal aman konsumsi (use-by);tanggal kedaluwarsa ketat untuk makanan cepat rusak (daging, bento)
+ピザ;ピザ;piza;roti bundar pipih bertabur saus tomat, keju, dan aneka pugasan
+入っている;はいっている;mengandung, ada isinya;terkandung bahan atau unsur tertentu di dalam makanan
+よかったら;よかったら;jika Anda berkenan, kalau mau;ungkapan santun saat menawarkan makanan atau bantuan
+もつ;もつ;tahan awet, tidak basi;mampu bertahan lama kualitasnya tanpa cepat basi (日持ちする)
+今日中に;きょうじゅうに;dalam hari ini;sebelum hari ini berganti tengah malam
+コーナー;コーナー;area rak sudut, gerai;bagian sudut stan atau rak khusus di supermarket
+商品;しょうひん;produk dagangan, barang jualan;komoditas yang dipajang untuk diperjualbelikan
+すべて;すべて;semuanya, seluruhnya;total keseluruhan tanpa ada sisa
+レトルト;レトルト;makanan pouch siap santap;makanan siap saji higienis dalam kantong kedap udara yang tinggal dihangatkan
+乳成分;にゅうせいぶん;unsur kandungan susu;komponen protein susu dalam komposisi bahan pangan
+大豆;だいず;kedelai;biji polong kedelai bahan dasar tahu dan tempe
+名称;めいしょう;sebutan resmi, nama produk;nama resmi jenis pangan pada label kemasan
+原材料名;げんざいりょうめい;daftar komposisi bahan baku;rincian daftar bahan yang dipakai memproduksi makanan
+殺菌方法;さっきんほうほう;metode sterilisasi;cara pembasmian kuman bakteri pada produk makanan kaleng/pouch
+内容量;ないようりょう;berat bersih, isi netto;bobot atau volume bersih isi dalam kemasan
+賞味期限;しょうみきげん;batas tanggal kualitas terbaik (best-before);tanggal jaminan rasa paling prima untuk makanan awet
+保存方法;ほぞんほうほう;petunjuk penyimpanan;cara menyimpan produk agar awet (suhu ruang, lemari es)
+販売者;はんばいしゃ;nama distributor / penjual;perusahaan yang mendistribusikan atau menjual produk
+本品;ほんぴん;produk ini;barang atau produk bersangkutan pada label kemasan
+含まれる;ふくまれる;terkandung di dalamnya;menjadi bagian dari kandungan isi produk
+アレルギー物質;アレルギーぶっしつ;zat alergen;komponen zat yang memicu timbulnya reaksi alergi
+エビピラフ;エビピラフ;pilaf udang;hidangan nasi gurih tumis udang dan sayuran
+製造者;せいぞうしゃ;nama produsen, pabrikan;perusahaan pabrik yang memproduksi barang
+チョコレート;チョコレート;cokelat;penganan manis dari biji kakao
+〜品;〜ひん;... bahan, ... jenis komoditas;satuan hitung jenis bahan alergen yang diawasi (misal 27品)

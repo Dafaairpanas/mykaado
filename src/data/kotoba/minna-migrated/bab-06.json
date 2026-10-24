@@ -10,7 +10,8 @@
     "chapter": "Bab 06",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan menyetujui ajakan atau ide lawan bicara"
   },
   {
     "id": "mn-06-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 06",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melakukan suatu kegiatan bersama orang lain (cth: 一緒に行きませんか)"
   },
   {
     "id": "mn-06-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 06",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Frekuensi kegiatan yang selalu dilakukan rutin (100%)"
   },
   {
     "id": "mn-06-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 06",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jawaban afirmatif yang lebih santai dan akrab daripada はい"
   },
   {
     "id": "mn-06-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Minuman beralkohol (terutama minuman sake beras khas Jepang)"
   },
   {
     "id": "mn-06-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Teh hijau Jepang (sencha/matcha),  secara luas juga bermakna minum teh"
   },
   {
     "id": "mn-06-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Bulir beras yang sudah ditanak matang,  juga berarti jam makan (朝ご飯, dll.)"
   },
   {
     "id": "mn-06-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Olahraga sepak bola (football / soccer)"
   },
   {
     "id": "mn-06-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 06",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kata kerja serbaguna mengerjakan aktivitas (cth: スポーツをする)"
   },
   {
     "id": "mn-06-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 06",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Salam perpisahan santai kepada teman (sampai nanti / daah)"
   },
   {
     "id": "mn-06-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Minuman sari buah manis atau sari sayuran segar"
   },
   {
     "id": "mn-06-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 06",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata sambung melanjutkan kegiatan atau menambah daftar barang"
   },
   {
     "id": "mn-06-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rokok olahan tembakau (cth: たばこを吸います = merokok)"
   },
   {
     "id": "mn-06-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 06",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan kuantitas sedikit/waktu singkat, atau menolak ajakan secara halus"
   },
   {
     "id": "mn-06-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Olahraga tenis lapangan beraket"
   },
   {
     "id": "mn-06-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Makanan pokok olahan tepung terigu panggang (berasal dari bhs Portugis pão)"
   },
   {
     "id": "mn-06-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Minuman beralkohol fermentasi gandum dan hop"
   },
   {
     "id": "mn-06-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Perangkat rekaman visual film atau kaset rekaman"
   },
   {
     "id": "mn-06-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di Amerika Utara bagian selatan"
   },
   {
     "id": "mn-06-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Karya tulis laporan tugas kampus atau riset kantor (report)"
   },
   {
     "id": "mn-06-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menelan minuman cair (cth: 水を飲む, 薬を飲む = minum obat)"
   },
   {
     "id": "mn-06-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata tanya menanyakan benda (sebelum partikel o: 何を食べますか)"
   },
   {
     "id": "mn-06-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Buah segar hasil tanaman (apel, pisang, jeruk, dll.)"
   },
   {
     "id": "mn-06-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tradisi berkumpul piknik menikmati bunga sakura mekar di musim semi"
   },
   {
     "id": "mn-06-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Bertemu dengan seseorang (orang yang ditemui menggunakan partikel に: 友達に会う)"
   },
   {
     "id": "mn-06-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menghisap udara/napas atau merokok tembakau (たばこを吸う)"
   },
   {
     "id": "mn-06-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Minuman susu segar perah dari sapi (sinonim: ミルク)"
   },
   {
     "id": "mn-06-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Hewan perairan bersirip (bisa ikan laut maupun air tawar)"
   },
   {
     "id": "mn-06-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 06",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memandang dengan mata (nonton TV, melihat pemandangan)"
   },
   {
     "id": "mn-06-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Teh olahan fermentasi kemerahan gaya barat"
   },
   {
     "id": "mn-06-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Khusus untuk mengambil gambar atau foto (写真をとる)"
   },
   {
     "id": "mn-06-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 06",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Frekuensi aktivitas sewaktu-waktu (sekitar 30-50%)"
   },
   {
     "id": "mn-06-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Gambar hasil jepretan kamera fotografi"
   },
   {
     "id": "mn-06-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengambil barang dengan tangan secara umum"
   },
   {
     "id": "mn-06-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kertas tulisan pesan yang dikirimkan kepada seseorang"
   },
   {
     "id": "mn-06-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Tugas sekolah yang dikerjakan murid di rumah"
   },
   {
     "id": "mn-06-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menulis huruf naskah (atau melukis/menggambar denah)"
   },
   {
     "id": "mn-06-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 06",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memasukkan makanan ke dalam mulut dan mengunyahnya"
   },
   {
     "id": "mn-06-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Air putih biasa atau air dingin (kalau air panas = お湯 / oyu)"
   },
   {
     "id": "mn-06-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Makanan yang disantap pada siang hari (ragam sopan: 昼食 / ちゅうしょく)"
   },
   {
     "id": "mn-06-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Makanan santap awal di pagi hari (ragam sopan: 朝食 / ちょうしょく)"
   },
   {
     "id": "mn-06-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Area lahan luar sekitar rumah tinggal"
   },
   {
     "id": "mn-06-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Tempat berniaga menjual barang atau jasa (sopan: お店)"
   },
   {
     "id": "mn-06-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengeja dan memahami tulisan buku atau teks bacaan"
   },
   {
     "id": "mn-06-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Bahan pangan hewani (sapi, ayam, babi, dll.)"
   },
   {
     "id": "mn-06-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mendapatkan barang dengan membayar sejumlah uang"
   },
   {
     "id": "mn-06-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Santapan makan malam (ragam sopan: 夕食 / ゆうしょく)"
   },
   {
     "id": "mn-06-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Ungkapan menyanggupi instruksi atau memahami informasi"
   },
   {
     "id": "mn-06-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mendengarkan suara/musik,  juga bermakna bertanya (先生に聞く)"
   },
   {
     "id": "mn-06-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Bahan pangan nabati segar (tomat, sawi, wortel, dll.)"
   },
   {
     "id": "mn-06-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Telur ayam atau unggas (sering juga ditulis kanji 玉子)"
   },
   {
     "id": "mn-06-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hewan laut bertentakel kenyal (kanji: 烏賊)"
   },
   {
     "id": "mn-06-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Buah beri merah berbintik manis-asam (kanji: 苺)"
   },
   {
     "id": "mn-06-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hewan krustasea air berkulit keras (kanji: 蝦 / 海老)"
   },
   {
     "id": "mn-06-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Buah khas musim gugur Jepang berwarna oranye (kanji: 柿)"
   },
   {
     "id": "mn-06-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hewan bercapit keras bercangkang (kanji: 蟹)"
   },
   {
     "id": "mn-06-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sayuran daun bulat renyah untuk salad (cabbage)"
   },
   {
     "id": "mn-06-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Daging hewan ternak sapi konsumsi"
   },
   {
     "id": "mn-06-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sayuran buah lonjong hijau berair segar (kanji: 胡瓜)"
   },
   {
     "id": "mn-06-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Bulir beras mentah (setelah dimasak jadi ご飯)"
   },
   {
     "id": "mn-06-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Umbi kentang konsumsi olahan (kanji: 馬鈴薯)"
   },
   {
     "id": "mn-06-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Buah semangka berair merah khas musim panas (kanji: 西瓜)"
   },
   {
     "id": "mn-06-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Olahan daging cincang selongsong (sausage)"
   },
   {
     "id": "mn-06-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Lobak putih panjang khas Jepang untuk sup atau parutan (kanji: 大根)"
   },
   {
     "id": "mn-06-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hewan laut berkepala bulat dan bertentakel delapan (kanji: 蛸)"
   },
   {
     "id": "mn-06-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bawang bulat berlapis untuk masakan tumis (kanji: 玉ねぎ)"
   },
   {
     "id": "mn-06-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Buah sayur merah segar berair (tomato)"
   },
   {
     "id": "mn-06-068",
@@ -881,7 +948,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Daging unggas ayam konsumsi (sering juga ditulis 鳥肉)"
   },
   {
     "id": "mn-06-069",
@@ -894,7 +962,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Buah pir manis berair khas Asia/Jepang (kanji: 梨)"
   },
   {
     "id": "mn-06-070",
@@ -907,7 +976,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sayuran terong berkulit ungu mengkilap (kanji: 茄子)"
   },
   {
     "id": "mn-06-071",
@@ -920,7 +990,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sayuran umbi oranye kaya vitamin A (kanji: 人参)"
   },
   {
     "id": "mn-06-072",
@@ -933,7 +1004,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Daun bawang aromatik untuk sup (kanji: 葱)"
   },
   {
     "id": "mn-06-073",
@@ -946,7 +1018,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Sayuran sawi putih berdaun besar untuk hotpot nabe"
   },
   {
     "id": "mn-06-074",
@@ -959,7 +1032,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Buah pisang manis berkulit kuning (banana)"
   },
   {
     "id": "mn-06-075",
@@ -972,7 +1046,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Olahan daging babi iris siap santap"
   },
   {
     "id": "mn-06-076",
@@ -985,7 +1060,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Daging hewan babi konsumsi"
   },
   {
     "id": "mn-06-077",
@@ -998,7 +1074,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Buah anggur bergerombol manis (kanji: 葡萄)"
   },
   {
     "id": "mn-06-078",
@@ -1011,7 +1088,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sayuran hijau berdaun lunak bergizi (kanji: ほうれん草)"
   },
   {
     "id": "mn-06-079",
@@ -1024,7 +1102,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Biji kacang (edamame, kedelai, kacang merah,  kanji: 豆)"
   },
   {
     "id": "mn-06-080",
@@ -1037,7 +1116,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Jeruk manis mudah dikupas khas musim dingin Jepang (kanji: 蜜柑)"
   },
   {
     "id": "mn-06-081",
@@ -1050,7 +1130,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Buah persik berdaging manis harum kemerahan (kanji: 桃)"
   },
   {
     "id": "mn-06-082",
@@ -1063,7 +1144,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Buah apel renyah merah khas Aomori Jepang (kanji: 林檎)"
   },
   {
     "id": "mn-06-083",
@@ -1076,7 +1158,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sayuran selada daun hijau untuk lalapan salad (lettuce)"
   },
   {
     "id": "mn-06-084",
@@ -1089,7 +1172,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Ikan selar laut berasa gurih sering digoreng tepung (kanji: 鰺)"
   },
   {
     "id": "mn-06-085",
@@ -1102,7 +1186,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Ikan sarden kecil laut kaya omega-3 (kanji: 鰯)"
   },
   {
     "id": "mn-06-086",
@@ -1115,7 +1200,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Ikan berdaging merah muda gurih (kanji: 鮭, beda pengucapan dgn sake)"
   },
   {
     "id": "mn-06-087",
@@ -1128,7 +1214,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Ikan makarel berminyak gurih sering dipanggang shioyaki (kanji: 鯖)"
   },
   {
     "id": "mn-06-088",
@@ -1141,7 +1228,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Ikan musim gugur khas Jepang berbadan ramping dipanggang utuh (kanji: 秋刀魚)"
   },
   {
     "id": "mn-06-089",
@@ -1154,7 +1242,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Ikan berharga mahal lambang kemakmuran dan perayaan (kanji: 鯛)"
   },
   {
     "id": "mn-06-090",
@@ -1167,7 +1256,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Ikan kod laut dingin berdaging putih lembut (kanji: 鱈,  perbaikan: bukan ikan gabus)"
   },
   {
     "id": "mn-06-091",
@@ -1180,6 +1270,7 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Ikan tuna laut dalam untuk sashimi dan sushi (kanji: 鮪)"
   }
 ]

@@ -10,7 +10,8 @@
     "chapter": "Bab 10",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Dilekatkan di belakang jenis barang dagangan (cth: 本屋 = toko buku, 花屋 = toko bunga)"
   },
   {
     "id": "mn-10-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mesin anjungan tunai mandiri bank (Automated Teller Machine)"
   },
   {
     "id": "mn-10-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 10",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menyatakan keberadaan benda mati atau tumbuhan (cth: 机の上に本があります)"
   },
   {
     "id": "mn-10-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 10",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menyatakan keberadaan makhluk hidup bergerak (manusia atau hewan)"
   },
   {
     "id": "mn-10-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 10",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bervariasi jenis dan rupa (bisa berfungsi sbg kata sifat-na atau kata keterangan)"
   },
   {
     "id": "mn-10-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Area pojok stan penjualan produk tertentu di toko"
   },
   {
     "id": "mn-10-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Toko kelontong modern cepat saji buka 24 jam (kependekan コンビニエンスストア)"
   },
   {
     "id": "mn-10-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Alat pemutus/penghubung arus daya listrik (cth: スイッチを入れる/消す)"
   },
   {
     "id": "mn-10-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Meja santap makan atau meja tamu gaya barat"
   },
   {
     "id": "mn-10-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pintu daun gaya barat (kalau pintu geser tradisional Jepang = 障子 / ふすま)"
   },
   {
     "id": "mn-10-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 10",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan sopan fleksibel untuk terima kasih atas bantuan atau permohonan maaf"
   },
   {
     "id": "mn-10-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Saus bumbu kecap ikan fermentasi khas masakan Thailand"
   },
   {
     "id": "mn-10-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mamalia berbulu corak hitam-putih pemakan bambu khas Tiongkok"
   },
   {
     "id": "mn-10-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Gedung perkantoran atau bangunan tinggi modern (kependekan building)"
   },
   {
     "id": "mn-10-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Ranjang tidur gaya barat berkaki (bukan kasur lantai futon)"
   },
   {
     "id": "mn-10-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kotak surat umum warna merah di pinggir jalan untuk kirim pos"
   },
   {
     "id": "mn-10-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tingkat posisi rak atau tumpukan paling dasar"
   },
   {
     "id": "mn-10-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Arah sisi sebelah kanan,  lawan kata dari 左 (kiri)"
   },
   {
     "id": "mn-10-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Posisi di bagian bawah objek,  lawan kata dari 上 (atas)"
   },
   {
     "id": "mn-10-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Area bagian luar gedung, ruangan, atau wadah,  lawan kata dari 中 (dalam)"
   },
   {
     "id": "mn-10-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Posisi letak di antara dua objek (cth: AとBの間)"
   },
   {
     "id": "mn-10-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tempat minum kopi santai dan makanan ringan gaya klasik Jepang"
   },
   {
     "id": "mn-10-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Area sekitar yang tidak jauh jaraknya (cth: 駅の近く)"
   },
   {
     "id": "mn-10-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hewan peliharaan anjing setia"
   },
   {
     "id": "mn-10-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pembagian wilayah administratif setingkat provinsi di Jepang"
   },
   {
     "id": "mn-10-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Posisi letak di belakang objek,  lawan kata dari 前 (depan)"
   },
   {
     "id": "mn-10-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Area terbuka hijau untuk rekreasi publik masyarakat"
   },
   {
     "id": "mn-10-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Arah sisi sebelah kiri,  lawan kata dari 右 (kanan)"
   },
   {
     "id": "mn-10-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Anak kecil berjenis kelamin perempuan"
   },
   {
     "id": "mn-10-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Perempuan dewasa"
   },
   {
     "id": "mn-10-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Posisi di bagian atas permukaan objek,  lawan kata dari 下 (bawah)"
   },
   {
     "id": "mn-10-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Lokasi antrean naik taksi, bus, atau kereta api"
   },
   {
     "id": "mn-10-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Posisi letak di depan objek,  lawan kata dari 後ろ (belakang)"
   },
   {
     "id": "mn-10-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Bukaan ventilasi udara dan pencahayaan kaca dinding"
   },
   {
     "id": "mn-10-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mamalia darat berbelalai panjang (perbaikan kanji: 象, bukan 像)"
   },
   {
     "id": "mn-10-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Papan rak susun buku, piring, atau pajangan barang"
   },
   {
     "id": "mn-10-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Anak kecil berjenis kelamin laki-laki"
   },
   {
     "id": "mn-10-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Laki-laki dewasa"
   },
   {
     "id": "mn-10-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Posisi di dalam ruangan, kotak, atau wadah,  lawan kata dari 外 (luar)"
   },
   {
     "id": "mn-10-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Penyimpan daya listrik portabel untuk perangkat elektronik"
   },
   {
     "id": "mn-10-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Taman hiburan rekreasi Disney terkenal di Chiba/Tokyo Jepang"
   },
   {
     "id": "mn-10-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hewan peliharaan kucing berkumis"
   },
   {
     "id": "mn-10-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Wadah kotak penyimpan barang dari kardus atau kayu"
   },
   {
     "id": "mn-10-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Benda mati fisik berwujud"
   },
   {
     "id": "mn-10-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tanaman berbatang keras,  atau bahan baku kayu"
   },
   {
     "id": "mn-10-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Posisi tepat bersebelahan dengan objek sejenis (orang, toko, atau rumah)"
   },
   {
     "id": "mn-10-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Alat elektronik pendingin penyimpan makanan dan minuman"
   },
   {
     "id": "mn-10-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Area lantai terbuka menjorok keluar di lantai atas apartemen (veranda)"
   },
   {
     "id": "mn-10-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Ruang santai keluarga berkumpul di rumah (living room)"
   },
   {
     "id": "mn-10-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Area teras dalam depan pintu rumah Jepang untuk melepas sepatu"
   },
   {
     "id": "mn-10-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Tempat bersantap hidangan makan bersama keluarga di rumah"
   },
   {
     "id": "mn-10-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Ruangan tertutup khusus untuk istirahat tidur malam"
   },
   {
     "id": "mn-10-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Ruang wastafel untuk cuci muka, gosok gigi, dan bercermin"
   },
   {
     "id": "mn-10-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Ruangan tempat memasak dan menyiapkan makanan di rumah"
   },
   {
     "id": "mn-10-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Ruangan berendam air hangat (ofuro) dan membersihkan tubuh"
   },
   {
     "id": "mn-10-056",
@@ -725,6 +780,7 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jalan sempit penghubung antar-ruangan di dalam rumah atau gedung"
   }
 ]

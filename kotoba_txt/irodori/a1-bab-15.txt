@@ -1,0 +1,104 @@
+コンビニ;コンビニ;minimarket (pasar swalayan kecil)
+スーパー;スーパー;supermarket (pasar swalayan)
+100円ショップ;ひゃくえんショップ;toko serba 100-yen
+ドラッグストア;ドラッグストア;toko obat
+ショッピングセンター;ショッピングセンター;pusat perbelanjaan
+ショッピングモール;ショッピングモール;mal
+ホームセンター;ホームセンター;home center (toko perlengkapan rumah tangga)
+デパート;デパート;department store (pasaraya)
+電池;でんち;baterai
+洗濯ばさみ;せんたくばさみ;jepitan baju
+浴衣;ゆかた;yukata (kimono berbahan katun yang digunakan saat musim panas)
+懐中電灯;かいちゅうでんとう;senter
+弁当箱／お弁当箱;べんとうばこ／おべんとうばこ;kotak bekal
+ココナッツミルク;ココナッツミルク;santan
+ほしい;ほしい;ingin
+駅前;えきまえ;di depan stasiun
+店／お店;みせ／おみせ;toko
+～とか;～とか;misalnya (digunakan ketika memberikan contoh)
+どこで買えますか？;どこでかえますか？;Di mana saya bisa membelinya?
+しょうゆ;しょうゆ;shoyu (kecap asin)
+スカート;スカート;rok
+蛍光灯;けいこうとう;lampu neon
+ダンベル;ダンベル;dumbel
+～階;～かい;lantai ～
+暮らし;くらし;(perlengkapan) rumah
+フロア;フロア;lantai
+服;ふく;pakaian
+メンズ;メンズ;pria (men's)
+紳士;しんし;pria
+レディース;レディース;wanita (ladies')
+婦人;ふじん;wanita
+食品;しょくひん;makanan
+屋上駐車場;おくじょうちゅうしゃじょう;tempat parkir atap (rooftop)
+生活用品;せいかつようひん;kebutuhan sehari-hari
+家電;かでん;peralatan elektronik
+家具;かぐ;perabot
+インテリア;インテリア;perabot interior
+おもちゃ;おもちゃ;mainan
+文房具;ぶんぼうぐ;alat tulis
+雑貨;ざっか;pernak-pernik
+肌着;はだぎ;pakaian dalam
+靴;くつ;sepatu
+バッグ;バッグ;tas
+スポーツ用品;スポーツようひん;peralatan olahraga
+服飾雑貨;ふくしょくざっか;aksesori
+化粧品;けしょうひん;kosmetik
+食料品;しょくりょうひん;produk makanan
+酒;さけ;minuman beralkohol
+銘店;めいてん;toko terkenal
+ドライヤー;ドライヤー;pengering rambut
+カメラ;カメラ;kamera
+スマホケース;スマホケース;pelindung ponsel (case)
+延長コード;えんちょうコード;kabel sambungan listrik
+何階;なんかい／なんがい;lantai berapa
+こちら;こちら;di sebelah sini
+～でございます;～でございます;bentuk sopan dari です
+ご案内します／ご案内いたします;ごあんないします／ごあんないいたします;Akan saya antarkan. (ungkapan sopan)
+～になります;～になります;bentuk sopan dari です
+1階;いっかい;lantai satu
+2階;にかい;lantai dua
+3階;さんかい／さんがい;lantai tiga
+4階;よんかい;lantai empat
+5階;ごかい;lantai lima
+6階;ろっかい;lantai enam
+7階;ななかい;lantai tujuh
+8階;はちかい／はっかい;lantai delapan
+9階;きゅうかい;lantai sembilan
+10階;じゅっかい;lantai sepuluh
+かっこいい;かっこいい;keren
+かわいい;かわいい;lucu, imut
+高い;たかい;mahal
+安い;やすい;murah
+おもしろい;おもしろい;menarik
+きれい;きれい;cantik
+すてき;すてき;sangat bagus, luar biasa
+おしゃれ（な）;おしゃれ（な）;modis, bergaya
+変;へん;aneh
+バッグ;バッグ;tas
+かばん;かばん;tas
+靴下;くつした;kaus kaki
+シャツ;シャツ;kemeja
+ズボン;ズボン;celana panjang
+パンツ;パンツ;celana
+Tシャツ;ティーシャツ;kaus
+ワンピース;ワンピース;baju terusan
+くつ;くつ;sepatu
+ネクタイ;ネクタイ;dasi
+帽子;ぼうし;topi
+傘;かさ;payung
+ジャケット;ジャケット;jaket
+コート;コート;mantel
+それに;それに;selain itu
+本当！;ほんとう！;Iya, benar!
+入口;いりぐち;pintu masuk
+出口;でぐち;pintu keluar
+化粧室;けしょうしつ;kamar kecil
+非常口;ひじょうぐち;pintu darurat
+お客様;おきゃくさま;pelanggan (ragam hormat)
+押す／押;おす;dorong
+引く／引;ひく;tarik
+開く／開;ひらく;buka
+閉じる／閉;とじる;tutup
+上り;のぼり;naik
+下り;くだり;turun

@@ -1,0 +1,58 @@
+父;ちち;ayah (saya)
+母;はは;ibu (saya)
+兄;あに;kakak laki-laki (saya)
+姉;あね;kakak perempuan (saya)
+弟;おとうと;adik laki-laki (saya)
+妹;いもうと;adik perempuan (saya)
+夫;おっと;suami (saya)
+妻;つま;istri (saya)
+子ども;こども;anak
+～先生;～せんせい;～ sensee (kata sapaan untuk guru)
+紹介する;しょうかいする;memperkenalkan
+こちら;こちら;ini (digunakan ketika memperkenalkan orang lain)
+あれ？;あれ？;lho? (mengungkapkan keterkejutan)
+紹介します;しょうかいします;Akan saya perkenalkan.
+（どうぞ）よろしく;（どうぞ）よろしく;Senang berkenalan dengan Anda.
+うちの;うちの;～ saya,  ～ kami
+家族／ご家族;かぞく／ごかぞく;keluarga,  keluarga (orang lain)
+それから;それから;kemudian
+何歳;なんさい;Berapa usianya?
+いくつ;いくつ;Berapa usianya?
+～歳;～さい;～ tahun (usia)
+どこ;どこ;di mana
+住んでいます;すんでいます;bertempat tinggal,  berdomisili
+住む;すむ;tinggal
+フィリピン;フィリピン;Filipina
+そう;そう;Begitu... (bentuk informal dari そうですか)
+11;じゅういち;sebelas
+12;じゅうに;dua belas
+13;じゅうさん;tiga belas
+14;じゅうよん;empat belas
+15;じゅうご;lima belas
+16;じゅうろく;enam belas
+17;じゅうなな;tujuh belas
+18;じゅうはち;delapan belas
+19;じゅうきゅう;sembilan belas
+20;にじゅう;dua puluh
+30;さんじゅう;tiga puluh
+40;よんじゅう;empat puluh
+50;ごじゅう;lima puluh
+60;ろくじゅう;enam puluh
+70;ななじゅう;tujuh puluh
+80;はちじゅう;delapan puluh
+90;きゅうじゅう;sembilan puluh
+20歳;にじゅっさい／はたち;dua puluh tahun (usia)
+恋人;こいびと;pacar,  kekasih
+ペット;ペット;hewan peliharaan
+だれ;だれ;siapa
+犬;いぬ;anjing
+おじいさん;おじいさん;kakek-kakek
+日本;にほん;Jepang
+東京;とうきょう;Tokyo
+へー;へー;Waah... (mengungkapkan sedikit ketertarikan)
+かわいいですね;かわいいですね;Manis, ya,  Imut, ya.
+誕生日;たんじょうび;ulang tahun
+海;うみ;laut
+天気／お天気;てんき／おてんき;cuaca
+最高;さいこう;luar biasa,  sangat bagus
+ツーショット;ツーショット;foto berdua

@@ -1,0 +1,55 @@
+アフリカ;アフリカ;Afrika;nama benua Afrika
+カーテン;カーテン;gorden, tirai;penutup jendela kain
+キー;キー;tombol keyboard, kunci;tombol pada papan ketik komputer atau kunci
+クリックします;クリックします;mengklik;menekan tombol mouse komputer
+ことわざ;ことわざ;pepatah, peribahasa;ungkapan bijak turun-temurun
+これで終わりましょう。;これでおわりましょう。;Mari kita sudahi sampai di sini.;kalimat penutup kelas, rapat, atau acara
+さあ;さあ;wah, entahlah;ungkapan ragu atau saat tidak tahu pasti jawabannya
+スキー場;スキーじょう;resor ski, lereng ski;tempat/area bermain ski bersalju
+それなら;それなら;kalau begitu, jika demikian;merespons informasi baru dari lawan bicara
+ひも;ひも;tali, pita;tali untuk mengikat paket atau barang
+ふりがな;ふりがな;furigana;huruf kana kecil di atas/samping kanji sebagai panduan baca
+マンガミュージアム;マンガミュージアム;museum manga;merujuk ke Kyoto International Manga Museum
+もっと;もっと;lebih, makin;menambah tingkatan atau intensitas lebih banyak
+レバー;レバー;tuas;gagang tuas mekanik untuk digerakkan
+屋上;おくじょう;atap gedung, rooftop;lantai atap terbuka di atas gedung (bukan loteng tertutup)
+海外;かいがい;luar negeri;negeri seberang laut / mancanegara
+関係;かんけい;hubungan, relasi;kaitan atau ikatan antar hal/orang
+丸;まる;lingkaran, bulatan;tanda bulat (○) penanda jawaban benar di Jepang
+機会;きかい;kesempatan, peluang;peluang atau kesempatan baik (chance)
+許可;きょか;izin, perizinan;izin resmi atau persetujuan otoritas
+近所;きんじょ;lingkungan tetangga;area sekitar tempat tinggal atau tetangga dekat
+交わります;まじわります;bergaul, bersilangan;berinteraksi sosial (人と交わる) atau garis bersilangan
+向こう;むこう;seberang, arah sana;sisi seberang jalan atau pihak lawan
+港;みなと;pelabuhan;pelabuhan kapal dan dermaga laut
+困ります;こまります;berada dalam kesulitan, kesusahan;merasa repot, bingung, atau tertimpa masalah
+咲きます;さきます;mekar;khusus bunga mekar (花が咲く)
+山登り;やまのぼり;kegiatan mendaki gunung;aktivitas naik gunung (hike)
+志賀高原;しがこうげん;Dataran Tinggi Shiga;kawasan resor ski/alam terkenal di Prefektur Nagano
+治ります;なおります;sembuh;pulih dari penyakit atau luka fisik (病気が治る)
+朱;しゅ;merah terang, merah vermilion;warna merah jingga khas tinta cap inkan atau gerbang torii
+詳しい;くわしい;rinci, paham mendalam;berpengetahuan luas tentang suatu bidang (〜に詳しい)
+炊飯器;すいはんき;rice cooker;alat pemasak nasi listrik
+正しい;ただしい;benar, tepat;sesuai aturan, fakta, atau moral yang lurus
+昔;むかし;dulu, dahulu kala;zaman lampau atau masa lalu
+設備;せつび;fasilitas, perlengkapan;sarana dan prasarana penunjang gedung/mesin
+草津;くさつ;Kusatsu;daerah pemandian air panas (onsen) legendaris di Prefektur Gunma
+仲よくします;なかよくします;bergaul akrab, berteman baik;menjaga hubungan hangat dan rukun (人と仲よくする)
+直ります;なおります;diperbaiki, normal kembali;barang/mesin rusak kembali berfungsi normal (故障が直る)
+島;しま;pulau;daratan yang dikelilingi perairan
+日光;にっこう;Nikko;kota wisata bersejarah dan kuil warisan dunia di Prefektur Tochigi
+入力します;にゅうりょくします;memasukkan data, menginput;mengetik atau menginput data ke komputer/sistem
+箱根;はこね;Hakone;kawasan wisata onsen dan pemandangan Gunung Fuji di Kanagawa
+必要[な];ひつよう[な];perlu, dibutuhkan;hal yang mutlak dibutuhkan atau penting
+付けます;つけます;membubuhkan, menandai;memberikan tanda seperti lingkaran benar (丸を付ける)
+変わります;かわります;berubah;berubah keadaan atau warna (intransitif: 色が変わる)
+夜行バス;やこうバス;bus malam;bus antar-kota yang berangkat malam dan tiba pagi hari
+葉;は;daun;daun pepohonan atau tanaman
+旅行社;りょこうしゃ;agen perjalanan, biro tur;perusahaan agen travel wisata
+歴史;れきし;sejarah;rentang peristiwa masa lalu atau bidang studi sejarah
+うわさをすれば影;うわさをすればかげ;panjang umur, pucuk dicinta ulam tiba;peribahasa saat orang yang baru dibicarakan tiba-tiba muncul
+ちりも積もれば山となる;ちりもつもればやまとなる;sedikit demi sedikit lama-lama menjadi bukit;usaha atau hal kecil jika terakumulasi akan menjadi hasil besar
+苦あれば楽あり、楽あれば苦あり;くあればらくあり、らくあればくあり;ada duka ada suka;roda kehidupan berputar antara masa sulit dan masa senang
+三人寄れば文殊の知恵;さんにんよればもんじゅのちえ;tiga kepala lebih baik dari satu;musyawarah tiga orang biasa pun bisa melahirkan ide bijak
+住めば都;すめばみやこ;di mana bumi dipijak di situ langit dijunjung, lama-lama betah;tempat mana pun kalau ditinggali lama akan terasa nyaman seperti ibu kota
+立てばしゃくやく、座ればぼたん、歩く姿はゆりの花;たてばしゃくやく、すわればぼたん、あるくすがたはゆりのはな;cantik anggun di setiap gerak-gerik;perumpamaan wanita yang sangat molek dan anggun bagai aneka bunga mekar

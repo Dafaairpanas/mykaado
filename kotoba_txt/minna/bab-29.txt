@@ -1,0 +1,72 @@
+［ああ、］よかった;［ああ、］よかった;syukurlah ya / syukurlah kalau begitu;Ungkapan rasa lega setelah melewati kekhawatiran atau bahaya
+［お］茶わん;［お］ちゃわん;mangkuk nasi / cangkir teh;Wadah keramik untuk nasi putih atau sajian teh Jepang (kanji: 茶碗)
+［お］皿;［お］さら;piring;Piring ceper tempat menyajikan lauk makanan
+～の方;～のほう;ke arah ... / sebelah ...;Menunjukkan orientasi arah mata angin atau sisi tertentu
+～側;～がわ;sisi ... / sebelah ...;Dilekatkan pada penunjuk posisi sisi (cth: 右側 = sisi kanan, 外側 = sisi luar)
+～辺;～へん;sekitar ... / daerah ...;Menyatakan kawasan sekitar suatu lokasi (cth: この辺 = sekitar sini)
+お先にどうぞ;おさきにどうぞ;silakan duluan!;Mempersilakan orang lain melangkah atau menggunakan fasilitas terlebih dahulu
+ガラス;ガラス;kaca;Bahan material kaca transparan bening (glass)
+コップ;コップ;gelas minum;Wadah silinder kaca atau plastik untuk meminum air
+このくらい;このくらい;kira-kira sekian ini;Menunjukkan taksiran ukuran besaran benda dengan gestur tangan
+この辺;このへん;sekitar sini;Area lingkungan di sekitar tempat pembicara berdiri
+スピーチ;スピーチ;pidato;Pidato resmi sambutan di depan khalayak (スピーチをする)
+つきます;つきます;menyala (lampu/daya);Aliran daya listrik menyala otomatis (intransitif: 電気がつく,  lawan dari 消える)
+ふきます;ふきます;mengelap / menyeka;Membersihkan permukaan meja atau piring dengan kain lap (transitif: テーブルをふく)
+ポケット;ポケット;kantong saku;Saku pakaian untuk menyimpan barang kecil
+レポーター;レポーター;reporter siaran;Pelapor berita lapangan siaran televisi
+駅員;えきいん;petugas stasiun;Karyawan operasional dinas stasiun kereta api
+駅前;えきまえ;depan stasiun;Area kawasan pertokoan persis di depan gedung stasiun
+汚れます;よごれます;menjadi kotor / bernoda;Baju atau sepatu terkena lumpur kotor (intransitif: 服が汚れる,  lawan dari 綺麗になる)
+壊れます;こわれます;rusak;Mesin atau barang rusak patah (intransitif: 椅子・時計が壊れる,  transitif: 壊す)
+開きます;あきます;terbuka;Pintu atau jendela terbuka sendiri (intransitif: ドアが開く,  transitif: 開ける)
+外れます;はずれます;terlepas / copot;Kancing baju atau baut terlepas copot (intransitif: ボタンが外れる)
+確か;たしか;kalau tidak salah / seingat saya;Menyatakan kepastian ingatan dengan kemungkinan besar benar (cth: 確かあの人です)
+覚えていません;おぼえていません;saya tidak ingat;Tidak ada memori ingatan tentang hal tersebut di pikiran
+掛かります;かかります;terkunci / terpasang gembok;Pintu terkunci rapat (intransitif: かぎが掛かる)
+割れます;われます;pecah / retak belah;Gelas, piring, atau kaca pecah berkeping (intransitif: コップが割れる,  transitif: 割る)
+間違えます;まちがえます;keliru / salah memilih;Salah nomor telepon atau keliru jalan (transitif: 番号を間違える)
+源氏物語;げんじものがたり;Kisah Genji (Genji Monogatari);Karya novel sastra klasik agung Jepang karya Murasaki Shikibu di zaman Heian
+交番;こうばん;pos polisi lingkungan;Pos polisi kecil di pinggir jalan sudut pemukiman Jepang
+今の電車;いまのでんしゃ;kereta yang barusan tadi;Kereta api yang baru saja melintas berangkat
+指します;さします;menunjuk;Mengacungkan jari menunjuk ke arah sasaran objek (指で指す)
+枝;えだ;ranting pohon / dahan;Cabang batang ranting kayu pohon (枝が折れる)
+止まります;とまります;berhenti;Mobil atau lift berhenti melaju (intransitif: 車が止まる,  transitif: 止める)
+取り替えます;とりかえます;mengganti baru;Mengganti suku cadang yang usang dengan barang baru (transitif: 部品を取り替える)
+書類;しょるい;dokumen / berkas naskah;Lembaran kertas arsip resmi pekerjaan kantor
+消えます;きえます;padam / mati;Lampu atau api padam (intransitif: 電気が消える,  transitif: 消す)
+新宿;しんじゅく;Shinjuku;Pusat distrik metropolitan bisnis dan stasiun tersibuk di dunia di Tokyo
+針;はり;jarum;Jarum jahit atau jarum penunjuk angka jam dinding
+西;にし;arah barat;Arah mata angin tenggelamnya matahari,  lawan dari 東 (timur)
+折れます;おれます;patah;Ranting pohon atau pensil patah (intransitif: 枝が折れる,  transitif: 折る)
+袋;ふくろ;kantong belanja / kresek / karung;Wadah kantong plastik atau kertas untuk membawa belanjaan
+地震;じしん;gempa bumi;Guncangan seismik lempeng bumi tektonik (地震が起きる)
+倒れます;たおれます;tumbang / roboh;Pohon tumbang, gedung roboh, atau orang jatuh pingsan (intransitif: 木が倒れる)
+燃えます;もえます;terbakar / menyala api;Sampah atau kayu terbakar api (intransitif: ごみが燃える,  transitif: 燃やす)
+破れます;やぶれます;robek;Kertas atau kain robek koyak (intransitif: 紙が破れる,  transitif: 破る)
+付きます;つきます;menempel / terpasang;Kantong saku menempel pada baju (intransitif: ポケットが付く)
+閉まります;しまります;tertutup;Pintu atau gerbang tertutup sendiri (intransitif: ドアが閉まる,  transitif: 閉める)
+壁;かべ;dinding / tembok;Dinding penyekat ruangan dalam bangunan rumah
+片づけます;かたづけます;membereskan / merapikan;Merapikan kamar atau menata barang-barang (transitif: 部屋を片づける)
+返事;へんじ;jawaban / sahutan;Menyahut saat nama dipanggil, atau membalas pesan (返事をする)
+忘れ物;わすれもの;barang yang ketinggalan;Barang tertinggal di kereta api, taksi, atau ruang kelas
+網棚;あみだな;rak bagasi atas;Rak jaring di atas kursi penumpang kereta api untuk menaruh tas
+落とします;おとします;menjatuhkan / menghilangkan;Menjatuhkan dompet atau barang ke tanah (transitif: 財布を落とす)
+すきます;すきます;menjadi lengang / sepi;Jalanan atau gerbong kereta api menjadi longgar sepi penumpang (intransitif: 電車がすく)
+ぬれている;ぬれている;dalam kondisi basah;Permukaan basah terkena guyuran air (服がぬれている,  lawan dari 乾いている)
+ねじれている;ねじれている;terpelintir / terpuntir;Tali kabel atau selang terpilin melingkar
+ひびが入っている;ひびがはいっている;ada retakan;Permukaan kaca atau dinding mengalami retak rambut
+へこんでいる;へこんでいる;penyok / dekok ke dalam;Permukaan kaleng atau bodi mobil penyok melengkung ke dalam akibat benturan
+やせている;やせている;bertubuh kurus;Kondisi postur badan langsing atau kurus,  lawan dari 太っている
+ゆがんでいる;ゆがんでいる;miring / melengkung tidak simetris;Bentuk bingkai kacamata atau garis yang bengkok tidak lurus
+乾いている;かわいている;dalam kondisi kering;Baju cucian sudah kering tuntas (服が乾いている,  lawan dari ぬれている)
+曲がっている;まがっている;bengkok / melengkung;Besi atau garis lintasan yang melengkung tidak lurus
+欠けている;かけている;cuil / gumpil / rompal;Pinggiran tepi piring keramik atau cangkir yang sumbing terkelupas
+穴が開いている;あながあいている;berlubang / bolong;Kaus kaki atau jalanan yang berlubang bolong
+込みます;こみます;padat / sesak / macet;Jalan raya macet atau gerbong kereta penuh sesak orang (intransitif: 道が込む)
+財布;さいふ;dompet;Wadah kecil penyimpan uang tunai dan kartu identitas
+状態;じょうたい;keadaan / status kondisi;Kondisi wujud fisik barang atau kesehatan saat ini
+太っている;ふとっている;bertubuh gemuk;Kondisi postur tubuh berisi gemuk,  lawan dari やせている
+凍っている;こおっている;dalam kondisi beku;Air sungai atau daging yang membeku jadi es dingin
+腐っている;くさっている;dalam kondisi busuk;Makanan atau buah yang telah basi membusuk berjamur
+膨らんでいる;ふくらんでいる;menggembung / mengembang;Balon berisi udara mengembang membesar (intransitif)
+様子;ようす;tampang situasi / gerak-gerik keadaan;Keadaan gerak-gerik seseorang atau situasi suasana yang teramati

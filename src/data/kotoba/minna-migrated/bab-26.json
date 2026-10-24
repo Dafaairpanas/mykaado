@@ -10,7 +10,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Dilekatkan di belakang bidang usaha (cth: 旅行会社, 保険会社)"
   },
   {
     "id": "mn-26-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Logat atau dialek kedaerahan (cth: 大阪弁 = dialek Osaka)"
   },
   {
     "id": "mn-26-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 26",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Panggilan sangat hormat (sonkeigo) pengganti ～さん dalam surat dinas"
   },
   {
     "id": "mn-26-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menunjuk sifat/ciri benda yang jauh dari pembicara dan lawan bicara"
   },
   {
     "id": "mn-26-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Menyatakan waktu bebas kapan pun tanpa batasan"
   },
   {
     "id": "mn-26-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Nama toserba / pasar swalayan fiktif dalam buku pelajaran"
   },
   {
     "id": "mn-26-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bahan bakar gas elpiji/alam untuk kompor atau pemanas air"
   },
   {
     "id": "mn-26-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Limbah buangan barang bekas yang tidak terpakai"
   },
   {
     "id": "mn-26-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menunjuk sifat/ciri benda yang dekat dengan pembicara"
   },
   {
     "id": "mn-26-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 26",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan tingkat yang jauh melampaui perkiraan (cth: ずいぶん人が多い)"
   },
   {
     "id": "mn-26-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menunjuk sifat/ciri benda yang dekat dengan lawan bicara"
   },
   {
     "id": "mn-26-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyatakan orang bebas siapa saja tanpa terkecuali"
   },
   {
     "id": "mn-26-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan lokasi bebas di mana pun (anywhere)"
   },
   {
     "id": "mn-26-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Pasar barang bekas murah di lapangan terbuka (sering disingkat フリマ)"
   },
   {
     "id": "mn-26-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Aktivitas sosial sukarela tanpa mengharap imbalan upah"
   },
   {
     "id": "mn-26-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 26",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Melakukan kegiatan (ragam santai します),  memberi makan hewan/tanaman"
   },
   {
     "id": "mn-26-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 26",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menyatakan ketidaksesuaian dengan fakta atau asumsi"
   },
   {
     "id": "mn-26-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ruang hampa udara jagat raya di luar atmosfer bumi"
   },
   {
     "id": "mn-26-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Pangkalan laboratorium antariksa buatan di orbit bumi"
   },
   {
     "id": "mn-26-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pesawat transportasi penjelajah angkasa luar"
   },
   {
     "id": "mn-26-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Penerbang yang terlatih menjelajah dan bekerja di luar angkasa"
   },
   {
     "id": "mn-26-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pesta perlombaan atletik massal tahunan sekolah atau kantor di Jepang"
   },
   {
     "id": "mn-26-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Posisi arah sisi horizontal kiri-kanan"
   },
   {
     "id": "mn-26-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan segala hal bebas tanpa batasan"
   },
   {
     "id": "mn-26-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Wadah kaleng minuman soda atau makanan kaleng"
   },
   {
     "id": "mn-26-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 26",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Tiba tepat pada waktunya sebelum acara dimulai (waktu ditandai に: 時間に間に合う)"
   },
   {
     "id": "mn-26-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 26",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi perasaan hati atau fisik yang segar menyenangkan,  lawan dari 気分が悪い"
   },
   {
     "id": "mn-26-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 26",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi fisik pusing mual atau perasaan hati yang kesal"
   },
   {
     "id": "mn-26-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Gedung pusat sidang wakil rakyat parlemen nasional di Nagatacho, Tokyo"
   },
   {
     "id": "mn-26-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bisa berarti kesempatan saat ini, atau rencana di waktu mendatang"
   },
   {
     "id": "mn-26-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Wadah kecil penyimpan uang tunai dan kartu"
   },
   {
     "id": "mn-26-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 26",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengambil barang yang terjatuh di jalan atau lantai (transitif)"
   },
   {
     "id": "mn-26-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 26",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membuang sampah ke tempatnya (ごみを出す), atau menyerahkan naskah"
   },
   {
     "id": "mn-26-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Area spot lokasi berlangsungnya suatu peristiwa atau pertemuan"
   },
   {
     "id": "mn-26-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 26",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Khusus dokter memeriksa kondisi kesehatan pasien di klinik/RS (患者を診る)"
   },
   {
     "id": "mn-26-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Astronot ternama asal Jepang anggota JAXA yang bertugas di ISS"
   },
   {
     "id": "mn-26-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 26",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mencari pekerjaan baru (仕事を探す), mencari rumah, atau jodoh"
   },
   {
     "id": "mn-26-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 26",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mencari orang hilang, kunci hilang, atau melacak pelaku kejahatan"
   },
   {
     "id": "mn-26-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Area petak tempat meletakkan barang (ごみ置き場, 自転車置き場)"
   },
   {
     "id": "mn-26-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 26",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Terlambat dari waktu yang ditentukan (waktu/acara ditandai に: 時間に遅れる)"
   },
   {
     "id": "mn-26-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melakukan kontak tatap muka tanpa perantara orang lain"
   },
   {
     "id": "mn-26-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kategori sampah kertas, sisa makanan, dan kayu yang bisa dibakar"
   },
   {
     "id": "mn-26-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Wadah botol berbahan kaca bening untuk kecap, selai, atau sirup"
   },
   {
     "id": "mn-26-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Merasa ngeri takut pada hantu, ketinggian, atau hewan buas"
   },
   {
     "id": "mn-26-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari kerja Senin sampai Jumat (bukan akhir pekan atau hari libur nasional)"
   },
   {
     "id": "mn-26-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 26",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kondisi barang-barang atau ruangan sudah rapi beres (intransitif: 荷物が片づく)"
   },
   {
     "id": "mn-26-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tarian massal melingkari panggung saat festival arwah leluhur Obon di musim panas (perbaikan kolom 1)"
   },
   {
     "id": "mn-26-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 26",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memberi kabar info lewat telepon, pesan, atau email (連絡する)"
   },
   {
     "id": "mn-26-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Air matang bersuhu panas mendidih"
   },
   {
     "id": "mn-26-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kategori jenis sampah anorganik rumah tangga di Jepang"
   },
   {
     "id": "mn-26-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Panduan aturan pemilahan dan pembuangan sampah di Jepang"
   },
   {
     "id": "mn-26-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Jadwal hari truk kebersihan mengangkut jenis sampah tertentu"
   },
   {
     "id": "mn-26-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kategori jenis sampah daur ulang minuman kemasan"
   },
   {
     "id": "mn-26-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Istilah resmi administrasi untuk sampah organik/kertas"
   },
   {
     "id": "mn-26-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Contoh barang yang masuk dalam kategori sampah ukuran besar"
   },
   {
     "id": "mn-26-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Perkakas listrik rumah tangga seperti kulkas, mesin cuci, microwave"
   },
   {
     "id": "mn-26-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan monolog mengeluh saat menemui jalan buntu persoalan rumit"
   },
   {
     "id": "mn-26-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 26",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Turut berpartisipasi dalam pesta, seminar, atau lomba (acara ditandai に)"
   },
   {
     "id": "mn-26-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Limbah dapur rumah tangga sehari-hari"
   },
   {
     "id": "mn-26-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sampah bernilai material yang dapat didaur ulang kembali (botol, kertas, kaleng)"
   },
   {
     "id": "mn-26-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kewajiban mendaftar sebelum hari pengangkutan sampah besar"
   },
   {
     "id": "mn-26-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 26",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mendaftarkan diri ikut ujian, les, atau memesan penjemputan sampah besar"
   },
   {
     "id": "mn-26-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sampah perabot furnitur atau kasur yang melebihi ukuran standar dan butuh stiker retribusi"
   },
   {
     "id": "mn-26-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Surat pesan naskah digital lewat internet (disingkat Eメール)"
   },
   {
     "id": "mn-26-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Memiliki waktu luang yang pas sesuai jadwal,  lawan dari 都合が悪い"
   },
   {
     "id": "mn-26-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tidak bisa hadir karena ada urusan lain yang berbenturan"
   },
   {
     "id": "mn-26-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Istilah resmi untuk sampah anorganik kaca, logam, dan baterai"
   },
   {
     "id": "mn-26-068",
@@ -881,6 +948,7 @@
     "chapter": "Bab 26",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menunjuk benda atau pilihan alternatif lain yang terpisah"
   }
 ]

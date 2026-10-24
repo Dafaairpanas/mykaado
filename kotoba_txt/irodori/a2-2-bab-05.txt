@@ -1,0 +1,87 @@
+自然;しぜん;alam bebas, keasrian alam;lingkungan hidup panorama alam (gunung, laut, danau)
+豊かな;ゆたかな;kaya akan, berlimpah ruah;keberlimpahan potensi alam atau budaya (自然が豊か)
+暖かい;あたたかい;hangat nyaman;suhu udara yang hangat menyenangkan (lawan dari 寒い)
+混んでいる;こんでいる;penuh sesak, ramai padat;tempat wisata atau kereta padat dijejali orang
+遊ぶ;あそぶ;bermain, berlibur santai;menghabiskan waktu bersenang-senang dan rekreasi
+海外;かいがい;luar negeri, mancanegara;negara seberang laut di luar Jepang
+観光客;かんこうきゃく;wisatawan, turis pelancong;orang yang datang berwisata menikmati objek lokal
+人気がある;にんきがある;populer, banyak diminati;destinasi yang disukai banyak pengunjung
+北海道;ほっかいどう;Hokkaido;pulau besar paling utara di Jepang terkenal dengan salju dan kuliner laut
+沖縄;おきなわ;Okinawa;kepulauan tropis di selatan Jepang terkenal dengan laut biru
+一日中;いちにちじゅう;seharian penuh;sepanjang waktu dari pagi hingga malam hari
+新鮮[な];しんせん[な];segar;makanan laut atau sayuran segar baru dipanen
+海胆;ウニ / うに;bulu babi, uni;gonad bulu babi bercita rasa gurih legit khas kuliner pesisir
+シュノーケリング;シュノーケリング;snorkeling;menyelam di permukaan air laut dangkal memakai masker dan pipa napas
+番組;ばんぐみ;acara siaran TV;tayangan program televisi atau radio
+いつか;いつか;suatu saat nanti;waktu di masa depan yang belum dipastikan
+やっぱり;やっぱり;ternyata benar, sesuai dugaan;penegasan bahwa realitas sesuai dengan perkiraan semula
+ラッシュ;ラッシュ;jam sibuk liburan, rush;kepadatan luar biasa arus mudik wisata di jalan/stasiun
+水族館;すいぞくかん;akuarium raksasa, seaworld;wahana wisata pameran biota laut dalam tangki kaca
+ボート;ボート;perahu dayung;perahu kecil untuk rekreasi di danau
+サイクリング;サイクリング;bersepeda wisata;menjelajahi keindahan alam menggunakan sepeda sewaan
+遊園地;ゆうえんち;taman hiburan bermain;taman rekreasi wahana permainan (roller coaster, bianglala)
+温泉;おんせん;pemandian air panas alami (onsen);kolam mata air panas mineral vulkanik untuk berendam
+行き先;いきさき;tujuan perjalanan;tempat destinasi yang hendak dikunjungi
+湖;みずうみ;danau alami;hamparan perairan tawar luas di daratan
+レンタサイクル;レンタサイクル;sewa sepeda keliling;layanan penyewaan sepeda untuk wisatawan
+先輩;せんぱい;senior kerja;rekan kerja atau rekan belajar yang lebih dulu berpengalaman
+出発する;しゅっぱつする;berangkat memulai perjalanan;melangkah keluar memulai tur wisata
+ごめんなさい;ごめんなさい;maafkan saya;ungkapan permohonan maaf akrab atas kekhilafan
+旅行;りょこう;perjalanan wisata, tur plesir;bepergian mengunjungi tempat baru untuk rekreasi
+泊まる;とまる;menginap (intransitif);bermalam di akomodasi penginapan (ホテルに泊まる)
+ホテル;ホテル;hotel modern;akomodasi bertingkat gaya modern barat
+旅館;りょかん;ryokan, penginapan tradisional;akomodasi kamar tatami dengan onsen dan jamuan hidangan lokal
+民宿;みんしゅく;minshuku, losmen keluarga;penginapan tradisional rumahan yang dikelola ramah keluarga lokal
+交通手段;こうつうしゅだん;sarana moda transportasi;pilihan armada bepergian (kereta, bus, pesawat, kapal)
+バス;バス;bus umum, bus pariwisata;kendaraan roda empat angkutan massal
+電車;でんしゃ;kereta listrik;armada kereta rel listrik penumpang
+船;ふね;kapal laut, feri;moda transportasi perairan
+飛行機;ひこうき;pesawat terbang;armada transportasi angkutan udara
+車;くるま;mobil pribadi, mobil sewaan;kendaraan roda empat
+準備する;じゅんびする;mempersiapkan perbekalan;menyiapkan tiket, pakaian, dan perlengkapan liburan
+スキー板;スキーいた;papan seluncur ski;sepasang bilah papan untuk meluncur di atas salju
+スキーウェア;スキーウェア;baju pakaian ski;jaket dan celana tebal kedap air khusus olahraga salju
+手袋;てぶくろ;sarung tangan tebal;penghangat telapak tangan dari suhu dingin salju
+サングラス;サングラス;kacamata hitam pelindung;kacamata peredup silau sinar matahari dan pantulan salju
+水着;みずぎ;baju renang;pakaian khusus untuk berenang di pantai atau kolam
+日光;にっこう;Nikko;daerah wisata pegunungan dan kuil bersejarah di Tochigi
+紅葉;こうよう;daun musim gugur memerah;pemandangan memerahnya dedaunan mapel di pegunungan
+かなり;かなり;cukup lumayan;tingkatan suhu atau kondisi yang melebihi perkiraan
+厚い;あつい;tebal (pakaian/benda);bahan jaket tebal penghalau hawa dingin menusuk
+上着;うわぎ;jaket luar, mantel;pakaian hangat luaran penutup badan
+奈良;なら;Nara;kota kuno bersejarah di Kansai terkenal dengan taman rusa liar
+小さな;ちいさな;mungil, yang kecil;kata penjelas benda berukuran kecil (小さな宿)
+宿;やど;penginapan, tempat bermalam;istilah umum untuk tempat menginap wisatawan
+時期;じき;musim masa waktu;periode waktu tertentu (misal musim puncak liburan)
+混む;こむ;ramai sesak pengunjung;kondisi destinasi yang dipadati wisatawan
+計画;けいかく;rencana agenda;susunan rencana perjalanan wisata
+計画を立てる;けいかくをたてる;menyusun rencana liburan;merancang jadwal dan rute agenda tur
+調べる;しらべる;mencari tahu, meriset informasi;mengecek ulasan rute, harga, dan tiket di internet
+富山;とやま;Toyama;daerah pesisir Laut Jepang terkenal dengan panorama teluk dan seafood
+詳しい;くわしい;paham mendalam, tahu rinci;memiliki pengetahuan lengkap tentang seluk-beluk suatu daerah
+回転寿司;かいてんずし;sushi piring berjalan (kaitenzushi);restoran sushi dengan piring sajian berputar di atas ban konveyor
+並ぶ;ならぶ;mengantre berbaris;menunggu giliran dalam barisan panjang antrean kedai
+長野;ながの;Nagano;prefektur berpegunungan tinggi terkenal dengan resor ski salju
+日焼けする;ひやけする;kulit terbakar matahari, tanning;kulit berubah kecokelatan akibat terpapar terik matahari/pantulan salju
+スキー;スキー;olahraga ski es;cabang olahraga meluncur di lereng bersalju
+スキー場;スキーじょう;resor lereng ski;kawasan lereng gunung bersalju fasilitas olahraga ski
+こっち;こっち;arah sebelah sini;ragam santai menunjuk sisi ini
+撮る;とる;mengambil potret foto;menjepret kenangan wisata dengan kamera (写真を撮る)
+オルゴール;オルゴール;kotak musik antik (music box);kotak pemutar melodi nada mekanik indah
+美術館;びじゅつかん;museum seni rupa, galeri;gedung pameran karya seni lukis dan patung estetika
+ロープウェイ;ロープウェイ;kereta gantung, ropeway;kereta kabin gantung berkabel penembus puncak pegunungan
+そば;そば;di tepi dekat, di samping;posisi persis di sisi tepi danau (湖のそば)
+露天風呂;ろてんぶろ;rotenburo, onsen luar ruangan;kolam pemandian air panas alami terbuka beratapkan langit
+日帰り;ひがえり;perjalanan satu hari langsung pulang;wisata tanpa menginap langsung pulang pada hari yang sama
+まったく〜ない;まったく〜ない;sama sekali tidak ...;penolakan total yang digabungkan bentuk negatif
+寄る;よる;mampir singgah sejenak;singgah sebentar di suatu tempat di tengah perjalanan
+意外に;いがいに;di luar dugaan, ternyata;kenyataan yang meleset dari ekspektasi awal
+楽しむ;たのしむ;menikmati momen wisata;merasakan kegembiraan dan keasyikan liburan
+宿泊;しゅくはく;menginap di akomodasi;kegiatan bermalam di hotel atau losmen wisata
+観光;かんこう;pelesiran wisata, tamasya;bepergian keliling melihat keindahan panorama daerah
+グルメ;グルメ;kuliner lezat, wisata kuliner;makanan khas lezat menggoyang lidah wisatawan
+旅券;りょけん;paspor, tiket perjalanan;istilah resmi dokumen paspor negara atau tiket karcis perjalanan
+口コミ;くちこみ;ulasan ulasan daring, review;penilaian dan testimoni rekomendasi dari sesama pengunjung di web
+投稿する;とうこうする;membuat postingan ulasan;mengunggah komentar atau foto ulasan wisata di media sosial/web
+湖の周り;みずうみのまわり;sekeliling tepian danau;area melingkar di seputar bentang danau
+帰り;かえり;perjalanan pulang;waktu perjalanan saat beranjak kembali ke rumah

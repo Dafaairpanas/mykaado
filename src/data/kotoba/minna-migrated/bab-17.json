@@ -10,7 +10,8 @@
     "chapter": "Bab 17",
     "type": "adv",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Menyatakan batas akhir tenggat waktu (deadline,  cth: 金曜日までに)"
   },
   {
     "id": "mn-17-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 17",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan rasa sakit fisik pada bagian tubuh (cth: 頭が痛いです)"
   },
   {
     "id": "mn-17-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Bak mandi air panas tradisional Jepang (お風呂に入る = mandi berendam)"
   },
   {
     "id": "mn-17-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kartu jaminan asuransi kesehatan wajib saat berobat ke klinik/rumah sakit"
   },
   {
     "id": "mn-17-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan perkiraan jumlah hitungan sedikit (cth: 2, 3杯 = 2-3 cangkir)"
   },
   {
     "id": "mn-17-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Rentang waktu singkat 2 sampai 3 hari"
   },
   {
     "id": "mn-17-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 17",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ucapan simpati kepada orang yang sedang sakit atau seusai berobat dari dokter"
   },
   {
     "id": "mn-17-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Gangguan infeksi saluran pernapasan pilek dan demam (風邪をひく = terkena flu)"
   },
   {
     "id": "mn-17-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 17",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata sambung menambah gejala atau urutan kegiatan"
   },
   {
     "id": "mn-17-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 17",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan kesimpulan sebab-akibat logis dari kalimat sebelumnya"
   },
   {
     "id": "mn-17-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 17",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pertanyaan dokter menanyakan gejala sakit pasien di ruang periksa"
   },
   {
     "id": "mn-17-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 17",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kehilangan barang berharga karena keteledoran (transitif)"
   },
   {
     "id": "mn-17-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Saluran leher dalam pernapasan dan menelan makanan (kanji: 喉)"
   },
   {
     "id": "mn-17-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 17",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menelan obat tablet atau cairan sirup (薬を飲む)"
   },
   {
     "id": "mn-17-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pakaian dalam penutup tubuh di balik baju luar,  lawan dari 上着"
   },
   {
     "id": "mn-17-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 17",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menyimpan ilmu atau materi ke dalam ingatan pikiran,  lawan dari 忘れます"
   },
   {
     "id": "mn-17-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 17",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Situasi atau tindakan yang berisiko mencelakai tubuh"
   },
   {
     "id": "mn-17-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Area bebas asap rokok atau berhenti merokok"
   },
   {
     "id": "mn-17-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 17",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Bekerja melebihi jam kerja normal kantor demi menyelesaikan tugas"
   },
   {
     "id": "mn-17-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 17",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membawa barang menjauh dari posisi pembicara menuju tempat lain"
   },
   {
     "id": "mn-17-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 17",
     "type": "v3",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membawa barang mendekat menuju ke arah pembicara"
   },
   {
     "id": "mn-17-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 17",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Berangkat keluar rumah untuk urusan atau jalan-jalan"
   },
   {
     "id": "mn-17-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 17",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Perjalanan dinas urusan pekerjaan kantor ke luar daerah/negeri"
   },
   {
     "id": "mn-17-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pakaian luar penutup tubuh bagian atas (mantel, jas, jaket),  lawan dari 下着"
   },
   {
     "id": "mn-17-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 17",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Merasa gelisah memikirkan keselamatan atau kondisi orang lain"
   },
   {
     "id": "mn-17-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 17",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi baik-baik saja tanpa ada kendala atau masalah"
   },
   {
     "id": "mn-17-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 17",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sangat bernilai dan wajib dijaga dengan hati-hati"
   },
   {
     "id": "mn-17-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 17",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mencopot baju, jaket, atau sepatu dari tubuh,  lawan dari 着ます/履きます"
   },
   {
     "id": "mn-17-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 17",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Masuk ke dalam bak mandi air panas (お風呂に入る)"
   },
   {
     "id": "mn-17-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Suhu tubuh meninggi di atas normal karena sakit (熱がある = demam)"
   },
   {
     "id": "mn-17-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi kesehatan tubuh yang sedang terganggu infeksi atau cedera"
   },
   {
     "id": "mn-17-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 17",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menyerahkan uang pembayaran belanjaan, tagihan, atau ongkos"
   },
   {
     "id": "mn-17-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 17",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menyerahkan kembali barang atau uang pinjaman kepada pemilik aslinya"
   },
   {
     "id": "mn-17-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 17",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Hilang dari ingatan pikiran, atau ketinggalan barang (transitif)"
   },
   {
     "id": "mn-17-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Bahan kimia atau herbal untuk menyembuhkan penyakit (薬を飲む = minum obat)"
   },
   {
     "id": "mn-17-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bagian terbawah dari struktur wajah manusia (kanji: 顎)"
   },
   {
     "id": "mn-17-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Bagian tubuh bawah untuk berdiri dan melangkah"
   },
   {
     "id": "mn-17-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Bagian tubuh paling atas tempat rambut dan otak"
   },
   {
     "id": "mn-17-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Penyakit flu menular akut musiman bersuhu demam tinggi"
   },
   {
     "id": "mn-17-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Bagian anggota gerak tangan dari pundak hingga pergelangan (kanji: 腕)"
   },
   {
     "id": "mn-17-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Bagian tubuh perut (sopan: お腹)"
   },
   {
     "id": "mn-17-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 17",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rasa mulas, melilit, atau nyeri pada lambung/perut"
   },
   {
     "id": "mn-17-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Tampilan depan kepala manusia"
   },
   {
     "id": "mn-17-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Pangkal lengan atas tempat memikul beban (kanji: 肩)"
   },
   {
     "id": "mn-17-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Helaian rambut di kepala manusia"
   },
   {
     "id": "mn-17-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sensasi menggelitik pada kulit yang memicu keinginan menggaruk (kanji: 痒い)"
   },
   {
     "id": "mn-17-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Cedera nyeri pinggang akut mendadak akibat salah angkat beban berat"
   },
   {
     "id": "mn-17-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Rongga organ bibir tempat makan dan berbicara"
   },
   {
     "id": "mn-17-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Bagian tubuh penghubung kepala dengan badan (kanji: 首)"
   },
   {
     "id": "mn-17-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 17",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengalami luka fisik pada tubuh akibat jatuh atau kecelakaan (kanji: 怪我)"
   },
   {
     "id": "mn-17-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Bagian punggung bawah di atas pinggul penopang tubuh (kanji: 腰)"
   },
   {
     "id": "mn-17-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bagian tubuh bawah tempat duduk (sopan: お尻, kanji: 尻)"
   },
   {
     "id": "mn-17-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 17",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Gejala batuk mengeluarkan lendir/udara dari tenggorokan (kanji: 咳)"
   },
   {
     "id": "mn-17-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Bagian belakang tubuh manusia dari tengkuk hingga pinggang"
   },
   {
     "id": "mn-17-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Lapisan keras pelindung ujung jari tangan dan kaki (kanji: 爪)"
   },
   {
     "id": "mn-17-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Anggota gerak telapak dan jari untuk menggenggam"
   },
   {
     "id": "mn-17-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Cedera peregangan sendi pergelangan kaki atau tangan (kanji: 捻挫)"
   },
   {
     "id": "mn-17-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Saluran leher dalam pernapasan dan menelan"
   },
   {
     "id": "mn-17-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Indra penciuman aroma dan saluran napas"
   },
   {
     "id": "mn-17-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Persendian tengah kaki penumpu gerakan tekuk (kanji: 膝)"
   },
   {
     "id": "mn-17-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Struktur rangka keras penyangga tubuh manusia (kanji: 骨)"
   },
   {
     "id": "mn-17-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Indra pendengaran di sisi samping kepala"
   },
   {
     "id": "mn-17-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Bagian tubuh depan tempat jantung dan paru-paru (kanji: 胸)"
   },
   {
     "id": "mn-17-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Indra penglihatan manusia"
   },
   {
     "id": "mn-17-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 17",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Sensasi vertigo limbung kehilangan keseimbangan tubuh (kanji: 眩暈)"
   },
   {
     "id": "mn-17-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 17",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kulit cedera melepuh akibat terkena panas api, minyak, atau air mendidih (kanji: 火傷)"
   },
   {
     "id": "mn-17-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Jari-jemari pada tangan atau kaki (kanji: 指)"
   },
   {
     "id": "mn-17-068",
@@ -881,7 +948,8 @@
     "chapter": "Bab 17",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kondisi feses cair akibat infeksi pencernaan perut (kanji: 下痢)"
   },
   {
     "id": "mn-17-069",
@@ -894,7 +962,8 @@
     "chapter": "Bab 17",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Tubuh menggigil meriang sebelum suhu demam naik (kanji: 寒気)"
   },
   {
     "id": "mn-17-070",
@@ -907,7 +976,8 @@
     "chapter": "Bab 17",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Darah mengalir keluar dari luka kulit (kanji: 血)"
   },
   {
     "id": "mn-17-071",
@@ -920,7 +990,8 @@
     "chapter": "Bab 17",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Otot pundak tegang dan kaku akibat kelelahan atau posisi kerja lama"
   },
   {
     "id": "mn-17-072",
@@ -933,7 +1004,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Kondisi retak atau patah pada struktur tulang akibat benturan keras"
   },
   {
     "id": "mn-17-073",
@@ -946,7 +1018,8 @@
     "chapter": "Bab 17",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rasa ngilu atau nyeri berdenyut pada gigi berlubang"
   },
   {
     "id": "mn-17-074",
@@ -959,7 +1032,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kehilangan selera hasrat untuk makan hidangan"
   },
   {
     "id": "mn-17-075",
@@ -972,7 +1046,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Kondisi fisik tubuh loyo tidak bertenaga akibat kelelahan atau sakit"
   },
   {
     "id": "mn-17-076",
@@ -985,7 +1060,8 @@
     "chapter": "Bab 17",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Sensasi perut bergejolak hendak memuntahkan isi lambung"
   },
   {
     "id": "mn-17-077",
@@ -998,7 +1074,8 @@
     "chapter": "Bab 17",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rasa nyeri berdenyut pada bagian kepala (pusing)"
   },
   {
     "id": "mn-17-078",
@@ -1011,7 +1088,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rasa pening mual di pagi hari setelah semalaman mabuk minuman keras"
   },
   {
     "id": "mn-17-079",
@@ -1024,7 +1102,8 @@
     "chapter": "Bab 17",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Suhu badan naik di atas batas normal akibat infeksi"
   },
   {
     "id": "mn-17-080",
@@ -1037,7 +1116,8 @@
     "chapter": "Bab 17",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Lendir cair mengalir keluar dari rongga hidung karena pilek"
   },
   {
     "id": "mn-17-081",
@@ -1050,7 +1130,8 @@
     "chapter": "Bab 17",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Gangguan susah buang air besar akibat kekurangan serat/cairan (kanji: 便秘)"
   },
   {
     "id": "mn-17-082",
@@ -1063,6 +1144,7 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Radang infeksi usus buntu di perut kanan bawah yang memerlukan operasi"
   }
 ]

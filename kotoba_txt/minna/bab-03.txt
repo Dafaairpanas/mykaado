@@ -1,0 +1,68 @@
+～をください;～をください;tolong berikan ～;Dipakai saat memesan barang di toko atau restoran (cth: これをください)
+～円;～えん;... yen;Satuan mata uang resmi negara Jepang
+～階;～かい / ～がい;lantai ...;Satuan hitung tingkat gedung (lantai 3 = さんがい)
+あそこ;あそこ;di sana (jauh);Kata tunjuk tempat jauh dari pembicara dan lawan bicara
+あちら;あちら;sebelah sana / arah sana;Bentuk sopan dari あそこ,  bisa juga penunjuk arah atau orang
+いくら;いくら;berapa harganya?;Menanyakan nominal harga barang atau tarif jasa
+イタリア;イタリア;Italia;Negara di kawasan Eropa Selatan
+いらっしゃいませ;いらっしゃいませ;selamat datang;Salam sambutan pelayan toko atau restoran kepada pelanggan
+エスカレーター;エスカレーター;eskalator;Tangga berjalan mekanik otomatis naik-turun
+エレベーター;エレベーター;lift / elevator;Kotak angkut vertikal antarlantai gedung
+お国;おくに;negara asal Anda (sopan);Bentuk sopan untuk menanyakan kewarganegaraan atau daerah asal lawan bicara
+お手洗い;おてあらい;kamar kecil / toilet;Ragam sopan dan halus dari トイレ
+ここ;ここ;di sini;Kata tunjuk tempat yang berada dekat dengan pembicara
+こちら;こちら;sebelah sini / pihak kami;Bentuk sopan dari ここ,  juga dipakai merujuk orang atau arah
+じゃ;じゃ;kalau begitu...;Singkatan lisan santai dari では saat menyimpulkan pilihan belanja
+ジャカルタ;ジャカルタ;Jakarta;Ibu kota negara Indonesia
+スイス;スイス;Swiss;Negara di kawasan Eropa Tengah (Switzerland)
+すみません;すみません;permisi / maaf / terima kasih;Sapaan untuk memanggil orang, minta maaf, atau ungkapan terima kasih
+そこ;そこ;di situ;Kata tunjuk tempat yang berada dekat dengan lawan bicara
+そちら;そちら;sebelah situ / pihak Anda;Bentuk sopan dari そこ,  juga dipakai merujuk lawan bicara atau arah
+トイレ;トイレ;toilet / WC;Ragam umum sehari-hari dari お手洗い
+どうも;どうも;terima kasih / halo;Kata sapaan santai serbaguna (terima kasih, salam, atau maaf)
+どこ;どこ;di mana?;Kata tanya posisi atau tempat secara umum
+どちら;どちら;di mana / sebelah mana?;Bentuk sopan dari どこ,  juga digunakan untuk memilih 1 dari 2 pilihan
+ネクタイ;ネクタイ;dasi;Aksesoris pakaian leher kemeja (necktie)
+バンコク;バンコク;Bangkok;Ibu kota negara Thailand
+フランス;フランス;Prancis;Negara di kawasan Eropa Barat
+ベルリン;ベルリン;Berlin;Ibu kota negara Jerman
+ロビー;ロビー;lobi / ruang tunggu;Ruang tunggu hotel, kantor, atau gedung umum
+ワイン;ワイン;minuman anggur / wine;Minuman beralkohol dari hasil fermentasi buah anggur
+何階;なんがい;lantai berapa?;Menanyakan posisi lantai dalam gedung bertingkat (dibaca nangai)
+家;うち;rumah / tempat tinggal;Merujuk ke kediaman pribadi atau keluarga sendiri
+会議室;かいぎしつ;ruang rapat;Ruangan khusus untuk pertemuan atau konferensi
+会社;かいしゃ;perusahaan / kantor;Lembaga badan usaha tempat bekerja
+階段;かいだん;tangga;Undak-undakan tangga manual (bukan eskalator berjalan)
+教室;きょうしつ;ruang kelas;Ruangan tempat kegiatan belajar mengajar berlangsung
+靴;くつ;sepatu / alas kaki;Alas kaki penutup tapak dan punggung kaki
+見せてください;みせてください;tolong perlihatkan;Permintaan sopan ingin melihat barang sebelum membeli (cth: これを~)
+事務所;じむしょ;kantor / ruang tata usaha;Ruang administrasi kerja staf kantor atau lembaga sekolah
+自動販売機;じどうはんばいき;mesin jual otomatis;Mesin penjual minuman/makanan ringan otomatis (vending machine)
+受付;うけつけ;meja informasi / resepsionis;Area meja pendaftaran tamu di lobi gedung atau kantor
+食堂;しょくどう;kantin / ruang makan;Tempat makan bersama di kantor/sekolah (atau rumah makan umum sederhana)
+千;せん;seribu;Nominal angka 1.000 (cth: 3.000 = さんぜん)
+地下;ちか;bawah tanah / basement;Area lantai di bawah permukaan tanah (disingkat B1, B2)
+電話;でんわ;telepon;Perangkat telepon atau panggilan komunikasi suara
+売り場;うりば;bagian penjualan / konter toko;Area penjualan jenis barang tertentu di department store
+百;ひゃく;seratus;Nominal angka 100 (cth: 300 = さんびゃく, 600 = ろっぴゃく)
+部屋;へや;kamar / ruangan;Ruangan tempat tinggal di rumah atau asrama
+万;まん;sepuluh ribu;Satuan nominal 10.000 (cth: 1万 = 10.000, 10万 = 100.000)
+アクセサリー;アクセサリー;aksesoris / perhiasan;Perhiasan pelengkap busana (kalung, cincin, gelang, bros)
+おもちゃ;おもちゃ;mainan;Alat bermain untuk anak-anak (kanji: 玩具)
+スポーツ用品;スポーツようひん;alat-alat olahraga;Perlengkapan dan kostum untuk aktivitas olahraga
+レストラン;レストラン;restoran;Rumah makan modern bergaya barat
+屋上;おくじょう;atap gedung / rooftop;Area lantai paling atas gedung yang terbuka
+化粧品;けしょうひん;kosmetik;Produk perawatan dan tata rias kecantikan
+家具;かぐ;furnitur / mebel;Perabotan rumah tangga (meja, lemari pakaian, sofa)
+眼鏡;めがね;kacamata;Alat bantu penglihatan mata (sering ditulis メガネ)
+催し物会場;もよおしものかいじょう;area pameran / aula acara;Area acara atau pameran promosi khusus di mall/pusat belanja
+子供の服;こどものふく;pakaian anak;Busana khusus untuk anak-anak (sering disingkat 子供服)
+食器;しょっき;peralatan makan;Wadah piring, mangkuk, gelas, sendok, dan garpu
+食品;しょくひん;bahan makanan / produk pangan;Komoditas produk konsumsi pangan di supermarket
+紳士服;しんしふく;pakaian pria;Busana formal atau pakaian khusus untuk pria dewasa
+駐車場;ちゅうしゃじょう;tempat parkir;Lahan area memarkir mobil atau sepeda motor
+電化製品;でんかせいひん;alat elektronik rumah tangga;Peralatan listrik rumah (kulkas, mesin cuci, televisi, AC)
+婦人服;ふじんふく;pakaian wanita;Busana formal atau pakaian khusus wanita dewasa
+文房具;ぶんぼうぐ;alat tulis kantor;Peralatan tulis dan perlengkapan administrasi kertas kantor
+遊園地;ゆうえんち;taman hiburan / taman rekreasi;Taman wisata keluarga dengan aneka wahana bermain
+旅行用品;りょこうようひん;perlengkapan bepergian;Koper dan aneka perlengkapan barang saat liburan/traveling

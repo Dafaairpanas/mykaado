@@ -1,0 +1,72 @@
+結婚する;けっこんする;menikah;mengikat janji suci pernikahan resmi
+出産;しゅっさん;melahirkan anak, persalinan;proses melahirkan bayi ke dunia
+生まれる;うまれる;lahir ke dunia (intransitif);bayi terlahir ke dunia (赤ちゃんが生まれる)
+合格する;ごうかくする;lulus ujian;lulus tes evaluasi atau seleksi masuk (試験に合格する)
+男の子;おとこのこ;anak laki-laki;bocah berjenis kelamin laki-laki
+女の子;おんなのこ;anak perempuan;bocah berjenis kelamin perempuan
+決める;きめる;menentukan, memutuskan;menetapkan pilihan hadiah atau rencana (プレゼントを決める)
+考える;かんがえる;memikirkan, mempertimbangkan;merenungkan ide dan solusi dalam benak
+ご結婚;ごけっこん;pernikahan Anda;bentuk sangat hormat untuk pernikahan orang lain
+私たち;わたしたち;kami, kita;kata ganti jamak orang pertama
+うれしい;うれしい;senang gembira;perasaan bahagia spontan dalam hati
+相手;あいて;pasangan, pihak lawan;pasangan hidup atau rekan bicara (結婚相手)
+お祝い;おいわい;kado selamat, perayaan ucapan;hadiah atau perayaan tanda sukacita atas momen bahagia
+ごちそうする;ごちそうする;mentraktir makan;menjamu dan menanggung biaya makan orang lain
+きっと;きっと;pasti, niscaya;keyakinan kuat bahwa hal tersebut akan terwujud
+あげる;あげる;memberikan hadiah;menyerahkan kado kepada orang lain
+楽しみですね;たのしみですね;pasti sangat dinanti ya;ungkapan turut antusias menantikan momen bahagia yang akan datang
+おめでとうございます;おめでとうございます;selamat atas keberhasilan Anda;ungkapan formal memberi ucapan selamat
+お幸せに;おしあわせに;semoga berbahagia selalu;ucapan doa restu selamat kepada pasangan pengantin baru
+JLPT;ジェーエルピーティー;ujian JLPT;Ujian Kemampuan Bahasa Jepang resmi (Nihongo Noryoku Shiken)
+フォトフレーム;フォトフレーム;bingkai foto, pigura;wadah pajangan foto kenangan
+時計;とけい;jam dinding, jam tangan;alat penunjuk waktu
+ネクタイ;ネクタイ;dasi;kain panjang pelengkap kemeja formal
+アクセサリー;アクセサリー;aksesori, perhiasan;perhiasan cincin, kalung, atau gelang
+ハンカチ;ハンカチ;saputangan;kain kecil penyeka keringat di saku
+ケーキ;ケーキ;kue tart;kue manis perayaan ulang tahun atau pesta
+ギフトカード;ギフトカード;voucher hadiah;kartu belanja pengganti uang tunai
+帰国する;きこくする;pulang ke tanah air;kembali ke negara asal setelah masa tinggal di Jepang usai
+寂しい;さびしい;merasa sepi kehilangan;perasaan sedih dan sunyi saat harus berpisah dengan teman
+送別会;そうべつかい;pesta perpisahan;acara kumpul pelepasan rekan yang hendak pindah/pulang kampung
+呼ぶ;よぶ;mengundang, memanggil;mengajak teman-teman hadir ke acara pesta
+予約する;よやくする;memesan tempat, mereservasi;memesan meja restoran atau kamar jauh-jauh hari
+思い出;おもいで;kenangan manis, memori;memori indah peristiwa masa lalu yang membekas
+残る;のこる;terpatri berkesan, tersisa;membekas di dalam ingatan (思い出に残る)
+思う;おもう;berpikir, mengira;berpendapat atau merasakan sesuatu dalam hati
+予算;よさん;anggaran dana;alokasi plafon biaya yang disiapkan untuk membeli kado
+参加者;さんかしゃ;peserta yang hadir;orang-orang yang ikut serta dalam pesta
+それなら;それなら;kalau begitu, jika demikian;merespons informasi baru dari rekan bicara
+デジタルフォトフレーム;デジタルフォトフレーム;bingkai foto digital;layar elektronik pemutar slideshow foto otomatis
+選ぶ;えらぶ;memilih kado;menyeleksi pilihan terbaik di antara opsi
+それでは;それでは;kalau begitu, sekarang;kata pembuka resmi sebelum memulai agenda sambutan
+挨拶;あいさつ;kata sambutan, salam;ucapan kata sambutan perpisahan di depan hadirin
+初め;はじめ;pada permulaan;tahap awal sebelum melanjutkan ke hal lain
+友だちができる;ともだちができる;mendapatkan teman baru;berhasil menjalin pertemanan akrab
+大切にする;たいせつにする;menjaga dengan baik, menghargai;merawat barang kado dengan penuh kasih sayang
+飾る;かざる;memajang, mendekorasi;menaruh foto atau hiasan di meja/dinding
+私のこと;わたしのこと;tentang diri saya;segala hal mengenai keberadaan diri pembicara
+忘れる;わすれる;melupakan;luput dari ingatan (私を忘れないで)
+お元気で;おげんきで;sehat selalu, jaga diri baik-baik;salam perpisahan mendoakan kesehatan saat berpisah lama
+乾杯;かんぱい;bersulang toast;mengangkat gelas bersama saat membuka pesta
+お世話になりました;おせわになりました;terima kasih atas segala bantuan selama ini;ungkapan hormat saat berpamitan selesai bekerja/tinggal
+元気でいてください;げんきでいてください;tetaplah selalu sehat bugar;doa permohonan agar rekan selalu dilimpahi kesehatan
+メッセージ;メッセージ;pesan tulisan kesan pesan;tulisan ucapan perpisahan di kartu ucapan
+とうとう;とうとう;akhirnya, pada akhirnya;tiba saatnya momen yang tak terelakkan setelah perjalanan panjang
+〜代;〜だい;usia rentang ... puluhan;kelompok usia puluhan tahun (misal 30代 usia 30-an tahun)
+歌う;うたう;menyanyi;melantunkan lagu dengan suara
+踊る;おどる;menari;menggerakkan badan berirama diiringi musik
+サービス;サービス;pelayanan cuma-cuma, bonus;layanan ekstra gratis dari toko atau keramahan staf
+温かい;あたたかい;hangat penuh kebaikan;sikap batin orang yang ramah dan penuh perhatian
+カラオケ;カラオケ;karaoke;hiburan menyanyi diiringi rekaman musik instrumental
+幸せ[な];しあわせ[な];bahagia;keadaan hidup yang tenteram dan penuh sukacita
+素敵[な];すてき[な];elok, luar biasa memikat;pujian kekaguman atas keanggunan atau kebaikan
+〜ますように;〜ますように;semoga ... terwujud;ungkapan panjatan doa harapan (misal 幸せでありますように)
+家庭;かてい;keluarga, rumah tangga;kehidupan rumah tangga bersama pasangan dan anak
+いつまでも;いつまでも;hingga kapan pun, selamanya;tanpa batas waktu akhir terus berlanjut
+築く;きずく;membangun rumah tangga;mendirikan pondasi kokoh keluarga sakinah (家庭を築く)
+末永く;すえながく;langgeng selamanya;doa agar pernikahan abadi sepanjang hayat (末永くお幸せに)
+いなくなる;いなくなる;sudah tidak ada lagi di sini;pergi meninggalkan tempat sehingga terasa sepi
+がんばってください;がんばってください;tetap semangat dan sukses selalu;dorongan semangat untuk rekan yang memulai babak baru
+これまで;これまで;hingga saat ini;rentang waktu dari masa lalu sampai sekarang
+活躍;かつやく;kiprah cemerlang, kesuksesan;kontribusi berprestasi dan kiprah aktif di tempat baru
+期待する;きたいする;menaruh harapan besar;berharap dan menantikan kesuksesan rekan di masa depan

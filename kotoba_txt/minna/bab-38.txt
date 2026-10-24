@@ -1,0 +1,69 @@
+〜という;〜という;bernama ~, berjudul ~;menyebutkan nama atau judul suatu karya/benda (〜という本)
+〜冊;〜さつ;~ buah, ~ jilid;satuan hitung untuk buku, majalah, atau dokumen jilid
+〜製;〜せい;buatan ~;menyatakan negara atau bahan asal pembuatan produk (misal 日本製)
+〜点;〜てん;~ poin, ~ nilai;satuan hitung nilai angka ujian atau skor
+５年生;５ねんせい;kelas 5;siswa tingkat tahun ke-5 (misal SD kelas 5)
+あ、いけない;あ、いけない;aduh, gawat / aduh, salah;seruan spontan saat melakukan kesalahan atau menyadari kekeliruan
+おととし;おととし;dua tahun yang lalu;tahun sebelum tahun kemarin
+おとなしい;おとなしい;pendiam, tenang;pribadi yang tidak banyak tingkah atau tidak berisik
+お先に失礼します;おさきにしつれいします;saya permisi duluan;ungkapan sopan pamit pulang lebih awal dari rekan kerja
+仮名;かな;huruf kana;aksara fonetis Jepang (mencakup Hiragana dan Katakana)
+きちんと;きちんと;dengan rapi, dengan teratur;melakukan sesuatu dengan tertib tanpa berantakan
+けんかします;けんかします;bertengkar, berselisih;berdebat mulut atau berkelahi fisik (人とけんかする)
+しかた;しかた;cara, metode;cara melakukan sesuatu (sering dalam ungkapan しかたがない)
+つきます;つきます;berbohong;mengucapkan kebohongan dalam frasa 嘘をつく (うそをつきます)
+判子;はんこ;stempel, cap pribadi;stempel nama pengganti tanda tangan di Jepang (inkan/hanko)
+育てます;そだてます;membesarkan, membudidayakan;merawat anak, hewan, atau tanaman hingga bertumbuh
+運びます;はこびます;mengangkut, membawa barang;memindahkan muatan dari satu lokasi ke lokasi lain
+駅前;えきまえ;depan stasiun;kawasan perniagaan atau area di depan pintu stasiun
+押します;おします;membubuhkan, menekan;membubuhkan cap stempel (はんこを押す) atau menekan tombol
+回覧;かいらん;edaran keliling;surat pengumuman berantai yang diedarkan antar warga (kairanban)
+海岸;かいがん;pantai, pesisir laut;kawasan tepi laut
+掛けます;かけます;mengunci;memutar atau memasang anak kunci pintu (かぎを掛ける)
+気が強い;きがつよい;berwatak keras, tegas/tegar;berkepribadian pantang menyerah atau berpendirian keras
+気持ちがいい;きもちがいい;merasa nyaman, segar;sensasi fisik atau batin yang menyenangkan dan rileks
+気持ちが悪い;きもちがわるい;tidak nyaman, mual/jijik;perasaan meriang, mual, atau melihat hal yang menjijikkan
+健康;けんこう;kesehatan;kondisi fisik dan mental yang bugar
+研究室;けんきゅうしつ;ruang riset, ruang dosen;ruangan kerja dosen atau laboratorium penelitian universitas
+工場;こうじょう;pabrik;tempat pengolahan dan produksi barang industri
+参加します;さんかします;mengikuti, berpartisipasi;ikut serta dalam kegiatan atau acara (旅行・会議に参加する)
+姉妹;しまい;saudari, saudara perempuan;hubungan kakak dan adik perempuan
+指輪;ゆびわ;cincin;perhiasan yang melingkar di jari tangan
+似ています;にています;mirip, serupa;memiliki rupa atau sifat yang menyerupai orang lain (〜に似ている)
+時間がたちます;じかんがたちます;waktu berlalu;waktu terus bergulir seiring masa
+習慣;しゅうかん;kebiasaan, adat istiadat;rutinitas harian atau tradisi budaya masyarakat
+小さな〜;ちいさな〜;yang kecil;bentuk rentaishi sebelum kata benda (misal 小さな手)
+小学校;しょうがっこう;Sekolah Dasar (SD);jenjang pendidikan formal 6 tahun pertama
+世話をします;せわをします;merawat, mengurus;mengasuh orang, anak, atau hewan peliharaan (〜の世話をする)
+性格;せいかく;kepribadian, watak;sifat bawaan atau karakter dasar seseorang
+整理します;せいりします;merapikan, menyortir;menata kembali barang atau informasi agar tidak berantakan
+赤ちゃん;あかちゃん;bayi;anak kecil yang baru lahir
+切ります;きります;mematikan (daya listrik);mematikan aliran listrik atau sakelar alat (電源を切る)
+双子;ふたご;anak kembar;kelahiran dua anak kembar
+村;むら;desa, perkampungan;wilayah pemukiman pedesaan
+退院します;たいいんします;keluar dari rumah sakit;selesai masa opname dan diperbolehkan pulang dari RS
+大きな〜;おおきな〜;yang besar;bentuk rentaishi sebelum kata benda (misal 大きな声)
+大好きな;だいすきな;sangat disukai;tingkat kesukaan yang sangat mendalam pada suatu hal
+中学校;ちゅうがっこう;Sekolah Menengah Pertama (SMP);jenjang pendidikan formal 3 tahun setelah SD
+電源;でんげん;sumber daya, tombol power;sakelar aliran arus listrik pada perangkat
+入れます;いれます;menyalakan (daya listrik);menghidupkan sakelar arus listrik (電源を入れる)
+入院します;にゅういんします;rawat inap, opname;masuk dan dirawat menginap di rumah sakit
+年齢;ねんれい;usia, umur;jumlah hitungan tahun hidup seseorang
+不思議な;ふしぎな;ajaib, misterius, aneh;kejadian luar biasa atau tidak masuk akal sehat
+方法;ほうほう;metode, cara;tata cara atau prosedur terstruktur menyelesaikan sesuatu
+優しい;やさしい;baik hati, lembut, ramah;sikap hangat, penuh perhatian, dan tidak kasar
+２行目;２ぎょうめ;baris kedua;urutan tulisan pada baris nomor 2 teks
+３行目;３ぎょうめ;baris ketiga;urutan tulisan pada baris nomor 3 teks
+４ページ;４ページ;halaman 4;nomor lembar halaman ke-4 buku
+そば;そば;samping, sisi dekat;posisi di sekitar area terdekat objek
+位置;いち;posisi, letak;titik penempatan koordinat atau posisi geografis
+奥;おく;bagian paling dalam;sisi interior terjauh dari pintu masuk
+横;よこ;samping, sebelah;posisi di sebelah kiri atau kanan objek horizontal
+隅;すみ;pojok, sudut dalam;sudut pertemuan dinding di dalam ruangan
+斜め後ろ;ななめうしろ;serong ke belakang;posisi diagonal di sisi belakang
+斜め前;ななめまえ;serong ke depan;posisi diagonal di sisi depan
+手前;てまえ;sebelah sini, bagian depan;posisi tepat sebelum mencapai suatu batas objek
+周り;まわり;sekeliling, sekitar;area melingkar di seputar suatu pusat
+上から２段目;うえから２だんめ;tingkat kedua dari atas;urutan rak susun nomor 2 dihitung dari paling atas
+真ん中;まんなか;tepat di tengah;posisi persis di titik pusat
+前から２列目;まえから２れつめ;baris kedua dari depan;urutan barisan/antrean nomor 2 dari depan

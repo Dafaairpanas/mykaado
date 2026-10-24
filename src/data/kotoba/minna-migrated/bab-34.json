@@ -10,7 +10,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kastil benteng feodal megah bersejarah (cth: 大阪城, 姫路城)"
   },
   {
     "id": "mn-34-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 34",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pilihan disjungtif antara dua alternatif kata benda"
   },
   {
     "id": "mn-34-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 34",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Satuan ukuran berat massa gram (cth: 200グラム)"
   },
   {
     "id": "mn-34-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 34",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Satuan hitung benda bulat kecil (telur, apel, kelereng, permen)"
   },
   {
     "id": "mn-34-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 34",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Takaran jumlah porsi saji masakan (cth: 2人分 = porsi 2 orang)"
   },
   {
     "id": "mn-34-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pecahan matematika satu per empat (penyebut dibaca dulu sebelum 分の)"
   },
   {
     "id": "mn-34-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 34",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pilihan disjungtif antara dua alternatif kata benda"
   },
   {
     "id": "mn-34-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Orang yang datang bertamu atau berbelanja"
   },
   {
     "id": "mn-34-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 34",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Khusus mengocok bubuk matcha dengan kuas chasen saat upacara minum teh"
   },
   {
     "id": "mn-34-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 34",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pilihan disjungtif antara dua alternatif kata benda"
   },
   {
     "id": "mn-34-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 34",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Khusus kata kerja membuka dan memegang payung pelindung hujan"
   },
   {
     "id": "mn-34-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Waktu beberapa menit yang baru saja berlalu"
   },
   {
     "id": "mn-34-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Kecap fermentasi kedelai asin gurih khas Jepang (kanji: 醤油)"
   },
   {
     "id": "mn-34-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Fasilitas kebugaran latihan fisik berbayar"
   },
   {
     "id": "mn-34-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Saus cokelat kental gurih asam pelengkap tonkatsu atau yakisoba"
   },
   {
     "id": "mn-34-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 34",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Waktu berjalan berlalu (intransitif: 3年がたつ)"
   },
   {
     "id": "mn-34-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bawang bulat berlapis untuk bahan tumisan/sup (kanji: 玉ねぎ)"
   },
   {
     "id": "mn-34-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 34",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mencelupkan sushi ke kecap shoyu (transitif: しょうゆをつける)"
   },
   {
     "id": "mn-34-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Wadah mangkuk porselen besar untuk hidangan nasi berisik topping"
   },
   {
     "id": "mn-34-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Wadah panci rebusan logam, atau masakan rebusan sayur nabe"
   },
   {
     "id": "mn-34-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Waktu malam tadi sebelum hari ini (sinonim: 昨夜 / さくや)"
   },
   {
     "id": "mn-34-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna kuning cerah (kalau kata sifat-i = 黄色い)"
   },
   {
     "id": "mn-34-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Lidah kobaran api kompor"
   },
   {
     "id": "mn-34-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 34",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menaruh panci di atas kompor menyala untuk mulai memasak"
   },
   {
     "id": "mn-34-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 34",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Sadar akan barang bawaan yang tertinggal (荷物に気がつく)"
   },
   {
     "id": "mn-34-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 34",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sensasi rasa pahit seperti jamu, kopi pekat, atau pare"
   },
   {
     "id": "mn-34-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 34",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kunci atau dompet hilang berhasil ditemukan kembali (intransitif: 鍵が見つかる)"
   },
   {
     "id": "mn-34-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna gelap hitam (kalau kata sifat-i = 黒い)"
   },
   {
     "id": "mn-34-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna biru pekat gelap khas pakaian dinas resmi"
   },
   {
     "id": "mn-34-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 34",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menaruh topping di atas nasi, atau memuat artikel ke situs web"
   },
   {
     "id": "mn-34-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bahan mentah komponen pembuat masakan atau konstruksi"
   },
   {
     "id": "mn-34-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 34",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Bertanya meminta penjelasan kepada guru atau narasumber"
   },
   {
     "id": "mn-34-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 34",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Sayur atau daging di panci menjadi matang mendidih (intransitif: 肉が煮える)"
   },
   {
     "id": "mn-34-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 34",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memasak lauk berkuah bumbu kecap manis gurih (transitif: 魚を煮る)"
   },
   {
     "id": "mn-34-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Semangkuk nasi putih bertabur tumisan daging ayam dan telur kocok gurih"
   },
   {
     "id": "mn-34-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ilustrasi denah atau gambar sketsa panduan petunjuk"
   },
   {
     "id": "mn-34-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna biru laut atau langit (kalau kata sifat-i = 青い)"
   },
   {
     "id": "mn-34-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna merah (kalau kata sifat-i = 赤い)"
   },
   {
     "id": "mn-34-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 34",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Melipat kertas origami (紙を折る), atau mematahkan ranting"
   },
   {
     "id": "mn-34-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Buku instruksi panduan cara penggunaan atau perakitan barang"
   },
   {
     "id": "mn-34-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melakukan suatu tahapan lebih awal sebelum langkah berikutnya"
   },
   {
     "id": "mn-34-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Garis lurus atau lengkung penunjuk pola (線を引く = menarik garis)"
   },
   {
     "id": "mn-34-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 34",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menyatukan komponen mebel kayu atau mesin menjadi satu wujud utuh"
   },
   {
     "id": "mn-34-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Warna cokelat seperti seduhan teh (kalau kata sifat-i = 茶色い)"
   },
   {
     "id": "mn-34-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Ritual seni filosofis menyajikan teh matcha tradisional Jepang"
   },
   {
     "id": "mn-34-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Garam, gula, cuka, kecap, dan aneka penyedap rasa masakan"
   },
   {
     "id": "mn-34-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Instruksi memotong daging atau sayur dalam ukuran proporsional"
   },
   {
     "id": "mn-34-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna putih bersih (kalau kata sifat-i = 白い)"
   },
   {
     "id": "mn-34-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 34",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menggosok gigi dengan sikat (歯を磨く) atau memoles sepatu"
   },
   {
     "id": "mn-34-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Simbol penunjuk arah arah melangkah atau instruksi"
   },
   {
     "id": "mn-34-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Memasak sayuran atau daging dengan sedikit minyak goreng panas (transitif: 野菜を炒める)"
   },
   {
     "id": "mn-34-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Centong bulat cekung bergagang panjang untuk menyendok sayur berkuah"
   },
   {
     "id": "mn-34-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mengaduk adonan telur atau masakan di dalam panci sampai tercampur"
   },
   {
     "id": "mn-34-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Dudukan meja tempat kompor gas memasak di dapur"
   },
   {
     "id": "mn-34-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pasta bumbu biji sesawi kuning pedas khas pelengkap oden/natto"
   },
   {
     "id": "mn-34-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Campuran bubuk aneka rempah-rempah aroma kari"
   },
   {
     "id": "mn-34-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Tombol keyboard komputer atau anak kunci"
   },
   {
     "id": "mn-34-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Saus pasta tomat asam manis pelengkap telur dadar omurice"
   },
   {
     "id": "mn-34-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bumbu tabur lada pedas aromatik (kanji: 胡椒)"
   },
   {
     "id": "mn-34-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Wadah peniris air untuk sayuran cuci atau mi soba dingin"
   },
   {
     "id": "mn-34-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tali sabuk keselamatan kursi mobil atau pesawat (シートベルトをしめる)"
   },
   {
     "id": "mn-34-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Sendok pipih khusus untuk menyendok nasi dari rice cooker"
   },
   {
     "id": "mn-34-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rimpang jahe beraroma hangat pembersih amis daging (kanji: 生姜)"
   },
   {
     "id": "mn-34-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Cabai kering pedas untuk masakan (kanji: 唐辛子)"
   },
   {
     "id": "mn-34-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kain lap bersih khusus untuk mengeringkan piring dan meja makan"
   },
   {
     "id": "mn-34-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Penutup bagian atas wadah panci agar panas tidak keluar"
   },
   {
     "id": "mn-34-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kuali ceper bertangkai untuk menggoreng dan menumis"
   },
   {
     "id": "mn-34-068",
@@ -881,7 +948,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Wadah penyimpan air panas agar tetap mendidih"
   },
   {
     "id": "mn-34-069",
@@ -894,7 +962,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Papan landasan kayu atau plastik untuk memotong sayuran dengan pisau"
   },
   {
     "id": "mn-34-070",
@@ -907,7 +976,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Saus kental emulsi kuning telur dan minyak pelengkap salad"
   },
   {
     "id": "mn-34-071",
@@ -920,7 +990,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pasta kedelai fermentasi gurih bahan utama sup miso (kanji: 味噌)"
   },
   {
     "id": "mn-34-072",
@@ -933,7 +1004,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mengelupas kulit apel, pisang, atau kentang (transitif: りんごの皮をむく)"
   },
   {
     "id": "mn-34-073",
@@ -946,7 +1018,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Teko logam bertangkai untuk merebus air mendidih (kanji: 薬缶)"
   },
   {
     "id": "mn-34-074",
@@ -959,7 +1032,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Merebus bahan makanan di air mendidih tanpa kuah bumbu (cth: 卵をゆでる)"
   },
   {
     "id": "mn-34-075",
@@ -972,7 +1046,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Pasta lobak hijau pedas menyengat hidung pelengkap sashimi dan sushi"
   },
   {
     "id": "mn-34-076",
@@ -985,7 +1060,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Garam pemberi rasa asin alami"
   },
   {
     "id": "mn-34-077",
@@ -998,7 +1074,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Mebel lemari, meja, dan kursi"
   },
   {
     "id": "mn-34-078",
@@ -1011,7 +1088,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kipas hisap pembuang asap dapur ke luar ruangan"
   },
   {
     "id": "mn-34-079",
@@ -1024,7 +1102,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Alat pemotong tutup seng kaleng makanan manual"
   },
   {
     "id": "mn-34-080",
@@ -1037,7 +1116,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Daging unggas ayam konsumsi"
   },
   {
     "id": "mn-34-081",
@@ -1050,7 +1130,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Memotong sayuran atau daun bawang menjadi irisan kecil-kecil lembut"
   },
   {
     "id": "mn-34-082",
@@ -1063,7 +1144,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Bumbu dapur pemanis makanan dan minuman"
   },
   {
     "id": "mn-34-083",
@@ -1076,7 +1158,8 @@
     "chapter": "Bab 34",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Garis tipis, jalan sempit, atau mata sipit,  lawan dari 太い"
   },
   {
     "id": "mn-34-084",
@@ -1089,7 +1172,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Memasak ikan atau sayur dalam larutan kuah shoyu/dashi"
   },
   {
     "id": "mn-34-085",
@@ -1102,7 +1186,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Memanggang daging di atas api atau memanggang roti oven"
   },
   {
     "id": "mn-34-086",
@@ -1115,7 +1200,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Memasak makanan menggunakan uap air panas mendidih di dalam dandang"
   },
   {
     "id": "mn-34-087",
@@ -1128,7 +1214,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Cairan asam fermentasi pemberi rasa kecut pada nasi sushi"
   },
   {
     "id": "mn-34-088",
@@ -1141,7 +1228,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Memasak bulir beras dengan air hingga menjadi nasi pulen matang (ご飯を炊く)"
   },
   {
     "id": "mn-34-089",
@@ -1154,7 +1242,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Peralatan elektronik otomatis memasak dan menghangatkan nasi"
   },
   {
     "id": "mn-34-090",
@@ -1167,7 +1256,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Alat pencungkil tutup logam botol bir atau sirup"
   },
   {
     "id": "mn-34-091",
@@ -1180,7 +1270,8 @@
     "chapter": "Bab 34",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Batang pohon besar, tali tambang tebal, atau garis tebal,  lawan dari 細い"
   },
   {
     "id": "mn-34-092",
@@ -1193,7 +1284,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Segala perkakas alat memasak di dapur"
   },
   {
     "id": "mn-34-093",
@@ -1206,7 +1298,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Peralatan pemanas microwave pemanggang makanan modern"
   },
   {
     "id": "mn-34-094",
@@ -1219,7 +1312,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pisau tajam khusus memotong daging, ikan, dan sayuran di talenan"
   },
   {
     "id": "mn-34-095",
@@ -1232,7 +1326,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tarian tradisional menyambut kepulangan arwah leluhur di musim panas"
   },
   {
     "id": "mn-34-096",
@@ -1245,7 +1340,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Minyak nabati sayur untuk menumis dan menggoreng makanan"
   },
   {
     "id": "mn-34-097",
@@ -1258,7 +1354,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Memasak tempura atau karaage di dalam genangan minyak panas berbusa"
   },
   {
     "id": "mn-34-098",
@@ -1271,7 +1368,8 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Wastafel bak tempat mencuci piring dan sayuran di dapur"
   },
   {
     "id": "mn-34-099",
@@ -1284,6 +1382,7 @@
     "chapter": "Bab 34",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Makanan olahan yang telah dimasak siap disantap"
   }
 ]

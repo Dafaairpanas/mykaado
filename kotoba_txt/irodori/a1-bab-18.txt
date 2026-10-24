@@ -1,0 +1,51 @@
+旅行する／旅行します;りょこうする／りょこうします;berwisata, bepergian
+友だち;ともだち;teman
+会う／会います;あう／あいます;bertemu
+行く／行きます;いく／いきます;pergi
+炊飯器;すいはんき;penanak nasi
+買う／買います;かう／かいます;membeli
+うち;うち;rumah
+もうすぐ;もうすぐ;sebentar lagi
+夏休み;なつやすみ;libur musim panas
+広島;ひろしま;Hiroshima
+連休;れんきゅう;libur panjang
+どこか;どこか;ke suatu tempat
+ゴールデンウィーク;ゴールデンウィーク;Golden Week
+予定;よてい;rencana
+池袋;いけぶくろ;Ikebukuro
+ディズニーランド;ディズニーランド;Disneyland
+富士山;ふじさん;Gunung Fuji
+登る／登ります;のぼる／のぼります;mendaki
+京都;きょうと;Kyoto
+神社;じんじゃ;kuil Shinto
+新幹線;しんかんせん;Shinkansen (kereta peluru)
+雪;ゆき;salju
+見る／見ます;みる／みます;melihat, menonton
+どら焼き;どらやき;dorayaki (kue yang berisi pasta kacang merah)
+食べる／食べます;たべる／たべます;makan
+温泉;おんせん;onsen (kolam pemandian air panas)
+入る／入ります;はいる／はいります;masuk
+お土産;おみやげ;oleh-oleh, buah tangan
+ぜひ;ぜひ;harus
+ほかに;ほかに;selain itu
+あと;あと;dan, juga
+どうして;どうして;mengapa, kenapa
+行って;いって;Anda harus pergi, Pergilah.
+新宿;しんじゅく;Shinjuku
+須賀神社;すがじんじゃ;Kuil Suga
+君の名は。;きみのなは;Kimi no Na wa (Your Name)
+ドラえもん;ドラえもん;Doraemon
+写真;しゃしん;foto
+動画;どうが;video
+友達をタグ付け;ともだちをタグづけ;tandai orang
+気分;きぶん;perasaan
+アクティビティ;アクティビティ;aktivitas
+チェックイン;チェックイン;singgah
+露天風呂;ろてんぶろ;kolam berendam di alam terbuka (onsen outdoor)
+それに;それに;selain itu
+景色;けしき;pemandangan
+それから;それから;kemudian
+鶏;とり;ayam
+でも;でも;tetapi
+それは、よかったですね;それは、よかったですね;Wah, boleh juga. / Kedengarannya bagus, ya.
+別府温泉;べっぷおんせん;Onsen Beppu (area kolam pemandian air panas)

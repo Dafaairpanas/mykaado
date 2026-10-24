@@ -1,0 +1,33 @@
+文学部;ぶんがくぶ;fakultas sastra
+経済学部;けいざいがくぶ;fakultas ekonomi
+法学部;ほうがくぶ;fakultas hukum
+理工学部;りこうがくぶ;fakultas sains & teknologi
+医学部;いがくぶ;fakultas kedokteran
+セミ;せみ;seminar
+単位;たんい;kredit SKS
+学部;がくぶ;fakultas
+経済学;けいざいがく;jurusan ilmu ekonomi
+政治学;せいじがく;jurusan ilmu politik
+心理学;しんりがく;jurusan psikologi
+言語学;げんごがく;jurusan bahasa
+物理学;ぶつりがく;jurusan fisika
+講義;こうぎ;kuliah
+補習;ほしゅう;pelajaran tambahan
+補講;ほこう;kuliah tambahan
+進学を希望する;しんがくをきぼうする;ingin melanjutkan sekolah
+合格発表を見に行く;ごうかくはっぴょうをみにいく;melihat pengumuman kelulusan
+合格する／受かる;ごうかくする／うかる;lulus
+不合格になる／落ちる;ふごうかくになる／おちる;gagal
+授業料／学費を払う;じゅぎょうりょう／がくひをはらう;membayar biaya sekolah
+奨学金をもらう;しょうがくきんをもらう;menerima beasiswa
+大学教授;だいがくきょうじゅ;profesor
+学者;がくしゃ;ilmuwan
+講義に間に合う;こうぎにまにあう;keburu masuk kelas
+講義に遅れる／遅刻する;こうぎにおくれる／ちこくする;telat masuk kelas
+成績がいい;せいせきがいい;nilainya bagus
+成績が悪い;せいせきがわるい;nilainya jelek
+授業中に居眠りをする;じゅぎょうちゅうにいねむりをする;tidur saat kuliah
+授業をサポる;じゅぎょうをさぽる;bolos kuliah
+単位を落とす;たんいをおとす;tidak lulus mata kuliah
+休学する;きゅうがくする;cuti kuliah
+留学する;りゅうがくする;belajar ke luar negeri

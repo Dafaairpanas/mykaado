@@ -1,0 +1,48 @@
+アルバム;アルバム;album
+いたします;いたします;melakukan (Kata Merendahkan Diri dari します)
+いただきます;いただきます;makan, minum, menerima (Kata Merendahkan Diri dari たべます、のみます、もらいます)
+おります;おります;ada (Kata Merendahkan Diri dari います)
+お元気でいらっしゃいますか;おげんきでいらっしゃいますか;Bagaimana kabarnya? (Kata Hormat dari おげんきですか)
+お城;おしろ;kastil, istana
+お宅;おたく;rumah (orang lain)
+お目にかかります;おめにかかります;bertemu (Kata Merendahkan Diri dari あいます)
+お礼;おれい;ucapan terima kasih
+ガイド;ガイド;pemandu
+かないます;かないます;[impian] terkabul
+きりん;きりん;jerapah
+ころ;ころ;ketika (contoh: ketika anak, ketika mahasiswa)
+スケジュール;スケジュール;jadwal
+ただ今;ただいま;sekarang
+はがき;はがき;kartu pos
+ミュンヘン;ミュンヘン;München (Jerman)
+メールアドレス;メールアドレス;alamat e-mail
+応援します;おうえんします;mendukung
+感謝します;かんしゃします;berterima kasih
+緊張します;きんちょうします;tegang
+敬具;けいぐ;Hormat saya (salam penutup surat)
+江戸東京博物館;えどとうきょうはくぶつかん;Museum Edo Tokyo
+郊外;こうがい;pinggiran kota, luar kota
+再来月;さらいげつ;dua bulan lagi
+再来週;さらいしゅう;dua minggu lagi
+再来年;さらいねん;dua tahun lagi
+最後に;さいごに;terakhir
+参ります;まいります;pergi, datang (Kata Merendahkan Diri dari いきます、きます)
+伺います;うかがいます;bertanya, mendengar, berkunjung (Kata Merendahkan Diri dari ききます、いきます)
+私;わたくし;saya (Kata Merendahkan Diri dari わたし)
+自然;しぜん;alam
+初めに;はじめに;pertama-tama
+象;ぞう;gajah
+賞金;しょうきん;hadiah uang
+心から;こころから;dari segenap hati
+申します;もうします;bernama (Kata Merendahkan Diri dari いいます)
+生かします;いかします;menggunakan (contoh: menggunakan pengalaman)
+先生;せんせい;guru (Jika menulis untuk guru sendiri, memakai 先生 sebagai gantinya 様)
+存じます;ぞんじます;mengenal, mengetahui (Kata Merendahkan Diri dari しります)
+入れます;いれます;membuat [kopi] (menyiram air panas dari membuat cairan)
+拝啓;はいけい;Dengan hormat (salam pembuka surat)
+拝見します;はいけんします;melihat (Kata Merendahkan Diri dari みます)
+半年;はんとし;setengah tahun
+封筒;ふうとう;amplop
+放送します;ほうそうします;menyiarkan
+迷惑をかけます;めいわくをかけます;mengganggu
+用意します;よういします;menyediakan

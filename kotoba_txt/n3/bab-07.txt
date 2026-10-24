@@ -1,0 +1,40 @@
+元旦;がんたん;1 Januari
+上旬／初旬;じょうじゅん／しょじゅん;awal bulan (1–10)
+中旬;ちゅうじゅん;tengah bulan (11–20)
+下旬;げじゅん;akhir bulan (21–31)
+月末;げつまつ;akhir bulan (28–31)
+さきおととい;さきおととい;3 hari yang lalu
+一昨日（おととい）;おととい;kemarin lusa
+昨日（きのう）;きのう;kemarin
+今日;きょう;hari ini
+明日（あした）;あした;besok
+あさって;あさって;besok lusa
+しあさって;しあさって;3 hari ke depan
+昨年;さくねん;tahun lalu
+一昨年;いっさくねん;2 tahun yang lalu
+再来年;さらいねん;2 tahun ke depan
+平日;へいじつ;hari biasa
+祝日／祭日;しゅくじつ／さいじつ;hari libur nasional
+先々月;さきざきつき;2 bulan lalu
+先日;せんじつ;beberapa hari lalu
+先々週;さきざきしゅう;2 minggu lalu
+年末年始;ねんまつねんし;akhir & awal tahun
+再来月;さらいげつ;2 bulan ke depan
+年末;ねんまつ;akhir tahun
+再来週;さらいしゅう;2 minggu ke depan
+休暇を取る;きゅうかをとる;mengambil cuti
+予定;よてい;rencana
+日にち;ひにち;hari & tanggal
+にってい;にってい;jadwal
+スケジュール;すけじゅうる;jadwal
+ちょうせい;ちょうせい;menyesuaikan
+変更する;へんこうする;mengganti
+ずらす;ずらす;menggeser
+予約を取り消す／キャンセルする;よやくをとりけす／きゃんせるする;membatalkan reservasi
+旅行会社に申し込む;りょこうかいしゃにもうしこむ;mendaftar ke agen perjalanan
+荷物をつめる;にもつをつめる;packing barang
+海外旅行;かいがいりょこう;wisata internasional
+国内旅行;こくないりょこう;wisata domestik
+2泊3日で温泉に行く;2はく3にちでおんせんにいく;pergi ke onsen 3 hari 2 malam
+日帰りで温泉に行く;ひがえりでおんせんにいく;pergi ke onsen seharian
+旅館に宿泊する;りょかんにしゅくはくする;menginap di ryokan

@@ -1,0 +1,57 @@
+－位;－い;juara ke －
+110番;110ばん;nomor telepon polisi untuk saat darurat
+119番;119ばん;nomor telepon departemen pemadam kebakaran dan penanggulangan bencana untuk saat darurat
+キャンセルします;キャンセルします;membatalkan
+キャンプ;キャンプ;kemah
+コース;コース;jalur, jalan, rute
+スタート;スタート;mulai
+セットします;セットします;memasang, mengatur
+それでも;それでも;masih
+以上です;いじょうです;Sekian.
+回答;かいとう;jawaban
+楽しみにしています;たのしみにしています;menikmati
+急に;きゅうに;mendadak, tiba-tiba
+係員;かかりいん;staf, petugas
+信じます;しんじます;percaya
+大学生;だいがくせい;mahasiswa
+知らせます;しらせます;memberitahukan
+中止;ちゅうし;pembatalan
+点;てん;poin
+悩み;なやみ;masalah
+梅;うめ;bunga plum
+保証書;ほしょうしょ;surat garansi
+無理に;むりに;dengan paksa
+鳴ります;なります;berbunyi
+目が覚めます;めがさめます;terbangun
+目覚まし時計;めざましどけい;weker
+優勝します;ゆうしょうします;menang
+領収書;りょうしゅうしょ;kuitansi
+カルテ;カルテ;data pasien
+コンビニ;コンビニ;toko 24 jam
+レントゲンを撮る;レントゲンをとる;meronsen
+会計;かいけい;kasir
+外科;げか;bedah
+眼科;がんか;mata
+検査する;けんさする;memeriksa/mengecek
+産婦人科;さんふじんか;obstetrics dan gynaecology
+歯科;しか;gigi
+耳鼻咽喉科;じびいんこうか;THT
+手術する;しゅじゅつする;dioperasi
+受付;うけつけ;tempat pendaftaran
+処方箋;しょほうせん;resep
+小児科;しょうにか;pediatri/kesehatan anak
+錠剤／粉薬／カプセル;じょうざい／こなぐすり／カプセル;pil/puyer/kapsul
+診察する;しんさつする;memeriksa
+診察券;しんさつけん;kartu pasien
+整形外科;せいけいげか;bedah ortopedi
+待合室;まちあいしつ;ruang tunggu
+注射する;ちゅうしゃする;menyuntik
+痛み止め／湿布薬／解熱剤;いたみどめ／しっぷやく／げねつざい;analgesik/obat koyo/penurun panas
+内科;ないか;penyakit dalam
+入院／退院する;にゅういん／たいいんする;opname/keluar dari rumah sakit
+泌尿器科;ひにょうきか;urologi
+皮膚科;ひふか;dermatologi
+保険証;ほけんしょう;kartu asuransi
+麻酔する;ますいする;membius
+薬の種類;くすりのしゅるい;jenis obat
+薬局;やっきょく;apotek

@@ -1,0 +1,66 @@
+趣味;しゅみ;hobi, kegemaran;aktivitas pengisi waktu luang yang disukai
+音楽;おんがく;musik;seni nada dan suara
+聞く;きく;mendengar, mendengarkan;menyimak suara lagu atau penjelasan (音楽を聞く)
+本;ほん;buku;bacaan cetak atau buku jilid
+読む;よむ;membaca;membaca buku, koran, atau teks tulisan (本を読む)
+物;もの;barang, hal berwujud;merujuk pada objek berwujud fisik konkret (misal おいしいもの makanan enak)
+写真;しゃしん;foto, potret;gambar hasil pemotretan kamera
+撮る;とる;mengambil (foto/video);menjepret foto atau merekam video (写真を撮る)
+ピアノ;ピアノ;piano;alat musik tuts tuts keyboard besar
+ギター;ギター;gitar;alat musik berdawai petik
+弾く;ひく;memainkan alat musik petik/tuts;khusus instrumen dawai atau tuts (ピアノ・ギターを弾く)
+おしゃべり;おしゃべり;mengobrol, berbincang-bincang;percakapan santai membicarakan berbagai hal
+料理;りょうり;memasak, masakan;aktivitas mengolah makanan atau hidangan masakan
+旅行;りょこう;bepergian, wisata;perjalanan plesir berlibur ke luar kota atau luar negeri
+テニス;テニス;tenis;olahraga raket bola lapangan
+いろいろ;いろいろ;beraneka ragam, bermacam-macam;banyak jenis atau ragam pilihan
+事;こと;hal, urusan, kegiatan;merujuk pada aktivitas atau hal abstrak (misal 好きなこと hal yang disukai)
+人;ひと;orang, manusia;individu manusia atau orang lain
+話す;はなす;berbicara, mengobrol;berbincang atau menyampaikan ucapan kepada orang lain (人と話す)
+特にない;とくにない;tidak ada yang khusus;respons santai saat ditanya minat namun tidak punya preferensi spesifik
+野球;やきゅう;bisbol;olahraga memukul dan menangkap bola khas populer di Jepang
+バドミントン;バドミントン;bulu tangkis;olahraga raket menepuk shuttlecock lewat jaring net
+アニメ;アニメ;anime, animasi;animasi karya produksi Jepang
+市;し;kota, kotamadya;tingkat pembagian wilayah administratif kota di Jepang
+体育館;たいいくかん;gedung olahraga (GOR);gedung olahraga dalam ruangan serbaguna
+毎週;まいしゅう;setiap minggu;frekuensi rutin mingguan
+夕方;ゆうがた;sore hari, petang;waktu menjelang matahari terbenam
+そのあと;そのあと;setelah itu, kemudian;urutan waktu kelanjutan berikutnya
+本当に;ほんとうに;sungguh-sungguh, benar-benar;penekanan kepastian atau derajat kesungguhan
+〜の？;〜の？;kah?, ya?;partikel penanya santai dalam ragam akrab lisan (misal 行くの？)
+僕;ぼく;aku, saya;kata ganti orang pertama informal sopan umumnya dipakai laki-laki
+出かける;でかける;bepergian keluar rumah;melangkah pergi keluar untuk suatu keperluan atau jalan-jalan
+特に;とくに;terutama, khususnya;menyorot hal yang paling menonjol di antara yang lain
+キャッチボール;キャッチボール;lempar tangkap bola;permainan santai berpasangan melempar dan menangkap bola bisbol
+お子さん;おこさん;anak Anda, anak orang lain;sebutan sopan untuk putra/putri milik lawan bicara
+娘;むすめ;anak perempuan kandung;sebutan merendah untuk putri sendiri saat berbicara ke orang lain
+〜人家族;〜にんかぞく;keluarga beranggotakan ... orang;menyatakan jumlah anggota satu keluarga (misal 3人家族)
+犬;いぬ;anjing;hewan peliharaan berkaki empat
+キャンプ;キャンプ;berkemah, kamping;kegiatan menginap di alam bebas menggunakan tenda
+釣り;つり;memancing ikan;kegiatan menangkap ikan menggunakan kail dan joran
+海;うみ;laut, pantai;perairan asin atau kawasan pesisir pantai
+山;やま;gunung;dataran menjulang tinggi di alam
+〜語;〜ご;bahasa ...;akhiran pembentuk nama bahasa bangsa (misal 中国語 bahasa Mandarin)
+言葉;ことば;kata, ucapan, bahasa;kosakata, ujaran lisan, atau bahasa komunikasi
+アウトドア;アウトドア;aktivitas luar ruangan, outdoor;kegiatan rekreasi di alam terbuka (kemah, daki, sepedaan)
+サイクリング;サイクリング;bersepeda santai;olahraga rekreasi mengendarai sepeda jarak jauh
+教える;おしえる;mengajarkan, memberi tahu;membagikan ilmu keahlian atau menginformasikan kabar
+〜人;〜じん;orang berkebangsaan ...;akhiran penanda warga negara (misal フィリピン人 orang Filipina)
+習う;ならう;mempelajari, les/kursus;belajar keahlian dengan bimbingan pengajar (piano, bahasa, dll.)
+英語;えいご;bahasa Inggris;bahasa internasional asal Inggris
+できる;できる;bisa, mampu;memiliki kemampuan kecakapan untuk melakukan sesuatu
+生け花;いけばな;ikebana, seni merangkai bunga;seni tradisional merangkai bunga khas budaya Jepang
+フィリピノ語;フィリピノご;bahasa Filipino;bahasa resmi nasional Filipina berbasis Tagalog
+スペイン語;スペインご;bahasa Spanyol;bahasa nasional Spanyol dan Amerika Latin
+〜人;〜にん;... orang;satuan hitung jumlah manusia
+何人;なんにん;berapa orang;kata tanya untuk menanyakan kuantitas jumlah orang
+１人;ひとり;satu orang;penyebutan khusus jumlah 1 orang (bukan いちにん)
+２人;ふたり;dua orang;penyebutan khusus jumlah 2 orang (bukan ににん)
+３人;さんにん;tiga orang;penyebutan jumlah 3 orang
+４人;よにん;empat orang;penyebutan baku jumlah 4 orang (bukan よんにん)
+５人;ごにん;lima orang;penyebutan jumlah 5 orang
+６人;ろくにん;enam orang;penyebutan jumlah 6 orang
+７人;ななにん / しちにん;tujuh orang;penyebutan jumlah 7 orang
+８人;はちにん;delapan orang;penyebutan jumlah 8 orang
+９人;きゅうにん;sembilan orang;penyebutan jumlah 9 orang (bukan くにん)
+１０人;じゅうにん;sepuluh orang;penyebutan jumlah 10 orang

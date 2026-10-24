@@ -1,0 +1,34 @@
+体の調子／具合が悪い;からだのちょうし／ぐあいがわるい;kondisi badan sedang buruk
+めまいがする;めまいがする;pusing
+胃が痛い;いがいたい;lambung terasa sakit
+息が苦しい;いきがくるしい;sesak nafas
+鼻がつまる;はながつまる;hidung tersumbat
+鼻をかむ;はなをかむ;membuang ingus
+吐き気がする;はきけがする;mual, ingin muntah
+吐く;はく;muntah
+気分が悪い／気持ち (が) 悪い;きぶんがわるい／きもち （が） わるい;merasa tidak enak (ingin muntah, dll)
+目がかゆい;めがかゆい;mata terasa gatal
+目をこする/かく;めをこする・かく;mengucek mata
+頭痛がする;ずつうがする;sakit kepala
+腰が痛い;こしがいたい;sakit pinggang
+苦しむ;くるしむ;menderita
+風邪を引いてつらい;かぜをひいてつらい;tersiksa karena flu
+アレルギーがある;あれるぎいがある;punya alergi
+患者「お世話になりました。」;かんじゃ「おせわになりました。」;terima kasih bantuannya
+看護師「お大事に。」;かんごし「おだいじに。」;semoga lekas sembuh
+専門の医師にみてもらう;せんもんのいしにみてもらう;diperiksa dokter spesialis
+医師の診察を受ける;いしのしんさつをうける;periksa dokter
+歯医者にかかる;はいしゃにかかる;pergi ke dokter gigi
+インフルエンザにかかる;いんふるえんざにかかる;kena influenza
+病気の症状;びょうきのしょうじょう;gejala penyakit
+注射をしてもらう;ちゅうしゃをしてもらう;disuntik
+手術を受ける;しゅじゅつをうける;operasi
+痛みをがまんする;いたみをがまんする;menahan sakit
+花粉症になる;かふんしょうになる;kena alergi serbuk sari
+うがいをする;うがいをする;berkumur
+けがを治す;けがをなおす;menyembuhkan luka
+手の傷;てのきず;luka di tangan
+やけどをする;やけどをする;terkena luka bakar
+大したことがない;たいしたことがない;bukan masalah berarti
+ましになる;ましになる;mendingan
+(お)見舞いに行く;（お）みまいにいく;menjenguk

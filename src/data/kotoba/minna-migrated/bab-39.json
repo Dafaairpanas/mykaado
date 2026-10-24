@@ -10,7 +10,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "akhiran nomor unit kamar hotel, apartemen, atau ruang kantor"
   },
   {
     "id": "mn-39-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pertemuan resmi formal perkenalan calon pasangan nikah"
   },
   {
     "id": "mn-39-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 39",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "toko spesialis komoditas tertentu (misal 花屋 toko bunga)"
   },
   {
     "id": "mn-39-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "biaya pemakaian atau tagihan (misal 電話代 tagihan telepon)"
   },
   {
     "id": "mn-39-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 39",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "rasa bahagia spontan yang dirasakan dalam hati"
   },
   {
     "id": "mn-39-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 39",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ungkapan apresiasi kepada rekan kerja setelah menyelesaikan tugas"
   },
   {
     "id": "mn-39-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 39",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "kecewa karena harapan atau ekspektasi tidak terwujud"
   },
   {
     "id": "mn-39-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 39",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "terlibat adu mulut atau perkelahian (人とけんかする)"
   },
   {
     "id": "mn-39-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 39",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata penghubung formal bertentangan dalam kalimat tertulis"
   },
   {
     "id": "mn-39-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sabun mandi batang atau pembersih tubuh"
   },
   {
     "id": "mn-39-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kain penyerap air untuk mengeringkan badan"
   },
   {
     "id": "mn-39-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kendaraan besar pengangkut barang muatan"
   },
   {
     "id": "mn-39-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kegiatan rekreasi berjalan kaki di perbukitan/alam"
   },
   {
     "id": "mn-39-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 39",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "kaget tiba-tiba karena suara kencang atau kejadian tak terduga"
   },
   {
     "id": "mn-39-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 39",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "bertabrakan fisik dengan kendaraan atau benda lain"
   },
   {
     "id": "mn-39-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "meja informasi atau lobi depan hotel/gedung"
   },
   {
     "id": "mn-39-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 39",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata sambung untuk menambahkan informasi baru"
   },
   {
     "id": "mn-39-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 39",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "berat badan turun atau tubuh tampak lebih ramping"
   },
   {
     "id": "mn-39-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 39",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "perasaan plong dan bebas dari rasa cemas (ほっとする)"
   },
   {
     "id": "mn-39-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tidak bersih atau tercemar kotoran"
   },
   {
     "id": "mn-39-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "peristiwa kobaran api yang melalap bangunan"
   },
   {
     "id": "mn-39-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "tempat diselenggarakannya pesta, rapat, atau pameran"
   },
   {
     "id": "mn-39-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tekstur benda atau makanan yang padat keras tidak lembek"
   },
   {
     "id": "mn-39-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 39",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "sesuai dan serasi (ukuran pakaian, selera, atau jadwal)"
   },
   {
     "id": "mn-39-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "kondisi masa kini yang dibandingkan dengan keadaan dahulu"
   },
   {
     "id": "mn-39-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 39",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bentuk sangat sopan (kenjougo) dari いきます/ききます"
   },
   {
     "id": "mn-39-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 39",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "hilang nyawa (kata dasar intransitif 死ぬ)"
   },
   {
     "id": "mn-39-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "insiden tak disengaja di jalan raya atau tempat kerja"
   },
   {
     "id": "mn-39-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 39",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "keberadaan barang atau orang yang merintangi ruang/aktivitas"
   },
   {
     "id": "mn-39-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "kepala pemerintahan kabinet (misal perdana menteri Jepang)"
   },
   {
     "id": "mn-39-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perayaan resmi pemuda yang menginjak usia dewasa di Jepang"
   },
   {
     "id": "mn-39-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 39",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "berubah mengadopsi budaya atau teknologi barat"
   },
   {
     "id": "mn-39-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menjalankan atau mengendalikan alat/mesin (bukan operasi medis bedah)"
   },
   {
     "id": "mn-39-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 39",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "berat badan bertambah atau tubuh membesar"
   },
   {
     "id": "mn-39-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "badai siklon tropis hebat yang sering melanda Jepang"
   },
   {
     "id": "mn-39-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "orang yang sudah akil balig atau cukup umur"
   },
   {
     "id": "mn-39-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 39",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kerumunan orang dalam jumlah banyak"
   },
   {
     "id": "mn-39-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "getaran lempeng tektonik bumi"
   },
   {
     "id": "mn-39-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "rasa canggung atau malu karena ketahuan berbuat salah/canggung"
   },
   {
     "id": "mn-39-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gelombang laut pasang raksasa akibat gempa dasar laut"
   },
   {
     "id": "mn-39-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 39",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "berjalan melalui jalan tertentu (道を通る)"
   },
   {
     "id": "mn-39-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "berdasarkan warisan adat istiadat masa lalu"
   },
   {
     "id": "mn-39-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "saat berada di pertengahan proses perjalanan atau kegiatan"
   },
   {
     "id": "mn-39-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 39",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "bangunan runtuh, pohon tumbang, atau tubuh jatuh pingsan"
   },
   {
     "id": "mn-39-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 39",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memberikan respons terhadap pertanyaan atau soal (質問に答える)"
   },
   {
     "id": "mn-39-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tekstur benda atau makanan yang empuk lentur (daging empuk dsb.)"
   },
   {
     "id": "mn-39-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 39",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perasaan hati terluka atau pilu"
   },
   {
     "id": "mn-39-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 39",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "susunan atau masalah yang tidak sederhana untuk dipahami"
   },
   {
     "id": "mn-39-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "baju modern sehari-hari (lawan dari 着物 kimono)"
   },
   {
     "id": "mn-39-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kilatan petir dan suara gemuruh halilintar"
   },
   {
     "id": "mn-39-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 39",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "membubarkan ikatan perkawinan secara hukum"
   },
   {
     "id": "mn-39-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 39",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "emosi tidak sabar atau merasa terganggu karena hal lambat"
   },
   {
     "id": "mn-39-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 39",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "terpukau kagum melihat keindahan luar biasa"
   },
   {
     "id": "mn-39-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perasaan menginginkan keberuntungan yang dinikmati orang lain"
   },
   {
     "id": "mn-39-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 39",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menghibur, asyik, atau memicu tawa"
   },
   {
     "id": "mn-39-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 39",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "perasaan pupus harapan saat ekspektasi tidak terwujud"
   },
   {
     "id": "mn-39-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 39",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "jantung berdegup kencang karena tegang, gugup, atau jatuh cinta"
   },
   {
     "id": "mn-39-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 39",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "perasaan gelisah cemas menyaksikan situasi berbahaya/kritis"
   },
   {
     "id": "mn-39-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 39",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "reaksi kaget mendadak terhadap hal yang mengejutkan"
   },
   {
     "id": "mn-39-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 39",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "jantung berdebar senang menantikan momen menggembirakan"
   },
   {
     "id": "mn-39-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "membangkitkan kenangan manis masa lalu yang dirindukan"
   },
   {
     "id": "mn-39-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 39",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perasaan ceria menikmati suasana atau hiburan"
   },
   {
     "id": "mn-39-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 39",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kondisi emosional atau sensasi fisik yang dialami batin"
   },
   {
     "id": "mn-39-064",
@@ -829,6 +892,7 @@
     "chapter": "Bab 39",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "merasa sepi sendiri tanpa kehadiran orang terdekat"
   }
 ]

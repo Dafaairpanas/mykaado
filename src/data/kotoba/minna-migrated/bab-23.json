@@ -10,7 +10,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Air matang yang bersuhu panas mendidih (lawan dari 水 / air dingin)"
   },
   {
     "id": "mn-23-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 23",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan urutan keberapa (cth: 2つ目 = yang kedua, 1番目 = nomor satu)"
   },
   {
     "id": "mn-23-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Dimensi besaran ukuran busana atau sepatu (S, M, L)"
   },
   {
     "id": "mn-23-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 23",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menarik pintu sorong, menarik tali, atau mengurangkan angka (lawan dari 押します)"
   },
   {
     "id": "mn-23-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Suara gemuruh, musik, deru mesin, atau bunyi ketukan (bukan suara manusia / 声)"
   },
   {
     "id": "mn-23-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Frekuensi yang sering diulang berkali-kali"
   },
   {
     "id": "mn-23-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 23",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memutar kenop saklar keran atau setir kemudi"
   },
   {
     "id": "mn-23-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sudut belokan tikungan jalan atau pojok ruangan"
   },
   {
     "id": "mn-23-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Struktur penghubung daratan yang melintasi sungai atau jurang (橋を渡る = menyeberang jembatan)"
   },
   {
     "id": "mn-23-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 23",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membelokkan arah haluan jalan (arah ditandai へ: 右へ曲がる = belok kanan)"
   },
   {
     "id": "mn-23-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Struktur fisik arsitektur bangunan buatan manusia"
   },
   {
     "id": "mn-23-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi malafungsi pada mesin atau alat elektronik (故障する = rusak)"
   },
   {
     "id": "mn-23-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Titik temu simpang empat jalan raya berlampu lalu lintas"
   },
   {
     "id": "mn-23-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 23",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perasaan hati sedih rindu karena merasa sendirian tanpa kawan (sinonim: さみしい)"
   },
   {
     "id": "mn-23-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 23",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Keluarnya uang kembalian dari mesin otomatis (お釣りが出る)"
   },
   {
     "id": "mn-23-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 23",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menyentuhkan tangan pada benda (benda yang disentuh ditandai に: ドアに触る)"
   },
   {
     "id": "mn-23-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 23",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Lampu pengatur arus jalan raya (merah = 赤, kuning = 黄, hijau/biru = 青)"
   },
   {
     "id": "mn-23-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Area petak lahan untuk memarkir kendaraan mobil/motor"
   },
   {
     "id": "mn-23-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 23",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Melintasi jembatan, jalan raya, atau sungai (jalan/jembatan ditandai を)"
   },
   {
     "id": "mn-23-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jalur jalan raya atau jalan setapak pemukiman"
   },
   {
     "id": "mn-23-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 23",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menanyakan informasi arah jalan atau alamat kepada orang (orang ditandai に)"
   },
   {
     "id": "mn-23-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 23",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengubah setelan pengaturan suhu atau menukar warna (transitif)"
   },
   {
     "id": "mn-23-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 23",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Melangkahkan kaki berpindah tempat (intransitif: 道を歩く)"
   },
   {
     "id": "mn-23-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Stasiun pengisian bahan bakar kendaraan (gas station)"
   },
   {
     "id": "mn-23-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rambu larangan kendaraan melaju berlawanan arah"
   },
   {
     "id": "mn-23-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rambu lalu lintas larangan berbelok ke arah sisi kanan"
   },
   {
     "id": "mn-23-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Jalur garis putih di jalan aspal khusus tempat pejalan kaki menyeberang"
   },
   {
     "id": "mn-23-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sudut belokan tikungan jalan atau pojok ruangan"
   },
   {
     "id": "mn-23-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Titik temu simpang empat jalan raya berlampu lalu lintas"
   },
   {
     "id": "mn-23-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jalan raya ekspres khusus mobil berkecepatan tinggi antarkota"
   },
   {
     "id": "mn-23-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jalan berkontur miring menanjak atau menurun (坂を登る/下りる)"
   },
   {
     "id": "mn-23-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rambu marka jalan perintah berhenti penuh sebelum melanjutkan jalan"
   },
   {
     "id": "mn-23-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Bagian badan jalan aspal khusus kendaraan bermotor,  lawan dari 歩道"
   },
   {
     "id": "mn-23-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 23",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Lampu pengatur arus jalan raya (merah = 赤, kuning = 黄, hijau/biru = 青)"
   },
   {
     "id": "mn-23-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rambu larangan keras kendaraan melintas masuk ke area jalan tersebut"
   },
   {
     "id": "mn-23-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rambu larangan memarkir kendaraan di tepi jalan tersebut"
   },
   {
     "id": "mn-23-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jalan utama pusat pertokoan atau perlintasan kota"
   },
   {
     "id": "mn-23-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pintu palang perlintasan pertemuan jalan raya dengan rel kereta"
   },
   {
     "id": "mn-23-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 23",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Infrastruktur jalan perhubungan dan arus lalu lintas kendaraan"
   },
   {
     "id": "mn-23-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Jalur tepi jalan khusus pejalan kaki agar terhindar dari bahaya mobil,  lawan dari 車道"
   },
   {
     "id": "mn-23-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jembatan layang di atas jalan raya agar pejalan kaki aman menyeberang"
   },
   {
     "id": "mn-23-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Merek minuman teh fiktif dalam contoh teks Minna no Nihongo"
   },
   {
     "id": "mn-23-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Nama halte bus fiktif di depan perpustakaan"
   },
   {
     "id": "mn-23-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tokoh negarawan agung awal sejarah Jepang penyebar agama Buddha (574–622)"
   },
   {
     "id": "mn-23-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Kuil Buddha di Nara yang memiliki bangunan kayu tertua di dunia peninggalan Pangeran Shotoku"
   },
   {
     "id": "mn-23-046",
@@ -595,6 +640,7 @@
     "chapter": "Bab 23",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Nama stasiun kereta fiktif dalam latihan percakapan"
   }
 ]

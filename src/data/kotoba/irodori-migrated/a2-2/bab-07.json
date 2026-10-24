@@ -11,7 +11,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "tandu replika kuil Shinto megah yang diarak warga saat festival"
   },
   {
     "id": "ir-a2-2-07-002",
@@ -25,7 +26,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengangkat mikoshi atau beban di atas bahu (おみこしを担ぐ)"
   },
   {
     "id": "ir-a2-2-07-003",
@@ -39,7 +41,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "daerah pesisir tepi laut"
   },
   {
     "id": "ir-a2-2-07-004",
@@ -53,7 +56,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "barang sisa buangan yang tak terpakai lagi"
   },
   {
     "id": "ir-a2-2-07-005",
@@ -67,7 +71,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengambil sampah yang berserakan (ごみを拾う)"
   },
   {
     "id": "ir-a2-2-07-006",
@@ -81,7 +86,8 @@
     "chapter": "Bab 07",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "air mengucur keluar dari keran (水が出る)"
   },
   {
     "id": "ir-a2-2-07-007",
@@ -95,7 +101,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "getaran lempeng tektonik tanah"
   },
   {
     "id": "ir-a2-2-07-008",
@@ -109,7 +116,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "peristiwa amukan api yang membakar perumahan"
   },
   {
     "id": "ir-a2-2-07-009",
@@ -123,7 +131,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "praktik simulasi kesiapsiagaan menghadapi bencana"
   },
   {
     "id": "ir-a2-2-07-010",
@@ -137,7 +146,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "penghentian sementara pasokan air ledeng pipa"
   },
   {
     "id": "ir-a2-2-07-011",
@@ -151,7 +161,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pekerjaan teknis infrastruktur pipa air minum kota"
   },
   {
     "id": "ir-a2-2-07-012",
@@ -165,7 +176,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "air ledeng tampak berwarna keruh kecokelatan (水が濁る)"
   },
   {
     "id": "ir-a2-2-07-013",
@@ -179,7 +191,8 @@
     "chapter": "Bab 07",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memanfaatkan air atau sarana umum"
   },
   {
     "id": "ir-a2-2-07-014",
@@ -193,7 +206,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "lembaran surat edaran maklumat penting untuk warga"
   },
   {
     "id": "ir-a2-2-07-015",
@@ -207,7 +221,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "frasa formal penunjuk rincian teks di bagian bawah surat"
   },
   {
     "id": "ir-a2-2-07-016",
@@ -221,7 +236,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kurun waktu sesaat"
   },
   {
     "id": "ir-a2-2-07-017",
@@ -235,7 +251,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memutar keran membiarkan air mengalir hingga kembali jernih"
   },
   {
     "id": "ir-a2-2-07-018",
@@ -249,7 +266,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "rasa terganggu atau kerepotan warga akibat perbaikan"
   },
   {
     "id": "ir-a2-2-07-019",
@@ -263,7 +281,8 @@
     "chapter": "Bab 07",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "ungkapan permohonan sopan di akhir surat pengumuman"
   },
   {
     "id": "ir-a2-2-07-020",
@@ -277,7 +296,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "upaya preventif meminimalisir dampak marabahaya bencana"
   },
   {
     "id": "ir-a2-2-07-021",
@@ -291,7 +311,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "jenjang sekolah dasar formal anak"
   },
   {
     "id": "ir-a2-2-07-022",
@@ -305,7 +326,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "area terbuka pekarangan gedung sekolah"
   },
   {
     "id": "ir-a2-2-07-023",
@@ -319,7 +341,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kondisi cuaca saat hujan turun (lawan dari 晴天)"
   },
   {
     "id": "ir-a2-2-07-024",
@@ -333,7 +356,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menunjukkan kondisi persyaratan situasi (misal 雨天の場合)"
   },
   {
     "id": "ir-a2-2-07-025",
@@ -347,7 +371,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "muatan topik rangkaian acara simulasi"
   },
   {
     "id": "ir-a2-2-07-026",
@@ -361,7 +386,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "latihan menghubungi nomor darurat pemadam 119"
   },
   {
     "id": "ir-a2-2-07-027",
@@ -375,7 +401,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "latihan menyelamatkan diri ke tempat aman saat bencana"
   },
   {
     "id": "ir-a2-2-07-028",
@@ -389,7 +416,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "praktik menggunakan tabung alat pemadam api ringan (APAR)"
   },
   {
     "id": "ir-a2-2-07-029",
@@ -403,7 +431,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "latihan mengoperasikan alat kejut jantung portabel darurat"
   },
   {
     "id": "ir-a2-2-07-030",
@@ -417,7 +446,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "orang-orang yang tinggal di seputar lingkungan rumah"
   },
   {
     "id": "ir-a2-2-07-031",
@@ -431,7 +461,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "berkomunikasi saling memeriksa keselamatan satu sama lain"
   },
   {
     "id": "ir-a2-2-07-032",
@@ -445,7 +476,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ketentuan persyaratan yang wajib dipenuhi"
   },
   {
     "id": "ir-a2-2-07-033",
@@ -459,7 +491,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "alas kaki lentur yang aman untuk bergerak aktif"
   },
   {
     "id": "ir-a2-2-07-034",
@@ -473,7 +506,8 @@
     "chapter": "Bab 07",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pakaian yang tidak menghalangi gerak badan"
   },
   {
     "id": "ir-a2-2-07-035",
@@ -487,7 +521,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "busana luaran tradisional Jepang bercorak kanji untuk festival matsuri"
   },
   {
     "id": "ir-a2-2-07-036",
@@ -501,7 +536,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "layanan meminjamkan perlengkapan tanpa dipungut biaya"
   },
   {
     "id": "ir-a2-2-07-037",
@@ -515,7 +551,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "keinginan untuk berpartisipasi (希望者 calon peminat)"
   },
   {
     "id": "ir-a2-2-07-038",
@@ -529,7 +566,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengajukan diri untuk ikut serta dalam kegiatan"
   },
   {
     "id": "ir-a2-2-07-039",
@@ -543,7 +581,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "hadir di titik kumpul pada jam yang ditentukan"
   },
   {
     "id": "ir-a2-2-07-040",
@@ -557,7 +596,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "celana kasual berbahan kain denim"
   },
   {
     "id": "ir-a2-2-07-041",
@@ -571,7 +611,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "hari berlangsungnya kegiatan acara"
   },
   {
     "id": "ir-a2-2-07-042",
@@ -585,7 +626,8 @@
     "chapter": "Bab 07",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "undangan sopan mempersilakan warga hadir ke lokasi"
   },
   {
     "id": "ir-a2-2-07-043",
@@ -599,7 +641,8 @@
     "chapter": "Bab 07",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menggeser tanggal pelaksanaan ke waktu mendatang (bukan batal)"
   },
   {
     "id": "ir-a2-2-07-044",
@@ -613,7 +656,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "daftar barang yang perlu dipersiapkan dibawa peserta"
   },
   {
     "id": "ir-a2-2-07-045",
@@ -627,7 +671,8 @@
     "chapter": "Bab 07",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "pakaian terkena noda lumpur atau debu saat kerja bakti"
   },
   {
     "id": "ir-a2-2-07-046",
@@ -641,7 +686,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "sarung tangan katun tebal pelindung telapak saat kerja bakti"
   },
   {
     "id": "ir-a2-2-07-047",
@@ -655,7 +701,8 @@
     "chapter": "Bab 07",
     "type": "counter",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "estimasi durasi waktu pelaksanaan (misal 2時間程度 sekitar 2 jam)"
   },
   {
     "id": "ir-a2-2-07-048",
@@ -669,7 +716,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "aktivitas kerja bakti membersihkan lingkungan"
   },
   {
     "id": "ir-a2-2-07-049",
@@ -683,7 +731,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "penanggung jawab penggerak kegiatan warga"
   },
   {
     "id": "ir-a2-2-07-050",
@@ -697,7 +746,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perkumpulan warga relawan peduli lingkungan"
   },
   {
     "id": "ir-a2-2-07-051",
@@ -711,7 +761,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "aliran bahan bakar gas rumah tangga"
   },
   {
     "id": "ir-a2-2-07-052",
@@ -725,7 +776,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "mengecek keamanan pipa gas dan kompor"
   },
   {
     "id": "ir-a2-2-07-053",
@@ -739,7 +791,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "bazar warga menjual barang bekas layak pakai harga murah"
   },
   {
     "id": "ir-a2-2-07-054",
@@ -753,7 +806,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perayaan pesta rakyat tradisional Jepang"
   },
   {
     "id": "ir-a2-2-07-055",
@@ -767,7 +821,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sumbangan sukarela untuk kemaslahatan warga"
   },
   {
     "id": "ir-a2-2-07-056",
@@ -781,7 +836,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "permintaan tolong secara santun kepada sesama warga"
   },
   {
     "id": "ir-a2-2-07-057",
@@ -795,7 +851,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "festival pertunjukan kembang api raksasa di tepi sungai"
   },
   {
     "id": "ir-a2-2-07-058",
@@ -809,7 +866,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "bulan yang sedang berlangsung saat ini"
   },
   {
     "id": "ir-a2-2-07-059",
@@ -823,7 +881,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "satu bulan sesudah bulan ini"
   },
   {
     "id": "ir-a2-2-07-060",
@@ -837,7 +896,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kotak penampung surat edaran dan koran"
   },
   {
     "id": "ir-a2-2-07-061",
@@ -851,7 +911,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "badan usaha penyuplai gas rumah tangga"
   },
   {
     "id": "ir-a2-2-07-062",
@@ -865,7 +926,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "rentang waktu kunjungan petugas teknisi (misal 14時から15時の間)"
   },
   {
     "id": "ir-a2-2-07-063",
@@ -879,7 +941,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kantung kertas pembungkus surat tagihan atau edaran"
   },
   {
     "id": "ir-a2-2-07-064",
@@ -893,7 +956,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "kertas pesan tertulis resmi"
   },
   {
     "id": "ir-a2-2-07-065",
@@ -907,7 +971,8 @@
     "chapter": "Bab 07",
     "type": "particle",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pembatasan pengecualian hal tertentu saja"
   },
   {
     "id": "ir-a2-2-07-066",
@@ -921,7 +986,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "acara resmi dibatalkan total (misal karena hujan lebat)"
   },
   {
     "id": "ir-a2-2-07-067",
@@ -935,7 +1001,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "area tanah lapang fasilitas publik warga kota"
   },
   {
     "id": "ir-a2-2-07-068",
@@ -949,7 +1016,8 @@
     "chapter": "Bab 07",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "urutan penyelenggaraan acara (misal 2回目 gelaran ke-2)"
   },
   {
     "id": "ir-a2-2-07-069",
@@ -963,7 +1031,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "aneka piring, mangkuk, gelas, dan sendok"
   },
   {
     "id": "ir-a2-2-07-070",
@@ -977,7 +1046,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "benda sarana bermain anak kecil"
   },
   {
     "id": "ir-a2-2-07-071",
@@ -991,7 +1061,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pagelaran musik langsung di depan penonton"
   },
   {
     "id": "ir-a2-2-07-072",
@@ -1005,7 +1076,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "acara pameran jual beli hasil panen atau kerajinan lokal"
   },
   {
     "id": "ir-a2-2-07-073",
@@ -1019,7 +1091,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kompetisi adu suara vokal karaoke warga"
   },
   {
     "id": "ir-a2-2-07-074",
@@ -1033,7 +1106,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "grup musik instrumen tiup logam dan perkusi"
   },
   {
     "id": "ir-a2-2-07-075",
@@ -1047,7 +1121,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "memainkan instrumen alat musik di panggung"
   },
   {
     "id": "ir-a2-2-07-076",
@@ -1061,7 +1136,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gerakan tari berirama lagu daerah"
   },
   {
     "id": "ir-a2-2-07-077",
@@ -1075,7 +1151,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "berlatih tari bon odori bersama-sama"
   },
   {
     "id": "ir-a2-2-07-078",
@@ -1089,7 +1166,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "pusat peristirahatan tepi jalan raya penampil produk khas lokal"
   },
   {
     "id": "ir-a2-2-07-079",
@@ -1103,7 +1181,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "gedung pertemuan serbaguna milik lingkungan warga"
   },
   {
     "id": "ir-a2-2-07-080",
@@ -1117,7 +1196,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gedung administrasi dan aula kegiatan masyarakat"
   },
   {
     "id": "ir-a2-2-07-081",
@@ -1131,7 +1211,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata depan penunjuk lokasi formal tertulis di undangan"
   },
   {
     "id": "ir-a2-2-07-082",
@@ -1145,7 +1226,8 @@
     "chapter": "Bab 07",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengadakan gelaran festival atau pameran (bazar, konser)"
   },
   {
     "id": "ir-a2-2-07-083",
@@ -1159,7 +1241,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "karcis tanda bukti pembayaran masuk aula"
   },
   {
     "id": "ir-a2-2-07-084",
@@ -1173,7 +1256,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "status tiket yang saat ini tersedia dapat dibeli"
   },
   {
     "id": "ir-a2-2-07-085",
@@ -1187,7 +1271,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "acara malam pertunjukan alunan piano klasik"
   },
   {
     "id": "ir-a2-2-07-086",
@@ -1201,7 +1286,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata sambung formal dalam pengumuman tertulis"
   },
   {
     "id": "ir-a2-2-07-087",
@@ -1215,7 +1301,8 @@
     "chapter": "Bab 07",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kalimat pembuka dari panitia penyelenggara"
   },
   {
     "id": "ir-a2-2-07-088",
@@ -1229,7 +1316,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "undangan santun menyambut kedatangan hadirin di pintu aula"
   },
   {
     "id": "ir-a2-2-07-089",
@@ -1243,7 +1331,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "hari setelah hari ini (あす ragam lebih formal)"
   },
   {
     "id": "ir-a2-2-07-090",
@@ -1257,7 +1346,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menggelar acara atau rapat warga"
   },
   {
     "id": "ir-a2-2-07-091",
@@ -1271,7 +1361,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengamati jalannya latihan tanpa harus ikut menari"
   },
   {
     "id": "ir-a2-2-07-092",
@@ -1285,7 +1376,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bentuk sopan terbuka bagi siapa saja warga yang berminat"
   },
   {
     "id": "ir-a2-2-07-093",
@@ -1299,7 +1391,8 @@
     "chapter": "Bab 07",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "maklumat resmi pembuka siaran warga"
   },
   {
     "id": "ir-a2-2-07-094",
@@ -1313,7 +1406,8 @@
     "chapter": "Bab 07",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "anjuran ramah mempersilakan hadirin datang tanpa rasa sungkan"
   },
   {
     "id": "ir-a2-2-07-095",
@@ -1327,7 +1421,8 @@
     "chapter": "Bab 07",
     "type": "particle",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "topik subjek yang sedang dibahas"
   },
   {
     "id": "ir-a2-2-07-096",
@@ -1341,7 +1436,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "ragam formal dari 今日 untuk naskah pengumuman"
   },
   {
     "id": "ir-a2-2-07-097",
@@ -1355,7 +1451,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "membuka pameran atau menggelar bazar warga"
   },
   {
     "id": "ir-a2-2-07-098",
@@ -1369,7 +1466,8 @@
     "chapter": "Bab 07",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "waktu agenda yang direncanakan berlangsung"
   },
   {
     "id": "ir-a2-2-07-099",
@@ -1383,7 +1481,8 @@
     "chapter": "Bab 07",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "kalimat pembuka siaran pengeras suara kelurahan"
   },
   {
     "id": "ir-a2-2-07-100",
@@ -1397,7 +1496,8 @@
     "chapter": "Bab 07",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "anjuran santun mengundang sanak keluarga datang bersama"
   },
   {
     "id": "ir-a2-2-07-101",
@@ -1411,7 +1511,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "lingkungan wilayah asal tempat tinggal"
   },
   {
     "id": "ir-a2-2-07-102",
@@ -1425,7 +1526,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "warga yang bermatapencaharian bercocok tanam"
   },
   {
     "id": "ir-a2-2-07-103",
@@ -1439,7 +1541,8 @@
     "chapter": "Bab 07",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menghasilkan komoditas sayuran atau kerajinan tangan"
   },
   {
     "id": "ir-a2-2-07-104",
@@ -1453,7 +1556,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kantor balai pamong praja kelurahan"
   },
   {
     "id": "ir-a2-2-07-105",
@@ -1467,7 +1571,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tarian rakyat melingkar di sekeliling panggung yagura saat festival obon"
   },
   {
     "id": "ir-a2-2-07-106",
@@ -1481,7 +1586,8 @@
     "chapter": "Bab 07",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "berbaris melingkar bersama para penari lain"
   },
   {
     "id": "ir-a2-2-07-107",
@@ -1495,7 +1601,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menyesuaikan ayunan langkah dengan tempo musik (音楽に合わせて)"
   },
   {
     "id": "ir-a2-2-07-108",
@@ -1509,7 +1616,8 @@
     "chapter": "Bab 07",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "setiap orang boleh ikut menari"
   },
   {
     "id": "ir-a2-2-07-109",
@@ -1523,7 +1631,8 @@
     "chapter": "Bab 07",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "akhiran jamak untuk orang (misal 娘たち putri-putriku)"
   },
   {
     "id": "ir-a2-2-07-110",
@@ -1537,6 +1646,7 @@
     "chapter": "Bab 07",
     "type": "adv",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "melakukan aktivitas tanpa didampingi orang lain"
   }
 ]

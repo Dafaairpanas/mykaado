@@ -1,0 +1,36 @@
+長男;ちょうなん;putra sulung
+長女;ちょうじょ;putri sulung
+次男;じなん;anak laki-laki kedua
+次女;じじょ;anak perempuan kedua
+三男;さんなん;anak laki-laki ketiga
+末っ子;すえっこ;anak bungsu
+おじ;おじ;paman
+おば;おば;bibi
+職場の同僚;しょくばのどうりょう;rekan kerja
+職場の上司;しょくばのじょうし;atasan
+職場の部下;しょくばのぶか;bawahan
+会社の先輩;かいしゃのせんぱい;senior
+会社の後輩;かいしゃのこうはい;junior
+部長;ぶちょう;general manager
+課長;かちょう;manager
+小学生;しょうがくせい;siswa SD
+中学生;ちゅうがくせい;siswa SMP
+高校生;こうこうせい;siswa SMA
+大学生;だいがくせい;mahasiswa
+会社員;かいしゃいん;karyawan perusahaan
+サラリーマン;さらりいまん;salaryman (pegawai kantoran)
+主婦;しゅふ;ibu rumah tangga
+教師;きょうし;pengajar, guru
+親せき;しんせき;saudara, kerabat
+一人っ子;ひとりっこ;anak tunggal
+一人息子;いちにんむすこ;anak tunggal laki-laki
+一人娘;ひとりむすめ;anak tunggal perempuan
+孫;まご;cucu
+おい;おい;keponakan laki-laki
+めい;めい;keponakan perempuan
+いとこ;いとこ;sepupu
+表現;ひょうげん;ekspresi, ungkapan
+6人兄弟の末っ子;6にんきょうだいのすえっこ;anak bungsu dari 6 bersaudara
+3人姉妹のいちばん上;3にんしまいのいちばんじょう;anak sulung dari 3 bersaudara (perempuan)
+兄弟;きょうだい;saudara laki-laki / saudara (perempuan juga termasuk)
+姉妹;しまい;saudara perempuan (hanya perempuan saja)

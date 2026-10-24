@@ -11,7 +11,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "alat musik tabuh perkusi tradisional Jepang"
   },
   {
     "id": "ir-a2-2-17-002",
@@ -25,7 +26,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "komunitas ekstrakurikuler minat bersama kampus/warga (circle)"
   },
   {
     "id": "ir-a2-2-17-003",
@@ -39,7 +41,8 @@
     "chapter": "Bab 17",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "komunitas ekstrakurikuler minat bersama kampus/warga (circle)"
   },
   {
     "id": "ir-a2-2-17-004",
@@ -53,7 +56,8 @@
     "chapter": "Bab 17",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengajak teman bergabung atau menghadiri acara"
   },
   {
     "id": "ir-a2-2-17-005",
@@ -67,7 +71,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menyatakan penyebab yang membawa hasil positif (lawan dari せいで)"
   },
   {
     "id": "ir-a2-2-17-006",
@@ -81,7 +86,8 @@
     "chapter": "Bab 17",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "jumlah teman atau kosakata semakin bertambah"
   },
   {
     "id": "ir-a2-2-17-007",
@@ -95,7 +101,8 @@
     "chapter": "Bab 17",
     "type": "adv",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "akomodasi terjangkau dengan ruang sosial bersama bagi pelancong"
   },
   {
     "id": "ir-a2-2-17-008",
@@ -109,7 +116,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jejaring sosial daring (Instagram, X, Facebook, LINE)"
   },
   {
     "id": "ir-a2-2-17-009",
@@ -123,7 +131,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "saling bertukar pesan chat atau komentar di medsos"
   },
   {
     "id": "ir-a2-2-17-010",
@@ -137,7 +146,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pengecualian lingkup (misal 仕事以外 di luar jam kantor)"
   },
   {
     "id": "ir-a2-2-17-011",
@@ -151,7 +161,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "cakap dalam suatu keahlian atau makanan lezat nikmat"
   },
   {
     "id": "ir-a2-2-17-012",
@@ -165,7 +176,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "serial cerita sandiwara televisi Jepang (dorama)"
   },
   {
     "id": "ir-a2-2-17-013",
@@ -179,7 +191,8 @@
     "chapter": "Bab 17",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "proporsi nyaris penuh dari dialog film"
   },
   {
     "id": "ir-a2-2-17-014",
@@ -193,7 +206,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata-kata yang diucapkan tokoh dalam film atau drama"
   },
   {
     "id": "ir-a2-2-17-015",
@@ -207,7 +221,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gagasan atau konsep kreatif pemecahan masalah"
   },
   {
     "id": "ir-a2-2-17-016",
@@ -221,7 +236,8 @@
     "chapter": "Bab 17",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "tersenyum lebar atau tertawa gembira mendengar lelucon"
   },
   {
     "id": "ir-a2-2-17-017",
@@ -235,7 +251,8 @@
     "chapter": "Bab 17",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "waktu yang sudah mendekati jam pamit atau mulai"
   },
   {
     "id": "ir-a2-2-17-018",
@@ -249,7 +266,8 @@
     "chapter": "Bab 17",
     "type": "counter",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "menunjukkan periode masa lalu (misal 最初のころ pada masa-masa awal)"
   },
   {
     "id": "ir-a2-2-17-019",
@@ -263,7 +281,8 @@
     "chapter": "Bab 17",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menghadapi masa-masa sulit penuh tantangan"
   },
   {
     "id": "ir-a2-2-17-020",
@@ -277,7 +296,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "hari tenggat penutupan perhitungan tagihan akuntansi bulanan"
   },
   {
     "id": "ir-a2-2-17-021",
@@ -291,7 +311,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "batas tanggal penyerahan hasil produksi barang kepada klien"
   },
   {
     "id": "ir-a2-2-17-022",
@@ -305,7 +326,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pengajuan konfirmasi pertemanan di aplikasi sosial media"
   },
   {
     "id": "ir-a2-2-17-023",
@@ -319,7 +341,8 @@
     "chapter": "Bab 17",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengonfirmasi dan menerima permohonan teman medsos"
   },
   {
     "id": "ir-a2-2-17-024",
@@ -333,7 +356,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sesi perkuliahan atau pelajaran di kelas"
   },
   {
     "id": "ir-a2-2-17-025",
@@ -347,7 +371,8 @@
     "chapter": "Bab 17",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "masalah rumit yang butuh penyelesaian"
   },
   {
     "id": "ir-a2-2-17-026",
@@ -361,6 +386,7 @@
     "chapter": "Bab 17",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengungkapkan rasa terima kasih mendalam atas kebaikan orang"
   }
 ]

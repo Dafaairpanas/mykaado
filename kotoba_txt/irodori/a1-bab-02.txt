@@ -1,0 +1,50 @@
+よく;よく;dengan baik
+もういちど;もういちど;sekali lagi
+もう少し;もうすこし;sedikit lagi
+ゆっくり;ゆっくり;perlahan, pelan
+在留カード;ざいりゅうカード;kartu izin tinggal
+ここ;ここ;(di) sini
+名前;なまえ;nama
+部屋;へや;kamar, ruangan
+わかりません;わかりません;Saya tidak mengerti/paham.
+お願いします;おねがいします;Tolong.
+言ってください;いってください;Tolong katakan/ucapkan.
+見せてください;みせてください;Tolong tunjukkan.
+書いてください;かいてください;Tolong tulis.
+わかりました;わかりました;Saya mengerti/paham.
+0;ゼロ;nol
+1;いち;satu
+2;に;dua
+3;さん;tiga
+4;よん;empat
+5;ご;lima
+6;ろく;enam
+7;なな;tujuh
+8;はち;delapan
+9;きゅう;sembilan
+10;じゅう;sepuluh
+日本語;にほんご;bahasa Jepang
+英語;えいご;bahasa Inggris
+中国語;ちゅうごくご;bahasa Mandarin
+インドネシア語;インドネシアご;bahasa Indonesia
+はい;はい;ya
+少し;すこし;sedikit
+お客さん;おきゃくさん;pelanggan, pembeli (digunakan untuk memanggil pelanggan yang tidak diketahui namanya)
+わかりますか？;わかりますか？;Apakah Anda paham/mengerti?
+できますか？;できますか？;Apakah Anda bisa?
+できます;できます;Saya bisa.
+わかります;わかります;Saya paham/mengerti.
+はい、どうぞ;はい、どうぞ;Silakan.
+じゃあ;じゃあ;Kalau begitu...
+あのう;あのう;Emm... (ungkapan yang digunakan saat pembicara ingin mulai berbicara dengan seseorang)
+日本語で;にほんごで;dalam bahasa Jepang
+何;なん;apa
+消しゴム;けしゴム;penghapus karet
+傘;かさ;payung
+スマホ;スマホ;ponsel pintar
+免許証;めんきょしょう;surat izin, lisensi
+蚊;か;nyamuk
+何ですか？;なんですか？;Apa?
+何と言いますか？;なんといいますか？;Apakah penyebutannya?
+え？;え？;Hah?
+そうそう;そうそう;Ya, ya... Benar.

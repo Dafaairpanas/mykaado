@@ -1,0 +1,31 @@
+ライト;らいと;lampu
+ボンネット;ぼんねっと;kap mesin
+フロントガラス;ふろんとがらす;kaca depan
+ワイパー;わいぱあ;wiper (pembersih kaca)
+サイドミラー;さいどみらあ;kaca spion (luar)
+バックミラー;ばっくみらあ;kaca spion (dalam)
+トランク;とらんく;bagasi
+タイヤ;たいや;ban
+運転席;うんてんせき;kursi pengemudi
+助手席;じょしゅせき;kursi penumpang depan
+ハンドル;はんどる;setir
+カーナビ;かあなび;navigasi
+キー;きい;kunci
+運転免許書;うんてんめんきょしょ;SIM (Surat Izin Mengemudi)
+ドライブをする;どらいぶをする;menyetir mobil jalan-jalan
+レンタカーを借りる;れんたかあをかりる;meminjam mobil rental
+トランクに荷物を積む;とらんくににもつをつむ;menumpuk barang di bagasi
+人を乗せる;ひとをのせる;menaikkan orang ke mobil
+シートベルトをしめる;しいとべるとをしめる;memakai sabuk pengaman
+エンジンをかける;えんじんをかける;menyalakan mesin
+バックミラーで確認する;ばっくみらあでかくにんする;memastikan dengan kaca spion
+ハンドルをにぎる;はんどるをにぎる;memegang setir
+アクセルをふむ;あくせるをふむ;menginjak pedal gas
+ブレーキをかける;ぶれえきをかける;menginjak rem
+ワイパーを動かす;わいぱあをうごかす;menggerakkan wiper
+ガソリンスタンドに寄る;がそりんすたんどによる;mampir ke pom bensin
+タイヤがパンクする;たいやがぱんくする;ban bocor / kempis
+シートベルトをしめる;しいとべるとをしめる;memakai sabuk pengaman
+エンジンをかける;えんじんをかける;menyalakan mesin
+バックミラーで確認をする;ばっくみらあでかくにんをする;memastikan keadaan dengan kaca spion dalam
+トランクに荷物を積む;とらんくににもつをつむ;memasukkan barang ke bagasi

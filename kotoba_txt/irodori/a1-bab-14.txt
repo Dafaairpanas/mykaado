@@ -1,0 +1,73 @@
+トイレ;トイレ;toilet
+コインロッカー;コインロッカー;loker koin
+自動販売機;じどうはんばいき;mesin penjual otomatis
+コンビニ;コンビニ;minimarket (pasar swalayan kecil)
+ATM;エーティーエム;ATM (Anjungan Tunai Mandiri)
+喫煙所;きつえんじょ;ruang merokok,  area merokok
+あちら;あちら;di sana
+飲み物;のみもの;minuman
+あっち;あっち;di sana (bentuk kasual dari あちら)
+ビル;ビル;gedung
+奥;おく;di dalam
+すいません;すいません;Sori. (bentuk informal dari すみません)
+ちょっと、わからないですね;ちょっと、わからないですね;Saya kurang tahu.
+上;うえ;atas
+下;した;bawah
+前;まえ;depan
+後ろ;うしろ;belakang
+中;なか;dalam
+横;よこ;samping
+エスカレーター;エスカレーター;eskalator
+改札;かいさつ;gerbang tiket
+インフォメーション;インフォメーション;bagian informasi
+そっち;そっち;di situ
+すぐ;すぐ;segera
+わかった;わかった;Baik, saya mengerti. (bentuk kasual dari わかりました)
+待っててください;まっててください;Tolong tunggu.
+古い;ふるい;tua,  lama
+新しい;あたらしい;baru
+大きい;おおきい;besar
+大きな;おおきな;besar
+小さい;ちいさい;kecil
+小さな;ちいさな;kecil
+高い;たかい;tinggi
+低い;ひくい;rendah
+にぎやか;にぎやか;ramai
+静か;しずか;sepi,  tenang
+広い;ひろい;luas
+せまい;せまい;sempit
+きれい;きれい;bersih
+きたない;きたない;kotor
+商店街;しょうてんがい;daerah pertokoan
+お寺;おてら;kuil Buddha
+野球場;やきゅうじょう;stadion bisbol
+公園;こうえん;taman
+川;かわ;sungai
+通り;とおり;jalan
+有名;ゆうめい;terkenal
+あれ;あれ;itu
+建物;たてもの;bangunan
+～ドーム（札幌ドーム）;～ドーム（さっぽろドーム）;~ Dome (sebutan untuk bangunan berkubah. Contoh : Sapporo Dome)
+～でしょう？;～でしょう？;~ ya, kan? (ungkapan yang digunakan untuk mendapatkan persetujuan/kesamaan pendapat dari lawan bicara)
+たくさん;たくさん;banyak
+見て;みて;Lihat itu!
+そうだね;そうだね;Iya, ya. / Benar juga. (bentuk kasual dari そうですね)
+危険;きけん;bahaya
+注意;ちゅうい;Perhatian!
+通行止;つうこうどめ;Jalan ditutup
+工事中;こうじちゅう;Sedang ada pekerjaan/pembangunan
+たばこ;たばこ;rokok
+銀行;ぎんこう;bank
+酒;さけ;minuman beralkohol
+定休日;ていきゅうび;Hari libur tetap,  Tutup setiap hari ~
+準備中;じゅんびちゅう;Dalam persiapan
+営業中;えいぎょうちゅう;Buka
+祭 (日);さい (じつ);Hari raya
+祝 (日);しゅく (じつ);Hari libur nasional
+24時間営業;にじゅうよじかんえいぎょう;Buka 24 jam
+年中無休;ねんじゅうむきゅう;Buka sepanjang tahun
+営業時間;えいぎょうじかん;jam operasional
+ランチ;ランチ;makan siang
+ディナー;ディナー;makan malam
+受付時間;うけつけじかん;jam penerimaan pesanan
+休;やすみ;libur,  tutup

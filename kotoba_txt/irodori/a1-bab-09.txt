@@ -1,0 +1,82 @@
+今;いま;sekarang
+何時;なんじ;jam berapa
+朝;あさ;pagi
+昼;ひる;siang
+夜;よる;malam
+午前;ごぜん;a.m. (Ante Meridiem: 00:00 - 11:59)
+午後;ごご;p.m. (Post Meridiem: 12:00-23:59)
+～時;～じ;pukul/jam ～
+1時;いちじ;pukul satu, jam satu
+2時;にじ;pukul dua, jam dua
+3時;さんじ;pukul tiga, jam tiga
+4時;よじ;pukul empat, jam empat
+5時;ごじ;pukul lima, jam lima
+6時;ろくじ;pukul enam, jam enam
+7時;しちじ;pukul tujuh, jam tujuh
+8時;はちじ;pukul delapan, jam delapan
+9時;くじ;pukul sembilan, jam sembilan
+10時;じゅうじ;pukul sepuluh, jam sepuluh
+11時;じゅういちじ;pukul sebelas, jam sebelas
+12時;じゅうにじ;pukul dua belas, jam dua belas
+～分;～ふん／ぷん;～ menit (menunjukkan waktu)
+15分;じゅうごふん;～ :15 / ～ lewat seperempat
+30分;さんじゅっぷん;～ :30 / setengah ～
+45分;よんじゅうごふん;～ :45 / ～ kurang lima belas menit
+半;はん;～ :30 / setengah ～
+起きる／起きます;おきる／おきます;bangun
+寝る／寝ます;ねる／ねます;tidur
+毎日;まいにち;setiap hari
+早い;はやい;awal, dini, cepat
+ええ;ええ;ya
+毎朝;まいあさ;setiap pagi
+ジョギング;ジョギング;joging
+する／します;する／します;melakukan
+だいたい;だいたい;biasanya
+～ごろ;～ごろ;sekitar ～
+遅い;おそい;larut
+ゲーム;ゲーム;gim (game)
+早いですね;はやいですね;Pagi sekali, Cepat sekali.
+遅いですね;おそいですね;Larut sekali.
+お祈り;おいのり;doa, sembahyang
+勉強する／勉強します;べんきょうする／べんきょうします;belajar
+音楽;おんがく;musik
+聞く／聞きます;きく／ききます;mendengarkan
+ネット;ネット;internet
+見る／見ます;みる／みます;melihat, menonton
+朝礼;ちょうれい;apel pagi
+仕事;しごと;pekerjaan
+昼休み;ひるやすみ;istirahat siang
+休み時間;やすみじかん;waktu istirahat
+残業;ざんぎょう;lembur
+はじめに;はじめに;mula-mula
+ときどき;ときどき;kadang-kadang
+1日;いちにち;satu hari
+スケジュール;スケジュール;jadwal
+説明する／説明します;せつめいする／せつめいします;menjelaskan
+在;ざい;hadir
+不在;ふざい;tidak hadir, absen
+遅刻;ちこく;terlambat
+休み;やすみ;cuti
+外出;がいしゅつ;tugas luar
+早退;そうたい;pulang cepat
+行動;こうどう;aktivitas, kegiatan
+予定表;よていひょう;papan jadwal
+氏名;しめい;nama lengkap
+銀行;ぎんこう;bank
+何曜日;なんようび;hari apa
+月曜日／月;げつようび／げつ;Senin
+火曜日／火;かようび／か;Selasa
+水曜日／水;すいようび／すい;Rabu
+木曜日／木;もくようび／もく;Kamis
+金曜日／金;きんようび／きん;Jumat
+土曜日／土;どようび／ど;Sabtu
+日曜日／日;にちようび／にち;Minggu
+プール;プール;kolam renang
+ご飯;ごはん;makan
+映画;えいが;film
+いつ;いつ;kapan
+行く／行きます;いく／いきます;pergi
+いい;いい;bisa, boleh
+だいじょうぶ（な）;だいじょうぶ（な）;bisa, oke
+だめ;だめ;tidak bisa
+～にしましょう;～にしましょう;Ayo kita lakukan pada ～!

@@ -10,7 +10,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ritual pelepasan dan persemayaman jenazah terakhir (葬式に出席する)"
   },
   {
     "id": "mn-31-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 31",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menunjukkan pilihan alternatif atau arah tertentu (cth: 東京のほう)"
   },
   {
     "id": "mn-31-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 31",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Satuan nomor penamaan armada kereta Shinkansen atau badai topan"
   },
   {
     "id": "mn-31-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Sebutan sopan untuk anak kandung milik orang lain"
   },
   {
     "id": "mn-31-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 31",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan kondisi yang berlanjut tanpa terputus (cth: ずっと日本にいたい)"
   },
   {
     "id": "mn-31-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Rangkaian kereta peluru Shinkansen tercepat pada jalur Tokaido/Sanyo"
   },
   {
     "id": "mn-31-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Pulau tujuan wisata tropis terkenal di Indonesia"
   },
   {
     "id": "mn-31-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Seniman pelukis legendaris Spanyol pelopor aliran kubisme (1881–1973)"
   },
   {
     "id": "mn-31-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Gedung tempat menonton pemutaran film layar lebar"
   },
   {
     "id": "mn-31-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Pemandian sumber mata air panas bumi berkhasiat khas Jepang"
   },
   {
     "id": "mn-31-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Waktu melangkah kembali pulang ke rumah (cth: 帰りにパンを買う)"
   },
   {
     "id": "mn-31-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 31",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengambil jeda istirahat sejenak di sela-sela kerja atau belajar"
   },
   {
     "id": "mn-31-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Tempat peribadahan umat Kristen"
   },
   {
     "id": "mn-31-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Cakrawala angkasa biru di atas bumi"
   },
   {
     "id": "mn-31-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Resepsi akad peresmian pernikahan pengantin (結婚式を挙げる)"
   },
   {
     "id": "mn-31-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan frekuensi per satuan waktu bulan (cth: 月に2回 = 2 kali sebulan)"
   },
   {
     "id": "mn-31-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perasaan tidak nyaman atau enggan terhadap suatu hal"
   },
   {
     "id": "mn-31-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 31",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menemukan kembali barang yang dicari atau menemukan solusi (transitif)"
   },
   {
     "id": "mn-31-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tulisan naskah karangan tugas sekolah"
   },
   {
     "id": "mn-31-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 31",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kuantitas yang masih ada belum habis terpakai (intransitif: ご飯が残る)"
   },
   {
     "id": "mn-31-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Sekelompok anak kecil"
   },
   {
     "id": "mn-31-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Unit perwakilan kantor di daerah,  lawan dari 本社"
   },
   {
     "id": "mn-31-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 31",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melakukan aktivitas tanpa batasan atau kekangan"
   },
   {
     "id": "mn-31-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Acara seremonial resmi (入学式, 卒業式, 結婚式)"
   },
   {
     "id": "mn-31-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 31",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengambil hak libur kerja cuti dinas (cth: 休みを取る)"
   },
   {
     "id": "mn-31-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 31",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menjalani tes atau ujian masuk sekolah (試験を受ける)"
   },
   {
     "id": "mn-31-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Stasiun kereta Shinkansen penting di Prefektur Hyogo"
   },
   {
     "id": "mn-31-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 31",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mendaftarkan diri ikut kursus atau mengajukan permohonan dinas"
   },
   {
     "id": "mn-31-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 31",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Meneruskan kegiatan tanpa berhenti (transitif: 勉強を続ける)"
   },
   {
     "id": "mn-31-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 31",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menyelesaikan jenjang masa studi sekolah/kuliah (sekolah ditandai を: 大学を卒業する)"
   },
   {
     "id": "mn-31-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Wilayah pemukiman pedesaan kecil"
   },
   {
     "id": "mn-31-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Jenjang pendidikan magister (S2) dan doktoral (S3) di universitas"
   },
   {
     "id": "mn-31-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ajang pameran memajang lukisan atau karya seni rupa"
   },
   {
     "id": "mn-31-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 31",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kawasan perkotaan modern yang padat penduduk,  lawan dari 田舎"
   },
   {
     "id": "mn-31-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Taman suaka pemeliharaan aneka satwa liar fauna"
   },
   {
     "id": "mn-31-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tes seleksi penerimaan murid atau mahasiswa baru"
   },
   {
     "id": "mn-31-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Memaparkan hasil riset di depan umum (発表する)"
   },
   {
     "id": "mn-31-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 31",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menutup lembaran buku, menutup payung, atau memejamkan mata (transitif: 目を閉じる)"
   },
   {
     "id": "mn-31-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Gedung kantor pusat sentral perusahaan,  lawan dari 支店"
   },
   {
     "id": "mn-31-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari libur berderet beberapa hari berturut-turut (cth: 3連休)"
   },
   {
     "id": "mn-31-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jaringan informasi komputer global daring"
   },
   {
     "id": "mn-31-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Pengunjung toko, tamu hotel, atau pembeli jasa"
   },
   {
     "id": "mn-31-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Cabang ilmu rekayasa komputasi dan sistem perangkat lunak"
   },
   {
     "id": "mn-31-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Nilai keunggulan atau keelokan yang mengagumkan"
   },
   {
     "id": "mn-31-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata ganti orang tak tentu (cth: だれか来ました = ada seseorang datang)"
   },
   {
     "id": "mn-31-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ilmu rekayasa struktur DNA genetik makhluk hidup"
   },
   {
     "id": "mn-31-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ilmu medis penyembuhan dan pencegahan penyakit"
   },
   {
     "id": "mn-31-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Seni olah suara, harmoni nada, dan instrumen"
   },
   {
     "id": "mn-31-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ilmu sains struktur materi senyawa unsur kimia (chemistry)"
   },
   {
     "id": "mn-31-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi kelestarian ekosistem dan penanggulangan polusi alam"
   },
   {
     "id": "mn-31-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Cabang ilmu rekayasa mekanik motor dan permesinan industri"
   },
   {
     "id": "mn-31-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 31",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Sadar akan suatu kekeliruan atau keberadaan hal baru (kesalahan ditandai に)"
   },
   {
     "id": "mn-31-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi teori dan metodologi pengajaran guru kepada siswa"
   },
   {
     "id": "mn-31-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi pengelolaan administrasi perusahaan dan strategi bisnis"
   },
   {
     "id": "mn-31-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi teori pasar, moneter, dan arus keuangan komoditas"
   },
   {
     "id": "mn-31-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Karya estetika budaya bernilai seni tinggi"
   },
   {
     "id": "mn-31-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ilmu merancang struktur desain artistik bangunan gedung"
   },
   {
     "id": "mn-31-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi ilmiah struktur tata bahasa dan fonetik bahasa manusia"
   },
   {
     "id": "mn-31-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Cabang sains terapan rekayasa teknologi praktis"
   },
   {
     "id": "mn-31-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi diplomasi politik dan interaksi antarbangsa dunia"
   },
   {
     "id": "mn-31-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 31",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Upacara, rapat, atau pelajaran dimulai (intransitif: 授業が始まる)"
   },
   {
     "id": "mn-31-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Lingkungan ekosistem alam alami tanpa campur tangan manusia"
   },
   {
     "id": "mn-31-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi ilmiah interaksi struktur sosial masyarakat manusia"
   },
   {
     "id": "mn-31-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi kajian ajaran kepercayaan dan sejarah peradaban agama"
   },
   {
     "id": "mn-31-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 31",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Orang-orang berkumpul di suatu tempat (intransitif: 人が集まる)"
   },
   {
     "id": "mn-31-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 31",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Hadir dalam rapat, upacara, atau perkuliahan (acara ditandai に: 会議に出席する)"
   },
   {
     "id": "mn-31-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi ilmiah kejiwaan emosi dan perilaku manusia"
   },
   {
     "id": "mn-31-068",
@@ -881,7 +948,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ilmu hitung aljabar, geometri, dan logika angka"
   },
   {
     "id": "mn-31-069",
@@ -894,7 +962,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Meliputi seluruh penjuru bumi jagat raya"
   },
   {
     "id": "mn-31-070",
@@ -907,7 +976,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi sistem pemerintahan, kekuasaan negara, dan pemilu"
   },
   {
     "id": "mn-31-071",
@@ -920,7 +990,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kajian proses kimiawi molekuler di dalam sel tubuh makhluk hidup"
   },
   {
     "id": "mn-31-072",
@@ -933,7 +1004,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi ilmiah flora, fauna, dan aneka organisme kehidupan"
   },
   {
     "id": "mn-31-073",
@@ -946,7 +1018,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi pendidikan kebugaran jasmani fisik dan ilmu olahraga"
   },
   {
     "id": "mn-31-074",
@@ -959,7 +1032,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi geologi bumi, atmosfer cuaca, dan lapisan bumi"
   },
   {
     "id": "mn-31-075",
@@ -972,7 +1046,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi bentang alam wilayah persebaran geografis bumi"
   },
   {
     "id": "mn-31-076",
@@ -985,7 +1060,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi hakikat keberadaan, akal budi nalar, dan etika moral"
   },
   {
     "id": "mn-31-077",
@@ -998,7 +1074,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi pengamatan benda-benda antariksa bintang dan galaksi"
   },
   {
     "id": "mn-31-078",
@@ -1011,7 +1088,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rekayasa instalasi pembangkitan transmisi daya listrik"
   },
   {
     "id": "mn-31-079",
@@ -1024,7 +1102,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Rekayasa semikonduktor sirkuit microchip arus lemah"
   },
   {
     "id": "mn-31-080",
@@ -1037,7 +1116,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rekayasa perancangan infrastruktur jalan tol, jembatan, dan bendungan"
   },
   {
     "id": "mn-31-081",
@@ -1050,7 +1130,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi agrikultur budidaya pangan tanaman dan tanah"
   },
   {
     "id": "mn-31-082",
@@ -1063,7 +1144,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Keelokan pemandangan alam atau kecantikan estetik"
   },
   {
     "id": "mn-31-083",
@@ -1076,7 +1158,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kesenian lukisan, sketsa, dan seni pahat"
   },
   {
     "id": "mn-31-084",
@@ -1089,7 +1172,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi standar yang umum ditemui sehari-hari"
   },
   {
     "id": "mn-31-085",
@@ -1102,7 +1186,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi sains gerak materi partikel alam semesta energi"
   },
   {
     "id": "mn-31-086",
@@ -1115,7 +1200,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi karya sastra prosa, puisi, dan novel"
   },
   {
     "id": "mn-31-087",
@@ -1128,7 +1214,8 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi peraturan undang-undang dan sistem peradilan yudisial"
   },
   {
     "id": "mn-31-088",
@@ -1141,6 +1228,7 @@
     "chapter": "Bab 31",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Studi racikan bahan kimiawi obat dan khasiat medis penyembuhan"
   }
 ]

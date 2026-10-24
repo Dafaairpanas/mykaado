@@ -1,0 +1,36 @@
+ミャンマー;ミャンマー;Myanmar
+韓国;かんこく;Korea Selatan
+タイ;タイ;Thailand
+ブラジル;ブラジル;Brazil
+～から来ました;～からきました;berasal dari ~ / datang dari ~
+来る / 来ます;くる / きます;datang
+私;わたし;saya
+はじめまして;はじめまして;Halo, Perkenalkan. (diucapkan ketika bertemu seseorang untuk pertama kalinya)
+（どうぞ）よろしくお願いします;（どうぞ）よろしくおねがいします;Senang berkenalan dengan Anda.
+インドネシア;インドネシア;Indonesia
+名前 / お名前;なまえ / おなまえ;nama, nama (orang lain)
+出身 / ご出身;しゅっしん / ごしゅっしん;daerah asal, daerah asal (orang lain)
+ベトナム;ベトナム;Vietnam
+ハノイ;ハノイ;Hanoi
+国 / お国;くに / おくに;negara, negara (orang lain)
+どちら;どちら;mana (bentuk sopan)
+フエ;フエ;Hue
+カンボジア;カンボジア;Kamboja
+みなさん;みなさん;Anda semua
+友だち;ともだち;teman
+同じ;おなじ;sama
+会社;かいしゃ;perusahaan
+えーと;えーと;Emm... (menunjukkan bahwa pembicara sedang berpikir)
+そうですか;そうですか;Oh, begitu... (respon yang menunjukkan bahwa pembicara memahami apa yang dibicarakan oleh lawan bicara)
+どちらからですか？;どちらからですか？;Anda berasal dari mana?
+～からですか？;～からですか？;Apakah Anda dari ~?
+国籍;こくせき;kewarganegaraan
+生年月日;せいねんがっぴ;tanggal lahir
+西暦;せいれき;penanggalan Masehi
+～年;～ねん;tahun ~
+～月 (12月);～がつ (じゅうにがつ);bulan ~ (contoh: 12月 = bulan ke-12 = Desember)
+～日;～にち;tanggal ~
+住所;じゅうしょ;alamat
+電話番号;でんわばんごう;nomor telepon
+メール;メール;surel (surat elektronik, e-mail)
+申込書;もうしこみしょ;formulir pendaftaran

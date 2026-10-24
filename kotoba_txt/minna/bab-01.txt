@@ -1,0 +1,54 @@
+～から来ました;～からきました;Berasal dari / Datang dari;Menyatakan asal negara atau kota
+～さん;～さん;Tuan / Nyonya / Sdr / Bapak / Ibu;Panggilan sopan umum untuk orang lain (bukan diri sendiri)
+～ちゃん;～ちゃん;Panggilan akrab (Dek / -chan);Untuk anak kecil, anggota keluarga, atau teman akrab
+～歳;～さい;... tahun (usia);Satuan hitung umur (contoh: 20歳)
+～人;～じん;Orang (warga negara);Dilekatkan di belakang nama negara (cth: インドネシア人)
+あなた;あなた;Anda / Kamu;Hindari ke atasan/orang belum akrab, panggilan istri ke suami
+あの人;あのひと;Orang itu / Dia;Ragam biasa/netral (kasual)
+あの方;あのかた;Beliau / Orang itu;Ragam sopan/hormat dari あの人
+アメリカ;アメリカ;Amerika Serikat;AS / USA
+いいえ;いいえ;Tidak / Bukan;Bisa berarti "sama-sama / tidak apa-apa" saat dipuji/terima kasih
+イギリス;イギリス;Inggris;Britania Raya (UK)
+イタリア;イタリア;Italia;Negara di Eropa Selatan
+インド;インド;India;Negara di Asia Selatan
+インドネシア;インドネシア;Indonesia;Negara di Asia Tenggara (RI)
+おいくつ;おいくつ;Berapa usianya?;Bentuk sopan/halus dari 何歳 (nan-sai)
+お名前は;おなまえは;Siapa nama Anda?;Kependekan sopan dari [お名前は何ですか]
+タイ;タイ;Thailand;Muang Thai / Negeri Gajah Putih
+だれ;だれ;Siapa;Ragam biasa/netral (kanji: 誰)
+ドイツ;ドイツ;Jerman;Deutschland
+どうぞよろしくお願いします;どうぞよろしくおねがいします;Senang berkenalan / Mohon bantuannya;Diucapkan di akhir perkenalan atau saat minta bantuan
+どなた;どなた;Siapa (sopan);Bentuk sopan/halus dari だれ (dare)
+はい;はい;Ya / Betul;Juga dipakai untuk menyahut saat nama dipanggil
+はじめまして;はじめまして;Senang bertemu dengan Anda;Ucapan salam pembuka saat pertama kali berkenalan
+ブラジル;ブラジル;Brasil;Negara di Amerika Selatan
+医者;いしゃ;Dokter;Biasa dipanggil sopan: お医者さん
+何歳;なんさい;Berapa usianya? / Berapa umurmu?;Ragam biasa/netral saat menanyakan umur
+会社員;かいしゃいん;Karyawan swasta / Pegawai kantor;Menyebut profesi umum diri sendiri (bukan nama PT)
+学生;がくせい;Mahasiswa / Pelajar;Umumnya merujuk ke mahasiswa perguruan tinggi
+韓国;かんこく;Korea Selatan;Korsel / Daehan Minguk
+教師;きょうし;Guru / Pengajar;Dipakai saat menyebut profesi diri sendiri kepada orang lain
+銀行員;ぎんこういん;Pegawai bank;Gabungan 銀行 (bank) + 員 (pegawai)
+研究者;けんきゅうしゃ;Peneliti;Orang yang melakukan riset/penelitian
+私;わたし;Saya / Aku;Kata ganti orang pertama standar dan sopan
+失礼ですが;しつれいですが;Permisi / Maaf sebelumnya;Diucapkan sebelum menanyakan hal pribadi (nama/umur)
+社員;しゃいん;Karyawan / Staf;Dipakai bersama nama perusahaan (contoh: IMCの社員)
+先生;せんせい;Guru / Dosen / Dokter;Panggilan/sapaan hormat untuk orang lain (bukan diri sendiri)
+大学;だいがく;Universitas / Perguruan tinggi;Kampus
+中国;ちゅうごく;Tiongkok / Cina;Bisa juga merujuk ke wilayah Chugoku di Jepang barat
+日本;にほん;Jepang;Juga dilafalkan "Nippon"
+病院;びょういん;Rumah sakit;Hati-hati bedakan dengan 美容院 (びよういん = salon)
+イラン;イラン;Iran;Negara di Timur Tengah
+エジプト;エジプト;Mesir;Egypt
+オーストラリア;オーストラリア;Australia;Negara benua di selatan Indonesia
+カナダ;カナダ;Kanada;Negara di Amerika Utara
+サウジアラビア;サウジアラビア;Arab Saudi;KSA / Kerajaan Arab Saudi
+シンガポール;シンガポール;Singapura;Negara di Asia Tenggara
+スペイン;スペイン;Spanyol;Negara di Eropa
+フィリピン;フィリピン;Filipina;Negara di Asia Tenggara
+フランス;フランス;Prancis;Negara di Eropa Barat
+ベトナム;ベトナム;Vietnam;Negara di Asia Tenggara
+ペルシア;ペルシア;Persia;Wilayah historis / sebutan lama Iran
+マレーシア;マレーシア;Malaysia;Negara di Asia Tenggara
+メキシコ;メキシコ;Meksiko;Negara di Amerika Utara
+ロシア;ロシア;Rusia;Negara lintas benua Eropa-Asia

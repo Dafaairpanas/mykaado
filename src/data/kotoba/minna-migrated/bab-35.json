@@ -10,7 +10,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Nama tempat kursus komputer fiktif dalam buku pelajaran"
   },
   {
     "id": "mn-35-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "nama benua Afrika"
   },
   {
     "id": "mn-35-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "penutup jendela kain"
   },
   {
     "id": "mn-35-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tombol pada papan ketik komputer atau kunci"
   },
   {
     "id": "mn-35-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 35",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menekan tombol mouse komputer"
   },
   {
     "id": "mn-35-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ungkapan bijak turun-temurun"
   },
   {
     "id": "mn-35-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 35",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kalimat penutup kelas, rapat, atau acara"
   },
   {
     "id": "mn-35-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ungkapan ragu atau saat tidak tahu pasti jawabannya"
   },
   {
     "id": "mn-35-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tempat/area bermain ski bersalju"
   },
   {
     "id": "mn-35-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "merespons informasi baru dari lawan bicara"
   },
   {
     "id": "mn-35-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "daun pepohonan atau tanaman"
   },
   {
     "id": "mn-35-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tali untuk mengikat paket atau barang"
   },
   {
     "id": "mn-35-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "huruf kana kecil di atas/samping kanji sebagai panduan baca"
   },
   {
     "id": "mn-35-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "merujuk ke Kyoto International Manga Museum"
   },
   {
     "id": "mn-35-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Nama lembaga kursus bahasa fiktif dalam buku pelajaran"
   },
   {
     "id": "mn-35-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 35",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menambah tingkatan atau intensitas lebih banyak"
   },
   {
     "id": "mn-35-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gagang tuas mekanik untuk digerakkan"
   },
   {
     "id": "mn-35-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "lantai atap terbuka di atas gedung (bukan loteng tertutup)"
   },
   {
     "id": "mn-35-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "negeri seberang laut / mancanegara"
   },
   {
     "id": "mn-35-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kaitan atau ikatan antar hal/orang"
   },
   {
     "id": "mn-35-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tanda bulat (○) penanda jawaban benar di Jepang"
   },
   {
     "id": "mn-35-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "peluang atau kesempatan baik (chance)"
   },
   {
     "id": "mn-35-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "izin resmi atau persetujuan otoritas"
   },
   {
     "id": "mn-35-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "area sekitar tempat tinggal atau tetangga dekat"
   },
   {
     "id": "mn-35-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 35",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "berinteraksi sosial (人と交わる) atau garis bersilangan"
   },
   {
     "id": "mn-35-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sisi seberang jalan atau pihak lawan"
   },
   {
     "id": "mn-35-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "pelabuhan kapal dan dermaga laut"
   },
   {
     "id": "mn-35-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 35",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "merasa repot, bingung, atau tertimpa masalah"
   },
   {
     "id": "mn-35-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Nama klinik dokter gigi fiktif dalam buku pelajaran"
   },
   {
     "id": "mn-35-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 35",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "khusus bunga mekar (花が咲く)"
   },
   {
     "id": "mn-35-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "aktivitas naik gunung (hike)"
   },
   {
     "id": "mn-35-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kawasan resor ski/alam terkenal di Prefektur Nagano"
   },
   {
     "id": "mn-35-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 35",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "pulih dari penyakit atau luka fisik (病気が治る)"
   },
   {
     "id": "mn-35-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "warna merah jingga khas tinta cap inkan atau gerbang torii"
   },
   {
     "id": "mn-35-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "berpengetahuan luas tentang suatu bidang (〜に詳しい)"
   },
   {
     "id": "mn-35-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "alat pemasak nasi listrik"
   },
   {
     "id": "mn-35-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 35",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sesuai aturan, fakta, atau moral yang lurus"
   },
   {
     "id": "mn-35-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "zaman lampau atau masa lalu"
   },
   {
     "id": "mn-35-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sarana dan prasarana penunjang gedung/mesin"
   },
   {
     "id": "mn-35-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "daerah pemandian air panas (onsen) legendaris di Prefektur Gunma"
   },
   {
     "id": "mn-35-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Nama kedai sushi fiktif dalam latihan percakapan"
   },
   {
     "id": "mn-35-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 35",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menjaga hubungan hangat dan rukun (人と仲よくする)"
   },
   {
     "id": "mn-35-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 35",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "pulih dari penyakit atau luka fisik (病気が治る)"
   },
   {
     "id": "mn-35-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "daratan yang dikelilingi perairan"
   },
   {
     "id": "mn-35-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kota wisata bersejarah dan kuil warisan dunia di Prefektur Tochigi"
   },
   {
     "id": "mn-35-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 35",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengetik atau menginput data ke komputer/sistem"
   },
   {
     "id": "mn-35-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kawasan wisata onsen dan pemandangan Gunung Fuji di Kanagawa"
   },
   {
     "id": "mn-35-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 35",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hal yang mutlak dibutuhkan atau penting"
   },
   {
     "id": "mn-35-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 35",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memberikan tanda seperti lingkaran benar (丸を付ける)"
   },
   {
     "id": "mn-35-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 35",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "berubah keadaan atau warna (intransitif: 色が変わる)"
   },
   {
     "id": "mn-35-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "daun pepohonan atau tanaman"
   },
   {
     "id": "mn-35-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "tombol pada papan ketik komputer atau kunci"
   },
   {
     "id": "mn-35-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "bus antar-kota yang berangkat malam dan tiba pagi hari"
   },
   {
     "id": "mn-35-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 35",
     "type": "particle",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "daun pepohonan atau tanaman"
   },
   {
     "id": "mn-35-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perusahaan agen travel wisata"
   },
   {
     "id": "mn-35-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "rentang peristiwa masa lalu atau bidang studi sejarah"
   },
   {
     "id": "mn-35-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "peribahasa saat orang yang baru dibicarakan tiba-tiba muncul"
   },
   {
     "id": "mn-35-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "usaha atau hal kecil jika terakumulasi akan menjadi hasil besar"
   },
   {
     "id": "mn-35-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 35",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "roda kehidupan berputar antara masa sulit dan masa senang"
   },
   {
     "id": "mn-35-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 35",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "musyawarah tiga orang biasa pun bisa melahirkan ide bijak"
   },
   {
     "id": "mn-35-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "tempat mana pun kalau ditinggali lama akan terasa nyaman seperti ibu kota"
   },
   {
     "id": "mn-35-062",
@@ -803,6 +864,7 @@
     "chapter": "Bab 35",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "perumpamaan wanita yang sangat molek dan anggun bagai aneka bunga mekar"
   }
 ]

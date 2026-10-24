@@ -1,0 +1,25 @@
+大さじ;おおさじ;takaran sendok makan
+小さじ;こさじ;takaran sendok teh
+1カップ;1かっぷ;satu gelas
+1リットル;1りっとる;satu liter
+はかり;はかり;timbangan
+包丁;ほうちょう;pisau
+酒;さけ;sake
+調味料;ちょうみりょう;bumbu
+酢;す;cuka
+まな板;まないた;talenan
+サラダ油;さらだゆ;minyak goreng
+天ぷら油;てんぷらゆ;minyak goreng tempura
+夕食のおかず;ゆうしょくのおかず;lauk makan malam
+栄養のバランスを考える;えいようのばらんすをかんがえる;memikirkan keseimbangan nutrisi
+カロリーが高い食品;かろりいがたかいしょくひん;bahan makanan berkalori tinggi
+はかりで量る;はかりではかる;mengukur dengan timbangan
+塩を少々入れる;しおをしょうしょういれる;memasukkan sedikit garam
+皮をむく;かわをむく;mengupas kulit
+材料を刻む;ざいりょうをきざむ;memotong kecil-kecil, mencincang
+大きめに切る;おおきめにきる;memotong agak besar
+３センチ幅に切る;さんせんちはばにきる;memotong dengan lebar 3 cm
+みそ汁がぬるくなる;みそじるがぬるくなる;miso soup nya menjadi kurang hangat (suhu menurun)
+ラップでくるむ;らっぷでくるむ;membungkus dengan plastik wrap
+(アルミ) ホイル;（あるみ） ほいる;aluminium foil
+ラップをかぶせる／かける;らっぷをかぶせる／かける;menutupi dengan plastik wrap

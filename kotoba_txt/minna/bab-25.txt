@@ -1,0 +1,41 @@
+［いろいろ］お世話になりました;［いろいろ］おせわになりました;terima kasih banyak atas segala bantuannya selama ini;Diucapkan saat berpisah atau pindah tugas kepada orang yang banyak membantu
+こと;こと;hal / perkara / urusan;Hal abstrak yang berkaitan dengan topik tertentu (cth: 日本のこと)
+チャンス;チャンス;kesempatan / peluang;Peluang emas yang datang (chance,  cth: チャンスがある)
+どうぞお元気で;どうぞおげんきで;semoga sehat selalu;Salam perpisahan tulus saat hendak berpisah dalam kurun waktu lama
+ベトナム;ベトナム;Vietnam;Negara di kawasan Asia Tenggara
+もし［～たら］;もし［～たら］;seandainya ... / jika ...;Kata penegas pengandaian di awal kalimat kondisional (cth: もし1億円あったら)
+もしもし;もしもし;halo (di telepon);Kata sapaan pembuka saat mengangkat atau memulai panggilan telepon
+意味;いみ;arti / makna / maksud;Kandungan arti kata atau maksud dari suatu tindakan
+億;おく;ratus juta;Satuan nominal 100.000.000 (cth: 1億 = 100 juta, 10億 = 1 miliar)
+暇;ひま;waktu luang / senggang;Kondisi bebas tanpa kesibukan tugas (暇な時 = saat ada waktu luang)
+頑張ります;がんばります;berusaha keras / bersemangat;Berupaya semaksimal mungkin pantang menyerah (頑張って = semangat ya!)
+考えます;かんがえます;berpikir / menimbang-nimbang;Memikirkan solusi masalah, rencana masa depan, atau menimbang keputusan
+［年を］取ります;［としを］とります;bertambah usia / menua;Usia yang kian bertambah tua seiring waktu berjalan (年を取る)
+足ります;たります;cukup / mencukupi;Jumlah uang, waktu, atau barang sudah memenuhi kebutuhan (intransitif: お金が足りる)
+着きます;つきます;tiba / sampai;Tiba di stasiun atau tempat tujuan akhir (tempat tiba ditandai に: 駅に着く)
+転勤;てんきん;mutasi kerja / pindah kantor cabang;Pindah tugas dinas ke kantor cabang kota lain (転勤する = pindah dinas)
+田舎;いなか;desa / kampung halaman;Kawasan pedesaan asri jauh dari hiruk-pikuk kota besar
+再婚します;さいこんします;menikah lagi;Menikah kembali untuk kedua kalinya atau seterusnya
+離婚します;りこんします;bercerai;Mengakhiri ikatan pernikahan secara hukum
+学校に入ります;がっこうにはいります;masuk sekolah;Mulai masuk menempuh pendidikan di jenjang sekolah
+学校を出ます;がっこうをでます;lulus / tamat sekolah;Menyelesaikan masa studi sekolah atau lulus wisuda
+結婚します;けっこんします;menikah;Membina bahtera rumah tangga resmi suami-istri
+高等学校;こうとうがっこう;SMA;Nama resmi jenjang pendidikan sekolah menengah atas 3 tahun (disingkat 高校)
+仕事を辞めます;しごとをやめます;berhenti bekerja / resign;Mengundurkan diri dari pekerjaan kantor tempat mencari nafkah
+子ども;こども;anak-anak;Anak kecil usia sekolah dasar (sekitar 6–12 tahun)
+子どもが生まれます;こどもがうまれます;anak lahir;Kelahiran buah hati anak bayi ke dunia (intransitif: perbaikan makna)
+死にます;しにます;meninggal dunia / mati;Berakhirnya nyawa kehidupan (ragam sopan: 亡くなります / なくなります)
+就職します;しゅうしょくします;mulai bekerja / mendapat kerja tetap;Diterima dan resmi mulai berkarir bekerja di suatu perusahaan
+小学校;しょうがっこう;SD;Sekolah dasar jenjang 6 tahun wajib belajar
+生まれます;うまれます;lahir;Proses awal kelahiran manusia ke muka bumi
+青年;せいねん;pemuda / remaja dewasa;Fase usia muda beranjak dewasa (sekitar usia 18–29 tahun)
+赤ちゃん;あかちゃん;bayi;Bayi mungil yang baru lahir (usia 0–1 tahun)
+専門学校;せんもんがっこう;sekolah kejuruan / akademi profesi;Lembaga pendidikan tinggi vokasi keahlian praktis (durasi 2 tahun)
+大学;だいがく;universitas (S1);Perguruan tinggi jenjang sarjana strata 1 (durasi 4 tahun)
+大学院;だいがくいん;pascasarjana (S2/S3);Perguruan tinggi jenjang magister dan doktoral
+短期大学［短大］;たんきだいがく［たんだい］;akademi diploma (D3);Perguruan tinggi diploma berdurasi kuliah singkat 2 tahun
+中学校;ちゅうがっこう;SMP;Sekolah menengah pertama 3 tahun
+中年;ちゅうねん;paruh baya;Fase usia setengah baya matang (sekitar usia 40–50 tahun)
+保育園;ほいくえん;tempat penitipan anak (daycare);Fasilitas penitipan dan pengasuhan balita bagi orang tua yang bekerja
+幼稚園;ようちえん;taman kanak-kanak (TK);Lembaga pendidikan prasekolah anak usia dini (usia 3–5 tahun)
+老人;ろうじん;lansia / orang tua;Orang lanjut usia kakek-nenek (sekitar usia 65–70 tahun ke atas)

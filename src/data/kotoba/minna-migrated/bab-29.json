@@ -10,7 +10,8 @@
     "chapter": "Bab 29",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan rasa lega setelah melewati kekhawatiran atau bahaya"
   },
   {
     "id": "mn-29-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Wadah keramik untuk nasi putih atau sajian teh Jepang (kanji: 茶碗)"
   },
   {
     "id": "mn-29-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Piring ceper tempat menyajikan lauk makanan"
   },
   {
     "id": "mn-29-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 29",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menunjukkan orientasi arah mata angin atau sisi tertentu"
   },
   {
     "id": "mn-29-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Dilekatkan pada penunjuk posisi sisi (cth: 右側 = sisi kanan, 外側 = sisi luar)"
   },
   {
     "id": "mn-29-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan kawasan sekitar suatu lokasi (cth: この辺 = sekitar sini)"
   },
   {
     "id": "mn-29-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 29",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mempersilakan orang lain melangkah atau menggunakan fasilitas terlebih dahulu"
   },
   {
     "id": "mn-29-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bahan material kaca transparan bening (glass)"
   },
   {
     "id": "mn-29-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Wadah silinder kaca atau plastik untuk meminum air"
   },
   {
     "id": "mn-29-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menunjukkan taksiran ukuran besaran benda dengan gestur tangan"
   },
   {
     "id": "mn-29-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Area lingkungan di sekitar tempat pembicara berdiri"
   },
   {
     "id": "mn-29-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pidato resmi sambutan di depan khalayak (スピーチをする)"
   },
   {
     "id": "mn-29-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 29",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Aliran daya listrik menyala otomatis (intransitif: 電気がつく,  lawan dari 消える)"
   },
   {
     "id": "mn-29-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 29",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membersihkan permukaan meja atau piring dengan kain lap (transitif: テーブルをふく)"
   },
   {
     "id": "mn-29-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Saku pakaian untuk menyimpan barang kecil"
   },
   {
     "id": "mn-29-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pelapor berita lapangan siaran televisi"
   },
   {
     "id": "mn-29-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Karyawan operasional dinas stasiun kereta api"
   },
   {
     "id": "mn-29-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Area kawasan pertokoan persis di depan gedung stasiun"
   },
   {
     "id": "mn-29-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 29",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Baju atau sepatu terkena lumpur kotor (intransitif: 服が汚れる,  lawan dari 綺麗になる)"
   },
   {
     "id": "mn-29-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 29",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mesin atau barang rusak patah (intransitif: 椅子・時計が壊れる,  transitif: 壊す)"
   },
   {
     "id": "mn-29-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 29",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Pintu atau jendela terbuka sendiri (intransitif: ドアが開く,  transitif: 開ける)"
   },
   {
     "id": "mn-29-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 29",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kancing baju atau baut terlepas copot (intransitif: ボタンが外れる)"
   },
   {
     "id": "mn-29-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan kepastian ingatan dengan kemungkinan besar benar (cth: 確かあの人です)"
   },
   {
     "id": "mn-29-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 29",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tidak ada memori ingatan tentang hal tersebut di pikiran"
   },
   {
     "id": "mn-29-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 29",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Pintu terkunci rapat (intransitif: かぎが掛かる)"
   },
   {
     "id": "mn-29-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 29",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Gelas, piring, atau kaca pecah berkeping (intransitif: コップが割れる,  transitif: 割る)"
   },
   {
     "id": "mn-29-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 29",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Salah nomor telepon atau keliru jalan (transitif: 番号を間違える)"
   },
   {
     "id": "mn-29-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Karya novel sastra klasik agung Jepang karya Murasaki Shikibu di zaman Heian"
   },
   {
     "id": "mn-29-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Pos polisi kecil di pinggir jalan sudut pemukiman Jepang"
   },
   {
     "id": "mn-29-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Kereta api yang baru saja melintas berangkat"
   },
   {
     "id": "mn-29-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 29",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengacungkan jari menunjuk ke arah sasaran objek (指で指す)"
   },
   {
     "id": "mn-29-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Cabang batang ranting kayu pohon (枝が折れる)"
   },
   {
     "id": "mn-29-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 29",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mobil atau lift berhenti melaju (intransitif: 車が止まる,  transitif: 止める)"
   },
   {
     "id": "mn-29-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 29",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengganti suku cadang yang usang dengan barang baru (transitif: 部品を取り替える)"
   },
   {
     "id": "mn-29-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Lembaran kertas arsip resmi pekerjaan kantor"
   },
   {
     "id": "mn-29-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 29",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Lampu atau api padam (intransitif: 電気が消える,  transitif: 消す)"
   },
   {
     "id": "mn-29-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Pusat distrik metropolitan bisnis dan stasiun tersibuk di dunia di Tokyo"
   },
   {
     "id": "mn-29-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jarum jahit atau jarum penunjuk angka jam dinding"
   },
   {
     "id": "mn-29-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Arah mata angin tenggelamnya matahari,  lawan dari 東 (timur)"
   },
   {
     "id": "mn-29-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 29",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Ranting pohon atau pensil patah (intransitif: 枝が折れる,  transitif: 折る)"
   },
   {
     "id": "mn-29-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Wadah kantong plastik atau kertas untuk membawa belanjaan"
   },
   {
     "id": "mn-29-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Guncangan seismik lempeng bumi tektonik (地震が起きる)"
   },
   {
     "id": "mn-29-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 29",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Pohon tumbang, gedung roboh, atau orang jatuh pingsan (intransitif: 木が倒れる)"
   },
   {
     "id": "mn-29-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 29",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Sampah atau kayu terbakar api (intransitif: ごみが燃える,  transitif: 燃やす)"
   },
   {
     "id": "mn-29-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 29",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kertas atau kain robek koyak (intransitif: 紙が破れる,  transitif: 破る)"
   },
   {
     "id": "mn-29-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 29",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kantong saku menempel pada baju (intransitif: ポケットが付く)"
   },
   {
     "id": "mn-29-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 29",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Pintu atau gerbang tertutup sendiri (intransitif: ドアが閉まる,  transitif: 閉める)"
   },
   {
     "id": "mn-29-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Dinding penyekat ruangan dalam bangunan rumah"
   },
   {
     "id": "mn-29-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 29",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Merapikan kamar atau menata barang-barang (transitif: 部屋を片づける)"
   },
   {
     "id": "mn-29-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyahut saat nama dipanggil, atau membalas pesan (返事をする)"
   },
   {
     "id": "mn-29-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Barang tertinggal di kereta api, taksi, atau ruang kelas"
   },
   {
     "id": "mn-29-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rak jaring di atas kursi penumpang kereta api untuk menaruh tas"
   },
   {
     "id": "mn-29-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 29",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menjatuhkan dompet atau barang ke tanah (transitif: 財布を落とす)"
   },
   {
     "id": "mn-29-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 29",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Jalanan atau gerbong kereta api menjadi longgar sepi penumpang (intransitif: 電車がすく)"
   },
   {
     "id": "mn-29-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Permukaan basah terkena guyuran air (服がぬれている,  lawan dari 乾いている)"
   },
   {
     "id": "mn-29-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tali kabel atau selang terpilin melingkar"
   },
   {
     "id": "mn-29-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 29",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Permukaan kaca atau dinding mengalami retak rambut"
   },
   {
     "id": "mn-29-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Permukaan kaleng atau bodi mobil penyok melengkung ke dalam akibat benturan"
   },
   {
     "id": "mn-29-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi postur badan langsing atau kurus,  lawan dari 太っている"
   },
   {
     "id": "mn-29-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bentuk bingkai kacamata atau garis yang bengkok tidak lurus"
   },
   {
     "id": "mn-29-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Baju cucian sudah kering tuntas (服が乾いている,  lawan dari ぬれている)"
   },
   {
     "id": "mn-29-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Besi atau garis lintasan yang melengkung tidak lurus"
   },
   {
     "id": "mn-29-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pinggiran tepi piring keramik atau cangkir yang sumbing terkelupas"
   },
   {
     "id": "mn-29-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kaus kaki atau jalanan yang berlubang bolong"
   },
   {
     "id": "mn-29-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 29",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Jalan raya macet atau gerbong kereta penuh sesak orang (intransitif: 道が込む)"
   },
   {
     "id": "mn-29-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Wadah kecil penyimpan uang tunai dan kartu identitas"
   },
   {
     "id": "mn-29-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi wujud fisik barang atau kesehatan saat ini"
   },
   {
     "id": "mn-29-068",
@@ -881,7 +948,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi postur tubuh berisi gemuk,  lawan dari やせている"
   },
   {
     "id": "mn-29-069",
@@ -894,7 +962,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Air sungai atau daging yang membeku jadi es dingin"
   },
   {
     "id": "mn-29-070",
@@ -907,7 +976,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Makanan atau buah yang telah basi membusuk berjamur"
   },
   {
     "id": "mn-29-071",
@@ -920,7 +990,8 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Balon berisi udara mengembang membesar (intransitif)"
   },
   {
     "id": "mn-29-072",
@@ -933,6 +1004,7 @@
     "chapter": "Bab 29",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Keadaan gerak-gerik seseorang atau situasi suasana yang teramati"
   }
 ]

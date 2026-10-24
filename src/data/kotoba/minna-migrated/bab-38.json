@@ -10,7 +10,8 @@
     "chapter": "Bab 38",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menyebutkan nama atau judul suatu karya/benda (〜という本)"
   },
   {
     "id": "mn-38-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 38",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "satuan hitung untuk buku, majalah, atau dokumen jilid"
   },
   {
     "id": "mn-38-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 38",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menyatakan negara atau bahan asal pembuatan produk (misal 日本製)"
   },
   {
     "id": "mn-38-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "satuan hitung nilai angka ujian atau skor"
   },
   {
     "id": "mn-38-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "siswa tingkat tahun ke-5 (misal SD kelas 5)"
   },
   {
     "id": "mn-38-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "seruan spontan saat melakukan kesalahan atau menyadari kekeliruan"
   },
   {
     "id": "mn-38-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 38",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tahun sebelum tahun kemarin"
   },
   {
     "id": "mn-38-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pribadi yang tidak banyak tingkah atau tidak berisik"
   },
   {
     "id": "mn-38-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 38",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ungkapan sopan pamit pulang lebih awal dari rekan kerja"
   },
   {
     "id": "mn-38-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "aksara fonetis Jepang (mencakup Hiragana dan Katakana)"
   },
   {
     "id": "mn-38-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 38",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "melakukan sesuatu dengan tertib tanpa berantakan"
   },
   {
     "id": "mn-38-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 38",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "berdebat mulut atau berkelahi fisik (人とけんかする)"
   },
   {
     "id": "mn-38-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "cara melakukan sesuatu (sering dalam ungkapan しかたがない)"
   },
   {
     "id": "mn-38-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 38",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengucapkan kebohongan dalam frasa 嘘をつく (うそをつきます)"
   },
   {
     "id": "mn-38-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "stempel nama pengganti tanda tangan di Jepang (inkan/hanko)"
   },
   {
     "id": "mn-38-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 38",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "merawat anak, hewan, atau tanaman hingga bertumbuh"
   },
   {
     "id": "mn-38-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 38",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memindahkan muatan dari satu lokasi ke lokasi lain"
   },
   {
     "id": "mn-38-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kawasan perniagaan atau area di depan pintu stasiun"
   },
   {
     "id": "mn-38-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 38",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "membubuhkan cap stempel (はんこを押す) atau menekan tombol"
   },
   {
     "id": "mn-38-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "surat pengumuman berantai yang diedarkan antar warga (kairanban)"
   },
   {
     "id": "mn-38-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kawasan tepi laut"
   },
   {
     "id": "mn-38-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 38",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memutar atau memasang anak kunci pintu (かぎを掛ける)"
   },
   {
     "id": "mn-38-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "berkepribadian pantang menyerah atau berpendirian keras"
   },
   {
     "id": "mn-38-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 38",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sensasi fisik atau batin yang menyenangkan dan rileks"
   },
   {
     "id": "mn-38-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 38",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perasaan meriang, mual, atau melihat hal yang menjijikkan"
   },
   {
     "id": "mn-38-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kondisi fisik dan mental yang bugar"
   },
   {
     "id": "mn-38-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "ruangan kerja dosen atau laboratorium penelitian universitas"
   },
   {
     "id": "mn-38-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "tempat pengolahan dan produksi barang industri"
   },
   {
     "id": "mn-38-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 38",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "ikut serta dalam kegiatan atau acara (旅行・会議に参加する)"
   },
   {
     "id": "mn-38-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "hubungan kakak dan adik perempuan"
   },
   {
     "id": "mn-38-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perhiasan yang melingkar di jari tangan"
   },
   {
     "id": "mn-38-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 38",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memiliki rupa atau sifat yang menyerupai orang lain (〜に似ている)"
   },
   {
     "id": "mn-38-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 38",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "waktu terus bergulir seiring masa"
   },
   {
     "id": "mn-38-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "rutinitas harian atau tradisi budaya masyarakat"
   },
   {
     "id": "mn-38-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bentuk rentaishi sebelum kata benda (misal 小さな手)"
   },
   {
     "id": "mn-38-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jenjang pendidikan formal 6 tahun pertama"
   },
   {
     "id": "mn-38-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 38",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengasuh orang, anak, atau hewan peliharaan (〜の世話をする)"
   },
   {
     "id": "mn-38-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sifat bawaan atau karakter dasar seseorang"
   },
   {
     "id": "mn-38-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 38",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menata kembali barang atau informasi agar tidak berantakan"
   },
   {
     "id": "mn-38-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "anak kecil yang baru lahir"
   },
   {
     "id": "mn-38-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 38",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mematikan aliran listrik atau sakelar alat (電源を切る)"
   },
   {
     "id": "mn-38-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "kelahiran dua anak kembar"
   },
   {
     "id": "mn-38-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "wilayah pemukiman pedesaan"
   },
   {
     "id": "mn-38-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 38",
     "type": "v3",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "selesai masa opname dan diperbolehkan pulang dari RS"
   },
   {
     "id": "mn-38-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bentuk rentaishi sebelum kata benda (misal 大きな声)"
   },
   {
     "id": "mn-38-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 38",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tingkat kesukaan yang sangat mendalam pada suatu hal"
   },
   {
     "id": "mn-38-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jenjang pendidikan formal 3 tahun setelah SD"
   },
   {
     "id": "mn-38-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sakelar aliran arus listrik pada perangkat"
   },
   {
     "id": "mn-38-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 38",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menghidupkan sakelar arus listrik (電源を入れる)"
   },
   {
     "id": "mn-38-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 38",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "masuk dan dirawat menginap di rumah sakit"
   },
   {
     "id": "mn-38-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jumlah hitungan tahun hidup seseorang"
   },
   {
     "id": "mn-38-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 38",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kejadian luar biasa atau tidak masuk akal sehat"
   },
   {
     "id": "mn-38-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tata cara atau prosedur terstruktur menyelesaikan sesuatu"
   },
   {
     "id": "mn-38-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 38",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sikap hangat, penuh perhatian, dan tidak kasar"
   },
   {
     "id": "mn-38-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "urutan tulisan pada baris nomor 2 teks"
   },
   {
     "id": "mn-38-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "urutan tulisan pada baris nomor 3 teks"
   },
   {
     "id": "mn-38-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "nomor lembar halaman ke-4 buku"
   },
   {
     "id": "mn-38-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "posisi di sekitar area terdekat objek"
   },
   {
     "id": "mn-38-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "titik penempatan koordinat atau posisi geografis"
   },
   {
     "id": "mn-38-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sisi interior terjauh dari pintu masuk"
   },
   {
     "id": "mn-38-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "posisi di sebelah kiri atau kanan objek horizontal"
   },
   {
     "id": "mn-38-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sudut pertemuan dinding di dalam ruangan"
   },
   {
     "id": "mn-38-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "posisi diagonal di sisi belakang"
   },
   {
     "id": "mn-38-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "posisi diagonal di sisi depan"
   },
   {
     "id": "mn-38-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "posisi tepat sebelum mencapai suatu batas objek"
   },
   {
     "id": "mn-38-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "area melingkar di seputar suatu pusat"
   },
   {
     "id": "mn-38-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "urutan rak susun nomor 2 dihitung dari paling atas"
   },
   {
     "id": "mn-38-068",
@@ -881,7 +948,8 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "posisi persis di titik pusat"
   },
   {
     "id": "mn-38-069",
@@ -894,6 +962,7 @@
     "chapter": "Bab 38",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "urutan barisan/antrean nomor 2 dari depan"
   }
 ]

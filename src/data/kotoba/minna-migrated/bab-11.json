@@ -10,7 +10,8 @@
     "chapter": "Bab 11",
     "type": "counter",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Satuan hitung lamanya bulan (cth: 1か月 = 1 bulan)"
   },
   {
     "id": "mn-11-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan perkiraan jumlah atau waktu (cth: 1時間ぐらい)"
   },
   {
     "id": "mn-11-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 11",
     "type": "particle",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan pembatasan kuantitas tunggal (cth: 1人だけ)"
   },
   {
     "id": "mn-11-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 11",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Satuan hitung frekuensi pengulangan (cth: 1週間に2回)"
   },
   {
     "id": "mn-11-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 11",
     "type": "counter",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Satuan hitung durasi jam lamanya waktu (cth: 3時間)"
   },
   {
     "id": "mn-11-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Satuan hitung lamanya pekan (cth: 2週間)"
   },
   {
     "id": "mn-11-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 11",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Satuan hitung jumlah manusia (1人=ひとり, 2人=ふたり, 4人=よにん)"
   },
   {
     "id": "mn-11-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 11",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Satuan hitung kendaraan, mesin, dan alat elektronik"
   },
   {
     "id": "mn-11-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 11",
     "type": "counter",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Satuan hitung lamanya tahun (cth: 3年)"
   },
   {
     "id": "mn-11-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 11",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Satuan hitung benda tipis datar (kertas, baju, tiket, perangko, piring)"
   },
   {
     "id": "mn-11-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Kudapan beku manis olahan susu (ice cream)"
   },
   {
     "id": "mn-11-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 11",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sapaan basa-basi ramah saat berpapasan di hari cerah"
   },
   {
     "id": "mn-11-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Menanyakan jumlah barang hitungan umum, atau usia anak kecil"
   },
   {
     "id": "mn-11-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Hitungan benda asli Jepang untuk jumlah 5 (kanji: 五つ)"
   },
   {
     "id": "mn-11-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 11",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menyatakan punya tanggungan keluarga/anak (cth: 子供がいます)"
   },
   {
     "id": "mn-11-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pengiriman surat lewat pesawat terbang (airmail, sinonim: 航空便)"
   },
   {
     "id": "mn-11-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara dan benua Australia"
   },
   {
     "id": "mn-11-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 11",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sapaan ramah tetangga ketika melihat seseorang hendak bepergian"
   },
   {
     "id": "mn-11-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 11",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membutuhkan ongkos biaya uang atau waktu tempuh"
   },
   {
     "id": "mn-11-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 11",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Jawaban sangat hormat (kenjougo) staf toko/pelayan kepada pelanggan"
   },
   {
     "id": "mn-11-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Hidangan nasi bersiram kuah kari kental rempah gurih khas Jepang"
   },
   {
     "id": "mn-11-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Rombongan belajar siswa satu angkatan/ruang kelas"
   },
   {
     "id": "mn-11-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Hitungan benda asli Jepang untuk jumlah 9 (kanji: 九つ)"
   },
   {
     "id": "mn-11-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Roti tawar berisi irisan daging, telur, dan selada"
   },
   {
     "id": "mn-11-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Hitungan benda asli Jepang untuk jumlah 10 (kanji: 十,  tidak berakhiran つ)"
   },
   {
     "id": "mn-11-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 11",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menanyakan estimasi waktu tempuh durasi atau biaya"
   },
   {
     "id": "mn-11-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Hitungan benda asli Jepang untuk jumlah 7 (kanji: 七つ)"
   },
   {
     "id": "mn-11-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kartu tebal untuk korespondensi pos tanpa amplop (kanji: 葉書)"
   },
   {
     "id": "mn-11-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Hitungan benda asli Jepang untuk jumlah 1 (kanji: 一つ)"
   },
   {
     "id": "mn-11-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Hitungan khusus satu orang manusia (kanji: 一人)"
   },
   {
     "id": "mn-11-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Hitungan benda asli Jepang untuk jumlah 2 (kanji: 二つ)"
   },
   {
     "id": "mn-11-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Hitungan khusus dua orang manusia (kanji: 二人)"
   },
   {
     "id": "mn-11-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Jeruk manis mudah dikupas khas Jepang (kanji: 蜜柑)"
   },
   {
     "id": "mn-11-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Hitungan benda asli Jepang untuk jumlah 3 (kanji: 三つ)"
   },
   {
     "id": "mn-11-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Merujuk ke segenap khalayak atau seluruh benda secara keseluruhan"
   },
   {
     "id": "mn-11-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Hitungan benda asli Jepang untuk jumlah 6 (kanji: 六つ)"
   },
   {
     "id": "mn-11-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Hitungan benda asli Jepang untuk jumlah 8 (kanji: 八つ)"
   },
   {
     "id": "mn-11-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Hitungan benda asli Jepang untuk jumlah 4 (kanji: 四つ)"
   },
   {
     "id": "mn-11-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Buah apel renyah merah manis (kanji: 林檎)"
   },
   {
     "id": "mn-11-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara lain di luar negeri asal"
   },
   {
     "id": "mn-11-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 11",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengambil cuti atau absen izin (cth: 会社を休む = libur kerja)"
   },
   {
     "id": "mn-11-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Layanan kirim surat/paket ekspres via pesawat terbang"
   },
   {
     "id": "mn-11-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 11",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Ucapan pamit beranjak dari rumah (harfiah: pergi dan akan kembali)"
   },
   {
     "id": "mn-11-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 11",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Balasan keluarga kepada orang yang berpamitan 行ってきます"
   },
   {
     "id": "mn-11-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kertas tempel tanda bea pengiriman pos"
   },
   {
     "id": "mn-11-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pengiriman surat/paket via kapal laut (lebih murah namun lebih lama)"
   },
   {
     "id": "mn-11-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan jumlah total biaya saat di kasir pembayaran"
   },
   {
     "id": "mn-11-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sampul kertas pembungkus naskah surat pos"
   },
   {
     "id": "mn-11-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mahasiswa internasional yang menempuh studi di negeri orang"
   },
   {
     "id": "mn-11-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Olahan udang berbalut tepung roti krispi goreng khas Jepang (ebi fry)"
   },
   {
     "id": "mn-11-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Nasi kepal segitiga berbalut rumput laut nori berisi isian lauk"
   },
   {
     "id": "mn-11-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Sajian nasi putih dengan siraman kari kental daging dan sayuran"
   },
   {
     "id": "mn-11-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Minuman seduh bubuk biji kopi"
   },
   {
     "id": "mn-11-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Minuman soda berkarbonasi manis rasa kola"
   },
   {
     "id": "mn-11-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Minuman serbuk kakao manis seduh hangat/dingin"
   },
   {
     "id": "mn-11-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kroket kentang tumbuk berbalut tepung panir renyah goreng"
   },
   {
     "id": "mn-11-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Campuran sayuran hijau segar dengan saus dressing"
   },
   {
     "id": "mn-11-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Roti isi daging, keju, atau telur iris"
   },
   {
     "id": "mn-11-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Minuman sari buah segar"
   },
   {
     "id": "mn-11-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Hidangan kuah sup kaldu daging atau sayur hangat"
   },
   {
     "id": "mn-11-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pasta gandum panjang khas Italia bersaus tomat/krim"
   },
   {
     "id": "mn-11-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Gorengan udang atau sayur berbalut adonan tepung renyah khas Jepang"
   },
   {
     "id": "mn-11-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Roti tawar yang dipanggang renyah (toast)"
   },
   {
     "id": "mn-11-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Roti bun bulat bertumpuk daging patty, selada, dan saus"
   },
   {
     "id": "mn-11-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Steak daging sapi cincang bulat panggang bersaus demiglace khas restoran Jepang"
   },
   {
     "id": "mn-11-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Roti pipih bundar panggang bertabur keju mozarella dan aneka topping"
   },
   {
     "id": "mn-11-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ayam goreng tepung renyah bumbu khas barat (fried chicken)"
   },
   {
     "id": "mn-11-068",
@@ -881,7 +948,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Sup kuah pasta kedelai fermentasi miso khas sarapan tradisional Jepang"
   },
   {
     "id": "mn-11-069",
@@ -894,7 +962,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Set menu santap makan siang di restoran (lunch)"
   },
   {
     "id": "mn-11-070",
@@ -907,7 +976,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Minuman seduh teh berdaun hitam pekat kemerahan"
   },
   {
     "id": "mn-11-071",
@@ -920,7 +990,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Sajian daging sapi iris panggang celup saus khas restoran Jepang"
   },
   {
     "id": "mn-11-072",
@@ -933,7 +1004,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sayuran acar fermentasi pelengkap santap nasi tradisional Jepang"
   },
   {
     "id": "mn-11-073",
@@ -946,7 +1018,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Paket hidangan makan lengkap (nasi, sup miso, lauk utama, dan acar)"
   },
   {
     "id": "mn-11-074",
@@ -959,7 +1032,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Masakan tumis aneka sayuran segar berbumbu gurih (perbaikan kanji: bukan 野菜ため)"
   },
   {
     "id": "mn-11-075",
@@ -972,7 +1046,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Mi tebal kenyal dari tepung terigu berkuah dashi hangat khas Jepang"
   },
   {
     "id": "mn-11-076",
@@ -985,7 +1060,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Semangkuk nasi bertabur tumisan daging ayam dan telur kocok gurih (harfiah: mangkuk orang tua & anak)"
   },
   {
     "id": "mn-11-077",
@@ -998,7 +1074,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Panekuk gurih tebal khas Kansai/Hiroshima berisi kubis, daging, dan saus mayones"
   },
   {
     "id": "mn-11-078",
@@ -1011,7 +1088,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Nasi cuka berpuncak irisan ikan laut mentah segar (sashimi)"
   },
   {
     "id": "mn-11-079",
@@ -1024,7 +1102,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Mi kecokelatan berbahan tepung gandum hitam soba khas Jepang (disajikan dingin/panas)"
   },
   {
     "id": "mn-11-080",
@@ -1037,7 +1116,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Mi kuah kaldu kaya rasa (shoyu, miso, tonkotsu) berpuncak irisan chashu dan telur"
   },
   {
     "id": "mn-11-081",
@@ -1050,7 +1130,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Semangkuk nasi bertabur irisan tipis daging sapi dan bawang bombay manis gurih"
   },
   {
     "id": "mn-11-082",
@@ -1063,7 +1144,8 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Mi goreng saus manis-gurih khas festival matsuri Jepang bertabur aonori"
   },
   {
     "id": "mn-11-083",
@@ -1076,6 +1158,7 @@
     "chapter": "Bab 11",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Semangkuk nasi bertabur aneka tempura renyah disiram saus manis gurih"
   }
 ]

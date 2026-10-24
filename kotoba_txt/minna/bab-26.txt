@@ -1,0 +1,67 @@
+～会社;～がいしゃ;perusahaan ...;Dilekatkan di belakang bidang usaha (cth: 旅行会社, 保険会社)
+～弁;～べん;dialek bahasa ...;Logat atau dialek kedaerahan (cth: 大阪弁 = dialek Osaka)
+～様;～さま;Tuan / Nyonya / Yang Terhormat ...;Panggilan sangat hormat (sonkeigo) pengganti ～さん dalam surat dinas
+あんな～;あんな～;... yang seperti itu (jauh);Menunjuk sifat/ciri benda yang jauh dari pembicara dan lawan bicara
+いつでも;いつでも;kapan saja / sewaktu-waktu;Menyatakan waktu bebas kapan pun tanpa batasan
+ガス;ガス;gas rumah tangga;Bahan bakar gas elpiji/alam untuk kompor atau pemanas air
+ごみ;ごみ;sampah;Limbah buangan barang bekas yang tidak terpakai
+こんな～;こんな～;... yang seperti ini;Menunjuk sifat/ciri benda yang dekat dengan pembicara
+ずいぶん;ずいぶん;amat / sangat / luar biasa;Menyatakan tingkat yang jauh melampaui perkiraan (cth: ずいぶん人が多い)
+そんな～;そんな～;... yang seperti itu (dekat lawan bicara);Menunjuk sifat/ciri benda yang dekat dengan lawan bicara
+だれでも;だれでも;siapa saja / siapa pun;Menyatakan orang bebas siapa saja tanpa terkecuali
+どこでも;どこでも;di mana saja / ke mana saja;Menyatakan lokasi bebas di mana pun (anywhere)
+フリーマーケット;フリーマーケット;pasar loak / flea market;Pasar barang bekas murah di lapangan terbuka (sering disingkat フリマ)
+ボランティア;ボランティア;sukarelawan / relawan;Aktivitas sosial sukarela tanpa mengharap imbalan upah
+やります;やります;melakukan / mengadakan / memberi;Melakukan kegiatan (ragam santai します),  memberi makan hewan/tanaman
+違います;ちがいます;berbeda / bukan begitu;Menyatakan ketidaksesuaian dengan fakta atau asumsi
+宇宙;うちゅう;luar angkasa / antariksa;Ruang hampa udara jagat raya di luar atmosfer bumi
+宇宙ステーション;うちゅうステーション;stasiun luar angkasa (ISS);Pangkalan laboratorium antariksa buatan di orbit bumi
+宇宙船;うちゅうせん;wahana antariksa / pesawat luar angkasa;Pesawat transportasi penjelajah angkasa luar
+宇宙飛行士;うちゅうひこうし;astronot / antariksawan;Penerbang yang terlatih menjelajah dan bekerja di luar angkasa
+運動会;うんどうかい;festival lomba olahraga sekolah;Pesta perlombaan atletik massal tahunan sekolah atau kantor di Jepang
+横;よこ;samping / sisi sebelah;Posisi arah sisi horizontal kiri-kanan
+何でも;なんでも;apa saja / apa pun;Menyatakan segala hal bebas tanpa batasan
+缶;かん;kaleng;Wadah kaleng minuman soda atau makanan kaleng
+間に合います;まにあいます;sempat / tepat waktu;Tiba tepat pada waktunya sebelum acara dimulai (waktu ditandai に: 時間に間に合う)
+気分がいい;きぶんがいい;merasa segar / nyaman bugar;Kondisi perasaan hati atau fisik yang segar menyenangkan,  lawan dari 気分が悪い
+気分が悪い;きぶんがわるい;merasa tidak enak badan / mual;Kondisi fisik pusing mual atau perasaan hati yang kesal
+国会議事堂;こっかいぎじどう;Gedung Parlemen Jepang (Diet);Gedung pusat sidang wakil rakyat parlemen nasional di Nagatacho, Tokyo
+今度;こんど;kali ini / lain kali;Bisa berarti kesempatan saat ini, atau rencana di waktu mendatang
+財布;さいふ;dompet;Wadah kecil penyimpan uang tunai dan kartu
+拾います;ひろいます;memungut / menemukan;Mengambil barang yang terjatuh di jalan atau lantai (transitif)
+出します;だします;mengeluarkan / membuang (sampah);Membuang sampah ke tempatnya (ごみを出す), atau menyerahkan naskah
+場所;ばしょ;tempat / lokasi;Area spot lokasi berlangsungnya suatu peristiwa atau pertemuan
+診ます;みます;memeriksa (medis);Khusus dokter memeriksa kondisi kesehatan pasien di klinik/RS (患者を診る)
+星出彰彦;ほしであきひこ;Akihiko Hoshide;Astronot ternama asal Jepang anggota JAXA yang bertugas di ISS
+捜します;さがします;mencari (orang/barang hilang/kasus);Mencari orang hilang, kunci hilang, atau melacak pelaku kejahatan
+探します;さがします;mencari (pekerjaan/sesuatu yang diinginkan);Mencari pekerjaan baru (仕事を探す), mencari rumah, atau jodoh
+置き場;おきば;tempat menaruh / pangkalan;Area petak tempat meletakkan barang (ごみ置き場, 自転車置き場)
+遅れます;おくれます;terlambat / terlambat tiba;Terlambat dari waktu yang ditentukan (waktu/acara ditandai に: 時間に遅れる)
+直接;ちょくせつ;secara langsung;Melakukan kontak tatap muka tanpa perantara orang lain
+燃えるごみ;もえるごみ;sampah mudah terbakar (organik);Kategori sampah kertas, sisa makanan, dan kayu yang bisa dibakar
+瓶;びん;botol kaca;Wadah botol berbahan kaca bening untuk kecap, selai, atau sirup
+怖い;こわい;menakutkan / merasa takut;Merasa ngeri takut pada hantu, ketinggian, atau hewan buas
+平日;へいじつ;hari kerja biasa;Hari kerja Senin sampai Jumat (bukan akhir pekan atau hari libur nasional)
+片づきます;かたづきます;menjadi rapi / tertata rapi;Kondisi barang-barang atau ruangan sudah rapi beres (intransitif: 荷物が片づく)
+盆踊り;ぼんおどり;tarian Bon Odori;Tarian massal melingkari panggung saat festival arwah leluhur Obon di musim panas (perbaikan kolom 1)
+連絡します;れんらくします;menghubungi / memberi kabar;Memberi kabar info lewat telepon, pesan, atau email (連絡する)
+お湯;おゆ;air panas;Air matang bersuhu panas mendidih
+ガラス製品、せともの、金属製台所用品など;ガラスせいひん、せともの、きんぞくせいだいどころようひんなど;produk kaca, keramik, perabot logam dapur dll.;Kategori jenis sampah anorganik rumah tangga di Jepang
+ごみの出し方;ごみのだしかた;tata cara membuang sampah;Panduan aturan pemilahan dan pembuangan sampah di Jepang
+ごみ収集日のお知らせ;ごみしゅうしゅうびのおしらせ;pengumuman jadwal angkut sampah;Jadwal hari truk kebersihan mengangkut jenis sampah tertentu
+缶、瓶、ペットボトルなど;かん、びん、ペットボトルなど;kaleng, botol kaca, botol plastik dll.;Kategori jenis sampah daur ulang minuman kemasan
+可燃ごみ（燃えるごみ）;かねんごみ（もえるごみ）;sampah mudah terbakar;Istilah resmi administrasi untuk sampah organik/kertas
+家具、自転車など;かぐ、じてんしゃなど;furnitur mebel, sepeda dll.;Contoh barang yang masuk dalam kategori sampah ukuran besar
+家庭電化製品;かていでんかせいひん;peralatan elektronik rumah tangga;Perkakas listrik rumah tangga seperti kulkas, mesin cuci, microwave
+困ったなあ;こまったなあ;gawat ya / bingung sekali ya;Ungkapan monolog mengeluh saat menemui jalan buntu persoalan rumit
+参加します;さんかします;ikut serta / berpartisipasi;Turut berpartisipasi dalam pesta, seminar, atau lomba (acara ditandai に)
+生ごみ、紙くずなど;なまごみ、かみくずなど;sampah basah sisa makanan, sampah kertas dll.;Limbah dapur rumah tangga sehari-hari
+資源ごみ;しげんごみ;sampah daur ulang;Sampah bernilai material yang dapat didaur ulang kembali (botol, kertas, kaleng)
+事前申し込み;じぜんもうしこみ;pendaftaran terlebih dahulu;Kewajiban mendaftar sebelum hari pengangkutan sampah besar
+申し込みます;もうしこみます;mendaftar / mengajukan permohonan;Mendaftarkan diri ikut ujian, les, atau memesan penjemputan sampah besar
+粗大ごみ;そだいごみ;sampah ukuran besar;Sampah perabot furnitur atau kasur yang melebihi ukuran standar dan butuh stiker retribusi
+電子メール;でんしメール;surat elektronik / e-mail;Surat pesan naskah digital lewat internet (disingkat Eメール)
+都合がいい;つごうがいい;jadwalnya cocok / tidak berhalangan;Memiliki waktu luang yang pas sesuai jadwal,  lawan dari 都合が悪い
+都合が悪い;つごうがわるい;jadwalnya bentrok / berhalangan;Tidak bisa hadir karena ada urusan lain yang berbenturan
+不燃ごみ（燃えないごみ）;ふねんごみ（もえないごみ）;sampah tidak mudah terbakar;Istilah resmi untuk sampah anorganik kaca, logam, dan baterai
+別の;べつの;yang lain / berbeda;Menunjuk benda atau pilihan alternatif lain yang terpisah

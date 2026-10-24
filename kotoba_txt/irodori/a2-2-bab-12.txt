@@ -1,0 +1,123 @@
+電気製品;でんきせいひん;peralatan elektronik, perabot listrik;alat-alat rumah tangga bertenaga listrik
+冷蔵庫;れいぞうこ;kulkas, lemari pendingin;alat pendingin pengawet makanan dan minuman
+洗濯機;せんたくき;mesin cuci;perangkat pencuci dan pengering pakaian otomatis
+電子レンジ;でんしレンジ;oven gelombang mikro, microwave;alat penghangat makanan dengan gelombang mikro
+掃除機;そうじき;penyedot debu, vacuum cleaner;alat penghisap debu dan kotoran lantai
+電気ポット;ポット / でんきポット;dispenser air panas listrik, teko termos;pemanas air otomatis penyedia air panas seduhan
+パソコン;パソコン;komputer, laptop (PC);perangkat komputer pribadi untuk bekerja atau belajar
+タブレット;タブレット;komputer tablet;gawai layar sentuh portabel
+イヤホン;イヤホン;earphone, penyuara telinga;perangkat audio kecil yang disematkan di telinga
+扇風機;せんぷうき;kipas angin;baling-baling penyejuk udara ruangan
+ストーブ;ストーブ;pemanas ruangan minyak/gas (stove);perapian pemanas ruangan saat musim dingin
+ヒーター;ヒーター;alat pemanas listrik (heater);penghangat ruangan portabel bertenaga listrik
+ドライヤー;ドライヤー;pengering rambut, hair dryer;alat peniup udara panas pengering rambut
+アイロン;アイロン;setrika pakaian;alat penghalus pakaian kusut
+モデル;モデル;tipe model produk;seri rancangan varian barang elektronik
+音;おと;suara desau mesin;kebisingan suara motor penyedot debu
+デザイン;デザイン;desain tampilan, rancangan;estetika bentuk fisik tampak luar produk
+商品;しょうひん;produk komoditas jualan;barang dagangan yang ditawarkan toko
+送料;そうりょう;ongkos kirim (ongkir);biaya pengantaran barang ekspedisi
+無料;むりょう;bebas biaya, gratis;tidak dipungut bayaran biaya kirim
+お店の人;おみせのひと;pelayan toko;staf pramuniaga penjaga gerai toko
+相談する;そうだんする;berkonsultasi spesifikasi;berdiskusi meminta saran spesifikasi produk ke pelayan
+届く;とどく;tiba sampai di rumah;barang pesanan paket diantar sampai ke alamat
+店員;てんいん;pramuniaga toko;karyawan yang bertugas melayani pembeli
+便利[な];べんり[な];praktis, mudah digunakan;fitur canggih yang meringankan pekerjaan rumah
+すぐ;すぐ;segera seketika;dalam waktu singkat tanpa menunggu lama
+見つかる;みつかる;berhasil ditemukan;produk yang dicari berhasil didapatkan
+高く;たかく;dengan harga tinggi;berhasil menjual barang bekas dengan harga lumayan
+売れる;うれる;laku terjual;barang yang dipajang berhasil dibeli orang
+手続き;てつづき;prosedur transaksi;langkah formalitas pemesanan dan pembayaran
+簡単[な];かんたん[な];mudah, sederhana;langkah pengoperasian yang ringkas tidak ribet
+メーカー;メーカー;perusahaan manufaktur, produsen;pabrikan penghasil produk elektronik
+ワイヤレス;ワイヤレス;tanpa kabel, nirkabel;koneksi bluetooth tanpa untaian kabel
+手元;てもと;ke tangan saya;barang paket pesanan tiba di tangan pembeli
+電気屋;でんきや;toko elektronik;gerai retail penjual aneka peralatan listrik
+国道沿い;こくどうぞい;di pinggir jalan raya nasional;lokasi toko yang berjajar di sepanjang jalan raya utama
+開店セール;かいてんセール;obral pembukaan toko baru;promo diskon besar merayakan dibukanya gerai baru
+車を出す;くるまをだす;memberi tumpangan mobil;mengemudikan mobil pribadi untuk mengantar teman belanja
+フリマサイト;フリマサイト;situs lokapasar barang bekas (fleamarket);aplikasi belanja barang second online (seperti Mercari)
+家電;かでん;alat elektronik rumah tangga;perabot listrik keperluan rumah (kulkas, mesin cuci, microwave)
+カテゴリー;カテゴリー;kategori produk;klasifikasi kelompok jenis barang
+ブランド;ブランド;merek dagang ternama;nama label produsen produk
+ホーム;ホーム;halaman beranda utama;tampilan laman depan situs lokapasar
+出品;しゅっぴん;mendaftarkan barang jualan;mengunggah foto dan deskripsi barang untuk dijual di aplikasi
+マイページ;マイページ;halaman profil pengguna;laman akun pribadi pengguna aplikasi belanja
+住まい;すまい;kategori perlengkapan hunian;menu perabot dekorasi dan kebutuhan rumah
+絞り込み;しぼりこみ;filter penyaring pencarian;mempersempit hasil pencarian barang menurut harga/kondisi
+販売中;はんばいちゅう;masih tersedia dijual;status barang yang belum laku dibeli
+表示;ひょうじ;tampilan layar;daftar urutan produk di layar gawai
+安い順;やすいじゅん;urutan dari harga termurah;filter menampilkan barang dari nominal harga paling rendah
+価格;かかく;harga nominal jual;banyaknya uang yang ditetapkan untuk membeli barang
+状態;じょうたい;kondisi fisik barang;kondisi kemulusan produk bekas (seperti baru, ada baret, dll.)
+配送料;はいそうりょう;ongkos kirim kurir;biaya kurir ekspedisi pengantaran paket
+販売状況;はんばいじょうきょう;status ketersediaan barang;keterangan stok apakah masih ada atau sudah laku
+指定する;していする;menetapkan kriteria filter;memilih opsi filter batas harga atau merek
+取り消し;とりけし;membatalkan pilihan filter;menghapus setelan filter pencarian
+完了;かんりょう;selesai tuntas;proses pengaturan filter telah rampung diterapkan
+購入する;こうにゅうする;membeli produk;melakukan transaksi pembayaran membeli barang
+傷;きず;goresan lecet fisik;baret atau luka gores pada bodi produk bekas
+汚れ;よごれ;noda kotor;bercak kotoran yang menempel pada barang
+送料込み;そうりょうこみ;sudah termasuk ongkos kirim;harga total yang tidak dikenakan biaya kirim tambahan
+〜合;〜ごう;... go takaran beras;satuan volume beras di Jepang (1合 = sekitar 150 gram beras / 180 ml air)
+出品する;しゅっぴんする;memajang barang jualan;menjual barang pribadi di aplikasi lokapasar
+問題なく;もんだいなく;tanpa ada kendala, lancar;kondisi mesin masih berfungsi sangat prima
+炊ける;たける;nasi matang ditanak;beras selesai dimasak menjadi nasi pulen (ご飯が炊ける)
+詳細;しょうさい;rincian deskripsi spesifikasi;keterangan lengkap dimensi dan riwayat pemakaian produk
+〜年製;〜ねんせい;keluaran produksi tahun ...;tahun pembuatan produk manufaktur (misal 2018年製 buatan 2018)
+幅;はば;lebar dimensi barang;ukuran bentang menyamping produk (width)
+奥行き;おくゆき;kedalaman dimensi barang;ukuran bentang ke belakang produk (depth)
+高さ;たかさ;tinggi dimensi produk;ukuran bentang ke atas produk (height)
+重さ;おもさ;bobot berat massa;timbangan berat barang dalam satuan kilogram
+説明書;せつめいしょ;buku manual petunjuk;buku panduan cara penggunaan dan garansi
+〜付き;〜つき;dilengkapi dengan ...;paket yang menyertakan buku manual (説明書付き)
+購入手続き;こうにゅうてつづき;proses checkout pembayaran;tahapan melunasi pesanan belanja di aplikasi
+連続;れんぞく;pengoperasian tanpa putus;waktu kerja mesin secara terus-menerus
+充電;じゅうでん;mengisi ulang daya baterai;mengecas baterai perabot listrik nirkabel
+しっかり;しっかり;secara tuntas menyeluruh;bekerja secara maksimal membersihkan debu
+使用時間;しようじかん;durasi masa pakai baterai;lama waktu pemakaian alat dalam sekali cas
+こんな人;こんなひと;orang dengan kriteria seperti ini;target konsumen yang cocok memakai produk tersebut
+強モード;きょうモード;mode daya hisap kuat;setelan performa tenaga mesin paling maksimal
+多機能;たきのう;fitur lengkap multifungsi;dilengkapi banyak opsi kegunaan dalam satu alat
+長持ち;ながもち;awet tahan lama;daya tahan masa pakai baterai atau mesin yang tidak mudah rusak
+超軽量;ちょうけいりょう;bobot sangat ringan;bobot perangkat yang sangat enteng mudah dijinjing
+お手入れ;おていれ;perawatan pembersihan alat;kemudahan mencuci filter dan mengosongkan kotak debu
+吸引する;きゅういんする;menyedot menghisap debu;menghisap kotoran dari permukaan karpet
+吸引力;きゅういんりょく;daya hisap penyedot debu;kekuatan tenaga sedot vacuum cleaner
+コンパクト[な];コンパクト[な];ringkas padat hemat tempat;ukuran alat yang kecil ramping mudah disimpan
+持ち運ぶ;もちはこぶ;menjinjing membawa;mudah diangkat dan dibawa berpindah antar ruangan
+重視する;じゅうしする;memprioritaskan pertimbangan;menitikberatkan pilihan pada keawetan atau bobot ringan
+隅々;すみずみ;ke segenap sudut ruangan;menjangkau celah-celah sudut sempit di bawah sofa
+税別;ぜいべつ;harga belum termasuk pajak (sebelum PPN);nominal harga murni sebelum ditambah pajak konsumsi
+広告の品;こうこくのしな;produk promo brosur;barang unggulan yang sedang diiklankan diskon di selebaran
+特別価格;とくべつかかく;harga spesial promo;penawaran harga istimewa yang lebih murah dari biasa
+コードレス;コードレス;tanpa kabel baterai, cordless;vacuum cleaner tanpa kabel colokan yang praktis dibawa
+希望小売価格;きぼうこうりかかく;harga eceran yang disarankan (MSRP);patokan harga retail resmi dari pabrik pembuat
+軽い;かるい;ringan bobotnya;berat barang yang enteng tidak membebani tangan (lawan dari 重い)
+動かす;うごかす;menggerakkan, menggeser;mendorong vacuum cleaner menyusuri lantai
+持つ;もつ;memegang, menjinjing;menggenggam gagang pembersih di tangan
+比べる;くらべる;membandingkan spesifikasi;menjajarkan dua model produk untuk melihat keunggulannya
+パワフル[な];パワフル[な];sangat bertenaga, kuat;motor penyedot debu berdaya hisap luar biasa
+機能;きのう;fitur teknologi, fungsi;kemampuan teknis yang terpasang pada alat
+機能が付く;きのうがつく;dilengkapi fitur canggih;memiliki setelan sensor otomatis pendeteksi debu
+カーペット;カーペット;karpet lantai;kain tebal alas penutup lantai
+畳;たたみ;tikar jerami tatami;lantai tradisional Jepang dari anyaman jerami rumput igusa
+エコモード;エコモード;mode hemat daya (eco mode);setelan hemat listrik yang menyesuaikan daya otomatis
+ですから;ですから;karena alasan itulah;kata sambung penjelas alasan
+〜に合わせて;〜にあわせて;menyesuaikan dengan jenis ...;mengatur daya otomatis mengikuti jenis lantai karpet/tatami
+複雑[な];ふくざつ[な];rumit berbelit;banyak tombol menu yang susah dipahami
+重い;おもい;berat bobotnya;timbangan barang yang berat bikin cepat lelah (lawan dari 軽い)
+予算オーバー;よさんオーバー;melebihi bujet anggaran;harga produk melampaui kemampuan dana yang disiapkan
+シンプル[な];シンプル[な];sederhana mudah, simpel;desain minimalis dengan tombol pengoperasian ringkas
+消費税;しょうひぜい;pajak konsumsi (PPN);pajak pertambahan nilai barang belanjaan di Jepang (saat ini 10%)
+消費税抜き;しょうひぜいぬき;harga belum kena pajak konsumsi;nominal murni sebelum dihitung beban pajak PPN
+〜引き;〜びき;potongan diskon ... yen;potongan harga langsung (misal 2000円引き diskon 2.000 yen)
+配送;はいそう;pengantaran kurir paket;ekspedisi pengiriman barang belanjaan ke rumah
+合わせて;あわせて;secara total gabungan;menghitung jumlah total belanjaan beserta ongkir
+ポイント;ポイント;poin belanja toko;bonus reward poin yang bisa dipakai belanja berikutnya
+貯まる;たまる;terkumpul terakumulasi;poin belanja bertambah banyak di kartu member
+変わる;かわる;berubah selisihnya;nominal harga berubah saat memperhitungkan cashback poin
+安くなりますか？;やすくなりますか？;bisa kurang harganya?, ada diskon?;pertanyaan santai menawar harga kepada pramuniaga toko elektronik
+おいくらぐらいでお探しですか？;おいくらぐらいでおさがしですか？;mencari di kisaran bujet berapa?;pertanyaan sopan pelayan menanyakan plafon anggaran pembeli
+どちらにお住まいですか？;どちらにおすまいですか？;di manakah domisili tempat tinggal Anda?;pertanyaan sopan pelayan untuk menghitung estimasi ongkos kirim
+ご利用になりますか？;ごりようになりますか？;apakah Anda berkenan menggunakan layanan ini?;pertanyaan sopan pramuniaga menawarkan fasilitas pengantaran/garansi

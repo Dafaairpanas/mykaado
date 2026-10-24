@@ -1,0 +1,41 @@
+初心者;しょしんしゃ;pemula
+初めてパソコンをさわる;はじめてぱそこんをさわる;pertama kali pakai komputer
+入門講座を受ける;にゅうもんこうざをうける;mengikuti kursus dasar
+パソコンに慣れる;ぱそこんになれる;terbiasa komputer
+新製品;しんせいひん;produk baru
+中古;ちゅうこ;barang bekas
+新品;しんぴん;barang baru
+画面を見る;がめんをみる;melihat layar
+ソフトをインストールする;そふとをいんすとうるする;menginstall software
+スタートボタンをクリックする;すたあとぼたんをくりっくする;mengklik tombol start
+ファイルを開く;ふぁいるをひらく;membuka file
+閉じる;とじる;menutup
+年賀状を作る;ねんがじょうをつくる;membuat kartu tahun baru
+(インター)ネットにつなぐ;（いんたあ）ねっとにつなぐ;menghubungkan ke internet
+世界中とつながる;せかいじゅうとつながる;terhubung seluruh dunia
+情報を得る;じょうほうをえる;mendapatkan informasi
+オークションに参加する;おうくしょんにさんかする;ikut lelang
+出品する;しゅっぴんする;melelang barang
+ホームページを作る;ほうむぺえじをつくる;membuat homepage
+ブログを始める;ぶろぐをはじめる;mulai blog
+入力する;にゅうりょくする;memasukkan (input data)
+文字を削除する;もじをさくじょする;menghapus huruf / karakter
+漢字に変換する;かんじにへんかんする;mengubah ke kanji
+メールを送信する;めえるをそうしんする;mengirim email
+メールを受信する;めえるをじゅしんする;menerima email
+メールを送信（返信）する;めえるをそうしん（へんしん）する;membalas email
+メールを転送する;めえるをてんそうする;meneruskan email
+新規作成する;しんきさくせいする;membuat baru
+まとめて送る;まとめておくる;mengirim sekaligus
+整理する;せいりする;merapikan, menyortir
+アドレス帳に登録する;あどれすちょうにとうろくする;mendaftarkan ke buku alamat
+送信を完了する;そうしんをかんりょうする;pengiriman selesai
+あて先;あてさき;tujuan
+差出人;さしだしにん;pengirim
+件名;けんめい;judul email
+メールのやり取りをする;めえるのやりとりをする;saling kirim email
+写真を添付する;しゃしんをてんぷする;melampirkan foto
+改行する;かいぎょうする;membuat baris baru
+送信が完了する;そうしんがかんりょうする;pengiriman selesai
+アドレス帳;あどれすちょう;buku alamat
+送信者のアドレスを登録する;そうしんしゃのあどれすをとうろくする;mendaftarkan alamat pengirim

@@ -11,7 +11,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kondisi atmosfer udara harian"
   },
   {
     "id": "ir-a2-1-04-002",
@@ -25,7 +26,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "langit terang benderang disinari matahari"
   },
   {
     "id": "ir-a2-1-04-003",
@@ -39,7 +41,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "langit terbuka bersih dari awan mendung"
   },
   {
     "id": "ir-a2-1-04-004",
@@ -53,7 +56,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kondisi cuaca menyenangkan untuk beraktivitas luar"
   },
   {
     "id": "ir-a2-1-04-005",
@@ -67,7 +71,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "langit tertutup gumpalan awan kelabu"
   },
   {
     "id": "ir-a2-1-04-006",
@@ -81,7 +86,8 @@
     "chapter": "Bab 04",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "kondisi langit berubah berawan mendung"
   },
   {
     "id": "ir-a2-1-04-007",
@@ -95,7 +101,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "butiran air yang turun dari awan"
   },
   {
     "id": "ir-a2-1-04-008",
@@ -109,7 +116,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "turunnya hujan atau salju dari langit (雨・雪が降る)"
   },
   {
     "id": "ir-a2-1-04-009",
@@ -123,7 +131,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hembusan aliran udara"
   },
   {
     "id": "ir-a2-1-04-010",
@@ -137,7 +146,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gerakan hembusan angin (風が吹く)"
   },
   {
     "id": "ir-a2-1-04-011",
@@ -151,7 +161,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kilatan halilintar dan suara gelegar guruh"
   },
   {
     "id": "ir-a2-1-04-012",
@@ -165,7 +176,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "suara petir menggelegar atau bel berdering (雷が鳴る)"
   },
   {
     "id": "ir-a2-1-04-013",
@@ -179,7 +191,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "waktu saat ini"
   },
   {
     "id": "ir-a2-1-04-014",
@@ -193,7 +206,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "satu hari sebelum hari ini"
   },
   {
     "id": "ir-a2-1-04-015",
@@ -207,7 +221,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tingkat perubahan kondisi yang terpaut signifikan"
   },
   {
     "id": "ir-a2-1-04-016",
@@ -221,7 +236,8 @@
     "chapter": "Bab 04",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "perasaan lelah dan enggan menghadapi hal buruk berlarut-larut"
   },
   {
     "id": "ir-a2-1-04-017",
@@ -235,7 +251,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "malam hari kemarin"
   },
   {
     "id": "ir-a2-1-04-018",
@@ -249,7 +266,8 @@
     "chapter": "Bab 04",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "intensitas dahsyat (hujan lebat, angin kencang)"
   },
   {
     "id": "ir-a2-1-04-019",
@@ -263,7 +281,8 @@
     "chapter": "Bab 04",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ungkapan menyetujui pernyataan lawan bicara dengan tulus"
   },
   {
     "id": "ir-a2-1-04-020",
@@ -277,7 +296,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "waktu larut malam saat orang-orang terlelap"
   },
   {
     "id": "ir-a2-1-04-021",
@@ -291,7 +311,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "satu hari setelah hari ini"
   },
   {
     "id": "ir-a2-1-04-022",
@@ -305,7 +326,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "durasi waktu satu hari utuh"
   },
   {
     "id": "ir-a2-1-04-023",
@@ -319,7 +341,8 @@
     "chapter": "Bab 04",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "khusus meredanya hujan atau angin (雨がやむ)"
   },
   {
     "id": "ir-a2-1-04-024",
@@ -333,7 +356,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata sambung menyelipkan catatan atau kondisi penyerta"
   },
   {
     "id": "ir-a2-1-04-025",
@@ -347,7 +371,8 @@
     "chapter": "Bab 04",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hembusan angin kencang atau tenaga besar"
   },
   {
     "id": "ir-a2-1-04-026",
@@ -361,7 +386,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "setelan pakaian yang dikenakan di badan"
   },
   {
     "id": "ir-a2-1-04-027",
@@ -375,7 +401,8 @@
     "chapter": "Bab 04",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "anjuran sopan mempersilakan keluar rumah"
   },
   {
     "id": "ir-a2-1-04-028",
@@ -389,7 +416,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "badai siklon tropis angin dan hujan lebat"
   },
   {
     "id": "ir-a2-1-04-029",
@@ -403,7 +431,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "area di luar bangunan atau ruangan"
   },
   {
     "id": "ir-a2-1-04-030",
@@ -417,7 +446,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hilang nyawa atau ungkapan kiasan capek/panas sekali (死にそう)"
   },
   {
     "id": "ir-a2-1-04-031",
@@ -431,7 +461,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "derajat panas atau dinginnya udara lingkungan"
   },
   {
     "id": "ir-a2-1-04-032",
@@ -445,7 +476,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "makanan penutup beku manis"
   },
   {
     "id": "ir-a2-1-04-033",
@@ -459,7 +491,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "daerah kawasan pemukiman penduduk"
   },
   {
     "id": "ir-a2-1-04-034",
@@ -473,7 +506,8 @@
     "chapter": "Bab 04",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menempelkan tangan pada permukaan benda (手で触る)"
   },
   {
     "id": "ir-a2-1-04-035",
@@ -487,7 +521,8 @@
     "chapter": "Bab 04",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "suhu dingin saat disentuh indra peraba (lawan dari 熱い)"
   },
   {
     "id": "ir-a2-1-04-036",
@@ -501,7 +536,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "warna putih merata pekat (pemandangan tertutup salju)"
   },
   {
     "id": "ir-a2-1-04-037",
@@ -515,7 +551,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ragam lisan santai penekanan intensitas dari とても"
   },
   {
     "id": "ir-a2-1-04-038",
@@ -529,7 +566,8 @@
     "chapter": "Bab 04",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "keadaan yang belum usai atau belum bergeser"
   },
   {
     "id": "ir-a2-1-04-039",
@@ -543,6 +581,7 @@
     "chapter": "Bab 04",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "terlambat dari jadwal waktu yang ditentukan (電車が遅れる)"
   }
 ]

@@ -1,0 +1,39 @@
+天気;てんき;cuaca;kondisi atmosfer udara harian
+晴れ;はれ;cuaca cerah;langit terang benderang disinari matahari
+晴れる;はれる;menjadi cerah;langit terbuka bersih dari awan mendung
+いい天気;いいてんき;cuaca bagus, hari cerah;kondisi cuaca menyenangkan untuk beraktivitas luar
+曇り;くもり;berawan, mendung;langit tertutup gumpalan awan kelabu
+曇る;くもる;menjadi mendung;kondisi langit berubah berawan mendung
+雨;あめ;hujan;butiran air yang turun dari awan
+降る;ふる;turun, mengguyur;turunnya hujan atau salju dari langit (雨・雪が降る)
+風;かぜ;angin;hembusan aliran udara
+吹く;ふく;bertiup, berhembus;gerakan hembusan angin (風が吹く)
+雷;かみなり;petir, guntur;kilatan halilintar dan suara gelegar guruh
+鳴る;なる;bergemuruh, berbunyi;suara petir menggelegar atau bel berdering (雷が鳴る)
+今;いま;sekarang;waktu saat ini
+昨日;きのう;kemarin;satu hari sebelum hari ini
+だいぶ;だいぶ;lumayan, cukup banyak;tingkat perubahan kondisi yang terpaut signifikan
+嫌になる;いやになる;merasa muak, kesal bosan;perasaan lelah dan enggan menghadapi hal buruk berlarut-larut
+昨夜;ゆうべ;tadi malam;malam hari kemarin
+すごい;すごい;hebat, luar biasa, lebat;intensitas dahsyat (hujan lebat, angin kencang)
+本当ですね;ほんとうですね;benar sekali ya;ungkapan menyetujui pernyataan lawan bicara dengan tulus
+夜中;よなか;tengah malam;waktu larut malam saat orang-orang terlelap
+明日;あした;besok;satu hari setelah hari ini
+１日;いちにち;seharian penuh, 1 hari;durasi waktu satu hari utuh
+やむ;やむ;reda, berhenti;khusus meredanya hujan atau angin (雨がやむ)
+ただ;ただ;hanya saja, tetapi;kata sambung menyelipkan catatan atau kondisi penyerta
+強い;つよい;kuat, kencang;hembusan angin kencang atau tenaga besar
+服装;ふくそう;pakaian, busana;setelan pakaian yang dikenakan di badan
+お出かけください;おでかけください;silakan bepergian;anjuran sopan mempersilakan keluar rumah
+台風;たいふう;angin topan, taifun;badai siklon tropis angin dan hujan lebat
+外;そと;luar, di luar;area di luar bangunan atau ruangan
+死ぬ;しぬ;mati;hilang nyawa atau ungkapan kiasan capek/panas sekali (死にそう)
+気温;きおん;suhu udara;derajat panas atau dinginnya udara lingkungan
+アイス;アイス;es krim;makanan penutup beku manis
+町;まち;kota, pemukiman;daerah kawasan pemukiman penduduk
+触る;さわる;menyentuh, meraba;menempelkan tangan pada permukaan benda (手で触る)
+冷たい;つめたい;dingin (benda/rabaan);suhu dingin saat disentuh indra peraba (lawan dari 熱い)
+真っ白[な];まっしろ[な];putih bersih, putih salju;warna putih merata pekat (pemandangan tertutup salju)
+とっても;とっても;banget, sangat;ragam lisan santai penekanan intensitas dari とても
+まだ;まだ;masih, belum;keadaan yang belum usai atau belum bergeser
+遅れる;おくれる;terlambat, tertunda;terlambat dari jadwal waktu yang ditentukan (電車が遅れる)

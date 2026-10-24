@@ -11,7 +11,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "taman konservasi aneka satwa untuk umum"
   },
   {
     "id": "ir-a2-1-08-002",
@@ -25,7 +26,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kastel pertahanan megah warisan feodal samurai Jepang"
   },
   {
     "id": "ir-a2-1-08-003",
@@ -39,7 +41,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "tempat makan umum bergaya modern"
   },
   {
     "id": "ir-a2-1-08-004",
@@ -53,7 +56,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "gedung penyimpanan dan pameran koleksi bersejarah/ilmiah"
   },
   {
     "id": "ir-a2-1-08-005",
@@ -67,7 +71,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kompleks mal perbelanjaan diskon barang bermerek"
   },
   {
     "id": "ir-a2-1-08-006",
@@ -81,7 +86,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pertunjukan duel gulat hiburan profesional"
   },
   {
     "id": "ir-a2-1-08-007",
@@ -95,7 +101,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menara tinggi untuk pemancar atau dek panorama kota"
   },
   {
     "id": "ir-a2-1-08-008",
@@ -109,7 +116,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "permainan olahraga bisbol"
   },
   {
     "id": "ir-a2-1-08-009",
@@ -123,7 +131,8 @@
     "chapter": "Bab 08",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menunjukkan tindakan yang sudah selesai dilaksanakan"
   },
   {
     "id": "ir-a2-1-08-010",
@@ -137,7 +146,8 @@
     "chapter": "Bab 08",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menunjukkan tindakan yang belum dilakukan sampai saat ini"
   },
   {
     "id": "ir-a2-1-08-011",
@@ -151,7 +161,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "benua Asia"
   },
   {
     "id": "ir-a2-1-08-012",
@@ -165,7 +176,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata keterangan penekanan tingkat intensitas tinggi"
   },
   {
     "id": "ir-a2-1-08-013",
@@ -179,7 +191,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "gedung olahraga umum yang disediakan pemerintah kota untuk warga"
   },
   {
     "id": "ir-a2-1-08-014",
@@ -193,7 +206,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kompetisi olahraga adu ketangkasan antar tim/atlet"
   },
   {
     "id": "ir-a2-1-08-015",
@@ -207,7 +221,8 @@
     "chapter": "Bab 08",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "ragam lisan santai dari します (misal main tanding bisbol, dll.)"
   },
   {
     "id": "ir-a2-1-08-016",
@@ -221,7 +236,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "orang yang tergabung dalam suatu tim"
   },
   {
     "id": "ir-a2-1-08-017",
@@ -235,7 +251,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kuantitas jumlah orang atau dana belum mencukupi batas"
   },
   {
     "id": "ir-a2-1-08-018",
@@ -249,7 +266,8 @@
     "chapter": "Bab 08",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "keadaan yang tidak memungkinkan atau penolakan halus"
   },
   {
     "id": "ir-a2-1-08-019",
@@ -263,7 +281,8 @@
     "chapter": "Bab 08",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memahami informasi atau menguasai duduk perkara"
   },
   {
     "id": "ir-a2-1-08-020",
@@ -277,7 +296,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "mata uang pembayaran tunai"
   },
   {
     "id": "ir-a2-1-08-021",
@@ -291,7 +311,8 @@
     "chapter": "Bab 08",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengambil uang dari rekening bank atau mesin ATM (お金を下ろす)"
   },
   {
     "id": "ir-a2-1-08-022",
@@ -305,7 +326,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "aktivitas menyantap hidangan makan"
   },
   {
     "id": "ir-a2-1-08-023",
@@ -319,7 +341,8 @@
     "chapter": "Bab 08",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "durasi waktu sebentar atau takaran sedikit"
   },
   {
     "id": "ir-a2-1-08-024",
@@ -333,7 +356,8 @@
     "chapter": "Bab 08",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "rehat sejenak melepaskan rasa letih"
   },
   {
     "id": "ir-a2-1-08-025",
@@ -347,7 +371,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "alas kaki khusus untuk olahraga lari santai"
   },
   {
     "id": "ir-a2-1-08-026",
@@ -361,7 +386,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "anjungan tunai mandiri perbankan"
   },
   {
     "id": "ir-a2-1-08-027",
@@ -375,7 +401,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "area bermain mesin dingdong atau arkade game di mal"
   },
   {
     "id": "ir-a2-1-08-028",
@@ -389,7 +416,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pusat jajanan serba ada di dalam mal"
   },
   {
     "id": "ir-a2-1-08-029",
@@ -403,7 +431,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "tempat santai menikmati kopi dan kue"
   },
   {
     "id": "ir-a2-1-08-030",
@@ -417,7 +446,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "gedung pemutaran film layar lebar"
   },
   {
     "id": "ir-a2-1-08-031",
@@ -431,7 +461,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "gerai yang menjual pakaian dan alat-alat olahraga"
   },
   {
     "id": "ir-a2-1-08-032",
@@ -445,7 +476,8 @@
     "chapter": "Bab 08",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "waktu berikutnya setelah kegiatan saat ini rampung"
   },
   {
     "id": "ir-a2-1-08-033",
@@ -459,7 +491,8 @@
     "chapter": "Bab 08",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "perut terasa kosong membutuhkan makanan"
   },
   {
     "id": "ir-a2-1-08-034",
@@ -473,7 +506,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hal atau benda yang belum ditentukan spesifik"
   },
   {
     "id": "ir-a2-1-08-035",
@@ -487,7 +521,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tindakan yang harus dilakukan sebelum agenda berikutnya"
   },
   {
     "id": "ir-a2-1-08-036",
@@ -501,7 +536,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pujian atas mutu, pemandangan, atau performa yang sangat prima"
   },
   {
     "id": "ir-a2-1-08-037",
@@ -515,7 +551,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sukar untuk dipahami atau diselesaikan"
   },
   {
     "id": "ir-a2-1-08-038",
@@ -529,7 +566,8 @@
     "chapter": "Bab 08",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "perasaan batin yang tergetar menyaksikan hal indah/mengharukan"
   },
   {
     "id": "ir-a2-1-08-039",
@@ -543,7 +581,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "penampilan yang menggemaskan dan manis"
   },
   {
     "id": "ir-a2-1-08-040",
@@ -557,7 +596,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "acara pameran menampilkan karya lukisan atau seni rupa"
   },
   {
     "id": "ir-a2-1-08-041",
@@ -571,7 +611,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hewan mamalia berbulu hitam putih pemakan bambu"
   },
   {
     "id": "ir-a2-1-08-042",
@@ -585,7 +626,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "primata berekor yang lincah"
   },
   {
     "id": "ir-a2-1-08-043",
@@ -599,7 +641,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kurun waktu masa modern sekarang"
   },
   {
     "id": "ir-a2-1-08-044",
@@ -613,7 +656,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hasil ciptaan seni lukis, buku, atau film"
   },
   {
     "id": "ir-a2-1-08-045",
@@ -627,7 +671,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "film seram bertema misteri atau hantu"
   },
   {
     "id": "ir-a2-1-08-046",
@@ -641,7 +686,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tidak menarik dan tidak menghibur"
   },
   {
     "id": "ir-a2-1-08-047",
@@ -655,7 +701,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "suasana monoton tanpa kegiatan seru sehingga jenuh"
   },
   {
     "id": "ir-a2-1-08-048",
@@ -669,6 +716,7 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ungkapan percakapan santai untuk hal yang tanggung atau belum maksimal"
   }
 ]

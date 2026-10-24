@@ -1,0 +1,74 @@
+段ボール;だんボール;kardus
+ドライバー;ドライバー;obeng
+ごみ;ごみ;sampah
+窓;まど;jendela
+プロジェクタ;プロジェクタ;proyektor
+リモコン;リモコン;alat kendali jarak jauh (remote control)
+置いて（ください）;おいて（ください）;(Tolong) letakkan.
+取って（ください）;とって（ください）;(Tolong) ambilkan.
+並べて（ください）;ならべて（ください）;(Tolong) susun.
+片付けて（ください）;かたづけて（ください）;(Tolong) rapikan.
+捨てて（ください）;すてて（ください）;(Tolong) buang.
+持って来て（ください）;もってきて（ください）;(Tolong) bawakan ke sini.
+持って行って（ください）;もっていって（ください）;(Tolong) bawakan ke sana.
+閉めて（ください）;しめて（ください）;(Tolong) tutup.
+手伝って（ください）;てつだって（ください）;(Tolong) bantu.
+～枚;～まい;~ lembar
+コピー;コピー;fotokopi
+隣;となり;sebelah
+～までに;～までに;sampai ~
+あとで;あとで;nanti
+もしもし;もしもし;Halo (untuk di telepon)
+来てください;きてください;Tolong datang.
+13時;じゅうさんじ;pukul 13:00 (1:00 p.m.)
+14時;じゅうよじ;pukul 14:00 (2:00 p.m.)
+15時;じゅうごじ;pukul 15:00 (3:00 p.m.)
+16時;じゅうろくじ;pukul 16:00 (4:00 p.m.)
+17時;じゅうしちじ;pukul 17:00 (5:00 p.m.)
+18時;じゅうはちじ;pukul 18:00 (6:00 p.m.)
+19時;じゅうくじ;pukul 19:00 (7:00 p.m.)
+20時;にじゅうじ;pukul 20:00 (8:00 p.m.)
+21時;にじゅういちじ;pukul 21:00 (9:00 p.m.)
+22時;にじゅうにじ;pukul 22:00 (10:00 p.m.)
+23時;にじゅうさんじ;pukul 23:00 (11:00 p.m.)
+0時;れいじ;pukul 00:00 (12:00 tengah malam)
+すぐに;すぐに;segera
+第～（第2）;だい～（だいに）;No. ~ (contoh: No. 2)
+～部（100部）;～ぶ（ひゃくぶ）;~ eksemplar, lembar (contoh: 100 eksemplar, 100 lembar)
+電話する / 電話します;でんわする / でんわします;menelepon
+電話してください;でんわしてください;Tolong telepon, Tolong hubungi.
+折り返し;おりかえし;menghubungi kembali
+電話がありました;でんわがありました;Ada telepon.
+貸す / 貸します;かす / かします;meminjamkan
+借りる / 借ります;かりる / かります;meminjam
+はさみ;はさみ;gunting
+カッター;カッター;pisau cutter
+のり;のり;lem
+ホチキス;ホチキス;stapler
+えんぴつ;えんぴつ;pensil
+ペン;ペン;pena
+電卓;でんたく;kalkulator
+充電器;じゅうでんき;pengisi daya (charger)
+ふせん;ふせん;notes tempel (sticky note)
+いいよ;いいよ;Oke. (Bentuk informal dari いいですよ (Boleh))
+ありますよ / あるよ;ありますよ / あるよ;Saya punya/ Ada, kok.
+フォーク;フォーク;garpu
+ナイフ;ナイフ;pisau
+スプーン;スプーン;sendok
+はし;はし;sumpit
+塩;しお;garam
+こしょう;こしょう;lada
+砂糖;さとう;gula
+ミルク;ミルク;susu
+備品リスト;びひんリスト;inventaris (daftar barang)
+品名;ひんめい;nama barang
+数量;すうりょう;kuantitas, jumlah
+石けん;せっけん;sabun batang
+シャンプー;シャンプー;sampo
+コンディショナー;コンディショナー;kondisioner
+歯ブラシ;はブラシ;sikat gigi
+かみそり;かみそり;pisau cukur
+タオル;タオル;handuk
+バスタオル;バスタオル;handuk mandi
+トイレットペーパー;トイレットペーパー;tisu toilet
+バスルーム;バスルーム;kamar mandi

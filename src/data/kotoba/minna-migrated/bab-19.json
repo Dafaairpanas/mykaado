@@ -10,7 +10,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Ucapan syukur dan terima kasih atas kebaikan/perhatian lawan bicara"
   },
   {
     "id": "mn-19-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Upacara tradisi menyeduh dan menyajikan teh matcha (茶道 / さどう)"
   },
   {
     "id": "mn-19-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Permainan memukul bola ke dalam lubang dengan stik golf (ゴルフをする)"
   },
   {
     "id": "mn-19-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mengatur pola makan untuk menurunkan berat badan (ダイエットをする)"
   },
   {
     "id": "mn-19-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 19",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perubahan kondisi bertahap seiring berjalannya waktu (cth: だんだん暖かくなる)"
   },
   {
     "id": "mn-19-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 19",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata sambung santai menyatakan pertentangan di awal kalimat"
   },
   {
     "id": "mn-19-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 19",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Perubahan keadaan sifat atau profesi (cth: 医者になる, 寒くなる)"
   },
   {
     "id": "mn-19-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Waktu yang akan segera tiba dalam waktu dekat (cth: もうすぐ春ですね)"
   },
   {
     "id": "mn-19-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Frekuensi satu kali pengalaman (cth: 一度行ったことがあります)"
   },
   {
     "id": "mn-19-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Diikuti bentuk kalimat negatif pengalaman (cth: 一度もありません)"
   },
   {
     "id": "mn-19-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 19",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mengangkat gelas bersama sebelum mulai minum di jamuan makan pesta (perbaikan kolom 1 kosong)"
   },
   {
     "id": "mn-19-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 19",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kekuatan fisik tenaga perkasa, atau minuman alkohol berkadar tinggi,  lawan dari 弱い"
   },
   {
     "id": "mn-19-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 19",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kekuatan fisik lemah, atau tidak tahan minuman keras,  lawan dari 強い"
   },
   {
     "id": "mn-19-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 19",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Melangkah naik tangga, memanjat pohon, atau lift naik ke atas"
   },
   {
     "id": "mn-19-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 19",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mencuci pakaian kotor dengan mesin cuci atau tangan (洗濯をする)"
   },
   {
     "id": "mn-19-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 19",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membersihkan ruangan dari debu dan kotoran (掃除をする)"
   },
   {
     "id": "mn-19-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Olahraga gulat tradisional khas Jepang di atas arena ring dohyo"
   },
   {
     "id": "mn-19-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 19",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Makanan bernutrisi atau olahraga yang menyehatkan raga"
   },
   {
     "id": "mn-19-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Keadaan kesehatan fisik tubuh atau performa mesin (cth: 体の調子がいい)"
   },
   {
     "id": "mn-19-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 19",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mendaki puncak gunung tinggi menanjak (山に登る)"
   },
   {
     "id": "mn-19-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Satu hari penanggalan kalender, atau pancaran sinar matahari"
   },
   {
     "id": "mn-19-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 19",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Tidur bermalam di hotel, penginapan ryokan, atau rumah teman (hotel ditandai に)"
   },
   {
     "id": "mn-19-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 19",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rasa kantuk berat ingin memejamkan mata tidur"
   },
   {
     "id": "mn-19-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 19",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Memaksakan tenaga di luar batas kemampuan (無理をしないで = jangan memforsir diri)"
   },
   {
     "id": "mn-19-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mengasah kemampuan berulang-ulang (cth: 日本語を練習する)"
   },
   {
     "id": "mn-19-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hiburan menyanyi lagu dengan panduan lirik layar dan musik latar"
   },
   {
     "id": "mn-19-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Permainan mesin pinball tegak kelereng besi populer di Jepang"
   },
   {
     "id": "mn-19-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Igo = catur batu hitam-putih,  Shogi = catur strategi tradisional Jepang"
   },
   {
     "id": "mn-19-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Seni tradisional merangkai bunga berfilosofi harmoni alam (ikebana)"
   },
   {
     "id": "mn-19-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Seni bela diri tangan kosong tanpa senjata khas Okinawa Jepang"
   },
   {
     "id": "mn-19-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Seni bela diri pedang anggar bambu berpelindung zirah pelindung muka"
   },
   {
     "id": "mn-19-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Seni bela diri bantingan dan kuncian gulat asal Jepang karya Kano Jigoro"
   },
   {
     "id": "mn-19-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Seni melukis huruf kanji memakai kuas fude dan tinta bak hitam (shodou)"
   },
   {
     "id": "mn-19-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Olahraga gulat tradisional khas Jepang di atas arena ring dohyo"
   },
   {
     "id": "mn-19-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Drama panggung tari musikal klasik kuno bertopeng kayu khas Jepang"
   },
   {
     "id": "mn-19-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Seni teater boneka kayu tradisional Jepang yang digerakkan 3 dalang"
   },
   {
     "id": "mn-19-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Manzai = lawakan duet kocak berdua,  Rakugo = dongeng monolog jenaka solo berkipas"
   },
   {
     "id": "mn-19-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Seni teater tari drama beriasan mencolok yang dimainkan khusus pria"
   },
   {
     "id": "mn-19-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Seniman ukiyo-e legendaris Zaman Edo pembuat lukisan Ombak Besar Kanagawa"
   },
   {
     "id": "mn-19-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Ritual estetika filosofis menyajikan teh hijau matcha khas Jepang"
   },
   {
     "id": "mn-19-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 19",
     "type": "adv",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Menara pemancar siaran tertinggi di dunia setinggi 634 meter di Tokyo"
   },
   {
     "id": "mn-19-042",
@@ -543,6 +584,7 @@
     "chapter": "Bab 19",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tarian rakyat massal melingkari panggung yagura saat festival arwah leluhur Obon di musim panas"
   }
 ]

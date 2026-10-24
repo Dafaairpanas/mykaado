@@ -10,7 +10,8 @@
     "chapter": "Bab 18",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Satuan ukuran panjang jarak meter (cth: 100メートル)"
   },
   {
     "id": "mn-18-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jaringan informasi daring global (sering disingkat ネット)"
   },
   {
     "id": "mn-18-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Doa ibadah keagamaan (お祈りをする = berdoa)"
   },
   {
     "id": "mn-18-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 18",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan keinginan kuat atau ajakan tulus (cth: ぜひ来てください)"
   },
   {
     "id": "mn-18-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 18",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan antusias menanggapi cerita hobi atau rencana lawan bicara"
   },
   {
     "id": "mn-18-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 18",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memiliki kemampuan keahlian (ditandai が: ピアノができる), atau rampung"
   },
   {
     "id": "mn-18-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 18",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Diikuti bentuk negatif menyatakan hal sulit terwujud (cth: なかなか見つからない)"
   },
   {
     "id": "mn-18-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Alat musik akustik tuts papan nada (ピアノを弾く = main piano)"
   },
   {
     "id": "mn-18-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Seruan takjub atau terkejut saat mendengar fakta baru menarik"
   },
   {
     "id": "mn-18-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 18",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Meminta konfirmasi kepastian atas berita yang mengejutkan"
   },
   {
     "id": "mn-18-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 18",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengendarai mobil atau mengoperasikan mesin kendaraan (車を運転する)"
   },
   {
     "id": "mn-18-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 18",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Melantunkan syair lagu dengan nada suara (歌を歌う)"
   },
   {
     "id": "mn-18-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Jabatan struktural manajer tingkat seksi di perusahaan Jepang"
   },
   {
     "id": "mn-18-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 18",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menukar uang valuta asing (お金を換える), atau menukar barang"
   },
   {
     "id": "mn-18-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Uang koin dan kertas riil (bukan kartu kredit/debit)"
   },
   {
     "id": "mn-18-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 18",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membuang sampah ke tempat sampah (ゴミを捨てる)"
   },
   {
     "id": "mn-18-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pimpinan tertinggi perusahaan korporasi Jepang"
   },
   {
     "id": "mn-18-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Aktivitas kesenangan yang dilakukan di waktu luang"
   },
   {
     "id": "mn-18-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 18",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengoleksi perangko, koin, atau mengumpulkan dokumen (transitif)"
   },
   {
     "id": "mn-18-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 18",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membersihkan pakaian, piring, atau tangan dengan air dan sabun"
   },
   {
     "id": "mn-18-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 18",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memainkan instrumen berpelatuk tuts atau senar dawai (gitar, piano, biola)"
   },
   {
     "id": "mn-18-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Makhluk hidup bernyawa fauna"
   },
   {
     "id": "mn-18-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menonjolkan satu hal secara spesifik dibanding yang lain"
   },
   {
     "id": "mn-18-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Catatan riwayat harian pribadi (日記をつける/書く)"
   },
   {
     "id": "mn-18-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hewan mamalia berkaki empat untuk tunggangan (馬に乗る = menunggang kuda)"
   },
   {
     "id": "mn-18-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Jabatan pimpinan tingkat departemen di atas kachou"
   },
   {
     "id": "mn-18-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 18",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memesan tiket pesawat, kamar hotel, atau meja restoran sebelumnya"
   },
   {
     "id": "mn-18-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mengayunkan kaki menyepak bola (ボールを蹴る)"
   },
   {
     "id": "mn-18-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mengetuk pintu (ドアを叩く), atau menepuk pundak"
   },
   {
     "id": "mn-18-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bergerak melata dengan tangan dan lutut di lantai (bayi merangkak)"
   },
   {
     "id": "mn-18-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menenggelamkan tubuh menyelam ke dalam air laut (海に潜る)"
   },
   {
     "id": "mn-18-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menarik tali, menarik laci meja, atau menarik garis pintu"
   },
   {
     "id": "mn-18-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Meluncur menggerakkan anggota tubuh di air"
   },
   {
     "id": "mn-18-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mendorong gerobak pintu dorong, atau menekan tombol cap stempel"
   },
   {
     "id": "mn-18-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 18",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menegakkan tubuh terbalik bertumpu pada kedua telapak tangan"
   },
   {
     "id": "mn-18-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menekuk lutut/punggung, atau membengkokkan kawat besi (transitif)"
   },
   {
     "id": "mn-18-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mengangkat beban barang berat dari lantai ke atas"
   },
   {
     "id": "mn-18-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Merentangkan tangan/kaki saat senam pemanasan, atau menumbuhkan rambut"
   },
   {
     "id": "mn-18-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Memutar kepala memandang ke arah belakang"
   },
   {
     "id": "mn-18-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melambaikan tangan (手を振る), mengocok botol minuman, atau mencampakkan pacar"
   },
   {
     "id": "mn-18-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melangkahkan kaki dengan kecepatan kencang (lawan dari 歩く)"
   },
   {
     "id": "mn-18-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melompat ke atas menggunakan kekuatan kaki (cth: 縄跳び = lompat tali)"
   },
   {
     "id": "mn-18-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hilang keseimbangan hingga tersungkur di tanah"
   },
   {
     "id": "mn-18-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mendaki bukit atau gunung tinggi (山に登る)"
   },
   {
     "id": "mn-18-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melemparkan bola ke arah sasaran (ボールを投げる)"
   },
   {
     "id": "mn-18-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melompat masuk terjun ke dalam air kolam renang atau sungai"
   },
   {
     "id": "mn-18-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melayang terbang di angkasa (burung atau pesawat terbang di langit)"
   },
   {
     "id": "mn-18-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Grup band musik rock legendaris asal Inggris"
   },
   {
     "id": "mn-18-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Tanah kelahiran asal seseorang yang dirindukan (judul lagu legendaris Jepang)"
   },
   {
     "id": "mn-18-050",
@@ -647,6 +696,7 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kawasan pusat niaga elektronik, anime, dan pop culture otaku terbesar di Tokyo"
   }
 ]

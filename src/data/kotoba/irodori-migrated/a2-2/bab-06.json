@@ -11,7 +11,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "waktu keberangkatan atau stasiun awal (misal 東京発 berangkat dari Tokyo)"
   },
   {
     "id": "ir-a2-2-06-002",
@@ -25,7 +26,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "waktu kedatangan atau stasiun tujuan akhir (misal 9時着 tiba pukul 9)"
   },
   {
     "id": "ir-a2-2-06-003",
@@ -39,7 +41,8 @@
     "chapter": "Bab 06",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "nomor penamaan armada Shinkansen atau bus (misal こまち15号)"
   },
   {
     "id": "ir-a2-2-06-004",
@@ -53,7 +56,8 @@
     "chapter": "Bab 06",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "nomor urutan gerbong pada rangkaian kereta api"
   },
   {
     "id": "ir-a2-2-06-005",
@@ -67,7 +71,8 @@
     "chapter": "Bab 06",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "posisi baris dan huruf kursi penumpang (misal 12番A席)"
   },
   {
     "id": "ir-a2-2-06-006",
@@ -81,7 +86,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "karcis khusus tambahan untuk menaiki kereta ekspres cepat"
   },
   {
     "id": "ir-a2-2-06-007",
@@ -95,7 +101,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ibu kota Prefektur Akita di wilayah utara Tohoku"
   },
   {
     "id": "ir-a2-2-06-008",
@@ -109,7 +116,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "nama layanan kereta peluru Shinkansen rute Tokyo - Akita"
   },
   {
     "id": "ir-a2-2-06-009",
@@ -123,7 +131,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "tempat duduk penumpang di tepi lorong jalan kereta"
   },
   {
     "id": "ir-a2-2-06-010",
@@ -137,7 +146,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "tempat duduk penumpang yang menempel ke jendela kereta"
   },
   {
     "id": "ir-a2-2-06-011",
@@ -151,7 +161,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "keterlambatan waktu tempuh perjalanan kereta"
   },
   {
     "id": "ir-a2-2-06-012",
@@ -165,7 +176,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "taksiran estimasi angka waktu (misal 約10分 sekitar 10 menit)"
   },
   {
     "id": "ir-a2-2-06-013",
@@ -179,7 +191,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "jumlah komposisi gerbong satu rangkaian kereta (misal 10両編成 rangkaian 10 gerbong)"
   },
   {
     "id": "ir-a2-2-06-014",
@@ -193,7 +206,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "layanan perjalanan kereta dihentikan sementara akibat cuaca/gangguan"
   },
   {
     "id": "ir-a2-2-06-015",
@@ -207,7 +221,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "informasi resmi yang disiarkan pihak operator stasiun"
   },
   {
     "id": "ir-a2-2-06-016",
@@ -221,7 +236,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "penomoran siklon tropis taifun di Jepang (misal 台風19号)"
   },
   {
     "id": "ir-a2-2-06-017",
@@ -235,7 +251,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "badai atau kereta mendekati wilayah tertentu"
   },
   {
     "id": "ir-a2-2-06-018",
@@ -249,7 +266,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata penghubung formal menyatakan sebab akibat resmi"
   },
   {
     "id": "ir-a2-2-06-019",
@@ -263,7 +281,8 @@
     "chapter": "Bab 06",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menghentikan pengoperasian sambil memantau situasi aman"
   },
   {
     "id": "ir-a2-2-06-020",
@@ -277,7 +296,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "lapisan kulit tipis gurih dari permukaan rebusan susu kedelai khas Nikko/Kyoto"
   },
   {
     "id": "ir-a2-2-06-021",
@@ -291,7 +311,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "negara lain di luar negeri sendiri"
   },
   {
     "id": "ir-a2-2-06-022",
@@ -305,7 +326,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "satuan hitung malam masa menginap wisata (misal 1泊 1 malam)"
   },
   {
     "id": "ir-a2-2-06-023",
@@ -319,7 +341,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "makanan khas termasyhur suatu daerah tujuan wisata"
   },
   {
     "id": "ir-a2-2-06-024",
@@ -333,7 +356,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kuil warisan dunia megah di Nikko makam Tokugawa Ieyasu"
   },
   {
     "id": "ir-a2-2-06-025",
@@ -347,7 +371,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "danau pemandangan alam indah di dataran tinggi Nikko"
   },
   {
     "id": "ir-a2-2-06-026",
@@ -361,7 +386,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "tempat duduk yang wajib dipesan nomor kursinya terlebih dahulu"
   },
   {
     "id": "ir-a2-2-06-027",
@@ -375,7 +401,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "tempat duduk umum tanpa nomor yang bebas ditempati siapa saja"
   },
   {
     "id": "ir-a2-2-06-028",
@@ -389,7 +416,8 @@
     "chapter": "Bab 06",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tempat peron naik bus atau taksi (misal 2番乗り場 peron 2)"
   },
   {
     "id": "ir-a2-2-06-029",
@@ -403,7 +431,8 @@
     "chapter": "Bab 06",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "nomor jalur peron kedatangan dan keberangkatan kereta di stasiun"
   },
   {
     "id": "ir-a2-2-06-030",
@@ -417,7 +446,8 @@
     "chapter": "Bab 06",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "arah stasiun tujuan akhir perjalanan (misal 新宿行き tujuan Shinjuku)"
   },
   {
     "id": "ir-a2-2-06-031",
@@ -431,7 +461,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "nama rute perkeretaapian (misal 山手線 Jalur Yamanote)"
   },
   {
     "id": "ir-a2-2-06-032",
@@ -445,7 +476,8 @@
     "chapter": "Bab 06",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "penunjuk arah rute perjalanan umum (misal 横浜方面 ke arah Yokohama)"
   },
   {
     "id": "ir-a2-2-06-033",
@@ -459,7 +491,8 @@
     "chapter": "Bab 06",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "kereta atau bus mulai bergerak keluar dari stasiun"
   },
   {
     "id": "ir-a2-2-06-034",
@@ -473,7 +506,8 @@
     "chapter": "Bab 06",
     "type": "v3",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "armada transportasi sampai masuk ke peron tujuan"
   },
   {
     "id": "ir-a2-2-06-035",
@@ -487,7 +521,8 @@
     "chapter": "Bab 06",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "ganti menaiki jalur kereta atau moda transportasi lain"
   },
   {
     "id": "ir-a2-2-06-036",
@@ -501,7 +536,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "jenis kereta cepat antar-kota yang hanya berhenti di stasiun besar"
   },
   {
     "id": "ir-a2-2-06-037",
@@ -515,7 +551,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "satuan hitung jumlah gerbong kereta (misal 9両 9 gerbong)"
   },
   {
     "id": "ir-a2-2-06-038",
@@ -529,7 +566,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "berdasarkan urutan nomor atau waktu"
   },
   {
     "id": "ir-a2-2-06-039",
@@ -543,7 +581,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "gerbong eksekutif berfasilitas mewah dan kursi lebih lega"
   },
   {
     "id": "ir-a2-2-06-040",
@@ -557,7 +596,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ibu kota Prefektur Ishikawa terkenal dengan taman Kenrokuen dan distrik samurai"
   },
   {
     "id": "ir-a2-2-06-041",
@@ -571,7 +611,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "rangkaian armada kereta bermesin penarik"
   },
   {
     "id": "ir-a2-2-06-042",
@@ -585,7 +626,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "sebutan sopan untuk kegiatan menaiki kereta penumpang"
   },
   {
     "id": "ir-a2-2-06-043",
@@ -599,7 +641,8 @@
     "chapter": "Bab 06",
     "type": "particle",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "estimasi kisaran durasi waktu (misal 3分ほど sekitar 3 menit)"
   },
   {
     "id": "ir-a2-2-06-044",
@@ -613,7 +656,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kota persimpangan transportasi utama di wilayah Chugoku"
   },
   {
     "id": "ir-a2-2-06-045",
@@ -627,7 +671,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "pintu sisi buka gerbong kereta saat tiba di stasiun"
   },
   {
     "id": "ir-a2-2-06-046",
@@ -641,7 +686,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pintu sisi kiri yang akan terbuka di peron"
   },
   {
     "id": "ir-a2-2-06-047",
@@ -655,7 +701,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kereta lokal yang berhenti di tiap peron stasiun tanpa terkecuali"
   },
   {
     "id": "ir-a2-2-06-048",
@@ -669,7 +716,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "peron rel yang berada persis di hadapan seberang mata"
   },
   {
     "id": "ir-a2-2-06-049",
@@ -683,7 +731,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "posisi di pertengahan ruangan kereta atau lantai peron"
   },
   {
     "id": "ir-a2-2-06-050",
@@ -697,7 +746,8 @@
     "chapter": "Bab 06",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "kalimat pembuka siaran pengeras suara stasiun (bentuk sangat hormat)"
   },
   {
     "id": "ir-a2-2-06-051",
@@ -711,7 +761,8 @@
     "chapter": "Bab 06",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "anjuran sangat sopan mempersilakan penumpang melangkah ke peron"
   },
   {
     "id": "ir-a2-2-06-052",
@@ -725,7 +776,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "insiden darurat yang menghambat kelancaran jadwal perjalanan"
   },
   {
     "id": "ir-a2-2-06-053",
@@ -739,7 +791,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perangkat mekanik atau gerbong mengalami kerusakan teknis"
   },
   {
     "id": "ir-a2-2-06-054",
@@ -753,7 +806,8 @@
     "chapter": "Bab 06",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "lampu indikator pengatur keselamatan laju kereta"
   },
   {
     "id": "ir-a2-2-06-055",
@@ -767,7 +821,8 @@
     "chapter": "Bab 06",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gangguan sistem persinyalan lalu lintas kereta api"
   },
   {
     "id": "ir-a2-2-06-056",
@@ -781,7 +836,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "informasi lisan lewat pengeras suara stasiun"
   },
   {
     "id": "ir-a2-2-06-057",
@@ -795,7 +851,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "merasa bingung dan repot akibat kereta berhenti mendadak"
   },
   {
     "id": "ir-a2-2-06-058",
@@ -809,7 +866,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menanyakan ulang maksud pengumuman yang baru disiarkan"
   },
   {
     "id": "ir-a2-2-06-059",
@@ -823,7 +881,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "sebutan resmi pihak pengelola untuk stasiun tempat berada saat ini"
   },
   {
     "id": "ir-a2-2-06-060",
@@ -837,7 +896,8 @@
     "chapter": "Bab 06",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "penyebab resmi terjadinya gangguan perjalanan (misal 事故のため)"
   },
   {
     "id": "ir-a2-2-06-061",
@@ -851,7 +911,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "kegiatan menjalankan kereta api"
   },
   {
     "id": "ir-a2-2-06-062",
@@ -865,7 +926,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "permohonan maaf empati kepada penumpang yang sedang terburu-buru"
   },
   {
     "id": "ir-a2-2-06-063",
@@ -879,7 +941,8 @@
     "chapter": "Bab 06",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "maklumat resmi pembuka siaran stasiun (bentuk kenjougo)"
   },
   {
     "id": "ir-a2-2-06-064",
@@ -893,7 +956,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "bentuk sangat sopan dari しています (misal 点検を行っております)"
   },
   {
     "id": "ir-a2-2-06-065",
@@ -907,7 +971,8 @@
     "chapter": "Bab 06",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "permohonan maaf resmi stasiun kepada pelanggan"
   },
   {
     "id": "ir-a2-2-06-066",
@@ -921,7 +986,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "insiden darurat tertabraknya orang di lintasan rel kereta"
   },
   {
     "id": "ir-a2-2-06-067",
@@ -935,7 +1001,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "imbas efek dari kecelakaan terhadap jalur kereta lain"
   },
   {
     "id": "ir-a2-2-06-068",
@@ -949,7 +1016,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "seluruh bentang jalur rel tanpa terkecuali"
   },
   {
     "id": "ir-a2-2-06-069",
@@ -963,7 +1031,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bentuk sonkeigo dari 行く / 来る"
   },
   {
     "id": "ir-a2-2-06-070",
@@ -977,7 +1046,8 @@
     "chapter": "Bab 06",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "anjuran sopan mempersilakan penumpang memakai jalur alternatif"
   },
   {
     "id": "ir-a2-2-06-071",
@@ -991,7 +1061,8 @@
     "chapter": "Bab 06",
     "type": "v3",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "perasaan takjub menyaksikan keindahan pemandangan alam"
   },
   {
     "id": "ir-a2-2-06-072",
@@ -1005,7 +1076,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sensasi kesegaran udara pegunungan yang menenangkan batin"
   },
   {
     "id": "ir-a2-2-06-073",
@@ -1019,7 +1091,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perasaan kecewa karena rencana gagal terwujud"
   },
   {
     "id": "ir-a2-2-06-074",
@@ -1033,7 +1106,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "stamina fisik terkuras setelah perjalanan jauh"
   },
   {
     "id": "ir-a2-2-06-075",
@@ -1047,7 +1121,8 @@
     "chapter": "Bab 06",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "reaksi spontan terkejut atas kabar keterlambatan"
   },
   {
     "id": "ir-a2-2-06-076",
@@ -1061,7 +1136,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "merasa heran atau takjub menyaksikan hal tak biasa"
   },
   {
     "id": "ir-a2-2-06-077",
@@ -1075,7 +1151,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "merasa ngeri saat berada di ketinggian"
   },
   {
     "id": "ir-a2-2-06-078",
@@ -1089,7 +1166,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perasaan lega atau apresiasi puas atas liburan"
   },
   {
     "id": "ir-a2-2-06-079",
@@ -1103,7 +1181,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kota metropolis kuliner dan bisnis terbesar di wilayah Kansai"
   },
   {
     "id": "ir-a2-2-06-080",
@@ -1117,7 +1196,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "sate goreng tepung renyah khas Osaka dengan saus celup hitam"
   },
   {
     "id": "ir-a2-2-06-081",
@@ -1131,7 +1211,8 @@
     "chapter": "Bab 06",
     "type": "adv",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "bola-bola adonan tepung panggang isi potongan gurita kenyal"
   },
   {
     "id": "ir-a2-2-06-082",
@@ -1145,7 +1226,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "naik ke puncak menara atau mendaki gunung (山・タワーに登る)"
   },
   {
     "id": "ir-a2-2-06-083",
@@ -1159,7 +1241,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "gedung pencakar langit super tinggi ikonik di kota Osaka"
   },
   {
     "id": "ir-a2-2-06-084",
@@ -1173,7 +1256,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kastel megah bersejarah peninggalan Toyotomi Hideyoshi"
   },
   {
     "id": "ir-a2-2-06-085",
@@ -1187,7 +1271,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menara observasi bersejarah simbol distrik Shinsekai di Osaka"
   },
   {
     "id": "ir-a2-2-06-086",
@@ -1201,7 +1286,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "unggas pemakan ikan di pesisir"
   },
   {
     "id": "ir-a2-2-06-087",
@@ -1215,7 +1301,8 @@
     "chapter": "Bab 06",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "melemparkan pakan kepada burung camar"
   },
   {
     "id": "ir-a2-2-06-088",
@@ -1229,7 +1316,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "aktivitas rekreasi memancing di dermaga atau danau"
   },
   {
     "id": "ir-a2-2-06-089",
@@ -1243,7 +1331,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "angkasa luas di atas bumi"
   },
   {
     "id": "ir-a2-2-06-090",
@@ -1257,7 +1346,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "burung camar laut khas perairan pantai Jepang"
   },
   {
     "id": "ir-a2-2-06-091",
@@ -1271,7 +1361,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menunjuk area yang agak jauh dari pembicara"
   },
   {
     "id": "ir-a2-2-06-092",
@@ -1285,7 +1376,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pantai batu kapur putih air jernih terkenal di Prefektur Iwate"
   },
   {
     "id": "ir-a2-2-06-093",
@@ -1299,7 +1391,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "kereta rel penarik lereng bukit curam"
   },
   {
     "id": "ir-a2-2-06-094",
@@ -1313,7 +1406,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "melangkahkan kaki menyusuri jalan setapak"
   },
   {
     "id": "ir-a2-2-06-095",
@@ -1327,7 +1421,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hewan pengerat lincah berekor lebat"
   },
   {
     "id": "ir-a2-2-06-096",
@@ -1341,7 +1436,8 @@
     "chapter": "Bab 06",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata penghubung menyimpulkan alasan"
   },
   {
     "id": "ir-a2-2-06-097",
@@ -1355,7 +1451,8 @@
     "chapter": "Bab 06",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "merelakan rencana dibatalkan demi keselamatan"
   },
   {
     "id": "ir-a2-2-06-098",
@@ -1369,7 +1466,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "titik paling tinggi di puncak gunung"
   },
   {
     "id": "ir-a2-2-06-099",
@@ -1383,7 +1481,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gunung wisata alam populer dekat Tokyo yang ramah pendaki"
   },
   {
     "id": "ir-a2-2-06-100",
@@ -1397,7 +1496,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "pemandangan indah tata kota yang tampak dari ketinggian"
   },
   {
     "id": "ir-a2-2-06-101",
@@ -1411,7 +1511,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hamparan kebun bunga aneka warna yang mekar serentak"
   },
   {
     "id": "ir-a2-2-06-102",
@@ -1425,7 +1526,8 @@
     "chapter": "Bab 06",
     "type": "adv",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "dekorasi ribuan lampu warna-warni malam hari"
   },
   {
     "id": "ir-a2-2-06-103",
@@ -1439,7 +1541,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pementasan atraksi hiburan musik atau kembang api"
   },
   {
     "id": "ir-a2-2-06-104",
@@ -1453,7 +1556,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "tidur bermalam di hotel tujuan"
   },
   {
     "id": "ir-a2-2-06-105",
@@ -1467,7 +1571,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "aliran air sungai yang terjun bebas dari tebing batu"
   },
   {
     "id": "ir-a2-2-06-106",
@@ -1481,7 +1586,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "cahaya lampu hias atau pantulan air yang berkelap-kelip indah"
   },
   {
     "id": "ir-a2-2-06-107",
@@ -1495,7 +1601,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengeluarkan pendaran cahaya terang"
   },
   {
     "id": "ir-a2-2-06-108",
@@ -1509,7 +1616,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "taman hiburan megah bertema nuansa negeri Belanda di Nagasaki"
   },
   {
     "id": "ir-a2-2-06-109",
@@ -1523,7 +1631,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "negara di kawasan Eropa barat"
   },
   {
     "id": "ir-a2-2-06-110",
@@ -1537,7 +1646,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "mi kering siap seduh dengan kaldu bubuk"
   },
   {
     "id": "ir-a2-2-06-111",
@@ -1551,7 +1661,8 @@
     "chapter": "Bab 06",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menggoreskan kuas lukis di atas wadah cup mi"
   },
   {
     "id": "ir-a2-2-06-112",
@@ -1565,7 +1676,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "mi instan praktis dalam wadah mangkuk cup siap seduh"
   },
   {
     "id": "ir-a2-2-06-113",
@@ -1579,7 +1691,8 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "karya seni rupa visual"
   },
   {
     "id": "ir-a2-2-06-114",
@@ -1593,6 +1706,7 @@
     "chapter": "Bab 06",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bahan taburan pelengkap makanan mi atau piza"
   }
 ]

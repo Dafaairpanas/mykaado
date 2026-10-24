@@ -11,7 +11,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "waktu di masa mendatang dalam rentang kehidupan"
   },
   {
     "id": "ir-a2-2-18-002",
@@ -25,7 +26,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "keinginan luhur yang ingin diwujudkan"
   },
   {
     "id": "ir-a2-2-18-003",
@@ -39,7 +41,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "keinginan positif untuk masa depan"
   },
   {
     "id": "ir-a2-2-18-004",
@@ -53,7 +56,8 @@
     "chapter": "Bab 18",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "merintis badan usaha atau bisnis mandiri (起業する)"
   },
   {
     "id": "ir-a2-2-18-005",
@@ -67,7 +71,8 @@
     "chapter": "Bab 18",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "diterima bekerja sebagai karyawan formal di perusahaan"
   },
   {
     "id": "ir-a2-2-18-006",
@@ -81,7 +86,8 @@
     "chapter": "Bab 18",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "membuka kedai atau usaha toko pribadi"
   },
   {
     "id": "ir-a2-2-18-007",
@@ -95,7 +101,8 @@
     "chapter": "Bab 18",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memperoleh penghasilan uang lewat bekerja keras"
   },
   {
     "id": "ir-a2-2-18-008",
@@ -109,7 +116,8 @@
     "chapter": "Bab 18",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menyisihkan sebagian gaji di rekening tabungan"
   },
   {
     "id": "ir-a2-2-18-009",
@@ -123,7 +131,8 @@
     "chapter": "Bab 18",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "membina rumah tangga bersama pasangan hidup"
   },
   {
     "id": "ir-a2-2-18-010",
@@ -137,7 +146,8 @@
     "chapter": "Bab 18",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mendirikan bangunan tempat tinggal idaman keluarga"
   },
   {
     "id": "ir-a2-2-18-011",
@@ -151,7 +161,8 @@
     "chapter": "Bab 18",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "meneruskan studi ke tingkat universitas atau sekolah kejuruan"
   },
   {
     "id": "ir-a2-2-18-012",
@@ -165,7 +176,8 @@
     "chapter": "Bab 18",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menempuh studi pendidikan di mancanegara"
   },
   {
     "id": "ir-a2-2-18-013",
@@ -179,7 +191,8 @@
     "chapter": "Bab 18",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menikmati waktu luang tanpa tergesa-gesa"
   },
   {
     "id": "ir-a2-2-18-014",
@@ -193,7 +206,8 @@
     "chapter": "Bab 18",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "tinggal menetap dan beraktivitas sehari-hari"
   },
   {
     "id": "ir-a2-2-18-015",
@@ -207,7 +221,8 @@
     "chapter": "Bab 18",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menetap tinggal dalam jangka waktu sangat lama"
   },
   {
     "id": "ir-a2-2-18-016",
@@ -221,7 +236,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "berkediaman di suatu kota atau wilayah"
   },
   {
     "id": "ir-a2-2-18-017",
@@ -235,7 +251,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "melakukan pekerjaan profesional di tempat kerja"
   },
   {
     "id": "ir-a2-2-18-018",
@@ -249,7 +266,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ahli pembuat kerajinan tangan atau pertukangan berketerampilan tinggi"
   },
   {
     "id": "ir-a2-2-18-019",
@@ -263,7 +281,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "profesi memandu pelancong menikmati objek wisata"
   },
   {
     "id": "ir-a2-2-18-020",
@@ -277,7 +296,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "profesi mengalihbahasakan percakapan lisan secara langsung"
   },
   {
     "id": "ir-a2-2-18-021",
@@ -291,7 +311,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "guru profesional yang mengajar bahasa Jepang bagi warga asing"
   },
   {
     "id": "ir-a2-2-18-022",
@@ -305,7 +326,8 @@
     "chapter": "Bab 18",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "ahli pembuat kerajinan tangan atau pertukangan berketerampilan tinggi"
   },
   {
     "id": "ir-a2-2-18-023",
@@ -319,7 +341,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "alat transportasi bermotor roda empat"
   },
   {
     "id": "ir-a2-2-18-024",
@@ -333,7 +356,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pemeliharaan dan reparasi teknis mesin otomotif"
   },
   {
     "id": "ir-a2-2-18-025",
@@ -347,7 +371,8 @@
     "chapter": "Bab 18",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memberikan faedah praktis bagi masyarakat atau perusahaan"
   },
   {
     "id": "ir-a2-2-18-026",
@@ -361,7 +386,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "langkah yang dipersiapkan untuk menggapai cita-cita"
   },
   {
     "id": "ir-a2-2-18-027",
@@ -375,7 +401,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "keterampilan teknologi atau keahlian mekanik"
   },
   {
     "id": "ir-a2-2-18-028",
@@ -389,7 +416,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "berusaha pantang menyerah demi mimpi"
   },
   {
     "id": "ir-a2-2-18-029",
@@ -403,7 +431,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gaya hidup dan suasana lingkungan tempat tinggal"
   },
   {
     "id": "ir-a2-2-18-030",
@@ -417,7 +446,8 @@
     "chapter": "Bab 18",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "rencana atau usaha membuahkan hasil yang memuaskan"
   },
   {
     "id": "ir-a2-2-18-031",
@@ -431,7 +461,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "rekan kerja, tetangga, dan sahabat sekitar"
   },
   {
     "id": "ir-a2-2-18-032",
@@ -445,7 +476,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "generasi muda yang penuh potensi"
   },
   {
     "id": "ir-a2-2-18-033",
@@ -459,7 +491,8 @@
     "chapter": "Bab 18",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menyelesaikan studi sekolah atau perkuliahan"
   },
   {
     "id": "ir-a2-2-18-034",
@@ -473,7 +506,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pilihan alternatif bidang atau jalan lain"
   },
   {
     "id": "ir-a2-2-18-035",
@@ -487,7 +521,8 @@
     "chapter": "Bab 18",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memperlebar wawasan pengetahuan atau relasi pertemanan"
   },
   {
     "id": "ir-a2-2-18-036",
@@ -501,7 +536,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "latar belakang ketertarikan yang sudah ada sedari dulu"
   },
   {
     "id": "ir-a2-2-18-037",
@@ -515,7 +551,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pembukaan lowongan pekerjaan atau seleksi penerimaan"
   },
   {
     "id": "ir-a2-2-18-038",
@@ -529,7 +566,8 @@
     "chapter": "Bab 18",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengajukan berkas lamaran kerja ke perusahaan"
   },
   {
     "id": "ir-a2-2-18-039",
@@ -543,7 +581,8 @@
     "chapter": "Bab 18",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "terus konsisten melakukan kegiatan tanpa putus"
   },
   {
     "id": "ir-a2-2-18-040",
@@ -557,7 +596,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menegaskan prioritas hal yang paling penting dicoba"
   },
   {
     "id": "ir-a2-2-18-041",
@@ -571,7 +611,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ketegangan batin akibat tekanan rutinitas kerja"
   },
   {
     "id": "ir-a2-2-18-042",
@@ -585,7 +626,8 @@
     "chapter": "Bab 18",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menjalin perkenalan hangat dengan orang baru"
   },
   {
     "id": "ir-a2-2-18-043",
@@ -599,7 +641,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tahap akhir acara atau presentasi"
   },
   {
     "id": "ir-a2-2-18-044",
@@ -613,7 +656,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pesan singkat penutup kesan pesan"
   },
   {
     "id": "ir-a2-2-18-045",
@@ -627,7 +671,8 @@
     "chapter": "Bab 18",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hari pertama mulai mengawali karier pekerjaan"
   },
   {
     "id": "ir-a2-2-18-046",
@@ -641,7 +686,8 @@
     "chapter": "Bab 18",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kemampuan yang masih canggung di awal masa kerja (lawan dari 上手)"
   },
   {
     "id": "ir-a2-2-18-047",
@@ -655,7 +701,8 @@
     "chapter": "Bab 18",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "melakukan kekeliruan dalam bertugas lalu menjadikannya pelajaran"
   },
   {
     "id": "ir-a2-2-18-048",
@@ -669,7 +716,8 @@
     "chapter": "Bab 18",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sektor pengolahan barang industri pabrik"
   },
   {
     "id": "ir-a2-2-18-049",
@@ -683,7 +731,8 @@
     "chapter": "Bab 18",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "bersikap hangat dan peduli membantu orang lain"
   },
   {
     "id": "ir-a2-2-18-050",
@@ -697,6 +746,7 @@
     "chapter": "Bab 18",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memberikan bantuan nyata saat orang lain berada dalam kesulitan"
   }
 ]

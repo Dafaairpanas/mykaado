@@ -1,0 +1,91 @@
+本物;ほんもの;asli, autentik;barang atau cita rasa otentik orisinal (lawan dari 偽物)
+量;りょう;porsi, takaran;banyaknya kuantitas makanan yang disajikan
+鶏;とり;daging ayam;unggas ayam pedaging
+彼女;かのじょ;pacar wanita, dia (wanita);kekasih perempuan atau kata ganti wanita
+食事;しょくじ;makan, bersantap;kegiatan menyantap makanan
+ベトナム料理;ベトナムりょうり;kuliner khas Vietnam;aneka hidangan autentik khas Vietnam (pho, lumpia)
+土地;とち;daerah lokal, tanah;wilayah kedaerahan setempat (misal 土地の料理 kuliner lokal)
+俺;おれ;aku, gue;kata ganti orang pertama informal maskulin di kalangan pria
+看板;かんばん;papan nama kedai, plang toko;papan nama penunjuk gerai toko di pinggir jalan
+この辺;このへん;sekitar daerah sini;lingkungan di dekat area saat ini
+新しく;あたらしく;secara baru;membuka kedai baru di lingkungan
+できる;できる;baru dibuka, selesai dibangun;toko atau restoran baru saja berdiri (店ができる)
+地図;ちず;peta lokasi;gambar panduan letak arah jalan dan bangunan
+送る;おくる;mengirimkan peta;membagikan tautan lokasi kepada teman
+この辺り;このあたり;di seputar kawasan ini;area kisaran lingkungan terdekat
+夫婦;ふうふ;pasangan suami-istri;ikatan pernikahan suami dan istri
+知りませんでした;しりませんでした;saya baru tahu sekarang;tanggapan mendengar kabar yang belum pernah diketahui sebelumnya
+食べ方;たべかた;cara menikmati hidangan;tata cara memakan masakan tertentu dengan benar
+つける;つける;mencelupkan ke saus;mencocolkan lauk ke piring saus celup (たれをつける)
+混ぜる;まぜる;mengaduk, mencampur;mengaduk rata mi atau sayur bersama bumbu
+かける;かける;menuangkan saus;menyiramkan kuah atau saus di atas makanan (ソースをかける)
+入れる;いれる;memasukkan bumbu;menambahkan bahan atau rempah ke dalam kuah
+巻く;まく;menggulung;melilitkan lembaran nori atau kulit lumpia (海苔を巻く)
+のせる;のせる;menaruh di atas pugasan;meletakkan pugasan di atas mangkuk nasi
+剥く;むく;mengupas kulit;mengelupas kulit luar buah, tomat, atau ubi (皮をむく)
+混ぜそば;まぜそば;mazesoba, mi campur;hidangan mi kering tebal diaduk bersama daging cincang dan telur mentah
+焼売;シュウマイ;siomai kukus;pangsit daging kukus khas kuliner Tiongkok
+天ぷら;てんぷら;tempura;aneka sayuran dan seafood goreng berbalut adonan tepung renyah
+トマト;トマト;buah tomat;buah berair merah manis asam
+手巻き寿司;てまきずし;temakizushi, sushi gulung tangan;sushi kerucut yang digulung sendiri dengan lembaran nori
+焼き芋;やきいも;yaki-imo, ubi bakar;ubi jalar manis yang dipanggang hingga harum merekah
+味がついている;あじがついている;sudah berbumbu gurih;makanan yang sudah memiliki rasa lezat tanpa perlu saus tambahan
+醤油;しょうゆ;kecap asin jepang (shoyu);saus kedelai asin fermentasi khas Jepang
+つゆ;つゆ;kuah kaldu celup tsuyu;kuah kaldu encer gurih pencelup tempura atau mi soba
+そのまま;そのまま;begitu saja tanpa tambahan;menyantap langsung apa adanya tanpa membubuhi bumbu lagi
+海苔;のり;rumput laut kering nori;lembaran rumput laut tipis pembalut sushi
+皮;かわ;kulit luar;kulit ari tomat atau kulit luar buah-buahan (トマトの皮)
+お待たせしました;おまたせしました;terima kasih telah menunggu;sapaan sopan pelayan saat mengantarkan pesanan ke meja
+一度に;いちどに;sekaligus bersamaan;memasukkan semua bahan dalam satu waktu serentak
+そんなに;そんなに;sebanyak itu, sebegitu;menunjukkan derajat takaran yang cukup banyak
+しゃぶしゃぶ;しゃぶしゃぶ;shabu-shabu;hidangan irisan tipis daging sapi yang dicelup kuah mendidih
+こうやって;こうやって;dengan cara seperti ini;memperagakan tata cara makan secara langsung
+味がない;あじがない;hambar tanpa rasa;belum memiliki cita rasa gurih
+ポン酢;ポンず;saus ponzu;saus cocolan kecap asin berpadu sari jeruk sitrun yang segar
+ごまだれ;ごまだれ;saus wijen gurih;saus celup kental gurih dari tumbukan biji wijen
+白菜;はくさい;sawi putih;sayuran sawi putih renyah untuk rebusan kuah
+調味料;ちょうみりょう;bumbu dapur;penyedap rasa masakan (gula, garam, kecap)
+砂糖;さとう;gula pasir;pemanis masakan kristal putih
+胡椒;こしょう;lada hitam, merica;bumbu pedas hangat butir merica
+スパイス;スパイス;rempah-rempah;aneka rempah aromatik tanaman
+ソース;ソース;saus kental gurih;saus penyedap masakan kental
+たれ;たれ;saus celup tare;saus cocolan untuk daging panggang yakiniku
+油;あぶら;minyak goreng;minyak nabati untuk mengolah makanan
+調理方法;ちょうりほうほう;metode memasak;tata cara mematangkan bahan masakan
+切る;きる;memotong, mengiris;memotong sayur atau daging dengan pisau (包丁で切る)
+焼く;やく;memanggang, membakar;memasak di atas wajan pemanggang atau bara api
+煮る;にる;merebus dalam kuah bumbu;menyetup bahan makanan dalam kaldu manis gurih hingga meresap
+茹でる;ゆでる;merebus dalam air panas;mematangkan mi, telur, atau sayuran dalam air mendidih lalu ditiriskan
+蒸す;むす;mengukus masakan;mematangkan makanan dengan uap air panas (シュウマイを蒸す)
+炒める;いためる;menumis;memasak sayur dalam wajan panas dengan sedikit minyak (野菜を炒める)
+揚げる;あげる;menggoreng rendam (deep fry);mematangkan makanan dalam minyak panas melimpah (天ぷらを揚げる)
+サラダ;サラダ;selada sayur, salad;campuran sayuran mentah segar bersiram dressing
+餃子;ぎょうざ / ギョーザ;gyoza, pangsit jepang;pangsit isi daging cincang dan daun bawang goreng berair
+家庭料理;かていりょうり;masakan rumahan;hidangan santap harian keluarga yang hangat
+フェイジョアーダ;フェイジョアーダ;feijoada;rebusan kacang hitam dan daging khas kuliner Brasil
+モモ;モモ;momo;pangsit kukus isi daging berbumbu rempah khas Nepal
+ガドガド;ガドガド;gado-gado;salad aneka sayuran rebus bersaus bumbu kacang gurih khas Indonesia
+麻花;マーホア;mahua;kudapan kue pilin goreng renyah manis khas Tiongkok
+中国;ちゅうごく;Tiongkok, Cina;negara di kawasan Asia Timur
+豆;まめ;kacang-kacangan, polong;aneka biji legum konsumsi
+小麦粉;こむぎこ;tepung terigu;tepung olahan gandum untuk kulit gyoza dan mi
+ピーナッツソース;ピーナッツソース;saus bumbu kacang;saus kental gurih dari ulekan kacang tanah
+皮;かわ;kulit pembungkus gyoza;lembaran tipis adonan tepung pembungkus isian pangsit (餃子の皮)
+ゆで卵;ゆでたまご;telur rebus matang;telur ayam yang direbus dalam air panas
+〜など;〜など;... dan sebagainya;menyebutkan contoh perwakilan yang belum tuntas
+甘辛い;あまからい;manis gurih sedap;kombinasi cita rasa manis gula berpadu gurih pedas kecap
+固い;かたい;keras padat, alot;tekstur makanan yang keras digigit
+どれも;どれも;yang mana pun semuanya;seluruh opsi makanan yang disajikan semuanya lezat
+〜屋;〜や;rumah makan ..., kedai ...;gerai spesialis kuliner tertentu (misal 定食屋 kedai menu paket)
+ボリューム;ボリューム;porsi melimpah mengenyangkan;kuantitas sajian makanan yang berlimpah ruah (ボリュームがある)
+満足[な];まんぞく[な];puas, memuaskan;perasaan kenyang dan sangat puas atas hidangan
+おばちゃん;おばちゃん;ibu pemilik kedai, bibi;sebutan akrab ramah untuk wanita paruh baya pengelola warung
+リーズナブル[な];リーズナブル[な];ramah di kantong, terjangkau;harga bersahabat yang sebanding dengan porsi dan mutunya
+頼む;たのむ;memesan hidangan;menyampaikan pesanan makanan ke pelayan (料理を頼む)
+煮込みハンバーグ;にこみハンバーグ;hamburg semur kuah kental;bistik daging cincang yang direbus dalam saus demiglace kental
+〜前;〜まえ;sebelum pukul ...;waktu sebelum jam tertentu tiba (misal 12時前 sebelum jam 12)
+おすすめする;おすすめする;merekomendasikan;menyarankan gerai makanan yang lezat kepada rekan
+やっている;やっている;mengelola, menjalankan kedai;mengoperasikan bisnis rumah makan bersama keluarga
+時間がかかる;じかんがかかる;memakan waktu lumayan;memerlukan durasi waktu yang agak lama untuk matang
+値段;ねだん;harga banderol;nominal biaya yang harus dibayar
+その他;そのほか;lain-lainnya;bagian lain di luar daftar yang telah disebutkan

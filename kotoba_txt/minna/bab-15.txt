@@ -1,0 +1,53 @@
+いらっしゃいます;いらっしゃいます;ada / berada (hormat);Bentuk sangat hormat (sonkeigo) dari います untuk orang lain
+カタログ;カタログ;katalog;Buku panduan daftar produk dagang bergambar
+すみません;すみません;permisi / maaf;Sapaan meminta maaf atau menginterupsi orang lain secara santun
+ソフト;ソフト;perangkat lunak / software;Program aplikasi komputer (kependekan ソフトウェア)
+皆さん;みなさん;semuanya / bapak-ibu sekalian;Sapaan ramah kepada segenap hadirin atau teman-teman
+経済;けいざい;bidang ekonomi;Ilmu perekonomian dan aktivitas pasar keuangan
+研究します;けんきゅうします;meneliti / riset;Melakukan riset ilmiah akademis atau pengujian laboratorium
+高校;こうこう;SMA (Sekolah Menengah Atas);Jenjang sekolah menengah atas 3 tahun (高等高校)
+作ります;つくります;membuat / memasak;Membuat barang kerajinan, masakan, atau karya (transitif)
+市役所;しやくしょ;kantor balai kota;Kantor dinas pemerintah kota
+思い出します;おもいだします;mengingat kembali / teringat;Memori ingatan masa lalu yang terlintas kembali di kepala
+資料;しりょう;data / bahan dokumen;Kumpulan data dokumen materi referensi rapat atau riset
+歯医者;はいしゃ;dokter gigi / klinik gigi;Dokter spesialis perawatan gigi (sinonim: 歯科医)
+時刻表;じこくひょう;jadwal keberangkatan;Tabel waktu jadwal tiba dan berangkat kereta atau bus
+住みます;すみます;tinggal / menetap;Menetap tinggal di suatu tempat (tempat ditandai に: 大阪に住んでいます)
+製品;せいひん;produk / barang buatan;Komoditas barang hasil produksi pabrik manufaktur
+造ります;つくります;membangun / memproduksi besar;Membuat kapal besar, gedung, atau meracik minuman sake
+知ります;しります;tahu / kenal;Mengetahui info (kondisi tahu: 知っています,  kondisi tidak tahu: 知りません)
+置きます;おきます;meletakkan / menaruh;Menaruh barang di atas meja atau tempat tertentu (tempat ditandai に)
+電子辞書;でんしじしょ;kamus elektronik;Perangkat saku digital khusus referensi kamus bahasa
+独身;どくしん;lajang / belum menikah;Status seseorang yang belum berkeluarga (single)
+売ります;うります;menjual;Menyerahkan barang untuk ditukar dengan uang,  lawan dari 買います
+服;ふく;pakaian / baju;Busana penutup tubuh (sopan: お洋服)
+エンジニア;エンジニア;insinyur / teknisi;Ahli rekayasa teknik mesin, elektro, atau IT (engineer)
+ジャーナリスト;ジャーナリスト;jurnalis / wartawan;Pencari dan peliput berita investigasi media massa
+スポーツ選手;スポーツせんしゅ;atlet olahraga;Pemain olahragawan profesional di bidang atletik atau bola
+デザイナー;デザイナー;desainer / perancang;Perancang busana pakaian, produk industri, atau grafis
+医者;いしゃ;dokter;Tenaga medis penyembuh orang sakit (sopan: お医者さん)
+運転手;うんてんしゅ;pengemudi / sopir;Orang yang mengemudikan kendaraan mobil, bus, atau taksi
+駅員;えきいん;pegawai stasiun;Karyawan staf pelayanan operasional stasiun kereta api
+音楽家;おんがくか;musisi;Komposer nada atau pemain alat musik profesional
+歌手;かしゅ;penyanyi;Vokalis yang membawakan nyanyian lagu secara profesional
+画家;がか;pelukis;Seniman ahli pembuat karya seni lukisan
+会社員;かいしゃいん;karyawan swasta;Pegawai staf yang bekerja di perusahaan komersial
+外交官;がいこうかん;diplomat;Pejabat perwakilan hubungan diplomatik luar negeri negara
+看護師;かんごし;perawat / suster;Tenaga medis perawat pasien di rumah sakit
+教師;きょうし;guru / pengajar;Menyebut profesi pendidik diri sendiri (kalau menyapa orang lain: 先生)
+銀行員;ぎんこういん;pegawai bank;Karyawan yang bertugas di kantor perbankan
+警察官;けいさつかん;polisi / aparat kepolisian;Petugas penegak hukum dan ketertiban masyarakat
+建築家;けんちくか;arsitek;Ahli perancang struktur desain bangunan gedung
+研究者;けんきゅうしゃ;peneliti;Ilmuwan riset sains atau humaniora
+公務員;こうむいん;pegawai negeri sipil (PNS);Pegawai dinas aparatur sipil negara di pemerintahan
+作家;さっか;pengarang / penulis novel;Penulis karya sastra buku novel atau naskah
+職業;しょくぎょう;profesi / pekerjaan;Mata pencaharian hidup seseorang
+政治家;せいじか;politikus;Tokoh wakil rakyat atau pejabat pemerintahan partai politik
+調理師;ちょうりし;koki / juru masak berlisensi;Juru masak profesional yang mengantongi sertifikat resmi
+店員;てんいん;pelayan toko / kasir;Staf karyawan yang melayani pembeli di toko/restoran
+俳優;はいゆう;aktor / aktris peran;Pemeran seni peran drama panggung teater atau film layar lebar
+美容師;びようし;penata rambut / ahli kecantikan;Penata rambut profesional (hairstylist) di salon kecantikan
+弁護士;べんごし;pengacara / advokat;Ahli hukum pembela klien di pengadilan peradilan
+郵便局員;ゆうびんきょくいん;pegawai kantor pos;Staf yang bertugas menangani surat dan paket di kantor pos
+理容師;りようし;tukang cukur rambut (barber);Ahli pangkas rambut pria profesional di pangkas rambut barbershop
+日本橋;にっぽんばし;Nipponbashi;Pusat perbelanjaan barang elektronik dan pop culture terkenal di Osaka

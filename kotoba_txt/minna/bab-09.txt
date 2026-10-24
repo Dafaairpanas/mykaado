@@ -1,0 +1,73 @@
+～から;～から;karena ～;Menyatakan alasan atau sebab di akhir klausa (cth: 時間がありませんから)
+［～は］ちょっと…;［～は］ちょっと…;maaf, sepertinya agak sulit...;Menolak ajakan secara halus dan sopan tanpa menyinggung lawan bicara
+あります;あります;ada / memiliki;Keberadaan benda mati atau kepemilikan abstrak (cth: 約束があります)
+アルバイト;アルバイト;kerja paruh waktu / kerja sampingan;Pekerjaan paruh waktu mahasiswa/pekerja (sering disingkat バイト)
+いいですよ;いいですよ;tentu saja boleh / silakan;Persetujuan santai memberikan izin atau menerima tawaran
+いっしょにいかがですか;いっしょにいかがですか;bagaimana kalau kita pergi bersama?;Mengajak lawan bicara melakukan aktivitas bersama-sama
+かたかな;かたかな;huruf Katakana;Sistem aksara silabis Jepang untuk kata serapan asing (kanji: 片仮名)
+カラオケ;カラオケ;karaoke;Hiburan menyanyi dengan iringan musik rekaman (kara=kosong, oke=orkes)
+クラシック;クラシック;musik klasik;Aliran musik simfoni orkestra klasik bergaya Eropa
+コンサート;コンサート;konser musik;Pertunjukan panggung konser musik langsung (live concert)
+ご主人;ごしゅじん;suami (orang lain);Sebutan sopan untuk suami milik orang lain
+スポーツ;スポーツ;olahraga;Aktivitas fisik atletik dan permainan bola (スポーツをする = berolahraga)
+だいたい;だいたい;sebagian besar / garis besar;Tingkat pemahaman sekitar 70-80% (cth: だいたい分かります)
+たくさん;たくさん;banyak;Jumlah kuantitas barang atau orang yang berlimpah
+だめですか;だめですか;tidak bisa ya / tidak boleh ya?;Menanyakan konfirmasi saat lawan bicara tampak ragu menolak
+ダンス;ダンス;dansa / tari;Seni menari gerak tubuh berirama (ダンスをする = menari)
+チケット;チケット;tiket masuk;Karcis tanda masuk konser, film bioskop, atau pertunjukan
+どうして;どうして;mengapa / kenapa?;Menanyakan alasan atau latar belakang terjadinya suatu hal (mengapa: なぜ)
+ひらがな;ひらがな;huruf Hiragana;Aksara fonetik silabis dasar bahasa Jepang (kanji: 平仮名)
+また今度お願いします;またこんどおねがいします;lain kali saja ya;Ungkapan sopan menolak ajakan dan berharap diajak di lain kesempatan
+よく;よく;dengan baik / sering;Tingkat pemahaman mendalam (よく分かる) atau frekuensi sering
+ローマ字;ローマじ;huruf Latin / Romaji;Sistem penulisan huruf alfabet Latin untuk bahasa Jepang
+飲み物;のみもの;minuman;Segala jenis cairan konsumsi (teh, jus, kopi, air)
+奥さん;おくさん;istri (orang lain);Panggilan sopan untuk istri milik orang lain
+音楽;おんがく;musik;Karya seni olah nada dan melodi
+下手［な］;へた［な］;kurang pandai / tidak mahir;Kurang terampil melakukan suatu keahlian,  lawan kata dari 上手
+歌;うた;lagu / tembang;Gubahan syair musik yang dinyanyikan (歌を歌う = bernyanyi)
+歌舞伎;かぶき;Kabuki;Seni teater drama tari klasik tradisional khas Jepang dengan riasan wajah mencolok
+絵;え;gambar / lukisan;Karya seni rupa lukis dua dimensi (絵を描く = melukis gambar)
+漢字;かんじ;huruf Kanji;Aksara ideogram logografik asal Tiongkok yang dipakai dalam bahasa Jepang
+嫌い［な］;きらい［な］;tidak suka / benci;Menyatakan ketidaksukaan pada objek/makanan (lawan kata dari 好き)
+好き［な］;すき［な］;suka / gemar;Menyukai objek, hobi, atau seseorang (lawan kata dari 嫌い)
+妻 / 家内;つま / かない;istri (sendiri);Menyebut istri kandung sendiri saat berbicara kepada orang lain
+細かいお金;こまかいおかね;uang receh / uang pecahan kecil;Uang koin atau uang kertas pecahan kecil untuk kembalian
+残念です;ざんねんです;sayang sekali / sungguh disayangkan;Ungkapan kecewa atas hal yang tidak sesuai harapan
+子供;こども;anak;Anak kandung sendiri atau anak kecil
+字;じ;huruf / aksara / tulisan tangan;Karakter tulisan huruf, atau bentuk tulisan tangan seseorang
+時間;じかん;waktu / jam;Durasi waktu luang atau kesempatan (cth: 時間がありません)
+少し;すこし;sedikit;Jumlah kuantitas atau derajat yang sedikit (lawan kata dari たくさん)
+上手［な］;じょうず［な］;pandai / mahir;Terampil dan lihai dalam suatu keahlian (lawan kata dari 下手)
+全然;ぜんぜん;sama sekali tidak;Diikuti bentuk kalimat negatif (cth: 全然分かりません = sama sekali tidak paham)
+早く / 速く;はやく;cepat / pagi-pagi;早く = lebih awal/pagi-pagi,  速く = pergerakan laju kecepatan tinggi
+貸してください;かしてください;tolong pinjamkan;Permintaan sopan ingin meminjam barang lawan bicara (cth: ペンを~)
+夫 / 主人;おっと / しゅじん;suami (sendiri);Menyebut suami kandung sendiri saat berbicara kepada orang lain
+分かります;わかります;mengerti / paham;Memahami arti, situasi, atau bahasa (ditandai partikel が: 日本語が分かる)
+野球;やきゅう;bisbol;Olahraga permainan bisbol yang sangat populer di Jepang
+約束;やくそく;janji / perjanjian;Kesepakatan temu atau komitmen janji (約束がある = ada janji)
+用事;ようじ;urusan / keperluan;Hal penting yang harus diselesaikan (用事がある = ada urusan)
+旅行;りょこう;liburan / wisata;Bepergian jalan-jalan menikmati tempat wisata (旅行する = berwisata)
+料理;りょうり;masakan / kuliner;Hidangan olahan makanan (料理をする = memasak makanan)
+アクション;アクション;film laga / aksi;Genre film perkelahian dan aksi menegangkan (action movie)
+アニメ;アニメ;anime / animasi;Karya animasi kartun khas produksi Jepang
+オペラ;オペラ;opera;Seni pertunjukan teater musik vokal klasik diiringi orkestra
+サッカー;サッカー;sepak bola;Olahraga sepak bola permainan tim di lapangan
+ジャズ;ジャズ;musik jazz;Aliran musik berirama sinkopasi improvisasi khas Afrika-Amerika
+ソフトボール;ソフトボール;softbol;Permainan olahraga bola pukul mirip bisbol berbola lebih besar
+ドキュメンタリー;ドキュメンタリー;film dokumenter;Karya film nonfiksi mendokumentasikan fakta kehidupan nyata
+バレーボール;バレーボール;bola voli;Olahraga permainan voli memantulkan bola di atas jaring net
+ポップス;ポップス;musik pop;Aliran musik populer kontemporer ramah dengar
+ホラー;ホラー;film horor;Genre film kisah seram menyeramkan hantu atau misteri
+ミステリー;ミステリー;film misteri / teka-teki;Karya cerita pengungkapan rahasia atau kasus teka-teki kriminal
+ミュージカル;ミュージカル;drama musikal;Pertunjukan teater panggung perpaduan dialog, lagu, dan tarian
+ラグビー;ラグビー;rugbi;Olahraga permainan bola lonjong dengan kontak fisik adu tubuh
+ラテン;ラテン;musik latin;Musik berirama enerjik khas Amerika Latin (salsa, samba, dll.)
+ロック;ロック;musik rock;Aliran musik petikan gitar listrik bertempo cepat dan menghentak
+演歌;えんか;lagu enka;Genre lagu balada tradisional modern khas Jepang penuh cengkok emosional
+喜劇;きげき;film komedi;Karya sandiwara atau film jenaka yang mengundang tawa (lawan dari 悲劇 / tragedi)
+剣道;けんどう;kendo;Seni bela diri pedang bambu khas Jepang dengan pakaian zirah pelindung
+水泳;すいえい;olahraga renang;Aktivitas berenang di kolam air atau perairan bebas
+戦争;せんそう;film perang / peperangan;Genre film pertempuran militer persenjataan antarbangsa
+文芸;ぶんげい;film sastra / karya sastra;Karya film yang diadaptasi dari novel sastra bermutu tinggi
+民謡;みんよう;musik rakyat / lagu daerah;Nyanyian rakyat tradisional anonim warisan daerah pedesaan
+恋愛;れんあい;film percintaan / asmara;Genre kisah asmara cinta sepasang kekasih romantis

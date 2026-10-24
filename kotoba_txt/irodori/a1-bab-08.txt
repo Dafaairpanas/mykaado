@@ -1,0 +1,35 @@
+更衣室;こういしつ;ruang ganti
+食堂;しょくどう;kantin
+給湯室;きゅうとうしつ;pantri (pantry)
+会議室;かいぎしつ;ruang rapat
+喫煙所;きつえんじょ;ruang merokok,  area merokok
+倉庫;そうこ;gudang
+着替える / 着替えます;きがえる / きがえます;berganti pakaian
+ご飯を食べる / 食べます;ごはんをたべる / たべます;makan
+お茶をいれる / いれます;おちゃをいれる / いれます;membuat/menyeduh teh
+打ち合わせをする / します;うちあわせをする / します;mengadakan rapat
+男性;だんせい;pria
+いる / います;いる / います;ada
+たぶん;たぶん;mungkin
+～よ（いるよ）;～よ（いるよ）;digunakan ketika memberitahukan informasi yang tidak diketahui lawan bicara
+～ね（いませんね）;～ね（いませんね）;digunakan ketika berbagi informasi dengan lawan bicara
+探してみます;さがしてみます;Saya akan mencoba mencarinya.
+上;うえ;atas
+下;した;bawah
+中;なか;dalam
+横;よこ;samping
+のり;のり;lem
+引き出し;ひきだし;laci
+ガムテープ;ガムテープ;lakban
+箱;はこ;kotak
+FAX;ファックス;faksimile
+コピー機;コピーき;mesin fotokopi
+はさみ;はさみ;gunting
+机;つくえ;meja
+ごみ箱;ごみばこ;tempat sampah
+ここ;ここ;sini
+そこ;そこ;situ
+あそこ;あそこ;sana
+ありました;ありました;Ada. (digunakan ketika menemukan benda yang dicari)
+応接室;おうせつしつ;ruang penerimaan tamu
+事務室;じむしつ;ruang administrasi,  ruang tata usaha

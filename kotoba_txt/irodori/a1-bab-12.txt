@@ -1,0 +1,99 @@
+夏祭り;なつまつり;festival musim panas
+会場;かいじょう;tempat acara
+イベント;イベント;acara
+広場;ひろば;lapangan
+食べ物;たべもの;makanan
+飲み物;のみもの;minuman
+ステージ;ステージ;pertunjukan
+縁日;えんにち;pekan raya
+文化センター;ぶんかセンター;pusat kebudayaan
+野外;やがい;luar ruangan, tempa terbuka
+入場料;にゅうじょうりょう;HTM (harga tiket masuk)
+～円;～えん;~ yen
+場所;ばしょ;tempat, lokasi
+ホール;ホール;aula
+映画上映会;えいがじょうえいかい;pemutaran film
+プログラム;プログラム;program
+上映作品;じょうえいさくひん;film yang ditayangkan
+お問い合わせ;おといあわせ;pertanyaan
+楽しもう！;たのしもう！;Mari nikmati ~.
+交流;こうりゅう;pertukaran
+バーベキュー;バーベキュー;barbeku
+日時;にちじ;tanggal dan waktu
+駐車場;ちゅうしゃじょう;tempat parkir
+あおぞら;あおぞら;langit biru
+問い合わせ先;といあわせさき;narahubung
+日本語ボランティア教室;にほんごボランティアきょうしつ;kelas sukarelawan Bahasa Jepang
+フェスティバル;フェスティバル;festival
+入場無料;にゅうじょうむりょう;gratis masuk
+1月;いちがつ;Januari
+2月;にがつ;Februari
+3月;さんがつ;Maret
+4月;しがつ;April
+5月;ごがつ;Mei
+6月;ろくがつ;Juni
+7月;しちがつ;Juli
+8月;はちがつ;Agustus
+9月;くがつ;September
+10月;じゅうがつ;Oktober
+11月;じゅういちがつ;November
+12月;じゅうにがつ;Desember
+何月;なんがつ;bulan apa
+1日;ついたち;tanggal 1
+2日;ふつか;tanggal 2
+3日;みっか;tanggal 3
+4日;よっか;tanggal 4
+5日;いつか;tanggal 5
+6日;むいか;tanggal 6
+7日;なのか;tanggal 7
+8日;ようか;tanggal 8
+9日;ここのか;tanggal 9
+10日;とおか;tanggal 10
+11日;じゅういちにち;tanggal 11
+12日;じゅうににち;tanggal 12
+13日;じゅうさんにち;tanggal 13
+14日;じゅうよっか;tanggal 14
+15日;じゅうごにち;tanggal 15
+16日;じゅうろくにち;tanggal 16
+17日;じゅうしちにち;tanggal 17
+18日;じゅうはちにち;tanggal 18
+19日;じゅうくにち;tanggal 19
+20日;はつか;tanggal 20
+21日;にじゅういちにち;tanggal 21
+22日;にじゅうににち;tanggal 22
+23日;にじゅうさんにち;tanggal 23
+24日;にじゅうよっか;tanggal 24
+25日;にじゅうごにち;tanggal 25
+26日;にじゅうろくにち;tanggal 26
+27日;にじゅうしちにち;tanggal 27
+28日;にじゅうはちにち;tanggal 28
+29日;にじゅうくにち;tanggal 29
+30日;さんじゅうにち;tanggal 30
+31日;さんじゅういちにち;tanggal 31
+何日;なんにち;tanggal berapa
+今日;きょう;hari ini
+明日;あした;besok
+あさって;あさって;lusa
+今週;こんしゅう;minggu ini
+来週;らいしゅう;minggu depan
+パーティー;パーティー;pesta
+空手;からて;karate
+試合;しあい;pertandingan
+忘年会;ぼうねんかい;pesta akhir tahun
+もちろん;もちろん;tentu saja
+楽しみですね;たのしみですね;Saya menantikannya.
+そうですね;そうですね;Ya, benar, Saya setuju (digunakan ketika pembicara setuju dengan ucapan lawan bicaranya)
+まだわかりません;まだわかりません;Saya belum tahu.
+残念です;ざんねんです;Sayang sekali.
+焼肉;やきにく;yakiniku (daging panggang khas Jepang)
+ハイキング;ハイキング;haiking (menjelajah, mendaki gunung)
+飲み会;のみかい;pesta minum
+いっしょに;いっしょに;bersama-sama
+今度;こんど;nanti, yang akan datang
+今晩;こんばん;malam ini
+また今度;またこんど;Mungkin lain kali.
+男はつらいよ;おとこはつらいよ;Otoko wa Tsurai yo ("Sulitnya Menjadi Pria")
+いいね！;いいね！;Boleh!
+残念;ざんねん;Sayang sekali.
+了解;りょうかい;Oke.
+ぐすん;ぐすん;Hiks.

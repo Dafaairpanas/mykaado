@@ -1,0 +1,32 @@
+危険な;きけんな;berbahaya
+安全な;あんぜんな;aman
+注意する;ちゅういする;berhati-hati
+油断する;ゆだんする;lengah
+安全を確認する;あんぜんをかくにんする;memastikan keamanan
+シートベルトを締める;しいとべるとをしめる;mengencangkan sabuk pengaman
+ガラスが割れる;がらすがわれる;kaca pecah
+ガラスを割る;がらすをわれる;memecahkan kaca
+車が衝突する;くるまがしょうとつする;mobil tabrakan
+車を衝突させる;くるまをしょうとつさせる;menabrakkan mobil
+スピードを出す;すぴいどをだす;mengebut
+スピードを落とす;すぴいどをおとす;menurunkan kecepatan
+事故が起きる／発生する;じこがおきる／はっせいする;terjadi kecelakaan
+山がくずれる;やまがくずれる;gunung longsor
+急ブレーキをかける;きゅうぶれえきをかける;mengerem mendadak
+気味が悪い生き物;きみがわるいいきもの;makhluk menyeramkan
+怪しい男;あやしいおとこ;laki-laki mencurigakan
+恐ろしい事件;おそろしいじけん;peristiwa mengerikan
+さびた包丁;さびたほうちょう;pisau yang berkarat
+針がさびる;はりがさびる;jarum berkarat
+ロープをつかむ;ろうぷをつかむ;memegang tali
+ロープにつかまる;ろうぷにつかまる;berpegangan pada tali
+ひもがちぎれる;ひもがちぎれる;talinya putus
+ひもをちぎる;ひもをちぎる;memutuskan tali
+服が破れる;ふくがわれる;bajunya robek
+服を破る;ふくをやぶる;merobek baju
+あやしい男;あやしいおとこ;laki-laki mencurigakan
+薄暗い部屋;うすぐらいへや;ruangan redup, remang-remang
+まぶしい明かり;まぶしいあかり;cahaya terang, silau
+くだらない小説;くだらないしょうせつ;novel yang konyol, tidak bernilai
+くわしい説明書;くわしいせつめいしょ;buku petunjuk yang lengkap, detail
+でたらめに答える;でたらめにこたえる;menjawab secara asal, omong kosong

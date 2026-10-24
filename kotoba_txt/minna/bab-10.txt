@@ -1,0 +1,56 @@
+～屋;～や;toko ～ / penjual ～;Dilekatkan di belakang jenis barang dagangan (cth: 本屋 = toko buku, 花屋 = toko bunga)
+ＡＴＭ;エーティーエム;mesin ATM;Mesin anjungan tunai mandiri bank (Automated Teller Machine)
+あります;あります;ada / berada;Menyatakan keberadaan benda mati atau tumbuhan (cth: 机の上に本があります)
+います;います;ada / berada;Menyatakan keberadaan makhluk hidup bergerak (manusia atau hewan)
+いろいろ［な］;いろいろ［な］;bermacam-macam / aneka ragam;Bervariasi jenis dan rupa (bisa berfungsi sbg kata sifat-na atau kata keterangan)
+コーナー;コーナー;sudut / bagian konter toko;Area pojok stan penjualan produk tertentu di toko
+コンビニ;コンビニ;minimarket (toko kelontong 24 jam);Toko kelontong modern cepat saji buka 24 jam (kependekan コンビニエンスストア)
+スイッチ;スイッチ;saklar lampu / tombol listrik;Alat pemutus/penghubung arus daya listrik (cth: スイッチを入れる/消す)
+テーブル;テーブル;meja makan / meja berkaki;Meja santap makan atau meja tamu gaya barat
+ドア;ドア;pintu;Pintu daun gaya barat (kalau pintu geser tradisional Jepang = 障子 / ふすま)
+どうもすみません;どうもすみません;terima kasih banyak / mohon maaf sekali;Ungkapan sopan fleksibel untuk terima kasih atas bantuan atau permohonan maaf
+ナンプラー;ナンプラー;kecap ikan (nam pla);Saus bumbu kecap ikan fermentasi khas masakan Thailand
+パンダ;パンダ;hewan panda;Mamalia berbulu corak hitam-putih pemakan bambu khas Tiongkok
+ビル;ビル;gedung / bangunan bertingkat;Gedung perkantoran atau bangunan tinggi modern (kependekan building)
+ベッド;ベッド;tempat tidur / ranjang kasur;Ranjang tidur gaya barat berkaki (bukan kasur lantai futon)
+ポスト;ポスト;kotak pos;Kotak surat umum warna merah di pinggir jalan untuk kirim pos
+一番下;いちばんした;paling bawah / bagian terbawah;Tingkat posisi rak atau tumpukan paling dasar
+右;みぎ;kanan;Arah sisi sebelah kanan,  lawan kata dari 左 (kiri)
+下;した;bawah;Posisi di bagian bawah objek,  lawan kata dari 上 (atas)
+外;そと;luar;Area bagian luar gedung, ruangan, atau wadah,  lawan kata dari 中 (dalam)
+間;あいだ;antara / di tengah-tengah;Posisi letak di antara dua objek (cth: AとBの間)
+喫茶店;きっさてん;kedai kopi / kafe;Tempat minum kopi santai dan makanan ringan gaya klasik Jepang
+近く;ちかく;dekat / sekitar;Area sekitar yang tidak jauh jaraknya (cth: 駅の近く)
+犬;いぬ;anjing;Hewan peliharaan anjing setia
+県;けん;prefektur;Pembagian wilayah administratif setingkat provinsi di Jepang
+後ろ;うしろ;belakang;Posisi letak di belakang objek,  lawan kata dari 前 (depan)
+公園;こうえん;taman umum;Area terbuka hijau untuk rekreasi publik masyarakat
+左;ひだり;kiri;Arah sisi sebelah kiri,  lawan kata dari 右 (kanan)
+女の子;おんなのこ;anak perempuan;Anak kecil berjenis kelamin perempuan
+女の人;おんなのひと;wanita / wanita dewasa;Perempuan dewasa
+上;うえ;atas;Posisi di bagian atas permukaan objek,  lawan kata dari 下 (bawah)
+乗り場;のりば;tempat naik kendaraan / peron halte;Lokasi antrean naik taksi, bus, atau kereta api
+前;まえ;depan;Posisi letak di depan objek,  lawan kata dari 後ろ (belakang)
+窓;まど;jendela;Bukaan ventilasi udara dan pencahayaan kaca dinding
+象;ぞう;hewan gajah;Mamalia darat berbelalai panjang (perbaikan kanji: 象, bukan 像)
+棚;たな;rak / lemari rak;Papan rak susun buku, piring, atau pajangan barang
+男の子;おとこのこ;anak laki-laki;Anak kecil berjenis kelamin laki-laki
+男の人;おとこのひと;pria / pria dewasa;Laki-laki dewasa
+中;なか;dalam;Posisi di dalam ruangan, kotak, atau wadah,  lawan kata dari 外 (luar)
+電池;でんち;baterai;Penyimpan daya listrik portabel untuk perangkat elektronik
+東京ディズニーランド;とうきょうディズニーランド;Tokyo Disneyland;Taman hiburan rekreasi Disney terkenal di Chiba/Tokyo Jepang
+猫;ねこ;kucing;Hewan peliharaan kucing berkumis
+箱;はこ;kotak / kardus;Wadah kotak penyimpan barang dari kardus atau kayu
+物;もの;barang / benda;Benda mati fisik berwujud
+木;き;pohon / kayu;Tanaman berbatang keras,  atau bahan baku kayu
+隣;となり;sebelah / tetangga;Posisi tepat bersebelahan dengan objek sejenis (orang, toko, atau rumah)
+冷蔵庫;れいぞうこ;kulkas / lemari es;Alat elektronik pendingin penyimpan makanan dan minuman
+ベランダ;ベランダ;balkon / beranda;Area lantai terbuka menjorok keluar di lantai atas apartemen (veranda)
+居間;いま;ruang keluarga;Ruang santai keluarga berkumpul di rumah (living room)
+玄関;げんかん;pintu masuk / area lepas alas kaki;Area teras dalam depan pintu rumah Jepang untuk melepas sepatu
+食堂;しょくどう;ruang makan / kantin;Tempat bersantap hidangan makan bersama keluarga di rumah
+寝室;しんしつ;kamar tidur;Ruangan tertutup khusus untuk istirahat tidur malam
+洗面所;せんめんじょ;tempat wastafel cuci muka;Ruang wastafel untuk cuci muka, gosok gigi, dan bercermin
+台所;だいどころ;dapur;Ruangan tempat memasak dan menyiapkan makanan di rumah
+風呂場;ふろば;kamar mandi;Ruangan berendam air hangat (ofuro) dan membersihkan tubuh
+廊下;ろうか;lorong / koridor;Jalan sempit penghubung antar-ruangan di dalam rumah atau gedung

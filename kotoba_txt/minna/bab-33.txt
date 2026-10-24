@@ -1,0 +1,65 @@
+～ほど;～ほど;kira-kira ... / sekitar ...;Menyatakan estimasi taksiran jumlah kuantitas atau waktu (sinonim: ～くらい)
+～中;～ちゅう;sedang dalam proses ...;Menyatakan aktivitas yang sedang berlangsung berjalan (cth: 授業中, 使用中)
+あいさつ;あいさつ;salam sapaan;Sapaan ramah atau pidato sambutan sepatah kata (あいさつをする)
+あきらめます;あきらめます;menyerah / putus asa;Berhenti berjuang karena merasa tidak sanggup (transitif: 夢をあきらめる)
+あと～;あと～;sisa ... lagi;Sisa kuantitas atau waktu yang tertinggal (cth: あと5分 = sisa 5 menit lagi)
+あります;あります;ada (panggilan telepon);Menerima panggilan sambungan telepon masuk (cth: 電話がある)
+いくら［～ても］;いくら［～ても］;betapa pun ... / sebanyak apa pun ...;Menyatakan pengandaian batas usaha (cth: いくら安くても買わない)
+だめ［な］;だめ［な］;tidak boleh / gagal / rusak;Menyatakan larangan keras atau kegagalan hasil
+どういう～;どういう～;... yang bermakna bagaimana?;Menanyakan arti maksud dari suatu tanda rambu atau istilah (cth: どういう意味ですか)
+ボール;ボール;bola permainan;Bola karet untuk bermain sepak bola, tenis, atau bisbol
+マーク;マーク;tanda simbol / lambang;Simbol piktogram atau logo penanda peringatan (mark)
+もう;もう;sudah tidak ... lagi;Diikuti bentuk kalimat negatif menyatakan penghentian (cth: もう走れない)
+もっと;もっと;lebih ... lagi;Menambah derajat kualitas atau kuantitas (cth: もっと勉強してください)
+もともと;もともと;sejak awal mula / memang dasarnya;Kondisi asal pembawaan sejak mula pertama
+リサイクルします;リサイクルします;mendaur ulang;Mengolah kembali barang limbah bekas menjadi barang berguna (recycle)
+飲み放題;のみほうだい;minum sepuasnya (all-you-can-drink);Paket bebas memesan minuman beralkohol/soda sepuasnya dalam batas waktu
+外します;はずします;meninggalkan (tempat duduk);Meninggalkan meja kerja sementara waktu (transitif: 席を外す)
+割引;わりびき;potongan harga / diskon;Pengurangan nominal harga barang dagangan (cth: 2割引 = diskon 20%)
+危険;きけん;bahaya;Situasi atau area yang berisiko mencelakai nyawa,  lawan dari 安全
+気持ち;きもち;perasaan hati / suasana batin;Kondisi emosi batin atau sensasi fisik raga
+規則;きそく;peraturan / tata tertib;Ketentuan hukum atau aturan tertulis yang wajib ditaati
+起きます;おきます;terjadi / timbul;Terjadinya kecelakaan atau peristiwa bencana (intransitif: 事故が起きる)
+警察;けいさつ;aparat kepolisian;Instansi penegak hukum aparat polisi pemerintah
+使用禁止;しようきんし;dilarang menggunakan;Tanda rambu larangan mengoperasikan fasilitas/mesin
+使用中;しようちゅう;sedang digunakan;Penanda toilet atau ruangan yang sedang ada pemakainya
+始まります;はじまります;dimulai / berawal;Upacara seremonial atau pertandingan dimulai (intransitif)
+守ります;まもります;mematuhi / menaati / melindungi;Menaati aturan peraturan tata tertib, atau melindungi janji (transitif)
+出口;でぐち;pintu keluar;Pintu untuk meninggalkan area stasiun atau gedung
+出席します;しゅっせきします;menghadiri / ikut hadir;Hadir dalam rapat, upacara, atau seminar resmi (acara ditandai に)
+助け合います;たすけあいます;saling tolong-menolong;Bekerja sama saling membantu saat tertimpa kesusahan
+徐行;じょこう;berjalan pelan-pelan (kecepatan lambat);Rambu kendaraan wajib melaju lambat siap berhenti mendadak
+席;せき;tempat duduk / kursi;Kursi atau bangku tempat duduk di ruangan atau kereta
+相手;あいて;rekan lawan bicara / pasangan tanding;Orang yang menjadi lawan bicara atau lawan tanding olahraga
+騒ぎます;さわぎます;membuat gaduh / berbuat ribut;Membuat suara gaduh bising yang mengganggu ketenangan (騒ぐな = jangan ribut!)
+地震;じしん;gempa bumi;Bencana guncangan seismik lempeng kerak bumi
+注意します;ちゅういします;berhati-hati / waspada;Waspada terhadap laju mobil di jalan (車に注意する)
+駐車違反;ちゅうしゃいはん;pelanggaran parkir liar;Pelanggaran hukum memarkir kendaraan di area terlarang
+締め切り;しめきり;batas akhir waktu (deadline);Tenggat batas waktu penyerahan tugas naskah atau berkas
+伝えます;つたえます;menyampaikan (pesan);Meneruskan pesan amanat kepada orang lain (transitif: メッセージを伝える)
+投げます;なげます;melempar;Melemparkan bola ke arah sasaran target (transitif: ボールを投げる)
+逃げます;にげます;melarikan diri / kabur evakuasi;Kabur dari bahaya kebakaran atau melarikan diri dari kejaran (intransitif)
+同じ;おなじ;sama persis;Tidak berbeda sifat atau wujudnya,  lawan dari 違う
+入口;いりぐち;pintu masuk;Pintu akses masuk ke dalam gedung atau ruangan
+罰金;ばっきん;uang denda;Hukuman denda uang atas pelanggaran hukum lalu lintas
+悲しい;かなしい;sedih / pilu hati;Perasaan duka nestapa di dalam batin,  lawan dari うれしい
+非常口;ひじょうぐち;pintu darurat;Pintu jalur evakuasi keselamatan saat bahaya kebakaran/gempa
+募集中;ぼしゅうちゅう;sedang membuka lowongan / pendaftaran;Tanda sedang menerima lamaran kerja atau murid baru
+無料;むりょう;gratis / cuma-cuma;Bebas biaya tanpa pungutan tarif uang
+戻ります;もどります;kembali ke meja kerja/posisi;Kembali ke ruangan kantor seusai urusan selesai
+立入禁止;たちいりきんし;dilarang masuk / dilarang melintas;Rambu larangan keras bagi orang luar melangkah masuk ke area tersebut
+アイロン（低温）;アイロン（ていおん）;setrika dengan suhu rendah;Petunjuk perawatan cucian pakaian halus dengan suhu setrika dingin
+ドライクリーニング;ドライクリーニング;khusus cuci kering (dry clean);Instruksi mencuci pakaian jas wol tanpa menggunakan air biasa
+運転初心者注意;うんてんしょしんしゃちゅうい;waspada pengemudi pemula (tanda Shoshinsha);Stiker daun hijau-kuning penanda mobil yang dikemudikan pengemudi baru
+営業中;えいぎょうちゅう;buka melayani pelanggan;Tanda papan toko/restoran sedang beroperasi buka
+塩素系漂白剤不可;えんそけいひょうはくざいふか;dilarang memakai pemutih klorin;Petunjuk pakaian tidak boleh dicuci cairan pemutih agar tidak luntur
+化粧室;けしょうしつ;kamar kecil / toilet;Ragam sopan halus penunjuk ruangan toilet wanita/pria
+火気厳禁;かきげんきん;dilarang menyalakan api;Peringatan keras bahaya ledakan dilarang membawa rokok/api di dekat bahan kimia
+割れ物注意;われものちゅうい;awas barang pecah belah / fragile;Stiker paket peringatan hati-hati membawa wadah kaca/keramik
+禁煙席;きんえんせき;area kursi bebas rokok;Tempat duduk bebas asap rokok di dalam restoran atau gerbong kereta
+工事中;こうじちゅう;sedang ada pekerjaan proyek konstruksi;Rambu penanda jalan sedang diperbaiki atau ada proyek pembangunan gedung
+手洗い;てあらい;cuci dengan tangan lembut;Instruksi cucian baju wajib dikucek manual tangan tanpa mesin cuci
+準備中;じゅんびちゅう;dalam persiapan buka;Tanda restoran sedang jeda menyiapkan bahan sebelum jam buka sesi berikutnya
+定休日;ていきゅうび;hari libur rutin mingguan;Hari libur rutin mingguan tutupnya suatu toko atau museum
+閉店;へいてん;toko tutup;Toko mengakhiri operasional jam kerja hari tersebut,  lawan dari 開店
+予約席;よやくせき;tempat duduk reservasi;Meja restoran yang sudah dipesan terlebih dahulu oleh pelanggan lain

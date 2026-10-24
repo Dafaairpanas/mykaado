@@ -1,0 +1,75 @@
+～月;～がつ;bulan ...;Nama bulan dalam kalender (cth: 1月 = Januari, 4月 = しがつ)
+～日;～にち;tanggal ... / ... hari;Penunjuk tanggal kalender atau durasi jumlah hari
+～年;～ねん;tahun ...;Penunjuk angka tahun Masehi (cth: 2026年)
+～番線;～ばんせん;jalur nomor ... / peron ...;Nomor jalur rel/peron kereta api di stasiun
+いつ;いつ;kapan?;Kata tanya waktu tanpa partikel に
+スーパー;スーパー;supermarket / pasar swalayan;Toko swalayan bahan makanan (kependekan スーパーマーケット)
+そうですね;そうですね;iya ya / betul juga;Menyetujui pendapat lawan bicara, atau jeda berpikir sejenak
+タクシー;タクシー;taksi;Mobil angkutan umum berargo (taxi)
+どういたしまして;どういたしまして;sama-sama / terima kasih kembali;Balasan santun atas ucapan terima kasih
+バス;バス;bus;Kendaraan umum angkutan jalan raya
+一人で;ひとりで;sendirian;Melakukan aktivitas tanpa ditemani orang lain
+一日;ついたち;tanggal 1;Tanggal pertama awal bulan (kalau durasi 1 hari = いちにち)
+駅;えき;stasiun;Stasiun perhentian kereta api
+何月;なんがつ;bulan apa?;Menanyakan urutan bulan dalam kalender
+何日;なんにち;tanggal berapa / berapa hari?;Menanyakan tanggal kalender atau total durasi hari
+何年;なんねん;tahun berapa?;Menanyakan angka tahun
+家族;かぞく;keluarga;Anggota keluarga sendiri (keluarga orang lain: ご家族)
+学校;がっこう;sekolah;Lembaga institusi pendidikan
+帰ります;かえります;pulang / kembali;Kembali ke tempat asal (rumah, daerah, atau negara asal)
+急行;きゅうこう;kereta ekspres;Kereta cepat yang hanya berhenti di stasiun-stasiun besar tertentu
+去年;きょねん;tahun lalu;Tahun sebelum tahun ini (ragam formal: さくねん)
+九日;ここのか;tanggal 9 / 9 hari;Penanggalan khusus tanggal sembilan atau durasi sembilan hari
+五日;いつか;tanggal 5 / 5 hari;Penanggalan khusus tanggal lima atau durasi lima hari
+行きます;いきます;pergi;Bergerak menuju ke tempat tujuan
+今月;こんげつ;bulan ini;Bulan yang sedang berjalan saat ini
+今週;こんしゅう;minggu ini;Pekan yang sedang berjalan saat ini
+今年;ことし;tahun ini;Tahun yang sedang berjalan saat ini (ragam formal: こんねん)
+三日;みっか;tanggal 3 / 3 hari;Penanggalan khusus tanggal tiga atau durasi tiga hari
+四日;よっか;tanggal 4 / 4 hari;Penanggalan khusus tanggal empat atau durasi empat hari
+次の;つぎの;berikutnya / selanjutnya;Menunjuk giliran atau urutan setelah ini
+自転車;じてんしゃ;sepeda;Kendaraan kayuh roda dua (sehari-hari disingkat チャリ)
+七日;なのか;tanggal 7 / 7 hari;Penanggalan khusus tanggal tujuh atau durasi tujuh hari
+十四日;じゅうよっか;tanggal 14 / 14 hari;Penanggalan khusus tanggal empat belas atau durasi 14 hari
+十日;とおか;tanggal 10 / 10 hari;Penanggalan khusus tanggal sepuluh atau durasi sepuluh hari
+新幹線;しんかんせん;kereta cepat Shinkansen;Kereta peluru berkecepatan tinggi khas Jepang
+人;ひと;orang / manusia;Individu manusia (digabung negara cth: 日本人 = orang Jepang)
+先月;せんげつ;bulan lalu;Satu bulan sebelum bulan ini
+先週;せんしゅう;minggu lalu;Satu pekan sebelum pekan ini
+船;ふね;kapal laut / perahu;Transportasi laut atau perairan
+誕生日;たんじょうび;hari ulang tahun;Hari kelahiran seseorang (sopan: お誕生日)
+地下鉄;ちかてつ;kereta bawah tanah / MRT;Jaringan kereta api di terowongan bawah tanah (subway)
+電車;でんしゃ;kereta listrik / KRL;Kereta api penumpang bertenaga listrik
+特急;とっきゅう;kereta limited express;Kereta ekspres khusus dengan biaya tambahan dan laju sangat cepat
+二十四日;にじゅうよっか;tanggal 24 / 24 hari;Penanggalan khusus tanggal dua puluh empat atau durasi 24 hari
+二十日;はつか;tanggal 20 / 20 hari;Penanggalan khusus tanggal dua puluh atau durasi dua puluh hari
+二日;ふつか;tanggal 2 / 2 hari;Penanggalan khusus tanggal dua atau durasi dua hari
+八日;ようか;tanggal 8 / 8 hari;Penanggalan khusus tanggal delapan atau durasi delapan hari
+彼;かれ;dia (laki-laki) / pacar pria;Kata ganti pria, atau kekasih laki-laki (彼氏 / かれし)
+彼女;かのじょ;dia (perempuan) / pacar wanita;Kata ganti wanita, atau kekasih wanita
+飛行機;ひこうき;pesawat terbang;Transportasi moda penerbangan udara
+普通;ふつう;biasa / kereta lokal;Umum/standar,  konteks kereta: kereta lokal berhenti di tiap stasiun
+歩いて;あるいて;dengan jalan kaki;Pergi tanpa kendaraan melainkan melangkah kaki
+友達;ともだち;teman / kawan;Sahabat atau kawan sebaya
+来ます;きます;datang;Bergerak mendekat ke tempat pembicara berada
+来月;らいげつ;bulan depan;Satu bulan setelah bulan ini
+来週;らいしゅう;minggu depan;Satu pekan setelah pekan ini
+来年;らいねん;tahun depan;Satu tahun setelah tahun ini
+六日;むいか;tanggal 6 / 6 hari;Penanggalan khusus tanggal enam atau durasi enam hari
+こどもの日;こどものひ;Hari Anak;Hari libur nasional Jepang untuk merayakan anak (5 Mei)
+みどりの日;みどりのひ;Hari Kehijauan / Hari Lingkungan;Hari libur nasional Jepang menghargai alam dan tumbuhan (4 Mei)
+海の日;うみのひ;Hari Bahari / Hari Laut;Hari libur nasional Jepang bersyukur atas berkah laut (Senin ketiga Juli)
+勤労感謝の日;きんろうかんしゃのひ;Hari Bersyukur Tenaga Kerja;Hari libur nasional Jepang menghargai kaum pekerja (23 November)
+敬老の日;けいろうのひ;Hari Penghormatan Lansia;Hari libur nasional Jepang menghormati lansia (Senin ketiga September)
+建国記念の日;けんこくきねんのひ;Hari Pembentukan Negara;Hari libur nasional peringatan berdirinya negara Jepang (11 Februari)
+憲法記念日;けんぽうきねんび;Hari Peringatan Konstitusi;Hari libur peringatan UUD Konstitusi Jepang (3 Mei)
+元日;がんじつ;Hari Tahun Baru;Tanggal 1 Januari sebagai awal hari dalam tahun baru
+山の日;やまのひ;Hari Gunung;Hari libur nasional Jepang menghargai keindahan gunung (11 Agustus)
+秋分の日;しゅうぶんのひ;Hari Ekuinoks Musim Gugur;Hari libur nasional saat durasi siang dan malam sama (sekitar 23 September)
+祝祭日;しゅくさいじつ;hari libur nasional;Hari libur resmi perayaan kenegaraan di Jepang
+春分の日;しゅんぶんのひ;Hari Ekuinoks Musim Semi;Hari libur nasional menyambut pergantian musim semi (sekitar 20 Maret)
+昭和の日;しょうわのひ;Hari Showa;Hari libur nasional mengenang era Kaisar Showa (29 April)
+成人の日;せいじんのひ;Hari Kedewasaan;Upacara perayaan usia 20 tahun menjadi dewasa (Senin kedua Januari)
+体育の日;たいいくのひ;Hari Olahraga;Hari libur nasional mempromosikan olahraga (sekarang disebut スポーツの日)
+天皇誕生日;てんのうたんじょうび;Hari Ulang Tahun Kaisar;Hari libur nasional perayaan hari kelahiran kaisar yang bertakhta
+文化の日;ぶんかのひ;Hari Kebudayaan;Hari libur nasional memajukan seni dan ilmu pengetahuan (3 November)

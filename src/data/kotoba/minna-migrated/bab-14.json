@@ -10,7 +10,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Dilekatkan pada akar kata kerja masu (cth: 読み方 = cara membaca, 使い方 = cara memakai)"
   },
   {
     "id": "mn-14-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 14",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melakukan aktivitas setelah selesainya suatu urutan waktu"
   },
   {
     "id": "mn-14-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 14",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Seruan heran spontan saat melihat kejanggalan atau hal aneh"
   },
   {
     "id": "mn-14-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Perangkat pendingin udara ruangan (air conditioner)"
   },
   {
     "id": "mn-14-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kelebihan uang pembayaran belanjaan yang dikembalikan kasir"
   },
   {
     "id": "mn-14-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 14",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menggandakan dokumen dengan mesin fotokopi"
   },
   {
     "id": "mn-14-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 14",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Diucapkan saat menyerahkan uang atau kartu pembayaran di kasir"
   },
   {
     "id": "mn-14-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata seru untuk mengajak lawan bicara bergegas"
   },
   {
     "id": "mn-14-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 14",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melakukan tindakan seketika tanpa menunda waktu"
   },
   {
     "id": "mn-14-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 14",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menyalakan daya listrik lampu atau perangkat elektronik (cth: 電気を~)"
   },
   {
     "id": "mn-14-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Buku identitas paspor perjalanan antarnegara"
   },
   {
     "id": "mn-14-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 14",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melakukan kegiatan sekali lagi, atau bertemu lagi nanti"
   },
   {
     "id": "mn-14-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melangkah atau melaju lurus tanpa berbelok"
   },
   {
     "id": "mn-14-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menambah kuantitas frekuensi (cth: もう一度 = sekali lagi)"
   },
   {
     "id": "mn-14-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menambah porsi atau durasi sedikit lagi"
   },
   {
     "id": "mn-14-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 14",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melakukan sesuatu dengan tenang tanpa terburu-buru"
   },
   {
     "id": "mn-14-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Bumbu dapur pemberi rasa asin (kanji: 塩)"
   },
   {
     "id": "mn-14-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 14",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membuka pintu, jendela, atau tutup botol (transitif: ドアを開ける)"
   },
   {
     "id": "mn-14-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mempercepat langkah atau gerak karena waktu mepet"
   },
   {
     "id": "mn-14-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 14",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memberitahu alamat, nama, atau nomor telepon (住所を教える)"
   },
   {
     "id": "mn-14-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 14",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menunjukkan barang atau dokumen kepada orang lain"
   },
   {
     "id": "mn-14-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memanggil nama seseorang, atau memanggil armada taksi (タクシーを呼ぶ)"
   },
   {
     "id": "mn-14-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Jatuhnya curahan presipitasi cuaca (cth: 雨が降る = hujan turun)"
   },
   {
     "id": "mn-14-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Bumbu dapur pemanis makanan/minuman"
   },
   {
     "id": "mn-14-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Merebahkan pantat di atas kursi atau lantai (kursi ditandai に: 椅子に座る)"
   },
   {
     "id": "mn-14-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengoperasikan alat, fasilitas, atau membelanjakan uang"
   },
   {
     "id": "mn-14-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 14",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menghentikan laju kendaraan, atau memarkir mobil (車を止める)"
   },
   {
     "id": "mn-14-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memegang atau membawa barang di tangan (荷物を持つ)"
   },
   {
     "id": "mn-14-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengambil benda untuk diberikan kepada orang lain (cth: 塩を取る)"
   },
   {
     "id": "mn-14-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membantu pekerjaan fisik atau tugas orang lain"
   },
   {
     "id": "mn-14-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Keterangan lokasi domisili rumah tinggal"
   },
   {
     "id": "mn-14-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 14",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Meninggalkan suatu ruangan atau tempat (tempat keluar ditandai を: 部屋を出る)"
   },
   {
     "id": "mn-14-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mematikan lampu, daya listrik, atau memadamkan api (cth: 電気を消す)"
   },
   {
     "id": "mn-14-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 14",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Instruksi petunjuk jalan saat naik taksi atau memandu orang"
   },
   {
     "id": "mn-14-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menantikan kehadiran seseorang atau kedatangan bus"
   },
   {
     "id": "mn-14-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Gambaran denah geografis wilayah daratan"
   },
   {
     "id": "mn-14-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Daya aliran listrik atau bola lampu penerangan ruangan"
   },
   {
     "id": "mn-14-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jawaban dari suatu soal pertanyaan ujian"
   },
   {
     "id": "mn-14-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pelafalan cara mengeja huruf kanji atau naskah"
   },
   {
     "id": "mn-14-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Melangkah ke dalam suatu ruangan (ruangan ditandai に: 喫茶店に入る)"
   },
   {
     "id": "mn-14-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 14",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menutup daun pintu atau jendela (transitif: ドアを閉める)"
   },
   {
     "id": "mn-14-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Identitas nama diri seseorang"
   },
   {
     "id": "mn-14-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pertanyaan soal ujian tugas, atau persoalan pelik masalah"
   },
   {
     "id": "mn-14-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menegakkan badan bertumpu pada kedua kaki"
   },
   {
     "id": "mn-14-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Bertutur kata mengobrol dengan orang lain"
   },
   {
     "id": "mn-14-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Lantai tunggu penumpang di samping rel kereta api (platform)"
   },
   {
     "id": "mn-14-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Lemari loker penitipan barang berbayar koin di stasiun"
   },
   {
     "id": "mn-14-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Area khusus antrean armada taksi menjemput penumpang"
   },
   {
     "id": "mn-14-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pusat pangkalan transit dan keberangkatan armada bus kota/antarkota"
   },
   {
     "id": "mn-14-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Tempat perhentian bus di pinggir jalan untuk naik-turun penumpang"
   },
   {
     "id": "mn-14-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Gedung tempat perhentian dan stasiun kereta"
   },
   {
     "id": "mn-14-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pintu untuk keluar dari stasiun atau gedung,  lawan dari 入口"
   },
   {
     "id": "mn-14-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Gerbang pintu keluar sisi arah barat stasiun"
   },
   {
     "id": "mn-14-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Gerbang pintu sentral utama di stasiun kereta"
   },
   {
     "id": "mn-14-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Gerbang pintu keluar sisi arah timur stasiun"
   },
   {
     "id": "mn-14-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Gerbang pintu keluar sisi arah selatan stasiun"
   },
   {
     "id": "mn-14-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pintu akses untuk masuk ke dalam stasiun atau gedung,  lawan dari 出口"
   },
   {
     "id": "mn-14-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warung kios kecil penjual koran, minuman, dan snack di stasiun"
   },
   {
     "id": "mn-14-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pintu jalur evakuasi keselamatan saat terjadi bahaya kebakaran/gempa"
   },
   {
     "id": "mn-14-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Gerbang pintu keluar sisi arah utara stasiun"
   },
   {
     "id": "mn-14-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Menyatakan waktu kedatangan atau kota tujuan tiba (cth: 東京着 = tiba di Tokyo)"
   },
   {
     "id": "mn-14-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Menyatakan waktu keberangkatan atau stasiun awal (cth: 9時発 = berangkat jam 9)"
   },
   {
     "id": "mn-14-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Jurusan arah tujuan kereta atau bus (cth: 東京行き = tujuan Tokyo)"
   },
   {
     "id": "mn-14-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perjalanan pergi dan pulang kembali,  lawan dari 片道"
   },
   {
     "id": "mn-14-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Buku kupon tiket perjalanan berdiskon untuk beberapa kali jalan"
   },
   {
     "id": "mn-14-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kereta cepat lokal yang melewati beberapa stasiun kecil"
   },
   {
     "id": "mn-14-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Gerbang tap tiket otomatis tempat masuk-keluar peron stasiun"
   },
   {
     "id": "mn-14-068",
@@ -881,7 +948,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kereta cepat antar-stasiun besar kota"
   },
   {
     "id": "mn-14-069",
@@ -894,7 +962,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Tabel waktu jadwal jadwal tiba dan berangkatnya kereta/bus"
   },
   {
     "id": "mn-14-070",
@@ -907,7 +976,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Mesin mandiri untuk membeli karcis kereta atau mengisi saldo kartu"
   },
   {
     "id": "mn-14-071",
@@ -920,7 +990,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kereta semi-cepat yang berhenti di lebih banyak stasiun dari ekspres"
   },
   {
     "id": "mn-14-072",
@@ -933,7 +1004,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Mesin penyesuaian kekurangan saldo tiket sebelum tap keluar gerbang peron"
   },
   {
     "id": "mn-14-073",
@@ -946,7 +1018,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Area loket dan mesin pembelian karcis di stasiun"
   },
   {
     "id": "mn-14-074",
@@ -959,7 +1032,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Tiket abonemen bulanan untuk rute harian kerja/sekolah (disingkat 定期)"
   },
   {
     "id": "mn-14-075",
@@ -972,7 +1046,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kereta ekspres khusus berkecepatan tinggi dengan biaya tiket tambahan"
   },
   {
     "id": "mn-14-076",
@@ -985,7 +1060,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kereta api penumpang yang berhenti di setiap stasiun sepanjang rute"
   },
   {
     "id": "mn-14-077",
@@ -998,6 +1074,7 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tiket perjalanan pergi saja tanpa tiket pulang,  lawan dari 往復"
   }
 ]

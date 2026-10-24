@@ -1,0 +1,106 @@
+イベント会場;イベントかいじょう;arena lokasi acara;lokasi diselenggarakannya bazar atau pameran festival
+屋台;やたい;kedai stan festival, gerobak;gerai tenda penjual makanan kaki lima saat festival matsuri
+ステージ;ステージ;panggung pementasan;panggung pertunjukan musik dan tari
+パフォーマンス;パフォーマンス;atraksi penampilan panggung;penampilan pentas seni para pengisi acara
+観光紹介;かんこうしょうかい;gerai informasi promosi wisata;stan pengenalan destinasi daya tarik pariwisata
+〜コーナー;〜コーナー;area stan ..., pojok ...;bagian sudut khusus kegiatan tertentu di arena bazar
+スピーチコンテスト;スピーチコンテスト;lomba pidato, kontes orasi;ajang kompetisi unjuk kepiawaian berpidato
+〜コンテスト;〜コンテスト;ajang kontes ..., lomba ...;perlombaan unjuk bakat atau keterampilan
+カラオケ;カラオケ;bernyanyi karaoke;hiburan melantunkan lagu diiringi musik rekaman
+〜大会;〜たいかい;turnamen ..., kompetisi ...;ajang perlombaan berskala besar
+合気道;あいきどう;aikido;seni bela diri defensif tradisional Jepang
+デモンストレーション;デモンストレーション;peragaan demonstrasi;peragaan langsung jurus bela diri atau teknik memasak
+世界;せかい;seluruh dunia, internasional;dunia antarbangsa
+遊び;あそび;permainan tradisional;aneka dolanan atau permainan rakyat anak-anak
+〜体験;〜たいけん;uji coba pengalaman ...;mencoba langsung aktivitas budaya (misal 和太鼓体験 coba tabuh beduk)
+ファッションショー;ファッションショー;peragaan busana, fashion show;pentas jalan panggung memperagakan aneka pakaian adat
+〜ショー;〜ショー;atraksi pertunjukan ...;pagelaran tontonan hiburan publik
+スタンプラリー;スタンプラリー;kegiatan reli stempel;permainan keliling pos mengumpulkan cap stempel demi hadiah
+国際交流;こくさいこうりゅう;pertukaran budaya internasional;interaksi persahabatan antarwarga lintas negara
+入場料;にゅうじょうりょう;tiket masuk, HTM;biaya karcis untuk memasuki arena festival
+交流プラザ;こうりゅうプラザ;gedung plaza komunitas;aula ruang pertemuan pertukaran budaya warga
+主催;しゅさい;penyelenggara resmi;organisasi pihak penggagas acara
+協力;きょうりょく;kerja sama, dukungan;dukungan kemitraan dari organisasi pendukung
+民族衣装;みんぞくいしょう;baju adat tradisional;pakaian khas kebudayaan suatu suku bangsa
+本部;ほんぶ;tenda sekretariat panitia;pusat posko panitia pelaksana di lokasi acara
+ふれあい;ふれあい;interaksi akrab, silaturahmi;kontak kebersamaan saling mengenal secara hangat
+フラダンス;フラダンス;tarian hula Hawaii;tarian berirama lembut khas kepulauan Hawaii
+和太鼓;わだいこ;wadaiko, beduk jepang;drum kayu tabuh tradisional khas perayaan festival Jepang
+ワールドマーケット;ワールドマーケット;pasar aneka barang dunia;pasar bazar menjual komoditas khas berbagai negara
+トルコ;トルコ;Turki;negara transkontinental di perbatasan Asia dan Eropa
+ペルー;ペルー;Peru;negara di pesisir barat Amerika Selatan terkenal dengan Machu Picchu
+雑貨;ざっか;aneka pernak-pernik barang;aneka barang kerajinan, alat tulis, dan pajangan mungil
+団体紹介;だんたいしょうかい;pengenalan profil lembaga;stan informasi mengenalkan visi misi organisasi relawan
+民芸品;みんげいひん;kerajinan tangan tradisional;karya seni rupa tradisional khas daerah
+手芸品;しゅげいひん;karya rajutan tangan, kerajinan;hasil kerajinan tangan tekstil atau sulaman
+ガーナ;ガーナ;Ghana;negara di Afrika Barat penghasil biji kakao cokelat
+フェアトレード;フェアトレード;perdagangan adil (fair trade);sistem perniagaan adil demi kesejahteraan produsen lokal
+外国人支援ネットワーク;がいこくじんしえんネットワーク;jaringan pendamping warga asing;asosiasi nirlaba pemberi asistensi bagi ekspatriat/pekerja asing
+ピニャータ;ピニャータ;pinata;wadah boneka kertas isi permen tradisi ulang tahun Meksiko
+くす玉割り;くすだまわり;memecahkan bola konfeti;tradisi memecahkan bola gantung berisi pita kertas warna-warni
+中国ゴマ;ちゅうごくゴマ;diabolo, yoyo Tiongkok;alat permainan gasing dua mangkuk diputar seutas tali
+回す;まわす;memutar gasing;menggerakkan tongkat tali memutar gasing diabolo
+手作り;てづくり;buatan tangan sendiri, homemade;barang atau makanan olahan sendiri tanpa mesin pabrik
+やっている;やっている;sedang berlangsung digelar;aktivitas bazar atau lomba sedang dihelat
+まだ;まだ;masih;status pendaftaran yang masih terbuka
+受付;うけつけ;meja pendaftaran, loket;meja panitia tempat mendaftar lomba
+あっち;あっち;ke arah sebelah sana;menunjuk arah yang agak jauh di lokasi acara
+突き当たり;つきあたり;ujung jalan, mentok;titik paling ujung dari lorong atau jalan
+多分;たぶん;mungkin, barangkali;dugaan yang belum dipastikan seratus persen
+無理ですか？;むりですか？;apakah sudah tidak bisa lagi?;menanyakan apakah kuota pendaftaran telah tertutup
+さあ;さあ;wah entahlah ya;jawaban ragu-ragu saat tidak tahu pasti informasinya
+中学生;ちゅうがくせい;siswa SMP;pelajar tingkat Sekolah Menengah Pertama
+プロ;プロ;tenaga profesional;atlet atau penyanyi profesional (bukan amatir)
+遠慮する;えんりょする;menahan diri, dilarang ikut;mengurungkan niat demi memberi kesempatan pada pemula
+出る;でる;tampil berpartisipasi;ikut serta berkompetisi di panggung (大会に出る)
+参加費;さんかひ;biaya pendaftaran peserta;uang registrasi untuk mengikuti lomba
+優勝する;ゆうしょうする;menjadi juara pertama;memenangkan posisi juara umum kompetisi
+賞品;しょうひん;hadiah pemenang;hadiah barang atau piagam yang diraih pemenang
+出る;でる;disediakan hadiahnya;tersedia hadiah bagi para pemenang lomba
+楽器;がっき;alat instrumen musik;perkakas penghasil alunan nada musik
+曲;きょく;lagu, gubahan nada;gubahan lagu yang akan dinyanyikan dalam lomba
+相談する;そうだんする;berkonsultasi dengan staf;membicarakan pilihan nada atau jadwal dengan panitia
+申込書;もうしこみしょ;formulir pendaftaran;kertas isian resmi pengajuan ikut lomba
+必要事項;ひつようじこう;data informasi wajib;poin-poin data pribadi yang wajib diisi lengkap
+申し込み;もうしこみ;pendaftaran, registrasi;proses mendaftarkan diri secara resmi
+先着順;せんちゃくじゅん;berdasarkan urutan pendaftar awal;sistem penerimaan kuota menurut siapa cepat dia dapat
+順番に;じゅんばんに;secara tertib bergiliran;melangkah maju menurut nomor urutan antrean
+いただく;いただく;menerima formulir;ragam kenjougo dari もらう menerima dari panitia
+スピーチ;スピーチ;pidato, orasi;penyampaian gagasan secara lisan di depan umum
+テーマ;テーマ;tema pembahasan;topik sentral materi perlombaan pidato
+動画;どうが;rekaman video;gambar bergerak audio visual digital
+撮影;さつえい;pengambilan gambar, shooting;kegiatan merekam video atau memotret foto
+飲食;いんしょく;makan dan minum;aktivitas mengonsumsi makanan atau minuman di aula
+販売;はんばい;penjualan barang dagangan;kegiatan memperjualbelikan produk di stan bazar
+携帯電話;けいたいでんわ;telepon genggam, ponsel;perangkat komunikasi nirkabel
+〜内;〜ない;di dalam kawasan ...;area di dalam lingkungan acara (misal 公園内 di dalam taman)
+協力する;きょうりょくする;bekerja sama, berpartisipasi;turut mendukung ketertiban acara
+お子様;おこさま;anak-anak hadirin;sebutan sopan untuk putra-putri pengunjung festival
+皆様にお願いいたします;みなさまにおねがいいたします;kami memohon kerja sama hadirin sekalian;kalimat permohonan sopan pembuka tata tertib
+お見えです;おみえです;telah hadir tiba;bentuk sangat sopan (sonkeigo) dari 来ています
+ご遠慮ください;ごえんりょください;harap menahan diri untuk tidak ...;ungkapan larangan sangat halus dan santun di area publik
+ご協力よろしくお願いいたします;ごきょうりょくよろしくおねがいいたします;terima kasih banyak atas kerja sama baik Anda;kalimat penutup sopan pengumuman tata tertib
+電源;でんげん;daya listrik ponsel;sakelar tombol power ponsel
+電源を切る;でんげんをきる;mematikan daya ponsel;mematikan perangkat gawai selama acara berlangsung
+マナーモード;マナーモード;mode senyap, silent mode;pengaturan getar tanpa nada dering di tempat umum
+設定する;せっていする;mengatur setelan gawai;mengaktifkan opsi getar pada menu ponsel
+通話する;つうわする;berbicara di telepon;melakukan obrolan panggilan suara di tengah aula
+お忙しい中;おいそがしいなか;di tengah kesibukan Anda sekalian;ungkapan terima kasih kepada hadirin yang meluangkan waktu datang
+おいでくださって、ありがとうございます;おいでくださって、ありがとうございます;terima kasih banyak atas kehadiran Anda;sambutan hangat panitia kepada pengunjung festival
+構いません;かまいません;tidak apa-apa, diperbolehkan;menyatakan persetujuan hal yang ditanyakan
+持ち込み;もちこみ;membawa barang dari luar;membawa makanan atau minuman sendiri ke dalam gedung
+禁止;きんし;larangan ketat;pantangan keras yang tidak boleh dilanggar (bisa 持ち込み禁止)
+ロビー;ロビー;lobi gedung, ruang depan;area depan aula tempat tamu berkumpul santai
+ロールケーキ;ロールケーキ;bolu gulung, roll cake;kue bolu lembut yang digulung dengan krim manis
+終了する;しゅうりょうする;berakhir tuntas, ditutup;sesi acara atau waktu pendaftaran telah selesai
+個数;こすう;jumlah satuan butir barang;kuantitas jumlah produk yang tersedia
+限られている;かぎられている;dibatasi kuotanya, terbatas;jumlah persediaan terbatas tidak banyak
+列;れつ;barisan antrean;deretan orang yang mengantre berurutan
+お求めの方;おもとめのかた;bagi yang berminat membeli;sebutan sopan untuk pelanggan yang berniat membeli kue
+お並びください;おならびください;silakan berbaris rapi mengantre;anjuran sopan mempersilakan pembeli membuat barisan
+太鼓;たいこ;beduk drum taiko;instrumen tabuh perkusi tradisional Jepang
+叩く;たたく;menabuh, memukul;memukul permukaan kulit beduk taiko dengan stik kayu
+来年;らいねん;tahun depan;satu tahun setelah tahun berjalan
+バンブーダンス;バンブーダンス;tarian bambu Tinikling;tarian lincah melompati bilah bambu khas Filipina
+バングラデシュ;バングラデシュ;Bangladesh;negara di Asia Selatan beribu kota Dhaka
+サテー;サテー;sate nusantara;daging panggang bertusuk bambu dengan kuah bumbu kacang khas Indonesia

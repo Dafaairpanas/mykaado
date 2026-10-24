@@ -1,0 +1,28 @@
+レジ;れじ;kasir
+おごる;おごる;mentraktir
+おごり;おごり;traktir
+現金で払う;げんきんではらう;bayar cash
+割り勘にする;わりかんにする;membagi tagihan
+勘定を済ませる;かんじょうをすませる;menyelesaikan tagihan
+別々に払う;べつべつにはらう;bayar sendiri-sendiri
+(クレジット)カードで払う;（くれじっと）かあどではらう;bayar dengan kartu kredit
+カードの有効期限を確認する;かあどのゆうこうきげんをかくにんする;memastikan tanggal expired kartu
+(お)札をくずす;（お）さつをくずす;tukar uang kertas
+(お)つりをもらう;（お）つりをもらう;menerima kembalian
+領収書をもらう;りょうしゅうしょをもらう;menerima receipt
+レシート;れしいと;receipt
+ぜいたくをする;ぜいたくをする;berfoya-foya
+むだづかいをする;むだづかいをする;menggunakan uang sia-sia
+請求書が届く;せいきゅうしょがとどく;tagihan tiba
+費用がかかる;ひようがかかる;memerlukan biaya
+お金が足りる;おかねがたりる;uang cukup
+足りない;たりない;tidak cukup
+食費を節約する;しょくひをせつやくする;menghemat uang makan
+今月の生活費が不足する;こんげつのせいかつひがふそくする;biaya hidup bulan ini kurang
+交通費;こうつうひ;biaya transportasi
+むだを省く;むだをはぶく;mengurangi yang tidak perlu
+むだをなくす;むだをなくす;menghilangkan hal yang sia-sia / mubazir
+貧乏になる;びんぼうになる;menjadi miskin
+お金持ちになる;おかねもちになる;menjadi kaya
+貧しい生活;まずしいせいかつ;hidup miskin
+借金をする;しゃっきんをする;meminjam uang (berhutang)

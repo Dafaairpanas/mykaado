@@ -1,0 +1,88 @@
+公共;こうきょう;layanan umum, publik;kepentingan masyarakat umum non-privat
+施設;しせつ;fasilitas sarana umum;gedung atau prasarana pelayanan masyarakat
+図書館;としょかん;perpustakaan umum;gedung tempat meminjam dan membaca buku koleksi
+美術館;びじゅつかん;museum seni rupa, galeri seni;gedung pameran karya seni lukis dan patung
+民俗資料館;みんぞくしりょうかん;museum etnografi daerah;museum arsip artefak kehidupan adat budaya masa lampau
+体育館;たいいくかん;gedung olahraga (GOR);gedung olahraga dalam ruangan untuk basket, bulu tangkis, dll.
+スポーツジム;スポーツジム;pusat kebugaran, fitness gym;tempat latihan angkat beban dan mesin kardio
+お風呂;おふろ;bak pemandian air hangat;kolam air panas untuk berendam rileks
+入浴施設;にゅうよくしせつ;fasilitas pemandian umum;sarana pemandian onsen atau sento untuk masyarakat
+インフォメーションコーナー;インフォメーションコーナー;ruang pusat informasi warga;sudut layanan informasi peta dan agenda kota
+プラネタリウム;プラネタリウム;planetarium;teater kubah simulasi pergerakan bintang dan tata surya
+物産コーナー;ぶっさんコーナー;gerai produk komoditas lokal;stan penjualan hasil bumi dan kerajinan khas daerah
+市内;しない;dalam wilayah kota;area yang berada di dalam lingkup administratif kota
+パンフレット;パンフレット;pamflet, brosur wisata;selebaran panduan fasilitas kota
+外国語;がいこくご;bahasa asing;bahasa selain bahasa Jepang (Inggris, Mandarin, dll.)
+CD;シーディー;cakram padat audio (CD);keping cakram rekaman suara musik atau bahasa
+昔;むかし;masa lalu, zaman dahulu;zaman dahulu kala
+道具;どうぐ;perkakas, alat kerja kuno;alat pertukangan atau perabot masa lalu
+文化施設;ぶんかしせつ;fasilitas kebudayaan;sarana publik untuk pagelaran seni dan edukasi warga
+立てる;たてる;mendirikan bangunan, merancang;membangun gedung fasilitas kota
+メイン;メイン;utama, fokus utama;bagian terpenting dari program pameran
+PC;ピーシー;komputer pribadi (PC);perangkat komputer untuk mengakses internet di perpustakaan
+自由に;じゆうに;dengan leluasa, bebas;dapat dipergunakan tanpa batasan kaku
+展示する;てんじする;memamerkan koleksi benda;memajang lukisan atau artefak di etalase museum
+歴史;れきし;sejarah peradaban;rentang peristiwa masa lalu suatu daerah
+利用する;りようする;mempergunakan fasilitas;memanfaatkan sarana perpustakaan atau gym kota
+室内用;しつないよう;khusus pemakaian dalam ruangan;sepatu bersih yang hanya boleh dipakai di lantai dalam gedung GOR
+オリエンテーション;オリエンテーション;orientasi pengenalan alat;sesi bimbingan singkat cara pemakaian mesin fitness
+延長料金;えんちょうりょうきん;biaya perpanjangan waktu;tarif denda tambahan jika melebihi batas jam sewa
+〜につき;〜につき;untuk setiap kelipatan ...;perhitungan biaya bertahap (misal 30分につき per 30 menit)
+かかる;かかる;dikenakan biaya operasional;memerlukan pengeluaran dana tiket masuk
+下りる;おりる;turun tangga;menuruni tangga menuju ruang bawah tanah
+シューズ;シューズ;sepatu olahraga;alas kaki olahraga khusus dalam ruangan
+マシン;マシン;mesin latihan kebugaran;peralatan treadmill atau alat beban gym
+トレーナー;トレーナー;instruktur pelatih kebugaran;staf profesional yang memandu gerakan olahraga
+〜ほど;〜ほど;sekitar, kira-kira;taksiran durasi waktu (misal 30分ほど sekitar 30 menit)
+受ける;うける;mengikuti sesi bimbingan;menjalani orientasi atau tes medis
+声をかける;こえをかける;menyapa memanggil staf;berbicara meminta panduan kepada instruktur gym
+ご了承くだい;ごりょうしょうください;harap dipahami dan dimaklumi;ungkapan formal meminta pengertian tata tertib
+受けていただきます;うけていただきます;kami wajibkan Anda mengikuti;ketentuan wajib bagi pengguna baru fasilitas gym
+絵;え;lukisan cat, gambar seni;karya seni lukis kanvas
+様々な;さまざまな;beraneka ragam variasi;banyak jenis corak yang berbeda-beda
+彫刻;ちょうこく;karya seni patung, ukiran;seni pahat tiga dimensi dari batu atau kayu
+画家;がか;pelukis profesional;seniman pembuat karya seni lukis
+〜を中心に;〜をちゅうしんに;dengan fokus utama pada ...;menjadikan karya seniman tertentu sebagai sorotan pameran
+セット券;セットけん;tiket terusan hemat;karcis gabungan untuk masuk museum sekaligus planetarium
+フラッシュ;フラッシュ;lampu kilat kamera, blitz;kilatan cahaya blitz kamera yang dilarang saat memotret lukisan
+券売機;けんばいき;mesin otomatis penjual tiket;mesin kasir mandiri pembelian karcis masuk
+休憩室;きゅうけいしつ;ruang istirahat, lounge;ruangan nyaman untuk santai melepas lelah
+付いている;ついている;sudah termasuk di dalamnya;fasilitas mandi yang sudah termasuk peminjaman handuk
+IT;アイティー;teknologi informasi (IT);bidang sistem komputerisasi dan jaringan
+利用者カード;りようしゃカード;kartu anggota pemustaka;kartu identitas peminjam buku perpustakaan
+プリントアウト;プリントアウト;mencetak dokumen, print-out;mencetak naskah kertas lewat mesin printer
+インターネット;インターネット;jaringan internet;koneksi akses web untuk riset bacaan
+プリンター;プリンター;mesin cetak dokumen;perangkat pencetak berkas dari komputer
+空いている;あいている;sedang kosong tidak dipakai;bilik komputer yang lowong siap digunakan
+確認する;かくにんする;memastikan, mengecek ulang;memeriksa masa berlaku kartu anggota
+在留カード;ざいりゅうカード;kartu izin tinggal (zairyu card);kartu identitas kependudukan resmi warga asing di Jepang
+何冊;なんさつ;berapa jilid buku;kata tanya menanyakan kuantitas jumlah buku
+〜冊;〜さつ;... jilid buku;satuan hitung buku cetak atau majalah (misal 10冊 10 jilid buku)
+合わせて;あわせて;secara keseluruhan total;menjumlahkan total peminjaman buku dan CD
+〜点;〜てん;... buah barang;satuan hitung koleksi barang pinjaman perpustakaan (misal 3点 3 barang)
+飲食禁止;いんしょくきんし;dilarang makan dan minum;larangan keras membawa makanan ke ruang baca
+返す;かえす;mengembalikan buku pinjaman;menyerahkan kembali buku yang dipinjam ke loket
+閉まる;しまる;tutup gedungnya;perpustakaan mengakhiri jam operasional pelayanan
+返却ポスト;へんきゃくポスト;kotak pengembalian buku mandiri;drop-box luar gedung untuk memasukkan buku saat perpustakaan tutup
+開く;あく;buka kembali operasional;pintu fasilitas mulai dibuka melayani pengunjung
+返却;へんきゃく;pengembalian buku pinjaman;proses administrasi memulangkan barang pinjaman
+お読みください;およみください;silakan dibaca cermat;anjuran santun mempersilakan tamu membaca pamflet aturan
+延ばす;のばす;memperpanjang tenggat masa pinjam;menambah durasi waktu sewa buku selama seminggu lagi
+〜のうち;〜のうち;di antara total ... barang;menyebutkan kuota tertentu dari kelompok (misal 15点のうち)
+カセットテープ;カセットテープ;kaset pita audio;koleksi rekaman pita kaset lawas perpustakaan
+〜禁止;〜きんし;larangan ...;tata tertib pantangan yang dilarang keras (misal 撮影禁止 dilarang memotret)
+立入禁止;たちいりきんし;dilarang masuk!;larangan keras memasuki area terlarang/berbahaya
+関係者;かんけいしゃ;staf berwenang, pihak internal;petugas atau karyawan yang berwenang
+関係者以外;かんけいしゃいがい;selain staf yang berwenang;pihak umum dari luar
+預ける;あづける;menitipkan barang bawaan;menaruh tas besar ke dalam loker penitipan
+お預けください;おあづけください;silakan titipkan di loker;anjuran santun meminta tamu menitipkan payung/tas
+館内;かんない;di dalam area gedung;ruang interior di dalam bangunan museum/perpustakaan
+通話;つうわ;panggilan obrolan telepon;berbicara lewat ponsel di dalam ruangan sunyi
+ご遠慮ください;ごえんりょください;mohon untuk menahan diri tidak ...;larangan sangat santun demi menjaga ketenangan bersama
+お控えください;おひかえください;harap dihindari melakukan ...;ungkapan santun meminta pengunjung tidak berisik/berbicara ponsel
+入館;にゅうかん;memasuki gedung fasilitas;melangkahkan kaki masuk melewati pintu masuk
+入れ墨;いれずみ;rajah tato tradisional Jepang;rajah tato tubuh tradisional yang dilarang di pemandian umum
+タトゥー;タトゥー;tato modern;rajah tubuh modern yang juga terkena larangan masuk onsen/gym
+シール;シール;stiker tato temporer;stiker gambar tubuh yang menyerupai tato
+ボディペイント;ボディペイント;lukisan tubuh, body paint;cat lukis di permukaan kulit tubuh
+お断りしています;おことわりしています;kami tolak / tidak kami izinkan;ketentuan tegas menolak tamu bertato masuk ke fasilitas air

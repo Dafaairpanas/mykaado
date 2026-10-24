@@ -1,0 +1,91 @@
+いいですね;いいですね;bagus ya / ide bagus;Ungkapan menyetujui ajakan atau ide lawan bicara
+いっしょに;いっしょに;bersama-sama;Melakukan suatu kegiatan bersama orang lain (cth: 一緒に行きませんか)
+いつも;いつも;selalu;Frekuensi kegiatan yang selalu dilakukan rutin (100%)
+ええ;ええ;ya / betul;Jawaban afirmatif yang lebih santai dan akrab daripada はい
+お酒;おさけ;minuman keras / sake;Minuman beralkohol (terutama minuman sake beras khas Jepang)
+お茶;おちゃ;teh hijau / jamuan teh;Teh hijau Jepang (sencha/matcha),  secara luas juga bermakna minum teh
+ご飯;ごはん;nasi / makanan;Bulir beras yang sudah ditanak matang,  juga berarti jam makan (朝ご飯, dll.)
+サッカー;サッカー;sepak bola;Olahraga sepak bola (football / soccer)
+します;します;melakukan / berbuat;Kata kerja serbaguna mengerjakan aktivitas (cth: スポーツをする)
+じゃ、また;じゃ、また;sampai jumpa lagi;Salam perpisahan santai kepada teman (sampai nanti / daah)
+ジュース;ジュース;jus / sari buah;Minuman sari buah manis atau sari sayuran segar
+それから;それから;setelah itu / lalu;Kata sambung melanjutkan kegiatan atau menambah daftar barang
+たばこ;たばこ;rokok / tembakau;Rokok olahan tembakau (cth: たばこを吸います = merokok)
+ちょっと;ちょっと;sebentar / sedikit;Menyatakan kuantitas sedikit/waktu singkat, atau menolak ajakan secara halus
+テニス;テニス;tenis;Olahraga tenis lapangan beraket
+パン;パン;roti;Makanan pokok olahan tepung terigu panggang (berasal dari bhs Portugis pão)
+ビール;ビール;bir;Minuman beralkohol fermentasi gandum dan hop
+ビデオ;ビデオ;rekaman video / kaset video;Perangkat rekaman visual film atau kaset rekaman
+メキシコ;メキシコ;Meksiko;Negara di Amerika Utara bagian selatan
+レポート;レポート;laporan / makalah tugas;Karya tulis laporan tugas kampus atau riset kantor (report)
+飲みます;のみます;minum;Menelan minuman cair (cth: 水を飲む, 薬を飲む = minum obat)
+何;なに;apa;Kata tanya menanyakan benda (sebelum partikel o: 何を食べますか)
+果物;くだもの;buah-buahan;Buah segar hasil tanaman (apel, pisang, jeruk, dll.)
+花見;はなみ;hanami (melihat sakura);Tradisi berkumpul piknik menikmati bunga sakura mekar di musim semi
+会います;あいます;bertemu / berjumpa;Bertemu dengan seseorang (orang yang ditemui menggunakan partikel に: 友達に会う)
+吸います;すいます;menghisap / merokok;Menghisap udara/napas atau merokok tembakau (たばこを吸う)
+牛乳;ぎゅうにゅう;susu sapi murni;Minuman susu segar perah dari sapi (sinonim: ミルク)
+魚;さかな;ikan;Hewan perairan bersirip (bisa ikan laut maupun air tawar)
+見ます;みます;melihat / menonton;Memandang dengan mata (nonton TV, melihat pemandangan)
+紅茶;こうちゃ;teh hitam / black tea;Teh olahan fermentasi kemerahan gaya barat
+撮ります;とります;mengambil (foto) / memotret;Khusus untuk mengambil gambar atau foto (写真をとる)
+時々;ときどき;kadang-kadang;Frekuensi aktivitas sewaktu-waktu (sekitar 30-50%)
+写真;しゃしん;foto / potret;Gambar hasil jepretan kamera fotografi
+取ります;とります;mengambil (umum);Mengambil barang dengan tangan secara umum
+手紙;てがみ;surat;Kertas tulisan pesan yang dikirimkan kepada seseorang
+宿題;しゅくだい;pekerjaan rumah (PR);Tugas sekolah yang dikerjakan murid di rumah
+書きます;かきます;menulis / menggambar;Menulis huruf naskah (atau melukis/menggambar denah)
+食べます;たべます;makan;Memasukkan makanan ke dalam mulut dan mengunyahnya
+水;みず;air dingin / air mineral;Air putih biasa atau air dingin (kalau air panas = お湯 / oyu)
+昼ご飯;ひるごはん;makan siang;Makanan yang disantap pada siang hari (ragam sopan: 昼食 / ちゅうしょく)
+朝ご飯;あさごはん;makan pagi / sarapan;Makanan santap awal di pagi hari (ragam sopan: 朝食 / ちょうしょく)
+庭;にわ;halaman / pekarangan rumah;Area lahan luar sekitar rumah tinggal
+店;みせ;toko / kedai;Tempat berniaga menjual barang atau jasa (sopan: お店)
+読みます;よみます;membaca;Mengeja dan memahami tulisan buku atau teks bacaan
+肉;にく;daging;Bahan pangan hewani (sapi, ayam, babi, dll.)
+買います;かいます;membeli;Mendapatkan barang dengan membayar sejumlah uang
+晩ご飯;ばんごはん;makan malam;Santapan makan malam (ragam sopan: 夕食 / ゆうしょく)
+分かりました;わかりました;mengerti / baik / saya paham;Ungkapan menyanggupi instruksi atau memahami informasi
+聞きます;ききます;mendengar / bertanya;Mendengarkan suara/musik,  juga bermakna bertanya (先生に聞く)
+野菜;やさい;sayur-sayuran;Bahan pangan nabati segar (tomat, sawi, wortel, dll.)
+卵;たまご;telur;Telur ayam atau unggas (sering juga ditulis kanji 玉子)
+いか;いか;cumi-cumi;Hewan laut bertentakel kenyal (kanji: 烏賊)
+いちご;いちご;stroberi;Buah beri merah berbintik manis-asam (kanji: 苺)
+えび;えび;udang;Hewan krustasea air berkulit keras (kanji: 蝦 / 海老)
+かき;かき;buah kesemek;Buah khas musim gugur Jepang berwarna oranye (kanji: 柿)
+かに;かに;kepiting;Hewan bercapit keras bercangkang (kanji: 蟹)
+キャベツ;キャベツ;kol / kubis;Sayuran daun bulat renyah untuk salad (cabbage)
+牛肉;ぎゅうにく;daging sapi;Daging hewan ternak sapi konsumsi
+きゅうり;きゅうり;timun / mentimun;Sayuran buah lonjong hijau berair segar (kanji: 胡瓜)
+米;こめ;beras;Bulir beras mentah (setelah dimasak jadi ご飯)
+じゃがいも;じゃがいも;kentang;Umbi kentang konsumsi olahan (kanji: 馬鈴薯)
+すいか;すいか;semangka;Buah semangka berair merah khas musim panas (kanji: 西瓜)
+ソーセージ;ソーセージ;sosis;Olahan daging cincang selongsong (sausage)
+だいこん;だいこん;lobak putih;Lobak putih panjang khas Jepang untuk sup atau parutan (kanji: 大根)
+たこ;たこ;gurita;Hewan laut berkepala bulat dan bertentakel delapan (kanji: 蛸)
+たまねぎ;たまねぎ;bawang bombay;Bawang bulat berlapis untuk masakan tumis (kanji: 玉ねぎ)
+トマト;トマト;tomat;Buah sayur merah segar berair (tomato)
+鶏肉;とりにく;daging ayam;Daging unggas ayam konsumsi (sering juga ditulis 鳥肉)
+なし;なし;buah pir;Buah pir manis berair khas Asia/Jepang (kanji: 梨)
+なす;なす;terong;Sayuran terong berkulit ungu mengkilap (kanji: 茄子)
+にんじん;にんじん;wortel;Sayuran umbi oranye kaya vitamin A (kanji: 人参)
+ねぎ;ねぎ;daun bawang;Daun bawang aromatik untuk sup (kanji: 葱)
+白菜;はくさい;sawi putih;Sayuran sawi putih berdaun besar untuk hotpot nabe
+バナナ;バナナ;pisang;Buah pisang manis berkulit kuning (banana)
+ハム;ハム;ham;Olahan daging babi iris siap santap
+豚肉;ぶたにく;daging babi;Daging hewan babi konsumsi
+ぶどう;ぶどう;buah anggur;Buah anggur bergerombol manis (kanji: 葡萄)
+ほうれんそう;ほうれんそう;bayam jepang;Sayuran hijau berdaun lunak bergizi (kanji: ほうれん草)
+まめ;まめ;kacang-kacangan / kedelai;Biji kacang (edamame, kedelai, kacang merah,  kanji: 豆)
+みかん;みかん;jeruk keprok / mikan;Jeruk manis mudah dikupas khas musim dingin Jepang (kanji: 蜜柑)
+もも;もも;buah persik / peach;Buah persik berdaging manis harum kemerahan (kanji: 桃)
+りんご;りんご;buah apel;Buah apel renyah merah khas Aomori Jepang (kanji: 林檎)
+レタス;レタス;selada / letas;Sayuran selada daun hijau untuk lalapan salad (lettuce)
+あじ;あじ;ikan selar / horse mackerel;Ikan selar laut berasa gurih sering digoreng tepung (kanji: 鰺)
+いわし;いわし;ikan sarden;Ikan sarden kecil laut kaya omega-3 (kanji: 鰯)
+さけ;さけ;ikan salmon / salem;Ikan berdaging merah muda gurih (kanji: 鮭, beda pengucapan dgn sake)
+さば;さば;ikan kembung / makarel;Ikan makarel berminyak gurih sering dipanggang shioyaki (kanji: 鯖)
+さんま;さんま;ikan sanma (saury pasifik);Ikan musim gugur khas Jepang berbadan ramping dipanggang utuh (kanji: 秋刀魚)
+たい;たい;ikan kakap merah / sea bream;Ikan berharga mahal lambang kemakmuran dan perayaan (kanji: 鯛)
+たら;たら;ikan kod;Ikan kod laut dingin berdaging putih lembut (kanji: 鱈,  perbaikan: bukan ikan gabus)
+まぐろ;まぐろ;ikan tuna;Ikan tuna laut dalam untuk sashimi dan sushi (kanji: 鮪)

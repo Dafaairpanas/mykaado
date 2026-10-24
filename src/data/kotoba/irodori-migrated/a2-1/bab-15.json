@@ -11,7 +11,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tanda-tanda gangguan kesehatan yang dirasakan tubuh"
   },
   {
     "id": "ir-a2-1-15-002",
@@ -25,7 +26,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "saluran pernapasan dan penelan di leher"
   },
   {
     "id": "ir-a2-1-15-003",
@@ -39,7 +41,8 @@
     "chapter": "Bab 15",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sensasi rasa ngilu atau perih pada bagian tubuh"
   },
   {
     "id": "ir-a2-1-15-004",
@@ -53,7 +56,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "bagian tubuh lambung dan usus"
   },
   {
     "id": "ir-a2-1-15-005",
@@ -67,7 +71,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "suhu tubuh yang meningkat di atas normal akibat sakit"
   },
   {
     "id": "ir-a2-1-15-006",
@@ -81,7 +86,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gejala refleks saluran napas berbunyi keras"
   },
   {
     "id": "ir-a2-1-15-007",
@@ -95,7 +101,8 @@
     "chapter": "Bab 15",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "gejala refleks saluran napas berbunyi keras"
   },
   {
     "id": "ir-a2-1-15-008",
@@ -109,7 +116,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "lendir cairan yang keluar dari hidung saat flu"
   },
   {
     "id": "ir-a2-1-15-009",
@@ -123,7 +131,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "dorongan rasa ingin muntah di lambung"
   },
   {
     "id": "ir-a2-1-15-010",
@@ -137,7 +146,8 @@
     "chapter": "Bab 15",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "perut terasa bergejolak hendak muntah"
   },
   {
     "id": "ir-a2-1-15-011",
@@ -151,7 +161,8 @@
     "chapter": "Bab 15",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "keinginan atau selera untuk menyantap makanan"
   },
   {
     "id": "ir-a2-1-15-012",
@@ -165,7 +176,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "organ indra penglihatan"
   },
   {
     "id": "ir-a2-1-15-013",
@@ -179,7 +191,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sensasi geli menggelitik pada kulit atau mata yang ingin digaruk"
   },
   {
     "id": "ir-a2-1-15-014",
@@ -193,7 +206,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "anggota tubuh bagian bawah untuk berdiri dan melangkah"
   },
   {
     "id": "ir-a2-1-15-015",
@@ -207,7 +221,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "cedera sendi pergelangan kaki akibat salah tumpuan (足首をくじく)"
   },
   {
     "id": "ir-a2-1-15-016",
@@ -221,7 +236,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "bagian tubuh tempat otak dan wajah"
   },
   {
     "id": "ir-a2-1-15-017",
@@ -235,7 +251,8 @@
     "chapter": "Bab 15",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "terbentur atau menabrakkan bagian tubuh ke benda keras (頭をぶつける)"
   },
   {
     "id": "ir-a2-1-15-018",
@@ -249,7 +266,8 @@
     "chapter": "Bab 15",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "dua hari sebelum hari ini"
   },
   {
     "id": "ir-a2-1-15-019",
@@ -263,7 +281,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kehilangan keseimbangan hingga tersungkur di tanah"
   },
   {
     "id": "ir-a2-1-15-020",
@@ -277,7 +296,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menunjukkan cara atau kondisi fisik secara langsung"
   },
   {
     "id": "ir-a2-1-15-021",
@@ -291,7 +311,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pemeriksaan foto radiologi untuk melihat struktur tulang"
   },
   {
     "id": "ir-a2-1-15-022",
@@ -305,7 +326,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "satuan hitung durasi jangka waktu minggu (misal 1週間 1 minggu)"
   },
   {
     "id": "ir-a2-1-15-023",
@@ -319,7 +341,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "alergi musiman bersin dan mata gatal akibat serbuk pohon cedar"
   },
   {
     "id": "ir-a2-1-15-024",
@@ -333,7 +356,8 @@
     "chapter": "Bab 15",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pertanyaan dokter kepada pasien untuk menanyakan gejala sakit"
   },
   {
     "id": "ir-a2-1-15-025",
@@ -347,7 +371,8 @@
     "chapter": "Bab 15",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bentuk sangat sopan (sonkeigo) dari dokter kepada pasien"
   },
   {
     "id": "ir-a2-1-15-026",
@@ -361,7 +386,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "kartu bukti kepesertaan asuransi kesehatan nasional Jepang"
   },
   {
     "id": "ir-a2-1-15-027",
@@ -375,7 +401,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "formulir isian gejala dan riwayat penyakit di ruang tunggu klinik"
   },
   {
     "id": "ir-a2-1-15-028",
@@ -389,7 +416,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "senyawa obat penyembuh penyakit"
   },
   {
     "id": "ir-a2-1-15-029",
@@ -403,7 +431,8 @@
     "chapter": "Bab 15",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "senyawa obat penyembuh penyakit"
   },
   {
     "id": "ir-a2-1-15-030",
@@ -417,7 +446,8 @@
     "chapter": "Bab 15",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "berjumpa langsung dengan seseorang (人に会う)"
   },
   {
     "id": "ir-a2-1-15-031",
@@ -431,7 +461,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "makanan bertekstur empuk yang mudah dicerna lambung"
   },
   {
     "id": "ir-a2-1-15-032",
@@ -445,7 +476,8 @@
     "chapter": "Bab 15",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "rasa cabai menyengat yang perlu dihindari saat sakit"
   },
   {
     "id": "ir-a2-1-15-033",
@@ -459,7 +491,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kartu nomor rekam medis berobat pasien di klinik tertentu"
   },
   {
     "id": "ir-a2-1-15-034",
@@ -473,7 +506,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "lembar instruksi dokter untuk ditebus di apotek"
   },
   {
     "id": "ir-a2-1-15-035",
@@ -487,7 +521,8 @@
     "chapter": "Bab 15",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menuliskan data diri dan jawaban pada lembaran formulir"
   },
   {
     "id": "ir-a2-1-15-036",
@@ -501,7 +536,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "ahli medis pemeriksa dan penyembuh pasien"
   },
   {
     "id": "ir-a2-1-15-037",
@@ -515,7 +551,8 @@
     "chapter": "Bab 15",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "penyebutan desimal suhu tubuh (misal 38度5分 = 38,5 derajat Celcius)"
   },
   {
     "id": "ir-a2-1-15-038",
@@ -529,7 +566,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "organ rongga mulut tempat berbicara dan makan"
   },
   {
     "id": "ir-a2-1-15-039",
@@ -543,7 +581,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "infeksi saluran pernapasan menular akibat virus influenza"
   },
   {
     "id": "ir-a2-1-15-040",
@@ -557,7 +596,8 @@
     "chapter": "Bab 15",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memeriksa sampel lendir atau darah di laboratorium klinik"
   },
   {
     "id": "ir-a2-1-15-041",
@@ -571,7 +611,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jenis strain virus flu tipe A atau golongan darah A"
   },
   {
     "id": "ir-a2-1-15-042",
@@ -585,7 +626,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "suhu tubuh yang meningkat di atas normal akibat sakit"
   },
   {
     "id": "ir-a2-1-15-043",
@@ -599,7 +641,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "nasi lembek berair yang ramah untuk pencernaan orang sakit"
   },
   {
     "id": "ir-a2-1-15-044",
@@ -613,7 +656,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tempat membeli dan menebus obat resep dokter"
   },
   {
     "id": "ir-a2-1-15-045",
@@ -627,7 +671,8 @@
     "chapter": "Bab 15",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mendapatkan obat dari apoteker setelah membayar"
   },
   {
     "id": "ir-a2-1-15-046",
@@ -641,7 +686,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "ungkapan empati mendoakan kesembuhan kepada pasien/orang sakit"
   },
   {
     "id": "ir-a2-1-15-047",
@@ -655,7 +701,8 @@
     "chapter": "Bab 15",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bentuk sopan menanyakan kepemilikan kartu asuransi"
   },
   {
     "id": "ir-a2-1-15-048",
@@ -669,7 +716,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "penulisan cara baca nama menggunakan huruf katakana"
   },
   {
     "id": "ir-a2-1-15-049",
@@ -683,7 +731,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pilihan kategori gender pria atau wanita"
   },
   {
     "id": "ir-a2-1-15-050",
@@ -697,7 +746,8 @@
     "chapter": "Bab 15",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "tubuh terserang atau tertular penyakit"
   },
   {
     "id": "ir-a2-1-15-051",
@@ -711,7 +761,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kondisi saat ini waktu sekarang"
   },
   {
     "id": "ir-a2-1-15-052",
@@ -725,7 +776,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "orang berjenis kelamin wanita"
   },
   {
     "id": "ir-a2-1-15-053",
@@ -739,7 +791,8 @@
     "chapter": "Bab 15",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "kondisi mengandung janin dalam rahim"
   },
   {
     "id": "ir-a2-1-15-054",
@@ -753,7 +806,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "panduan format pengisian formulir sebagai percontohan"
   },
   {
     "id": "ir-a2-1-15-055",
@@ -767,7 +821,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "tanggal waktu formulir tersebut diisi"
   },
   {
     "id": "ir-a2-1-15-056",
@@ -781,7 +836,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "nama era kekaisaran Jepang tahun 1912 - 1926"
   },
   {
     "id": "ir-a2-1-15-057",
@@ -795,7 +851,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "nama era kekaisaran Jepang tahun 1926 - 1989"
   },
   {
     "id": "ir-a2-1-15-058",
@@ -809,7 +866,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "nama era kekaisaran Jepang tahun 1989 - 2019"
   },
   {
     "id": "ir-a2-1-15-059",
@@ -823,7 +881,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "nama era kekaisaran Jepang dari Mei 2019 hingga kini"
   },
   {
     "id": "ir-a2-1-15-060",
@@ -837,7 +896,8 @@
     "chapter": "Bab 15",
     "type": "counter",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "satuan hitung umur usia manusia (misal 27才 umur 27 tahun)"
   },
   {
     "id": "ir-a2-1-15-061",
@@ -851,7 +911,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "riwayat waktu yang pernah dialami di masa lampau"
   },
   {
     "id": "ir-a2-1-15-062",
@@ -865,7 +926,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gangguan kesehatan tubuh"
   },
   {
     "id": "ir-a2-1-15-063",
@@ -879,7 +941,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "nama medis resmi penyakit yang diderita"
   },
   {
     "id": "ir-a2-1-15-064",
@@ -893,7 +956,8 @@
     "chapter": "Bab 15",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "satuan hitung botol obat sirup atau batang rokok (misal 1本 1 botol)"
   },
   {
     "id": "ir-a2-1-15-065",
@@ -907,7 +971,8 @@
     "chapter": "Bab 15",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "orang berjenis kelamin wanita"
   },
   {
     "id": "ir-a2-1-15-066",
@@ -921,7 +986,8 @@
     "chapter": "Bab 15",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memberikan jawaban isian kuisioner"
   },
   {
     "id": "ir-a2-1-15-067",
@@ -935,7 +1001,8 @@
     "chapter": "Bab 15",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "organ indra penglihatan"
   },
   {
     "id": "ir-a2-1-15-068",
@@ -949,7 +1016,8 @@
     "chapter": "Bab 15",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "permohonan santun meminta pasien menjawab pertanyaan dokter"
   },
   {
     "id": "ir-a2-1-15-069",
@@ -963,7 +1031,8 @@
     "chapter": "Bab 15",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "suhu tubuh yang meningkat di atas normal akibat sakit"
   },
   {
     "id": "ir-a2-1-15-070",
@@ -977,7 +1046,8 @@
     "chapter": "Bab 15",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengurangi keparahan rasa sakit atau bersin (症状を抑える)"
   },
   {
     "id": "ir-a2-1-15-071",
@@ -991,7 +1061,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "obat medis penghilang rasa ngilu dan sakit"
   },
   {
     "id": "ir-a2-1-15-072",
@@ -1005,7 +1076,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "refleks semburan udara hidung akibat alergi debu/polen"
   },
   {
     "id": "ir-a2-1-15-073",
@@ -1019,7 +1091,8 @@
     "chapter": "Bab 15",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kondisi tubuh merasa sangat menderita menanggung sakit"
   },
   {
     "id": "ir-a2-1-15-074",
@@ -1033,7 +1106,8 @@
     "chapter": "Bab 15",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menahan rasa sakit atau godaan tanpa mengeluh"
   },
   {
     "id": "ir-a2-1-15-075",
@@ -1047,7 +1121,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "rasa sakit yang teramat sangat hingga tak tertahankan"
   },
   {
     "id": "ir-a2-1-15-076",
@@ -1061,7 +1136,8 @@
     "chapter": "Bab 15",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memberi rentang jarak jeda waktu antar minum obat (misal 4-6 jam)"
   },
   {
     "id": "ir-a2-1-15-077",
@@ -1075,7 +1151,8 @@
     "chapter": "Bab 15",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "batas ambang nilai sama atau lebih tinggi (misal 38度5分以上)"
   },
   {
     "id": "ir-a2-1-15-078",
@@ -1089,7 +1166,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "lambung pencernaan makanan"
   },
   {
     "id": "ir-a2-1-15-079",
@@ -1103,7 +1181,8 @@
     "chapter": "Bab 15",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menjaga dinding lambung dari efek keras obat"
   },
   {
     "id": "ir-a2-1-15-080",
@@ -1117,7 +1196,8 @@
     "chapter": "Bab 15",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menyetir mobil (perlu dihindari bila obat berefek kantuk)"
   },
   {
     "id": "ir-a2-1-15-081",
@@ -1131,7 +1211,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "petunjuk minum obat tepat setelah selesai makan (sekitar 30 menit)"
   },
   {
     "id": "ir-a2-1-15-082",
@@ -1145,7 +1226,8 @@
     "chapter": "Bab 15",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "efek samping rasa kantuk berat setelah menenggak obat"
   },
   {
     "id": "ir-a2-1-15-083",
@@ -1159,7 +1241,8 @@
     "chapter": "Bab 15",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "obat khusus untuk menurunkan suhu panas demam tinggi"
   },
   {
     "id": "ir-a2-1-15-084",
@@ -1173,7 +1256,8 @@
     "chapter": "Bab 15",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "suhu badan panas melonjak drastis"
   },
   {
     "id": "ir-a2-1-15-085",
@@ -1187,7 +1271,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata sambung menambahkan poin resep obat tambahan"
   },
   {
     "id": "ir-a2-1-15-086",
@@ -1201,7 +1286,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ragam santai menunjuk obat atau pilihan ini"
   },
   {
     "id": "ir-a2-1-15-087",
@@ -1215,7 +1301,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "waktu senja menjelang malam"
   },
   {
     "id": "ir-a2-1-15-088",
@@ -1229,7 +1316,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jadwal meminum obat sesaat sebelum beranjak tidur"
   },
   {
     "id": "ir-a2-1-15-089",
@@ -1243,7 +1331,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "petunjuk cara penggunaan obat (kapan dan bagaimana diminum)"
   },
   {
     "id": "ir-a2-1-15-090",
@@ -1257,7 +1346,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jumlah butir atau takaran mililiter obat sekali konsumsi"
   },
   {
     "id": "ir-a2-1-15-091",
@@ -1271,7 +1361,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kertas informasi rincian aturan dan efek samping obat dari apotek"
   },
   {
     "id": "ir-a2-1-15-092",
@@ -1285,7 +1376,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "efek medis penyembuhan yang dihasilkan oleh obat"
   },
   {
     "id": "ir-a2-1-15-093",
@@ -1299,7 +1391,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "hal-hal yang wajib diwaspadai dan pantangan saat mengonsumsi obat"
   },
   {
     "id": "ir-a2-1-15-094",
@@ -1313,7 +1406,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "waktu meminum obat setelah santap malam"
   },
   {
     "id": "ir-a2-1-15-095",
@@ -1327,7 +1421,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "satuan hitung butir pil atau tablet obat padat (misal 2錠 2 tablet)"
   },
   {
     "id": "ir-a2-1-15-096",
@@ -1341,7 +1436,8 @@
     "chapter": "Bab 15",
     "type": "counter",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "lambung pencernaan makanan"
   },
   {
     "id": "ir-a2-1-15-097",
@@ -1355,6 +1451,7 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "diminum 3 kali sehari seusai makan pagi, siang, dan malam"
   }
 ]

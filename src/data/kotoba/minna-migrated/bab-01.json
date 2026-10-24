@@ -10,7 +10,8 @@
     "chapter": "Bab 01",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan asal negara atau kota"
   },
   {
     "id": "mn-01-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 01",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Panggilan sopan umum untuk orang lain (bukan diri sendiri)"
   },
   {
     "id": "mn-01-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 01",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Untuk anak kecil, anggota keluarga, atau teman akrab"
   },
   {
     "id": "mn-01-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 01",
     "type": "counter",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Satuan hitung umur (contoh: 20歳)"
   },
   {
     "id": "mn-01-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 01",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Dilekatkan di belakang nama negara (cth: インドネシア人)"
   },
   {
     "id": "mn-01-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Hindari ke atasan/orang belum akrab, panggilan istri ke suami"
   },
   {
     "id": "mn-01-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Ragam biasa/netral (kasual)"
   },
   {
     "id": "mn-01-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Ragam sopan/hormat dari あの人"
   },
   {
     "id": "mn-01-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "AS / USA"
   },
   {
     "id": "mn-01-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 01",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bisa berarti \"sama-sama / tidak apa-apa\" saat dipuji/terima kasih"
   },
   {
     "id": "mn-01-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Britania Raya (UK)"
   },
   {
     "id": "mn-01-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di Eropa Selatan"
   },
   {
     "id": "mn-01-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di Asia Selatan"
   },
   {
     "id": "mn-01-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di Asia Tenggara (RI)"
   },
   {
     "id": "mn-01-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bentuk sopan/halus dari 何歳 (nan-sai)"
   },
   {
     "id": "mn-01-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Kependekan sopan dari [お名前は何ですか]"
   },
   {
     "id": "mn-01-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Muang Thai / Negeri Gajah Putih"
   },
   {
     "id": "mn-01-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Ragam biasa/netral (kanji: 誰)"
   },
   {
     "id": "mn-01-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Deutschland"
   },
   {
     "id": "mn-01-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 01",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Diucapkan di akhir perkenalan atau saat minta bantuan"
   },
   {
     "id": "mn-01-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Bentuk sopan/halus dari だれ (dare)"
   },
   {
     "id": "mn-01-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 01",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Juga dipakai untuk menyahut saat nama dipanggil"
   },
   {
     "id": "mn-01-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 01",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ucapan salam pembuka saat pertama kali berkenalan"
   },
   {
     "id": "mn-01-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di Amerika Selatan"
   },
   {
     "id": "mn-01-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Biasa dipanggil sopan: お医者さん"
   },
   {
     "id": "mn-01-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ragam biasa/netral saat menanyakan umur"
   },
   {
     "id": "mn-01-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Menyebut profesi umum diri sendiri (bukan nama PT)"
   },
   {
     "id": "mn-01-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Umumnya merujuk ke mahasiswa perguruan tinggi"
   },
   {
     "id": "mn-01-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Korsel / Daehan Minguk"
   },
   {
     "id": "mn-01-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Dipakai saat menyebut profesi diri sendiri kepada orang lain"
   },
   {
     "id": "mn-01-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Gabungan 銀行 (bank) + 員 (pegawai)"
   },
   {
     "id": "mn-01-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Orang yang melakukan riset/penelitian"
   },
   {
     "id": "mn-01-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Kata ganti orang pertama standar dan sopan"
   },
   {
     "id": "mn-01-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 01",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Diucapkan sebelum menanyakan hal pribadi (nama/umur)"
   },
   {
     "id": "mn-01-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Dipakai bersama nama perusahaan (contoh: IMCの社員)"
   },
   {
     "id": "mn-01-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Panggilan/sapaan hormat untuk orang lain (bukan diri sendiri)"
   },
   {
     "id": "mn-01-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kampus"
   },
   {
     "id": "mn-01-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Bisa juga merujuk ke wilayah Chugoku di Jepang barat"
   },
   {
     "id": "mn-01-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Juga dilafalkan \"Nippon\""
   },
   {
     "id": "mn-01-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Hati-hati bedakan dengan 美容院 (びよういん = salon)"
   },
   {
     "id": "mn-01-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di Timur Tengah"
   },
   {
     "id": "mn-01-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Egypt"
   },
   {
     "id": "mn-01-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara benua di selatan Indonesia"
   },
   {
     "id": "mn-01-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di Amerika Utara"
   },
   {
     "id": "mn-01-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "KSA / Kerajaan Arab Saudi"
   },
   {
     "id": "mn-01-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di Asia Tenggara"
   },
   {
     "id": "mn-01-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di Eropa"
   },
   {
     "id": "mn-01-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di Asia Tenggara"
   },
   {
     "id": "mn-01-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di Eropa Barat"
   },
   {
     "id": "mn-01-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di Asia Tenggara"
   },
   {
     "id": "mn-01-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Wilayah historis / sebutan lama Iran"
   },
   {
     "id": "mn-01-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di Asia Tenggara"
   },
   {
     "id": "mn-01-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di Amerika Utara"
   },
   {
     "id": "mn-01-054",
@@ -699,6 +752,7 @@
     "chapter": "Bab 01",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara lintas benua Eropa-Asia"
   }
 ]

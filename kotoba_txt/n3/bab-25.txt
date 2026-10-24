@@ -1,0 +1,24 @@
+「お国はどちらですか。」;「おくにはどちらですか。」;negara kamu mana? (kamu dari negara mana?)
+＝お生まれはどちらですか。;＝おうまれはどちらですか。;lahirnya di mana?
+＝どちらのご出身ですか。;＝どちらのごしゅっしんですか。;berasal dari mana?
+「イギリス出身です。」;「いぎりすしゅっしんです。」;berasal dari Inggris
+「お住まいはどちらですか。」;「おすまいはどちらですか。」;tinggalnya di mana?
+「この近くです。」;「このちかくです。」;di dekat sini
+「先日は、ありがとうございました。」;「せんじつは、ありがとうございました。」;terima kasih atas... beberapa hari yang lalu
+「とんでもないです。こちらこそ。」;「とんでもないです。こちらこそ。」;tidak apa-apa, sama-sama
+「どうぞお上がりください。」;「どうぞおあがりください。」;silakan masuk
+「おじゃまします。」;「おじゃまします。」;permisi (saat masuk rumah orang)
+「こちらでおかけになってお待ちください。」;「こちらでおかけになっておまちください。」;silakan duduk menunggu di sini
+「お茶をお持ちします。」;「おちゃをおもちします。」;saya akan bawakan teh
+「どうぞおかまいなく。」;「どうぞおかまいなく。」;tidak usah repot-repot
+「どうぞお召し上がりください」;「どうぞおめしあがりください」;silakan dimakan / diminum
+「では、遠慮なくいただきます。」;「では、えんりょなくいただきます。」;baik, saya terima
+「ご無沙汰しています。お元気でいらっしゃいますか。」;「ごぶさたしています。おげんきでいらっしゃいますか。」;lama tidak bertemu, apa kabar?
+「ええ、おかげさまで。」;「ええ、おかげさまで。」;baik, berkat doa Anda
+「田中さんのご主人、亡くなったそうですよ。」;「たなかさんのごしゅじん、なくなったそうですよ。」;suami Tanaka-san katanya meninggal
+「そうですか。お気の毒に。」;「そうですか。おきのどくに。」;oh begitu... kasihan
+「お目にかかるのを楽しみにしています。」;「おめにかかるのをたのしみにしています。」;saya menantikan hari kita bertemu
+「お先に失礼します。」;「おさきにしつれいします。」;saya pamit terlebih dahulu
+「ご苦労さま。／お疲れさま。」;「ごくろうさま。／おつかれさま。」;terima kasih atas kerja keras hari ini (gokurousama tidak untuk atasan)
+「お先に。」;「おさきに。」;saya duluan (pulang)
+「お疲れさまでした。」;「おつかれさまでした。」;terima kasih atas kerja keras hari ini

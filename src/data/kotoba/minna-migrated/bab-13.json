@@ -10,7 +10,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan perkiraan titik waktu tertentu (cth: 3時ごろ)"
   },
   {
     "id": "mn-13-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 13",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bentuk sangat sopan dan halus (teineigo) dari です"
   },
   {
     "id": "mn-13-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Perayaan tahun baru di Jepang (awal bulan Januari)"
   },
   {
     "id": "mn-13-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 13",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Permintaan sopan pelayan/staf meminta pelanggan menunggu sejenak"
   },
   {
     "id": "mn-13-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 13",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kondisi lapar (sering dalam bentuk lampau: お腹が空きました = saya lapar)"
   },
   {
     "id": "mn-13-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 13",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pertanyaan pelayan restoran menanyakan pesanan hidangan tamu"
   },
   {
     "id": "mn-13-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Meluncur di atas salju memakai papan ski (スキーをする = bermain ski)"
   },
   {
     "id": "mn-13-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 13",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyetujui ajakan lawan bicara untuk melakukan kegiatan bersama"
   },
   {
     "id": "mn-13-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kata ganti tempat tak tentu (cth: どこかへ行きましたか = pergi ke suatu tempat?)"
   },
   {
     "id": "mn-13-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 13",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kondisi dahaga (sering dalam bentuk lampau: 喉が渇きました = saya haus)"
   },
   {
     "id": "mn-13-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kolam buatan untuk berenang (swimming pool)"
   },
   {
     "id": "mn-13-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 13",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Aktivitas menggerakkan badan melintasi air"
   },
   {
     "id": "mn-13-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata ganti benda tak tentu (cth: 何か食べたいです = ingin makan sesuatu)"
   },
   {
     "id": "mn-13-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Semangkuk nasi bertabur irisan tipis daging sapi gurih manis"
   },
   {
     "id": "mn-13-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 13",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi ruangan atau jalan yang tidak leluasa,  lawan dari 広い"
   },
   {
     "id": "mn-13-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 13",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menjemput kedatangan seseorang di stasiun/bandara"
   },
   {
     "id": "mn-13-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 13",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengikat janji pernikahan resmi suami-istri"
   },
   {
     "id": "mn-13-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 13",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ukuran ruangan, tanah, atau jalan yang lapang,  lawan dari 狭い"
   },
   {
     "id": "mn-13-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 13",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Berjalan-jalan santai menikmati udara (tempat ditandai を: 公園を散歩する)"
   },
   {
     "id": "mn-13-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari Sabtu dan Minggu di akhir sepekan"
   },
   {
     "id": "mn-13-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 13",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Melakukan aktivitas makan hidangan (lebih formal dari ご飯を食べる)"
   },
   {
     "id": "mn-13-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Aliran air tawar alami yang mengalir menuju laut"
   },
   {
     "id": "mn-13-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 13",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Situasi sulit yang menguras banyak tenaga dan pikiran"
   },
   {
     "id": "mn-13-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hobi menangkap ikan dengan joran dan kail (釣りをする = memancing)"
   },
   {
     "id": "mn-13-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Paket hidangan makan lengkap (nasi, sup miso, lauk, dan acar)"
   },
   {
     "id": "mn-13-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 13",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membeli barang-barang kebutuhan di toko atau pasar"
   },
   {
     "id": "mn-13-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 13",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kondisi stamina tubuh terkuras (sering: 疲れました = saya lelah)"
   },
   {
     "id": "mn-13-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Karya keindahan seni lukis, pahat, dan visual"
   },
   {
     "id": "mn-13-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Membayar tagihan sendiri-sendiri secara terpisah di kasir"
   },
   {
     "id": "mn-13-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 13",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Melakukan aktivitas rekreasi santai menghibur diri"
   },
   {
     "id": "mn-13-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 13",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan keinginan memiliki suatu barang (benda ditandai が: 車が欲しい)"
   },
   {
     "id": "mn-13-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Tempat ibadah agama Buddha di Jepang (berbeda dengan kuil Shinto / 神社)"
   },
   {
     "id": "mn-13-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Toko kelontong modern cepat saji buka sepanjang hari"
   },
   {
     "id": "mn-13-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Pasar swalayan lengkap menjual kebutuhan bahan makanan pokok"
   },
   {
     "id": "mn-13-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Pusat perbelanjaan pakaian dan aneka barang bertingkat"
   },
   {
     "id": "mn-13-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Toko yang membuat dan menjual aneka roti panggang"
   },
   {
     "id": "mn-13-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Tempat ibadah ibadah umat Islam"
   },
   {
     "id": "mn-13-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Tempat memutar dan menonton film layar lebar"
   },
   {
     "id": "mn-13-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tempat bersantai menikmati minuman kopi dan kudapan kue"
   },
   {
     "id": "mn-13-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Penjual aneka ikan laut dan hasil laut segar"
   },
   {
     "id": "mn-13-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Tempat peribadahan umat Kristen"
   },
   {
     "id": "mn-13-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Markas komando kantor kepolisian daerah"
   },
   {
     "id": "mn-13-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Pos polisi lingkungan sudut jalan khas Jepang untuk keamanan warga"
   },
   {
     "id": "mn-13-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Taman hijau terbuka tempat bersantai masyarakat"
   },
   {
     "id": "mn-13-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jenjang sekolah menengah atas 3 tahun (kependekan 高等学校)"
   },
   {
     "id": "mn-13-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kantor dinas administrasi pemerintahan kota"
   },
   {
     "id": "mn-13-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Toko penjual sake, bir, dan aneka minuman keras"
   },
   {
     "id": "mn-13-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jenjang pendidikan dasar 6 tahun untuk anak-anak"
   },
   {
     "id": "mn-13-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Pos dinas pemadam kebakaran dan armada ambulans darurat"
   },
   {
     "id": "mn-13-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kawasan pelestarian aneka jenis tanaman dan flora langka"
   },
   {
     "id": "mn-13-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Tempat ibadah agama Shinto dengan ciri khas gerbang torii merah"
   },
   {
     "id": "mn-13-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Tempat membaca dan meminjam koleksi buku literatur"
   },
   {
     "id": "mn-13-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Gedung olahraga dalam ruangan (gymnasium) untuk basket/voli"
   },
   {
     "id": "mn-13-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Lembaga pendidikan tinggi jenjang sarjana"
   },
   {
     "id": "mn-13-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kantor perwakilan diplomatik resmi suatu negara di luar negeri"
   },
   {
     "id": "mn-13-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jenjang pendidikan menengah pertama 3 tahun"
   },
   {
     "id": "mn-13-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Lahan area memarkir kendaraan mobil atau motor"
   },
   {
     "id": "mn-13-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Taman konservasi tempat pemeliharaan aneka satwa fauna"
   },
   {
     "id": "mn-13-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Penjual aneka potongan daging sapi, ayam, dan babi segar"
   },
   {
     "id": "mn-13-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Instansi urusan visa paspor dan izin tinggal warga asing (disingkat 入管)"
   },
   {
     "id": "mn-13-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Gedung pameran benda bersejarah, fosil, dan peninggalan budaya"
   },
   {
     "id": "mn-13-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Toko tradisional penjual sayur-mayur dan buah-buahan segar"
   },
   {
     "id": "mn-13-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Gedung pameran lukisan dan karya seni rupa bernilai estetis"
   },
   {
     "id": "mn-13-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Tempat rekreasi keluarga dengan bianglala, roller coaster, dan komidi putar"
   },
   {
     "id": "mn-13-065",
@@ -842,6 +906,7 @@
     "chapter": "Bab 13",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sekolah pendidikan dini untuk anak balita sebelum masuk SD"
   }
 ]

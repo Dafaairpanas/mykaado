@@ -1,0 +1,48 @@
+動物園;どうぶつえん;kebun binatang;taman konservasi aneka satwa untuk umum
+城;おしろ / しろ;kastel benteng, istana Jepang;kastel pertahanan megah warisan feodal samurai Jepang
+レストラン;レストラン;restoran;tempat makan umum bergaya modern
+博物館;はくぶつかん;museum;gedung penyimpanan dan pameran koleksi bersejarah/ilmiah
+アウトレットモール;アウトレットモール;outlet mall;kompleks mal perbelanjaan diskon barang bermerek
+プロレス;プロレス;gulat pro, pro-wrestling;pertunjukan duel gulat hiburan profesional
+タワー;タワー;menara pengamat, tower;menara tinggi untuk pemancar atau dek panorama kota
+野球;やきゅう;olahraga bisbol;permainan olahraga bisbol
+もう;もう;sudah;menunjukkan tindakan yang sudah selesai dilaksanakan
+まだ;まだ;belum;menunjukkan tindakan yang belum dilakukan sampai saat ini
+アジア;アジア;Asia;benua Asia
+すごく;すごく;sangat, luar biasa;kata keterangan penekanan tingkat intensitas tinggi
+市民体育館;しみんたいいくかん;GOR warga kota, gimnasium publik;gedung olahraga umum yang disediakan pemerintah kota untuk warga
+試合;しあい;pertandingan, laga tanding;kompetisi olahraga adu ketangkasan antar tim/atlet
+やる;やる;melakukan;ragam lisan santai dari します (misal main tanding bisbol, dll.)
+メンバー;メンバー;anggota regu, personel;orang yang tergabung dalam suatu tim
+足りない;たりない;kurang, tidak cukup;kuantitas jumlah orang atau dana belum mencukupi batas
+無理[な];むり[な];mustahil, tidak sanggup;keadaan yang tidak memungkinkan atau penolakan halus
+分かる;わかる;mengerti, paham;memahami informasi atau menguasai duduk perkara
+お金;おかね;uang;mata uang pembayaran tunai
+下ろす;おろす;menarik uang tunai;mengambil uang dari rekening bank atau mesin ATM (お金を下ろす)
+食事;しょくじ;makan, santapan;aktivitas menyantap hidangan makan
+ちょっと;ちょっと;sebentar, sedikit;durasi waktu sebentar atau takaran sedikit
+休む;やすむ;beristirahat;rehat sejenak melepaskan rasa letih
+ジョギングシューズ;ジョギングシューズ;sepatu lari joging;alas kaki khusus untuk olahraga lari santai
+ATM;エーティーエム;mesin ATM;anjungan tunai mandiri perbankan
+ゲームコーナー;ゲームコーナー;arena arkade permainan;area bermain mesin dingdong atau arkade game di mal
+フードコート;フードコート;food court, pujasera;pusat jajanan serba ada di dalam mal
+カフェ;カフェ;kafe, kedai kopi;tempat santai menikmati kopi dan kue
+映画館;えいがかん;bioskop;gedung pemutaran film layar lebar
+スポーツ店;スポーツてん;toko perlengkapan olahraga;gerai yang menjual pakaian dan alat-alat olahraga
+このあと;このあと;setelah ini, selanjutnya;waktu berikutnya setelah kegiatan saat ini rampung
+お腹がすく;おなかがすく;merasa lapar;perut terasa kosong membutuhkan makanan
+何か;なにか;sesuatu;hal atau benda yang belum ditentukan spesifik
+その前に;そのまえに;sebelum itu;tindakan yang harus dilakukan sebelum agenda berikutnya
+すばらしい;すばらしい;luar biasa, menakjubkan;pujian atas mutu, pemandangan, atau performa yang sangat prima
+難しい;むずかしい;sulit, sukar, rumit;sukar untuk dipahami atau diselesaikan
+感動する;かんどうする;tersentuh terharu, terkesan mendalam;perasaan batin yang tergetar menyaksikan hal indah/mengharukan
+かわいい;かわいい;lucu, imut;penampilan yang menggemaskan dan manis
+展覧会;てんらんかい;pameran seni;acara pameran menampilkan karya lukisan atau seni rupa
+パンダ;パンダ;panda;hewan mamalia berbulu hitam putih pemakan bambu
+猿;さる / サル;monyet, kera;primata berekor yang lincah
+現代;げんだい;zaman modern, era kini;kurun waktu masa modern sekarang
+作品;さくひん;karya seni, karya cipta;hasil ciptaan seni lukis, buku, atau film
+ホラー映画;ホラーえいが;film horor;film seram bertema misteri atau hantu
+つまらない;つまらない;membosankan, tidak seru;tidak menarik dan tidak menghibur
+退屈[な];たいくつ[な];menjemukan, bikin bosan;suasana monoton tanpa kegiatan seru sehingga jenuh
+いまいち[な];いまいち[な];kurang greget, kurang memuaskan;ungkapan percakapan santai untuk hal yang tanggung atau belum maksimal

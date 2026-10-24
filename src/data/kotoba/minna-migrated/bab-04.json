@@ -10,7 +10,8 @@
     "chapter": "Bab 04",
     "type": "particle",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan titik awal waktu atau tempat (cth: 9時から)"
   },
   {
     "id": "mn-04-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 04",
     "type": "particle",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menghubungkan kata benda secara berurutan"
   },
   {
     "id": "mn-04-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 04",
     "type": "particle",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan batas akhir waktu atau tempat (cth: 5時まで)"
   },
   {
     "id": "mn-04-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 04",
     "type": "counter",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Satuan penunjuk waktu jam (4時 = よじ, 9時 = くじ)"
   },
   {
     "id": "mn-04-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 04",
     "type": "counter",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Satuan hitung menit waktu (1分 = いっぷん, 5分 = ごふん)"
   },
   {
     "id": "mn-04-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Pusat perbelanjaan bertingkat (toserba)"
   },
   {
     "id": "mn-04-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kota metropolitan di Amerika Serikat"
   },
   {
     "id": "mn-04-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ibu kota negara Tiongkok / China"
   },
   {
     "id": "mn-04-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kota besar di California, Amerika Serikat"
   },
   {
     "id": "mn-04-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Ibu kota negara Inggris"
   },
   {
     "id": "mn-04-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 04",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Dua hari sebelum hari ini (ragam formal: いっさくじつ)"
   },
   {
     "id": "mn-04-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Karya seni sinema gambar bergerak"
   },
   {
     "id": "mn-04-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Menanyakan waktu jam saat ini (perbaikan typo: なんじ)"
   },
   {
     "id": "mn-04-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menanyakan angka urutan atau nomor telepon"
   },
   {
     "id": "mn-04-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Menanyakan durasi atau posisi menit waktu"
   },
   {
     "id": "mn-04-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Menanyakan nama hari dalam sepekan"
   },
   {
     "id": "mn-04-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari kedua dalam kalender sepekan"
   },
   {
     "id": "mn-04-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Musyawarah kerja atau rapat dinas"
   },
   {
     "id": "mn-04-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 04",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membuka mata dan bangkit dari tidur"
   },
   {
     "id": "mn-04-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari libur, waktu rehat kerja, atau jeda"
   },
   {
     "id": "mn-04-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 04",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Berhenti sejenak dari aktivitas, atau izin absen"
   },
   {
     "id": "mn-04-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari kelima dalam kalender sepekan"
   },
   {
     "id": "mn-04-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Lembaga keuangan perbankan tempat simpan-pinjam uang"
   },
   {
     "id": "mn-04-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari pertama dalam kalender sepekan"
   },
   {
     "id": "mn-04-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Rentang waktu dari jam 12:00 siang hingga 23:59 malam"
   },
   {
     "id": "mn-04-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Rentang waktu dari jam 00:00 tengah malam hingga 11:59 siang"
   },
   {
     "id": "mn-04-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Waktu pada saat momen pembicaraan berlangsung"
   },
   {
     "id": "mn-04-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Waktu pagi pada hari ini"
   },
   {
     "id": "mn-04-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari yang sedang berlangsung saat ini"
   },
   {
     "id": "mn-04-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Waktu malam pada hari ini (sinonim: 今夜 / こんや)"
   },
   {
     "id": "mn-04-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Satu hari sebelum hari ini (ragam formal: さくじつ)"
   },
   {
     "id": "mn-04-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tes evaluasi kemampuan belajar atau keterampilan"
   },
   {
     "id": "mn-04-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 04",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kegiatan atau waktu telah tuntas (intransitif)"
   },
   {
     "id": "mn-04-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 04",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Merebahkan tubuh untuk beristirahat tidur"
   },
   {
     "id": "mn-04-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Gedung tempat koleksi dan peminjaman buku bacaan"
   },
   {
     "id": "mn-04-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari ketiga dalam kalender sepekan"
   },
   {
     "id": "mn-04-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 04",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan simpati atas kerja keras atau kesulitan lawan bicara"
   },
   {
     "id": "mn-04-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Waktu tengah hari sekitar pukul 11:00 - 14:00"
   },
   {
     "id": "mn-04-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Jeda waktu makan siang dan istirahat kerja/sekolah"
   },
   {
     "id": "mn-04-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Waktu awal hari sebelum siang"
   },
   {
     "id": "mn-04-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari keenam dalam kalender sepekan (awal akhir pekan)"
   },
   {
     "id": "mn-04-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 04",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Melakukan pekerjaan mata pencaharian"
   },
   {
     "id": "mn-04-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari ketujuh dalam kalender sepekan (hari libur)"
   },
   {
     "id": "mn-04-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Dilekatkan setelah penunjuk jam (cth: 2時半 = pukul 2.30)"
   },
   {
     "id": "mn-04-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Waktu petang hingga malam (sinonim: よる)"
   },
   {
     "id": "mn-04-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Nomor urut, nomor telepon, atau identitas"
   },
   {
     "id": "mn-04-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Gedung pameran karya seni rupa, lukisan, dan patung"
   },
   {
     "id": "mn-04-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 04",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mempelajari ilmu pengetahuan atau keterampilan"
   },
   {
     "id": "mn-04-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Rutin setiap waktu pagi tiba"
   },
   {
     "id": "mn-04-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Rutin sepanjang hari tanpa terkecuali"
   },
   {
     "id": "mn-04-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Rutin setiap waktu malam tiba"
   },
   {
     "id": "mn-04-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Dua hari setelah hari ini (ragam formal: みょうごにち)"
   },
   {
     "id": "mn-04-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Satu hari setelah hari ini (ragam formal: みょうにち / あす)"
   },
   {
     "id": "mn-04-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari keempat dalam kalender sepekan"
   },
   {
     "id": "mn-04-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Waktu saat hari sudah gelap gulita hingga fajar"
   },
   {
     "id": "mn-04-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Lembaga pelayanan surat-menyurat dan pengiriman paket"
   },
   {
     "id": "mn-04-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Gedung pusat dinas kepolisian daerah"
   },
   {
     "id": "mn-04-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Layanan suara otomatis penunjuk waktu jam lewat telepon (nomor 117 di Jepang)"
   },
   {
     "id": "mn-04-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pos dinas pemadam kebakaran dan penyelamatan (nomor 119 di Jepang)"
   },
   {
     "id": "mn-04-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Laporan informasi prediksi cuaca dari badan meteorologi"
   },
   {
     "id": "mn-04-061",
@@ -790,6 +850,7 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Layanan bantuan pencarian nomor kontak telepon (direktori penerangan)"
   }
 ]

@@ -1,0 +1,104 @@
+定食;ていしょく;menu paket, set menu;hidangan lengkap nasi, lauk utama, sup miso, dan acar
+日替わり;ひがわり;menu spesial harian;menu hidangan restoran yang berganti setiap harinya
+大盛り;おおもり;porsi jumbo, porsi besar;takaran nasi atau mi yang dilebihkan dari porsi biasa
+おかわり自由;おかわりじゆう;bebas tambah porsi gratis;fasilitas gratis menambah nasi atau sup miso sepuasnya
+平日;へいじつ;hari kerja biasa;hari Senin sampai Jumat (bukan akhir pekan atau libur)
+〜のみ;〜のみ;hanya berlaku ..., cuma ...;pembatasan waktu atau syarat (misal 平日のみ hanya hari kerja)
+ホット;ホット;panas, hangat;kategori minuman bersuhu panas (kopi/teh panas)
+アイス;アイス;dingin dengan es;kategori minuman dingin beres batu (es kopi/es teh)
+焼き魚;やきざかな;ikan bakar, ikan panggang;ikan laut atau tawar yang dipanggang dengan garam/kecap
+ハンバーグ;ハンバーグ;hamburg steak;olahan daging cincang panggang gaya barat dengan saus cokelat
+カレーライス;カレーライス;nasi kari Jepang;nasi bersiram kuah kental kari sayur dan daging khas Jepang
+カツ丼;かつどん;katsudon;mangkuk nasi hangat ber pugasan potongan daging goreng tepung dan telur
+親子丼;おやこどん;oyakodon;mangkuk nasi hangat bertabur daging ayam dan telur rebus bumbu manis
+付く;つく;sudah termasuk, dilengkapi;paket makanan yang telah disertai pelengkap (みそ汁がつく)
+駄目[な];だめ[な];tidak bisa, tidak boleh;tidak bisa menyantap karena alergi, pantangan, atau rusak
+材料;ざいりょう;bahan-bahan makanan;komposisi bahan yang dipakai meracik makanan
+豚肉;ぶたにく;daging babi;daging ternak babi
+牛肉;ぎゅうにく;daging sapi;daging ternak sapi
+蟹;カニ / かに;hewan kepiting;hewan laut bercangkang dan bercapit
+ナッツ;ナッツ;kacang-kacangan;biji kacang konsumsi (almond, mede, kenari)
+わさび;わさび;wasabi;pasta parutan lobak hijau pedas menyengat khas Jepang
+ねぎ;ねぎ;daun bawang;bawang daun penambah aroma kuah sup
+みりん;みりん;mirin;anggur beras manis berkadar alkohol rendah untuk bumbu masak
+宗教;しゅうきょう;agama, kepercayaan;keyakinan spiritual agama (Islam, Buddha, Kristen, dll.)
+〜上;〜じょう;berdasarkan pertimbangan ...;alasan mendasar hukum atau prinsip (misal 宗教上の理由 alasan keagamaan)
+理由;りゆう;alasan, motif;penyebab di balik suatu pantangan atau pilihan
+アレルギー;アレルギー;alergi makanan;reaksi penolakan tubuh terhadap zat bahan pangan tertentu
+自転車;じてんしゃ;sepeda;kendaraan kayuh roda dua
+来る;くる;datang berkunjung;melangkah tiba di restoran
+ベジタリアン;ベジタリアン;vegetarian;orang yang hanya mengonsumsi makanan nabati tanpa daging hewani
+豆腐;とうふ;tahu jepang;olahan endapan kedelai putih bertekstur lembut
+注文する;ちゅうもんする;memesan hidangan;menyampaikan pesanan makanan ke pelayan restoran
+飲める;のめる;bisa meminum;memiliki kemampuan mengonsumsi alkohol atau cairan tertentu
+メニュー;メニュー;daftar menu;buku atau papan daftar hidangan restoran beserta harga
+食べられる;たべられる;bisa memakan, boleh mengonsumsi;mampu menyantap makanan tanpa kendala pantangan
+他の;ほかの;yang lainnya;pilihan alternatif lain di luar yang telah disebutkan
+〜抜き;〜ぬき;tanpa tambahan ...;meminta hidangan disajikan tanpa bahan tertentu (misal わさび抜き tanpa wasabi)
+そっか;そっか;oh begitu ya;ragam santai percakapan dari そうですか tanda paham
+かしこまりました;かしこまりました;baik, saya pahami;jawaban pelayan restoran yang sangat sopan menerima pesanan
+カウンター;カウンター;meja bar restoran;deretan meja memanjang di depan dapur/bar
+座敷;ざしき;ruang lesehan tatami;area bersantap lesehan beralas tikar tatami tradisional Jepang
+テーブル;テーブル;meja makan biasa;meja makan dengan kursi berkaki gaya barat
+お会計;おかいけい;pembayaran tagihan, kasir;proses melunasi tagihan bon makanan
+レジ;レジ;meja kasir, mesin kasir;tempat membayar uang di kasir restoran
+禁煙;きんえん;dilarang merokok;area bersih bebas dari asap rokok
+〜名;〜めい;... orang;penyebutan formal jumlah tamu di restoran (misal 2名 2 orang)
+当店;とうてん;restoran kami;sebutan merendah pelayan saat merujuk pada gerai restorannya sendiri
+全面;ぜんめん;secara menyeluruh;seluruh area ruangan tanpa terkecuali (全面禁煙 bebas rokok total)
+決まる;きまる;sudah mantap memutuskan;pilihan menu sudah ditentukan (お決まりですか)
+お勧め;おすすめ;menu rekomendasi;hidangan unggulan yang sangat dianjurkan pelayan
+人気がある;にんきがある;banyak digemari, populer;menu favorit yang paling sering dipesan pelanggan
+フライ;フライ;gorengan tepung renyah;aneka lauk berbalut tepung roti yang digoreng garing
+ミックスフライ;ミックスフライ;aneka gorengan campur;paket kombinasi gorengan udang, ikan, dan kroket
+量;りょう;porsi, takaran isi;banyaknya jumlah makanan yang disajikan
+普通;ふつう;porsi standar biasa;ukuran porsi takaran standar normal
+先に;さきに;terlebih dahulu;menyajikan minuman lebih dulu sebelum makanan matang
+別々;べつべつ;masing-masing terpisah;membayar tagihan makan sendiri-sendiri secara terpisah (split bill)
+クーポン;クーポン;kupon diskon;lembaran voucer potongan harga belanja
+次回;じかい;kunjungan berikutnya;kedatangan makan pada waktu mendatang
+それにします;それにします;saya pilih pesan menu yang itu;ungkapan menentukan pilihan pesanan makanan
+お会計、お願いします;おかいけい、おねがいします;minta bon pembayarannya;ucapan sopan pelanggan meminta nota tagihan ke pelayan
+別々でお願いします;べつべつでおねがいします;mohon hitung terpisah masing-masing;permintaan membayar bon sendiri-sendiri kepada kasir
+お客様;おきゃくさま;Bapak/Ibu pelanggan;panggilan sangat hormat untuk pelanggan restoran
+何名様;なんめいさま;berapa orang hadirin?;pertanyaan sangat sopan pelayan menanyakan jumlah rombongan tamu
+〜名様;〜めいさま;... orang tamu;sebutan sopan untuk jumlah tamu (misal 2名様 rombongan 2 orang)
+ご注文;ごちゅうもん;pesanan hidangan Anda;sebutan sangat sopan untuk pesanan pelanggan
+いかが;いかが;bagaimana dengan ...?;bentuk sangat sopan dari どう saat menawarkan menu
+ご一緒;ごいっしょ;secara bersamaan;membayar bon sekaligus digabung bersama rekan
+よろしいですか？;よろしいですか？;apakah sudah berkenan dan benar?;konfirmasi sopan menanyakan persetujuan pelanggan
+〜がございます;〜がございます;tersedia ..., ada ...;bentuk sangat sopan dari あります
+お決まりですか？;おきまりですか？;apakah Anda sudah memilih menu?;pertanyaan sopan pelayan menanyakan kesiapan memesan
+いかがですか？;いかがですか？;bagaimana jika mencoba menu ini?;tawaran sopan merekomendasikan hidangan
+どうなさいますか？;どうなさいますか？;bagaimana pilihan Anda?;pertanyaan sopan menanyakan ukuran porsi atau jenis minuman
+以上でよろしいですか？;いじょうでよろしいですか？;apakah pesanannya sudah cukup semua?;pertanyaan pelayan memastikan pesanan telah tuntas dicatat
+お使いください;おつかいください;silakan dipergunakan;mempersilakan tamu memakai kupon diskon
+少なめ;すくなめ;porsi agak sedikit;takaran porsi nasi yang dikurangi dari takaran standar
+食後に;しょくごに;seusai hidangan utama;penyajian kopi atau hidangan penutup setelah makan tuntas
+日にち / お日にち;ひにち / おひにち;tanggal kedatangan;tanggal kalender yang dipesan untuk reservasi
+間違い;まちがい;kekeliruan, kesalahan;kesalahan pencatatan nomor tanggal atau pesanan
+失礼しました;しつれいしました;saya mohon maaf atas kekeliruan ini;permohonan maaf sopan pelayan atas ketidaknyamanan
+お電話;おでんわ;panggilan telepon Anda;sebutan sopan untuk telepon dari pelanggan
+ご予約;ごよやく;reservasi meja Anda;pemesanan tempat makan yang diajukan pelanggan
+お時間;おじかん;waktu jam reservasi;jam kedatangan yang disepakati untuk berkunjung
+お電話番号;おでんわばんごう;nomor telepon Anda;nomor kontak pemesan meja untuk konfirmasi
+〜様;〜さま;Bapak / Ibu ...;akhiran gelar kehormatan sangat sopan di atas 〜さん
+お間違いないでしょうか？;おまちがいないでしょうか？;apakah tidak ada kekeliruan?;konfirmasi ulang rincian pesanan meja kepada pelanggan
+半額;はんがく;setengah harga, diskon 50%;pemotongan tarif biaya sebesar separuh harga normal
+有効期限;ゆうこうきげん;masa berlaku kupon;batas akhir tanggal pemakaian voucer diskon
+ドリンクバー;ドリンクバー;bar dispenser minuman;layanan mandiri isi ulang aneka minuman ringan sepuasnya
+お子様;おこさま;anak pelanggan;sebutan sopan untuk putra-putri tamu restoran
+ご注文時;ごちゅうもんじ;pada saat memesan;waktu penyerahan kupon diskon saat pemesanan menu
+本券;ほんけん;kupon voucer ini;lembar kupon bersangkutan yang sedang dipegang
+使用;しよう;penggunaan, pemakaian;mempergunakan kupon untuk memperoleh diskon
+時間帯;じかんたい;rentang kurun waktu;periode jam operasional tertentu (misal jam makan siang)
+ご提示ください;ごていじください;harap tunjukkan kepada staf;instruksi sopan memperlihatkan kupon ke kasir
+ご利用できません;ごりようできません;tidak dapat dipergunakan;kondisi kupon yang tidak berlaku pada hari tertentu
+ご飲食代;ごいんしょくだい;total tagihan makanan dan minuman;biaya santapan yang harus dilunasi pelanggan
+会計時;かいけいじ;pada saat membayar di kasir;waktu penyerahan bon di depan meja kasir
+利用可能[な];りようかのう[な];dapat dipergunakan;status kupon yang masih aktif berlaku
+〜限り;〜かぎり;hanya berlaku sebatas ...;pembatasan pemakaian (misal 1回限り hanya 1 kali pakai)
+有効[な];ゆうこう[な];sah, masih berlaku;status kupon yang valid belum kedaluwarsa
+他の;ほかの;yang lainnya;kupon atau program promosi diskon lainnya
+併用;へいよう;dipakai bersamaan;menggabungkan dua kupon sekaligus dalam satu transaksi (seringkali 併用不可)
+お見せください;おみせください;silakan perlihatkan ke staf;anjuran sopan menunjukkan layar voucer ponsel

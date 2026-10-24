@@ -10,7 +10,8 @@
     "chapter": "Bab 20",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata sambung ragam lisan akrab informal dari が (cth: 美味しいけど、高い)"
   },
   {
     "id": "mn-20-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 20",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Panggilan akrab untuk teman sebaya, bawahan, atau anak laki-laki"
   },
   {
     "id": "mn-20-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 20",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bentuk percakapan kasual santai dari あちら atau あそこ"
   },
   {
     "id": "mn-20-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 20",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bervariasi jenis dan rupa dalam ragam santai"
   },
   {
     "id": "mn-20-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 20",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jawaban negasi santai akrab (bentuk kasual dari いいえ)"
   },
   {
     "id": "mn-20-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 20",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jawaban persetujuan santai akrab (bentuk kasual dari はい)"
   },
   {
     "id": "mn-20-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 20",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi lambung sudah penuh terisi makanan (lawan dari お腹が空いた)"
   },
   {
     "id": "mn-20-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 20",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bentuk percakapan kasual santai dari こちら atau ここ"
   },
   {
     "id": "mn-20-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 20",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kosakata kalimat atau tuturan bahasa (kanji: 言葉)"
   },
   {
     "id": "mn-20-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 20",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bentuk percakapan kasual santai dari そちら atau そこ"
   },
   {
     "id": "mn-20-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 20",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bentuk percakapan kasual santai dari どちら atau どこ"
   },
   {
     "id": "mn-20-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 20",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Izin tinggal atau masuk negara dari kedutaan (visa)"
   },
   {
     "id": "mn-20-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 20",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Melakukan aktivitas secara beramai-ramai seluruh anggota"
   },
   {
     "id": "mn-20-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 20",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menawarkan bantuan atau mengajak secara santai tanpa memaksa"
   },
   {
     "id": "mn-20-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 20",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Kata ganti orang kedua akrab santai untuk teman sebaya atau yang lebih muda"
   },
   {
     "id": "mn-20-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 20",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memperbaiki mesin, mobil, atau barang elektronik yang rusak"
   },
   {
     "id": "mn-20-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 20",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bagian penutup akhir suatu acara, film, atau buku,  lawan dari 始め"
   },
   {
     "id": "mn-20-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 20",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bagian awal dimulainya suatu kegiatan,  lawan dari 終わり"
   },
   {
     "id": "mn-20-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 20",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Pakaian tradisional jubah sutra khas Jepang yang diikat dengan sabuk obi"
   },
   {
     "id": "mn-20-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 20",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mencari arti kata di kamus, mengecek jadwal, atau menginvestigasi"
   },
   {
     "id": "mn-20-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 20",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Kata ganti orang pertama informal ramah untuk laki-laki (di bawah わたし, di atas おれ)"
   },
   {
     "id": "mn-20-022",
@@ -283,6 +304,7 @@
     "chapter": "Bab 20",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menyatakan perlunya suatu hal (benda yang dibutuhkan ditandai が: ビザが要る)"
   }
 ]

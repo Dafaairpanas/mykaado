@@ -1,0 +1,74 @@
+髪;かみ;rambut kepala;rambut yang tumbuh di kepala
+髪が長い;かみがながい;berambut panjang;memiliki helaian rambut panjang terurai
+髪が短い;かみがみじかい;berambut pendek;memiliki potongan rambut pendek ringkas
+背;せ;tinggi badan, postur tubuh;ukuran tinggi badan manusia (bukan punggung 背中)
+背が高い;せがたかい;berbadan jangkung, tinggi;memiliki perawakan tubuh yang tinggi
+座る;すわる;duduk;menempelkan pantat di kursi atau lantai
+立つ;たつ;berdiri;bangkit tegak di atas kedua kaki
+被る;かぶる;memakai di kepala;khusus mengenakan penutup kepala (帽子をかぶる)
+ピアス;ピアス;anting tindik;perhiasan telinga yang ditusukkan ke lubang tindik
+する;する;mengenakan aksesori perhiasan;memakai anting, jam tangan, dasi, atau syal (ピアスをする)
+ワンピース;ワンピース;gaun terusan, dress;pakaian wanita terusan satu potong dari atas ke bawah
+着る;きる;memakai pakaian atasan;khusus baju penutup tubuh bagian atas (シャツ・服を着る)
+履く;はく;memakai di bagian bawah;khusus celana, rok, kaus kaki, dan sepatu (ズボン・靴を履く)
+眼鏡;めがね;kacamata;lensa berbingkai alat bantu penglihatan
+掛ける;かける;mengenakan kacamata;khusus memasang kacamata di mata (眼鏡をかける)
+髭;ひげ;kumis, jenggot;rambut yang tumbuh di sekitar mulut dan dagu pria
+生やす;はやす;menumbuhkan kumis/jenggot;membiarkan bulu kumis atau jenggot tumbuh lebat (髭を生やす)
+シャツ;シャツ;kemeja berkerah;baju atasan berkancing depan
+ズボン;ズボン;celana panjang;pakaian penutup pinggang hingga mata kaki
+赤い;あかい;merah;warna merah cerah
+白い;しろい;putih;warna putih bersih
+黄色い;きいろい;kuning;warna kuning cerah
+青い;あおい;biru;warna biru laut atau langit
+黒い;くろい;hitam;warna hitam gelap
+男の人;おとこのひと;pria, laki-laki;orang yang berjenis kelamin pria
+ジャンパー;ジャンパー;jaket kasual, jumper;jaket luar kasual pelindung angin
+ほら;ほら;lihatlah!, tuh kan!;seruan mengajak lawan bicara melihat atau mengingat sesuatu
+優しい;やさしい;ramah, baik hati;sikap kepribadian lembut, hangat, dan tidak kasar
+厳しい;きびしい;disiplin tegas, ketat;sikap mendidik yang tegas tanpa kompromi
+怖い;こわい;menakutkan, galak;raut wajah atau pembawaan yang seram menakutkan
+忙しい;いそがしい;sibuk;padat urusan dan pekerjaan
+真面目[な];まじめ[な];rajin, jujur, sungguh-sungguh;pribadi yang lurus, disiplin, dan bertanggung jawab
+元気[な];げんき[な];sehat bugar, berenergi;kondisi tubuh prima dan berjiwa riang
+恋人;こいびと;kekasih, pacar;pasangan yang menjalin hubungan asmara
+孫;まご;cucu;anak dari putra atau putri kandung
+この間;このあいだ;tempo hari, kemarin lusa;waktu yang baru saja berselang beberapa hari lalu
+赤ちゃん;あかちゃん;bayi;anak kecil yang baru lahir
+泣く;なく;menangis;mengeluarkan air mata saat sedih atau kesakitan
+今度;こんど;kali ini, waktu mendatang;kesempatan berikutnya atau giliran kali ini
+見た目;みため;penampilan luar, impresi visual;kesan visual rupa fisik tampak luar seseorang
+遅くまで;おそくまで;hingga larut malam;melakukan aktivitas lembur hingga larut malam
+心配[な];しんぱい[な];khawatir, cemas;perasaan resah memikirkan keselamatan orang lain
+かっこいい;かっこいい;keren, gagah;penampilan atau gaya yang sangat tampan dan menawan
+歌;うた;lagu, nyanyian;karya melodi vokal
+演技;えんぎ;akting sandiwara, lakon peran;kemampuan memerankan karakter dalam film atau teater
+ダンス;ダンス;tarian, berjoget;gerakan tubuh berirama diiringi irama musik
+上手[な];じょうず[な];mahir, lihai;terampil dan cakap dalam suatu bidang keahlian
+歌手;かしゅ;penyanyi profesional;profesi artis pelantun lagu
+誰か;だれか;seseorang, ada orang;merujuk pada seseorang yang belum diketahui identitas pastinya
+引退する;いんたいする;pensiun dari panggung;mengundurkan diri resmi dari panggung karier profesional
+今でも;いまでも;bahkan hingga kini;keadaan yang masih tetap berlanjut sejak masa lampau
+俳優;はいゆう;aktor, pemeran;profesi pemain seni peran dalam film atau drama
+そんな;そんな;seperti itu;menunjukkan sifat atau perkara seperti hal tersebut
+きっかけ;きっかけ;faktor pemicu, awal mula;momen permulaan yang memicu seseorang menyukai suatu hal
+映画祭;えいがさい;festival film;ajang festival pemutaran dan penganugerahan karya film
+世界中;せかいじゅう;seluruh dunia;seluruh penjuru muka bumi
+ファン;ファン;penggemar, fan;orang yang sangat mengagumi idola atau karya seni
+安室奈美恵;あむろなみえ;Namie Amuro;penyanyi diva pop legendaris asal Okinawa Jepang
+三船敏郎;みふねとしろう;Toshiro Mifune;aktor legendaris Jepang pemeran utama film-film Akira Kurosawa
+七人の侍;しちにんのさむらい;Seven Samurai;film mahakarya samurai legendaris karya sutradara Akira Kurosawa
+まず;まず;pertama-tama;langkah paling awal sebelum melakukan hal berikutnya
+金色;きんいろ;warna keemasan;warna kuning berkilau seperti emas mulia
+驚く;おどろく;terkejut, takjub;reaksi kaget atau takjub menyaksikan hal luar biasa
+明るい;あかるい;ceria ramah, terang;kepribadian riang hangat atau suasana ruangan banyak cahaya
+びっくりする;びっくりする;terperanjat, kaget mendadak;reaksi spontan kaget atas kejadian yang tiba-tiba
+ハイキング;ハイキング;hiking, jalan lintas alam;kegiatan rekreasi berjalan kaki di perbukitan alam
+できれば;できれば;jika memungkinkan;permohonan santun tanpa unsur memaksa
+シリーズ;シリーズ;seri bersambung;rangkaian karya tayangan atau artikel bertema sama
+お隣さん;おとなりさん;tetangga sebelah;warga yang tinggal di rumah persis samping kediaman
+簡単に;かんたんに;dengan mudah, secara sederhana;mampu menyelesaikan sesuatu tanpa kendala rumit
+ヤンゴン;ヤンゴン;Yangon;kota terbesar dan pusat bisnis negara Myanmar
+パゴダ;パゴダ;pagoda stupa;menara kuil suci bertingkat khas agama Buddha
+増える;ふえる;bertambah banyak (intransitif);kuantitas jumlah yang kian meningkat (外国人が増える)
+交流協会;こうりゅうきょうかい;asosiasi persahabatan antarbangsa;lembaga nirlaba penjembatan pertukaran budaya antarmasyarakat

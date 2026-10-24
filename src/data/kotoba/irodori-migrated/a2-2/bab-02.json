@@ -11,7 +11,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "rambut yang tumbuh di kepala"
   },
   {
     "id": "ir-a2-2-02-002",
@@ -25,7 +26,8 @@
     "chapter": "Bab 02",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "memiliki helaian rambut panjang terurai"
   },
   {
     "id": "ir-a2-2-02-003",
@@ -39,7 +41,8 @@
     "chapter": "Bab 02",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "memiliki potongan rambut pendek ringkas"
   },
   {
     "id": "ir-a2-2-02-004",
@@ -53,7 +56,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "ukuran tinggi badan manusia (bukan punggung 背中)"
   },
   {
     "id": "ir-a2-2-02-005",
@@ -67,7 +71,8 @@
     "chapter": "Bab 02",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "memiliki perawakan tubuh yang tinggi"
   },
   {
     "id": "ir-a2-2-02-006",
@@ -81,7 +86,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menempelkan pantat di kursi atau lantai"
   },
   {
     "id": "ir-a2-2-02-007",
@@ -95,7 +101,8 @@
     "chapter": "Bab 02",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "bangkit tegak di atas kedua kaki"
   },
   {
     "id": "ir-a2-2-02-008",
@@ -109,7 +116,8 @@
     "chapter": "Bab 02",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "khusus mengenakan penutup kepala (帽子をかぶる)"
   },
   {
     "id": "ir-a2-2-02-009",
@@ -123,7 +131,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perhiasan telinga yang ditusukkan ke lubang tindik"
   },
   {
     "id": "ir-a2-2-02-010",
@@ -137,7 +146,8 @@
     "chapter": "Bab 02",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "perhiasan telinga yang ditusukkan ke lubang tindik"
   },
   {
     "id": "ir-a2-2-02-011",
@@ -151,7 +161,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "pakaian wanita terusan satu potong dari atas ke bawah"
   },
   {
     "id": "ir-a2-2-02-012",
@@ -165,7 +176,8 @@
     "chapter": "Bab 02",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "khusus baju penutup tubuh bagian atas (シャツ・服を着る)"
   },
   {
     "id": "ir-a2-2-02-013",
@@ -179,7 +191,8 @@
     "chapter": "Bab 02",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "khusus celana, rok, kaus kaki, dan sepatu (ズボン・靴を履く)"
   },
   {
     "id": "ir-a2-2-02-014",
@@ -193,7 +206,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "lensa berbingkai alat bantu penglihatan"
   },
   {
     "id": "ir-a2-2-02-015",
@@ -207,7 +221,8 @@
     "chapter": "Bab 02",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "lensa berbingkai alat bantu penglihatan"
   },
   {
     "id": "ir-a2-2-02-016",
@@ -221,7 +236,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "rambut yang tumbuh di sekitar mulut dan dagu pria"
   },
   {
     "id": "ir-a2-2-02-017",
@@ -235,7 +251,8 @@
     "chapter": "Bab 02",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "rambut yang tumbuh di sekitar mulut dan dagu pria"
   },
   {
     "id": "ir-a2-2-02-018",
@@ -249,7 +266,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "baju atasan berkancing depan"
   },
   {
     "id": "ir-a2-2-02-019",
@@ -263,7 +281,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "pakaian penutup pinggang hingga mata kaki"
   },
   {
     "id": "ir-a2-2-02-020",
@@ -277,7 +296,8 @@
     "chapter": "Bab 02",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "warna merah cerah"
   },
   {
     "id": "ir-a2-2-02-021",
@@ -291,7 +311,8 @@
     "chapter": "Bab 02",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "warna putih bersih"
   },
   {
     "id": "ir-a2-2-02-022",
@@ -305,7 +326,8 @@
     "chapter": "Bab 02",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "warna kuning cerah"
   },
   {
     "id": "ir-a2-2-02-023",
@@ -319,7 +341,8 @@
     "chapter": "Bab 02",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "warna biru laut atau langit"
   },
   {
     "id": "ir-a2-2-02-024",
@@ -333,7 +356,8 @@
     "chapter": "Bab 02",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "warna hitam gelap"
   },
   {
     "id": "ir-a2-2-02-025",
@@ -347,7 +371,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "orang yang berjenis kelamin pria"
   },
   {
     "id": "ir-a2-2-02-026",
@@ -361,7 +386,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jaket luar kasual pelindung angin"
   },
   {
     "id": "ir-a2-2-02-027",
@@ -375,7 +401,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "seruan mengajak lawan bicara melihat atau mengingat sesuatu"
   },
   {
     "id": "ir-a2-2-02-028",
@@ -389,7 +416,8 @@
     "chapter": "Bab 02",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sikap kepribadian lembut, hangat, dan tidak kasar"
   },
   {
     "id": "ir-a2-2-02-029",
@@ -403,7 +431,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sikap mendidik yang tegas tanpa kompromi"
   },
   {
     "id": "ir-a2-2-02-030",
@@ -417,7 +446,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "raut wajah atau pembawaan yang seram menakutkan"
   },
   {
     "id": "ir-a2-2-02-031",
@@ -431,7 +461,8 @@
     "chapter": "Bab 02",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "padat urusan dan pekerjaan"
   },
   {
     "id": "ir-a2-2-02-032",
@@ -445,7 +476,8 @@
     "chapter": "Bab 02",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pribadi yang lurus, disiplin, dan bertanggung jawab"
   },
   {
     "id": "ir-a2-2-02-033",
@@ -459,7 +491,8 @@
     "chapter": "Bab 02",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kondisi tubuh prima dan berjiwa riang"
   },
   {
     "id": "ir-a2-2-02-034",
@@ -473,7 +506,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "pasangan yang menjalin hubungan asmara"
   },
   {
     "id": "ir-a2-2-02-035",
@@ -487,7 +521,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "anak dari putra atau putri kandung"
   },
   {
     "id": "ir-a2-2-02-036",
@@ -501,7 +536,8 @@
     "chapter": "Bab 02",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "waktu yang baru saja berselang beberapa hari lalu"
   },
   {
     "id": "ir-a2-2-02-037",
@@ -515,7 +551,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "anak kecil yang baru lahir"
   },
   {
     "id": "ir-a2-2-02-038",
@@ -529,7 +566,8 @@
     "chapter": "Bab 02",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengeluarkan air mata saat sedih atau kesakitan"
   },
   {
     "id": "ir-a2-2-02-039",
@@ -543,7 +581,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kesempatan berikutnya atau giliran kali ini"
   },
   {
     "id": "ir-a2-2-02-040",
@@ -557,7 +596,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kesan visual rupa fisik tampak luar seseorang"
   },
   {
     "id": "ir-a2-2-02-041",
@@ -571,7 +611,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "melakukan aktivitas lembur hingga larut malam"
   },
   {
     "id": "ir-a2-2-02-042",
@@ -585,7 +626,8 @@
     "chapter": "Bab 02",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perasaan resah memikirkan keselamatan orang lain"
   },
   {
     "id": "ir-a2-2-02-043",
@@ -599,7 +641,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "penampilan atau gaya yang sangat tampan dan menawan"
   },
   {
     "id": "ir-a2-2-02-044",
@@ -613,7 +656,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "karya melodi vokal"
   },
   {
     "id": "ir-a2-2-02-045",
@@ -627,7 +671,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kemampuan memerankan karakter dalam film atau teater"
   },
   {
     "id": "ir-a2-2-02-046",
@@ -641,7 +686,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gerakan tubuh berirama diiringi irama musik"
   },
   {
     "id": "ir-a2-2-02-047",
@@ -655,7 +701,8 @@
     "chapter": "Bab 02",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "terampil dan cakap dalam suatu bidang keahlian"
   },
   {
     "id": "ir-a2-2-02-048",
@@ -669,7 +716,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "profesi artis pelantun lagu"
   },
   {
     "id": "ir-a2-2-02-049",
@@ -683,7 +731,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "merujuk pada seseorang yang belum diketahui identitas pastinya"
   },
   {
     "id": "ir-a2-2-02-050",
@@ -697,7 +746,8 @@
     "chapter": "Bab 02",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengundurkan diri resmi dari panggung karier profesional"
   },
   {
     "id": "ir-a2-2-02-051",
@@ -711,7 +761,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "keadaan yang masih tetap berlanjut sejak masa lampau"
   },
   {
     "id": "ir-a2-2-02-052",
@@ -725,7 +776,8 @@
     "chapter": "Bab 02",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "profesi pemain seni peran dalam film atau drama"
   },
   {
     "id": "ir-a2-2-02-053",
@@ -739,7 +791,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menunjukkan sifat atau perkara seperti hal tersebut"
   },
   {
     "id": "ir-a2-2-02-054",
@@ -753,7 +806,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "momen permulaan yang memicu seseorang menyukai suatu hal"
   },
   {
     "id": "ir-a2-2-02-055",
@@ -767,7 +821,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ajang festival pemutaran dan penganugerahan karya film"
   },
   {
     "id": "ir-a2-2-02-056",
@@ -781,7 +836,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "seluruh penjuru muka bumi"
   },
   {
     "id": "ir-a2-2-02-057",
@@ -795,7 +851,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "orang yang sangat mengagumi idola atau karya seni"
   },
   {
     "id": "ir-a2-2-02-058",
@@ -809,7 +866,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "penyanyi diva pop legendaris asal Okinawa Jepang"
   },
   {
     "id": "ir-a2-2-02-059",
@@ -823,7 +881,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "aktor legendaris Jepang pemeran utama film-film Akira Kurosawa"
   },
   {
     "id": "ir-a2-2-02-060",
@@ -837,7 +896,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "film mahakarya samurai legendaris karya sutradara Akira Kurosawa"
   },
   {
     "id": "ir-a2-2-02-061",
@@ -851,7 +911,8 @@
     "chapter": "Bab 02",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "langkah paling awal sebelum melakukan hal berikutnya"
   },
   {
     "id": "ir-a2-2-02-062",
@@ -865,7 +926,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "warna kuning berkilau seperti emas mulia"
   },
   {
     "id": "ir-a2-2-02-063",
@@ -879,7 +941,8 @@
     "chapter": "Bab 02",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "reaksi kaget atau takjub menyaksikan hal luar biasa"
   },
   {
     "id": "ir-a2-2-02-064",
@@ -893,7 +956,8 @@
     "chapter": "Bab 02",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kepribadian riang hangat atau suasana ruangan banyak cahaya"
   },
   {
     "id": "ir-a2-2-02-065",
@@ -907,7 +971,8 @@
     "chapter": "Bab 02",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "reaksi spontan kaget atas kejadian yang tiba-tiba"
   },
   {
     "id": "ir-a2-2-02-066",
@@ -921,7 +986,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kegiatan rekreasi berjalan kaki di perbukitan alam"
   },
   {
     "id": "ir-a2-2-02-067",
@@ -935,7 +1001,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "permohonan santun tanpa unsur memaksa"
   },
   {
     "id": "ir-a2-2-02-068",
@@ -949,7 +1016,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "rangkaian karya tayangan atau artikel bertema sama"
   },
   {
     "id": "ir-a2-2-02-069",
@@ -963,7 +1031,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "warga yang tinggal di rumah persis samping kediaman"
   },
   {
     "id": "ir-a2-2-02-070",
@@ -977,7 +1046,8 @@
     "chapter": "Bab 02",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "mampu menyelesaikan sesuatu tanpa kendala rumit"
   },
   {
     "id": "ir-a2-2-02-071",
@@ -991,7 +1061,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kota terbesar dan pusat bisnis negara Myanmar"
   },
   {
     "id": "ir-a2-2-02-072",
@@ -1005,7 +1076,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menara kuil suci bertingkat khas agama Buddha"
   },
   {
     "id": "ir-a2-2-02-073",
@@ -1019,7 +1091,8 @@
     "chapter": "Bab 02",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "kuantitas jumlah yang kian meningkat (外国人が増える)"
   },
   {
     "id": "ir-a2-2-02-074",
@@ -1033,6 +1106,7 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "lembaga nirlaba penjembatan pertukaran budaya antarmasyarakat"
   }
 ]

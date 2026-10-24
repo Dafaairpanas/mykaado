@@ -1,0 +1,94 @@
+ハンバーガー;ハンバーガー;burger
+～バーガー（ダブルバーガー）;～バーガー（ダブルバーガー）;burger ～ (contoh : burger dobel)
+ダブル;ダブル;dobel
+チーズ;チーズ;keju
+てりやき;てりやき;teriyaki
+チキン;チキン;ayam
+フィッシュ;フィッシュ;ikan
+単品;たんぴん;menu satuan
+セット;セット;menu set, menu paket
+フライドポテト;フライドポテト;kentang goreng
+S;エス;small (menu ukuran kecil)
+M;エム;medium (menu ukuran sedang)
+L;エル;large (menu ukuran besar)
+デザート;デザート;hidangan penutup, pencuci mulut
+アイスクリーム;アイスクリーム;es krim
+アップルパイ;アップルパイ;pai apel
+ドリンク;ドリンク;minuman
+ホットコーヒー;ホットコーヒー;kopi panas
+アイスコーヒー;アイスコーヒー;es kopi
+ウーロン茶;ウーロンちゃ;teh oolong
+コカコーラ;コカコーラ;Coca-Cola
+サイズ;サイズ;ukuran
+～ください;～ください;Saya pesan/ minta ～.
+テイクアウトで;テイクアウトで;takeout, untuk dibawa pulang
+ここで;ここで;makan di tempat
+いらっしゃいませ;いらっしゃいませ;Selamat datang.
+おうかがいします;おうかがいします;Mau pesan apa? (ragam hormat)
+こちらでおめしあがりですか？;こちらでおめしあがりですか？;Apa Anda ingin makan di tempat? (ragam hormat)
+お持ち帰りですね;おもちかえりですね;Pesanannya untuk dibawa pulang, ya. (ragam hormat)
+何になさいますか？;なにになさいますか？;Anda mau pesan apa? (ragam hormat)
+～にします;～にします;Saya pilih ～.
+うーん;うーん;Hmm... (pembicara sedang mempertimbangkan sesuatu yang agak membingungkan)
+ここ、いいですか？;ここ、いいですか？;Bolehkah saya duduk di sini?
+どうですか？;どうですか？;Bagaimana (rasanya)?
+おいしいです;おいしいです;(Rasanya) enak.
+刺身;さしみ;sashimi (irisan ikan mentah)
+唐揚げ;からあげ;karage
+焼き鳥／焼鳥;やきとり;yakitori (sate ayam ala Jepang)
+枝豆;えだまめ;edamame (kacang kedelai muda yang masih berada dalam polong)
+生ビール;なまビール;draft beer
+メニュー;メニュー;menu
+お魚;おさかな;ikan
+盛り合わせ;もりあわせ;kombinasi
+～点盛（7点盛）;～てんもり（ななてんもり）;kombinasi ～ jenis makanan (kombinasi 7 jenis makanan)
+焼魚;やきざかな;ikan bakar
+お肉;おにく;daging
+とり;とり;ayam
+サイコロステーキ;サイコロステーキ;saikoro steak (steak berbentuk dadu)
+特製つくね;とくせいつくね;tsukune (bakso ayam) spesial
+馬刺;ばさし;basashi (sashimi daging kuda)
+おつまみ;おつまみ;makanan pendamping minuman beralkohol
+冷奴;ひややっこ;tahu sutra dingin
+冷やしトマト;ひやしトマト;tomat dingin
+たこわさ;たこわさ;takowasa (gurita mentah yang dibumbui wasabi)
+しおから;しおから;shiokara (seafood yang difermentasi)
+日本酒;にほんしゅ;sake (arak Jepang yang dibuat dari beras)
+焼酎;しょうちゅう;shochu (minuman beralkohol hasil penyulingan)
+酎ハイ;ちゅうハイ;chu-hai/ chu-hi (minuman beralkohol yang dicampur dengan soda)
+レモンハイ;レモンハイ;chu-hi rasa lemon
+ウーロンハイ;ウーロンハイ;chu-hi rasa teh oolong
+緑茶ハイ;りょくちゃハイ;chu-hi rasa teh hijau
+カルピスハイ;カルピスハイ;chu-hi rasa calpico (susu fermentasi)
+ソフトドリンク;ソフトドリンク;minuman ringan (tidak beralkohol)
+緑茶;りょくちゃ;teh hijau
+カルピス;カルピス;Calpico (minuman susu fermentasi)
+お問い合わせください;おといあわせください;Mohon tanyakan ketersediaan. (ragam hormat)
+あと;あと;selain itu, juga
+マヨネーズ;マヨネーズ;mayones
+ある／あります;ある／あります;ada (tersedia)
+すみません;すみません;Maaf, Permisi. (Ungkapan ketika akan memulai pembicaraan dengan seseorang)
+お待ちします;おまちします;Akan saya bawakan. (Ragam hormat yang digunakan pegawai toko atau pelayan restoran)
+1つ;ひとつ;satu (untuk benda)
+2つ;ふたつ;dua (untuk benda)
+3つ;みっつ;tiga (untuk benda)
+4つ;よっつ;empat (untuk benda)
+5つ;いつつ;lima (untuk benda)
+6つ;むっつ;enam (untuk benda)
+7つ;ななつ;tujuh (untuk benda)
+8つ;やっつ;delapan (untuk benda)
+9つ;ここのつ;sembilan (untuk benda)
+いくつ;いくつ;berapa (menanyakan jumlah benda)
+ケチャップ;ケチャップ;saus tomat
+スプーン;スプーン;sendok
+おしぼり;おしぼり;handuk basah untuk tangan
+取り皿;とりざら;piring kecil, piring makan
+グラス;グラス;gelas
+はし／おはし;はし／おはし;sumpit
+居酒屋;いざかや;izakaya (kedai minum khas Jepang)
+すし;すし;sushi
+そば;そば;mi soba
+うどん;うどん;mi udon
+ラーメン;ラーメン;ramen (mi kuah khas Jepang)
+カレー;カレー;kari
+牛丼;ぎゅうどん;nasi daging sapi (beef bowl)

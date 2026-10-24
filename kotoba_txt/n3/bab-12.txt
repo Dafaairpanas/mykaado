@@ -1,0 +1,27 @@
+用事を済ませましょう;ようじをすませましょう;menyelesaikan urusan
+サイン;さいん;tanda tangan
+硬貨;こうか;uang logam
+紙幣／お札;しへい／おさつ;uang kertas
+百円玉;ひゃくえんだま;uang 100 yen
+通帳;かよいちょう;buku tabungan
+キャッシュカード;きゃっしゅかあど;kartu ATM
+はんこ／印鑑;はんこ／いんかん;stempel (pengganti tanda tangan)
+お金をためる／貯金する;おかねをためる／ちょきんする;mengumpulkan uang, menabung
+預金する (銀行にお金を預ける);よきんする （ぎんこうにおかねをあづける）;menitipkan uang di bank
+給料を引き出す／下ろす;きゅうりょうをひきだす／おろす;mengambil gaji
+通帳記入をする (通帳に記入する);かよいちょうきにゅうをする （かよいちょうにきにゅうする）;mengisi buku tabungan (print buku tabungan)
+暗証番号;あんしょうばんごう;nomor PIN
+銀行の本店;ぎんこうのほんてん;kantor pusat bank
+口座を開く;こうざをひらく;membuka rekening
+家賃を振り込む;やちんをふりこむ;mentransfer biaya sewa properti
+公共料金を支払う;こうきょうりょうきんをしはらう;membayar tagihan utilitas (tagihan bulanan)
+公共料金＝電気代、ガス代、水道代、電話代など;こうきょうりょうきん＝でんきだい、がすだい、すいどうだい、でんわだいなど;tagihan utilitas = listrik, gas, air, telepon, dll.
+商品の代金を払う;しょうひんのだいきんをはらう;membayar biaya produk
+窓口で両替をする;まどぐちでりょうがえをする;menukar mata uang di konter
+送金する;そうきんする;mengirim uang
+仕送りする;しおくりする;mengirim uang untuk orang tua
+手数料がかかる;てすうりょうがかかる;terkena biaya administrasi
+あて名;あてな;alamat tujuan
+差出人名;さしだしにんめい;nama pengirim
+手紙を速達で出す;てがみをそくたつでだす;mengirim surat kilat
+送料がかかる;そうりょうがかかる;terkena biaya pengiriman

@@ -10,7 +10,8 @@
     "chapter": "Bab 05",
     "type": "counter",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Nama bulan dalam kalender (cth: 1月 = Januari, 4月 = しがつ)"
   },
   {
     "id": "mn-05-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 05",
     "type": "counter",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Penunjuk tanggal kalender atau durasi jumlah hari"
   },
   {
     "id": "mn-05-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 05",
     "type": "counter",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Penunjuk angka tahun Masehi (cth: 2026年)"
   },
   {
     "id": "mn-05-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 05",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Nomor jalur rel/peron kereta api di stasiun"
   },
   {
     "id": "mn-05-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Kata tanya waktu tanpa partikel に"
   },
   {
     "id": "mn-05-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Toko swalayan bahan makanan (kependekan スーパーマーケット)"
   },
   {
     "id": "mn-05-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 05",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyetujui pendapat lawan bicara, atau jeda berpikir sejenak"
   },
   {
     "id": "mn-05-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Mobil angkutan umum berargo (taxi)"
   },
   {
     "id": "mn-05-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 05",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Balasan santun atas ucapan terima kasih"
   },
   {
     "id": "mn-05-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kendaraan umum angkutan jalan raya"
   },
   {
     "id": "mn-05-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 05",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melakukan aktivitas tanpa ditemani orang lain"
   },
   {
     "id": "mn-05-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Tanggal pertama awal bulan (kalau durasi 1 hari = いちにち)"
   },
   {
     "id": "mn-05-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Stasiun perhentian kereta api"
   },
   {
     "id": "mn-05-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Menanyakan urutan bulan dalam kalender"
   },
   {
     "id": "mn-05-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Menanyakan tanggal kalender atau total durasi hari"
   },
   {
     "id": "mn-05-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Menanyakan angka tahun"
   },
   {
     "id": "mn-05-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Anggota keluarga sendiri (keluarga orang lain: ご家族)"
   },
   {
     "id": "mn-05-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Lembaga institusi pendidikan"
   },
   {
     "id": "mn-05-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 05",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kembali ke tempat asal (rumah, daerah, atau negara asal)"
   },
   {
     "id": "mn-05-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kereta cepat yang hanya berhenti di stasiun-stasiun besar tertentu"
   },
   {
     "id": "mn-05-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 05",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tahun sebelum tahun ini (ragam formal: さくねん)"
   },
   {
     "id": "mn-05-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Penanggalan khusus tanggal sembilan atau durasi sembilan hari"
   },
   {
     "id": "mn-05-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Penanggalan khusus tanggal lima atau durasi lima hari"
   },
   {
     "id": "mn-05-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 05",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Bergerak menuju ke tempat tujuan"
   },
   {
     "id": "mn-05-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Bulan yang sedang berjalan saat ini"
   },
   {
     "id": "mn-05-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Pekan yang sedang berjalan saat ini"
   },
   {
     "id": "mn-05-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Tahun yang sedang berjalan saat ini (ragam formal: こんねん)"
   },
   {
     "id": "mn-05-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Penanggalan khusus tanggal tiga atau durasi tiga hari"
   },
   {
     "id": "mn-05-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Penanggalan khusus tanggal empat atau durasi empat hari"
   },
   {
     "id": "mn-05-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menunjuk giliran atau urutan setelah ini"
   },
   {
     "id": "mn-05-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kendaraan kayuh roda dua (sehari-hari disingkat チャリ)"
   },
   {
     "id": "mn-05-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Penanggalan khusus tanggal tujuh atau durasi tujuh hari"
   },
   {
     "id": "mn-05-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Penanggalan khusus tanggal empat belas atau durasi 14 hari"
   },
   {
     "id": "mn-05-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Penanggalan khusus tanggal sepuluh atau durasi sepuluh hari"
   },
   {
     "id": "mn-05-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kereta peluru berkecepatan tinggi khas Jepang"
   },
   {
     "id": "mn-05-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Individu manusia (digabung negara cth: 日本人 = orang Jepang)"
   },
   {
     "id": "mn-05-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 05",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Satu bulan sebelum bulan ini"
   },
   {
     "id": "mn-05-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 05",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Satu pekan sebelum pekan ini"
   },
   {
     "id": "mn-05-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Transportasi laut atau perairan"
   },
   {
     "id": "mn-05-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari kelahiran seseorang (sopan: お誕生日)"
   },
   {
     "id": "mn-05-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Jaringan kereta api di terowongan bawah tanah (subway)"
   },
   {
     "id": "mn-05-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kereta api penumpang bertenaga listrik"
   },
   {
     "id": "mn-05-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kereta ekspres khusus dengan biaya tambahan dan laju sangat cepat"
   },
   {
     "id": "mn-05-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Penanggalan khusus tanggal dua puluh empat atau durasi 24 hari"
   },
   {
     "id": "mn-05-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Penanggalan khusus tanggal dua puluh atau durasi dua puluh hari"
   },
   {
     "id": "mn-05-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Penanggalan khusus tanggal dua atau durasi dua hari"
   },
   {
     "id": "mn-05-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Penanggalan khusus tanggal delapan atau durasi delapan hari"
   },
   {
     "id": "mn-05-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Kata ganti pria, atau kekasih laki-laki (彼氏 / かれし)"
   },
   {
     "id": "mn-05-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Kata ganti wanita, atau kekasih wanita"
   },
   {
     "id": "mn-05-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Transportasi moda penerbangan udara"
   },
   {
     "id": "mn-05-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Umum/standar,  konteks kereta: kereta lokal berhenti di tiap stasiun"
   },
   {
     "id": "mn-05-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 05",
     "type": "adv",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Pergi tanpa kendaraan melainkan melangkah kaki"
   },
   {
     "id": "mn-05-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Sahabat atau kawan sebaya"
   },
   {
     "id": "mn-05-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 05",
     "type": "v3",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Bergerak mendekat ke tempat pembicara berada"
   },
   {
     "id": "mn-05-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Satu bulan setelah bulan ini"
   },
   {
     "id": "mn-05-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Satu pekan setelah pekan ini"
   },
   {
     "id": "mn-05-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Satu tahun setelah tahun ini"
   },
   {
     "id": "mn-05-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Penanggalan khusus tanggal enam atau durasi enam hari"
   },
   {
     "id": "mn-05-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Hari libur nasional Jepang untuk merayakan anak (5 Mei)"
   },
   {
     "id": "mn-05-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari libur nasional Jepang menghargai alam dan tumbuhan (4 Mei)"
   },
   {
     "id": "mn-05-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari libur nasional Jepang bersyukur atas berkah laut (Senin ketiga Juli)"
   },
   {
     "id": "mn-05-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari libur nasional Jepang menghargai kaum pekerja (23 November)"
   },
   {
     "id": "mn-05-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Hari libur nasional Jepang menghormati lansia (Senin ketiga September)"
   },
   {
     "id": "mn-05-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari libur nasional peringatan berdirinya negara Jepang (11 Februari)"
   },
   {
     "id": "mn-05-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari libur peringatan UUD Konstitusi Jepang (3 Mei)"
   },
   {
     "id": "mn-05-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Tanggal 1 Januari sebagai awal hari dalam tahun baru"
   },
   {
     "id": "mn-05-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari libur nasional Jepang menghargai keindahan gunung (11 Agustus)"
   },
   {
     "id": "mn-05-068",
@@ -881,7 +948,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari libur nasional saat durasi siang dan malam sama (sekitar 23 September)"
   },
   {
     "id": "mn-05-069",
@@ -894,7 +962,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari libur resmi perayaan kenegaraan di Jepang"
   },
   {
     "id": "mn-05-070",
@@ -907,7 +976,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari libur nasional menyambut pergantian musim semi (sekitar 20 Maret)"
   },
   {
     "id": "mn-05-071",
@@ -920,7 +990,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari libur nasional mengenang era Kaisar Showa (29 April)"
   },
   {
     "id": "mn-05-072",
@@ -933,7 +1004,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Upacara perayaan usia 20 tahun menjadi dewasa (Senin kedua Januari)"
   },
   {
     "id": "mn-05-073",
@@ -946,7 +1018,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari libur nasional mempromosikan olahraga (sekarang disebut スポーツの日)"
   },
   {
     "id": "mn-05-074",
@@ -959,7 +1032,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari libur nasional perayaan hari kelahiran kaisar yang bertakhta"
   },
   {
     "id": "mn-05-075",
@@ -972,6 +1046,7 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari libur nasional memajukan seni dan ilmu pengetahuan (3 November)"
   }
 ]

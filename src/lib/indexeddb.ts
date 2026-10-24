@@ -20,15 +20,17 @@ export const appDb = new AppDatabase();
 
 let syncPromise: Promise<void> | null = null;
 
+const CURRENT_DATA_VERSION = "v2_data4";
+
 // Call this on app load or when internet is available
-export async function syncAllData() {
+export async function syncAllData(force = false) {
   if (syncPromise) return syncPromise;
 
   syncPromise = (async () => {
     try {
-      // Check if we already have data
+      const savedVersion = localStorage.getItem('mykaado_data_version');
       const count = await appDb.chapters.count();
-      if (count > 0) {
+      if (!force && count > 0 && savedVersion === CURRENT_DATA_VERSION) {
         console.log('Data already synced to IndexedDB');
         return;
       }
@@ -44,8 +46,10 @@ export async function syncAllData() {
         data: Array.isArray(data) ? data : (data as any).default || data
       }));
 
+      await appDb.chapters.clear();
       await appDb.chapters.bulkPut(entries);
-      console.log('Successfully synced all data to IndexedDB!');
+      localStorage.setItem('mykaado_data_version', CURRENT_DATA_VERSION);
+      console.log('Successfully synced all data to IndexedDB with data4!');
     } catch (error) {
       console.error('Error syncing offline data:', error);
     }

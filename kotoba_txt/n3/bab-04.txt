@@ -1,0 +1,34 @@
+エプロン;えぷろん;apron
+ほうき;ほうき;sapu
+ちりとり;ちりとり;pengki
+ぞうきん;ぞうきん;kain lap
+バケツ;ばけつ;ember
+エプロンをする／かける／つける;えぷろんをする／かける／つける;memakai apron
+ソファーをどける;そふぁあをどける;meminggirkan, memindahkan sofa
+(～が)どく;（～が）どく;minggir
+部屋を散らかす;へやをちらかす;membuat ruangan jadi berantakan
+散らかる;ちらかる;berantakan
+部屋を片付ける;へやをかたづける;merapikan ruangan
+片付く;かたづく;rapi
+ジュースをごぼす;じゅうすをごぼす;menumpahkan jus
+ごぼれる;ごぼれる;tumpah
+ほこりがつもる;ほこりがつもる;debu menumpuk (dari atas)
+ほこりがたまる;ほこりがたまる;debu menumpuk (dari banyak arah)
+ほこりを取る;ほこりをとる;mengambil debu (membersihkan)
+掃除機をかける;そうじきをかける;membersihkan dengan vacuum cleaner
+ほうきで掃く;ほうきではく;menyapu dengan sapu
+水をくむ;みずをくむ;mengambil air
+ぞうきんをしぼる;ぞうきんをしぼる;memeras kain lap
+ぬらす;ぬらす;membasahi
+床をふく;ゆかをふく;mengelap lantai
+ふきんで食器をふく;ふきんでしょっきをふく;mengelap alat makan dengan kain lap
+台ふきんでテーブルをふく;たいふきんでてえぶるをふく;mengelap meja dengan lap meja
+家具をみがく;かぐをみがく;menggosok, memoles furnitur
+ブラシでこする;ぶらしでこする;menggosok dengan sikat
+ゴミを分けるのは面倒くさい;ごみをわけるのはめんどうくさい;memisahkan sampah itu merepotkan
+面倒だ;めんどうだ;merepotkan
+スリッパをそろえる;すりっぱをそろえる;merapikan sandal
+物置にしまう;ものおきにしまう;menyimpan di tempat penyimpanan
+生ゴミ;なまごみ;sampah dapur
+燃えるゴミ;もえるごみ;sampah yang bisa dibakar
+燃えないゴミ;もえないごみ;sampah yang tidak bisa dibakar

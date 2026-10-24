@@ -1,0 +1,103 @@
+〜グラム;〜グラム;~ gram;satuan ukuran berat metrik gram (g)
+〜センチ;〜センチ;~ sentimeter;singkatan sehari-hari untuk centimeter (cm)
+〜ミリ;〜ミリ;~ milimeter;singkatan sehari-hari untuk milimeter (mm)
+〜以下;〜いか;... ke bawah, tidak lebih dari ...;kurang dari atau sama dengan batas angka tertentu (termasuk angkanya)
+〜以上;〜いじょう;... ke atas, lebih dari ...;lebih dari atau sama dengan batas angka tertentu (termasuk angkanya)
+〜個;〜こ;~ buah, ~ butir;satuan hitung untuk benda-benda bulat atau kecil
+〜杯;〜はい;~ cangkir, ~ mangkuk, ~ gelas;satuan hitung untuk porsi minuman atau wadah mangkuk isi
+〜便;〜びん;penerbangan nomor ..., kapal nomor ...;akhiran nomor penerbangan pesawat atau rute armada (bukan botol)
+〜本;〜ほん;~ batang, ~ botol;satuan hitung untuk benda silindris panjang (botol, pulpen, payung, pohon)
+JL;JL;Japan Airlines;kode singkatan maskapai penerbangan nasional Jepang (JAL)
+いらっしゃいます;いらっしゃいます;ada, datang, pergi;bentuk sangat sopan (sonkeigo) dari います/いきます/きます
+うまくいきます;うまくいきます;berjalan lancar, berhasil baik;suatu rencana atau urusan berlangsung sukses tanpa kendala
+オートバイ;オートバイ;sepeda motor;kendaraan roda dua bermesin (motorcycle)
+お年寄り;おとしより;kaum lansia, orang tua;orang yang telah lanjut usia
+コンテスト;コンテスト;kontes, ajang kompetisi;perlombaan bakat, kecantikan, atau keahlian
+ズボン;ズボン;celana panjang;pakaian penutup bagian pinggang hingga mata kaki
+テスト;テスト;tes, ujian;evaluasi kemampuan akademis atau pemeriksaan teknis
+どうでしょうか。;どうでしょうか。;bagaimana menurut Anda?;bentuk sangat sopan menanyakan pendapat atau pertimbangan
+ところで;ところで;ngomong-ngomong, beralih topik;kata sambung untuk mengubah topik pembicaraan
+間違い;まちがい;kesalahan, kekeliruan;hal yang tidak benar atau keliru
+マラソン;マラソン;lari maraton;olahraga lari jarak jauh 42,195 km
+一生懸命;いっしょうけんめい;sungguh-sungguh, sekuat tenaga;berusaha dengan keseriusan dan dedikasi penuh
+運転手;うんてんしゅ;sopir, pengemudi;pengemudi kendaraan (taksi, bus, atau mobil pribadi)
+確かめます;たしかめます;memastikan, mengecek ulang;memeriksa kebenaran atau kelengkapan suatu data
+急に;きゅうに;tiba-tiba, mendadak;terjadi mendadak tanpa aba-aba sebelumnya
+高さ;たかさ;tinggi, ketinggian;derajat ukuran tinggi suatu objek (-さ membentuk kata benda)
+合います;あいます;pas, cocok (ukuran);ukuran pakaian atau sepatu tepat pas di tubuh
+今でも;いまでも;bahkan hingga kini;kondisi yang masih terus berlanjut dari dulu sampai sekarang
+事件;じけん;perkara, kasus insiden, peristiwa kriminal;peristiwa perkara hukum atau tindak pidana di masyarakat
+七夕祭り;たなばたまつり;Festival Tanabata, Festival Bintang;festival musim panas tgl 7 Juli tradisi permohonan di bambu
+手に入れます;てにいれます;memperoleh, mendapatkan;berhasil mengantongi atau memiliki barang impian
+重さ;おもさ;berat, bobot;derajat berat massa suatu barang (-さ membentuk kata benda)
+出ます;でます;muncul, keluar (soal ujian);soal atau topik tertentu keluar dalam lembar ujian (テストに出る)
+出発します;しゅっぱつします;berangkat;memulai perjalanan keluar dari titik awal
+傷;きず;cacat, lecet, luka;luka pada kulit tubuh atau goresan lecet pada permukaan barang
+新年会;しんねんかい;pesta tahun baru;pesta kumpul bersama menyambut datangnya awal tahun
+酔います;よいます;mabuk;kondisi mabuk akibat minuman keras atau mabuk perjalanan (車に酔う)
+数えます;かぞえます;menghitung jumlah;mencacah angka atau butir barang satu per satu
+成績;せいせき;nilai prestasi, rapor;hasil nilai evaluasi studi atau performa kerja
+積みます;つみます;memuat, menumpuk barang;menaikkan muatan ke atas kendaraan atau menumpuk barang
+仙台;せんだい;Sendai;ibu kota Prefektur Miyagi dan kota terbesar di wilayah Tohoku
+相談します;そうだんします;berkonsultasi, berembuk;meminta saran atau membicarakan solusi dengan orang lain
+測ります;はかります;mengukur (panjang/waktu/suhu);mengukur dimensi panjang, dimensi waktu, atau suhu udara
+大きさ;おおきさ;ukuran, besarnya;derajat besar dimensi suatu benda (-さ membentuk kata benda)
+大会;たいかい;turnamen akbar, konvensi;ajang kompetisi besar atau pertemuan berskala nasional
+男;おとこ;laki-laki, pria;orang atau makhluk berjenis kelamin pria
+長さ;ながさ;panjangnya;derajat ukuran bentang panjang (-さ membentuk kata benda)
+長崎;ながさき;Nagasaki;ibu kota Prefektur Nagasaki terkenal dengan sejarah pelabuhan internasional
+天気予報;てんきよほう;prakiraan cuaca;laporan prediksi kondisi cuaca di media
+東照宮;とうしょうぐう;Kuil Toshogu;kuil Shinto megah di Nikko yang mendedikasikan Tokugawa Ieyasu
+到着します;とうちゃくします;tiba, sampai;sampai di tujuan akhir perjalanan
+動かします;うごかします;menggerakkan;menggeser atau menjalankan benda bergerak (transitif)
+二次会;にじかい;after-party, sesi kumpul kedua;kegiatan kumpul minum ronde kedua setelah pesta utama usai
+爆弾;ばくだん;bom, bahan peledak;senjata peledak militer
+発表会;はっぴょうかい;resital, presentasi publik;acara panggung menampilkan hasil latihan atau pameran karya
+犯人;はんにん;pelaku kriminal, tersangka;orang yang melakukan tindak pidana kejahatan
+必要な;ひつような;mutlak diperlukan, penting;sifat penting yang harus ada
+表;おもて;sisi depan, tampak muka;bagian luar atau permukaan depan (lawan dari 裏)
+忘年会;ぼうねんかい;pesta akhir tahun;pesta kumpul minum rekan kerja untuk melupakan jerih payah setahun
+様子;ようす;keadaan, situasi, gelagat;kondisi luar yang tampak atau gerak-gerik seseorang
+裏;うら;sisi belakang, sisi balik;bagian belakang tersembunyi atau balik kain (lawan dari 表)
+離れた;はなれた;berjauhan, terpisah;posisi yang berada pada jarak jauh dari lokasi utama
+量ります;はかります;menimbang (berat/volume);mengukur bobot berat badan atau menakar isi volume zat cair
+掛ける;かける;mengalikan (matematika);operasi hitung perkalian (tanda ×)
+キログラム;キログラム;kilogram;satuan metrik massa baku (kg)
+キロメートル;キロメートル;kilometer;satuan metrik jarak baku (km)
+グラム;グラム;gram;satuan metrik massa baku (g)
+シーシー;シーシー;cc;satuan sentimeter kubik volume cairan (cm³)
+センチメートル;センチメートル;sentimeter;satuan metrik panjang baku (cm)
+足す;たす;menjumlahkan, menambah;operasi hitung penjumlahan (tanda +)
+チェック;チェック;motif kotak-kotak;corak berpetak-petak geometris kain (plaid)
+トン;トン;ton;satuan massa setara 1.000 kilogram
+は（イコール）;は（イコール）;sama dengan, hasilnya adalah;penyebutan tanda sama dengan (=) dalam hitungan aritmatika
+引く;ひく;mengurangkan;operasi hitung pengurangan (tanda -)
+ミリグラム;ミリグラム;miligram;satuan seperseribu gram (mg)
+ミリメートル;ミリメートル;milimeter;satuan seperseribu meter (mm)
+ミリリットル;ミリリットル;mililiter;satuan seperseribu liter (ml)
+メートル;メートル;meter;satuan pokok panjang baku (m)
+リットル;リットル;liter;satuan kapasitas volume cairan (L)
+割る;わる;membagi (matematika);operasi hitung pembagian (tanda ÷)
+円（丸）;えん（まる）;lingkaran bundar;bidang geometri berbentuk lingkaran bulat
+横縞;よこじま;motif belang mendatar;corak garis-garis sejajar horizontal pada pakaian
+花柄;はながら;motif corak bunga;desain gambar kembang pada tekstil/kain
+曲線;きょくせん;garis lengkung, kurva;garis yang melengkung tanpa sudut lurus
+形;かたち;bentuk, wujud rupa;geometri rupa fisik tampak luar suatu barang
+計算;けいさん;perhitungan, kalkulasi;operasi hitung angka aritmatika atau proyeksi biaya
+三角形;さんかくけい;segitiga;bangun datar bersudut dan bersisi tiga
+四角形;しかくけい;segi empat;bangun datar bersudut dan bersisi empat (persegi)
+縦縞;たてじま;motif belang vertikal;corak garis-garis tegak lurus ke bawah pada kain
+水玉;みずたま;motif polkadot, bintik bulat;corak bulatan-bulatan kecil menyerupai tetesan embun
+線;せん;garis;goresan panjang yang menghubungkan titik
+体積・容積;たいせき・ようせき;volume dan kapasitas daya tampung;ukuran ruang 3 dimensi atau kapasitas tampung wadah
+単位;たんい;satuan hitung / SKS kuliah;standar besaran ukuran atau kredit semester universitas
+直線;ちょくせん;garis lurus;garis tanpa lekukan menghubungkan dua titik terdekat
+点線;てんせん;garis putus-putus;garis yang tersusun dari titik-titik berturutan
+平方キロメートル;へいほうキロメートル;kilometer persegi;satuan luas area tanah/negara (km²)
+平方センチメートル;へいほうセンチメートル;sentimeter persegi;satuan luas permukaan kecil (cm²)
+平方メートル;へいほうメートル;meter persegi;satuan luas ruangan bangunan (m²)
+無地;むじ;polos tanpa motif;kain atau bidang bersih tanpa corak maupun motif gambar
+面積;めんせき;luas area, luas permukaan;besaran ukuran dua dimensi permukaan bidang datar
+模様;もよう;pola, corak ragam hias;desain motif dekoratif pada permukaan barang
+立方センチメートル;りっぽうセンチメートル;sentimeter kubik;satuan isi volume 3 dimensi (cm³)
+立方メートル;りっぽうメートル;meter kubik;satuan isi ruang volume besar (m³)

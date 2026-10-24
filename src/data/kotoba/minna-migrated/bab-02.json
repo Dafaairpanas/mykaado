@@ -10,7 +10,8 @@
     "chapter": "Bab 02",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan rasa terima kasih sopan (tambah どうも agar lebih intens/dalam)"
   },
   {
     "id": "mn-02-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 02",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Dilekatkan di belakang nama negara (cth: 日本語)"
   },
   {
     "id": "mn-02-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Seruan spontan saat menyadari atau teringat sesuatu"
   },
   {
     "id": "mn-02-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Diikuti kata benda, letaknya jauh dari pembicara dan lawan bicara"
   },
   {
     "id": "mn-02-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan ragu-ragu saat hendak menyapa atau meminta sesuatu"
   },
   {
     "id": "mn-02-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata tunjuk benda yang jauh dari pembicara dan lawan bicara"
   },
   {
     "id": "mn-02-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Seruan kaget saat mendengar sesuatu di luar dugaan"
   },
   {
     "id": "mn-02-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Bingkisan khas dari bepergian atau kunjungan"
   },
   {
     "id": "mn-02-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kartu kredit, kartu identitas, atau kartu nama"
   },
   {
     "id": "mn-02-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Alat potret foto atau perekam video"
   },
   {
     "id": "mn-02-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Minuman kopi (cth: ホットコーヒー = kopi panas)"
   },
   {
     "id": "mn-02-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 02",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Balasan sopan saat lawan bicara mengucapkan どうぞよろしく"
   },
   {
     "id": "mn-02-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Diikuti kata benda, letaknya dekat dengan pembicara"
   },
   {
     "id": "mn-02-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata tunjuk benda yang berada dekat dengan pembicara"
   },
   {
     "id": "mn-02-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 02",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Salam perkenalan saat baru pindah rumah atau mulai bekerja"
   },
   {
     "id": "mn-02-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Perangkat komputer (sering disingkat パソコン)"
   },
   {
     "id": "mn-02-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pensil isi ulang (sering disingkat シャーペン)"
   },
   {
     "id": "mn-02-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan kesepakatan atau pembenaran pernyataan"
   },
   {
     "id": "mn-02-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 02",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Intonasi turun = paham/mengerti,  intonasi naik = meragukan/bertanya"
   },
   {
     "id": "mn-02-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Diikuti kata benda, letaknya dekat dengan lawan bicara"
   },
   {
     "id": "mn-02-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata tunjuk benda yang berada dekat dengan lawan bicara"
   },
   {
     "id": "mn-02-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Kudapan manis dari olahan biji kakao"
   },
   {
     "id": "mn-02-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Perangkat televisi atau siaran TV"
   },
   {
     "id": "mn-02-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 02",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata santun untuk menawarkan barang atau mempersilakan"
   },
   {
     "id": "mn-02-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Buku tulis catatan (beda dgn ノートパソコン / laptop)"
   },
   {
     "id": "mn-02-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pena bertinta bola (ballpoint pen)"
   },
   {
     "id": "mn-02-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Perangkat penerima siaran audio radio"
   },
   {
     "id": "mn-02-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Tempat duduk berkaki (sering juga ditulis hiragana: いす)"
   },
   {
     "id": "mn-02-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 02",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menyatakan sanggahan atau ketidakcocokan fakta"
   },
   {
     "id": "mn-02-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Bahasa nasional Inggris / bahasa internasional"
   },
   {
     "id": "mn-02-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Alat tulis berbahan grafit karbon kayu"
   },
   {
     "id": "mn-02-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Dibaca なん sebelum d/t/n atau satuan hitung,  dibaca なに sebelum partikel o/ga"
   },
   {
     "id": "mn-02-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Tempat membawa barang (sering ditulis hiragana atau katakana)"
   },
   {
     "id": "mn-02-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Meja belajar atau meja kantor untuk bekerja"
   },
   {
     "id": "mn-02-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kunci pintu, kunci gembok, atau kunci kendaraan"
   },
   {
     "id": "mn-02-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Penerbitan berkala berisi artikel dan foto"
   },
   {
     "id": "mn-02-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pelindung dari guyuran hujan atau terik matahari"
   },
   {
     "id": "mn-02-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Penunjuk waktu (jam dinding, jam meja, atau jam tangan)"
   },
   {
     "id": "mn-02-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Buku referensi makna kata (sinonim ragam lama: 字引 / じびき)"
   },
   {
     "id": "mn-02-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Mobil roda empat (bisa juga kendaraan beroda umum)"
   },
   {
     "id": "mn-02-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Buku catatan kecil pribadi untuk jadwal harian"
   },
   {
     "id": "mn-02-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Terbitan berita cetak harian (dibaca shinbun)"
   },
   {
     "id": "mn-02-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Bahasa resmi yang dituturkan di Jepang"
   },
   {
     "id": "mn-02-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Buku bacaan atau jilidan naskah bertulis"
   },
   {
     "id": "mn-02-045",
@@ -582,6 +626,7 @@
     "chapter": "Bab 02",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kartu identitas bisnis saat bertukar sapa formal di Jepang"
   }
 ]

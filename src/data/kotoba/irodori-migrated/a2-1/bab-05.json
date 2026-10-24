@@ -11,7 +11,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata tanya menanyakan sifat atau rupa benda/tempat (どんな町)"
   },
   {
     "id": "ir-a2-1-05-002",
@@ -25,7 +26,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kawasan tempat tinggal warga perkotaan"
   },
   {
     "id": "ir-a2-1-05-003",
@@ -39,7 +41,8 @@
     "chapter": "Bab 05",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "fasilitas lengkap dan mempermudah urusan"
   },
   {
     "id": "ir-a2-1-05-004",
@@ -53,7 +56,8 @@
     "chapter": "Bab 05",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "akses jauh atau fasilitas minim menyulitkan urusan"
   },
   {
     "id": "ir-a2-1-05-005",
@@ -67,7 +71,8 @@
     "chapter": "Bab 05",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "suasana hidup banyak orang dan hiruk pikuk seru"
   },
   {
     "id": "ir-a2-1-05-006",
@@ -81,7 +86,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pepohonan rimbun dan tanaman hijau di lingkungan"
   },
   {
     "id": "ir-a2-1-05-007",
@@ -95,7 +101,8 @@
     "chapter": "Bab 05",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jumlah orang atau benda melimpah kuantitasnya"
   },
   {
     "id": "ir-a2-1-05-008",
@@ -109,7 +116,8 @@
     "chapter": "Bab 05",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jumlah orang atau benda minim kuantitasnya"
   },
   {
     "id": "ir-a2-1-05-009",
@@ -123,7 +131,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "warga setempat atau individu manusia"
   },
   {
     "id": "ir-a2-1-05-010",
@@ -137,7 +146,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sikap warga yang hangat, sopan, dan suka menolong"
   },
   {
     "id": "ir-a2-1-05-011",
@@ -151,7 +161,8 @@
     "chapter": "Bab 05",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "peduli dan ringan tangan menolong orang lain"
   },
   {
     "id": "ir-a2-1-05-012",
@@ -165,7 +176,8 @@
     "chapter": "Bab 05",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sikap tidak peduli atau tidak ramah kepada orang lain"
   },
   {
     "id": "ir-a2-1-05-013",
@@ -179,7 +191,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "wilayah luar kota bernuansa alam asri dan tenang"
   },
   {
     "id": "ir-a2-1-05-014",
@@ -193,7 +206,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kawasan perkotaan besar yang padat dan modern"
   },
   {
     "id": "ir-a2-1-05-015",
@@ -207,7 +221,8 @@
     "chapter": "Bab 05",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "lingkungan yang tertata asri atau pemandangan memikat"
   },
   {
     "id": "ir-a2-1-05-016",
@@ -221,7 +236,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "mengiyakan dan menyetujui pernyataan lawan bicara"
   },
   {
     "id": "ir-a2-1-05-017",
@@ -235,7 +251,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kawasan pemukiman yang enak, aman, dan tenteram dihuni"
   },
   {
     "id": "ir-a2-1-05-018",
@@ -249,7 +266,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "tempat berniaga jual beli barang atau makanan"
   },
   {
     "id": "ir-a2-1-05-019",
@@ -263,7 +281,8 @@
     "chapter": "Bab 05",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "harga barang terjangkau tidak mahal"
   },
   {
     "id": "ir-a2-1-05-020",
@@ -277,7 +296,8 @@
     "chapter": "Bab 05",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menghibur, unik, dan tidak membosankan"
   },
   {
     "id": "ir-a2-1-05-021",
@@ -291,7 +311,8 @@
     "chapter": "Bab 05",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jarak tempuh yang terbentang panjang"
   },
   {
     "id": "ir-a2-1-05-022",
@@ -305,7 +326,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "tempat tertentu yang belum ditentukan secara spesifik"
   },
   {
     "id": "ir-a2-1-05-023",
@@ -319,7 +341,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "titik keberadaan ruang atau wilayah"
   },
   {
     "id": "ir-a2-1-05-024",
@@ -333,7 +356,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gedung sarana aneka fasilitas olahraga"
   },
   {
     "id": "ir-a2-1-05-025",
@@ -347,7 +371,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "struktur fisik konstruksi gedung"
   },
   {
     "id": "ir-a2-1-05-026",
@@ -361,7 +386,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kompleks toko dan hiburan perbelanjaan terpadu"
   },
   {
     "id": "ir-a2-1-05-027",
@@ -375,7 +401,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "frekuensi melakukan suatu tindakan sebanyak satu kali"
   },
   {
     "id": "ir-a2-1-05-028",
@@ -389,7 +416,8 @@
     "chapter": "Bab 05",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "pergi ke suatu tempat untuk merasakan pengalamannya"
   },
   {
     "id": "ir-a2-1-05-029",
@@ -403,7 +431,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "area atau letak fisik terjadinya kegiatan"
   },
   {
     "id": "ir-a2-1-05-030",
@@ -417,7 +446,8 @@
     "chapter": "Bab 05",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "penekanan anjuran kuat atau keinginan mencoba (ぜひ行ってみたい)"
   },
   {
     "id": "ir-a2-1-05-031",
@@ -431,7 +461,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hal atau tempat yang sangat disarankan untuk dinikmati"
   },
   {
     "id": "ir-a2-1-05-032",
@@ -445,7 +476,8 @@
     "chapter": "Bab 05",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "sudah memiliki informasi atau mengenal hal tersebut"
   },
   {
     "id": "ir-a2-1-05-033",
@@ -459,7 +491,8 @@
     "chapter": "Bab 05",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menerima informasi baru sehingga paham"
   },
   {
     "id": "ir-a2-1-05-034",
@@ -473,7 +506,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "ruangan atau pos fasilitas beristirahat sejenak"
   },
   {
     "id": "ir-a2-1-05-035",
@@ -487,7 +521,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jeda percakapan santai saat sedang merenungkan jawaban"
   },
   {
     "id": "ir-a2-1-05-036",
@@ -501,7 +536,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gumaman berpikir santai saat mencari ide atau rekomendasi"
   },
   {
     "id": "ir-a2-1-05-037",
@@ -515,7 +551,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "keindahan estetika alam yang memukau"
   },
   {
     "id": "ir-a2-1-05-038",
@@ -529,7 +566,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hamparan pasir di pesisir tepi laut"
   },
   {
     "id": "ir-a2-1-05-039",
@@ -543,7 +581,8 @@
     "chapter": "Bab 05",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "dikenal luas oleh masyarakat banyak"
   },
   {
     "id": "ir-a2-1-05-040",
@@ -557,7 +596,8 @@
     "chapter": "Bab 05",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "bergerak meluncur di dalam air laut atau kolam renang"
   },
   {
     "id": "ir-a2-1-05-041",
@@ -571,7 +611,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "dataran tanah yang lebih tinggi dari sekitarnya"
   },
   {
     "id": "ir-a2-1-05-042",
@@ -585,7 +626,8 @@
     "chapter": "Bab 05",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "melihat pemandangan panorama luas dari ketinggian"
   },
   {
     "id": "ir-a2-1-05-043",
@@ -599,7 +641,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "cahaya lembayung mentari saat senja sore"
   },
   {
     "id": "ir-a2-1-05-044",
@@ -613,7 +656,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "peta navigasi panduan fasilitas lokal perkotaan"
   },
   {
     "id": "ir-a2-1-05-045",
@@ -627,7 +671,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "kuliner atau produk termasyhur ikonik daerah tersebut"
   },
   {
     "id": "ir-a2-1-05-046",
@@ -641,7 +686,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "penilaian baik dan popularitas di kalangan masyarakat"
   },
   {
     "id": "ir-a2-1-05-047",
@@ -655,7 +701,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "satuan luas tanah setara 10.000 meter persegi"
   },
   {
     "id": "ir-a2-1-05-048",
@@ -669,7 +716,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tempat khusus luar ruangan untuk memanggang daging bersama"
   },
   {
     "id": "ir-a2-1-05-049",
@@ -683,7 +731,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "rute lintasan khusus pesepeda santai"
   },
   {
     "id": "ir-a2-1-05-050",
@@ -697,7 +746,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "banyak disukai dan diminati khalayak (人気がある)"
   },
   {
     "id": "ir-a2-1-05-051",
@@ -711,7 +761,8 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "area pesisir pantai rekreasi"
   },
   {
     "id": "ir-a2-1-05-052",
@@ -725,6 +776,7 @@
     "chapter": "Bab 05",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tempat tinggi berpagar khusus menikmati panorama sekeliling"
   }
 ]

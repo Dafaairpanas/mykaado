@@ -1,0 +1,33 @@
+なべ;なべ;panci
+ふた;ふた;tutup
+おたま;おたま;centongan
+フライパン;ふらいぱん;wajan
+フライ返し;ふらいがえし;spatula
+炊飯器;すいはんき;rice cooker
+しゃもじ;しゃもじ;sendok nasi
+(お)湯を沸かす;（お）ゆをわかす;memasak air
+(お)湯を冷ます;（お）ゆをさます;mendinginkan air
+なべを火にかける;なべをひにかける;meletakkan panci di atas api
+ご飯を炊く;ごはんをたく;menanak nasi
+(お)湯が湧く;（お）ゆがわく;airnya mendidih
+(お)湯が冷める;（お）ゆがさめる;airnya mendingin
+油を熱する;あぶらをねっする;memanaskan minyak (di wajan)
+油で揚げる;あぶらであげる;menggoreng dengan minyak
+水を切る;みずをきる;meniriskan air
+煮る;にる;merebus/memasak dengan kuah
+ゆでる;ゆでる;merebus (hanya air)
+蒸す;ふかす;mengukus
+いためる;いためる;menumis
+混ぜる;まぜる;mencampur
+こげる;こげる;gosong
+ひっくり返す／裏返す;ひっくりかえす／うらがえす;membalikkan
+味をつける;あじをつける;memberi rasa
+塩を加える;しおをくわえる;menambahkan garam
+こしょうを振る;こしょうをふる;menaburi lada
+味見をする／味を見る;あじみをする／あじをみる;mencicipi rasa
+味が濃い;あじがこい;rasanya pekat
+味が薄い;あじがうすい;rasanya hambar
+からい;からい;pedas
+塩からい;しおからい;asin
+酸っぱい;すっぱい;asam
+できあがる／できあがり;できあがる／できあがり;selesai (makanan)

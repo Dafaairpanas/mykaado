@@ -1,0 +1,97 @@
+症状;しょうじょう;gejala penyakit;tanda-tanda gangguan kesehatan yang dirasakan tubuh
+喉;のど;tenggorokan;saluran pernapasan dan penelan di leher
+痛い;いたい;sakit, nyeri;sensasi rasa ngilu atau perih pada bagian tubuh
+お腹;おなか;perut;bagian tubuh lambung dan usus
+熱;ねつ;demam, suhu tubuh tinggi;suhu tubuh yang meningkat di atas normal akibat sakit
+咳;せき;batuk;gejala refleks saluran napas berbunyi keras
+出る;でる;keluar, mengalami gejala;mengalami keluarnya batuk atau ingus (咳・鼻水が出る)
+鼻水;はなみず;ingus pilek;lendir cairan yang keluar dari hidung saat flu
+吐き気;はきけ;rasa mual;dorongan rasa ingin muntah di lambung
+吐き気がする;はきけがする;merasa mual ingin muntah;perut terasa bergejolak hendak muntah
+食欲;しょくよく;nafsu makan;keinginan atau selera untuk menyantap makanan
+目;め;mata;organ indra penglihatan
+かゆい;かゆい;gatal;sensasi geli menggelitik pada kulit atau mata yang ingin digaruk
+足;あし;kaki, telapak kaki;anggota tubuh bagian bawah untuk berdiri dan melangkah
+くじく;くじく;terkilir, keseleo;cedera sendi pergelangan kaki akibat salah tumpuan (足首をくじく)
+頭;あたま;kepala;bagian tubuh tempat otak dan wajah
+ぶつける;ぶつける;membenturkan, terantuk;terbentur atau menabrakkan bagian tubuh ke benda keras (頭をぶつける)
+一昨日;おととい;kemarin lusa;dua hari sebelum hari ini
+転ぶ;ころぶ;terjatuh, tersandung jatuh;kehilangan keseimbangan hingga tersungkur di tanah
+こう;こう;seperti ini, begini;menunjukkan cara atau kondisi fisik secara langsung
+レントゲン;レントゲン;foto rontgen, sinar-X;pemeriksaan foto radiologi untuk melihat struktur tulang
+〜週間;〜しゅうかん;... pekan, ... minggu;satuan hitung durasi jangka waktu minggu (misal 1週間 1 minggu)
+花粉症;かふんしょう;alergi serbuk sari bunga;alergi musiman bersin dan mata gatal akibat serbuk pohon cedar
+どうしましたか？;どうしましたか？;ada keluhan apa?, ada apa?;pertanyaan dokter kepada pasien untuk menanyakan gejala sakit
+どうされましたか？;どうされましたか？;ada keluhan apa?;bentuk sangat sopan (sonkeigo) dari dokter kepada pasien
+保険証;ほけんしょう;kartu asuransi kesehatan;kartu bukti kepesertaan asuransi kesehatan nasional Jepang
+問診票;もんしんひょう;lembar riwayat medis pasien;formulir isian gejala dan riwayat penyakit di ruang tunggu klinik
+薬;くすり;obat medis;senyawa obat penyembuh penyakit
+飲む;のむ;meminum obat;menelan obat medis (薬を飲む)
+会う;あう;bertemu;berjumpa langsung dengan seseorang (人に会う)
+柔らかい;やわらかい;lembek, lunak;makanan bertekstur empuk yang mudah dicerna lambung
+辛い;からい;pedas;rasa cabai menyengat yang perlu dihindari saat sakit
+診察券;しんさつけん;kartu registrasi pasien klinik;kartu nomor rekam medis berobat pasien di klinik tertentu
+処方箋;しょほうせん;resep obat dokter;lembar instruksi dokter untuk ditebus di apotek
+記入する;きにゅうする;mengisi formulir;menuliskan data diri dan jawaban pada lembaran formulir
+医者;いしゃ;dokter medis;ahli medis pemeriksa dan penyembuh pasien
+〜度〜分;〜ど〜ぶ;... koma ... derajat;penyebutan desimal suhu tubuh (misal 38度5分 = 38,5 derajat Celcius)
+口;くち;mulut;organ rongga mulut tempat berbicara dan makan
+インフルエンザ;インフルエンザ;virus influenza, flu;infeksi saluran pernapasan menular akibat virus influenza
+検査する;けんさする;menjalani tes pemeriksaan;memeriksa sampel lendir atau darah di laboratorium klinik
+A型;エーがた;tipe A;jenis strain virus flu tipe A atau golongan darah A
+下がる;さがる;turun reda (demam);suhu badan tinggi kembali turun normal (熱が下がる)
+お粥;おかゆ;bubur nasi putih;nasi lembek berair yang ramah untuk pencernaan orang sakit
+薬局;やっきょく;apotek tebus obat;tempat membeli dan menebus obat resep dokter
+もらう;もらう;menerima, menebus obat;mendapatkan obat dari apoteker setelah membayar
+お大事に;おだいじに;semoga lekas sembuh;ungkapan empati mendoakan kesembuhan kepada pasien/orang sakit
+お持ちですか？;おもちですか？;apakah Anda membawanya?;bentuk sopan menanyakan kepemilikan kartu asuransi
+フリガナ;フリガナ;panduan baca katakana;penulisan cara baca nama menggunakan huruf katakana
+性別;せいべつ;jenis kelamin;pilihan kategori gender pria atau wanita
+病気にかかる;びょうきにかかる;terjangkit penyakit;tubuh terserang atau tertular penyakit
+現在;げんざい;saat sekarang ini;kondisi saat ini waktu sekarang
+女性;じょせい;wanita, perempuan;orang berjenis kelamin wanita
+妊娠する;にんしんする;sedang mengandung, hamil;kondisi mengandung janin dalam rahim
+記入例;きにゅうれい;contoh pengisian;panduan format pengisian formulir sebagai percontohan
+記入日;きにゅうび;tanggal pengisian form;tanggal waktu formulir tersebut diisi
+大正;たいしょう;era Taisho;nama era kekaisaran Jepang tahun 1912 - 1926
+昭和;しょうわ;era Showa;nama era kekaisaran Jepang tahun 1926 - 1989
+平成;へいせい;era Heisei;nama era kekaisaran Jepang tahun 1989 - 2019
+令和;れいわ;era Reiwa;nama era kekaisaran Jepang dari Mei 2019 hingga kini
+〜才 / 〜歳;〜さい;... tahun;satuan hitung umur usia manusia (misal 27才 umur 27 tahun)
+今までに;いままでに;sampai sejauh ini;riwayat waktu yang pernah dialami di masa lampau
+病気;びょうき;penyakit, sakit;gangguan kesehatan tubuh
+病名;びょうめい;nama diagnosis penyakit;nama medis resmi penyakit yang diderita
+〜本;〜ほん;... botol, ... batang;satuan hitung botol obat sirup atau batang rokok (misal 1本 1 botol)
+〜の方;〜のかた;orang yang ...;sebutan sopan untuk orang dengan kriteria tertentu (misal 女性の方 pihak wanita)
+答える;こたえる;menjawab pertanyaan;memberikan jawaban isian kuisioner
+〜週目;〜しゅうめ;minggu usia kandungan ke-...;usia gestasi masa kehamilan (misal 10週目 minggu ke-10 kehamilan)
+お答えください;おこたえください;silakan dijawab, mohon diisi;permohonan santun meminta pasien menjawab pertanyaan dokter
+下げる;さげる;menurunkan (suhu demam);tindakan aktif meredakan panas badan tinggi (熱を下げる)
+抑える;おさえる;meredakan gejala, menekan batuk;mengurangi keparahan rasa sakit atau bersin (症状を抑える)
+痛み止め;いたみどめ;obat pereda nyeri, analgesik;obat medis penghilang rasa ngilu dan sakit
+くしゃみ;くしゃみ;bersin;refleks semburan udara hidung akibat alergi debu/polen
+つらい;つらい;terasa berat, tersiksa;kondisi tubuh merasa sangat menderita menanggung sakit
+我慢する;がまんする;menahan diri, bertahan;menahan rasa sakit atau godaan tanpa mengeluh
+我慢できない;がまんできない;tidak sanggup menahan lagi;rasa sakit yang teramat sangat hingga tak tertahankan
+間をあける;あいだをあける;memberi jeda waktu;memberi rentang jarak jeda waktu antar minum obat (misal 4-6 jam)
+〜以上;〜いじょう;... atau lebih, minimal ...;batas ambang nilai sama atau lebih tinggi (misal 38度5分以上)
+胃;い;organ lambung;lambung pencernaan makanan
+守る;まもる;melindungi lambung;menjaga dinding lambung dari efek keras obat
+運転する;うんてんする;mengemudikan kendaraan;menyetir mobil (perlu dihindari bila obat berefek kantuk)
+食後;しょくご;seusai makan;petunjuk minum obat tepat setelah selesai makan (sekitar 30 menit)
+眠い;ねむい;mengantuk;efek samping rasa kantuk berat setelah menenggak obat
+解熱剤;げねつざい;obat penurun panas demam, antipiretik;obat khusus untuk menurunkan suhu panas demam tinggi
+熱が高い;ねつがたかい;demam tinggi;suhu badan panas melonjak drastis
+それと;それと;dan juga, selain itu;kata sambung menambahkan poin resep obat tambahan
+こっち;こっち;yang sebelah sini;ragam santai menunjuk obat atau pilihan ini
+夕方;ゆうがた;sore hari;waktu senja menjelang malam
+寝る前;ねるまえ;sebelum tidur malam;jadwal meminum obat sesaat sebelum beranjak tidur
+用法;ようほう;aturan pakai;petunjuk cara penggunaan obat (kapan dan bagaimana diminum)
+用量;ようりょう;takaran dosis;jumlah butir atau takaran mililiter obat sekali konsumsi
+説明書;せつめいしょ;lembar petunjuk obat;kertas informasi rincian aturan dan efek samping obat dari apotek
+効能;こうのう;khasiat, indikasi obat;efek medis penyembuhan yang dihasilkan oleh obat
+注意事項;ちゅういじこう;peringatan penting, kontraindikasi;hal-hal yang wajib diwaspadai dan pantangan saat mengonsumsi obat
+夕食後;ゆうしょくご;seusai makan malam;waktu meminum obat setelah santap malam
+〜錠;〜じょう;... butir tablet;satuan hitung butir pil atau tablet obat padat (misal 2錠 2 tablet)
+〜日分;〜にちぶん;jatah konsumsi ... hari;kuantitas persediaan obat untuk sekian hari (misal 5日分 jatah 5 hari)
+毎食後;まいしょくご;setiap sehabis makan;diminum 3 kali sehari seusai makan pagi, siang, dan malam

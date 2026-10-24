@@ -10,7 +10,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "penyebutan urutan abad (misal 21世紀 = abad 21)"
   },
   {
     "id": "mn-36-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "bentuk sangat sopan (sonkeigo) dari お客さん"
   },
   {
     "id": "mn-36-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menunjukkan tingkatan yang melebihi standar biasa"
   },
   {
     "id": "mn-36-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kondisi atau tren yang terjadi saat ini"
   },
   {
     "id": "mn-36-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 36",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bentuk sangat sopan (sonkeigo) dari しています"
   },
   {
     "id": "mn-36-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Frédéric Chopin, komponis dan pianis Polandia termasyhur"
   },
   {
     "id": "mn-36-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 36",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "bertekad menghadapi hal yang menantang (challenge)"
   },
   {
     "id": "mn-36-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "mengupayakan batas maksimal kemampuan"
   },
   {
     "id": "mn-36-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 36",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "proporsi nyaris penuh (atau jika negatif: hampir tidak sama sekali)"
   },
   {
     "id": "mn-36-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 36",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tercapai setelah sekian lama berusaha atau menanti dengan sabar"
   },
   {
     "id": "mn-36-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kepadatan penumpang/lalu lintas di jam sibuk kerja"
   },
   {
     "id": "mn-36-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 36",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "berbeda dari yang lain atau keliru/tidak benar"
   },
   {
     "id": "mn-36-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ruang angkasa di luar atmosfer bumi"
   },
   {
     "id": "mn-36-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 36",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memindahkan barang dari satu tempat ke tempat lain"
   },
   {
     "id": "mn-36-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jarak atau lokasi yang jauh (kata benda/keterangan)"
   },
   {
     "id": "mn-36-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "melampaui waktu atau batasan tertentu (7時を過ぎる)"
   },
   {
     "id": "mn-36-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 36",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menjadi terbiasa atau familier dengan hal baru (仕事に慣れる)"
   },
   {
     "id": "mn-36-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kondisi batin, rasa nyaman, atau kondisi fisik (気持ちがいい/悪い)"
   },
   {
     "id": "mn-36-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "kereta bertenaga uap masa lampau"
   },
   {
     "id": "mn-36-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "kapal penumpang atau barang bertenaga uap"
   },
   {
     "id": "mn-36-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gubahan lagu atau melodi musik"
   },
   {
     "id": "mn-36-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "seni bela diri pedang bambu tradisional Jepang"
   },
   {
     "id": "mn-36-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 36",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pujian/perhatian sopan kepada lawan bicara yang menggunakan suatu barang"
   },
   {
     "id": "mn-36-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 36",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tanpa kekangan atau batasan"
   },
   {
     "id": "mn-36-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "seni bela diri bantingan dan kuncian tradisional Jepang"
   },
   {
     "id": "mn-36-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 36",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "melakukan suatu keahlian dengan cakap"
   },
   {
     "id": "mn-36-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "alat transportasi penumpang (mobil, kereta, kapal, dll.)"
   },
   {
     "id": "mn-36-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kegiatan atau cabang olahraga berenang"
   },
   {
     "id": "mn-36-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 36",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "penegasan kepastian atau pantangan tegas (絶対に〜ない)"
   },
   {
     "id": "mn-36-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tertimpa musibah atau kejadian tak mengenakkan (事故に遭う)"
   },
   {
     "id": "mn-36-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jumlah orang yang sangat banyak (大勢の人)"
   },
   {
     "id": "mn-36-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 36",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menyimpan uang di bank atau tabungan"
   },
   {
     "id": "mn-36-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hal unik yang jarang ditemui atau dialami"
   },
   {
     "id": "mn-36-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 36",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "berbeda dari hal biasa pada umumnya"
   },
   {
     "id": "mn-36-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 36",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kepastian yang tak boleh dilewatkan atau suatu keharusan"
   },
   {
     "id": "mn-36-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "makanan atau materi organik yang membusuk (食べ物が腐る)"
   },
   {
     "id": "mn-36-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "frekuensi rutin bulanan"
   },
   {
     "id": "mn-36-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "frekuensi rutin mingguan"
   },
   {
     "id": "mn-36-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "frekuensi rutin tahunan"
   },
   {
     "id": "mn-36-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 36",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mempergunakan fasilitas atau kesempatan demi suatu fungsi"
   },
   {
     "id": "mn-36-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "judul pengelompokan gizi dasar seimbang"
   },
   {
     "id": "mn-36-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kebiasaan jarang melakukan aktivitas fisik gerak badan"
   },
   {
     "id": "mn-36-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kelompok umbi seperti kentang, ubi jalar, atau talas"
   },
   {
     "id": "mn-36-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "mineral penting untuk kepadatan tulang dan gigi"
   },
   {
     "id": "mn-36-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menghisap rokok"
   },
   {
     "id": "mn-36-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "nutrisi pembangun jaringan otot dan sel tubuh"
   },
   {
     "id": "mn-36-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "olahan kedelai khas Jepang"
   },
   {
     "id": "mn-36-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "lembaran rumput laut kering untuk sushi atau onigiri"
   },
   {
     "id": "mn-36-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "zat pengatur metabolisme tubuh"
   },
   {
     "id": "mn-36-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "kebiasaan mengonsumsi mi instan atau makanan cepat saji"
   },
   {
     "id": "mn-36-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "kebiasaan meminum minuman beralkohol"
   },
   {
     "id": "mn-36-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "kebiasaan sehat banyak melangkah"
   },
   {
     "id": "mn-36-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 36",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "melakukan aktivitas fisik gerak tubuh atau olahraga"
   },
   {
     "id": "mn-36-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 36",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pola makan sehat memperhatikan asupan gizi beragam"
   },
   {
     "id": "mn-36-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tanaman yang hidup di perairan laut (bahan pangan)"
   },
   {
     "id": "mn-36-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "frekuensi makan di restoran lebih banyak daripada masak di rumah"
   },
   {
     "id": "mn-36-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 36",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menjaga ritme bangun tidur, makan, dan beraktivitas secara disiplin"
   },
   {
     "id": "mn-36-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pemeriksaan berkala kondisi kesehatan di klinik/rumah sakit"
   },
   {
     "id": "mn-36-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kebiasaan pemilih ada makanan yang sangat disuka dan tidak disuka"
   },
   {
     "id": "mn-36-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "memakan segala hidangan tanpa pilah-pilih"
   },
   {
     "id": "mn-36-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kandungan lemak dalam tubuh atau makanan"
   },
   {
     "id": "mn-36-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 36",
     "type": "v3",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "pola hidup sehat istirahat cepat dan bangun dini hari"
   },
   {
     "id": "mn-36-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "nutrisi sumber energi utama seperti nasi, mi, dan roti"
   },
   {
     "id": "mn-36-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 36",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "biji kacang kedelai, polong, atau kacang merah"
   },
   {
     "id": "mn-36-065",
@@ -842,6 +906,7 @@
     "chapter": "Bab 36",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "terjaga sampai larut malam tanpa tidur tepat waktu"
   }
 ]

@@ -1,0 +1,114 @@
+顔;かお;wajah, muka;bagian depan kepala tempat mata, hidung, dan mulut
+体;からだ;tubuh, badan;jasmani fisik manusia
+頭;あたま;kepala;bagian atas tubuh tempat rambut dan otak
+鼻;はな;hidung;organ indra penciuman dan pernapasan
+歯;は;gigi;organ keras pemecah makanan di dalam mulut
+首;くび;leher;bagian tubuh penghubung kepala dengan badan
+目;め;mata;organ indra penglihatan
+耳;みみ;telinga;organ indra pendengaran
+口;くち;mulut;organ rongga untuk makan dan berbicara
+肩;かた;bahu, pundak;bagian persendian antara lengan dan leher
+胸;むね;dada;bagian depan tubuh antara leher dan perut
+お腹;おなか;perut;bagian bawah dada tempat lambung dan usus
+足;あし;kaki;tungkai bawah untuk berdiri dan berjalan
+背中;せなか;punggung;bagian belakang badan manusia
+腰;こし;pinggang;bagian tubuh sekitar pinggul dan tulang belakang bawah
+腕;うで;lengan;anggota gerak tubuh bagian atas dari bahu ke pergelangan
+手;て;tangan, telapak tangan;bagian ujung lengan bertulang jari
+指;ゆび;jari tangan, jari kaki;bagian ruas jemari
+肩が凝る;かたがこる;bahu pegal kaku;otot pundak terasa kaku tegang akibat lelah kerja di depan komputer
+だるい;だるい;lesu, letih lunglai;tubuh terasa berat dan kehilangan tenaga
+痛い;いたい;nyeri, sakit;sensasi rasa perih atau sakit fisik
+胃;い;organ lambung;bagian saluran cerna tempat mengolah makanan
+調子が悪い;ちょうしがわるい;kondisi tubuh kurang fit;badan merasa meriang atau mesin tidak bekerja lancar
+二日酔い;ふつかよい;hangover, mabuk pascapesta;kondisi kepala pusing dan mual keesokan paginya akibat mabuk alkohol
+眠れない;ねむれない;tidak bisa tidur, insomnia;sulit memejamkan mata saat hendak tidur malam
+お風呂に入る;おふろにはいる;berendam di bak mandi;mandi berendam di bak air hangat khas Jepang
+温める;あたためる;menghangatkan tubuh;membuat badan atau makanan menjadi hangat (体を温める)
+温かい;あたたかい;hangat (suhu benda/makanan);suhu nyaman yang tidak dingin
+飲む;のむ;meminum;menenggak air atau cairan
+マッサージする;マッサージする;memijat tubuh;mengurut otot yang kaku agar rileks
+薬;くすり;obat;senyawa penyembuh sakit
+薬を飲む;くすりをのむ;meminum obat;menelan obat medis penawar sakit
+最近;さいきん;belakangan ini, akhir-akhir ini;kurun waktu akhir-akhir ini
+ぬるい;ぬるい;suam-suam kuku;suhu air yang tidak panas dan tidak dingin
+試す;ためす;mencoba membuktikan;mencoba cara baru untuk mengetahui efektivitasnya
+飲みすぎる;のみすぎる;terlalu banyak minum;mengonsumsi minuman alkohol atau air secara berlebihan
+結構;けっこう;cukup lumayan;tingkatan yang melampaui rata-rata biasa
+それはいけませんね;それはいけませんね;wah gawat ya, sayang sekali;ungkapan empati prihatin mendengar rekan yang sedang sakit
+どうしていますか;どうしていますか;bagaimana Anda mengatasinya?;menanyakan solusi yang dilakukan saat mengalami keluhan fisik
+疲れている;つかれている;sedang merasa lelah;kondisi fisik sedang kehabisan stamina
+寝不足;ねぶそく;kurang tidur;kondisi letih akibat jam tidur malam tidak mencukupi
+健康;けんこう;kesehatan tubuh;kondisi fisik dan mental yang bugar
+運動;うんどう;olahraga fisik;aktivitas gerak badan untuk menjaga stamina
+ジム;ジム;pusat kebugaran, gym;tempat latihan kebugaran jasmani
+ジョギングする;ジョギングする;berlari joging;lari santai luar ruangan untuk kebugaran jantung
+走る;はしる;berlari;melangkahkan kaki secara cepat
+ウォーキングする;ウォーキングする;jalan santai, walking;olahraga jalan kaki ritmis demi menjaga kesehatan
+歩く;あるく;berjalan kaki;melangkah dengan kedua kaki
+プール;プール;kolam renang;tempat kolam buatan untuk berenang
+泳ぐ;およぐ;berenang;bergerak meluncur di dalam air
+ヨガ;ヨガ;senam yoga;latihan olah tubuh dan meditasi pernapasan
+食生活;しょくせいかつ;kebiasaan pola makan;pola konsumsi nutrisi makanan dan minuman sehari-hari
+食べすぎる;たべすぎる;terlalu banyak makan;makan berlebihan melampaui kapasitas lambung
+睡眠;すいみん;tidur, istirahat lelap;istirahat tidur malam untuk regenerasi sel tubuh
+早く;はやく;lebih cepat, lebih awal;waktu tidur lebih awal atau langkah sigap
+起きる;おきる;bangun tidur;terjaga dari tidur di pagi hari
+大体;だいたい;kira-kira, garis besarnya;kisaran umum atau estimasi perkiraan
+チキンサラダ;チキンサラダ;selada ayam;hidangan sayur selada bertabur potongan dada ayam rebus
+トマトジュース;トマトジュース;jus tomat;minuman sari buah tomat segar bernutrisi
+ダイエットする;ダイエットする;menjalani program diet;mengontrol asupan kalori demi kesehatan atau menurunkan berat
+気をつける;きをつける;berhati-hati, menjaga diri;waspada dan memperhatikan kesehatan diri (体に気をつける)
+なるほど;なるほど;oh begitu, saya mengerti;ungkapan mengangguk tanda memahami alasan lawan bicara
+ノロウイルス;ノロウイルス;norovirus;virus penyebab gastroenteritis akut muntah dan diare
+食中毒;しょくちゅうどく;keracunan makanan;gangguan infeksi pencernaan akibat makanan tercemar kuman/racun
+原因;げんいん;penyebab utama;faktor yang mengakibatkan timbulnya suatu masalah
+症状;しょうじょう;gejala sakit;tanda klinis yang tampak pada tubuh penderita
+予防法;よぼうほう;cara pencegahan;metode dan langkah preventif agar tidak tertular penyakit
+腹痛;ふくつう;sakit perut, kram perut;nyeri melilit pada rongga perut
+嘔吐;おうと;muntah-muntah;mengeluarkan kembali isi makanan lewat mulut
+下痢;げり;diare, mencret;buang air besar cair secara berulang-ulang
+手洗い;てあらい;mencuci tangan;membersihkan kedua tangan dengan sabun dan air mengalir
+加熱する;かねつする;memanaskan masakan;memasak bahan pangan dengan api panas agar steril dari virus
+増える;ふえる;bertambah banyak (intransitif);jumlah kasus infeksi melonjak bertambah (患者が増える)
+発生する;はっせいする;muncul terjadi;timbulnya wabah atau insiden (食中毒が発生する)
+貝;かい;hewan kerang;hewan moluska bercangkang keras
+感染する;かんせんする;terinfeksi, tertular kuman;masuk dan berkembangnya bibit kuman penyakit dalam tubuh
+調理する;ちょうりする;mengolah masakan;memasak bahan mentah menjadi makanan siap saji
+予防する;よぼうする;mencegah penyakit;mengambil tindakan pencegahan sebelum terjangkit
+急増;きゅうぞう;lonjakan cepat, meningkat drastis;kenaikan jumlah kasus dalam kurun waktu singkat
+県内;けんない;di dalam wilayah prefektur;wilayah administratif di dalam prefektur bersangkutan
+話題;わだい;topik perbincangan;isu hangat yang sedang ramai dibicarakan masyarakat
+汚染された;おせんされた;terkontaminasi kuman;tercemar oleh bakteri atau zat berbahaya
+牡蠣;カキ / かき;tiram laut (oyster);hewan laut tiram cangkang kasar yang lezat disantap
+十分に;じゅうぶんに;dengan cukup matang;secara memadai dan tidak setengah-setengah
+ウイルス;ウイルス;virus biologis;mikroorganisme parasit penyebab penyakit menular
+付く;つく;menempel kuman;kotoran atau virus menempel pada tangan (手にウイルスがつく)
+起こす;おこす;memicu, mengakibatkan;menjadi penyebab timbulnya keracunan (食中毒を起こす)
+どうしたら;どうしたら;bagaimana sebaiknya;menanyakan saran langkah terbaik yang harus ditempuh
+ポイント;ポイント;poin penting;faktor kunci yang patut diperhatikan
+十分[な];じゅうぶん[な];cukup memadai;takaran atau durasi yang memenuhi syarat aman
+食事前;しょくじまえ;sebelum menyantap makan;waktu sesaat sebelum mulai makan
+前後;ぜんご;sebelum dan sesudah;kurun waktu saat sebelum serta setelah kegiatan berlangsung
+洗う;あらう;mencuci;membersihkan kotoran dengan air dan sabun (手を洗う)
+中心部;ちゅうしんぶ;bagian inti tengah;bagian terdalam daging tiram yang harus dipanaskan matang
+移す;うつす;menularkan penyakit;menyebarkan virus infeksi kepada orang di sekitarnya
+マスク;マスク;masker pelindung;kain penutup hidung dan mulut pencegah droplet
+うがい;うがい;kumur tenggorokan, gargle;membersihkan kuman di tenggorokan dengan cairan kumur
+予防接種;よぼうせっしゅ;vaksinasi, suntik imunisasi;pemberian vaksin guna membentuk kekebalan tubuh terhadap flu
+発熱;はつねつ;timbul demam panas;gejala badan mulai memanas suhunya
+全身;ぜんしん;seluruh badan;keseluruhan anggota tubuh dari ujung kepala hingga kaki
+だるさ;だるさ;rasa lesu lunglai;sensasi rasa lemas tak bertenaga yang menjalar di tubuh
+関節痛;かんせつつう;nyeri persendian;rasa ngilu linu pada sendi-sendi tulang
+痛み;いたみ;rasa sakit nyeri;sensasi rasa sakit yang dirasakan fisik
+気持ち;きもち;suasana hati, perasaan;kondisi batin emosional atau sensasi fisik
+大切な;たいせつな;sangat penting, bernilai;hal berharga yang tidak boleh diabaikan
+こまめに;こまめに;rajin teratur, berkala;melakukan hal secara tekun dan rutin (こまめに手を洗う)
+しっかりと;しっかりと;dengan cermat kuat;melakukan tindakan secara sungguh-sungguh tanpa lengah
+外出先;がいしゅつさき;lokasi tujuan luar rumah;tempat yang dikunjungi saat bepergian keluar
+帰宅する;きたくする;pulang tiba di rumah;kembali menginjakkan kaki di kediaman rumah
+流行する;りゅうこうする;mewabah, sedang tren luas;penyakit menular menyebar luas di masyarakat (インフルエンザが流行する)
+受ける;うける;menerima, menjalani vaksin;mendapatkan suntikan imunisasi atau pemeriksaan medis
+予約;よやく;pemesanan jadwal, reservasi;memesan jadwal kunjungan dokter sebelumnya
+受付中;うけつけちゅう;sedang membuka pendaftaran;status layanan yang saat ini aktif menerima registrasi
+クリニック;クリニック;klinik medis;fasilitas pengobatan dokter spesialis skala klinik

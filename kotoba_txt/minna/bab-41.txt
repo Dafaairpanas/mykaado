@@ -1,0 +1,88 @@
+［お］見舞い;［お］みまい;pembesukan, barang bantuan
+～さん;～さん;Bapak ~, Ibu ~, Sdr. ~ (akhiran yang dibubuhkan di belakang nama pekerjaan atau jawatan untuk menyatakan kehalusan)
+～ずつ;～ずつ;setiap ~ (contoh: setiap sepatah kata, setiap dua orang, setiap tiga lembar)
+ある～;ある～;suatu ~
+いじめます;いじめます;menyiksa, menganiayai
+いただきます;いただきます;menerima (Kata Merendahkan Diri dari もらいます)
+えさ;えさ;makanan
+おじ;おじ;om
+おじさん;おじさん;om (untuk orang lain)
+おば;おば;tante
+おばさん;おばさん;tante (untuk orang lain)
+おもちゃ;おもちゃ;mainan
+お祝い;おいわい;perayaan, hadiah (～を します : merayakan)
+お孫さん;おまごさん;cucu (untuk orang lain)
+お宅;おたく;rumah (Kata Hormat dari うち atau いえ)
+お年玉;おとしだま;otoshidama (angpao)
+お姫様;おひめさま;putri
+かめ;かめ;kura-kura
+かわいい;かわいい;manis
+くださいます;くださいます;memberikan (Kata Hormat dari くれます)
+この間;このあいだ;beberapa saat lalu
+すると;すると;kemudian
+どうぞお幸せに。;どうぞおしあわせに。;Selamat berbahagia!
+ドライバー;ドライバー;obeng
+ハンカチ;ハンカチ;sapu tangan
+ひとこと;ひとこと;sepatah kata
+やります;やります;memberi (terhadap orang yang lebih muda, bawahan, binatang dan tanaman)
+浦島太郎;うらしまたろう;nama peran utama cerita dongen
+煙;けむり;asap
+猿;さる;monyet
+温度;おんど;suhu
+下げます;さげます;menurunkan
+絵はがき;えはがき;kartu pos bergambar
+絵本;えほん;buku gambar
+管理人;かんりにん;penjaga (contoh: penjaga apartmen)
+興味;きょうみ;minat (［コンピューターに］～が あります：berminat pada [komputer])
+靴下;くつした;kaus kaki
+子どもたち;こどもたち;anak-anak
+手袋;てぶくろ;sarung tangan
+助けます;たすけます;membantu, menolong
+上げます;あげます;menaikkan
+情報;じょうほう;informasi
+真っ白［な］;まっしろ［な］;putih
+親切にします;しんせつにします;berbaik hati
+昔話;むかしばなし;cerita dongeng
+祖父;そふ;kakek
+祖母;そぼ;nenek
+孫;まご;cucu
+暖房;だんぼう;alat pemanas
+男;おとこ;laki-laki
+中身;なかみ;isi
+珍しい;めずらしい;langka
+二人;ふたり;pasangan
+発音;はつおん;ungkapan
+文法;ぶんぽう;tata bahasa
+暮らします;くらします;hidup
+優しい;やさしい;baik hati
+幼稚園;ようちえん;TK
+陸;りく;daratan
+冷房;れいぼう;AC
+お寺で体験できます;おてらでたいけんできます;Dapat mencoba di wihara.
+カラオケ;カラオケ;karaoke
+バザー;バザー;Bazar
+ビデオカメラ;ビデオカメラ;kamera video
+ベビー用品;ベビーようひん;peralatan untuk bayi
+レジャー用品;レジャーようひん;peralatan rekreasi
+レンタルサービス;レンタルサービス;Jasa penyewaan
+家の修理、掃除;いえのしゅうり、そうじ;perbaikan dan pembersihan rumah
+携帯電話;けいたいでんわ;HP, ponsel
+結婚式;けっこんしき;upacara pernikahan
+犬の散歩;いぬのさんぽ;berjalan-jalan dengan anjing
+公民館;こうみんかん;balai
+七五三;しちごさん;perayaan umur tujuh, lima, dan tiga tahun
+成人式;せいじんしき;upacara pendewasaan
+生け花スクール;いけばなスクール;Klub merangkai bunga
+精進料理が食べられます;しょうじんりょうりがたべられます;Dapat sajian makanan Vegetarian.
+赤ちゃん、子どもの世話;あかちゃん、こどものせわ;menjaga bayi dan anak
+禅ができます;ぜんができます;Dapat bermeditasi Zen (ala Budha Jepang).
+卒業式;そつぎょうしき;wisuda
+貸衣装;かしいしょう;Penyewaan Pakaian
+日本語教室;にほんごきょうしつ;Kursus Bahasa Jepang
+日本料理講習会;にほんりょうりこうしゅうかい;Les masakan Jepang
+泊まりませんか;とまりませんか;Ayo menginap.
+便利屋;べんりや;Tukang serba guna
+便利情報;べんりじょうほう;Informasi Berguna
+民宿;みんしゅく;Penginapan
+旅行用品;りょこうようひん;peralatan perjalanan
+話し相手;はなしあいて;lawan bicara

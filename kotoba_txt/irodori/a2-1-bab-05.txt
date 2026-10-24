@@ -1,0 +1,52 @@
+どんな;どんな;seperti apa, yang bagaimana;kata tanya menanyakan sifat atau rupa benda/tempat (どんな町)
+町;まち;kota, lingkungan pemukiman;kawasan tempat tinggal warga perkotaan
+便利[な];べんり[な];praktis, nyaman;fasilitas lengkap dan mempermudah urusan
+不便[な];ふべん[な];tidak praktis, repot;akses jauh atau fasilitas minim menyulitkan urusan
+にぎやか[な];にぎやか[な];ramai, semarak;suasana hidup banyak orang dan hiruk pikuk seru
+緑;みどり;pepohonan, keasrian hijau;pepohonan rimbun dan tanaman hijau di lingkungan
+多い;おおい;banyak;jumlah orang atau benda melimpah kuantitasnya
+少ない;すくない;sedikit;jumlah orang atau benda minim kuantitasnya
+人;ひと;orang, manusia;warga setempat atau individu manusia
+優しい;やさしい;ramah, baik hati;sikap warga yang hangat, sopan, dan suka menolong
+親切[な];しんせつ[な];ramah, penuh perhatian;peduli dan ringan tangan menolong orang lain
+冷たい;つめたい;dingin (sikap), acuh tak acuh;sikap tidak peduli atau tidak ramah kepada orang lain
+田舎;いなか;pedesaan, kampung halaman;wilayah luar kota bernuansa alam asri dan tenang
+都会;とかい;kota metropolitan;kawasan perkotaan besar yang padat dan modern
+きれい[な];きれい[な];indah, bersih;lingkungan yang tertata asri atau pemandangan memikat
+確かに;たしかに;memang benar, pastinya;mengiyakan dan menyetujui pernyataan lawan bicara
+住みやすい;すみやすい;nyaman ditinggali;kawasan pemukiman yang enak, aman, dan tenteram dihuni
+店;みせ;toko, kedai, warung;tempat berniaga jual beli barang atau makanan
+安い;やすい;murah;harga barang terjangkau tidak mahal
+おもしろい;おもしろい;menarik, asyik;menghibur, unik, dan tidak membosankan
+遠い;とおい;jauh;jarak tempuh yang terbentang panjang
+どこか;どこか;suatu tempat;tempat tertentu yang belum ditentukan secara spesifik
+所;ところ;tempat, lokasi;titik keberadaan ruang atau wilayah
+スポーツセンター;スポーツセンター;pusat olahraga, sports center;gedung sarana aneka fasilitas olahraga
+建物;たてもの;gedung, bangunan;struktur fisik konstruksi gedung
+ショッピングモール;ショッピングモール;pusat perbelanjaan, mal;kompleks toko dan hiburan perbelanjaan terpadu
+一度;いちど;satu kali, sekali;frekuensi melakukan suatu tindakan sebanyak satu kali
+行ってみる;いってみる;mencoba pergi berkunjung;pergi ke suatu tempat untuk merasakan pengalamannya
+場所;ばしょ;tempat, wadah lokasi;area atau letak fisik terjadinya kegiatan
+ぜひ;ぜひ;tentu saja, wajib coba;penekanan anjuran kuat atau keinginan mencoba (ぜひ行ってみたい)
+お勧め;おすすめ;rekomendasi, anjuran;hal atau tempat yang sangat disarankan untuk dinikmati
+知っている;しっている;mengetahui, kenal;sudah memiliki informasi atau mengenal hal tersebut
+知る;しる;mengetahui, menyadari;menerima informasi baru sehingga paham
+休憩所;きゅうけいじょ;tempat istirahat;ruangan atau pos fasilitas beristirahat sejenak
+そうね……;そうね……;hmm begitu ya...;jeda percakapan santai saat sedang merenungkan jawaban
+そうだなあ;そうだなあ;hmm apa ya...;gumaman berpikir santai saat mencari ide atau rekomendasi
+美しい;うつくしい;indah elok, molek;keindahan estetika alam yang memukau
+砂浜;すなはま;pantai berpasir;hamparan pasir di pesisir tepi laut
+有名[な];ゆうめい[な];terkenal, termasyhur;dikenal luas oleh masyarakat banyak
+泳ぐ;およぐ;berenang;bergerak meluncur di dalam air laut atau kolam renang
+丘;おか;bukit;dataran tanah yang lebih tinggi dari sekitarnya
+見渡す;みわたす;memandang lepas sekeliling;melihat pemandangan panorama luas dari ketinggian
+夕日;ゆうひ;matahari terbenam;cahaya lembayung mentari saat senja sore
+タウンマップ;タウンマップ;peta kota, panduan wisata;peta navigasi panduan fasilitas lokal perkotaan
+名物;めいぶつ;makanan khas, oleh-oleh lokal;kuliner atau produk termasyhur ikonik daerah tersebut
+評判;ひょうばん;reputasi, tanggapan publik;penilaian baik dan popularitas di kalangan masyarakat
+〜ha;〜ヘクタール;... hektare;satuan luas tanah setara 10.000 meter persegi
+バーベキュー場;バーベキューじょう;area barbeku (BBQ);tempat khusus luar ruangan untuk memanggang daging bersama
+サイクリングコース;サイクリングコース;jalur sepeda;rute lintasan khusus pesepeda santai
+人気;にんき;populer, digemari;banyak disukai dan diminati khalayak (人気がある)
+ビーチ;ビーチ;pantai pasir;area pesisir pantai rekreasi
+展望台;てんぼうだい;gardu pandang, dek observasi;tempat tinggi berpagar khusus menikmati panorama sekeliling

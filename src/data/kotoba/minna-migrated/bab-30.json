@@ -10,7 +10,8 @@
     "chapter": "Bab 30",
     "type": "particle",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyebutkan beberapa contoh santai dalam percakapan (cth: ビールとか、ワインとか)"
   },
   {
     "id": "mn-30-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Merujuk objek atau waktu tertentu tanpa menyebut nama pasti (cth: ある日)"
   },
   {
     "id": "mn-30-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 30",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perasaan hati bahagia atas suatu kejadian menyenangkan,  lawan dari 悲しい"
   },
   {
     "id": "mn-30-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pemberitahuan informasi resmi kepada khalayak publik"
   },
   {
     "id": "mn-30-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Buku saku berisi informasi panduan rute dan tempat liburan (guidebook)"
   },
   {
     "id": "mn-30-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tabel kalender penunjuk tanggal hari dan bulan"
   },
   {
     "id": "mn-30-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Wadah penampung sampah sisa di ruangan"
   },
   {
     "id": "mn-30-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 30",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menaruh dan menyimpan barang rapi ke dalam laci atau lemari (transitif: 引き出しにしまう)"
   },
   {
     "id": "mn-30-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 30",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata sambung menyatakan peristiwa lanjutan yang terjadi spontan setelahnya"
   },
   {
     "id": "mn-30-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 30",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membiarkan kondisi barang tetap seperti semula tanpa disentuh"
   },
   {
     "id": "mn-30-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 30",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menempelkan poster, perangko, atau stiker ke dinding (transitif: 壁にポスターをはる)"
   },
   {
     "id": "mn-30-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Lembaran gambar promosi atau pengumuman yang ditempel di dinding"
   },
   {
     "id": "mn-30-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 30",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan kondisi yang masih terus berlangsung (cth: まだ雨が降っています)"
   },
   {
     "id": "mn-30-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 30",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengumpulkan dan menyusun intisari materi atau barang (transitif: レポートをまとめる)"
   },
   {
     "id": "mn-30-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pertemuan diskusi kerja kelompok atau kantor (meeting)"
   },
   {
     "id": "mn-30-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Tas gendong punggung untuk bepergian (kependekan rucksack)"
   },
   {
     "id": "mn-30-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kotak geser meja untuk menyimpan perlengkapan alat tulis"
   },
   {
     "id": "mn-30-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Wadah air tempat menaruh tangkai bunga hias di meja"
   },
   {
     "id": "mn-30-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Alat penerangan portabel bertenaga baterai saat mati lampu"
   },
   {
     "id": "mn-30-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 30",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menggantungkan jaket, kalender, atau lukisan di dinding (壁に掛ける)"
   },
   {
     "id": "mn-30-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bentuk lingkaran atau bola bundar"
   },
   {
     "id": "mn-30-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kaca pantul untuk berkaca merias diri (鏡を見る)"
   },
   {
     "id": "mn-30-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sudut bagian dalam ruangan atau kotak,  beda dengan 角 (sudut luar/tikungan)"
   },
   {
     "id": "mn-30-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 30",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menetapkan keputusan tanggal, tempat, atau pilihan rencana (transitif)"
   },
   {
     "id": "mn-30-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perasaan tidak nyaman, enggan, atau tidak menyenangkan hati"
   },
   {
     "id": "mn-30-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Posisi letak asal barang sebelum diambil/dipakai"
   },
   {
     "id": "mn-30-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Area depan rumah Jepang tempat melepas sepatu"
   },
   {
     "id": "mn-30-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Penyampaian materi perkuliahan akademis oleh dosen di kampus"
   },
   {
     "id": "mn-30-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kegiatan belajar-mengajar guru dan murid di kelas"
   },
   {
     "id": "mn-30-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Area melingkar di sekeliling suatu objek"
   },
   {
     "id": "mn-30-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 30",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menata hiasan bunga atau dekorasi mempercantik ruangan (部屋を飾る)"
   },
   {
     "id": "mn-30-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 30",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menanam bibit pohon, bunga, atau sayuran ke tanah (庭に木を植える)"
   },
   {
     "id": "mn-30-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Titik sentral persis di pusat ruangan atau lingkaran"
   },
   {
     "id": "mn-30-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Mainan tiruan figur orang atau karakter (kanji: 人形)"
   },
   {
     "id": "mn-30-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 30",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menjalankan rutinitas kehidupan sehari-hari (cth: 日本で生活する)"
   },
   {
     "id": "mn-30-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Genangan air buatan di taman pemukiman tempat memelihara ikan koi"
   },
   {
     "id": "mn-30-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi krisis genting saat terjadi bencana alam atau bahaya"
   },
   {
     "id": "mn-30-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tas ransel darurat berisi makanan, senter, dan P3K untuk evakuasi"
   },
   {
     "id": "mn-30-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 30",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Belajar kembali mengulang materi yang telah diajarkan guru"
   },
   {
     "id": "mn-30-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 30",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menyusun piring, buku, atau kursi berjejer rapi berurutan (transitif)"
   },
   {
     "id": "mn-30-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Dinding pembatas ruangan rumah"
   },
   {
     "id": "mn-30-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 30",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengalami visualisasi bunga tidur di malam hari"
   },
   {
     "id": "mn-30-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 30",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mata terbuka dan kembali ke alam sadar bangun pagi (intransitif)"
   },
   {
     "id": "mn-30-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 30",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menaruh kembali barang ke posisi asalnya setelah selesai dipakai"
   },
   {
     "id": "mn-30-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 30",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mempelajari materi pelajaran terlebih dahulu sebelum kelas dimulai"
   },
   {
     "id": "mn-30-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jadwal rancangan kegiatan yang direncanakan akan dilakukan"
   },
   {
     "id": "mn-30-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Lembaran bagan daftar susunan rencana kegiatan"
   },
   {
     "id": "mn-30-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jalan sempit penghubung antar-kamar di dalam gedung"
   },
   {
     "id": "mn-30-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Imbauan mitigasi bencana menyiapkan baterai radio darurat"
   },
   {
     "id": "mn-30-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Mengecek genteng, pohon, dan dinding rumah sebelum angin topan"
   },
   {
     "id": "mn-30-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Memasang pengikat dinding agar lemari tidak menimpa orang saat gempa"
   },
   {
     "id": "mn-30-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyepakati nomor pesan darurat bencana bersama kerabat jauh-jauh hari"
   },
   {
     "id": "mn-30-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mendengarkan laporan BMKG lewat radio atau ponsel saat cuaca buruk"
   },
   {
     "id": "mn-30-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Harta benda penting (buku tabungan, sertifikat rumah, paspor, uang tunai)"
   },
   {
     "id": "mn-30-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perban, antiseptik, dan obat pribadi untuk tas siaga bencana"
   },
   {
     "id": "mn-30-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Segera membuka pintu saat gempa agar kusen tidak macet terkunci guncangan"
   },
   {
     "id": "mn-30-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 30",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hindari berlari panik keluar karena bahaya runtuhan kaca dan genteng"
   },
   {
     "id": "mn-30-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 30",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jangan memakai mobil pribadi agar jalan tidak macet total saat ambulans melintas"
   },
   {
     "id": "mn-30-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Menyediakan tabung pemadam api dan wadah cadangan air minum bersih"
   },
   {
     "id": "mn-30-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Langkah perlindungan kepala utama dari runtuhan plafon saat gempa bumi"
   },
   {
     "id": "mn-30-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Menyimpan cadangan air minum 3 liter per hari dan makanan kaleng biskuit"
   },
   {
     "id": "mn-30-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mendengarkan siaran resmi otoritas pemerintah daerah tanpa terhasut hoaks"
   },
   {
     "id": "mn-30-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Langkah antisipasi saat badai angin topan besar mendekat"
   },
   {
     "id": "mn-30-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Mengecek denah gedung sekolah atau balai kota yang dijadikan tempat pengungsian"
   },
   {
     "id": "mn-30-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Langkah tindakan pemeriksaan kompor dan kabel listrik saat bumi berhenti berguncang"
   },
   {
     "id": "mn-30-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "SOP pedoman keselamatan saat tanah berguncang keras"
   },
   {
     "id": "mn-30-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Instruksi meninggalkan rumah dengan memakai sepatu tebal dan pakaian tertutup"
   },
   {
     "id": "mn-30-068",
@@ -881,7 +948,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Panduan umum saat situasi darurat bencana alam melanda"
   },
   {
     "id": "mn-30-069",
@@ -894,7 +962,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tindakan pencegahan menaruh tas ransel siaga bencana di dekat pintu keluar"
   },
   {
     "id": "mn-30-070",
@@ -907,7 +976,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Peribahasa mitigasi bencana: persiapan matang menyelamatkan nyawa"
   },
   {
     "id": "mn-30-071",
@@ -920,7 +990,8 @@
     "chapter": "Bab 30",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Skenario langkah antisipasi bila musibah gempa terjadi sewaktu-waktu"
   },
   {
     "id": "mn-30-072",
@@ -933,6 +1004,7 @@
     "chapter": "Bab 30",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Segera mematikan api kompor atau pemanas ruangan untuk mencegah kebakaran hebat"
   }
 ]

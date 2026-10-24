@@ -1,0 +1,114 @@
+〜発;〜はつ;berangkat pukul / dari ...;waktu keberangkatan atau stasiun awal (misal 東京発 berangkat dari Tokyo)
+〜着;〜ちゃく;tiba pukul / di ...;waktu kedatangan atau stasiun tujuan akhir (misal 9時着 tiba pukul 9)
+〜号;〜ごう;nomor penerbangan / rangkaian kereta;nomor penamaan armada Shinkansen atau bus (misal こまち15号)
+〜号車;〜ごうしゃ;gerbong nomor ...;nomor urutan gerbong pada rangkaian kereta api
+〜席;〜せき;nomor kursi duduk ...;posisi baris dan huruf kursi penumpang (misal 12番A席)
+特急券;とっきゅうけん;tiket kereta ekspres (Limited Express);karcis khusus tambahan untuk menaiki kereta ekspres cepat
+秋田;あきた;Akita;ibu kota Prefektur Akita di wilayah utara Tohoku
+こまち;こまち;Komachi;nama layanan kereta peluru Shinkansen rute Tokyo - Akita
+通路側;つうろがわ;kursi sisi lorong;tempat duduk penumpang di tepi lorong jalan kereta
+窓側;まどがわ;kursi sisi jendela;tempat duduk penumpang yang menempel ke jendela kereta
+遅れ;おくれ;keterlambatan jadwal;keterlambatan waktu tempuh perjalanan kereta
+約;やく;sekitar, kira-kira;taksiran estimasi angka waktu (misal 約10分 sekitar 10 menit)
+〜両編成;〜りょうへんせい;rangkaian ... gerbong;jumlah komposisi gerbong satu rangkaian kereta (misal 10両編成 rangkaian 10 gerbong)
+運転見合わせ;うんてんみあわせ;pengoperasian ditunda sementara;layanan perjalanan kereta dihentikan sementara akibat cuaca/gangguan
+お知らせ;おしらせ;pengumuman, maklumat stasiun;informasi resmi yang disiarkan pihak operator stasiun
+台風〜号;たいふう〜ごう;angin topan nomor ...;penomoran siklon tropis taifun di Jepang (misal 台風19号)
+接近;せっきん;mendekat, merapat;badai atau kereta mendekati wilayah tertentu
+〜に伴い;〜にともない;sehubungan dengan ..., seiring dengan ...;kata penghubung formal menyatakan sebab akibat resmi
+見合わせる;みあわせる;menunda sementara waktu;menghentikan pengoperasian sambil memantau situasi aman
+湯葉;ゆば;kembang tahu lembut, yuba;lapisan kulit tipis gurih dari permukaan rebusan susu kedelai khas Nikko/Kyoto
+外国;がいこく;luar negeri, mancanegara;negara lain di luar negeri sendiri
+〜泊;〜はく;menginap ... malam;satuan hitung malam masa menginap wisata (misal 1泊 1 malam)
+名物;めいぶつ;kuliner khas lokal, oleh-oleh ikonik;makanan khas termasyhur suatu daerah tujuan wisata
+東照宮;とうしょうぐう;Kuil Toshogu;kuil warisan dunia megah di Nikko makam Tokugawa Ieyasu
+中禅寺湖;ちゅうぜんじこ;Danau Chuzenji;danau pemandangan alam indah di dataran tinggi Nikko
+指定席;していせき;kursi bernomor (reserved seat);tempat duduk yang wajib dipesan nomor kursinya terlebih dahulu
+自由席;じゆうせき;kursi bebas (non-reserved);tempat duduk umum tanpa nomor yang bebas ditempati siapa saja
+〜番乗り場;〜ばんのりば;peron pemberangkatan nomor ...;tempat peron naik bus atau taksi (misal 2番乗り場 peron 2)
+〜番線;〜ばんせん;jalur rel nomor ...;nomor jalur peron kedatangan dan keberangkatan kereta di stasiun
+〜行き;〜ゆき / 〜いき;jurusan tujuan ke ...;arah stasiun tujuan akhir perjalanan (misal 新宿行き tujuan Shinjuku)
+〜線;〜せん;jalur trayek kereta ...;nama rute perkeretaapian (misal 山手線 Jalur Yamanote)
+〜方面;〜ほうめん;ke arah wilayah ...;penunjuk arah rute perjalanan umum (misal 横浜方面 ke arah Yokohama)
+発車する;はっしゃする;berangkat melaju;kereta atau bus mulai bergerak keluar dari stasiun
+到着する;とうちゃくする;tiba di stasiun;armada transportasi sampai masuk ke peron tujuan
+乗り換える;のりかえる;berpindah armada, transit;ganti menaiki jalur kereta atau moda transportasi lain
+特急;とっきゅう;kereta ekspres terbatas (Limited Express);jenis kereta cepat antar-kota yang hanya berhenti di stasiun besar
+〜両;〜りょう;... gerbong kereta;satuan hitung jumlah gerbong kereta (misal 9両 9 gerbong)
+順;じゅん;secara berurutan;berdasarkan urutan nomor atau waktu
+グリーン車;グリーンしゃ;gerbong Green Car (kelas utama);gerbong eksekutif berfasilitas mewah dan kursi lebih lega
+金沢;かなざわ;Kanazawa;ibu kota Prefektur Ishikawa terkenal dengan taman Kenrokuen dan distrik samurai
+列車;れっしゃ;kereta api;rangkaian armada kereta bermesin penarik
+ご乗車;ごじょうしゃ;naik ke dalam kereta;sebutan sopan untuk kegiatan menaiki kereta penumpang
+〜ほど;〜ほど;kira-kira ..., sekitar ...;estimasi kisaran durasi waktu (misal 3分ほど sekitar 3 menit)
+岡山;おかやま;Okayama;kota persimpangan transportasi utama di wilayah Chugoku
+お出口;おでぐち;pintu keluar gerbong;pintu sisi buka gerbong kereta saat tiba di stasiun
+左側;ひだりがわ;sebelah kiri;pintu sisi kiri yang akan terbuka di peron
+各駅;かくえき;setiap stasiun;kereta lokal yang berhenti di tiap peron stasiun tanpa terkecuali
+向かい側;むかいがわ;peron sisi seberang;peron rel yang berada persis di hadapan seberang mata
+中ほど;なかほど;bagian tengah peron/gerbong;posisi di pertengahan ruangan kereta atau lantai peron
+ご案内をいたします;ごあんないをいたします;berikut adalah pengumuman informasi;kalimat pembuka siaran pengeras suara stasiun (bentuk sangat hormat)
+お越しください;おこしください;silakan menuju ke peron;anjuran sangat sopan mempersilakan penumpang melangkah ke peron
+事故;じこ;kecelakaan rute rel;insiden darurat yang menghambat kelancaran jadwal perjalanan
+壊れる;こわれる;rusak (intransitif);perangkat mekanik atau gerbong mengalami kerusakan teknis
+信号;しんごう;sinyal persinyalan kereta;lampu indikator pengatur keselamatan laju kereta
+信号故障;しんごうこしょう;kerusakan lampu sinyal rel;gangguan sistem persinyalan lalu lintas kereta api
+アナウンス;アナウンス;pengumuman siaran suara;informasi lisan lewat pengeras suara stasiun
+困る;こまる;kesusahan, merasa bingung;merasa bingung dan repot akibat kereta berhenti mendadak
+何て言っていましたか;なんていっていましたか;apa yang barusan diumumkan?;menanyakan ulang maksud pengumuman yang baru disiarkan
+当駅;とうえき;stasiun ini;sebutan resmi pihak pengelola untuk stasiun tempat berada saat ini
+〜のため;〜のため;dikarenakan oleh ...;penyebab resmi terjadinya gangguan perjalanan (misal 事故のため)
+運転;うんてん;pengoperasian armada kereta;kegiatan menjalankan kereta api
+お急ぎのところ;おいそぎのところ;di tengah ketergesaan Anda;permohonan maaf empati kepada penumpang yang sedang terburu-buru
+お知らせいたします;おしらせいたします;kami umumkan kepada para penumpang;maklumat resmi pembuka siaran stasiun (bentuk kenjougo)
+行っております;おこなっております;sedang melaksanakan penanganan;bentuk sangat sopan dari しています (misal 点検を行っております)
+ご迷惑をおかけします;ごめいわくをおかけします;mohon maaf atas ketidaknyamanan perjalanan Anda;permohonan maaf resmi stasiun kepada pelanggan
+人身事故;じんしんじこ;kecelakaan tabrakan rel orang;insiden darurat tertabraknya orang di lintasan rel kereta
+影響;えいきょう;dampak keterlambatan, imbas;imbas efek dari kecelakaan terhadap jalur kereta lain
+全線;ぜんせん;seluruh rute jalur;seluruh bentang jalur rel tanpa terkecuali
+お越し;おこし;kedatangan, menuju;bentuk sonkeigo dari 行く / 来る
+ご利用ください;ごりようください;silakan pergunakan fasilitas;anjuran sopan mempersilakan penumpang memakai jalur alternatif
+感動する;かんどうする;terharu tersentuh, kagum;perasaan takjub menyaksikan keindahan pemandangan alam
+気持ちいい;きもちいい;sangat nyaman menyenangkan;sensasi kesegaran udara pegunungan yang menenangkan batin
+残念[な];ざんねん[な];sayang sekali, mengecewakan;perasaan kecewa karena rencana gagal terwujud
+疲れる;つかれる;lelah, letih;stamina fisik terkuras setelah perjalanan jauh
+びっくりする;びっくりする;kaget, terperanjat mendadak;reaksi spontan terkejut atas kabar keterlambatan
+驚く;おどろく;tercengang takjub, kaget;merasa heran atau takjub menyaksikan hal tak biasa
+怖い;こわい;menakutkan, seram;merasa ngeri saat berada di ketinggian
+よかった;よかった;syukurlah, bagus sekali;perasaan lega atau apresiasi puas atas liburan
+大阪;おおさか;Osaka;kota metropolis kuliner dan bisnis terbesar di wilayah Kansai
+串カツ;くしカツ;kushikatsu;sate goreng tepung renyah khas Osaka dengan saus celup hitam
+たこ焼き;たこやき;takoyaki;bola-bola adonan tepung panggang isi potongan gurita kenyal
+登る;のぼる;menaiki ketinggian;naik ke puncak menara atau mendaki gunung (山・タワーに登る)
+あべのハルカス;あべのハルカス;Abeno Harukas;gedung pencakar langit super tinggi ikonik di kota Osaka
+大阪城;おおさかじょう;Kastel Osaka;kastel megah bersejarah peninggalan Toyotomi Hideyoshi
+通天閣;つうてんかく;Menara Tsutenkaku;menara observasi bersejarah simbol distrik Shinsekai di Osaka
+鳥;とり;burung laut;unggas pemakan ikan di pesisir
+あげる;あげる;memberi makan;melemparkan pakan kepada burung camar
+釣り;つり;memancing ikan;aktivitas rekreasi memancing di dermaga atau danau
+空;そら;langit biru;angkasa luas di atas bumi
+ウミネコ;ウミネコ;camar ekor hitam;burung camar laut khas perairan pantai Jepang
+あの辺;あのへん;sekitar daerah situ;menunjuk area yang agak jauh dari pembicara
+浄土ヶ浜;じょうどがはま;Pantai Jodogahama;pantai batu kapur putih air jernih terkenal di Prefektur Iwate
+ケーブルカー;ケーブルカー;kereta kabel lereng gunung;kereta rel penarik lereng bukit curam
+歩く;あるく;berjalan kaki;melangkahkan kaki menyusuri jalan setapak
+リス;リス;tupai pohon;hewan pengerat lincah berekor lebat
+だから;だから;oleh sebab itulah, makanya;kata penghubung menyimpulkan alasan
+あきらめる;あきらめる;mengurungkan niat, menyerah;merelakan rencana dibatalkan demi keselamatan
+頂上;ちょうじょう;puncak gunung;titik paling tinggi di puncak gunung
+高尾山;たかおさん;Gunung Takao;gunung wisata alam populer dekat Tokyo yang ramah pendaki
+町並み;まちなみ;panorama deretan kota;pemandangan indah tata kota yang tampak dari ketinggian
+花畑;はなばたけ;padang bunga, ladang bunga;hamparan kebun bunga aneka warna yang mekar serentak
+イルミネーション;イルミネーション;iluminasi lampu hias;dekorasi ribuan lampu warna-warni malam hari
+ショー;ショー;pertunjukan panggung;pementasan atraksi hiburan musik atau kembang api
+泊まる;とまる;menginap bermalam;tidur bermalam di hotel tujuan
+滝;たき;air terjun;aliran air sungai yang terjun bebas dari tebing batu
+きらきら;きらきら;berkilau gemerlap;cahaya lampu hias atau pantulan air yang berkelap-kelip indah
+光る;ひかる;bercahaya memancarkan sinar;mengeluarkan pendaran cahaya terang
+ハウステンボス;ハウステンボス;Huis Ten Bosch;taman hiburan megah bertema nuansa negeri Belanda di Nagasaki
+オランダ;オランダ;Belanda;negara di kawasan Eropa barat
+インスタントラーメン;インスタントラーメン;mi instan;mi kering siap seduh dengan kaldu bubuk
+描く;かく;menggambar, melukis;menggoreskan kuas lukis di atas wadah cup mi
+カップラーメン;カップラーメン;mi instan cup;mi instan praktis dalam wadah mangkuk cup siap seduh
+絵;え;gambar ilustrasi, lukisan;karya seni rupa visual
+トッピング;トッピング;pugasan, pugasan ekstra;bahan taburan pelengkap makanan mi atau piza

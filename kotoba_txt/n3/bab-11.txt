@@ -1,0 +1,32 @@
+一方通行;いっぽうつうこう;jalan satu arah
+通行止め;つうこうどめ;jalan ditutup
+工事中;こうじちゅう;sedang pengerjaan
+バス停;ばすてい;halte bus
+信号;しんごう;lampu lalu lintas
+バスの停留所;ばすのていりゅうじょ;halte bus
+横断歩道;おうだんほどう;zebra cross
+踏切;ふみきり;perlintasan kereta api
+交差点;こうさてん;perempatan
+線路;せんろ;rel kereta api
+四つ角;よつかど;perempatan
+渋滞;じゅうたい;macet
+道路が渋滞している／混んでいる;どうろがじゅうたいしている／こんでいる;jalanan padat
+道路が空いている;どうろがあいている;jalanan kosong
+回り道／遠回りをする;まわりみち／とおまわりをする;mengambil jalan memutar
+近道をする;ちかみちをする;mengambil jalan pintas
+突き当りを左に曲がる;つきあたりをひだりにまがる;mentok belok kiri
+バスが停車する;ばすがていしゃする;bus berhenti
+線路を超える;せんろをこえる;melintasi rel
+時速100キロで走る;じそく100きろではしる;berjalan 100 km/jam
+スピード違反で捕まる;すぴいどいはんでつかまる;ditangkap karena mengebut
+駐車違反をする;ちゅうしゃいはんをする;melanggar parkir
+信号を無視する;しんごうをむしする;mengabaikan lampu lalu lintas
+信号無視;しんごうむし;pelanggaran lampu lalu lintas
+車をぶつける;くるまをぶつける;menabrakkan mobil
+車がぶつかる;くるまがぶつかる;mobilnya bertabrakan
+猫をひく;ねこをひく;menabrak kucing
+猫が車にひかれる;ねこがくるまにひかれる;kucing tertabrak mobil
+（交通事故に）あう;（こうつうじこに）あう;terkena / mengalami kecelakaan lalu lintas
+道路を横断する;どうろをおうだんする;menyeberang jalan
+車に気をつける;くるまにきをつける;berhati-hati terhadap mobil
+ななめに横断する;ななめにおうだんする;menyeberang miring / diagonal

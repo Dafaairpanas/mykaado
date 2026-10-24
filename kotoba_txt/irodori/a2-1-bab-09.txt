@@ -1,0 +1,64 @@
+日本語学校;にほんごがっこう;sekolah bahasa Jepang;lembaga pendidikan bahasa Jepang bagi warga asing
+高校;こうこう;Sekolah Menengah Atas (SMA);jenjang sekolah menengah tingkat atas 3 tahun
+どれぐらい;どれぐらい;berapa lama, seberapa banyak;menanyakan perkiraan durasi waktu atau kuantitas
+上手[な];じょうず[な];pandai, mahir, terampil;piawai dalam melakukan suatu keahlian
+〜間;〜かん;selama ...;menyatakan rentang durasi waktu (misal 2年間 selama 2 tahun)
+自分で;じぶんで;sendiri, secara mandiri;melakukan aktivitas seorang diri tanpa bantuan orang lain
+まだまだです;まだまだです;masih belum seberapa, masih jauh;respons merendah hati saat menerima pujian kepandaian
+そんなことないです;そんなことないです;ah tidak juga kok;ungkapan santun menepis pujian dari lawan bicara
+大学;だいがく;universitas, perguruan tinggi;jenjang pendidikan tinggi sarjana/diploma
+ラジオ;ラジオ;radio;alat pemutar siaran audio gelombang radio
+ネット;ネット;internet;jaringan internet (singkatan dari インターネット)
+アプリ;アプリ;aplikasi ponsel/komputer;perangkat lunak aplikasi digital (app)
+日本語;にほんご;bahasa Jepang;bahasa nasional negara Jepang
+勉強;べんきょう;belajar, pembelajaran;kegiatan menuntut ilmu atau berlatih
+簡単[な];かんたん[な];mudah, gampang, sederhana;tidak sulit dipelajari atau diselesaikan
+難しい;むずかしい;sulit, sukar, rumit;memerlukan usaha ekstra untuk memahaminya
+似ている;にている;mirip, serupa;memiliki banyak kesamaan sifat atau bentuk (〜に似ている)
+違う;ちがう;berbeda, berlainan;memiliki ketidaksamaan dengan yang lain (〜と違う)
+得意[な];とくい[な];mahir, jago, andalan;merasa percaya diri dan piawai di bidang tersebut
+苦手[な];にがて[な];tidak mahir, lemah, payah;merasa kurang mampu atau enggan pada bidang tersebut
+文法;ぶんぽう;tata bahasa, gramatika;kaidah susunan kalimat bahasa
+発音;はつおん;pelafalan, pengucapan;cara melafalkan bunyi kata atau fonetik
+文字;もじ;huruf, aksara;simbol tulisan dalam sistem aksara
+ひらがな;ひらがな;huruf hiragana;aksara silabis fonetis Jepang untuk kata asli
+カタカナ;カタカナ;huruf katakana;aksara silabis fonetis Jepang untuk kata serapan asing
+漢字;かんじ;huruf kanji;aksara logografis asal Tiongkok yang dipakai di Jepang
+会話;かいわ;percakapan, dialog;aktivitas bertutur kata saling bertukar obrolan
+モンゴル語;モンゴルご;bahasa Mongol;bahasa nasional negara Mongolia
+ベトナム語;ベトナムご;bahasa Vietnam;bahasa nasional negara Vietnam
+覚える;おぼえる;menghafal, mengingat;menyimpan kosakata atau informasi ke dalam ingatan (単語を覚える)
+教える;おしえる;mengajar, membimbing;mentransfer pengetahuan ke orang lain
+辞書;じしょ;kamus;buku atau aplikasi daftar rujukan kosakata
+貸す;かす;meminjamkan;memberikan pinjaman barang kepada orang lain (lawan dari 借りる)
+見せる;みせる;memperlihatkan, menunjukkan;menampilkan barang agar dilihat orang lain
+チェックする;チェックする;memeriksa, mengecek;mengecek koreksi kesalahan tulisan atau tugas
+説明する;せつめいする;menjelaskan, menerangkan;menguraikan keterangan agar mudah dipahami
+紙;かみ;kertas;lembaran kertas tipis untuk ditulisi
+書く;かく;menulis;menggoreskan tulisan di atas kertas atau layar
+言う;いう;mengatakan, berucap;menyampaikan perkataan secara lisan
+ゆっくり;ゆっくり;pelan-pelan, perlahan;melakukan sesuatu tanpa tergesa-gesa atau tempo lambat
+〜方;〜かた;cara ...;akhiran penunjuk cara melakukan perbuatan (misal 読み方 cara baca)
+メール;メール;email, surel;pesan surat elektronik
+書類;しょるい;dokumen berkas;kertas-kertas arsip atau dokumen resmi
+教科書;きょうかしょ;buku teks pelajaran;buku panduan baku pegangan siswa dalam belajar
+自信がありません;じしんがありません;saya tidak percaya diri;merasa ragu atau kurang yakin dengan kemampuan sendiri
+練習;れんしゅう;latihan, praktik;aktivitas mengulang-ulang agar terampil
+探す;さがす;mencari;berupaya menemukan barang, informasi, atau orang
+何回も;なんかいも;berulang-ulang, berkali-kali;frekuensi pengulangan yang sangat sering
+教室;きょうしつ;ruang kelas, kursus;ruangan tempat belajar atau kelas pelatihan
+無料;むりょう;gratis, cuma-cuma;tidak dipungut bayaran biaya sepeser pun
+先生;せんせい;guru, pengajar, dokter;sebutan penghormatan bagi pengajar atau profesi terhormat
+知恵;ちえ;kebijaksanaan, ide cerdas, akal;kecerdasan pemikiran atau wawasan solusi bijak
+拝借する;はいしゃくする;meminjam (merendah);ragam kenjougo dari 借りる (misal 知恵を拝借する minta sumbang ide)
+サイト;サイト;situs web, website;laman internet penyedia informasi
+トップ;トップ;halaman depan, puncak utama;halaman beranda web (top page) atau peringkat teratas
+カテゴリー;カテゴリー;kategori, kelompok tema;pengelompokan berdasarkan jenis bidang
+ランキング;ランキング;peringkat, tangga urutan;daftar urutan popularitas atau skor prestasi
+わし;わし;aku, kakek ini;kata ganti orang pertama informal khas pria lanjut usia
+検索;けんさく;pencarian data;mencari kata kunci informasi di internet atau basis data
+質問;しつもん;pertanyaan;hal yang ditanyakan untuk meminta kejelasan
+相談;そうだん;konsultasi, musyawarah;membicarakan persoalan bersama demi mencari jalan keluar
+おしゃべりする;おしゃべりする;mengobrol santai;berbincang santai mengalir tanpa topik berat
+シャドーイングする;シャドーイングする;latihan shadowing;metode menirukan suara rekaman audio seketika laksana bayangan
+ボランティア;ボランティア;relawan, sukarelawan;kegiatan membantu masyarakat tanpa menuntut bayaran

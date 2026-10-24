@@ -10,7 +10,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jawaban sanggahan, atau jawaban santun membalas pujian/terima kasih"
   },
   {
     "id": "mn-08-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 08",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata sambung pertentangan dalam satu kalimat (cth: 日本の食べ物は美味しいですが、高いです)"
   },
   {
     "id": "mn-08-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 08",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menawarkan cangkir/gelas tambahan minuman (teh/kopi)"
   },
   {
     "id": "mn-08-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 08",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Diikuti bentuk negatif (cth: あまり美味しくない = tidak begitu enak)"
   },
   {
     "id": "mn-08-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bentuk konjugasi lampau/negatif menggunakan よい (よくない, よかった)"
   },
   {
     "id": "mn-08-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 08",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jawaban sanggahan, atau jawaban santun membalas pujian/terima kasih"
   },
   {
     "id": "mn-08-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rasa makanan atau minuman yang sedap"
   },
   {
     "id": "mn-08-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bisa bermakna menarik (buku/film) atau lucu menghibur"
   },
   {
     "id": "mn-08-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 08",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menanyakan kondisi kesehatan atau kabar lawan bicara"
   },
   {
     "id": "mn-08-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 08",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bisa merujuk kecantikan wanita, keindahan pemandangan, atau kebersihan kamar"
   },
   {
     "id": "mn-08-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kota metropolitan terbesar di Tiongkok"
   },
   {
     "id": "mn-08-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 08",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pujian atas penampilan busana, desain, atau sikap seseorang"
   },
   {
     "id": "mn-08-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 08",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan jeda sambil memikirkan jawaban pertanyaan lawan bicara"
   },
   {
     "id": "mn-08-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 08",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata sambung menambah sifat positif atau urutan peristiwa"
   },
   {
     "id": "mn-08-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 08",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan sopan sebelum beranjak pulang dari bertamu"
   },
   {
     "id": "mn-08-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menanyakan kesan atau pendapat lawan bicara (sopan: いかが)"
   },
   {
     "id": "mn-08-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 08",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Penegas tingkat tinggi untuk kata sifat (cth: とても暑い)"
   },
   {
     "id": "mn-08-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menanyakan ciri atau jenis kata benda (cth: どんな町ですか)"
   },
   {
     "id": "mn-08-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 08",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Suasana kota atau tempat yang hidup dan penuh orang"
   },
   {
     "id": "mn-08-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Paras tampan pria (handsome)"
   },
   {
     "id": "mn-08-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 08",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ajakan ramah tuan rumah kepada tamu saat berpamitan"
   },
   {
     "id": "mn-08-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Rumah makan bergaya barat atau modern"
   },
   {
     "id": "mn-08-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi atau kualitas tidak baik,  lawan dari いい"
   },
   {
     "id": "mn-08-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Harga barang yang terjangkau,  lawan kata dari 高い"
   },
   {
     "id": "mn-08-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Soal ujian atau tugas yang tidak sulit (lawan kata dari 難しい,  beda kanji dgn 優しい = ramah)"
   },
   {
     "id": "mn-08-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 08",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi waktu luang tanpa kesibukan,  lawan dari 忙しい"
   },
   {
     "id": "mn-08-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perasaan gembira menikmati acara, perjalanan, atau hobi"
   },
   {
     "id": "mn-08-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Suhu cuaca/iklim yang dingin (lawan dari 暑い,  benda dingin = 冷たい)"
   },
   {
     "id": "mn-08-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 08",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menanyakan kondisi kesehatan atau kabar lawan bicara"
   },
   {
     "id": "mn-08-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Barang, gedung, atau cerita kuno,  lawan kata dari 新しい (usia orang tua = 年寄り)"
   },
   {
     "id": "mn-08-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bisa harga barang mahal (lawan 安い) atau posisi fisik tinggi (lawan 低い)"
   },
   {
     "id": "mn-08-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna gelap malam atau arang"
   },
   {
     "id": "mn-08-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bunga sakura khas Jepang lambang musim semi"
   },
   {
     "id": "mn-08-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Daratan tinggi pegunungan"
   },
   {
     "id": "mn-08-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Aktivitas profesi pekerjaan atau dinas"
   },
   {
     "id": "mn-08-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Lokasi geografis atau spot area tertentu"
   },
   {
     "id": "mn-08-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Suhu hawa udara yang menyengat (musim panas,  benda panas = 熱い)"
   },
   {
     "id": "mn-08-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ukuran fisik benda atau volume suara kecil,  lawan kata dari 大きい"
   },
   {
     "id": "mn-08-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Segala santapan hidangan yang dapat dimakan"
   },
   {
     "id": "mn-08-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Benda, barang, atau informasi yang belum lama tercipta"
   },
   {
     "id": "mn-08-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 08",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kebaikan hati kepada orang lain (perbaikan kanji: bukan 新設)"
   },
   {
     "id": "mn-08-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pola hidup rutinitas keseharian"
   },
   {
     "id": "mn-08-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna langit atau lautan biru"
   },
   {
     "id": "mn-08-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 08",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Suasana yang hening tanpa kebisingan,  lawan dari 賑やか"
   },
   {
     "id": "mn-08-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna merah darah atau mawar"
   },
   {
     "id": "mn-08-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ukuran dimensi benda yang luas atau volume besar"
   },
   {
     "id": "mn-08-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Wilayah kota pemukiman penduduk"
   },
   {
     "id": "mn-08-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Posisi ketinggian yang rendah,  lawan kata dari 高い"
   },
   {
     "id": "mn-08-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pelajaran atau persoalan yang rumit,  lawan kata dari 易しい"
   },
   {
     "id": "mn-08-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Suhu panas makanan, minuman kuah, atau benda sentuhan"
   },
   {
     "id": "mn-08-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna putih terang atau salju"
   },
   {
     "id": "mn-08-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 08",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Memudahkan aktivitas dan hemat waktu,  lawan dari 不便"
   },
   {
     "id": "mn-08-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Banyak pekerjaan dan tidak ada waktu luang,  lawan dari 暇"
   },
   {
     "id": "mn-08-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 08",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Dikenal oleh banyak orang luas"
   },
   {
     "id": "mn-08-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tempat tinggal bersama pelajar atau staf perusahaan"
   },
   {
     "id": "mn-08-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Suhu sentuhan minuman es atau benda,  bisa juga sikap dingin"
   },
   {
     "id": "mn-08-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna jingga oranye, atau buah jeruk manis"
   },
   {
     "id": "mn-08-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna kuning cerah seperti buah pisang"
   },
   {
     "id": "mn-08-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna abu-abu netral (sinonim: 灰色 / はいいろ)"
   },
   {
     "id": "mn-08-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 08",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna cokelat seperti warna air teh"
   },
   {
     "id": "mn-08-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna merah muda feminin cerah"
   },
   {
     "id": "mn-08-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna pasir muda lembut kecokelatan"
   },
   {
     "id": "mn-08-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna hijau daun tanaman alami"
   },
   {
     "id": "mn-08-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna ungu mewah kebangsawanan"
   },
   {
     "id": "mn-08-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Musim bersuhu terik di Jepang (Juni - Agustus)"
   },
   {
     "id": "mn-08-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Musim berdaun merah momiji dan panen (September - November)"
   },
   {
     "id": "mn-08-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Musim bunga sakura mekar (Maret - Mei)"
   },
   {
     "id": "mn-08-068",
@@ -881,6 +948,7 @@
     "chapter": "Bab 08",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Musim salju bersuhu beku (Desember - Februari)"
   }
 ]

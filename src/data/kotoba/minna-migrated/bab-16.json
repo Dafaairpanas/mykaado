@@ -10,7 +10,8 @@
     "chapter": "Bab 16",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan rendah hati saat dipuji kemampuan bahasa Jepang/keterampilannya"
   },
   {
     "id": "mn-16-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tempat ibadah agama Buddha di Jepang"
   },
   {
     "id": "mn-16-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 16",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan urutan nomor antrean, bus, atau peron"
   },
   {
     "id": "mn-16-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Bagian tubuh perut (sopan: お腹,  anak: ぽんぽん)"
   },
   {
     "id": "mn-16-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 16",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pertanyaan ramah staf bank saat nasabah berdiri di depan mesin ATM"
   },
   {
     "id": "mn-16-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kartu debit penarikan uang tunai di mesin bank (cash card)"
   },
   {
     "id": "mn-16-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Layanan staf kepada pelanggan, atau bonus cuma-cuma dari toko"
   },
   {
     "id": "mn-16-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pancuran air mandi (シャワーを浴びる = mandi shower)"
   },
   {
     "id": "mn-16-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Olahraga lari pelan menjaga kebugaran tubuh (ジョギングをする)"
   },
   {
     "id": "mn-16-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 16",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan memuji pencapaian atau kehebatan lawan bicara"
   },
   {
     "id": "mn-16-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 16",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menanyakan rute perjalanan transportasi atau prosedur melakukan sesuatu"
   },
   {
     "id": "mn-16-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Menanyakan pilihan barang dari 3 opsi atau lebih (diikuti kata benda)"
   },
   {
     "id": "mn-16-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kata tanya benda memilih 1 di antara banyak opsi (berdiri sendiri)"
   },
   {
     "id": "mn-16-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tombol mesin elektronik, atau kancing baju (cth: ボタンを押す)"
   },
   {
     "id": "mn-16-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan langkah awal dalam suatu tahapan prosedur"
   },
   {
     "id": "mn-16-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 16",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kurang cahaya lampu/malam,  bisa juga kepribadian yang tertutup murung"
   },
   {
     "id": "mn-16-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Nomor identifikasi pribadi 4 digit kartu ATM"
   },
   {
     "id": "mn-16-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 16",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menelan minuman,  sering khusus merujuk minum sake/bir bersama rekan"
   },
   {
     "id": "mn-16-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 16",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menekan tombol tombol lift/saklar, atau mendorong pintu"
   },
   {
     "id": "mn-16-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 16",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengambil uang simpanan dari mesin ATM atau rekening bank (お金を下ろす)"
   },
   {
     "id": "mn-16-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Memeriksa kepastian data atau fakta (確認する = mengonfirmasi)"
   },
   {
     "id": "mn-16-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Bagian depan kepala manusia (wajah)"
   },
   {
     "id": "mn-16-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Besaran nominal uang yang ditransaksikan di ATM"
   },
   {
     "id": "mn-16-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 16",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengamati proses kerja pabrik atau tempat bersejarah untuk belajar"
   },
   {
     "id": "mn-16-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Bagian wajah untuk berbicara dan mengunyah makanan"
   },
   {
     "id": "mn-16-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 16",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Melangkah keluar turun dari kereta, bus, atau taksi (kendaraan ditandai を)"
   },
   {
     "id": "mn-16-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 16",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengawali aktivitas kerja, pelajaran, atau rapat (transitif)"
   },
   {
     "id": "mn-16-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 16",
     "type": "particle",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Gigi di dalam mulut untuk mengunyah makanan (歯を磨く = sikat gigi)"
   },
   {
     "id": "mn-16-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 16",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Langkah urutan kronologis setelah langkah pertama selesai"
   },
   {
     "id": "mn-16-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Indra pendengaran di sisi kepala manusia"
   },
   {
     "id": "mn-16-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 16",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Usia yang masih belia berenergi,  lawan kata dari 年寄り"
   },
   {
     "id": "mn-16-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 16",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengeluarkan dompet, menyerahkan tugas PR, atau mengirim surat pos"
   },
   {
     "id": "mn-16-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 16",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Lulus dari universitas (大学を出る), atau keluar dari ruangan"
   },
   {
     "id": "mn-16-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 16",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menaiki sarana transportasi kereta/bus/sepeda (kendaraan ditandai に)"
   },
   {
     "id": "mn-16-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 16",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Pindah jalur rel kereta api atau berganti bus di halte peron"
   },
   {
     "id": "mn-16-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Tempat ibadah agama Shinto dengan ciri khas gerbang torii"
   },
   {
     "id": "mn-16-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Bagian tubuh bawah penopang tubuh untuk melangkah"
   },
   {
     "id": "mn-16-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Raga jasmani fisik manusia (体に気をつけて = jaga kesehatan tubuh)"
   },
   {
     "id": "mn-16-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 16",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ukuran panjang benda atau durasi waktu yang pendek,  lawan dari 長い"
   },
   {
     "id": "mn-16-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 16",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ukuran fisik atau durasi waktu yang panjang,  lawan dari 短い"
   },
   {
     "id": "mn-16-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 16",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menghubungi seseorang lewat sambungan panggilan telepon"
   },
   {
     "id": "mn-16-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Bagian tubuh paling atas tempat otak berada (頭がいい = pintar)"
   },
   {
     "id": "mn-16-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 16",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Masuk kuliah ke perguruan tinggi (大学に入る), atau masuk ruangan"
   },
   {
     "id": "mn-16-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 16",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menaruh barang ke dalam wadah atau kartu ke mesin ATM (transitif)"
   },
   {
     "id": "mn-16-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Tinggi postur tubuh manusia (perbaikan: 背が高い = tinggi badan semampai, bukan punggung)"
   },
   {
     "id": "mn-16-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Rambut kepala manusia (rambut panjang = 髪が長い)"
   },
   {
     "id": "mn-16-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Indra penciuman di tengah wajah"
   },
   {
     "id": "mn-16-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 16",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Cahaya ruangan benderang,  atau kepribadian orang yang ramah ceria"
   },
   {
     "id": "mn-16-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Indra penglihatan manusia"
   },
   {
     "id": "mn-16-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 16",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mandi di bawah kucuran air pancuran (シャワーを浴びる)"
   },
   {
     "id": "mn-16-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna hijau daun alami, atau pepohonan asri di taman kota"
   },
   {
     "id": "mn-16-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Jaringan perusahaan grup operator kereta api terbesar di Jepang"
   },
   {
     "id": "mn-16-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Menu opsi penarikan uang saldo di layar mesin ATM"
   },
   {
     "id": "mn-16-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mengirim uang dana ke rekening orang/pihak lain di bank"
   },
   {
     "id": "mn-16-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Transfer dana antar-rekening milik nasabah yang sama"
   },
   {
     "id": "mn-16-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menu opsi menyetor uang tunai masuk ke rekening tabungan bank"
   },
   {
     "id": "mn-16-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kota besar di Jawa Barat, Indonesia"
   },
   {
     "id": "mn-16-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Wilayah historis di negara Jerman"
   },
   {
     "id": "mn-16-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kota pelabuhan bersejarah di Meksiko"
   },
   {
     "id": "mn-16-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menu melihat sisa saldo simpanan tabungan di mesin ATM"
   },
   {
     "id": "mn-16-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Festival musim dingin terkenal di Sapporo Hokkaido dengan patung es raksasa"
   },
   {
     "id": "mn-16-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Nama halte bus fiktif di depan universitas dalam buku percakapan"
   },
   {
     "id": "mn-16-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Mencetak histori catatan mutasi transaksi pada buku rekening bank"
   },
   {
     "id": "mn-16-064",
@@ -829,6 +892,7 @@
     "chapter": "Bab 16",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Pusat distrik perbelanjaan dan transportasi stasiun megah di Osaka"
   }
 ]

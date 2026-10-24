@@ -10,7 +10,8 @@
     "chapter": "Bab 09",
     "type": "particle",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan alasan atau sebab di akhir klausa (cth: 時間がありませんから)"
   },
   {
     "id": "mn-09-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 09",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menolak ajakan secara halus dan sopan tanpa menyinggung lawan bicara"
   },
   {
     "id": "mn-09-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 09",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Keberadaan benda mati atau kepemilikan abstrak (cth: 約束があります)"
   },
   {
     "id": "mn-09-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Pekerjaan paruh waktu mahasiswa/pekerja (sering disingkat バイト)"
   },
   {
     "id": "mn-09-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Persetujuan santai memberikan izin atau menerima tawaran"
   },
   {
     "id": "mn-09-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 09",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mengajak lawan bicara melakukan aktivitas bersama-sama"
   },
   {
     "id": "mn-09-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sistem aksara silabis Jepang untuk kata serapan asing (kanji: 片仮名)"
   },
   {
     "id": "mn-09-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hiburan menyanyi dengan iringan musik rekaman (kara=kosong, oke=orkes)"
   },
   {
     "id": "mn-09-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Aliran musik simfoni orkestra klasik bergaya Eropa"
   },
   {
     "id": "mn-09-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pertunjukan panggung konser musik langsung (live concert)"
   },
   {
     "id": "mn-09-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Sebutan sopan untuk suami milik orang lain"
   },
   {
     "id": "mn-09-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Aktivitas fisik atletik dan permainan bola (スポーツをする = berolahraga)"
   },
   {
     "id": "mn-09-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 09",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tingkat pemahaman sekitar 70-80% (cth: だいたい分かります)"
   },
   {
     "id": "mn-09-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 09",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jumlah kuantitas barang atau orang yang berlimpah"
   },
   {
     "id": "mn-09-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 09",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menanyakan konfirmasi saat lawan bicara tampak ragu menolak"
   },
   {
     "id": "mn-09-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Seni menari gerak tubuh berirama (ダンスをする = menari)"
   },
   {
     "id": "mn-09-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Karcis tanda masuk konser, film bioskop, atau pertunjukan"
   },
   {
     "id": "mn-09-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menanyakan alasan atau latar belakang terjadinya suatu hal (mengapa: なぜ)"
   },
   {
     "id": "mn-09-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Aksara fonetik silabis dasar bahasa Jepang (kanji: 平仮名)"
   },
   {
     "id": "mn-09-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 09",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Ungkapan sopan menolak ajakan dan berharap diajak di lain kesempatan"
   },
   {
     "id": "mn-09-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 09",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tingkat pemahaman mendalam (よく分かる) atau frekuensi sering"
   },
   {
     "id": "mn-09-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sistem penulisan huruf alfabet Latin untuk bahasa Jepang"
   },
   {
     "id": "mn-09-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Segala jenis cairan konsumsi (teh, jus, kopi, air)"
   },
   {
     "id": "mn-09-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Panggilan sopan untuk istri milik orang lain"
   },
   {
     "id": "mn-09-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Karya seni olah nada dan melodi"
   },
   {
     "id": "mn-09-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 09",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kurang terampil melakukan suatu keahlian,  lawan kata dari 上手"
   },
   {
     "id": "mn-09-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Gubahan syair musik yang dinyanyikan (歌を歌う = bernyanyi)"
   },
   {
     "id": "mn-09-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Seni teater drama tari klasik tradisional khas Jepang dengan riasan wajah mencolok"
   },
   {
     "id": "mn-09-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Karya seni rupa lukis dua dimensi (絵を描く = melukis gambar)"
   },
   {
     "id": "mn-09-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Aksara ideogram logografik asal Tiongkok yang dipakai dalam bahasa Jepang"
   },
   {
     "id": "mn-09-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 09",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan ketidaksukaan pada objek/makanan (lawan kata dari 好き)"
   },
   {
     "id": "mn-09-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 09",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyukai objek, hobi, atau seseorang (lawan kata dari 嫌い)"
   },
   {
     "id": "mn-09-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut istri kandung sendiri saat berbicara kepada orang lain"
   },
   {
     "id": "mn-09-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Uang koin atau uang kertas pecahan kecil untuk kembalian"
   },
   {
     "id": "mn-09-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan kecewa atas hal yang tidak sesuai harapan"
   },
   {
     "id": "mn-09-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Anak kandung sendiri atau anak kecil"
   },
   {
     "id": "mn-09-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Karakter tulisan huruf, atau bentuk tulisan tangan seseorang"
   },
   {
     "id": "mn-09-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Durasi waktu luang atau kesempatan (cth: 時間がありません)"
   },
   {
     "id": "mn-09-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 09",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jumlah kuantitas atau derajat yang sedikit (lawan kata dari たくさん)"
   },
   {
     "id": "mn-09-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 09",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Terampil dan lihai dalam suatu keahlian (lawan kata dari 下手)"
   },
   {
     "id": "mn-09-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 09",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Diikuti bentuk kalimat negatif (cth: 全然分かりません = sama sekali tidak paham)"
   },
   {
     "id": "mn-09-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 09",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "早く = lebih awal/pagi-pagi,  速く = pergerakan laju kecepatan tinggi"
   },
   {
     "id": "mn-09-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 09",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Permintaan sopan ingin meminjam barang lawan bicara (cth: ペンを~)"
   },
   {
     "id": "mn-09-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut suami kandung sendiri saat berbicara kepada orang lain"
   },
   {
     "id": "mn-09-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 09",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memahami arti, situasi, atau bahasa (ditandai partikel が: 日本語が分かる)"
   },
   {
     "id": "mn-09-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Olahraga permainan bisbol yang sangat populer di Jepang"
   },
   {
     "id": "mn-09-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kesepakatan temu atau komitmen janji (約束がある = ada janji)"
   },
   {
     "id": "mn-09-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hal penting yang harus diselesaikan (用事がある = ada urusan)"
   },
   {
     "id": "mn-09-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bepergian jalan-jalan menikmati tempat wisata (旅行する = berwisata)"
   },
   {
     "id": "mn-09-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Hidangan olahan makanan (料理をする = memasak makanan)"
   },
   {
     "id": "mn-09-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Genre film perkelahian dan aksi menegangkan (action movie)"
   },
   {
     "id": "mn-09-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Karya animasi kartun khas produksi Jepang"
   },
   {
     "id": "mn-09-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Seni pertunjukan teater musik vokal klasik diiringi orkestra"
   },
   {
     "id": "mn-09-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Olahraga sepak bola permainan tim di lapangan"
   },
   {
     "id": "mn-09-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Aliran musik berirama sinkopasi improvisasi khas Afrika-Amerika"
   },
   {
     "id": "mn-09-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Permainan olahraga bola pukul mirip bisbol berbola lebih besar"
   },
   {
     "id": "mn-09-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Karya film nonfiksi mendokumentasikan fakta kehidupan nyata"
   },
   {
     "id": "mn-09-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Olahraga permainan voli memantulkan bola di atas jaring net"
   },
   {
     "id": "mn-09-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Aliran musik populer kontemporer ramah dengar"
   },
   {
     "id": "mn-09-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Genre film kisah seram menyeramkan hantu atau misteri"
   },
   {
     "id": "mn-09-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Karya cerita pengungkapan rahasia atau kasus teka-teki kriminal"
   },
   {
     "id": "mn-09-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pertunjukan teater panggung perpaduan dialog, lagu, dan tarian"
   },
   {
     "id": "mn-09-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Olahraga permainan bola lonjong dengan kontak fisik adu tubuh"
   },
   {
     "id": "mn-09-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Musik berirama enerjik khas Amerika Latin (salsa, samba, dll.)"
   },
   {
     "id": "mn-09-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Aliran musik petikan gitar listrik bertempo cepat dan menghentak"
   },
   {
     "id": "mn-09-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Genre lagu balada tradisional modern khas Jepang penuh cengkok emosional"
   },
   {
     "id": "mn-09-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Karya sandiwara atau film jenaka yang mengundang tawa (lawan dari 悲劇 / tragedi)"
   },
   {
     "id": "mn-09-068",
@@ -881,7 +948,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Seni bela diri pedang bambu khas Jepang dengan pakaian zirah pelindung"
   },
   {
     "id": "mn-09-069",
@@ -894,7 +962,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Aktivitas berenang di kolam air atau perairan bebas"
   },
   {
     "id": "mn-09-070",
@@ -907,7 +976,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Genre film pertempuran militer persenjataan antarbangsa"
   },
   {
     "id": "mn-09-071",
@@ -920,7 +990,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Karya film yang diadaptasi dari novel sastra bermutu tinggi"
   },
   {
     "id": "mn-09-072",
@@ -933,7 +1004,8 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Nyanyian rakyat tradisional anonim warisan daerah pedesaan"
   },
   {
     "id": "mn-09-073",
@@ -946,6 +1018,7 @@
     "chapter": "Bab 09",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Genre kisah asmara cinta sepasang kekasih romantis"
   }
 ]

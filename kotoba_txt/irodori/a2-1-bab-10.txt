@@ -1,0 +1,69 @@
+曜日;ようび;hari dalam sepekan;nama-nama hari (Senin s.d. Minggu)
+時間;じかん;waktu, jam pelaksanaan;durasi atau waktu jadwal acara
+費用;ひよう;biaya, ongkos;pengeluaran dana yang dibutuhkan untuk suatu kegiatan
+毎月;まいつき;setiap bulan;frekuensi berulang bulanan
+第〜;だい〜;ke-...;awalan urutan hitungan formal (misal 第3木曜日 hari Kamis ke-3)
+公民館;こうみんかん;balai warga, balai komunitas;gedung pertemuan fasilitas publik untuk warga lokal
+問い合わせ;といあわせ;kontak informasi, pertanyaan;menghubungi panitia untuk meminta keterangan lebih lanjut
+スタート;スタート;memulai, start;awal dimulainya kegiatan (misal 10月スタート mulai Oktober)
+旬;しゅん;musim terbaik makanan;waktu puncak kesegaran dan kelezatan bahan pangan musiman
+味わう;あじわう;menikmati cita rasa, mencicipi;mengecap kelezatan rasa kuliner atau menikmati suasana
+全〜回;ぜん〜かい;total ... sesi;jumlah total keseluruhan pertemuan kelas (misal 全4回 total 4 sesi)
+調理室;ちょうりしつ;ruang dapur masak;ruangan praktik memasak yang lengkap dengan kompor dan perabot
+各;かく;setiap, masing-masing;tiap-tiap bagian atau kelompok (misal 各回 setiap sesi)
+先着;せんちゃく;siapa cepat dia dapat;sistem penerimaan peserta berdasarkan urutan tercepat mendaftar
+書道;しょどう;shodo, kaligrafi Jepang;seni menulis indah aksara kanji dengan kuas dan tinta bak
+日時;にちじ;hari, tanggal dan waktu;keterangan lengkap tanggal beserta jam acara
+〜代;〜だい;ongkos ..., biaya ...;biaya pembayaran tertentu (misal テキスト代 biaya buku)
+外国人向け;がいこくじんむけ;khusus warga asing;ditujukan atau dirancang khusus untuk orang asing
+体験教室;たいけんきょうしつ;kelas uji coba, trial class;kelas pengenalan singkat untuk mencoba kegiatan secara langsung
+身につける;みにつける;menguasai keterampilan, memakai;mempelajari keahlian hingga mahir atau mengenakan pakaian di tubuh
+月;つき;bulan kalender;satuan bulan dalam sistem kalender
+テキスト;テキスト;buku teks panduan, modul;buku materi pegangan pelajaran kelas
+道具;どうぐ;alat, perkakas;peralatan yang dipakai bekerja atau berlatih
+各自;かくじ;masing-masing orang;tiap-tiap individu peserta (membawa perlengkapan sendiri)
+見学;けんがく;kunjungan observasi, meninjau;melihat-lihat secara langsung proses kegiatan untuk belajar
+申し込み;もうしこみ;pendaftaran, pengajuan;proses mendaftar untuk mengikuti kegiatan
+お持ちください;おもちください;silakan membawa;anjuran santun mempersilakan membawa perlengkapan sendiri
+参加されています;さんかされています;sedang ikut serta;bentuk sopan (sonkeigo) dari 参加しています
+いらしてください;いらしてください;silakan datang berkunjung;undangan sangat sopan (sonkeigo) untuk mempersilakan hadir
+かかる;かかる;memakan (biaya/waktu);membutuhkan pengeluaran dana atau waktu tertentu (費用がかかる)
+合気道;あいきどう;aikido;seni bela diri defensif tradisional khas Jepang
+〜回完結;〜かいかんけつ;tuntas dalam ... pertemuan;paket kursus yang selesai dalam sekian sesi (misal 1回完結 tuntas 1 sesi)
+体育室;たいいくしつ;ruang olahraga dalam gedung;ruangan senam atau latihan fisik di balai komunitas
+動きやすい;うごきやすい;leluasa bergerak;pakaian yang nyaman dan tidak menghalangi gerak badan
+道着;どうぎ;seragam bela diri gi;setelan baju latihan bela diri tradisional (judo, aikido, karate)
+構いません;かまいません;tidak masalah, boleh;menyatakan persetujuan bahwa hal tersebut tidak mengapa
+必要ありません;ひつようありません;tidak perlu;menyatakan tidak dibutuhkannya suatu hal
+参加する;さんかする;ikut serta, berpartisipasi;terlibat aktif dalam sebuah acara atau kursus
+クラス;クラス;kelas pelatihan;kelompok rombongan belajar dalam pelatihan
+必要[な];ひつよう[な];perlu, penting;keadaan mutlak dibutuhkan
+最初;さいしょ;pada mulanya, awalnya;tahap awal permulaan proses
+あとは;あとは;selanjutnya, selebihnya;bagian yang tersisa atau tahapan berikutnya
+聞く;きく;bertanya, menanyakan;meminta keterangan informasi (人に聞く)
+まだ空いていますか？;まだあいていますか？;apakah masih ada kuota kosong?;menanyakan ketersediaan tempat pendaftaran yang belum terisi
+払う;はらう;membayar;melunasi tagihan biaya uang tunai atau nontunai
+もういっぱいです;もういっぱいです;sudah penuh;kuota pendaftaran telah terpenuhi seluruhnya
+少々お待ちください;しょうしょうおまちください;mohon tunggu sebentar;ungkapan formal sopan meminta lawan bicara menunggu sejenak
+興味がある;きょうみがある;berminat, tertarik;memiliki rasa penasaran positif pada suatu bidang (〜に興味がある)
+それとも;それとも;ataukah;kata sambung pilihan alternatif di antara dua opsi pertanyaan
+コース;コース;paket program, kursus;rangkaian kurikulum program pelatihan terpadu
+全部;ぜんぶ;seluruhnya, semua;keseluruhan bagian tanpa terkecuali
+用意する;よういする;menyiapkan, menyediakan;mempersiapkan segala kebutuhan sebelum dimulai
+もっと;もっと;lebih banyak lagi;menambah tingkatan atau intensitas lebih jauh
+週;しゅう;pekan, minggu;siklus kurun waktu 7 hari
+何回;なんかい;berapa kali;kata tanya untuk menanyakan frekuensi pengulangan
+〜回;〜かい;... kali;satuan hitung frekuensi kali pengulangan (misal 1回 1 kali)
+ただ;ただ;gratis, cuma-cuma;ragam lisan santai bermakna tidak perlu membayar uang
+チラシ;チラシ;selebaran promosi, brosur;kertas selebaran pamflet informasi kegiatan
+持って来る;もってくる;membawa ke sini;membawa barang menuju ke arah pembicara
+ちょっといいですか？;ちょっといいですか？;bisa minta waktunya sebentar?;ungkapan sopan menyapa saat hendak bertanya atau berkonsultasi
+厳しい;きびしい;disiplin ketat, tegas;pengajar atau aturan yang sangat tegas tanpa kelonggaran
+申込書;もうしこみしょ;formulir pendaftaran;kertas isian resmi pengajuan pendaftaran
+紹介する;しょうかいする;memperkenalkan;mengenalkan orang atau hal baru kepada khalayak
+母語;ぼご;bahasa ibu;bahasa pertama yang dikuasai sejak kecil di tanah kelahiran
+どういう;どういう;seperti apa, yang bagaimana;kata tanya menanyakan maksud atau karakter hal
+意味;いみ;arti, makna;kandungan maksud arti suatu kata atau ucapan
+使う;つかう;menggunakan, memakai;memanfaatkan alat atau bahasa dalam beraktivitas
+前に;まえに;sebelumnya, di muka;urutan waktu sebelum atau posisi di depan
+どんなこと;どんなこと;hal seperti apa;menanyakan jenis aktivitas atau perkara yang dimaksud

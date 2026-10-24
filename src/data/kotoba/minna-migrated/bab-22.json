@@ -10,7 +10,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Kotak bekal nasi dan aneka lauk pauk siap santap khas Jepang"
   },
   {
     "id": "mn-22-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 22",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Alat bantu penglihatan lensa di depan mata"
   },
   {
     "id": "mn-22-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan jeda saat sedang berpikir mengingat sesuatu"
   },
   {
     "id": "mn-22-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 22",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ucapan selamat atas hari ulang tahun, pernikahan, atau kelulusan"
   },
   {
     "id": "mn-22-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 22",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pertanyaan ramah pelayan toko menawarkan bantuan kepada calon pembeli"
   },
   {
     "id": "mn-22-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 22",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Khusus kata kerja mengenakan penutup kepala atau topi (kanji: 被る)"
   },
   {
     "id": "mn-22-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Kudapan manis tart ulang tahun atau kue barat"
   },
   {
     "id": "mn-22-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pakaian luaran panjang penghangat tubuh musim dingin (overcoat)"
   },
   {
     "id": "mn-22-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bentuk sopan mengenalkan seseorang (atau menunjuk arah/benda dekat)"
   },
   {
     "id": "mn-22-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 22",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Aksesoris kain pengikat kerah kemeja pria"
   },
   {
     "id": "mn-22-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pakaian resmi setelan jas dan celana panjang pria/wanita"
   },
   {
     "id": "mn-22-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pakaian rajutan wol penghangat tubuh di musim dingin"
   },
   {
     "id": "mn-22-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 22",
     "type": "adv",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Denah apartemen dapur merangkap ruang makan meja (disingkat DK)"
   },
   {
     "id": "mn-22-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 22",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ragam formal saat mengawali kesimpulan atau pamit beranjak (santai: じゃ)"
   },
   {
     "id": "mn-22-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 22",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Khusus kata kerja mengenakan pakaian bagian bawah tubuh (celana, rok, kaos kaki, sepatu)"
   },
   {
     "id": "mn-22-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Ibu kota negara Prancis"
   },
   {
     "id": "mn-22-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kemampuan bercanda jenaka menghibur orang lain (humor)"
   },
   {
     "id": "mn-22-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Frekuensi kebiasaan yang sering dilakukan (cth: よく映画を見ます)"
   },
   {
     "id": "mn-22-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mesin mekanik otomatis cerdas buatan manusia"
   },
   {
     "id": "mn-22-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Kata ganti orang pertama jamak"
   },
   {
     "id": "mn-22-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Lemari dinding khas kamar tatami berpintu geser untuk menyimpan kasur futon"
   },
   {
     "id": "mn-22-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Biaya sewa bulanan tempat tinggal atau apartemen"
   },
   {
     "id": "mn-22-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Alat bantu penglihatan lensa di depan mata"
   },
   {
     "id": "mn-22-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 22",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Bayi lahir dari rahim ibu (intransitif: cth: 日本で生まれた)"
   },
   {
     "id": "mn-22-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 22",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Khusus kata kerja mengenakan pakaian bagian bawah tubuh (celana, rok, kaos kaki, sepatu)"
   },
   {
     "id": "mn-22-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kecocokan jadwal waktu pribadi (都合がいい = ada waktu luang,  都合が悪い = sibuk/berhalangan)"
   },
   {
     "id": "mn-22-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Alas tidur kasur kapas tradisional Jepang yang digelar di atas tatami"
   },
   {
     "id": "mn-22-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Penutup pelindung kepala dari panas terik"
   },
   {
     "id": "mn-22-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Benteng tembok pertahanan kuno terpanjang di dunia di Tiongkok"
   },
   {
     "id": "mn-22-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Ruangan berlantaikan tikar tatami dan berpintu geser kertas fusuma"
   },
   {
     "id": "mn-22-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mantel musim dingin panjang penghalau angin dan salju"
   },
   {
     "id": "mn-22-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Kain rajut pelindung kaki di dalam sepatu"
   },
   {
     "id": "mn-22-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Celana panjang kasual berbahan kain denim biru"
   },
   {
     "id": "mn-22-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pakaian resmi setelan jas dan celana panjang pria/wanita"
   },
   {
     "id": "mn-22-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pakaian bawahan wanita melingkari pinggang ke bawah"
   },
   {
     "id": "mn-22-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kaus kaki tipis nilon panjang merapatkan kaki wanita"
   },
   {
     "id": "mn-22-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pakaian penutup kaki dari pinggang hingga mata kaki"
   },
   {
     "id": "mn-22-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pakaian rajutan wol penghangat tubuh di musim dingin"
   },
   {
     "id": "mn-22-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Alas kaki jepit tradisional Jepang berpasangan dengan kimono"
   },
   {
     "id": "mn-22-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kaus kaki putih berbelah jempol untuk mengenakan sandal zori/geta"
   },
   {
     "id": "mn-22-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Aksesoris kain pengikat kerah kemeja pria"
   },
   {
     "id": "mn-22-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Sepatu tinggi berpelindung hingga betis kaki"
   },
   {
     "id": "mn-22-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tali kulit pengencang pinggang celana"
   },
   {
     "id": "mn-22-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mantel tahan air pelindung tubuh dari guyuran hujan"
   },
   {
     "id": "mn-22-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kemeja lengan panjang berkerah pakaian resmi kantor (white shirt)"
   },
   {
     "id": "mn-22-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Gaun baju wanita satu potong terusan dari atas hingga rok"
   },
   {
     "id": "mn-22-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Sepatu bertapak karet lentur untuk aktivitas lari atau senam"
   },
   {
     "id": "mn-22-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Pakaian dalam penutup tubuh intim di balik busana luar"
   },
   {
     "id": "mn-22-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Sarung pelindung tangan dari hawa dingin musim salju"
   },
   {
     "id": "mn-22-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pakaian luaran penutup tubuh bagian atas"
   },
   {
     "id": "mn-22-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 22",
     "type": "adv",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kain sabuk lebar panjang pengikat pakaian kimono tradisional Jepang"
   },
   {
     "id": "mn-22-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Busana tradisional jubah sutra khas kebudayaan Jepang"
   },
   {
     "id": "mn-22-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pakaian dalam wanita penutup bagian pinggul (perbaikan baris kosong)"
   },
   {
     "id": "mn-22-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Sepatu wanita bertumit tinggi runcing (high heels)"
   },
   {
     "id": "mn-22-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kemeja baju atasan longgar feminin untuk wanita"
   },
   {
     "id": "mn-22-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kain rajut wol penghangat leher di musim dingin (muffler)"
   },
   {
     "id": "mn-22-057",
@@ -738,6 +794,7 @@
     "chapter": "Bab 22",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Nama lembar angket fiktif dalam buku Minna no Nihongo"
   }
 ]

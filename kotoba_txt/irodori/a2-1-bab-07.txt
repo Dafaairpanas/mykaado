@@ -1,0 +1,34 @@
+駅;えき;stasiun kereta;stasiun perkeretaapian tempat naik-turun kereta
+受付;うけつけ;meja resepsionis, loket informasi;meja pendaftaran tamu atau informasi di depan gedung
+ホール;ホール;aula pertemuan, auditorium;ruang aula besar untuk pertunjukan atau pertemuan umum
+会社;かいしゃ;kantor, perusahaan;tempat berbadan usaha mempekerjakan karyawan
+門;もん;gerbang, pintu gerbang;pintu gerbang pagar masuk ke pekarangan gedung/sekolah
+集合する;しゅうごうする;berkumpul;berkumpul bersama di suatu titik lokasi yang ditentukan
+では;では;kalau begitu, jadi;kata pembuka menyepakati jadwal atau memulai topik pembicaraan
+案内する;あんないする;memandu jalan, mengantar keliling;menunjukkan jalan atau memandu tamu melihat fasilitas
+待ち合わせ;まちあわせ;janjian temu;kesepakatan janji bertemu di tempat dan jam tertentu
+イベント;イベント;acara, kegiatan khusus;acara khusus seperti bazar, seminar, atau festival
+始まる;はじまる;dimulai (intransitif);suatu acara atau film mulai berlangsung (イベントが始まる)
+スタッフ;スタッフ;staf pengurus, panitia;petugas atau anggota pelaksana kegiatan
+〜前;〜まえ;... sebelumnya;rentang waktu sebelum jadwal dimulai (misal 30分前 30 menit sebelumnya)
+待ち合わせする;まちあわせする;janjian bertemu;menunggu dan saling bertemu di lokasi yang disepakati
+平和;へいわ;perdamaian, kedamaian;keadaan aman tenteram tanpa konflik atau peperangan
+鳥;とり;burung;unggas bersayap yang dapat terbang
+像;ぞう;patung, monumen;karya seni ukir patung perunggu/batu sebagai simbol
+それ、何ですか？;それ、なんですか？;apa itu?;pertanyaan santai mengonfirmasi istilah asing dari ucapan lawan bicara
+事故;じこ;kecelakaan, insiden;kejadian darurat di jalan atau transportasi yang menghambat rute
+止まる;とまる;berhenti (intransitif);kendaraan atau kereta berhenti melaju (電車が止まる)
+連絡する;れんらくする;menghubungi, mengabari;memberi kabar lewat telepon, pesan teks, atau email
+寝坊する;ねぼうする;bangun kesiangan;terlelap terlalu lama sehingga telat bangun tidur di pagi hari
+今から;いまから;mulai sekarang ini;berangkat atau bertindak tepat dari saat ini juga
+急ぐ;いそぐ;bergegas, buru-buru;mempercepat langkah agar tidak terlambat
+先に;さきに;terlebih dahulu, duluan;melakukan tindakan lebih dulu mendahului yang lain (お先に)
+始める;はじめる;memulai (transitif);mengawali suatu kegiatan atau membuka acara (会を始める)
+道に迷う;みちにまよう;tersesat di jalan;kehilangan arah dan tidak tahu jalan yang harus dilalui
+遅れる;おくれる;terlambat, telat;datang melebihi jam janjian yang telah disepakati (時間に遅れる)
+着く;つく;tiba, sampai di tujuan;sampai di stasiun atau titik tujuan akhir (駅に着く)
+大丈夫[な];だいじょうぶ[な];tidak apa-apa, baik-baik saja;aman tanpa masalah atau tidak perlu dikhawatirkan
+時間;じかん;waktu, jam janji;waktu jam yang telah ditentukan
+間違える;まちがえる;salah, keliru;melakukan kekeliruan atau salah jadwal/tempat
+待つ;まつ;menunggu, menanti;menunggu kehadiran seseorang di titik kumpul
+カフェ;カフェ;kafe, kedai kopi;tempat santai minum kopi dan menyantap kudapan

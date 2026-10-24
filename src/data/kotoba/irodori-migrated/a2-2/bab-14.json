@@ -11,7 +11,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pelayanan jasa penunjang kebutuhan masyarakat"
   },
   {
     "id": "ir-a2-2-14-002",
@@ -25,7 +26,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kantor pengiriman surat, paket, dan tabungan pos"
   },
   {
     "id": "ir-a2-2-14-003",
@@ -39,7 +41,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "agen perantara sewa atau jual beli apartemen"
   },
   {
     "id": "ir-a2-2-14-004",
@@ -53,7 +56,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "tempat cukur rambut formal khusus pria"
   },
   {
     "id": "ir-a2-2-14-005",
@@ -67,7 +71,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "sebutan sehari-hari untuk tempat potong rambut pria"
   },
   {
     "id": "ir-a2-2-14-006",
@@ -81,7 +86,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "salon perawatan dan penataan rambut modern"
   },
   {
     "id": "ir-a2-2-14-007",
@@ -95,7 +101,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gerai pencucian pakaian jas dan mantel resmi"
   },
   {
     "id": "ir-a2-2-14-008",
@@ -109,7 +116,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "tempat cuci dan pengering pakaian swalayan bertenaga koin"
   },
   {
     "id": "ir-a2-2-14-009",
@@ -123,7 +131,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "gerai jual beli kendaraan roda empat bekas pakai"
   },
   {
     "id": "ir-a2-2-14-010",
@@ -137,7 +146,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "gerai penjualan serta servis perbaikan sepeda"
   },
   {
     "id": "ir-a2-2-14-011",
@@ -151,7 +161,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "gerai pendaftaran paket nomor dan penjualan ponsel"
   },
   {
     "id": "ir-a2-2-14-012",
@@ -165,7 +176,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tempat perbaikan layar retak dan baterai smartphone"
   },
   {
     "id": "ir-a2-2-14-013",
@@ -179,7 +191,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gerai jual beli perabot dan pakaian bekas (secondhand)"
   },
   {
     "id": "ir-a2-2-14-014",
@@ -193,7 +206,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pencucian pakaian profesional khusus jas dan wol"
   },
   {
     "id": "ir-a2-2-14-015",
@@ -207,7 +221,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "noda minyak atau saus yang mengotori kain pakaian"
   },
   {
     "id": "ir-a2-2-14-016",
@@ -221,7 +236,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "noda kotoran berhasil hilang dicuci (汚れ・シミが落ちる)"
   },
   {
     "id": "ir-a2-2-14-017",
@@ -235,7 +251,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "proses khusus menghilangkan noda tinta atau minyak di binatu"
   },
   {
     "id": "ir-a2-2-14-018",
@@ -249,7 +266,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "biaya tambahan di luar paket jasa standar"
   },
   {
     "id": "ir-a2-2-14-019",
@@ -263,7 +281,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "waktu pengambilan pakaian yang telah selesai dicuci"
   },
   {
     "id": "ir-a2-2-14-020",
@@ -277,7 +296,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tekanan angin untuk mengisi ban sepeda"
   },
   {
     "id": "ir-a2-2-14-021",
@@ -291,7 +311,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "alat pemompa angin ban manual atau listrik"
   },
   {
     "id": "ir-a2-2-14-022",
@@ -305,7 +326,8 @@
     "chapter": "Bab 14",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tekanan angin untuk mengisi ban sepeda"
   },
   {
     "id": "ir-a2-2-14-023",
@@ -319,7 +341,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ban karet roda sepeda atau mobil"
   },
   {
     "id": "ir-a2-2-14-024",
@@ -333,7 +356,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "penutup ulir pentil saluran udara ban"
   },
   {
     "id": "ir-a2-2-14-025",
@@ -347,7 +371,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memutar melepas penutup pentil sebelum memompa"
   },
   {
     "id": "ir-a2-2-14-026",
@@ -361,7 +386,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menjepitkan mulut selang pompa pada ujung pentil"
   },
   {
     "id": "ir-a2-2-14-027",
@@ -375,7 +401,8 @@
     "chapter": "Bab 14",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menutupkan kembali cap pentil setelah dipompa"
   },
   {
     "id": "ir-a2-2-14-028",
@@ -389,7 +416,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "melakukan servis tambahan mumpung sedang berada di bengkel"
   },
   {
     "id": "ir-a2-2-14-029",
@@ -403,7 +431,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "meneteskan oli pelumas pada rantai sepeda (オイルを差す)"
   },
   {
     "id": "ir-a2-2-14-030",
@@ -417,7 +446,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "ungkapan ramah montir saat hendak mengecek kerusakan sepeda"
   },
   {
     "id": "ir-a2-2-14-031",
@@ -431,7 +461,8 @@
     "chapter": "Bab 14",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ekspedisi pengantaran paket barang ke rumah (seperti Yamato)"
   },
   {
     "id": "ir-a2-2-14-032",
@@ -445,7 +476,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sistem ongkos kirim yang dilunasi oleh penerima saat paket tiba"
   },
   {
     "id": "ir-a2-2-14-033",
@@ -459,7 +491,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "sistem ongkos kirim yang dilunasi pihak pengirim saat menyerahkan paket"
   },
   {
     "id": "ir-a2-2-14-034",
@@ -473,7 +506,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menerima paket yang diantarkan kurir di pintu rumah"
   },
   {
     "id": "ir-a2-2-14-035",
@@ -487,7 +521,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kertas slip label alamat pengiriman barang"
   },
   {
     "id": "ir-a2-2-14-036",
@@ -501,7 +536,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menentukan jam atau hari tertentu penerimaan paket"
   },
   {
     "id": "ir-a2-2-14-037",
@@ -515,7 +551,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "rentang waktu pengantaran antara jam 8 hingga 12 siang"
   },
   {
     "id": "ir-a2-2-14-038",
@@ -529,7 +566,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tingkat superlatif paling cepat atau ekonomis"
   },
   {
     "id": "ir-a2-2-14-039",
@@ -543,7 +581,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sebutan sopan kurir saat mengantarkan barang kiriman"
   },
   {
     "id": "ir-a2-2-14-040",
@@ -557,7 +596,8 @@
     "chapter": "Bab 14",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "jawaban sopan kurir menerima paket untuk dikirimkan"
   },
   {
     "id": "ir-a2-2-14-041",
@@ -571,7 +611,8 @@
     "chapter": "Bab 14",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "layar monitor mesin ATM memunculkan instruksi"
   },
   {
     "id": "ir-a2-2-14-042",
@@ -585,7 +626,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "kartu magnetik bank untuk tarik tunai di mesin ATM"
   },
   {
     "id": "ir-a2-2-14-043",
@@ -599,7 +641,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "tombol menu mengambil uang simpanan dari rekening bank"
   },
   {
     "id": "ir-a2-2-14-044",
@@ -613,7 +656,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "urutan proses tahapan setelah menu dipilih"
   },
   {
     "id": "ir-a2-2-14-045",
@@ -627,7 +671,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kode sandi rahasia angka 4 digit rekening perbankan"
   },
   {
     "id": "ir-a2-2-14-046",
@@ -641,7 +686,8 @@
     "chapter": "Bab 14",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menekan tombol angka nomor PIN di keypad ATM"
   },
   {
     "id": "ir-a2-2-14-047",
@@ -655,7 +701,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jumlah digit kombinasi sandi (misal 4桁 PIN 4 digit)"
   },
   {
     "id": "ir-a2-2-14-048",
@@ -669,7 +716,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "lampu penanda lubang tempat memasukkan kartu atau uang"
   },
   {
     "id": "ir-a2-2-14-049",
@@ -683,7 +731,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "banyaknya saldo uang yang ditarik"
   },
   {
     "id": "ir-a2-2-14-050",
@@ -697,7 +746,8 @@
     "chapter": "Bab 14",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "satuan uang kertas Jepang (misal 1万円札 lembaran 10.000 yen)"
   },
   {
     "id": "ir-a2-2-14-051",
@@ -711,7 +761,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menukar sebagian nominal besar ke lembaran ribuan yen"
   },
   {
     "id": "ir-a2-2-14-052",
@@ -725,7 +776,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "menukar uang kertas pecahan besar menjadi receh"
   },
   {
     "id": "ir-a2-2-14-053",
@@ -739,7 +791,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "kertas bukti transaksi penarikan saldo dari mesin ATM"
   },
   {
     "id": "ir-a2-2-14-054",
@@ -753,7 +806,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "uang tunai kertas yang keluar dari mesin ATM"
   },
   {
     "id": "ir-a2-2-14-055",
@@ -767,7 +821,8 @@
     "chapter": "Bab 14",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "instruksi suara otomatis ATM meminta uang diambil"
   },
   {
     "id": "ir-a2-2-14-056",
@@ -781,7 +836,8 @@
     "chapter": "Bab 14",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kalimat penutup sopan dari mesin ATM atau kasir"
   },
   {
     "id": "ir-a2-2-14-057",
@@ -795,7 +851,8 @@
     "chapter": "Bab 14",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mencemplungkan surat ke kotak pos pinggir jalan"
   },
   {
     "id": "ir-a2-2-14-058",
@@ -809,7 +866,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "akses web untuk mengajukan jadwal kirim ulang paket"
   },
   {
     "id": "ir-a2-2-14-059",
@@ -823,7 +881,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mendaftar layanan kirim ulang paket secara daring"
   },
   {
     "id": "ir-a2-2-14-060",
@@ -837,7 +896,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "barang kiriman pos berupa surat atau paket kecil"
   },
   {
     "id": "ir-a2-2-14-061",
@@ -851,7 +911,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "kondisi penerima paket tidak ada di rumah saat kurir tiba"
   },
   {
     "id": "ir-a2-2-14-062",
@@ -865,7 +926,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "meja loket urusan pos dan pengantaran barang"
   },
   {
     "id": "ir-a2-2-14-063",
@@ -879,7 +941,8 @@
     "chapter": "Bab 14",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kurir datang kembali mengantarkan paket sesuai jam yang diminta"
   },
   {
     "id": "ir-a2-2-14-064",
@@ -893,7 +956,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "sistem telepon otomatis penjadwalan paket non-stop"
   },
   {
     "id": "ir-a2-2-14-065",
@@ -907,7 +971,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "slip kertas kurir yang ditinggalkan saat rumah kosong berisi nomor resi"
   },
   {
     "id": "ir-a2-2-14-066",
@@ -921,7 +986,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengambil sendiri paket kiriman di kantor pos terdekat"
   },
   {
     "id": "ir-a2-2-14-067",
@@ -935,7 +1001,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "stempel nama pribadi bukti tanda terima paket pos"
   },
   {
     "id": "ir-a2-2-14-068",
@@ -949,7 +1016,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "kartu tanda bukti identitas diri berkendara di Jepang"
   },
   {
     "id": "ir-a2-2-14-069",
@@ -963,7 +1031,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "dokumen identitas diri berobat"
   },
   {
     "id": "ir-a2-2-14-070",
@@ -977,7 +1046,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "kartu kependudukan resmi berchip IC tanda pengenal warga"
   },
   {
     "id": "ir-a2-2-14-071",
@@ -991,7 +1061,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "layanan paket kilat tiba dalam hitungan jam di hari itu juga"
   },
   {
     "id": "ir-a2-2-14-072",
@@ -1005,7 +1076,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "nomor kontak ponsel pribadi yang bisa dihubungi"
   },
   {
     "id": "ir-a2-2-14-073",
@@ -1019,7 +1091,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "sambungan telepon kabel PSTN rumah tangga"
   },
   {
     "id": "ir-a2-2-14-074",
@@ -1033,7 +1106,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "angka penunjuk wilayah pos di Jepang (tanda 〒)"
   },
   {
     "id": "ir-a2-2-14-075",
@@ -1047,7 +1121,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "kode klasifikasi surat kilat atau paket pada resi"
   },
   {
     "id": "ir-a2-2-14-076",
@@ -1061,7 +1136,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "surat atau paket lintas negara mancanegara"
   },
   {
     "id": "ir-a2-2-14-077",
@@ -1075,7 +1151,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "surat resmi berharga yang wajib diserahkan langsung bertanda tangan"
   },
   {
     "id": "ir-a2-2-14-078",
@@ -1089,7 +1166,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bungkusan paket barang ukuran sedang"
   },
   {
     "id": "ir-a2-2-14-079",
@@ -1103,7 +1181,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kode unik angka pada slip saat rumah kosong"
   },
   {
     "id": "ir-a2-2-14-080",
@@ -1117,7 +1196,8 @@
     "chapter": "Bab 14",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hari waktu kurir datang ke rumah"
   },
   {
     "id": "ir-a2-2-14-081",
@@ -1131,7 +1211,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "tenggat hari batas akhir paket disimpan sebelum dikembalikan ke pengirim"
   },
   {
     "id": "ir-a2-2-14-082",
@@ -1145,7 +1226,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "tujuan alternatif pengiriman paket ke alamat kantor"
   },
   {
     "id": "ir-a2-2-14-083",
@@ -1159,7 +1241,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "alamat tetangga yang dititipi paket titipan"
   },
   {
     "id": "ir-a2-2-14-084",
@@ -1173,7 +1256,8 @@
     "chapter": "Bab 14",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "hari kalender yang dipilih penerima untuk kirim ulang"
   },
   {
     "id": "ir-a2-2-14-085",
@@ -1187,7 +1271,8 @@
     "chapter": "Bab 14",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tempat paket hendak diantarkan kurir"
   },
   {
     "id": "ir-a2-2-14-086",
@@ -1201,7 +1286,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pertanyaan kapster menanyakan model rambut yang diinginkan"
   },
   {
     "id": "ir-a2-2-14-087",
@@ -1215,7 +1301,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "memotong rambut merata di seluruh bagian kepala"
   },
   {
     "id": "ir-a2-2-14-088",
@@ -1229,7 +1316,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ukuran panjang mata pisau mesin cukur (misal 6ミリ)"
   },
   {
     "id": "ir-a2-2-14-089",
@@ -1243,7 +1331,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bagian samping dan belakang garis rambut kepala"
   },
   {
     "id": "ir-a2-2-14-090",
@@ -1257,7 +1346,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "alat pemangkas rambut pendek bertenaga listrik"
   },
   {
     "id": "ir-a2-2-14-091",
@@ -1271,7 +1361,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "layanan mencukur bersih rambut wajah dengan pisau cukur"
   },
   {
     "id": "ir-a2-2-14-092",
@@ -1285,7 +1376,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kaca cermin pantul di depan meja pangkas rambut"
   },
   {
     "id": "ir-a2-2-14-093",
@@ -1299,7 +1391,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "area rambut di sekitar tengkuk leher"
   },
   {
     "id": "ir-a2-2-14-094",
@@ -1313,7 +1406,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "memperlihatkan contoh foto gaya rambut yang diinginkan"
   },
   {
     "id": "ir-a2-2-14-095",
@@ -1327,7 +1421,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "bak wastafel tempat membilas rambut pelanggan"
   },
   {
     "id": "ir-a2-2-14-096",
@@ -1341,7 +1436,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "membersihkan rambut dengan sampo dan air hangat"
   },
   {
     "id": "ir-a2-2-14-097",
@@ -1355,7 +1451,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "layanan memotong rambut dengan gunting"
   },
   {
     "id": "ir-a2-2-14-098",
@@ -1369,7 +1466,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menerima lembaran uang tunai dari tangan pelanggan"
   },
   {
     "id": "ir-a2-2-14-099",
@@ -1383,7 +1481,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "uang sisa kembalian yang diserahkan kasir kepada pembeli"
   },
   {
     "id": "ir-a2-2-14-100",
@@ -1397,7 +1496,8 @@
     "chapter": "Bab 14",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bentuk sangat sopan dari しますか"
   },
   {
     "id": "ir-a2-2-14-101",
@@ -1411,7 +1511,8 @@
     "chapter": "Bab 14",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kalimat kasir Jepang saat menerima lembaran uang pelanggan"
   },
   {
     "id": "ir-a2-2-14-102",
@@ -1425,7 +1526,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata tanya formal menanyakan model potongan rambut"
   },
   {
     "id": "ir-a2-2-14-103",
@@ -1439,7 +1541,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ukuran panjang helai rambut yang ingin dipotong"
   },
   {
     "id": "ir-a2-2-14-104",
@@ -1453,7 +1556,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kursi khusus berwastafel tempat mencuci rambut pelanggan"
   },
   {
     "id": "ir-a2-2-14-105",
@@ -1467,7 +1571,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "helaian rambut depan penutup kening"
   },
   {
     "id": "ir-a2-2-14-106",
@@ -1481,7 +1586,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "sapaan hangat ramah kapster menyambut pelanggan yang telah reservasi"
   },
   {
     "id": "ir-a2-2-14-107",
@@ -1495,7 +1601,8 @@
     "chapter": "Bab 14",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pertanyaan baku kapster salon Jepang saat membilas rambut"
   },
   {
     "id": "ir-a2-2-14-108",
@@ -1509,7 +1616,8 @@
     "chapter": "Bab 14",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pertanyaan kapster memperlihatkan hasil pangkasan di cermin"
   },
   {
     "id": "ir-a2-2-14-109",
@@ -1523,7 +1631,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "mewarnai rambut dengan aneka warna trendi"
   },
   {
     "id": "ir-a2-2-14-110",
@@ -1537,7 +1646,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "memberi gelombang ikal permanen pada rambut"
   },
   {
     "id": "ir-a2-2-14-111",
@@ -1551,7 +1661,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "memberikan vitamin dan masker rambut agar berkilau lembut"
   },
   {
     "id": "ir-a2-2-14-112",
@@ -1565,7 +1676,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "penduduk yang berkewarganegaraan luar Jepang"
   },
   {
     "id": "ir-a2-2-14-113",
@@ -1579,7 +1691,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bahasa komunikasi selain bahasa Jepang"
   },
   {
     "id": "ir-a2-2-14-114",
@@ -1593,7 +1706,8 @@
     "chapter": "Bab 14",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bahasa komunikasi selain bahasa Jepang"
   },
   {
     "id": "ir-a2-2-14-115",
@@ -1607,7 +1721,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "membicarakan persoalan kerja, izin tinggal, atau keluarga"
   },
   {
     "id": "ir-a2-2-14-116",
@@ -1621,7 +1736,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengalihbahasakan berkas teks tulisan resmi"
   },
   {
     "id": "ir-a2-2-14-117",
@@ -1635,7 +1751,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menerjemahkan obrolan lisan secara langsung di loket"
   },
   {
     "id": "ir-a2-2-14-118",
@@ -1649,7 +1766,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "medical check-up kesehatan rutin"
   },
   {
     "id": "ir-a2-2-14-119",
@@ -1663,7 +1781,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "buku petunjuk tata cara hidup dan aturan sampah bagi warga asing"
   },
   {
     "id": "ir-a2-2-14-120",
@@ -1677,7 +1796,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "pelatihan bahasa Jepang praktis yang dibina relawan kota"
   },
   {
     "id": "ir-a2-2-14-121",
@@ -1691,7 +1811,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kegiatan kumpul santai mempererat persahabatan antarwarga"
   },
   {
     "id": "ir-a2-2-14-122",
@@ -1705,7 +1826,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menanyakan hal yang belum dimengerti"
   },
   {
     "id": "ir-a2-2-14-123",
@@ -1719,7 +1841,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "dokumen izin keimigrasian menetap di Jepang"
   },
   {
     "id": "ir-a2-2-14-124",
@@ -1733,7 +1856,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menambahkan ragam fasilitas bantuan yang tersedia"
   },
   {
     "id": "ir-a2-2-14-125",
@@ -1747,7 +1871,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kabar dan wawasan bermanfaat untuk keseharian"
   },
   {
     "id": "ir-a2-2-14-126",
@@ -1761,7 +1886,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "luka lecet atau patah akibat kecelakaan kerja"
   },
   {
     "id": "ir-a2-2-14-127",
@@ -1775,7 +1901,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "layanan yang memungut biaya tarif tertentu"
   },
   {
     "id": "ir-a2-2-14-128",
@@ -1789,7 +1916,8 @@
     "chapter": "Bab 14",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "merasa sangat bersyukur atas adanya layanan bantuan bahasa"
   },
   {
     "id": "ir-a2-2-14-129",
@@ -1803,7 +1931,8 @@
     "chapter": "Bab 14",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menjalani keseharian tanpa banyak kendala bahasa"
   },
   {
     "id": "ir-a2-2-14-130",
@@ -1817,7 +1946,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menjalani kehidupan sehari-hari di pemukiman Jepang"
   },
   {
     "id": "ir-a2-2-14-131",
@@ -1831,7 +1961,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gedung sentra pelayanan konsultasi warga asing"
   },
   {
     "id": "ir-a2-2-14-132",
@@ -1845,7 +1976,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jenjang pengenalan paling awal bagi pembelajar baru"
   },
   {
     "id": "ir-a2-2-14-133",
@@ -1859,7 +1991,8 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jenjang kemahiran tingkat tinggi bahasa Jepang"
   },
   {
     "id": "ir-a2-2-14-134",
@@ -1873,6 +2006,7 @@
     "chapter": "Bab 14",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kelas belajar satu lawan satu bersama tutor"
   }
 ]

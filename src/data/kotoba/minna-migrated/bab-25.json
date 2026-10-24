@@ -10,7 +10,8 @@
     "chapter": "Bab 25",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Diucapkan saat berpisah atau pindah tugas kepada orang yang banyak membantu"
   },
   {
     "id": "mn-25-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hal abstrak yang berkaitan dengan topik tertentu (cth: 日本のこと)"
   },
   {
     "id": "mn-25-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Peluang emas yang datang (chance,  cth: チャンスがある)"
   },
   {
     "id": "mn-25-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 25",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Salam perpisahan tulus saat hendak berpisah dalam kurun waktu lama"
   },
   {
     "id": "mn-25-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di kawasan Asia Tenggara"
   },
   {
     "id": "mn-25-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata penegas pengandaian di awal kalimat kondisional (cth: もし1億円あったら)"
   },
   {
     "id": "mn-25-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 25",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata sapaan pembuka saat mengangkat atau memulai panggilan telepon"
   },
   {
     "id": "mn-25-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kandungan arti kata atau maksud dari suatu tindakan"
   },
   {
     "id": "mn-25-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Satuan nominal 100.000.000 (cth: 1億 = 100 juta, 10億 = 1 miliar)"
   },
   {
     "id": "mn-25-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 25",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi bebas tanpa kesibukan tugas (暇な時 = saat ada waktu luang)"
   },
   {
     "id": "mn-25-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 25",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Berupaya semaksimal mungkin pantang menyerah (頑張って = semangat ya!)"
   },
   {
     "id": "mn-25-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 25",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memikirkan solusi masalah, rencana masa depan, atau menimbang keputusan"
   },
   {
     "id": "mn-25-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 25",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Usia yang kian bertambah tua seiring waktu berjalan (年を取る)"
   },
   {
     "id": "mn-25-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 25",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Jumlah uang, waktu, atau barang sudah memenuhi kebutuhan (intransitif: お金が足りる)"
   },
   {
     "id": "mn-25-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 25",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Tiba di stasiun atau tempat tujuan akhir (tempat tiba ditandai に: 駅に着く)"
   },
   {
     "id": "mn-25-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Pindah tugas dinas ke kantor cabang kota lain (転勤する = pindah dinas)"
   },
   {
     "id": "mn-25-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kawasan pedesaan asri jauh dari hiruk-pikuk kota besar"
   },
   {
     "id": "mn-25-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menikah kembali untuk kedua kalinya atau seterusnya"
   },
   {
     "id": "mn-25-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mengakhiri ikatan pernikahan secara hukum"
   },
   {
     "id": "mn-25-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 25",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mulai masuk menempuh pendidikan di jenjang sekolah"
   },
   {
     "id": "mn-25-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 25",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menyelesaikan masa studi sekolah atau lulus wisuda"
   },
   {
     "id": "mn-25-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 25",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membina bahtera rumah tangga resmi suami-istri"
   },
   {
     "id": "mn-25-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Nama resmi jenjang pendidikan sekolah menengah atas 3 tahun (disingkat 高校)"
   },
   {
     "id": "mn-25-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 25",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengundurkan diri dari pekerjaan kantor tempat mencari nafkah"
   },
   {
     "id": "mn-25-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Anak kecil usia sekolah dasar (sekitar 6–12 tahun)"
   },
   {
     "id": "mn-25-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 25",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kelahiran buah hati anak bayi ke dunia (intransitif: perbaikan makna)"
   },
   {
     "id": "mn-25-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 25",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Berakhirnya nyawa kehidupan (ragam sopan: 亡くなります / なくなります)"
   },
   {
     "id": "mn-25-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 25",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Diterima dan resmi mulai berkarir bekerja di suatu perusahaan"
   },
   {
     "id": "mn-25-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Sekolah dasar jenjang 6 tahun wajib belajar"
   },
   {
     "id": "mn-25-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 25",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Proses awal kelahiran manusia ke muka bumi"
   },
   {
     "id": "mn-25-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Fase usia muda beranjak dewasa (sekitar usia 18–29 tahun)"
   },
   {
     "id": "mn-25-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Bayi mungil yang baru lahir (usia 0–1 tahun)"
   },
   {
     "id": "mn-25-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Lembaga pendidikan tinggi vokasi keahlian praktis (durasi 2 tahun)"
   },
   {
     "id": "mn-25-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Perguruan tinggi jenjang sarjana strata 1 (durasi 4 tahun)"
   },
   {
     "id": "mn-25-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Perguruan tinggi jenjang magister dan doktoral"
   },
   {
     "id": "mn-25-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perguruan tinggi diploma berdurasi kuliah singkat 2 tahun"
   },
   {
     "id": "mn-25-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sekolah menengah pertama 3 tahun"
   },
   {
     "id": "mn-25-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Fase usia setengah baya matang (sekitar usia 40–50 tahun)"
   },
   {
     "id": "mn-25-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Fasilitas penitipan dan pengasuhan balita bagi orang tua yang bekerja"
   },
   {
     "id": "mn-25-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Lembaga pendidikan prasekolah anak usia dini (usia 3–5 tahun)"
   },
   {
     "id": "mn-25-041",
@@ -530,6 +570,7 @@
     "chapter": "Bab 25",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Orang lanjut usia kakek-nenek (sekitar usia 65–70 tahun ke atas)"
   }
 ]

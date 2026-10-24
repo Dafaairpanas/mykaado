@@ -1,0 +1,93 @@
+休み;やすみ;libur
+運動する／運動します;うんどうする／うんどうします;berolahraga
+服;ふく;pakaian
+買う／買います;かう／かいます;membeli
+飲みに行く／飲みに行きます;のみにいく／のみにいきます;pergi minum (minuman beralkohol)
+家族;かぞく;keluarga
+話す／話します;はなす／はなします;berbicara, bercakap-cakap
+コンサート;コンサート;konser
+ゆっくりする／ゆっくりします;ゆっくりする／ゆっくりします;bersantai
+掃除する／掃除します;そうじする／そうじします;bersih-bersih
+寝る／寝ます;ねる／ねます;tidur
+ジム;ジム;gym, pusat kebugaran
+週末;しゅうまつ;akhir pekan
+オーケストラ;オーケストラ;orkestra
+昨日;きのう;kemarin
+土日;どにち;Sabtu dan Minggu
+何も;なにも;apa pun
+ネットで;ネットで;online, daring
+勉強;べんきょう;belajar
+洗濯;せんたく;cuci baju
+掃除;そうじ;bersih-bersih
+国際フェスティバル;こくさいフェスティバル;festival internasional
+楽しい;たのしい;menyenangkan
+おもしろい;おもしろい;menarik
+いい;いい;bagus
+まあまあ（な）;まあまあ（な）;lumayan
+大変（な）;たいへん（な）;sulit, berat
+一日中;いちにちじゅう;sepanjang hari
+どこにも;どこにも;mana pun
+よかった（です）;よかった（です）;Bagus.
+ゴジラ;ゴジラ;Godzilla
+すばらしい;すばらしい;menakjubkan, luar biasa
+つまらない;つまらない;membosankan
+いまいち（な）;いまいち（な）;tidak begitu bagus
+家族で;かぞくで;dengan keluarga
+水族館;すいぞくかん;akuarium raksasa (sea world)
+ペンギン;ペンギン;penguin
+そして;そして;kemudian
+クラゲ;クラゲ;ubur-ubur
+気持ちいい;きもちいい;nyaman, menyegarkan
+コスモス;コスモス;kenikir
+花;はな;bunga
+気持ちよかったです;きもちよかったです;Rasanya nyaman.
+多い;おおい;banyak
+まだまだ;まだまだ;masih
+元気;げんき;sehat, bugar
+お祝い;おいわい;perayaan
+寿司屋;すしや;restoran sushi
+二人で;ふたりで;berdua
+おいしい;おいしい;enak, lezat
+チケット;チケット;tiket
+大人;おとな／だいにん;dewasa
+高校生;こうこうせい;siswa SMA
+小・中学生;しょうちゅうがくせい;siswa SD dan SMP
+発売中;はつばいちゅう;tersedia (sedang dijual)
+入館券;にゅうかんけん;tiket masuk
+一般;いっぱん;umum
+大学生;だいがくせい;mahasiswa
+中人;ちゅうにん;remaja
+小人;しょうにん;anak-anak
+つり銭のお取り忘れに注意！;つりせんのおとりわすれにちゅうい！;Jangan lupa mengambil kembalian Anda!
+料金;りょうきん;tarif
+～歳以上（十二歳以上）;～さいいじょう（じゅうにさいいじょう）;usia ～ tahun ke atas (contoh: usia 12 tahun ke atas)
+古総湯;こそうゆ;Pemandian Umum Kosoyu (pemandiam umum di Onsen Yamashiro, Prefektur Ishikawa)
+営業時間;えいぎょうじかん;jam operasional
+休業日;きゅうぎょうび;hari libur
+入浴;にゅうよく;mandi
+毎月;まいつき;setiap bulan
+第～▲曜日（第四水曜日）;だい～▲ようび（だいよんすいようび）;hari ～ ke ～ (contoh: hari Rabu keempat)
+正午;しょうご;jam 12 siang, tengah hari
+食べ放題;たべほうだい;makan sepuasnya
+飲み放題;のみほうだい;minum sepuasnya
+～名様より（2名様より）;～めいさまより（にめいさまより）;～ orang atau lebih (ragam hormat) (contoh: 2 orang atau lebih)
+お1人様;おひとりさま;satu orang (ragam hormat)
+プラス;プラス;tambah
+全品;ぜんぴん;semua barang (all items)
+～付き（飲み放題付き）;～つき（のみほうだいつき）;termasuk ～ (contoh: termasuk minum sepuasnya)
+パック;パック;paket
+ブース;ブース;stan, ruangan bersekat
+個室;こしつ;ruangan privat
+料金システム;りょうきんシステム;sistem tarif
+基本料金;きほんりょうきん;tarif dasar
+延長料金;えんちょうりょうきん;biaya perpanjangan
+～毎に（10分毎に）;～ごとに（じゅっぷんごとに）;per ～ (contoh: per 10 menit)
+いつでも;いつでも;kapan pun, kapan saja
+ナイト;ナイト;malam
+鍵付き;かぎつき;dengan kunci
+席;せき;kursi
+完全（な）;かんぜん（な）;benar-benar, sepenuhnya
+着く／着きます;つく／つきます;tiba, sampai
+はじめて;はじめて;pertama kalinya
+また;また;lagi
+着きました;つきました;Saya sudah sampai.

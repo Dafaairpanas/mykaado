@@ -11,7 +11,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "barang atau cita rasa otentik orisinal (lawan dari 偽物)"
   },
   {
     "id": "ir-a2-2-04-002",
@@ -25,7 +26,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "banyaknya kuantitas makanan yang disajikan"
   },
   {
     "id": "ir-a2-2-04-003",
@@ -39,7 +41,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "unggas ayam pedaging"
   },
   {
     "id": "ir-a2-2-04-004",
@@ -53,7 +56,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "kekasih perempuan atau kata ganti wanita"
   },
   {
     "id": "ir-a2-2-04-005",
@@ -67,7 +71,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kegiatan menyantap makanan"
   },
   {
     "id": "ir-a2-2-04-006",
@@ -81,7 +86,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "aneka hidangan autentik khas Vietnam (pho, lumpia)"
   },
   {
     "id": "ir-a2-2-04-007",
@@ -95,7 +101,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "wilayah kedaerahan setempat (misal 土地の料理 kuliner lokal)"
   },
   {
     "id": "ir-a2-2-04-008",
@@ -109,7 +116,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "kata ganti orang pertama informal maskulin di kalangan pria"
   },
   {
     "id": "ir-a2-2-04-009",
@@ -123,7 +131,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "papan nama penunjuk gerai toko di pinggir jalan"
   },
   {
     "id": "ir-a2-2-04-010",
@@ -137,7 +146,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "lingkungan di dekat area saat ini"
   },
   {
     "id": "ir-a2-2-04-011",
@@ -151,7 +161,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "membuka kedai baru di lingkungan"
   },
   {
     "id": "ir-a2-2-04-012",
@@ -165,7 +176,8 @@
     "chapter": "Bab 04",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "toko atau restoran baru saja berdiri (店ができる)"
   },
   {
     "id": "ir-a2-2-04-013",
@@ -179,7 +191,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gambar panduan letak arah jalan dan bangunan"
   },
   {
     "id": "ir-a2-2-04-014",
@@ -193,7 +206,8 @@
     "chapter": "Bab 04",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "membagikan tautan lokasi kepada teman"
   },
   {
     "id": "ir-a2-2-04-015",
@@ -207,7 +221,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "area kisaran lingkungan terdekat"
   },
   {
     "id": "ir-a2-2-04-016",
@@ -221,7 +236,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "ikatan pernikahan suami dan istri"
   },
   {
     "id": "ir-a2-2-04-017",
@@ -235,7 +251,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "tanggapan mendengar kabar yang belum pernah diketahui sebelumnya"
   },
   {
     "id": "ir-a2-2-04-018",
@@ -249,7 +266,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tata cara memakan masakan tertentu dengan benar"
   },
   {
     "id": "ir-a2-2-04-019",
@@ -263,7 +281,8 @@
     "chapter": "Bab 04",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mencocolkan lauk ke piring saus celup (たれをつける)"
   },
   {
     "id": "ir-a2-2-04-020",
@@ -277,7 +296,8 @@
     "chapter": "Bab 04",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengaduk rata mi atau sayur bersama bumbu"
   },
   {
     "id": "ir-a2-2-04-021",
@@ -291,7 +311,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "menyiramkan kuah atau saus di atas makanan (ソースをかける)"
   },
   {
     "id": "ir-a2-2-04-022",
@@ -305,7 +326,8 @@
     "chapter": "Bab 04",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menambahkan bahan atau rempah ke dalam kuah"
   },
   {
     "id": "ir-a2-2-04-023",
@@ -319,7 +341,8 @@
     "chapter": "Bab 04",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "melilitkan lembaran nori atau kulit lumpia (海苔を巻く)"
   },
   {
     "id": "ir-a2-2-04-024",
@@ -333,7 +356,8 @@
     "chapter": "Bab 04",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "meletakkan pugasan di atas mangkuk nasi"
   },
   {
     "id": "ir-a2-2-04-025",
@@ -347,7 +371,8 @@
     "chapter": "Bab 04",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengelupas kulit luar buah, tomat, atau ubi (皮をむく)"
   },
   {
     "id": "ir-a2-2-04-026",
@@ -361,7 +386,8 @@
     "chapter": "Bab 04",
     "type": "adv",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "hidangan mi kering tebal diaduk bersama daging cincang dan telur mentah"
   },
   {
     "id": "ir-a2-2-04-027",
@@ -375,7 +401,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "pangsit daging kukus khas kuliner Tiongkok"
   },
   {
     "id": "ir-a2-2-04-028",
@@ -389,7 +416,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "aneka sayuran dan seafood goreng berbalut adonan tepung renyah"
   },
   {
     "id": "ir-a2-2-04-029",
@@ -403,7 +431,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "buah berair merah manis asam"
   },
   {
     "id": "ir-a2-2-04-030",
@@ -417,7 +446,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "sushi kerucut yang digulung sendiri dengan lembaran nori"
   },
   {
     "id": "ir-a2-2-04-031",
@@ -431,7 +461,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ubi jalar manis yang dipanggang hingga harum merekah"
   },
   {
     "id": "ir-a2-2-04-032",
@@ -445,7 +476,8 @@
     "chapter": "Bab 04",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "makanan yang sudah memiliki rasa lezat tanpa perlu saus tambahan"
   },
   {
     "id": "ir-a2-2-04-033",
@@ -459,7 +491,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "saus kedelai asin fermentasi khas Jepang"
   },
   {
     "id": "ir-a2-2-04-034",
@@ -473,7 +506,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "kuah kaldu encer gurih pencelup tempura atau mi soba"
   },
   {
     "id": "ir-a2-2-04-035",
@@ -487,7 +521,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menyantap langsung apa adanya tanpa membubuhi bumbu lagi"
   },
   {
     "id": "ir-a2-2-04-036",
@@ -501,7 +536,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "lembaran rumput laut tipis pembalut sushi"
   },
   {
     "id": "ir-a2-2-04-037",
@@ -515,7 +551,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "buah berair merah manis asam"
   },
   {
     "id": "ir-a2-2-04-038",
@@ -529,7 +566,8 @@
     "chapter": "Bab 04",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "sapaan sopan pelayan saat mengantarkan pesanan ke meja"
   },
   {
     "id": "ir-a2-2-04-039",
@@ -543,7 +581,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "memasukkan semua bahan dalam satu waktu serentak"
   },
   {
     "id": "ir-a2-2-04-040",
@@ -557,7 +596,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menunjukkan derajat takaran yang cukup banyak"
   },
   {
     "id": "ir-a2-2-04-041",
@@ -571,7 +611,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "hidangan irisan tipis daging sapi yang dicelup kuah mendidih"
   },
   {
     "id": "ir-a2-2-04-042",
@@ -585,7 +626,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "memperagakan tata cara makan secara langsung"
   },
   {
     "id": "ir-a2-2-04-043",
@@ -599,7 +641,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "belum memiliki cita rasa gurih"
   },
   {
     "id": "ir-a2-2-04-044",
@@ -613,7 +656,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "saus cocolan kecap asin berpadu sari jeruk sitrun yang segar"
   },
   {
     "id": "ir-a2-2-04-045",
@@ -627,7 +671,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "saus celup kental gurih dari tumbukan biji wijen"
   },
   {
     "id": "ir-a2-2-04-046",
@@ -641,7 +686,8 @@
     "chapter": "Bab 04",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "sayuran sawi putih renyah untuk rebusan kuah"
   },
   {
     "id": "ir-a2-2-04-047",
@@ -655,7 +701,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "penyedap rasa masakan (gula, garam, kecap)"
   },
   {
     "id": "ir-a2-2-04-048",
@@ -669,7 +716,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "pemanis masakan kristal putih"
   },
   {
     "id": "ir-a2-2-04-049",
@@ -683,7 +731,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bumbu pedas hangat butir merica"
   },
   {
     "id": "ir-a2-2-04-050",
@@ -697,7 +746,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "aneka rempah aromatik tanaman"
   },
   {
     "id": "ir-a2-2-04-051",
@@ -711,7 +761,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "saus penyedap masakan kental"
   },
   {
     "id": "ir-a2-2-04-052",
@@ -725,7 +776,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "saus cocolan untuk daging panggang yakiniku"
   },
   {
     "id": "ir-a2-2-04-053",
@@ -739,7 +791,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "minyak nabati untuk mengolah makanan"
   },
   {
     "id": "ir-a2-2-04-054",
@@ -753,7 +806,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tata cara mematangkan bahan masakan"
   },
   {
     "id": "ir-a2-2-04-055",
@@ -767,7 +821,8 @@
     "chapter": "Bab 04",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memotong sayur atau daging dengan pisau (包丁で切る)"
   },
   {
     "id": "ir-a2-2-04-056",
@@ -781,7 +836,8 @@
     "chapter": "Bab 04",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memasak di atas wajan pemanggang atau bara api"
   },
   {
     "id": "ir-a2-2-04-057",
@@ -795,7 +851,8 @@
     "chapter": "Bab 04",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menyetup bahan makanan dalam kaldu manis gurih hingga meresap"
   },
   {
     "id": "ir-a2-2-04-058",
@@ -809,7 +866,8 @@
     "chapter": "Bab 04",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mematangkan mi, telur, atau sayuran dalam air mendidih lalu ditiriskan"
   },
   {
     "id": "ir-a2-2-04-059",
@@ -823,7 +881,8 @@
     "chapter": "Bab 04",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mematangkan makanan dengan uap air panas (シュウマイを蒸す)"
   },
   {
     "id": "ir-a2-2-04-060",
@@ -837,7 +896,8 @@
     "chapter": "Bab 04",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memasak sayur dalam wajan panas dengan sedikit minyak (野菜を炒める)"
   },
   {
     "id": "ir-a2-2-04-061",
@@ -851,7 +911,8 @@
     "chapter": "Bab 04",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mematangkan makanan dalam minyak panas melimpah (天ぷらを揚げる)"
   },
   {
     "id": "ir-a2-2-04-062",
@@ -865,7 +926,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "campuran sayuran mentah segar bersiram dressing"
   },
   {
     "id": "ir-a2-2-04-063",
@@ -879,7 +941,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "pangsit isi daging cincang dan daun bawang goreng berair"
   },
   {
     "id": "ir-a2-2-04-064",
@@ -893,7 +956,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "hidangan santap harian keluarga yang hangat"
   },
   {
     "id": "ir-a2-2-04-065",
@@ -907,7 +971,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "rebusan kacang hitam dan daging khas kuliner Brasil"
   },
   {
     "id": "ir-a2-2-04-066",
@@ -921,7 +986,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "pangsit kukus isi daging berbumbu rempah khas Nepal"
   },
   {
     "id": "ir-a2-2-04-067",
@@ -935,7 +1001,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "salad aneka sayuran rebus bersaus bumbu kacang gurih khas Indonesia"
   },
   {
     "id": "ir-a2-2-04-068",
@@ -949,7 +1016,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kudapan kue pilin goreng renyah manis khas Tiongkok"
   },
   {
     "id": "ir-a2-2-04-069",
@@ -963,7 +1031,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "negara di kawasan Asia Timur"
   },
   {
     "id": "ir-a2-2-04-070",
@@ -977,7 +1046,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "aneka biji legum konsumsi"
   },
   {
     "id": "ir-a2-2-04-071",
@@ -991,7 +1061,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tepung olahan gandum untuk kulit gyoza dan mi"
   },
   {
     "id": "ir-a2-2-04-072",
@@ -1005,7 +1076,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "saus kental gurih dari ulekan kacang tanah"
   },
   {
     "id": "ir-a2-2-04-073",
@@ -1019,7 +1091,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kulit ari tomat atau kulit luar buah-buahan (トマトの皮)"
   },
   {
     "id": "ir-a2-2-04-074",
@@ -1033,7 +1106,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "telur ayam yang direbus dalam air panas"
   },
   {
     "id": "ir-a2-2-04-075",
@@ -1047,7 +1121,8 @@
     "chapter": "Bab 04",
     "type": "particle",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menyebutkan contoh perwakilan yang belum tuntas"
   },
   {
     "id": "ir-a2-2-04-076",
@@ -1061,7 +1136,8 @@
     "chapter": "Bab 04",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kombinasi cita rasa manis gula berpadu gurih pedas kecap"
   },
   {
     "id": "ir-a2-2-04-077",
@@ -1075,7 +1151,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tekstur makanan yang keras digigit"
   },
   {
     "id": "ir-a2-2-04-078",
@@ -1089,7 +1166,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "seluruh opsi makanan yang disajikan semuanya lezat"
   },
   {
     "id": "ir-a2-2-04-079",
@@ -1103,7 +1181,8 @@
     "chapter": "Bab 04",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "gerai spesialis kuliner tertentu (misal 定食屋 kedai menu paket)"
   },
   {
     "id": "ir-a2-2-04-080",
@@ -1117,7 +1196,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kuantitas sajian makanan yang berlimpah ruah (ボリュームがある)"
   },
   {
     "id": "ir-a2-2-04-081",
@@ -1131,7 +1211,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "perasaan kenyang dan sangat puas atas hidangan"
   },
   {
     "id": "ir-a2-2-04-082",
@@ -1145,7 +1226,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "sebutan akrab ramah untuk wanita paruh baya pengelola warung"
   },
   {
     "id": "ir-a2-2-04-083",
@@ -1159,7 +1241,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "harga bersahabat yang sebanding dengan porsi dan mutunya"
   },
   {
     "id": "ir-a2-2-04-084",
@@ -1173,7 +1256,8 @@
     "chapter": "Bab 04",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menyampaikan pesanan makanan ke pelayan (料理を頼む)"
   },
   {
     "id": "ir-a2-2-04-085",
@@ -1187,7 +1271,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bistik daging cincang yang direbus dalam saus demiglace kental"
   },
   {
     "id": "ir-a2-2-04-086",
@@ -1201,7 +1286,8 @@
     "chapter": "Bab 04",
     "type": "counter",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "waktu sebelum jam tertentu tiba (misal 12時前 sebelum jam 12)"
   },
   {
     "id": "ir-a2-2-04-087",
@@ -1215,7 +1301,8 @@
     "chapter": "Bab 04",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "menyarankan gerai makanan yang lezat kepada rekan"
   },
   {
     "id": "ir-a2-2-04-088",
@@ -1229,7 +1316,8 @@
     "chapter": "Bab 04",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengoperasikan bisnis rumah makan bersama keluarga"
   },
   {
     "id": "ir-a2-2-04-089",
@@ -1243,7 +1331,8 @@
     "chapter": "Bab 04",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memerlukan durasi waktu yang agak lama untuk matang"
   },
   {
     "id": "ir-a2-2-04-090",
@@ -1257,7 +1346,8 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "nominal biaya yang harus dibayar"
   },
   {
     "id": "ir-a2-2-04-091",
@@ -1271,6 +1361,7 @@
     "chapter": "Bab 04",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bagian lain di luar daftar yang telah disebutkan"
   }
 ]

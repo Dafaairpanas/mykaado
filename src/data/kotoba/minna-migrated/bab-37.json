@@ -10,7 +10,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Satuan berat (kg) atau jarak/panjang (km)"
   },
   {
     "id": "mn-37-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Satuan kurun 100 tahun zaman (cth: 21世紀 = abad 21)"
   },
   {
     "id": "mn-37-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan 1 hal di antara banyak hal sejenis"
   },
   {
     "id": "mn-37-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Cakupan wilayah (世界中 = sedunia) atau durasi waktu (1年中)"
   },
   {
     "id": "mn-37-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Makanan cepat saji mie seduh ciptaan Momofuku Ando di Jepang"
   },
   {
     "id": "mn-37-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pesta olahraga internasional sedunia (disebut juga 五輪 / gorin)"
   },
   {
     "id": "mn-37-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di Timur Tengah penghasil minyak bumi terbesar"
   },
   {
     "id": "mn-37-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 37",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata sambung formal/tulisan (lebih resmi dari でも)"
   },
   {
     "id": "mn-37-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 37",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Sering dalam bentuk pasif: 叱られる (dimarahi guru/atasan)"
   },
   {
     "id": "mn-37-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ragam lisan santai untuk urutan kronologis kegiatan berikutnya"
   },
   {
     "id": "mn-37-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ragam formal dari そのあと,  untuk rentang waktu lebih panjang"
   },
   {
     "id": "mn-37-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Kata ganti orang tak tentu (cth: だれか来ましたか = ada orang datang?)"
   },
   {
     "id": "mn-37-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pertemuan romantis sepasang kekasih (デートする = berkencan)"
   },
   {
     "id": "mn-37-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 37",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Di bab 37 bermakna diambil/dicuri maling (泥棒にとられる)"
   },
   {
     "id": "mn-37-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hewan pengerat (shio pertama dalam zodiak Jepang / 鼠)"
   },
   {
     "id": "mn-37-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Negara di Eropa barat,  bangsa pembawa senjata api pertama ke Jepang"
   },
   {
     "id": "mn-37-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 37",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan simpati turut senang mendengar kabar baik lawan bicara"
   },
   {
     "id": "mn-37-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara terluas di dunia yang membentang di Eropa Timur dan Asia Utara"
   },
   {
     "id": "mn-37-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kejuaraan sepak bola internasional FIFA per 4 tahun"
   },
   {
     "id": "mn-37-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Berusaha semaksimal mungkin tanpa menyerah (asal kata: 一所懸命)"
   },
   {
     "id": "mn-37-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 37",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Penegasan negasi total untuk hewan kecil (匹 = satuan ekor)"
   },
   {
     "id": "mn-37-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 37",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Transitif (服を汚す = mengotori baju). Intransitif: 汚れる (kotor)"
   },
   {
     "id": "mn-37-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menanyakan jenis bahasa (cth: 何語で話しますか = bicara bahasa apa?)"
   },
   {
     "id": "mn-37-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 37",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Transitif (merusak barang/kesehatan). Intransitif: 壊れる (rusak)"
   },
   {
     "id": "mn-37-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bentuk sangat sopan (sonkeigo) dari 皆さん untuk khalayak/tamu"
   },
   {
     "id": "mn-37-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Logam mulia emas (Au). Jika dibaca \"kane\" bermakna uang"
   },
   {
     "id": "mn-37-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna kuning keemasan (kadang dibaca こんじき dalam sastra)"
   },
   {
     "id": "mn-37-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Petugas kepolisian (ragam sehari-hari: お巡りさん / 警察官)"
   },
   {
     "id": "mn-37-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bahan asal yang wujud fisiknya berubah setelah diolah (cth: kedelai jadi kecap)"
   },
   {
     "id": "mn-37-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kisah lisan warisan leluhur (bukan adat/tradisi formal: 伝統)"
   },
   {
     "id": "mn-37-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Periode kekuasaan Keshogunan Tokugawa di Jepang (1603–1868)"
   },
   {
     "id": "mn-37-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 37",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Bentuk formal dari します (cth: 会議/試合/式典を行う)"
   },
   {
     "id": "mn-37-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata sifat-na untuk pesta, hotel, busana, atau interior mewah"
   },
   {
     "id": "mn-37-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pemahat kayu legendaris zaman Edo pembuat ukiran Nemuri-neko di Nikko"
   },
   {
     "id": "mn-37-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 37",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengundang ke acara resmi (sering bentuk pasif: 招待される = diundang)"
   },
   {
     "id": "mn-37-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 37",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Intransitif: rumah kebakaran (家が~), roti matang (パンが~), kulit gosong (肌が~)"
   },
   {
     "id": "mn-37-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Situs cagar budaya atau cagar alam yang dilindungi UNESCO"
   },
   {
     "id": "mn-37-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mencakup seluruh belahan bumi (cth: 世界中で愛されている)"
   },
   {
     "id": "mn-37-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Minyak tambang bumi hidrokarbon,  minyak tanah spesifiknya: 灯油 (touyu)"
   },
   {
     "id": "mn-37-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Patung Buddha raksasa bersejarah (terkenal di Nara dan Kamakura)"
   },
   {
     "id": "mn-37-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Teman seperjuangan, sekelompok, atau sehobi (lebih erat dari 友達)"
   },
   {
     "id": "mn-37-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 37",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Di bab 37 bermakna menegur kesalahan (注意される = ditegur guru),  juga bisa berhati-hati"
   },
   {
     "id": "mn-37-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 37",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengukir patung kayu/batu (jangan tertukar dengan 掘る = menggali)"
   },
   {
     "id": "mn-37-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Karya seni 3 dimensi hasil pahatan kayu, batu, atau logam"
   },
   {
     "id": "mn-37-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pelaku tindak pencurian,  sering di kalimat pasif kerugian (泥棒にとられる)"
   },
   {
     "id": "mn-37-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kuil Shinto di Nikko tempat persemayaman shogun Tokugawa Ieyasu"
   },
   {
     "id": "mn-37-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kuil Buddha kuno terbesar di Nara tempat patung Daibutsu berada"
   },
   {
     "id": "mn-37-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 37",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Sering dalam pasif kerugian: 足を踏まれました (kaki saya terinjak orang)"
   },
   {
     "id": "mn-37-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Serealia: 小麦 (gandum terigu), 大麦 (jelai bahan teh mugicha/bir)"
   },
   {
     "id": "mn-37-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 37",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menemukan objek/tempat yang sudah ada sebelumnya (seperti benua baru)"
   },
   {
     "id": "mn-37-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 37",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menciptakan teknologi atau alat baru yang belum pernah ada sebelumnya"
   },
   {
     "id": "mn-37-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ragam estetis/formal untuk keelokan visual atau keindahan budi"
   },
   {
     "id": "mn-37-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Bulir beras mentah,  setelah dimasak jadi nasi disebut ご飯 (gohan)"
   },
   {
     "id": "mn-37-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 37",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Sering dalam bentuk pasif: 褒められる (dipuji guru/atasan saat berprestasi)"
   },
   {
     "id": "mn-37-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Benda asli/orisinal,  lawan kata dari 偽物 (nisemono / barang palsu)"
   },
   {
     "id": "mn-37-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 37",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Khusus menerjemahkan teks tertulis/dokumen (penerjemah lisan: 通訳)"
   },
   {
     "id": "mn-37-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 37",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menunjukkan kondisi fisik terlelap (寝る lebih ke aksi merebahkan diri)"
   },
   {
     "id": "mn-37-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Karya ukiran kayu lambang kedamaian di Kuil Nikko Toshogu"
   },
   {
     "id": "mn-37-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 37",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menjual produk/komoditas ke luar negeri (cth: 車を輸出する)"
   },
   {
     "id": "mn-37-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 37",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membeli komoditas dari luar negeri (cth: 石油を輸入する)"
   },
   {
     "id": "mn-37-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 37",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengajak teman makan/nonton bareng (pasif: 誘われる = diajak)"
   },
   {
     "id": "mn-37-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 37",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Meminta bantuan (頼まれる = dimintai tolong),  juga bisa pesan menu di resto"
   },
   {
     "id": "mn-37-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Digigit hewan (犬に噛まれる), atau mengunyah makanan (よく噛んで食べる)"
   },
   {
     "id": "mn-37-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 37",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Aksi pembajakan armada transportasi udara oleh penjahat/teroris"
   },
   {
     "id": "mn-37-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Khusus kendaraan menabrak orang hingga terpental (車にはねられる / 撥ねる)"
   },
   {
     "id": "mn-37-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Khusus roda kendaraan melindas orang/hewan (車にひかれる / 轢く)"
   },
   {
     "id": "mn-37-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Memindahkan barang/orang (cth: 救急車で運ばれる = dilarikan ambulans)"
   },
   {
     "id": "mn-37-068",
@@ -881,7 +948,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menembakkan peluru/senjata api (sering pasif: ピストルで撃たれる = tertembak)"
   },
   {
     "id": "mn-37-069",
@@ -894,7 +962,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menghilangkan nyawa (sering pasif kriminal: 犯人に殺される)"
   },
   {
     "id": "mn-37-070",
@@ -907,7 +976,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menusuk dengan senjata tajam, atau serangga menyengat (cth: 蜂/蚊に刺される)"
   },
   {
     "id": "mn-37-071",
@@ -920,7 +990,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "事故 = musibah/kecelakaan tak disengaja,  事件 = perkara kejahatan kriminal"
   },
   {
     "id": "mn-37-072",
@@ -933,7 +1004,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyelamatkan nyawa dari bahaya/kesulitan (beda dengan 手伝う = bantu kerjaan)"
   },
   {
     "id": "mn-37-073",
@@ -946,7 +1018,8 @@
     "chapter": "Bab 37",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Dua kendaraan saling bertubrukan (head-on collision), atau bentrok opini"
   },
   {
     "id": "mn-37-074",
@@ -959,7 +1032,8 @@
     "chapter": "Bab 37",
     "type": "v3",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Khusus untuk kapal karam/tenggelam ke laut (orang tenggelam = 溺れる)"
   },
   {
     "id": "mn-37-075",
@@ -972,7 +1046,8 @@
     "chapter": "Bab 37",
     "type": "v3",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Khusus pesawat jatuh terhempas atau jatuh dari ketinggian ekstrem"
   },
   {
     "id": "mn-37-076",
@@ -985,7 +1060,8 @@
     "chapter": "Bab 37",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Tabrakan menyundul bagian belakang kendaraan di depan (rear-end collision)"
   },
   {
     "id": "mn-37-077",
@@ -998,7 +1074,8 @@
     "chapter": "Bab 37",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mengambil hak milik orang lain secara diam-diam (泥棒に盗まれる)"
   },
   {
     "id": "mn-37-078",
@@ -1011,7 +1088,8 @@
     "chapter": "Bab 37",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Ledakan fisik (bom, gas, gedung), atau emosi amarah yang meledak-ledak"
   },
   {
     "id": "mn-37-079",
@@ -1024,6 +1102,7 @@
     "chapter": "Bab 37",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membawa paksa seseorang secara ilegal demi uang tebusan (kidnapping)"
   }
 ]

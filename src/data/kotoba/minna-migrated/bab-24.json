@@ -10,7 +10,8 @@
     "chapter": "Bab 24",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Tempat kegiatan industri memproduksi barang (perbaikan kanji: 工場)"
   },
   {
     "id": "mn-24-001",
@@ -23,7 +24,8 @@
     "chapter": "Bab 24",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kudapan manis biskuit, permen, atau kue kering tradisional Jepang"
   },
   {
     "id": "mn-24-002",
@@ -36,7 +38,8 @@
     "chapter": "Bab 24",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Sebutan ramah kakek sendiri atau pria lansia"
   },
   {
     "id": "mn-24-003",
@@ -49,7 +52,8 @@
     "chapter": "Bab 24",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Sebutan ramah nenek sendiri atau wanita lansia"
   },
   {
     "id": "mn-24-004",
@@ -62,7 +66,8 @@
     "chapter": "Bab 24",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Orang lain memberikan barang/bantuan kepada saya atau keluarga saya (cth: 母が私にくれた)"
   },
   {
     "id": "mn-24-005",
@@ -75,7 +80,8 @@
     "chapter": "Bab 24",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tinggal menumpang di rumah keluarga lokal di luar negeri untuk belajar budaya"
   },
   {
     "id": "mn-24-006",
@@ -88,7 +94,8 @@
     "chapter": "Bab 24",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menanyakan atau menyebutkan hal lain di luar yang sudah ada (cth: 他に何がありますか)"
   },
   {
     "id": "mn-24-007",
@@ -101,7 +108,8 @@
     "chapter": "Bab 24",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memandu tamu berkeliling menunjukkan jalan atau objek wisata (案内する)"
   },
   {
     "id": "mn-24-008",
@@ -114,7 +122,8 @@
     "chapter": "Bab 24",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Memindahkan barang perabotan ke tempat tinggal baru (引っ越しをする = pindah rumah)"
   },
   {
     "id": "mn-24-009",
@@ -127,7 +136,8 @@
     "chapter": "Bab 24",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melakukan sesuatu tanpa bantuan orang lain (cth: 自分で作りました)"
   },
   {
     "id": "mn-24-010",
@@ -140,7 +150,8 @@
     "chapter": "Bab 24",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyiapkan segala keperluan sebelum acara/perjalanan dimulai (準備する)"
   },
   {
     "id": "mn-24-011",
@@ -153,7 +164,8 @@
     "chapter": "Bab 24",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengenalkan teman baru atau mempresentasikan suatu produk (紹介する)"
   },
   {
     "id": "mn-24-012",
@@ -166,7 +178,8 @@
     "chapter": "Bab 24",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menerangkan cara penggunaan, aturan, atau alasan secara runtut (説明する)"
   },
   {
     "id": "mn-24-013",
@@ -179,7 +192,8 @@
     "chapter": "Bab 24",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Total kuantitas secara utuh tanpa ada yang tersisa"
   },
   {
     "id": "mn-24-014",
@@ -192,7 +206,8 @@
     "chapter": "Bab 24",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menemani dan mengantarkan seseorang sampai ke stasiun atau rumah (人を送る)"
   },
   {
     "id": "mn-24-015",
@@ -205,7 +220,8 @@
     "chapter": "Bab 24",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memperbaiki barang rusak, atau membetulkan kesalahan kalimat/tugas"
   },
   {
     "id": "mn-24-016",
@@ -218,7 +234,8 @@
     "chapter": "Bab 24",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Hari ungkapan terima kasih kepada ibu pada hari Minggu kedua di bulan Mei"
   },
   {
     "id": "mn-24-017",
@@ -231,7 +248,8 @@
     "chapter": "Bab 24",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengajak orang atau hewan pergi menuju tempat lain"
   },
   {
     "id": "mn-24-018",
@@ -244,7 +262,8 @@
     "chapter": "Bab 24",
     "type": "v3",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membawa dan mengajak orang atau hewan datang ke tempat pembicara"
   },
   {
     "id": "mn-24-019",
@@ -257,7 +276,8 @@
     "chapter": "Bab 24",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bingkisan buah atau bunga saat menjenguk kawan yang dirawat sakit"
   },
   {
     "id": "mn-24-020",
@@ -270,7 +290,8 @@
     "chapter": "Bab 24",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Uang santunan duka cita yang diserahkan dalam amplop khusus koden saat melayat jenazah"
   },
   {
     "id": "mn-24-021",
@@ -283,7 +304,8 @@
     "chapter": "Bab 24",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Tradisi mengirim hadiah tanda terima kasih kepada relasi/atasan di bulan Desember"
   },
   {
     "id": "mn-24-022",
@@ -296,7 +318,8 @@
     "chapter": "Bab 24",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Tradisi mengirim hadiah tanda terima kasih kepada relasi/atasan di bulan Juli/Agustus"
   },
   {
     "id": "mn-24-023",
@@ -309,7 +332,8 @@
     "chapter": "Bab 24",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Amplop uang saku yang diberikan orang dewasa kepada anak-anak pada Tahun Baru"
   },
   {
     "id": "mn-24-024",
@@ -322,7 +346,8 @@
     "chapter": "Bab 24",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Hadiah uang ucapan selamat berbahagia atas pernikahan mempelai pengantin"
   },
   {
     "id": "mn-24-025",
@@ -335,7 +360,8 @@
     "chapter": "Bab 24",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Hadiah perlengkapan bayi atau uang ucapan selamat atas kelahiran anak"
   },
   {
     "id": "mn-24-026",
@@ -348,7 +374,8 @@
     "chapter": "Bab 24",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Hadiah ucapan selamat atas tamatnya sekolah atau wisuda sarjana"
   },
   {
     "id": "mn-24-027",
@@ -361,6 +388,7 @@
     "chapter": "Bab 24",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Hadiah perlengkapan belajar ucapan selamat saat anak baru masuk SD/SMP/SMA"
   }
 ]

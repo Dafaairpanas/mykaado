@@ -1,0 +1,61 @@
+～から;～から;dari ～;Menyatakan titik awal waktu atau tempat (cth: 9時から)
+～と～;～と～;～ dan ～;Menghubungkan kata benda secara berurutan
+～まで;～まで;sampai / hingga ～;Menyatakan batas akhir waktu atau tempat (cth: 5時まで)
+～時;～じ;pukul ... / jam ...;Satuan penunjuk waktu jam (4時 = よじ, 9時 = くじ)
+～分;～ふん / ～ぷん;... menit;Satuan hitung menit waktu (1分 = いっぷん, 5分 = ごふん)
+デパート;デパート;department store / toserba;Pusat perbelanjaan bertingkat (toserba)
+ニューヨーク;ニューヨーク;New York;Kota metropolitan di Amerika Serikat
+ペキン;ペキン;Beijing;Ibu kota negara Tiongkok / China
+ロサンゼルス;ロサンゼルス;Los Angeles;Kota besar di California, Amerika Serikat
+ロンドン;ロンドン;London;Ibu kota negara Inggris
+一昨日;おととい;kemarin lusa / 2 hari lalu;Dua hari sebelum hari ini (ragam formal: いっさくじつ)
+映画;えいが;film / bioskop;Karya seni sinema gambar bergerak
+何時;なんじ;pukul berapa?;Menanyakan waktu jam saat ini (perbaikan typo: なんじ)
+何番;なんばん;nomor berapa?;Menanyakan angka urutan atau nomor telepon
+何分;なんぷん;berapa menit / menit ke berapa?;Menanyakan durasi atau posisi menit waktu
+何曜日;なんようび;hari apa?;Menanyakan nama hari dalam sepekan
+火曜日;かようび;hari Selasa;Hari kedua dalam kalender sepekan
+会議;かいぎ;rapat / pertemuan;Musyawarah kerja atau rapat dinas
+起きます;おきます;bangun tidur;Membuka mata dan bangkit dari tidur
+休み;やすみ;libur / istirahat;Hari libur, waktu rehat kerja, atau jeda
+休みます;やすみます;beristirahat / libur / tidak masuk;Berhenti sejenak dari aktivitas, atau izin absen
+金曜日;きんようび;hari Jumat;Hari kelima dalam kalender sepekan
+銀行;ぎんこう;bank;Lembaga keuangan perbankan tempat simpan-pinjam uang
+月曜日;げつようび;hari Senin;Hari pertama dalam kalender sepekan
+午後;ごご;siang/sore/malam (p.m.);Rentang waktu dari jam 12:00 siang hingga 23:59 malam
+午前;ごぜん;pagi (a.m.);Rentang waktu dari jam 00:00 tengah malam hingga 11:59 siang
+今;いま;sekarang / saat ini;Waktu pada saat momen pembicaraan berlangsung
+今朝;けさ;tadi pagi / pagi ini;Waktu pagi pada hari ini
+今日;きょう;hari ini;Hari yang sedang berlangsung saat ini
+今晩;こんばん;malam ini / nanti malam;Waktu malam pada hari ini (sinonim: 今夜 / こんや)
+昨日;きのう;kemarin;Satu hari sebelum hari ini (ragam formal: さくじつ)
+試験;しけん;ujian / tes;Tes evaluasi kemampuan belajar atau keterampilan
+終わります;おわります;selesai / berakhir;Kegiatan atau waktu telah tuntas (intransitif)
+寝ます;ねます;tidur / berbaring;Merebahkan tubuh untuk beristirahat tidur
+図書館;としょかん;perpustakaan;Gedung tempat koleksi dan peminjaman buku bacaan
+水曜日;すいようび;hari Rabu;Hari ketiga dalam kalender sepekan
+大変ですね;たいへんですね;berat ya / repot sekali ya;Ungkapan simpati atas kerja keras atau kesulitan lawan bicara
+昼;ひる;siang hari;Waktu tengah hari sekitar pukul 11:00 - 14:00
+昼休み;ひるやすみ;istirahat siang;Jeda waktu makan siang dan istirahat kerja/sekolah
+朝;あさ;pagi hari;Waktu awal hari sebelum siang
+土曜日;どようび;hari Sabtu;Hari keenam dalam kalender sepekan (awal akhir pekan)
+働きます;はたらきます;bekerja;Melakukan pekerjaan mata pencaharian
+日曜日;にちようび;hari Minggu;Hari ketujuh dalam kalender sepekan (hari libur)
+半;はん;setengah / lewat 30 menit;Dilekatkan setelah penunjuk jam (cth: 2時半 = pukul 2.30)
+晩;ばん;malam hari;Waktu petang hingga malam (sinonim: よる)
+番号;ばんごう;nomor / angka identitas;Nomor urut, nomor telepon, atau identitas
+美術館;びじゅつかん;museum seni;Gedung pameran karya seni rupa, lukisan, dan patung
+勉強します;べんきょうします;belajar;Mempelajari ilmu pengetahuan atau keterampilan
+毎朝;まいあさ;setiap pagi;Rutin setiap waktu pagi tiba
+毎日;まいにち;setiap hari;Rutin sepanjang hari tanpa terkecuali
+毎晩;まいばん;setiap malam;Rutin setiap waktu malam tiba
+明後日;あさって;besok lusa;Dua hari setelah hari ini (ragam formal: みょうごにち)
+明日;あした;besok;Satu hari setelah hari ini (ragam formal: みょうにち / あす)
+木曜日;もくようび;hari Kamis;Hari keempat dalam kalender sepekan
+夜;よる;malam hari;Waktu saat hari sudah gelap gulita hingga fajar
+郵便局;ゆうびんきょく;kantor pos;Lembaga pelayanan surat-menyurat dan pengiriman paket
+警察署;けいさつしょ;kantor polisi;Gedung pusat dinas kepolisian daerah
+時報;じほう;layanan penunjuk waktu;Layanan suara otomatis penunjuk waktu jam lewat telepon (nomor 117 di Jepang)
+消防署;しょうぼうしょ;kantor pemadam kebakaran;Pos dinas pemadam kebakaran dan penyelamatan (nomor 119 di Jepang)
+天気予報;てんきよほう;prakiraan cuaca;Laporan informasi prediksi cuaca dari badan meteorologi
+電話番号案内;でんわばんごうあんない;layanan informasi nomor telepon;Layanan bantuan pencarian nomor kontak telepon (direktori penerangan)

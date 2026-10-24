@@ -10,7 +10,8 @@
     "chapter": "Bab 03",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Dipakai saat memesan barang di toko atau restoran (cth: これをください)"
   },
   {
     "id": "mn-03-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 03",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Satuan mata uang resmi negara Jepang"
   },
   {
     "id": "mn-03-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 03",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Satuan hitung tingkat gedung (lantai 3 = さんがい)"
   },
   {
     "id": "mn-03-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata tunjuk tempat jauh dari pembicara dan lawan bicara"
   },
   {
     "id": "mn-03-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bentuk sopan dari あそこ,  bisa juga penunjuk arah atau orang"
   },
   {
     "id": "mn-03-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menanyakan nominal harga barang atau tarif jasa"
   },
   {
     "id": "mn-03-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di kawasan Eropa Selatan"
   },
   {
     "id": "mn-03-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 03",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Salam sambutan pelayan toko atau restoran kepada pelanggan"
   },
   {
     "id": "mn-03-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tangga berjalan mekanik otomatis naik-turun"
   },
   {
     "id": "mn-03-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kotak angkut vertikal antarlantai gedung"
   },
   {
     "id": "mn-03-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Bentuk sopan untuk menanyakan kewarganegaraan atau daerah asal lawan bicara"
   },
   {
     "id": "mn-03-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 03",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ragam sopan dan halus dari トイレ"
   },
   {
     "id": "mn-03-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata tunjuk tempat yang berada dekat dengan pembicara"
   },
   {
     "id": "mn-03-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bentuk sopan dari ここ,  juga dipakai merujuk orang atau arah"
   },
   {
     "id": "mn-03-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Singkatan lisan santai dari では saat menyimpulkan pilihan belanja"
   },
   {
     "id": "mn-03-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ibu kota negara Indonesia"
   },
   {
     "id": "mn-03-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Negara di kawasan Eropa Tengah (Switzerland)"
   },
   {
     "id": "mn-03-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 03",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sapaan untuk memanggil orang, minta maaf, atau ungkapan terima kasih"
   },
   {
     "id": "mn-03-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata tunjuk tempat yang berada dekat dengan lawan bicara"
   },
   {
     "id": "mn-03-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bentuk sopan dari そこ,  juga dipakai merujuk lawan bicara atau arah"
   },
   {
     "id": "mn-03-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Ragam umum sehari-hari dari お手洗い"
   },
   {
     "id": "mn-03-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata sapaan santai serbaguna (terima kasih, salam, atau maaf)"
   },
   {
     "id": "mn-03-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata tanya posisi atau tempat secara umum"
   },
   {
     "id": "mn-03-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bentuk sopan dari どこ,  juga digunakan untuk memilih 1 dari 2 pilihan"
   },
   {
     "id": "mn-03-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Aksesoris pakaian leher kemeja (necktie)"
   },
   {
     "id": "mn-03-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ibu kota negara Thailand"
   },
   {
     "id": "mn-03-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Negara di kawasan Eropa Barat"
   },
   {
     "id": "mn-03-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ibu kota negara Jerman"
   },
   {
     "id": "mn-03-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Ruang tunggu hotel, kantor, atau gedung umum"
   },
   {
     "id": "mn-03-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Minuman beralkohol dari hasil fermentasi buah anggur"
   },
   {
     "id": "mn-03-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Menanyakan posisi lantai dalam gedung bertingkat (dibaca nangai)"
   },
   {
     "id": "mn-03-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Merujuk ke kediaman pribadi atau keluarga sendiri"
   },
   {
     "id": "mn-03-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Ruangan khusus untuk pertemuan atau konferensi"
   },
   {
     "id": "mn-03-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Lembaga badan usaha tempat bekerja"
   },
   {
     "id": "mn-03-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Undak-undakan tangga manual (bukan eskalator berjalan)"
   },
   {
     "id": "mn-03-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Ruangan tempat kegiatan belajar mengajar berlangsung"
   },
   {
     "id": "mn-03-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Alas kaki penutup tapak dan punggung kaki"
   },
   {
     "id": "mn-03-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 03",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Permintaan sopan ingin melihat barang sebelum membeli (cth: これを~)"
   },
   {
     "id": "mn-03-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Ruang administrasi kerja staf kantor atau lembaga sekolah"
   },
   {
     "id": "mn-03-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Mesin penjual minuman/makanan ringan otomatis (vending machine)"
   },
   {
     "id": "mn-03-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Area meja pendaftaran tamu di lobi gedung atau kantor"
   },
   {
     "id": "mn-03-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Tempat makan bersama di kantor/sekolah (atau rumah makan umum sederhana)"
   },
   {
     "id": "mn-03-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Nominal angka 1.000 (cth: 3.000 = さんぜん)"
   },
   {
     "id": "mn-03-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Area lantai di bawah permukaan tanah (disingkat B1, B2)"
   },
   {
     "id": "mn-03-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Perangkat telepon atau panggilan komunikasi suara"
   },
   {
     "id": "mn-03-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Area penjualan jenis barang tertentu di department store"
   },
   {
     "id": "mn-03-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Nominal angka 100 (cth: 300 = さんびゃく, 600 = ろっぴゃく)"
   },
   {
     "id": "mn-03-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Ruangan tempat tinggal di rumah atau asrama"
   },
   {
     "id": "mn-03-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Satuan nominal 10.000 (cth: 1万 = 10.000, 10万 = 100.000)"
   },
   {
     "id": "mn-03-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perhiasan pelengkap busana (kalung, cincin, gelang, bros)"
   },
   {
     "id": "mn-03-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Alat bermain untuk anak-anak (kanji: 玩具)"
   },
   {
     "id": "mn-03-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perlengkapan dan kostum untuk aktivitas olahraga"
   },
   {
     "id": "mn-03-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Rumah makan modern bergaya barat"
   },
   {
     "id": "mn-03-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Area lantai paling atas gedung yang terbuka"
   },
   {
     "id": "mn-03-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Produk perawatan dan tata rias kecantikan"
   },
   {
     "id": "mn-03-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Perabotan rumah tangga (meja, lemari pakaian, sofa)"
   },
   {
     "id": "mn-03-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Alat bantu penglihatan mata (sering ditulis メガネ)"
   },
   {
     "id": "mn-03-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Area acara atau pameran promosi khusus di mall/pusat belanja"
   },
   {
     "id": "mn-03-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Busana khusus untuk anak-anak (sering disingkat 子供服)"
   },
   {
     "id": "mn-03-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Wadah piring, mangkuk, gelas, sendok, dan garpu"
   },
   {
     "id": "mn-03-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Komoditas produk konsumsi pangan di supermarket"
   },
   {
     "id": "mn-03-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Busana formal atau pakaian khusus untuk pria dewasa"
   },
   {
     "id": "mn-03-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Lahan area memarkir mobil atau sepeda motor"
   },
   {
     "id": "mn-03-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Peralatan listrik rumah (kulkas, mesin cuci, televisi, AC)"
   },
   {
     "id": "mn-03-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Busana formal atau pakaian khusus wanita dewasa"
   },
   {
     "id": "mn-03-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Peralatan tulis dan perlengkapan administrasi kertas kantor"
   },
   {
     "id": "mn-03-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Taman wisata keluarga dengan aneka wahana bermain"
   },
   {
     "id": "mn-03-068",
@@ -881,6 +948,7 @@
     "chapter": "Bab 03",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Koper dan aneka perlengkapan barang saat liburan/traveling"
   }
 ]

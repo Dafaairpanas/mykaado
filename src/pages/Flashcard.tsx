@@ -44,6 +44,45 @@ function renderKanjiWithFadedKana(text: string | undefined | null | boolean) {
   );
 }
 
+// Helper for dynamic Japanese text size based on character length
+function getJpFontSizeClass(text: string | undefined | null) {
+  if (!text) return "text-4xl md:text-6xl";
+  const len = text.length;
+  if (len > 20) return "text-xl sm:text-2xl md:text-3xl leading-snug";
+  if (len > 12) return "text-2xl sm:text-3xl md:text-4xl leading-normal";
+  if (len > 6) return "text-3xl sm:text-4xl md:text-6xl leading-tight";
+  return "text-5xl sm:text-6xl md:text-8xl leading-none";
+}
+
+// Helper for secondary Japanese text (e.g. kana pronunciation)
+function getSecondaryJpFontSizeClass(text: string | undefined | null) {
+  if (!text) return "text-lg md:text-xl";
+  const len = text.length;
+  if (len > 20) return "text-xs sm:text-sm md:text-base";
+  if (len > 12) return "text-sm sm:text-base md:text-lg";
+  return "text-lg sm:text-xl md:text-2xl";
+}
+
+// Helper for dynamic Indonesian / meaning text size
+function getMeaningFontSizeClass(text: string | undefined | null) {
+  if (!text) return "text-2xl md:text-4xl";
+  const len = text.length;
+  if (len > 60) return "text-base sm:text-lg md:text-xl leading-relaxed";
+  if (len > 35) return "text-lg sm:text-xl md:text-2xl leading-snug";
+  if (len > 18) return "text-xl sm:text-2xl md:text-3xl leading-tight";
+  return "text-2xl sm:text-3xl md:text-5xl leading-tight";
+}
+
+// Helper for rendering data4 (nuance / context explanation)
+function renderData4(data4: string | undefined | null) {
+  if (!data4 || !data4.trim()) return null;
+  return (
+    <div className="mt-2.5 px-3 py-1.5 rounded-lg bg-[var(--color-bg-nav)]/60 border border-[var(--color-border-main)]/30 text-xs sm:text-sm text-[var(--color-text-muted)] font-normal text-center max-w-[92%] mx-auto leading-relaxed break-words">
+      <span className="opacity-80">{data4}</span>
+    </div>
+  );
+}
+
 // We read this from localStorage that was saved in /flashcard/setup
 interface FlashcardConfig {
   selectedDecks: string[];
@@ -603,6 +642,7 @@ export default function FlashcardPage() {
   const isKanjiData = "onyomi" in card;
   const isBunpou = "formula_template" in card;
   const studyMode = config.studyMode;
+  const data4 = ("data4" in card ? (card as any).data4 : null) as string | undefined | null;
 
   // Calculate remaining new cards (cards ahead that haven't been seen)
   const remaining = cards.length - currentIndex;
@@ -679,80 +719,128 @@ export default function FlashcardPage() {
       );
     }
   } else if (studyMode === "Reverse") {
-    frontContent = <div className="text-3xl md:text-5xl font-bold text-center leading-tight opacity-75">{card.meaning}</div>;
-    backContent = (
-      <>
-        <div className="text-5xl md:text-7xl jp-text mb-4 text-center">{renderKanjiWithFadedKana(card.kanji || ("kana" in card && card.kana))}</div>
-        <div className="text-xl md:text-2xl text-[var(--color-text-muted)] mb-2 text-center opacity-60">
-           {isKanjiData ? (card as any).onyomi : ("kana" in card ? card.kana : "")}
-        </div>
-      </>
-    );
-  } else if (studyMode === "Kanji") {
-    frontContent = <div className="text-6xl md:text-8xl jp-text mb-4 text-center">{renderKanjiWithFadedKana(card.kanji || ("kana" in card && card.kana))}</div>;
-    backContent = (
-      <>
-        <div className="text-2xl md:text-4xl jp-text font-normal mb-4 text-center opacity-70">
-           {"kana" in card ? card.kana : (card as any).onyomi}
-        </div>
-        <div className="text-xl md:text-2xl text-[var(--color-text-main)] mb-2 text-center opacity-70">
-           {card.meaning}
-        </div>
-      </>
-    );
-  } else if (studyMode === "Mix") {
-    // Show kanji if exists, else kana
-    frontContent = <div className="text-6xl md:text-8xl jp-text mb-4 text-center">{renderKanjiWithFadedKana(card.kanji ? card.kanji : ("kana" in card ? card.kana : ""))}</div>;
-    backContent = (
-      <>
-        {card.kanji && "kana" in card && (
-          <div className="text-2xl md:text-4xl jp-text font-normal mb-4 text-center opacity-70">
-            {card.kana}
-          </div>
-        )}
-        <div className="text-xl md:text-2xl text-[var(--color-text-main)] mb-2 text-center opacity-70">
-           {card.meaning}
-        </div>
-      </>
-    );
-  } else if (studyMode === "Audio") {
+    const meaningText = card.meaning || "";
+    const jpText = card.kanji || ("kana" in card && card.kana) || "";
+    const subJp = isKanjiData ? (card as any).onyomi : ("kana" in card ? card.kana : "");
     frontContent = (
-      <div className="flex flex-col items-center">
-        <div className="w-24 h-24 bg-[var(--color-accent)] rounded-full flex items-center justify-center shadow-[4px_4px_0px_var(--color-shadow-main)] mb-6 animate-pulse">
-           <span className="text-4xl">🔊</span>
+      <div className="w-full flex flex-col items-center justify-center text-center">
+        <div className={`${getMeaningFontSizeClass(meaningText)} font-bold leading-tight opacity-85 break-words max-w-full px-2`}>
+          {meaningText}
         </div>
-        <p className="font-bold opacity-75">Dengarkan Audio</p>
+        {renderData4(data4)}
       </div>
     );
     backContent = (
-      <>
-        <div className="text-4xl md:text-6xl jp-text mb-4 text-center">{renderKanjiWithFadedKana(card.kanji || ("kana" in card && card.kana))}</div>
-        <div className="text-xl md:text-2xl text-[var(--color-text-main)] mb-2 text-center opacity-70">
-           {card.meaning}
+      <div className="w-full flex flex-col items-center justify-center text-center">
+        <div className={`${getJpFontSizeClass(jpText)} jp-text mb-3 text-center break-words max-w-full px-2`}>
+          {renderKanjiWithFadedKana(jpText)}
         </div>
-      </>
+        {subJp && (
+          <div className={`${getSecondaryJpFontSizeClass(subJp)} text-[var(--color-text-muted)] mb-2 text-center opacity-70 break-words max-w-full px-2`}>
+            {subJp}
+          </div>
+        )}
+      </div>
+    );
+  } else if (studyMode === "Kanji") {
+    const jpText = card.kanji || ("kana" in card && card.kana) || "";
+    const subJp = "kana" in card ? card.kana : (card as any).onyomi;
+    const meaningText = card.meaning || "";
+    frontContent = (
+      <div className="w-full flex flex-col items-center justify-center text-center">
+        <div className={`${getJpFontSizeClass(jpText)} jp-text mb-2 text-center break-words max-w-full px-2`}>
+          {renderKanjiWithFadedKana(jpText)}
+        </div>
+      </div>
+    );
+    backContent = (
+      <div className="w-full flex flex-col items-center justify-center text-center">
+        {subJp && (
+          <div className={`${getSecondaryJpFontSizeClass(subJp)} jp-text font-normal mb-3 text-center opacity-75 break-words max-w-full px-2`}>
+            {subJp}
+          </div>
+        )}
+        <div className={`${getMeaningFontSizeClass(meaningText)} text-[var(--color-text-main)] mb-1 text-center font-semibold opacity-85 break-words max-w-full px-2`}>
+          {meaningText}
+        </div>
+        {renderData4(data4)}
+      </div>
+    );
+  } else if (studyMode === "Mix") {
+    const jpText = card.kanji ? card.kanji : ("kana" in card ? card.kana : "");
+    const subKana = card.kanji && "kana" in card ? card.kana : "";
+    const meaningText = card.meaning || "";
+    frontContent = (
+      <div className="w-full flex flex-col items-center justify-center text-center">
+        <div className={`${getJpFontSizeClass(jpText)} jp-text mb-2 text-center break-words max-w-full px-2`}>
+          {renderKanjiWithFadedKana(jpText)}
+        </div>
+      </div>
+    );
+    backContent = (
+      <div className="w-full flex flex-col items-center justify-center text-center">
+        {subKana && (
+          <div className={`${getSecondaryJpFontSizeClass(subKana)} jp-text font-normal mb-3 text-center opacity-75 break-words max-w-full px-2`}>
+            {subKana}
+          </div>
+        )}
+        <div className={`${getMeaningFontSizeClass(meaningText)} text-[var(--color-text-main)] mb-1 text-center font-semibold opacity-85 break-words max-w-full px-2`}>
+          {meaningText}
+        </div>
+        {renderData4(data4)}
+      </div>
+    );
+  } else if (studyMode === "Audio") {
+    const jpText = card.kanji || ("kana" in card && card.kana) || "";
+    const meaningText = card.meaning || "";
+    frontContent = (
+      <div className="flex flex-col items-center">
+        <div className="w-20 h-20 md:w-24 md:h-24 bg-[var(--color-accent)] rounded-full flex items-center justify-center shadow-[4px_4px_0px_var(--color-shadow-main)] mb-4 md:mb-6 animate-pulse">
+          <span className="text-3xl md:text-4xl">🔊</span>
+        </div>
+        <p className="font-bold opacity-75 text-sm md:text-base">Dengarkan Audio</p>
+      </div>
+    );
+    backContent = (
+      <div className="w-full flex flex-col items-center justify-center text-center">
+        <div className={`${getJpFontSizeClass(jpText)} jp-text mb-3 text-center break-words max-w-full px-2`}>
+          {renderKanjiWithFadedKana(jpText)}
+        </div>
+        <div className={`${getMeaningFontSizeClass(meaningText)} text-[var(--color-text-main)] mb-1 text-center font-semibold opacity-85 break-words max-w-full px-2`}>
+          {meaningText}
+        </div>
+        {renderData4(data4)}
+      </div>
     );
   } else {
     // Standard Mode (JP -> ID)
+    const jpText = card.kanji || ("kana" in card && card.kana) || "";
+    const subKana = card.kanji && "kana" in card ? card.kana : "";
+    const meaningText = card.meaning || "";
     frontContent = (
-      <>
-        <div className="text-6xl md:text-8xl jp-text mb-4 text-center">{renderKanjiWithFadedKana(card.kanji || ("kana" in card && card.kana))}</div>
-        {card.kanji && "kana" in card && (
-          <div className="text-xl text-[var(--color-text-muted)] jp-text font-normal text-center opacity-60">{card.kana}</div>
+      <div className="w-full flex flex-col items-center justify-center text-center">
+        <div className={`${getJpFontSizeClass(jpText)} jp-text mb-2 text-center break-words max-w-full px-2`}>
+          {renderKanjiWithFadedKana(jpText)}
+        </div>
+        {subKana && (
+          <div className={`${getSecondaryJpFontSizeClass(subKana)} text-[var(--color-text-muted)] jp-text font-normal text-center opacity-70 break-words max-w-full px-2`}>
+            {subKana}
+          </div>
         )}
-      </>
+      </div>
     );
     backContent = (
-      <>
-        <div className="text-3xl md:text-5xl font-bold mb-4 text-center leading-tight opacity-75">
-          {card.meaning}
+      <div className="w-full flex flex-col items-center justify-center text-center">
+        <div className={`${getMeaningFontSizeClass(meaningText)} font-bold mb-2 text-center leading-tight opacity-85 break-words max-w-full px-2`}>
+          {meaningText}
         </div>
-        {"romaji" in card && (
-          <div className="text-lg text-[var(--color-text-muted)] text-center font-mono opacity-60">
+        {"romaji" in card && card.romaji && (
+          <div className="text-sm md:text-base text-[var(--color-text-muted)] text-center font-mono opacity-65 mb-1 break-words">
             {card.romaji}
           </div>
         )}
-      </>
+        {renderData4(data4)}
+      </div>
     );
   }
 
@@ -803,7 +891,7 @@ export default function FlashcardPage() {
 
       {/* Flashcard Area */}
       <div 
-        className="relative w-full max-w-[800px] h-[350px] md:h-[450px] cursor-pointer"
+        className="relative w-full max-w-[800px] h-[350px] sm:h-[400px] md:h-[450px] cursor-pointer"
         style={{ perspective: "1000px" }}
         onClick={() => !isFlipped && setIsFlipped(true)}
       >
@@ -816,24 +904,26 @@ export default function FlashcardPage() {
         >
           {/* Front */}
           <Card 
-            className="absolute w-full h-full flex flex-col items-center justify-center p-8 bg-[var(--color-bg-card)] rounded-[2rem] border-[length:var(--bw-md)]"
+            className="absolute w-full h-full flex flex-col items-center justify-center p-4 sm:p-6 md:p-8 bg-[var(--color-bg-card)] rounded-[1.5rem] sm:rounded-[2rem] border-[length:var(--bw-md)] overflow-hidden"
             style={{ backfaceVisibility: "hidden" }}
           >
             {!config.hideLabel && 'chapter' in card && card.chapter && (
-              <div className="absolute top-4 left-4 px-3 py-1 bg-[var(--color-bg-nav)] text-xs font-bold rounded-full border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]">
+              <div className="absolute top-3 sm:top-4 left-3 sm:left-4 px-2.5 sm:px-3 py-1 bg-[var(--color-bg-nav)] text-[10px] sm:text-xs font-bold rounded-full border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] z-10">
                 {card.chapter}
               </div>
             )}
             {!config.hideLabel && card.level && (
-              <div className="absolute top-4 right-4 px-3 py-1 bg-[var(--color-accent)] text-[var(--color-bg-main)] text-xs font-bold rounded-full border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]">
+              <div className="absolute top-3 sm:top-4 right-3 sm:right-4 px-2.5 sm:px-3 py-1 bg-[var(--color-accent)] text-[var(--color-bg-main)] text-[10px] sm:text-xs font-bold rounded-full border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] z-10">
                 {card.level}
               </div>
             )}
             
-            {frontContent}
+            <div className="w-full max-h-[calc(100%-3.5rem)] overflow-y-auto custom-scrollbar flex flex-col items-center justify-center my-auto px-2">
+              {frontContent}
+            </div>
 
             {!isFlipped && (
-              <div className="absolute bottom-6 text-sm font-bold text-[var(--color-text-muted)] animate-pulse bg-[var(--color-bg-nav)] px-4 py-2 rounded-full border-[length:var(--bw-sm)] border-solid border-transparent">
+              <div className="absolute bottom-3 sm:bottom-5 text-xs sm:text-sm font-bold text-[var(--color-text-muted)] animate-pulse bg-[var(--color-bg-nav)] px-3 sm:px-4 py-1.5 rounded-full border-[length:var(--bw-sm)] border-solid border-transparent">
                 TAP TO FLIP
               </div>
             )}
@@ -841,39 +931,41 @@ export default function FlashcardPage() {
 
           {/* Back */}
           <Card 
-            className="absolute w-full h-full flex flex-col items-center justify-center p-8 bg-[var(--color-bg-card)] border-[length:var(--bw-md)] rounded-[2rem]"
+            className="absolute w-full h-full flex flex-col items-center justify-center p-4 sm:p-6 md:p-8 bg-[var(--color-bg-card)] border-[length:var(--bw-md)] rounded-[1.5rem] sm:rounded-[2rem] overflow-hidden"
             style={{ backfaceVisibility: "hidden", transform: "rotateY(180deg)" }}
           >
-            {backContent}
+            <div className="w-full max-h-full overflow-y-auto custom-scrollbar flex flex-col items-center justify-center my-auto px-2">
+              {backContent}
+            </div>
           </Card>
         </div>
       </div>
 
       {/* Action Buttons */}
-      <div className={`mt-8 w-full max-w-[800px] flex gap-3 transition-all duration-300 ${isFlipped ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4 pointer-events-none"}`}>
+      <div className={`mt-6 sm:mt-8 w-full max-w-[800px] flex gap-2 sm:gap-3 transition-all duration-300 ${isFlipped ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4 pointer-events-none"}`}>
         <button 
           onClick={() => handleRate(Rating.Again)}
-          className="flex-1 py-3 md:py-4 rounded-[var(--radius-sm)] font-extrabold text-lg md:text-xl border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[4px_4px_0px_var(--color-shadow-main)] transition-transform active:translate-y-[2px] active:translate-x-[2px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] bg-[#FF7B72] text-[#111]"
+          className="flex-1 py-2.5 sm:py-3 md:py-4 rounded-[var(--radius-sm)] font-extrabold text-sm sm:text-base md:text-xl border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] sm:shadow-[4px_4px_0px_var(--color-shadow-main)] transition-transform active:translate-y-[2px] active:translate-x-[2px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] bg-[#FF7B72] text-[#111]"
         >
-          AGAIN <span className="block text-xs font-bold opacity-80 mt-1">3x</span>
+          AGAIN <span className="block text-[10px] sm:text-xs font-bold opacity-80 mt-0.5">3x</span>
         </button>
         <button 
           onClick={() => handleRate(Rating.Hard)}
-          className="flex-1 py-3 md:py-4 rounded-[var(--radius-sm)] font-extrabold text-lg md:text-xl border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[4px_4px_0px_var(--color-shadow-main)] transition-transform active:translate-y-[2px] active:translate-x-[2px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] bg-[#F0A07B] text-[#111]"
+          className="flex-1 py-2.5 sm:py-3 md:py-4 rounded-[var(--radius-sm)] font-extrabold text-sm sm:text-base md:text-xl border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] sm:shadow-[4px_4px_0px_var(--color-shadow-main)] transition-transform active:translate-y-[2px] active:translate-x-[2px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] bg-[#F0A07B] text-[#111]"
         >
-          HARD <span className="block text-xs font-bold opacity-80 mt-1">2x</span>
+          HARD <span className="block text-[10px] sm:text-xs font-bold opacity-80 mt-0.5">2x</span>
         </button>
         <button 
           onClick={() => handleRate(Rating.Good)}
-          className="flex-1 py-3 md:py-4 rounded-[var(--radius-sm)] font-extrabold text-lg md:text-xl border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[4px_4px_0px_var(--color-shadow-main)] transition-transform active:translate-y-[2px] active:translate-x-[2px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] bg-[#79BFF8] text-[#111]"
+          className="flex-1 py-2.5 sm:py-3 md:py-4 rounded-[var(--radius-sm)] font-extrabold text-sm sm:text-base md:text-xl border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] sm:shadow-[4px_4px_0px_var(--color-shadow-main)] transition-transform active:translate-y-[2px] active:translate-x-[2px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] bg-[#79BFF8] text-[#111]"
         >
-          GOOD <span className="block text-xs font-bold opacity-80 mt-1">1x</span>
+          GOOD <span className="block text-[10px] sm:text-xs font-bold opacity-80 mt-0.5">1x</span>
         </button>
         <button 
           onClick={() => handleRate(Rating.Easy)}
-          className="flex-1 py-3 md:py-4 rounded-[var(--radius-sm)] font-extrabold text-lg md:text-xl border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[4px_4px_0px_var(--color-shadow-main)] transition-transform active:translate-y-[2px] active:translate-x-[2px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] bg-[#7CE38B] text-[#111]"
+          className="flex-1 py-2.5 sm:py-3 md:py-4 rounded-[var(--radius-sm)] font-extrabold text-sm sm:text-base md:text-xl border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] sm:shadow-[4px_4px_0px_var(--color-shadow-main)] transition-transform active:translate-y-[2px] active:translate-x-[2px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] bg-[#7CE38B] text-[#111]"
         >
-          EASY <span className="block text-xs font-bold opacity-80 mt-1">✓</span>
+          EASY <span className="block text-[10px] sm:text-xs font-bold opacity-80 mt-0.5">✓</span>
         </button>
       </div>
 

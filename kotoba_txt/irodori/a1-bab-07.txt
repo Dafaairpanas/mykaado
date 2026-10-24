@@ -1,0 +1,91 @@
+玄関;げんかん;pintu/jalan masuk
+お風呂;おふろ;kamar mandi
+トイレ;トイレ;toilet
+階段;かいだん;tangga
+部屋;へや;kamar,  ruangan
+ベランダ;ベランダ;beranda,  serambi
+バルコニー;バルコニー;balkon
+台所;だいどころ;dapur
+キッチン;キッチン;dapur
+庭;にわ;halaman,  pekarangan
+居間;いま;ruang keluarga,  ruang tamu
+リビング;リビング;ruang keluarga,  ruang tamu
+１階;いっかい;lantai satu
+２階;にかい;lantai dua
+管理人室;かんりにんしつ;kantor/ruang pengawas gedung
+食堂;しょくどう;ruang makan,  kantin
+入る / 入ります;はいる / はいります;masuk
+くつ;くつ;sepatu
+脱ぐ / 脱ぎます;ぬぐ / ぬぎます;melepas
+ご飯;ごはん;makanan
+入ってください;はいってください;Silakan masuk.
+脱いでください;ぬいでください;Mohon dilepas.
+お世話になります;おせわになります;Mohon bantuannya. (ungkapan halus yang digunakan ketika bertemu dengan orang yang akan membantu kita)
+エアコン;エアコン;AC (air conditioner)
+冷蔵庫;れいぞうこ;kulkas,  lemari pendingin
+電子レンジ;でんしレンジ;microwave
+炊飯器;すいはんき;penanak nasi
+トースター;トースター;pemanggang roti
+ベッド;ベッド;tempat tidur
+ふとん;ふとん;futon (kasur lipat tradisional Jepang)
+テーブル;テーブル;meja
+いす;いす;kursi
+洗濯機;せんたくき;mesin cuci
+テレビ;テレビ;televisi
+Wi-Fi;ワイファイ;Wi-Fi
+みんなで;みんなで;bersama-sama
+使う / 使います;つかう / つかいます;menggunakan
+ない;ない;Tidak ada (bentuk negatif dari ある)
+使ってください;つかってください;Silakan pakai.
+新しい;あたらしい;baru
+古い;ふるい;tua,  lama
+静か;しずか;sepi,  tenang
+うるさい;うるさい;bising,  berisik
+きれい;きれい;bersih,  rapi
+きたない;きたない;kotor,  berantakan
+家;いえ;rumah
+どう;どう;bagaimana
+ちょっと;ちょっと;agak
+とても;とても;sangat
+うち;うち;rumah
+近く;ちかく;dekat
+でも;でも;tetapi
+～区（南区）;～く（みなみく）;Distrik ~ (contoh: Distrik Minami)
+いいですね;いいですね;Bagus, ya.
+どう？;どう？;Gimana? (bentuk informal dari どうですか？)
+ふーん;ふーん;Hmm... (respon informal untuk menunjukkan bahwa pembicara mendengarkan ucapan lawan bicara)
+アパート;アパート;apartemen
+マンション;マンション;kondominium
+寮;りょう;asrama
+シェアハウス;シェアハウス;shared house
+一戸建て;いっこだて;rumah tapak
+お寺;おてら;kuil Buddha
+学校;がっこう;sekolah
+公園;こうえん;taman
+すごい;すごい;hebat,  luar biasa
+すごいですね;すごいですね;Hebat, ya.
+入れる / 入;いれる;menyalakan / ON
+切る / 切;きる;mematikan / OFF
+スタート;スタート;mulai,  start
+コース;コース;mode cuci
+電源;でんげん;tombol daya
+一時停止;いちじていし;jeda,  pause
+標準;ひょうじゅん;mode pencucian normal
+おいそぎ;おいそぎ;mode pencucian cepat
+手洗い;てあらい;mode pencucian hand wash
+毛布;もうふ;selimut
+ドライ;ドライ;mode pencucian delicate wash
+槽洗浄;そうせんじょう;mode pembersihan tabung
+予約;よやく;pewaktu (timer)
+残り;のこり;sisa (waktu)
+水量;すいりょう;volume air
+冷房;れいぼう;sejuk
+暖房;だんぼう;hangat
+除湿;じょしつ;menghilangkan kelembapan
+自動;じどう;otomatis
+温度;おんど;suhu
+風向;かざむき / ふうこう;arah angin
+風量;ふうりょう;kecepatan angin
+停止;ていし;stop
+タイマー;タイマー;pewaktu (timer)
+取消;とりけし;batal (cancel)

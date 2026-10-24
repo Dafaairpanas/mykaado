@@ -1,0 +1,134 @@
+サービス;サービス;layanan jasa fasilitas;pelayanan jasa penunjang kebutuhan masyarakat
+郵便局;ゆうびんきょく;kantor pos;kantor pengiriman surat, paket, dan tabungan pos
+不動産屋;ふどうさんや;agen properti, agen perumahan;agen perantara sewa atau jual beli apartemen
+理髪店;りはつてん;pangkas rambut pria, barbershop;tempat cukur rambut formal khusus pria
+床屋;とこや;tukang cukur rambut, barbershop;sebutan sehari-hari untuk tempat potong rambut pria
+美容院;びよういん;salon rambut, salon kecantikan;salon perawatan dan penataan rambut modern
+クリーニング店;クリーニングてん;gerai binatu cuci kering (dry cleaning);gerai pencucian pakaian jas dan mantel resmi
+コインランドリー;コインランドリー;laundromat koin mandiri;tempat cuci dan pengering pakaian swalayan bertenaga koin
+中古車店;ちゅうこしゃてん;dealer mobil bekas;gerai jual beli kendaraan roda empat bekas pakai
+自転車店;じてんしゃてん;toko dan bengkel sepeda;gerai penjualan serta servis perbaikan sepeda
+携帯ショップ;けいたいショップ;gerai resmi operator ponsel;gerai pendaftaran paket nomor dan penjualan ponsel
+スマホ修理店;スマホしゅうりてん;bengkel servis ponsel pintar;tempat perbaikan layar retak dan baterai smartphone
+リサイクルショップ;リサイクルショップ;toko barang bekas layak pakai;gerai jual beli perabot dan pakaian bekas (secondhand)
+クリーニング;クリーニング;jasa cuci binatu (laundry/dry clean);pencucian pakaian profesional khusus jas dan wol
+染み;シミ / しみ;bercak noda kotoran;noda minyak atau saus yang mengotori kain pakaian
+落ちる;おちる;luntur bersih, hilang (noda);noda kotoran berhasil hilang dicuci (汚れ・シミが落ちる)
+染み抜き;シミぬき;pembersihan noda membandel;proses khusus menghilangkan noda tinta atau minyak di binatu
+別料金;べつりょうきん;biaya tarif terpisah;biaya tambahan di luar paket jasa standar
+お渡し;おわたし;penyerahan kembali cucian;waktu pengambilan pakaian yang telah selesai dicuci
+空気;くうき;udara, angin ban;tekanan angin untuk mengisi ban sepeda
+空気入れ;くうきいれ;pompa angin ban sepeda;alat pemompa angin ban manual atau listrik
+入る;はいる;terisi angin ban (intransitif);udara masuk ke dalam ban hingga mengembang (空気が入る)
+タイヤ;タイヤ;karet ban luar;ban karet roda sepeda atau mobil
+キャップ;キャップ;tutup pentil ban;penutup ulir pentil saluran udara ban
+外す;はずす;melepaskan tutup pentil;memutar melepas penutup pentil sebelum memompa
+挟む;はさむ;menjepitkan corong pompa;menjepitkan mulut selang pompa pada ujung pentil
+かぶせる;かぶせる;memasang kembali penutup;menutupkan kembali cap pentil setelah dipompa
+ついでに;ついでに;sekalian sambil lalu;melakukan servis tambahan mumpung sedang berada di bengkel
+油を差す;あぶらをさす;memberi pelumas rantai;meneteskan oli pelumas pada rantai sepeda (オイルを差す)
+どれどれ;どれどれ;coba mari saya periksa;ungkapan ramah montir saat hendak mengecek kerusakan sepeda
+宅配便;たくはいびん;jasa kurir paket ekspres;ekspedisi pengantaran paket barang ke rumah (seperti Yamato)
+着払い;ちゃくばらい;ongkir dibayar penerima paket (COD);sistem ongkos kirim yang dilunasi oleh penerima saat paket tiba
+元払い;もとばらい;ongkir dibayar pengirim di muka;sistem ongkos kirim yang dilunasi pihak pengirim saat menyerahkan paket
+受け取る;うけとる;menerima paket kiriman;menerima paket yang diantarkan kurir di pintu rumah
+伝票;でんぴょう;resi formulir pengiriman paket;kertas slip label alamat pengiriman barang
+指定;してい;penentuan jadwal khusus;menentukan jam atau hari tertentu penerimaan paket
+午前中;ごぜんちゅう;sepanjang pagi hari;rentang waktu pengantaran antara jam 8 hingga 12 siang
+最も;もっとも;paling, nomor satu;tingkat superlatif paling cepat atau ekonomis
+お届け;おとどけ;pengantaran paket ke tujuan;sebutan sopan kurir saat mengantarkan barang kiriman
+お預かりします;おあずかりします;kami terima titipan paket Anda;jawaban sopan kurir menerima paket untuk dikirimkan
+表示する;ひょうじする;menampilkan menu di layar;layar monitor mesin ATM memunculkan instruksi
+キャッシュカード;キャッシュカード;kartu debit ATM perbankan;kartu magnetik bank untuk tarik tunai di mesin ATM
+お引き出し;おひきだし;penarikan uang tunai di ATM;tombol menu mengambil uang simpanan dari rekening bank
+次に;つぎに;langkah berikutnya;urutan proses tahapan setelah menu dipilih
+暗証番号;あんしょうばんごう;nomor PIN rahasia kartu;kode sandi rahasia angka 4 digit rekening perbankan
+入力する;にゅうりょくする;mengetikkan input angka;menekan tombol angka nomor PIN di keypad ATM
+〜桁;〜けた;... digit angka;jumlah digit kombinasi sandi (misal 4桁 PIN 4 digit)
+緑色;みどりいろ;lampu indikator hijau;lampu penanda lubang tempat memasukkan kartu atau uang
+金額;きんがく;nominal jumlah uang tunai;banyaknya saldo uang yang ditarik
+〜円札;〜えんさつ;lembaran uang pecahan ... yen;satuan uang kertas Jepang (misal 1万円札 lembaran 10.000 yen)
+一部;いちぶ;sebagian dari pecahan uang;menukar sebagian nominal besar ke lembaran ribuan yen
+両替する;りょうがえする;menukarkan pecahan uang;menukar uang kertas pecahan besar menjadi receh
+ご利用明細;ごりようめいさい;setruk resi bukti transaksi ATM;kertas bukti transaksi penarikan saldo dari mesin ATM
+紙幣;しへい;lembaran uang kertas resmi;uang tunai kertas yang keluar dari mesin ATM
+お取りください;おとりください;silakan ambil uang Anda;instruksi suara otomatis ATM meminta uang diambil
+ご利用ありがとうございました;ごりようありがとうございました;terima kasih telah bertransaksi;kalimat penutup sopan dari mesin ATM atau kasir
+ポストに入れる;ポストにいれる;memasukkan ke kotak pos merah;mencemplungkan surat ke kotak pos pinggir jalan
+インターネット;インターネット;jaringan internet online;akses web untuk mengajukan jadwal kirim ulang paket
+申し込む;もうしこむ;mengajukan permohonan;mendaftar layanan kirim ulang paket secara daring
+郵便物;ゆうびんぶつ;surat dan paket pos;barang kiriman pos berupa surat atau paket kecil
+ご不在;ごふざい;sedang tidak berada di rumah;kondisi penerima paket tidak ada di rumah saat kurir tiba
+窓口;まどぐち;loket pelayanan kantor pos;meja loket urusan pos dan pengantaran barang
+再配達;さいはいたつ;pengiriman ulang paket;kurir datang kembali mengantarkan paket sesuai jam yang diminta
+自動受付;じどううけつけ;layanan penerimaan otomatis 24 jam;sistem telepon otomatis penjadwalan paket non-stop
+不在連絡票;ふざいれんらくひょう;surat pemberitahuan paket tak terkirim;slip kertas kurir yang ditinggalkan saat rumah kosong berisi nomor resi
+お受け取り;おうけとり;pengambilan paket langsung di loket;mengambil sendiri paket kiriman di kantor pos terdekat
+印鑑;いんかん;cap stempel nama inkan;stempel nama pribadi bukti tanda terima paket pos
+免許証;めんきょしょう;Surat Izin Mengemudi (SIM);kartu tanda bukti identitas diri berkendara di Jepang
+保険証;ほけんしょう;kartu asuransi kesehatan;dokumen identitas diri berobat
+マイナンバーカード;マイナンバーカード;kartu identitas My Number;kartu kependudukan resmi berchip IC tanda pengenal warga
+当日配達;とうじつはいたつ;pengiriman sampai di hari yang sama;layanan paket kilat tiba dalam hitungan jam di hari itu juga
+携帯電話;けいたいでんわ;nomor telepon seluler;nomor kontak ponsel pribadi yang bisa dihubungi
+固定電話;こていでんわ;nomor telepon rumah kabel;sambungan telepon kabel PSTN rumah tangga
+郵便番号;ゆうびんばんごう;kode pos wilayah 7 digit;angka penunjuk wilayah pos di Jepang (tanda 〒)
+種類番号;しゅるいばんごう;nomor kategori jenis kiriman pos;kode klasifikasi surat kilat atau paket pada resi
+国際;こくさい;kiriman pos luar negeri;surat atau paket lintas negara mancanegara
+書留;かきとめ;surat tercatat bernomor lacak;surat resmi berharga yang wajib diserahkan langsung bertanda tangan
+小包;こづつみ;paket pos ukuran kecil;bungkusan paket barang ukuran sedang
+お知らせ番号;おしらせばんごう;nomor pelacak notifikasi kurir;kode unik angka pada slip saat rumah kosong
+配達日;はいたつび;tanggal pengantaran paket;hari waktu kurir datang ke rumah
+保管期限;ほかんきげん;batas tenggat penyimpanan pos;tenggat hari batas akhir paket disimpan sebelum dikembalikan ke pengirim
+お勤め先;おつとめさき;alamat kantor tempat bekerja;tujuan alternatif pengiriman paket ke alamat kantor
+近所;きんじょ;rumah tetangga sebelah;alamat tetangga yang dititipi paket titipan
+配達希望日;はいたつきぼうび;tanggal kedatangan yang diminta;hari kalender yang dipilih penerima untuk kirim ulang
+配達先;はいたつさき;lokasi alamat tujuan antar;tempat paket hendak diantarkan kurir
+どのように;どのように;dengan model potongan bagaimana;pertanyaan kapster menanyakan model rambut yang diinginkan
+全体的に;ぜんたいてきに;secara menyeluruh rata;memotong rambut merata di seluruh bagian kepala
+〜mm;〜ミリ;... milimeter;ukuran panjang mata pisau mesin cukur (misal 6ミリ)
+周り;まわり;area sekeliling samping telinga;bagian samping dan belakang garis rambut kepala
+バリカン;バリカン;mesin cukur rambut elektrik (clipper);alat pemangkas rambut pendek bertenaga listrik
+髭剃り;ひげそり;mencukur kumis dan jenggot;layanan mencukur bersih rambut wajah dengan pisau cukur
+鏡;かがみ;cermin kaca;kaca cermin pantul di depan meja pangkas rambut
+後ろのほう;うしろのほう;bagian belakang kepala;area rambut di sekitar tengkuk leher
+こんな感じ;こんなかんじ;seperti ini model tampilannya;memperlihatkan contoh foto gaya rambut yang diinginkan
+洗面台;せんめんだい;wastafel cuci rambut;bak wastafel tempat membilas rambut pelanggan
+洗う;あらう;mencuci keramas rambut;membersihkan rambut dengan sampo dan air hangat
+カット;カット;potong rambut, gunting;layanan memotong rambut dengan gunting
+預かる;あずかる;menerima uang pembayaran;menerima lembaran uang tunai dari tangan pelanggan
+お返し;おかえし;uang kembalian belanja;uang sisa kembalian yang diserahkan kasir kepada pembeli
+なさいますか？;なさいますか？;apakah Anda berniat memilih layanan ...?;bentuk sangat sopan dari しますか
+〜円からお預かりします;〜えんからおあずかりします;saya terima uang sebesar ... yen;kalimat kasir Jepang saat menerima lembaran uang pelanggan
+どのような;どのような;yang seperti apa gayanya;kata tanya formal menanyakan model potongan rambut
+長さ;ながさ;panjang helai rambut;ukuran panjang helai rambut yang ingin dipotong
+シャンプー台;シャンプーだい;kursi sandaran keramas salon;kursi khusus berwastafel tempat mencuci rambut pelanggan
+前髪;まえがみ;rambut poni dahi;helaian rambut depan penutup kening
+お待ちしておりました;おまちしておりました;kami telah menantikan kehadiran Anda;sapaan hangat ramah kapster menyambut pelanggan yang telah reservasi
+かゆいところはございませんか？;かゆいところはございませんか？;apakah ada bagian kepala yang gatal?;pertanyaan baku kapster salon Jepang saat membilas rambut
+どうでしょうか？;どうでしょうか？;bagaimana hasilnya menurut Anda?;pertanyaan kapster memperlihatkan hasil pangkasan di cermin
+カラー;カラー;pewarnaan cat rambut;mewarnai rambut dengan aneka warna trendi
+パーマ;パーマ;pengeritingan ikal rambut (perm);memberi gelombang ikal permanen pada rambut
+トリートメント;トリートメント;perawatan nutrisi rambut;memberikan vitamin dan masker rambut agar berkilau lembut
+外国人;がいこくじん;warga negara asing (WNA);penduduk yang berkewarganegaraan luar Jepang
+外国語;がいこくご;bahasa asing internasional;bahasa komunikasi selain bahasa Jepang
+〜による;〜による;berdasarkan perantara ..., melalui ...;metode perantara layanan (misal 外国語による相談)
+相談;そうだん;konsultasi permasalahan hidup;membicarakan persoalan kerja, izin tinggal, atau keluarga
+翻訳;ほんやく;penerjemahan dokumen tertulis;mengalihbahasakan berkas teks tulisan resmi
+通訳;つうやく;penerjemahan lisan, juru bahasa;menerjemahkan obrolan lisan secara langsung di loket
+健康診断;けんこうしんだん;pemeriksaan kesehatan berkala (MCU);medical check-up kesehatan rutin
+生活ガイドブック;せいかつガイドブック;buku panduan hidup di Jepang;buku petunjuk tata cara hidup dan aturan sampah bagi warga asing
+日本語教室;にほんごきょうしつ;kelas kursus bahasa Jepang;pelatihan bahasa Jepang praktis yang dibina relawan kota
+交流イベント;こうりゅうイベント;acara temu silaturahmi sosial;kegiatan kumpul santai mempererat persahabatan antarwarga
+質問;しつもん;pertanyaan seputar aturan;menanyakan hal yang belum dimengerti
+ビザ;ビザ;visa izin tinggal (status of residence);dokumen izin keimigrasian menetap di Jepang
+他にも;ほかにも;selain hal itu juga ada;menambahkan ragam fasilitas bantuan yang tersedia
+情報;じょうほう;informasi petunjuk praktis;kabar dan wawasan bermanfaat untuk keseharian
+怪我;けが;cedera luka fisik;luka lecet atau patah akibat kecelakaan kerja
+有料;ゆうりょう;dikenakan biaya berbayar;layanan yang memungut biaya tarif tertentu
+助かる;たすかる;sangat tertolong terbantu;merasa sangat bersyukur atas adanya layanan bantuan bahasa
+楽に;らくに;dengan mudah nyaman;menjalani keseharian tanpa banyak kendala bahasa
+暮らす;くらす;menetap tinggal beraktivitas;menjalani kehidupan sehari-hari di pemukiman Jepang
+センター;センター;pusat layanan komunitas;gedung sentra pelayanan konsultasi warga asing
+入門;にゅうもん;tingkat pemula dasar;jenjang pengenalan paling awal bagi pembelajar baru
+上級;じょうきゅう;tingkat mahir tingkat lanjut;jenjang kemahiran tingkat tinggi bahasa Jepang
+個人レッスン;こじんレッスン;bimbingan les privat perorangan;kelas belajar satu lawan satu bersama tutor

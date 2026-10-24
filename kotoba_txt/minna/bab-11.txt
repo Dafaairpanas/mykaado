@@ -1,0 +1,83 @@
+～か月;～かげつ;... bulan (durasi);Satuan hitung lamanya bulan (cth: 1か月 = 1 bulan)
+～ぐらい;～ぐらい;kira-kira ... / sekitar ...;Menyatakan perkiraan jumlah atau waktu (cth: 1時間ぐらい)
+～だけ;～だけ;hanya ... / cuma ...;Menyatakan pembatasan kuantitas tunggal (cth: 1人だけ)
+～回;～かい;... kali (frekuensi);Satuan hitung frekuensi pengulangan (cth: 1週間に2回)
+～時間;～じかん;... jam (durasi);Satuan hitung durasi jam lamanya waktu (cth: 3時間)
+～週間;～しゅうかん;... minggu (durasi);Satuan hitung lamanya pekan (cth: 2週間)
+～人;～にん;... orang;Satuan hitung jumlah manusia (1人=ひとり, 2人=ふたり, 4人=よにん)
+～台;～だい;... unit / buah (mesin/kendaraan);Satuan hitung kendaraan, mesin, dan alat elektronik
+～年;～ねん;... tahun (durasi);Satuan hitung lamanya tahun (cth: 3年)
+～枚;～まい;... lembar / helai;Satuan hitung benda tipis datar (kertas, baju, tiket, perangko, piring)
+アイスクリーム;アイスクリーム;es krim;Kudapan beku manis olahan susu (ice cream)
+いい天気ですね;いいてんきですね;cuacanya cerah dan bagus ya;Sapaan basa-basi ramah saat berpapasan di hari cerah
+いくつ;いくつ;berapa buah / berapa usia?;Menanyakan jumlah barang hitungan umum, atau usia anak kecil
+五つ;いつつ;5 buah;Hitungan benda asli Jepang untuk jumlah 5 (kanji: 五つ)
+います;います;ada / memiliki (anak/keluarga);Menyatakan punya tanggungan keluarga/anak (cth: 子供がいます)
+エアメール;エアメール;pos udara;Pengiriman surat lewat pesawat terbang (airmail, sinonim: 航空便)
+オーストラリア;オーストラリア;Australia;Negara dan benua Australia
+お出かけですか;おでかけですか;mau keluar / bepergian ya?;Sapaan ramah tetangga ketika melihat seseorang hendak bepergian
+かかります;かかります;memerlukan / menghabiskan (biaya/waktu);Membutuhkan ongkos biaya uang atau waktu tempuh
+かしこまりました;かしこまりました;baik, saya laksanakan / dimengerti;Jawaban sangat hormat (kenjougo) staf toko/pelayan kepada pelanggan
+カレー［ライス］;カレー［ライス］;nasi kari jepang;Hidangan nasi bersiram kuah kari kental rempah gurih khas Jepang
+クラス;クラス;kelas;Rombongan belajar siswa satu angkatan/ruang kelas
+九つ;ここのつ;9 buah;Hitungan benda asli Jepang untuk jumlah 9 (kanji: 九つ)
+サンドイッチ;サンドイッチ;roti lapis / sandwich;Roti tawar berisi irisan daging, telur, dan selada
+十;とお;10 buah;Hitungan benda asli Jepang untuk jumlah 10 (kanji: 十,  tidak berakhiran つ)
+どのくらい;どのくらい;berapa lama / berapa banyak?;Menanyakan estimasi waktu tempuh durasi atau biaya
+七つ;ななつ;7 buah;Hitungan benda asli Jepang untuk jumlah 7 (kanji: 七つ)
+はがき;はがき;kartu pos;Kartu tebal untuk korespondensi pos tanpa amplop (kanji: 葉書)
+一つ;ひとつ;1 buah;Hitungan benda asli Jepang untuk jumlah 1 (kanji: 一つ)
+一人;ひとり;1 orang / sendirian;Hitungan khusus satu orang manusia (kanji: 一人)
+二つ;ふたつ;2 buah;Hitungan benda asli Jepang untuk jumlah 2 (kanji: 二つ)
+二人;ふたり;2 orang / berdua;Hitungan khusus dua orang manusia (kanji: 二人)
+みかん;みかん;jeruk keprok / jeruk mikan;Jeruk manis mudah dikupas khas Jepang (kanji: 蜜柑)
+三つ;みっつ;3 buah;Hitungan benda asli Jepang untuk jumlah 3 (kanji: 三つ)
+みんな;みんな;semua orang / semuanya;Merujuk ke segenap khalayak atau seluruh benda secara keseluruhan
+六つ;むっつ;6 buah;Hitungan benda asli Jepang untuk jumlah 6 (kanji: 六つ)
+八つ;やっつ;8 buah;Hitungan benda asli Jepang untuk jumlah 8 (kanji: 八つ)
+四つ;よっつ;4 buah;Hitungan benda asli Jepang untuk jumlah 4 (kanji: 四つ)
+りんご;りんご;buah apel;Buah apel renyah merah manis (kanji: 林檎)
+外国;がいこく;luar negeri;Negara lain di luar negeri asal
+休みます;やすみます;libur / tidak masuk kerja/sekolah;Mengambil cuti atau absen izin (cth: 会社を休む = libur kerja)
+航空便;こうくうびん;pos udara;Layanan kirim surat/paket ekspres via pesawat terbang
+行ってきます;いってきます;saya berangkat dulu;Ucapan pamit beranjak dari rumah (harfiah: pergi dan akan kembali)
+行ってらっしゃい;いってらっしゃい;hati-hati di jalan / selamat jalan;Balasan keluarga kepada orang yang berpamitan 行ってきます
+切手;きって;perangko;Kertas tempel tanda bea pengiriman pos
+船便;ふなびん;pos laut;Pengiriman surat/paket via kapal laut (lebih murah namun lebih lama)
+全部で;ぜんぶで;semuanya total;Menyatakan jumlah total biaya saat di kasir pembayaran
+封筒;ふうとう;amplop surat;Sampul kertas pembungkus naskah surat pos
+留学生;りゅうがくせい;pelajar asing / mahasiswa luar negeri;Mahasiswa internasional yang menempuh studi di negeri orang
+えびフライ;えびフライ;udang goreng tepung;Olahan udang berbalut tepung roti krispi goreng khas Jepang (ebi fry)
+おにぎり;おにぎり;nasi kepal Jepang;Nasi kepal segitiga berbalut rumput laut nori berisi isian lauk
+カレーライス;カレーライス;nasi kari jepang;Sajian nasi putih dengan siraman kari kental daging dan sayuran
+コーヒー;コーヒー;kopi;Minuman seduh bubuk biji kopi
+コーラ;コーラ;minuman kola;Minuman soda berkarbonasi manis rasa kola
+ココア;ココア;minuman cokelat hangat;Minuman serbuk kakao manis seduh hangat/dingin
+コロッケ;コロッケ;kroket jepang;Kroket kentang tumbuk berbalut tepung panir renyah goreng
+サラダ;サラダ;salad sayuran;Campuran sayuran hijau segar dengan saus dressing
+サンドイッチ;サンドイッチ;roti lapis / sandwich;Roti isi daging, keju, atau telur iris
+ジュース;ジュース;jus buah;Minuman sari buah segar
+スープ;スープ;sup kaldu;Hidangan kuah sup kaldu daging atau sayur hangat
+スパゲッティ;スパゲッティ;spageti;Pasta gandum panjang khas Italia bersaus tomat/krim
+天ぷら;てんぷら;tempura;Gorengan udang atau sayur berbalut adonan tepung renyah khas Jepang
+トースト;トースト;roti panggang;Roti tawar yang dipanggang renyah (toast)
+ハンバーガー;ハンバーガー;burger;Roti bun bulat bertumpuk daging patty, selada, dan saus
+ハンバーグ;ハンバーグ;hamburg steak;Steak daging sapi cincang bulat panggang bersaus demiglace khas restoran Jepang
+ピザ;ピザ;pizza;Roti pipih bundar panggang bertabur keju mozarella dan aneka topping
+フライドチキン;フライドチキン;ayam goreng tepung;Ayam goreng tepung renyah bumbu khas barat (fried chicken)
+みそ汁;みそしる;sup miso;Sup kuah pasta kedelai fermentasi miso khas sarapan tradisional Jepang
+ランチ;ランチ;makan siang / paket makan siang;Set menu santap makan siang di restoran (lunch)
+紅茶;こうちゃ;teh hitam / black tea;Minuman seduh teh berdaun hitam pekat kemerahan
+焼肉;やきにく;daging panggang / yakiniku;Sajian daging sapi iris panggang celup saus khas restoran Jepang
+漬物;つけもの;asinan / acar jepang;Sayuran acar fermentasi pelengkap santap nasi tradisional Jepang
+定食;ていしょく;set menu lengkap;Paket hidangan makan lengkap (nasi, sup miso, lauk utama, dan acar)
+野菜炒め;やさいため;tumis sayuran;Masakan tumis aneka sayuran segar berbumbu gurih (perbaikan kanji: bukan 野菜ため)
+うどん;うどん;mi udon;Mi tebal kenyal dari tepung terigu berkuah dashi hangat khas Jepang
+親子丼;おやこどん;oyakodon;Semangkuk nasi bertabur tumisan daging ayam dan telur kocok gurih (harfiah: mangkuk orang tua & anak)
+お好み焼き;おこのみやき;okonomiyaki;Panekuk gurih tebal khas Kansai/Hiroshima berisi kubis, daging, dan saus mayones
+寿司;すし;sushi;Nasi cuka berpuncak irisan ikan laut mentah segar (sashimi)
+蕎麦;そば;mi soba;Mi kecokelatan berbahan tepung gandum hitam soba khas Jepang (disajikan dingin/panas)
+ラーメン;ラーメン;mi ramen;Mi kuah kaldu kaya rasa (shoyu, miso, tonkotsu) berpuncak irisan chashu dan telur
+牛丼;ぎゅうどん;gyudon;Semangkuk nasi bertabur irisan tipis daging sapi dan bawang bombay manis gurih
+焼きそば;やきそば;yakisoba;Mi goreng saus manis-gurih khas festival matsuri Jepang bertabur aonori
+天丼;てんどん;tendon;Semangkuk nasi bertabur aneka tempura renyah disiram saus manis gurih

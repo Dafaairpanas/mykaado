@@ -1,0 +1,77 @@
+電車;でんしゃ;kereta
+バス;バス;bus
+タクシー;タクシー;taksi
+地下鉄;ちかてつ;kereta bawah tanah
+飛行機;ひこうき;pesawat
+船;ふね;kapal
+～に乗ります;～にのります;Saya naik ～.
+空港;くうこう;bandara
+市民病院;しみんびょういん;rumah sakit kota
+～番;～ばん;nomor ～
+駅;えき;stasiun
+～番線;～ばんせん;peron nomor ～
+～番乗り場;～ばんのりば;dermaga nomor ～
+快速;かいそく;(kereta) ekspres
+各駅停車／各停;かくえきていしゃ／かくてい;(kereta) lokal (berhenti di setiap stasiun)
+この;この;～ ini
+反対側;はんたいがわ;sisi sebaliknya, sisi yang berlawanan
+何番線;なんばんせん;peron berapa
+先;さき;setelahnya, sesudahnya
+止まる／止まります;とまる／とまります;berhenti
+乗る／乗ります;のる／のります;naik (kendaraan)
+次;つぎ;berikutnya
+止まりません;とまりません;Tidak berhenti.
+乗ってください;のってください;Silakan naik ～.
+終点;しゅうてん;pemberhentian terakhir
+～線（武蔵山線）;～せん（むさしやません）;jalur ～, rute ～ (contoh: Jalur Musashiyama)
+乗り換え／お乗換え;のりかえ／おのりかえ;transit
+出口／お出口;でぐち／おでぐち;pintu keluar
+右側;みぎがわ;sebelah kanan
+はい、そうです;はい、そうです;Ya, benar.
+お忘れ物のないよう、お降りください;おわすれもののないよう、おおりください;Periksa kembali agar tidak ada barang yang tertinggal ketika Anda turun. (ragam hormat)
+～時間;～じかん;～ jam
+1時間;いちじかん;satu jam
+1時間半;いちじかんはん;1,5 jam
+2時間;にじかん;dua jam
+～分;～ふん／ぷん;～ menit (menunjukkan lamanya waktu)
+10分;じゅっぷん;10 menit
+20分;にじゅっぷん;20 menit
+30分;さんじゅっぷん;30 menit
+40分;よんじゅっぷん;40 menit
+50分;ごじゅっぷん;50 menit
+1分;いっぷん;1 menit
+2分;にふん;2 menit
+3分;さんぷん;3 menit
+4分;よんふん／よんぷん;4 menit
+5分;ごふん;5 menit
+6分;ろっぷん;6 menit
+7分;ななふん;7 menit
+8分;はちふん／はっぷん;8 menit
+9分;きゅうふん;9 menit
+どうやって;どうやって;bagaimana
+自転車;じてんしゃ;sepeda
+バイク;バイク;sepeda motor
+車;くるま;mobil
+歩いて;あるいて;jalan kaki
+どのぐらい;どのぐらい;berapa lama
+かかる／かかります;かかる／かかります;memakan (waktu), membutuhkan (waktu)
+～ぐらい（10分ぐらい）;～ぐらい（じゅっぷんぐらい）;sekitar ～, kurang lebih ～ (contoh: sekitar 10 menit)
+雨の日;あめのひ;ketika hujan, di hari hujan
+大変ですね;たいへんですね;Berat juga, ya.
+乗る／乗ります;のる／のります;naik (kendaraan)
+降りる／降ります;おりる／おります;turun (kendaraan)
+乗り換える／乗り換えます;のりかえる／のりかえます;transit, berganti kendaraan
+市場;いちば;pasar
+市役所;しやくしょ;balai kota
+バスセンター;バスセンター;terminal bus
+～モール（さくらモール）;～モール（さくらモール）;mal ～ (contoh: Mal Sakura)
+東口;ひがしぐち;pintu timur
+西口;にしぐち;pintu barat
+南口;みなみぐち;pintu selatan
+北口;きたぐち;pintu utara
+改札;かいさつ;gerbang tiket
+エスカレーター;エスカレーター;eskalator
+エレベーター;エレベーター;lift
+待合室;まちあいしつ;ruang tunggu
+バス乗り場;バスのりば;halte bus
+タクシー乗り場;タクシーのりば;pangkalan taksi, tempat naik taksi

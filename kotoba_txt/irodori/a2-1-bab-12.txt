@@ -1,0 +1,53 @@
+味;あじ;rasa masakan;cita rasa yang dikecap indra lidah
+甘い;あまい;manis;cita rasa manis gula atau madu
+辛い;からい;pedas;rasa pedas cabai atau lada
+酸っぱい;すっぱい;asam, kecut;rasa asam buah lemon atau cuka
+塩っぱい;しょっぱい;asin;rasa asin garam yang kuat tajam
+苦い;にがい;pahit;rasa pahit kopi hitam atau pare
+濃い;こい;pekat, kuat bumbunya;rasa bumbu gurih yang medok atau warna pekat (味が濃い)
+薄い;うすい;hambar, encer bumbunya;rasa bumbu yang samar atau kuah encer tidak pekat (味が薄い)
+まずい;まずい;tidak enak, hambar tak sedap;cita rasa makanan yang buruk tidak nikmat
+お弁当;おべんとう;bekal bento;kotak makan siang bekal praktis
+チョコレートバニラクリームラテ;チョコレートバニラクリームラテ;cokelat vanila krim latte;minuman kopi susu bercampur cokelat dan krim vanila
+蜜柑;みかん;jeruk mikan;jeruk keprok manis tanpa biji khas Jepang
+庭;にわ;pekarangan, taman rumah;area halaman luar di sekeliling rumah
+採る;とる;memetik;mengambil buah atau sayuran dari pohonnya (みかんを採る)
+そんなことない;そんなことない;sebenarnya tidak juga;ungkapan santai menyangkal dugaan berlebihan dari lawan bicara
+卵焼き;たまごやき;tamagoyaki, telur dadar gulung;telur dadar manis gurih yang digulung berlapis
+お好み焼き;お好み焼き;okonomiyaki, panekuk gurih;panekuk kubis isi seafood atau daging dengan saus mayones
+梅干し;うめぼし;umeboshi;asinan buah prem kering yang sangat asam asin
+すき焼き;すき焼き;sukiyaki;rebusan irisan daging sapi manis gurih dalam wajan ceper
+生;なま;mentah, segar;makanan dalam kondisi mentah tanpa dimasak (生卵 telur mentah)
+もう１つ;もうひとつ;satu lagi;tambahan satu porsi atau satu benda lagi
+バインセオ;バインセオ;banh xeo;panekuk gurih renyah isi udang dan toge khas Vietnam
+お腹がいっぱい[な];おなかがいっぱい[な];kenyang;perut terisi penuh makanan dan tidak lapar lagi
+苦手[な];にがて[な];tidak suka, tidak tahan rasa;kurang cocok lidah dengan bahan atau rasa masakan tertentu
+どんどん;どんどん;terus bertubi-tubi, tambah lagi;mempersilakan makan lahap tanpa perlu sungkan (どんどん食べて)
+茶碗蒸し;ちゃわんむし;chawanmushi;telur kukus gurih lembut berkuah kaldu dashi dalam mangkuk
+プリン;プリン;puding karamel;puding lembut manis berkuah saus karamel
+出汁;だし;dashi, kaldu dasar Jepang;kaldu dasar gurih umami dari rebusan rumput laut kombu dan katsuobushi
+まあ;まあ;ya begitulah, lumayan;ungkapan jeda merespons santai tanpa kepastian mutlak
+スープ;スープ;sup kuah;hidangan kuah kaldu sayuran atau daging
+きのこ;きのこ;jamur pangan;aneka jamur konsumsi masakan (shiitake, shimeji, enoki)
+銀杏;ぎんなん;kacang ginkgo;biji buah pohon ginkgo biloba beraroma gurih legit
+入れる;いれる;memasukkan;menaruh bahan makanan atau menuangkan cairan ke wadah
+いい匂い;いいにおい;aroma harum sedap;aroma sedap masakan yang menggugah selera
+調理方法;ちょうりほうほう;petunjuk memasak;panduan langkah-langkah mengolah makanan instan
+フタ;フタ;penutup kemasan;tutup wadah mangkuk cup mi instan
+取り出す;とりだす;mengeluarkan;mengambil keluar kantong bumbu dari dalam kemasan
+麺;めん;mi;olahan mi tepung basah atau kering
+熱湯;ねっとう;air mendidih;air panas yang mendidih bergolak
+注ぐ;そそぐ;menuangkan;mengucurkan air panas ke dalam wadah mi
+お湯;おゆ;air panas;air bersuhu panas untuk seduhan
+捨てる;すてる;membuang;membuang kuah tirisan air panas mi goreng
+かける;かける;menyiramkan, membubuhkan;menuangkan saus bumbu di atas mi
+混ぜる;まぜる;mengaduk, mencampur;mengaduk rata mi dengan bumbu hingga meresap
+はがす;はがす;mengelupas, membuka segel;membuka lembaran kertas tutup cup mie instan
+加薬;かやく;sayuran kering pelengkap;irisan sayur dan daging kering pelengkap mi instan
+ふりかけ;ふりかけ;furikake, bumbu tabur;butiran bumbu tabur kering gurih untuk pugasan
+あける;あける;mengosongkan, menuang habis;menuangkan seluruh isi bungkus bumbu ke mangkuk
+内側;うちがわ;sisi bagian dalam;bagian interior dinding wadah
+線;せん;garis batas;garis penanda batas volume air panas di cup mi
+フタをする;フタをする;menutup kembali;menutupkan kembali lembaran penutup cup
+湯切り口;ゆきりぐち;lubang tirisan air panas;lubang pori pada tutup kemasan khusus membuang kuah mi goreng
+出来上がり;できあがり;siap disajikan, sudah matang;tahap akhir saat masakan telah tuntas dan siap dimakan

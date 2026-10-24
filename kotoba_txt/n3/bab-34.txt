@@ -1,0 +1,42 @@
+大学を出る（＝卒業する）;だいがくをでる（＝そつぎょうする）;lulus kuliah
+会議に出る（＝出席する）;かいぎにでる（＝しゅっせきする）;menghadiri rapat
+食事が出る;しょくじがでる;tersedia makanan
+食事を出す;しょくじをだす;menyajikan makanan
+結論が出る;けつろんがでる;sampai kesimpulan
+結論を出す;けつろんをだす;mengeluarkan kesimpulan
+元気が出る;げんきがでる;semangat keluar
+元気を出す;げんきをだす;mengeluarkan semangat
+新製品が出る（＝発売される）;しんせいひんがでる（＝はつばいされる）;produk baru dirilis
+新製品を出す;しんせいひんをだす;merilis produk baru
+芽が出る;めがでる;tunas keluar
+芽を出す;めをだす;mengeluarkan tunas
+ボーナスが出る;ぼうなすがでる;bonus keluar
+ボーナスを出す;ぼうなすをだす;memberi bonus
+ゴキブリが出る（＝現れる）;ごきぶりがでる（＝あらわれる）;muncul kecoa
+新聞に名前が出る（＝載る）;しんぶんになまえがでる（＝のる）;namanya muncul di koran
+角を曲がると駅に出る;かくをまがるとえきにでる;belok di tikungan keluar di stasiun
+財布を取る（＝盗む）;さいふをとる（＝ぬすむ）;mencuri dompet
+財布を取りに戻る;さいふをとりにもどる;kembali mengambil dompet
+運転免許を取る;うんてんめんきょをとる;membuat SIM
+コピーを取る（＝コピーする）;こぴいをとる（＝こぴいする）;memfotokopi
+新聞を取る;しんぶんをとる;langganan koran
+睡眠を取る（＝眠る）;すいみんをとる（＝ねむる）;tidur
+出席を取る;しゅっせきをとる;mengecek kehadiran (melakukan absensi satu persatu)
+連絡を取る (= 連絡する);れんらくをとる （= れんらくする）;menghubungi
+連絡が取れる;れんらくがとれる;bisa dihubungi
+痛みを取る;いたみをとる;menghilangkan rasa sakit
+痛みが取れる;いたみがとれる;rasa sakitnya hilang
+ボタンが取れる;ぼたんがとれる;kancingnya lepas
+新入社員を採る (= 採用する);しんにゅうしゃいんをとる （= さいようする）;merekrut karyawan baru
+鍵がかかっている;かぎがかかっている;terkunci
+鍵をかける;かぎをかける;mengunci
+病気にかかる (= 病気になる);びょうきにかかる （= びょうきになる）;terkena penyakit
+医者にかかる (= 診察してもらう);いしゃにかかる （= しんさつしてもらう）;pergi ke dokter (minta diperiksa)
+ボタンをかける;ぼたんをかける;mengancingkan (menutup kancing)
+外す;はずす;melepas
+初心者;しょしんしゃ;pemula
+CDをかける;cdをかける;menyalakan CD
+毛布をかける;もうふをかける;memakai selimut
+声をかける;こえをかける;menyapa
+声がかかる;こえがかかる;dipanggil
+心配をかける (= 心配させる);しんぱいをかける （= しんぱいさせる）;membuat khawatir

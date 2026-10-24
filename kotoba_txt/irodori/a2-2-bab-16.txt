@@ -1,0 +1,193 @@
+確認する;かくにんする;memastikan, memeriksa keamanan;mengecek keselamatan anggota atau situasi darurat
+海岸;かいがん;pesisir pantai;daerah tepi laut yang rawan gelombang tsunami
+上陸する;じょうりくする;mencapai daratan, mendarat;pusat badai taifun menerjang daratan Jepang
+非常に;ひじょうに;sangat amat;tingkat intensitas bahaya yang luar biasa tinggi
+激しい;はげしい;sangat dahsyat hebat;tiupan angin kencang atau hujan lebat yang menggila
+様子;ようす;kondisi situasi sekitar;keadaan cuaca atau ketinggian air sungai
+絶対に;ぜったいに;sama sekali tidak boleh, mutlak;pantangan keras yang pantang dilanggar saat badai
+やめる;やめる;menghentikan, membatalkan;membatalkan niat keluar rumah demi keselamatan
+安全[な];あんぜん[な];aman terlindungi;bebas dari ancaman bahaya bencana
+〜から〜にかけて;〜から〜にかけて;dari kurun ... hingga ...;rentang waktu atau wilayah terdampak badai
+関東地方;かんとうちほう;wilayah Kanto;kawasan metropolitan sekitar Tokyo, Kanagawa, Chiba
+見込み;みこみ;diperkirakan potensi;prediksi perkiraan cuaca buruk oleh BMKG Jepang
+伊豆諸島;いずしょとう;Kepulauan Izu;gugusan pulau vulkanik di selatan teluk Tokyo
+東海;とうかい;wilayah Tokai;kawasan pesisir tengah Jepang (Shizuoka, Aichi, Mie, Gifu)
+局地的に;きょくちてきに;secara terlokalisir setempat;hujan lebat ekstrem yang mengguyur area terbatas
+係員;かかりいん;petugas evakuasi;petugas pengarah jalan saat terjadi bencana
+指示;しじ;instruksi komando arahan;petunjuk resmi penyelamatan dari aparat
+指示に従う;しじにしたがう;mematuhi instruksi petugas;mengikuti arahan demi keselamatan bersama
+お年寄り;おとしより;kaum lansia kakek-nenek;warga lanjut usia yang butuh prioritas evakuasi
+優先;ゆうせん;diprioritaskan terlebih dahulu;mendahulukan lansia, ibu hamil, dan anak-anak
+揺れ;ゆれ;guncangan getaran gempa;getaran lempeng tektonik saat lindu
+警戒する;けいかいする;bersiaga waspada;meningkatkan kewaspadaan terhadap bahaya longsor
+身を守る;みをまもる;melindungi keselamatan diri;menyelamatkan tubuh dari reruntuhan perabot
+家具;かぐ;perabot mebel lemari;perabot rumah tangga yang wajib dipasangi penahan gempa
+災害;さいがい;bencana alam;peristiwa musibah gempa bumi, banjir, atau taifun
+台風;たいふう;angin topan, taifun;badai siklon tropis angin ribut disertai hujan lebat
+地震;じしん;gempa bumi;getaran tektonik tanah yang mengguncang pemukiman
+火事;かじ;kebakaran pemukiman;kobaran api yang melalap bangunan rumah
+火災;かさい;bencana kebakaran;istilah formal bencana kobaran api besar
+大雪;おおゆき;salju lebat ekstrem;curah salju tebal yang menutup akses jalan raya
+津波;つなみ;gelombang tsunami;gelombang laut pasang raksasa akibat gempa dasar laut
+地震が起こる;じしんがおこる;terjadi gempa bumi;peristiwa guncangan gempa bumi melanda
+揺れる;ゆれる;berguncang bergetar;gedung atau lampu bergoyang saat gempa terjadi
+火事になる;かじになる;menjadi kebakaran;timbul kobaran api seusai gempa bumi
+火が出る;ひがでる;muncul percikan api;api menyala membakar perabot rumah
+雪が積もる;ゆきがつもる;salju menumpuk tebal;lapisan salju menebal menimbun jalanan
+ニュース;ニュース;warta berita;siaran informasi darurat kebencanaan di televisi
+緊急速報;きんきゅうそくほう;maklumat siaran darurat;notifikasi peringatan bahaya yang berbunyi kencang di ponsel
+避難する;ひなんする;mengungsi ke tempat aman;bergerak menuju posko evakuasi bencana
+倒れる;たおれる;tumbang roboh;lemari perabot atau tiang listrik runtuh ke lantai
+離れる;はなれる;menjauhkan diri;menjauh dari jendela kaca atau tebing curam
+近づく;ちかづく;mendekati tepi bahaya;jangan mendekati bibir pantai saat peringatan tsunami
+隠れる;かくれる;berlindung bersembunyi;masuk ke bawah meja kokoh melindungi kepala
+慌てる;あわてる;panik tergesa-gesa;kondisi hilang kendali akibat rasa takut berlebih
+落ち着く;おちつく;tenang kepala dingin;menenangkan diri agar bisa bertindak rasional
+行動する;こうどうする;mengambil tindakan;melakukan aksi penyelamatan diri dengan terarah
+外に出る;そとにでる;keluar ruangan;berlari keluar ke lapangan terbuka setelah guncangan reda
+最新;さいしん;paling mutakhir terbaru;informasi berita kebencanaan terkini
+震源;しんげん;episentrum pusat gempa;titik koordinat pusat pelepasan energi gempa
+海底;かいてい;dasar samudra laut;lantai dasar laut lokasi retakan lempeng
+〜のおそれがある;〜のおそれがある;dikhawatirkan berisiko timbul ...;potensi bahaya susulan (misal 津波のおそれがある)
+緊急地震速報;きんきゅうじしんそくほう;peringatan dini gempa (EEW);alarm sirine darurat otomatis beberapa detik sebelum gempa tiba
+滋賀;しが;Prefektur Shiga;wilayah dekat danau Biwa di Kansai
+兵庫;ひょうご;Prefektur Hyogo;wilayah Kansai beribu kota Kobe
+福井;ふくい;Prefektur Fukui;wilayah pesisir Laut Jepang di Hokuriku
+三重;みえ;Prefektur Mie;wilayah pesisir semenanjung Kii
+和歌山;わかやま;Prefektur Wakayama;daerah pesisir selatan rawan tsunami
+香川;かがわ;Prefektur Kagawa;prefektur di pulau Shikoku terkenal dengan udon
+近畿地方;きんきちほう;wilayah Kinki (Kansai);wilayah Osaka, Kyoto, Hyogo, Nara, Shiga, Wakayama
+感じる;かんじる;merasakan getaran lindu;indra tubuh merasakan ayunan guncangan
+防災訓練;ぼうさいくんれん;simulasi mitigasi bencana;latihan bersama warga mempraktikkan langkah tanggap bencana
+避難訓練;ひなんくんれん;latihan evakuasi massal;simulasi berlari menuju tangga darurat dan titik kumpul
+防災頭巾;ぼうさいずきん;tudung pelindung kepala;tudung kain berlapis busa pelindung kepala anak sekolah dari reruntuhan
+ヘルメット;ヘルメット;helm pelindung kepala;helm proyek berbahan keras pelindung tengkorak
+被る;かぶる;mengenakan di kepala;memasang helm di kepala saat evakuasi (ヘルメットをかぶる)
+ドア;ドア;pintu ruangan;pintu keluar darurat
+開ける;あける;membuka daun pintu;segera membuka pintu agar tidak macet terkunci akibat kusen miring
+火;ひ;nyala api;lidah api di atas kompor
+火を消す;ひをけす;memadamkan nyala api;segera mematikan sakelar kompor saat guncangan mereda
+消火する;しょうかする;memadamkan kobaran api;tindakan aktif menjinakkan kebakaran
+消防署;しょうぼうしょ;kantor dinas pemadam kebakaran;pos armada pemadam kebakaran
+119番;ひゃくじゅうきゅうばん;nomor darurat pemadam kebakaran 119;panggilan telepon darurat untuk kebakaran dan ambulans di Jepang
+集まる;あつまる;berkumpul di titik kumpul;seluruh warga berbaris di lapangan sekolah
+並ぶ;ならぶ;berbaris tertib rapi;mengantre barisan untuk penghitungan jumlah orang
+点呼する;てんこする;mengabsen mengecek kehadiran;memanggil nama anggota memastikan tidak ada yang tertinggal
+報告する;ほうこくする;melaporkan jumlah personel;memberi kabar kepada komandan posko
+知らせる;しらせる;mengabarkan situasi;memberi tahu bahaya kepada penghuni gedung lain
+姿勢;しせい;postur posisi badan;posisi tubuh saat berlindung dari reruntuhan
+低くする;ひくくする;merendahkan badan;menunduk serendah mungkin melindungi organ vital
+しゃがむ;しゃがむ;berjongkok merunduk;posisi jongkok di lantai melindungi leher dan kepala
+ハンカチ;ハンカチ;saputangan kain;kain penyeka yang dibasahi untuk menutup hidung dari asap
+口に当てる;くちにあてる;menutupkan ke mulut dan hidung;menempelkan saputangan mencegah menghirup gas beracun
+火災報知器;かさいほうちき;alat detektor alarm kebakaran;sensor pendeteksi asap yang membunyikan sirine darurat gedung
+鳴る;なる;berbunyi nyaring;sirine alarm kebakaran berdering kencang
+震度;しんど;skala intensitas seismik (shindo);skala kekuatan guncangan gempa khas Jepang (skala 0 sampai 7)
+揺れがおさまる;ゆれがおさまる;guncangan gempa mereda;saat getaran lindu telah berhenti tuntas
+避難;ひなん;evakuasi penyelamatan diri;bergerak keluar menuju zona aman
+開始する;かいしする;memulai proses evakuasi;gerakan melangkah evakuasi dimulai
+中庭;なかにわ;taman halaman dalam gedung;lapangan terbuka di tengah kompleks gedung kantor
+〜ごと;〜ごと;tiap-tiap per rombongan;pengelompokan barisan (misal チームごと per tim)
+初期消火;しょきしょうか;pemadaman api tahap awal;menjinakkan api sebelum menjalar membakar langit-langit
+消火器;しょうかき;tabung pemadam api (APAR);alat pemadam kebakaran tabung portabel
+逃げ遅れる;にげおくれる;terlambat menyelamatkan diri;terjebak di dalam ruangan yang terkepung api
+一つ一つ;ひとつひとつ;satu demi satu cermat;memeriksa setiap ruangan tanpa ada yang terlewat
+見て回る;みてまわる;berkeliling memeriksa;petugas menyisir lorong memastikan tidak ada korban pingsan
+煙体験;けむりたいけん;simulasi lorong berasap;latihan merayap di lorong penuh asap buatan
+煙;けむり;asap kebakaran tebal;asap hitam pekat beracun dari kobaran api
+充満する;じゅうまんする;memenuhi ruangan pekat;asap tebal membubung memenuhi langit-langit
+逃げる;にげる;berlari menyelamatkan diri;segera lari menjauhi sumber mara bahaya
+進む;すすむ;melangkah merayap maju;berjalan merunduk mengikuti rambu penunjuk darurat hijau
+注意点;ちゅういてん;hal krusial yang patut diperhatikan;poin penting keselamatan diri
+煙を吸う;けむりをすう;menghirup asap beracun;bahaya fatal menghirup gas karbon monoksida
+声;こえ;suara panggilan manusia;suara teriakan meminta pertolongan
+声をかけ合う;こえをかけあう;saling berseru menyemangati;saling memanggil rekan di tengah kepulan asap
+床;ゆか;permukaan lantai;bagian bawah ruangan yang udaranya masih bersih
+安全ピン;あんぜんピン;pin pengaman tabung APAR;pin kuning cincin pengunci tuas pemadam api
+レバー;レバー;tuas pegangan APAR;gagang tuas pemadam api yang harus ditekan kuat
+ホース;ホース;selang pipa APAR;selang karet penyemprot bubuk kimia pemadam
+抜く;ぬく;mencabut pin pengaman;menarik lepas pin pengunci cincin sebelum menyemprot
+先;さき;ujung corong selang;bagian moncong selang penyembur api
+向ける;むける;mengarahkan ke titik api;mengincar pangkal nyala api bukan lidah apinya
+途中;とちゅう;di tengah perjalanan;saat sedang berjalan di koridor
+握る;にぎる;menggenggam tuas kencang;meremas tuas APAR dengan kedua belah tangan
+噴射する;ふんしゃする;menyemprotkan serbuk kimia;mengeluarkan semburan bubuk pemadam api
+左右;さゆう;kiri dan kanan bergantian;mengayunkan semprotan menyapu sisi kiri dan kanan
+狙う;ねらう;membidik pangkal lidah api;mengarahkan semprotan tepat ke sumber pembakaran
+消える;きえる;padam apinya (intransitif);nyala api berhasil dipadamkan tuntas
+〜メートル;〜メートル;... meter;jarak aman menyemprot APAR (misal 4m jarak 4 meter)
+〜秒;〜びょう;... detik;durasi semprotan tabung APAR (misal 20秒 sekitar 20 detik)
+落ちる;おちる;jatuh berguguran;genteng atap atau pecahan kaca jatuh berhamburan
+歪む;ゆがむ;bengkok miring, melengkung;kusen pintu miring terhimpit gempa sehingga macet
+無理をする;むりをする;memaksakan diri berbahaya;jangan nekat menerobos api jika sudah membakar plafon
+ガスコンロ;ガスコンロ;kompor gas dapur;kompor masak bahan bakar gas
+必要がある;ひつようがある;ada keharusan penting;mutlak harus dilakukan demi keselamatan
+天井;てんじょう;langit-langit, plafon rumah;permukaan atas interior ruangan rumah
+届く;とどく;mencapai plafon atas;jika kobaran api sudah mencapai langit-langit maka segera lari keluar
+危ない;あぶない;berbahaya!;peringatan genting ancaman bahaya
+町中;まちなか;di tengah jalan kota;jalan raya perkotaan di luar bangunan
+屋外;おくがい;di area luar ruangan;kawasan terbuka bebas dari runtuhan kaca gedung
+ガラス;ガラス;pecahan kaca jendela;serpihan tajam kaca jendela gedung yang pecah
+影響;えいきょう;dampak kerusakan;akibat buruk yang ditimbulkan oleh lindu besar
+断水する;だんすいする;saluran air terputus;pipa air ledeng rusak sehingga tidak ada air bersih
+水が止まる;みずがとまる;air keran mati total;aliran air bersih berhenti mengucur
+停電する;ていでんする;pemadaman aliran listrik;jaringan listrik padam total seantero kota
+電気;でんき;energi listrik rumah tangga;penerangan dan tenaga listrik
+ガス;ガス;saluran pasokan gas;pipa gas kota yang diputus otomatis saat gempa
+通行止め;つうこうどめ;penutupan akses jalan raya;jalan ditutup untuk umum karena retak atau tertimbun longsor
+避難所;ひなんじょ;posko pengungsian bencana;gedung GOR sekolah tempat menampung warga korban bencana
+給水車;きゅうすいしゃ;truk tangki air bersih;truk penyalur bantuan air minum darurat bagi warga
+炊き出し;たきだし;dapur umum darurat bencana;pembagian nasi kepal hangat sukarela bagi para pengungsi
+必要[な];ひつよう[な];mutlak dibutuhkan;perbekalan darurat yang wajib disiapkan di rumah
+水;みず;air minum bersih;persediaan air mineral kemasan (minimal 3 liter per orang per hari)
+非常食;ひじょうしょく;makanan darurat kaleng;ransum biskuit dan makanan awet tahan lama
+懐中電灯;かいちゅうでんとう;lampu senter genggam;alat penerangan baterai saat listrik padam
+ろうそく;ろうそく;batang lilin penerang;lilin batang penghasil cahaya darurat
+ラジオ;ラジオ;pesawat radio baterai;perangkat penerima siaran warta bencana tanpa internet
+毛布;もうふ;selimut wol hangat;kain selimut penghalau hawa dingin malam hari
+寝袋;ねぶくろ;kantong tidur (sleeping bag);kantung tidur busa hangat untuk bermalam di pengungsian
+ポリタンク;ポリタンク;jeriken plastik air;jeriken penampung jatah air dari truk tangki
+充電する;じゅうでんする;mengisi daya baterai;mengecas ponsel sebelum badai tiba
+総合福祉センター;そうごうふくしセンター;balai kesejahteraan sosial terpadu;gedung fasilitas dinas sosial tempat posko utama
+ショップ;ショップ;toko retail penjual barang;gerai perbelanjaan
+今回;こんかい;kejadian musibah kali ini;peristiwa bencana yang baru saja berlangsung
+レベル;レベル;skala tingkatan bahaya;level status peringatan siaga bencana
+一人暮らし;ひとりぐらし;tinggal hidup seorang diri;menghuni apartemen sendiri tanpa teman serumah
+戻る;もどる;kembali pulang ke rumah;kembali ke kediaman setelah situasi aman
+早め;はやめ;lebih awal sedia payung;mengambil langkah persiapan lebih dini
+続く;つづく;terus berlanjut guncangannya;gempa susulan yang masih terus terjadi
+容器;ようき;wadah penampung air;ember atau baskom tempat menampung air bersih
+仮設;かせつ;bangunan darurat sementara;toilet portabel sementara di lapangan pengungsian
+力;ちから;tenaga kekuatan fisik;tenaga untuk menggotong jeriken air
+持ち出す;もちだす;membawa keluar tas darurat;mengambil tas ransel siaga bencana keluar rumah
+賞味期限;しょうみきげん;tenggat rasa terbaik makanan;batas tanggal kualitas makanan darurat kaleng
+使用期限;しようきげん;batas masa pakai obat;tenggat kedaluwarsa fungsi baterai atau obat antiseptik
+賞味期限が切れる;しょうみきげんがきれる;lewat tanggal kedaluwarsa konsumsi;makanan darurat yang sudah melampaui tanggal konsumsi aman
+電池が切れる;でんちがきれる;daya baterai habis total;baterai senter yang kehilangan tenaga listrik
+貴重品;きちょうひん;barang berharga penting;dokumen paspor, kartu asuransi, buku bank, dan uang tunai
+電灯;でんとう;lampu lentera darurat;lampu lentera LED penerangan meja
+携帯ラジオ;けいたいラジオ;radio saku portabel;radio mini penerima siaran frekuensi darurat
+非常持ち出し品;ひじょうもちだしひん;barang bawaan tas siaga bencana;ransel darurat berisi perbekalan hidup 3 hari pertama
+生活する;せいかつする;menjalani hidup di pengungsian;bertahan hidup di aula pengungsian sementara
+下着;したぎ;pakaian dalam ganti;celana dan kaus dalam bersih
+生理用品;せいりようひん;pembalut wanita, sanitari;produk kebersihan sanitasi bulanan wanita
+ウェットティッシュ;ウエットティッシュ / ウェットティッシュ;tisu basah antiseptik;tisu lembap pembersih tangan saat krisis air
+ライター;ライター;korek api gas portabel;pemantik api gas untuk menyalakan lilin
+使い捨てカイロ;つかいすてカイロ;kairo penghangat tubuh sekali pakai;kantong serbuk besi penghangat badan saat gempa musim dingin
+粉ミルク;こなミルク;susu formula bubuk;makanan nutrisi bayi darurat
+おむつ;おむつ;popok bayi lansia;popok celana higienis untuk balita dan lansia
+卓上コンロ;たくじょうコンロ;kompor gas portabel meja;kompor gas mini bertenaga tabung butana
+ガスボンベ;ガスボンベ;tabung gas butana kaleng;kaleng gas isi ulang kompor portabel
+鍋;なべ;panci masak rebusan;wadah logam memasak air dan mi instan
+アウトドア用品;アウトドアようひん;perlengkapan berkemah alam;peralatan kamping yang sangat berguna saat bencana
+風邪薬;かぜぐすり;obat flu demam;obat penurun panas pereda gejala meriang
+絆創膏;ばんそうこう;plester luka berpori;plester pembalut luka sayat lecet
+消毒液;しょうどくえき;cairan antiseptik luka;cairan pembersih kuman pembilas luka
+モバイルバッテリー;モバイルバッテリー;pengisi daya portabel, power bank;cadangan baterai portabel untuk mengisi daya ponsel
+現金;げんきん;uang tunai lembaran uang koin;uang tunai receh untuk telepon koin saat sinyal mati
+預金通帳;よきんつうちょう;buku tabungan rekening bank;buku rekening perbankan bukti kepemilikan saldo
+パスポート;パスポート;paspor kenegaraan;dokumen paspor bukti kewarganegaraan resmi
+健康保険証;けんこうほけんしょう;kartu asuransi kesehatan nasional;kartu bukti kepesertaan asuransi kesehatan
+外国人登録証;がいこくじんとうろくしょう;kartu registrasi orang asing lama;kartu identitas asing sistem lama (kini diwakili 在留カード)
+缶詰;かんづめ;makanan kaleng awet;daging atau ikan sarden kemasan kaleng steril tahan lama
+インスタント食品;インスタントしょくひん;makanan instan kering;mi instan atau nasi instan tinggal seduh air panas

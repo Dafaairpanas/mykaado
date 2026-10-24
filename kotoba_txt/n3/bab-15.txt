@@ -1,0 +1,32 @@
+そでなし;そでなし;tanpa lengan
+無地;むじ;polos
+半そで;はんそで;lengan pendek
+長そで;ながそで;lengan panjang
+柄／模様;え／もよう;corak
+しま;しま;garis-garis
+水玉;みずたま;polkadot
+花柄;はながら;corak bunga
+気に入る;きにいる;menyukai
+お気に入り;おきにいり;favorit
+好む;このむ;menyukai
+好み;このみ;kesukaan
+似合う;にあう;cocok
+目立つ色;めだついろ;warna mencolok
+派手な;はでな;mencolok
+地味な;じみな;sederhana
+人気のあるデザイン;にんきのあるでざいん;desain populer
+はやっている／流行;はやっている／りゅうこう;sedang tren
+サイズを確かめる／確認する;さいずをたしかめる／かくにんする;memastikan ukuran
+サイズが合う;さいずがあう;ukuran cocok
+ゆるい;ゆるい;kendor
+きつい;きつい;ketat
+品物をかごに入れる;しなものをかごにいれる;memasukkan barang ke keranjang
+セール／バーゲンで買う;せえる／ばあげんでかう;membeli promo
+デパートの特売品;でぱあとのとくばいひん;barang promo department store
+30パーセントオフ／3割引き;30ぱあせんとおふ／3わりびき;diskon 30%
+売り切れる;うりきれる;habis terjual
+売り切れ;うりきれ;habis terjual
+本物のダイヤモンド;ほんもののだいやもんど;berlian asli
+偽物;にせもの;barang palsu
+得をする;とくをする;mendapat untung
+損をする;そんをする;menderita kerugian

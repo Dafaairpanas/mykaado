@@ -1,0 +1,50 @@
+～メートル;～メートル;... meter;Satuan ukuran panjang jarak meter (cth: 100メートル)
+インターネット;インターネット;internet;Jaringan informasi daring global (sering disingkat ネット)
+お祈り;おいのり;doa / permohonan;Doa ibadah keagamaan (お祈りをする = berdoa)
+ぜひ;ぜひ;pasti / sangat ingin;Menyatakan keinginan kuat atau ajakan tulus (cth: ぜひ来てください)
+それはおもしろいですね;それはおもしろいですね;wah, kedengarannya menarik sekali ya;Ungkapan antusias menanggapi cerita hobi atau rencana lawan bicara
+できます;できます;bisa / mampu / selesai;Memiliki kemampuan keahlian (ditandai が: ピアノができる), atau rampung
+なかなか;なかなか;tidak mudah / cukup sulit;Diikuti bentuk negatif menyatakan hal sulit terwujud (cth: なかなか見つからない)
+ピアノ;ピアノ;piano;Alat musik akustik tuts papan nada (ピアノを弾く = main piano)
+へえ;へえ;wah! / masa sih?;Seruan takjub atau terkejut saat mendengar fakta baru menarik
+ほんとうですか;ほんとうですか;apakah betul? / benarkah?;Meminta konfirmasi kepastian atas berita yang mengejutkan
+運転します;うんてんします;mengemudi / menyetir;Mengendarai mobil atau mengoperasikan mesin kendaraan (車を運転する)
+歌います;うたいます;menyanyi;Melantunkan syair lagu dengan nada suara (歌を歌う)
+課長;かちょう;kepala seksi / manajer seksi;Jabatan struktural manajer tingkat seksi di perusahaan Jepang
+換えます;かえます;menukar / mengonversi;Menukar uang valuta asing (お金を換える), atau menukar barang
+現金;げんきん;uang tunai / cash;Uang koin dan kertas riil (bukan kartu kredit/debit)
+捨てます;すてます;membuang;Membuang sampah ke tempat sampah (ゴミを捨てる)
+社長;しゃちょう;direktur utama / presiden direktur;Pimpinan tertinggi perusahaan korporasi Jepang
+趣味;しゅみ;hobi / kegemaran;Aktivitas kesenangan yang dilakukan di waktu luang
+集めます;あつめます;mengumpulkan / mengoleksi;Mengoleksi perangko, koin, atau mengumpulkan dokumen (transitif)
+洗います;あらいます;mencuci / membasuh;Membersihkan pakaian, piring, atau tangan dengan air dan sabun
+弾きます;ひきます;memetik / memainkan (alat musik dawai/tuts);Memainkan instrumen berpelatuk tuts atau senar dawai (gitar, piano, biola)
+動物;どうぶつ;hewan / binatang;Makhluk hidup bernyawa fauna
+特に;とくに;terutama / khususnya;Menonjolkan satu hal secara spesifik dibanding yang lain
+日記;にっき;buku harian / jurnal harian;Catatan riwayat harian pribadi (日記をつける/書く)
+馬;うま;kuda;Hewan mamalia berkaki empat untuk tunggangan (馬に乗る = menunggang kuda)
+部長;ぶちょう;kepala bagian / general manager;Jabatan pimpinan tingkat departemen di atas kachou
+予約します;よやくします;memesan / reservasi;Memesan tiket pesawat, kamar hotel, atau meja restoran sebelumnya
+蹴る;ける;menendang;Mengayunkan kaki menyepak bola (ボールを蹴る)
+叩く;たたく;memukul / mengetuk / menepuk;Mengetuk pintu (ドアを叩く), atau menepuk pundak
+這う;はう;merangkak / merayap;Bergerak melata dengan tangan dan lutut di lantai (bayi merangkak)
+潜る;もぐる;menyelam;Menenggelamkan tubuh menyelam ke dalam air laut (海に潜る)
+引く;ひく;menarik;Menarik tali, menarik laci meja, atau menarik garis pintu
+泳ぐ;およぐ;berenang;Meluncur menggerakkan anggota tubuh di air
+押す;おす;mendorong / menekan;Mendorong gerobak pintu dorong, atau menekan tombol cap stempel
+逆立ちする;さかだちする;berdiri dengan tangan (handstand);Menegakkan tubuh terbalik bertumpu pada kedua telapak tangan
+曲げる;まげる;membengkokkan / menekuk;Menekuk lutut/punggung, atau membengkokkan kawat besi (transitif)
+持ち上げる;もちあげる;mengangkat ke atas;Mengangkat beban barang berat dari lantai ke atas
+伸ばす;のばす;meluruskan / merentangkan;Merentangkan tangan/kaki saat senam pemanasan, atau menumbuhkan rambut
+振り向く;ふりむく;menoleh ke belakang;Memutar kepala memandang ke arah belakang
+振る;ふる;melambaikan / mengocok;Melambaikan tangan (手を振る), mengocok botol minuman, atau mencampakkan pacar
+走る;はしる;berlari;Melangkahkan kaki dengan kecepatan kencang (lawan dari 歩く)
+跳ぶ;とぶ;melompat / meloncat;Melompat ke atas menggunakan kekuatan kaki (cth: 縄跳び = lompat tali)
+転ぶ;ころぶ;terjatuh / terpeleset;Hilang keseimbangan hingga tersungkur di tanah
+登る;のぼる;mendaki / memanjat;Mendaki bukit atau gunung tinggi (山に登る)
+投げる;なげる;melempar;Melemparkan bola ke arah sasaran (ボールを投げる)
+飛び込む;とびこむ;menceburkan diri / melompat masuk;Melompat masuk terjun ke dalam air kolam renang atau sungai
+飛ぶ;とぶ;terbang di udara;Melayang terbang di angkasa (burung atau pesawat terbang di langit)
+ビートルズ;ビートルズ;The Beatles;Grup band musik rock legendaris asal Inggris
+故郷;ふるさと;kampung halaman;Tanah kelahiran asal seseorang yang dirindukan (judul lagu legendaris Jepang)
+秋葉原;あきはばら;Akihabara;Kawasan pusat niaga elektronik, anime, dan pop culture otaku terbesar di Tokyo

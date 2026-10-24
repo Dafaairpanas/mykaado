@@ -1,0 +1,61 @@
+混んでいる;こんでいる;penuh sesak, macet;kondisi jalanan macet atau gerbong kereta padat penumpang
+咳;せき;batuk;gejala refleks saluran napas saat sakit tenggorokan
+ひどい;ひどい;parah, kejam;kondisi sakit parah atau perlakuan yang buruk
+熱;ねつ;demam, suhu panas;suhu tubuh yang melonjak tinggi saat jatuh sakit
+熱がある;ねつがある;sedang demam;tubuh terasa panas akibat terjangkit sakit
+財布;さいふ;dompet;tempat menyimpan uang tunai dan kartu
+忘れる;わすれる;ketinggalan, lupa;tidak sengaja meninggalkan barang atau luput ingatan (財布を忘れる)
+病院;びょういん;rumah sakit, klinik;fasilitas pemeriksaan medis oleh dokter
+家;いえ;rumah tinggal;tempat kediaman tempat tinggal
+帰る;かえる;pulang ke rumah;kembali pulang ke tempat tinggal
+これから;これから;mulai sekarang, setelah ini;tindakan yang akan segera dilakukan selanjutnya
+取る;とる;mengambil;mengambil barang yang tertinggal di rumah
+それで;それで;oleh karena itu, makanya;kata sambung menghubungkan penyebab dengan akibatnya
+遅くなる;おそくなる;menjadi terlambat;waktu kedatangan bergeser lebih lambat dari jadwal
+皆さん;みなさん;semua rekan, semuanya;sebutan sopan untuk seluruh orang dalam kelompok/kantor
+伝える;つたえる;menyampaikan pesan;mengabarkan informasi kepada orang lain (伝言を伝える)
+遅刻する;ちこくする;terlambat hadir;datang terlambat melebihi jam mulai kerja atau sekolah
+後で;あとで;nanti, belakangan;setelah waktu berselang beberapa saat
+休む;やすむ;izin tidak masuk, cuti;tidak hadir bekerja atau beristirahat sakit (仕事を休む)
+申し訳ありません;もうしわけありません;saya mohon maaf sebesar-besarnya;permohonan maaf resmi dan sangat sopan di dunia kerja
+具合が悪い;ぐあいがわるい;tidak enak badan, kurang fit;kondisi fisik tubuh merasa meriang atau lemas sakit
+お祈り;おいのり;doa, salat, sembahyang;ibadah ritual berdoa (termasuk salat bagi muslim di sela kerja)
+煙草;たばこ;rokok;gulungan tembakau untuk dihisap
+吸う;すう;menghisap, merokok;menghirup asap rokok atau udara (たばこを吸う)
+行って来る;いってくる;pergi sebentar lalu kembali;pergi keluar untuk suatu urusan lalu segera kembali ke ruangan
+休憩する;きゅうけいする;rehat, beristirahat sejenak;mengambil jeda istirahat singkat di sela rutinitas kerja
+戻る;もどる;kembali ke meja kerja;kembali lagi ke posisi semula sehabis izin keluar
+早退する;そうたいする;pulang lebih awal;meninggalkan kantor sebelum jam kerja usai karena urusan darurat/sakit
+休みを取る;やすみをとる;mengambil cuti;mengajukan hari libur cuti resmi kerja
+社長;しゃちょう;direktur utama, pimpinan perusahaan;pemimpin tertinggi badan usaha perusahaan
+役所;やくしょ;kantor kelurahan, kantor dinas;kantor instansi administrasi pemerintahan daerah
+早く;はやく;lebih cepat, lebih awal;waktu kedatangan lebih pagi atau bertindak lekas
+用事;ようじ;urusan, keperluan;perkara atau keperluan yang harus diselesaikan
+済む;すむ;selesai tuntas, beres;urusan atau masalah telah teratasi beres
+主任;しゅにん;kepala seksi, ketua tim (shunin);jabatan staf senior penyelia tingkat pertama di kantor Jepang
+来月;らいげつ;bulan depan;satu bulan sesudah bulan berjalan
+できたら;できたら;jika memungkinkan, kalau bisa;ungkapan santun mengajukan permohonan tanpa memaksa
+ちょっと、いいでしょうか？;ちょっと、いいでしょうか？;maaf, boleh minta waktunya sebentar?;ungkapan sopan meminta izin bicara kepada atasan kerja
+別に構いません;べつにかまいません;sama sekali tidak masalah, boleh;jawaban memperbolehkan permohonan tanpa keberatan
+休暇届;きゅうかとどけ;formulir pengajuan cuti;surat resmi pengajuan izin tidak masuk kerja
+出す;だす;menyerahkan, mengumpulkan berkas;mengajukan formulir ke bagian personalia
+フォーム;フォーム;formulir isian;lembar format isian data administrasi
+所属;しょぞく;unit divisi, departemen;bagian divisi tempat karyawan bernaung di kantor
+チーム;チーム;tim kerja;kelompok kerja kecil dalam divisi
+総務;そうむ;bagian umum (GA / General Affairs);divisi pengurus fasilitas, aset, dan tata usaha kantor
+氏名;しめい;nama lengkap;nama marga dan nama depan pada dokumen resmi
+ハンコ;ハンコ;cap stempel nama;stempel nama pribadi pengganti paraf tanda tangan
+持っている;もっている;memiliki, membawa serta;sedang membawa atau mempunyai barang
+持つ;もつ;memiliki, memegang;mempunyai kepemilikan barang
+で;で;jadi, lalu;ragam santai percakapan dari それで
+期間;きかん;periode, rentang waktu;jangka waktu dari tanggal mulai hingga selesai cuti
+理由;りゆう;alasan pengajuan;penyebab atau latar belakang mengajukan izin cuti
+普通;ふつう;biasanya, lumrah;hal umum yang lumrah terjadi
+私用;しよう;urusan pribadi;keperluan urusan pribadi keluarga (bukan urusan dinas kantor)
+〜中;〜ちゅう;sedang dalam masa ...;kondisi sedang berlangsung (misal 休み中 sedang cuti)
+連絡先;れんらくさき;nomor kontak darurat;nomor telepon atau alamat yang bisa dihubungi sewaktu-waktu
+備考;びこう;catatan keterangan, memo;kolom catatan tambahan pada lembar formulir
+要る;いる;membutuhkan, perlu;mutlak memerlukan suatu syarat atau benda (bukan いる/ada)
+承認印;しょうにんいん;cap stempel persetujuan;cap stempel atasan penanda dokumen disetujui
+事前に;じぜんに;sebelumnya, jauh-jauh hari;melakukan tindakan terlebih dahulu sebelum hari H tiba
+提出する;ていしゅつする;mengumpulkan, menyerahkan resmi;menyerahkan dokumen resmi kepada instansi atau atasan

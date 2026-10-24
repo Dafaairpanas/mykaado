@@ -205,8 +205,12 @@ export async function fetchSelectedDecks(selectedChapterIds: string[]) {
       let items = null;
       try {
         const fromDb = await appDb.chapters.get(chapter.pathKey);
-        if (fromDb && fromDb.data) {
-          items = fromDb.data;
+        if (fromDb && fromDb.data && Array.isArray(fromDb.data)) {
+          // If kotoba deck, ensure it is up-to-date with data4
+          const hasData4Field = fromDb.data.some((it: any) => it && 'data4' in it);
+          if (hasData4Field || !chapter.pathKey.includes('-migrated')) {
+            items = fromDb.data;
+          }
         }
       } catch (e) {
         console.warn("Failed to read from IndexedDB, falling back to dynamic import");

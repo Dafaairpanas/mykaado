@@ -1,0 +1,120 @@
+1円;いちえん;1 yen
+5円;ごえん;5 yen
+10円;じゅうえん;10 yen
+50円;ごじゅうえん;50 yen
+100;ひゃく;seratus
+200;にひゃく;dua ratus
+300;さんびゃく;tiga ratus
+400;よんひゃく;empat ratus
+500;ごひゃく;lima ratus
+600;ろっぴゃく;enam ratus
+700;ななひゃく;tujuh ratus
+800;はっぴゃく;delapan ratus
+900;きゅうひゃく;sembilan ratus
+1,000;せん;seribu
+2,000;にせん;dua ribu
+3,000;さんぜん;tiga ribu
+4,000;よんせん;empat ribu
+5,000;ごせん;lima ribu
+6,000;ろくせん;enam ribu
+7,000;ななせん;tujuh ribu
+8,000;はっせん;delapan ribu
+9,000;きゅうせん;sembilan ribu
+10,000;いちまん;sepuluh ribu
+100円;ひゃくえん;100 yen
+200円;にひゃくえん;200 yen
+300円;さんびゃくえん;300 yen
+400円;よんひゃくえん;400 yen
+500円;ごひゃくえん;500 yen
+600円;ろっぴゃくえん;600 yen
+700円;ななひゃくえん;700 yen
+800円;はっぴゃくえん;800 yen
+900円;きゅうひゃくえん;900 yen
+1,000円;せんえん;1,000 yen
+2,000円;にせんえん;2,000 yen
+3,000円;さんぜんえん;3,000 yen
+4,000円;よんせんえん;4,000 yen
+5,000円;ごせんえん;5,000 yen
+6,000円;ろくせんえん;6,000 yen
+7,000円;ななせんえん;7,000 yen
+8,000円;はっせんえん;8,000 yen
+9,000円;きゅうせんえん;9,000 yen
+10,000円;いちまんえん;10,000 yen
+いくら;いくら;berapa (menanyakan harga)
+カレンダー;カレンダー;kalender
+お菓子;おかし;kue, kudapan
+招き猫;まねきねこ;maneki-neko (pajangan kucing pembawa keberuntungan)
+Tシャツ;ティーシャツ;kaus
+その;その;~ itu (di dekat pendengar)
+それ;それ;itu (dekat pembicara)
+この;この;~ ini (dekat pembicara)
+これ;これ;ini (dekat pembicara)
+あの;あの;~ itu (jauh dari pembicara dan pendengar)
+あれ;あれ;itu (jauh dari pembicara dan pendengar)
+いいです;いいです;Tidak, terima kasih. (Digunakan ketika menolak sesuatu. Sama seperti けっこうです)
+たい焼き;たいやき;taiyaki (kue panggang berbentuk ikan kakap)
+コロッケ;コロッケ;korokke (kroket)
+シュウマイ;シュウマイ;shumai (dimsum/ pangsit kukus)
+ひき肉;ひきにく;daging giling
+チョコレートケーキ;チョコレートケーキ;kue cokelat
+チーズケーキ;チーズケーキ;kue keju
+昆布;こんぶ;kombu (ganggang laut)
+たらこ;たらこ;tarako (telur ikan cod)
+梅;うめ;ume (acar plum)
+～個;～こ;~ buah (untuk menghitung benda kecil)
+～ｇ;～グラム;~ g (gram)
+～ずつ;～ずつ;masing-masing ~
+かしこまりました;かしこまりました;Saya mengerti. (ragam hormat)
+1個;いっこ;1 buah
+2個;にこ;2 buah
+3個;さんこ;3 buah
+4個;よんこ;4 buah
+5個;ごこ;5 buah
+6個;ろっこ;6 buah
+7個;ななこ;7 buah
+8個;はちこ / はっこ;8 buah
+9個;きゅうこ;9 buah
+10個;じゅっこ;10 buah
+何個;なんこ;berapa buah
+温める / 温めます;あたためる / あたためます;menghangatkan
+袋;ふくろ;kantong belanja, tas belanja
+Suica;スイカ;Suica (kartu prabayar yang digunakan untuk membayar biaya transportasi seperti kereta dan bus, serta untuk berbelanja)
+タッチする / タッチします;タッチする / タッチします;menempelkan, menyentuhkan
+～は、どうしますか？;～は、どうしますか？;Bagaimana dengan ~?
+だいじょうぶです;だいじょうぶです;Tidak usah. (Ungkapan untuk menolak suatu tawaran)
+～でお願いします;～でおねがいします;Saya ingin bayar dengan ~
+タッチしてください;タッチしてください;Silakan tempelkan kartu Anda.
+ありがとうございました;ありがとうございました;Terima kasih banyak. (Digunakan untuk menyatakan terima kasih atas sesuatu yang telah selesai dilakukan)
+こちら;こちら;ini (bentuk sopan)
+お次の方;おつぎのかた;Pelanggan berikutnya. (ragam hormat)
+おつけしますか？;おつけしますか？;Perlu saya tambahkan ~? (ragam hormat)
+お会計、～になります;おかいけい、～になります;Totalnya menjadi ~. (ragam hormat)
+おはし;おはし;sumpit
+フォーク;フォーク;garpu
+ストロー;ストロー;sedotan
+クレジットカード;クレジットカード;kartu kredit
+Edy;エディー;Edy (kartu pembayaran elektronik)
+PayPay;ペイペイ;PayPay (metode pembayaran elektronik berbasis kode QR)
+～割引（二割引）;～わりびき（にわりびき）;~ diskon sepersepuluh (contoh: diskon 20%)
+表示価格より;ひょうじかかくより;dari harga tertera
+若鶏;わかどり;ayam muda
+税込;ぜいこみ;termasuk pajak
+～％引（10％引）;～パーセントびき（じゅっパーセントびき）;~ diskon % (contoh: diskon 10%)
+全品;ぜんぴん;semua barang (all items)
+一人暮らし;ひとりぐらし;tinggal sendiri
+応援;おうえん;dukungan, bantuan
+セール;セール;obral
+小型;こがた;ukuran kecil
+さらに;さらに;tambahan lagi, selain itu
+ポイントサービス;ポイントサービス;poin penghargaan (reward points)
+～円引（50円引）;～えんびき（ごじゅうえんびき）;diskon ~ yen (contoh: diskon 50 yen)
+苺ショートケーキ;いちごショートケーキ;kue bolu stroberi (strawberry shortcake)
+本日;ほんじつ;hari ini
+値下げ価格;ねさげかかく;harga setelah diskon
+税抜;ぜいぬき;belum termasuk pajak
+半額;はんがく;setengah harga
+レジにて;レジにて;di kasir
+国産銘柄鶏胸肉;こくさんめいがらとりむねにく;dada ayam lokal
+～円均一（50円均一）;～えんきんいつ（ごじゅうえんきんいつ）;semua ~ yen (contoh: semua 50 yen)
+ワゴン;ワゴン;troli
+商品;しょうひん;produk

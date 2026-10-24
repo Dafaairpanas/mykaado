@@ -1,0 +1,72 @@
+～とか、～とか;～とか、～とか;seperti ～, atau ～;Menyebutkan beberapa contoh santai dalam percakapan (cth: ビールとか、ワインとか)
+ある～;ある～;suatu ... tertentu;Merujuk objek atau waktu tertentu tanpa menyebut nama pasti (cth: ある日)
+うれしい;うれしい;senang / gembira;Perasaan hati bahagia atas suatu kejadian menyenangkan,  lawan dari 悲しい
+お知らせ;おしらせ;pengumuman / surat edaran;Pemberitahuan informasi resmi kepada khalayak publik
+ガイドブック;ガイドブック;buku panduan wisata;Buku saku berisi informasi panduan rute dan tempat liburan (guidebook)
+カレンダー;カレンダー;kalender / penanggalan dinding;Tabel kalender penunjuk tanggal hari dan bulan
+ごみ箱;ごみばこ;tempat sampah / tong sampah;Wadah penampung sampah sisa di ruangan
+しまいます;しまいます;menyimpan ke tempatnya;Menaruh dan menyimpan barang rapi ke dalam laci atau lemari (transitif: 引き出しにしまう)
+すると;すると;lalu / seketika itu;Kata sambung menyatakan peristiwa lanjutan yang terjadi spontan setelahnya
+そのままにします;そのままにします;membiarkan apa adanya;Membiarkan kondisi barang tetap seperti semula tanpa disentuh
+はります;はります;menempelkan;Menempelkan poster, perangko, atau stiker ke dinding (transitif: 壁にポスターをはる)
+ポスター;ポスター;poster / plakat;Lembaran gambar promosi atau pengumuman yang ditempel di dinding
+まだ;まだ;masih;Menyatakan kondisi yang masih terus berlangsung (cth: まだ雨が降っています)
+まとめます;まとめます;merangkum / menyatukan;Mengumpulkan dan menyusun intisari materi atau barang (transitif: レポートをまとめる)
+ミーティング;ミーティング;rapat koordinasi;Pertemuan diskusi kerja kelompok atau kantor (meeting)
+リュック;リュック;tas ransel / punggung;Tas gendong punggung untuk bepergian (kependekan rucksack)
+引き出し;ひきだし;laci meja/lemari;Kotak geser meja untuk menyimpan perlengkapan alat tulis
+花瓶;かびん;vas bunga;Wadah air tempat menaruh tangkai bunga hias di meja
+懐中電灯;かいちゅうでんとう;lampu senter;Alat penerangan portabel bertenaga baterai saat mati lampu
+掛けます;かけます;menggantungkan;Menggantungkan jaket, kalender, atau lukisan di dinding (壁に掛ける)
+丸い;まるい;bundar / bulat;Bentuk lingkaran atau bola bundar
+鏡;かがみ;cermin / kaca rias;Kaca pantul untuk berkaca merias diri (鏡を見る)
+隅;すみ;sudut dalam / pojokan;Sudut bagian dalam ruangan atau kotak,  beda dengan 角 (sudut luar/tikungan)
+決めます;きめます;menentukan / memutuskan;Menetapkan keputusan tanggal, tempat, atau pilihan rencana (transitif)
+嫌［な］;いや［な］;tidak suka / menjengkelkan;Perasaan tidak nyaman, enggan, atau tidak menyenangkan hati
+元の所;もとのところ;tempat semula;Posisi letak asal barang sebelum diambil/dipakai
+玄関;げんかん;pintu masuk / ruang depan;Area depan rumah Jepang tempat melepas sepatu
+講義;こうぎ;kuliah universitas;Penyampaian materi perkuliahan akademis oleh dosen di kampus
+授業;じゅぎょう;pelajaran / kelas sekolah;Kegiatan belajar-mengajar guru dan murid di kelas
+周り;まわり;sekeliling / sekitar;Area melingkar di sekeliling suatu objek
+飾ります;かざります;menghias / memajang;Menata hiasan bunga atau dekorasi mempercantik ruangan (部屋を飾る)
+植えます;うえます;menanam;Menanam bibit pohon, bunga, atau sayuran ke tanah (庭に木を植える)
+真ん中;まんなか;tengah-tengah persis;Titik sentral persis di pusat ruangan atau lingkaran
+人形;にんぎょう;boneka;Mainan tiruan figur orang atau karakter (kanji: 人形)
+生活します;せいかつします;menjalani kehidupan;Menjalankan rutinitas kehidupan sehari-hari (cth: 日本で生活する)
+池;いけ;kolam air;Genangan air buatan di taman pemukiman tempat memelihara ikan koi
+非常時;ひじょうじ;saat darurat;Kondisi krisis genting saat terjadi bencana alam atau bahaya
+非常袋;ひじょうぶくろ;tas siaga bencana;Tas ransel darurat berisi makanan, senter, dan P3K untuk evakuasi
+復習します;ふくしゅうします;mengulang pelajaran (review);Belajar kembali mengulang materi yang telah diajarkan guru
+並べます;ならべます;menata / membariskan;Menyusun piring, buku, atau kursi berjejer rapi berurutan (transitif)
+壁;かべ;dinding tembok;Dinding pembatas ruangan rumah
+夢を見ます;ゆめをみます;bermimpi saat tidur;Mengalami visualisasi bunga tidur di malam hari
+目が覚めます;めがさめます;terbangun dari tidur;Mata terbuka dan kembali ke alam sadar bangun pagi (intransitif)
+戻します;もどします;mengembalikan ke tempat asal;Menaruh kembali barang ke posisi asalnya setelah selesai dipakai
+予習します;よしゅうします;mempelajari persiapan;Mempelajari materi pelajaran terlebih dahulu sebelum kelas dimulai
+予定;よてい;rencana / agenda;Jadwal rancangan kegiatan yang direncanakan akan dilakukan
+予定表;よていひょう;tabel jadwal agenda;Lembaran bagan daftar susunan rencana kegiatan
+廊下;ろうか;lorong / koridor;Jalan sempit penghubung antar-kamar di dalam gedung
+ラジオの電池の備えを;ラジオのでんちのそなえを;siapkan cadangan baterai radio;Imbauan mitigasi bencana menyiapkan baterai radio darurat
+家の周りの点検;いえのまわりのてんけん;pemeriksaan sekeliling rumah;Mengecek genteng, pohon, dan dinding rumah sebelum angin topan
+家具が倒れないようにしておく;かぐがたおれないようにしておく;kunci perabotan agar tidak roboh;Memasang pengikat dinding agar lemari tidak menimpa orang saat gempa
+家族、知人、友人と、もしもの場合の連絡先を決めておく;かぞく、ちじん、ゆうじんと、もしものばあいのれんらくさきをきめておく;tentukan kontak darurat bersama keluarga;Menyepakati nomor pesan darurat bencana bersama kerabat jauh-jauh hari
+気象情報を聞く;きしょうじょうほうをきく;pantau informasi prakiraan cuaca;Mendengarkan laporan BMKG lewat radio atau ponsel saat cuaca buruk
+貴重品;きちょうひん;barang berharga;Harta benda penting (buku tabungan, sertifikat rumah, paspor, uang tunai)
+救急薬品;きゅうきゅうやくひん;obat-obatan darurat (P3K);Perban, antiseptik, dan obat pribadi untuk tas siaga bencana
+戸を開けて出口の確保;とをあけてでぐちのかくほ;buka pintu pastikan jalur evakuasi;Segera membuka pintu saat gempa agar kusen tidak macet terkunci guncangan
+慌てて外に飛び出さない;あわててそとにとびださない;jangan panik lari keluar gedung;Hindari berlari panik keluar karena bahaya runtuhan kaca dan genteng
+車を使わず、必ず歩いて;くるまをつかわず、かならずあるいて;evakuasi jalan kaki tanpa mobil;Jangan memakai mobil pribadi agar jalan tidak macet total saat ambulans melintas
+消火器を備える・水を貯えておく;しょうかきをそなえる・みずをたくわえておく;siapkan APAR dan tampung air bersih;Menyediakan tabung pemadam api dan wadah cadangan air minum bersih
+丈夫なテーブルの下にもぐる;じょうぶなテーブルのしたにもぐる;berlindung di bawah meja kokoh;Langkah perlindungan kepala utama dari runtuhan plafon saat gempa bumi
+水、緊急食品の準備;みず、きんきゅうしょくひんのじゅんび;persiapan air dan ransum darurat;Menyimpan cadangan air minum 3 liter per hari dan makanan kaleng biskuit
+正しい情報を聞く（山崩れ、崖崩れ、津波に注意）;ただしいじょうほうをきく（やまくずれ、がけくずれ、つなみにちゅうい）;pantau info resmi waspada longsor & tsunami;Mendengarkan siaran resmi otoritas pemerintah daerah tanpa terhasut hoaks
+台風の場合;たいふうのばあい;dalam menghadapi angin topan;Langkah antisipasi saat badai angin topan besar mendekat
+地域の避難場所を確認しておく;ちいきのひなんばしょをかくにんしておく;pastikan lokasi posko evakuasi lingkungan;Mengecek denah gedung sekolah atau balai kota yang dijadikan tempat pengungsian
+地震が収まったら;じしんがおさまったら;setelah guncangan gempa mereda;Langkah tindakan pemeriksaan kompor dan kabel listrik saat bumi berhenti berguncang
+地震の場合;じしんのばあい;dalam menghadapi gempa bumi;SOP pedoman keselamatan saat tanah berguncang keras
+避難する場合は;ひなんするばあいは;jika harus mengungsi ke posko;Instruksi meninggalkan rumah dengan memakai sepatu tebal dan pakaian tertutup
+非常の場合;ひじょうのばあい;dalam kondisi darurat darurat;Panduan umum saat situasi darurat bencana alam melanda
+非常袋を用意しておく;ひじょうぶくろをよういしておく;siapkan tas darurat bencana sebelumnya;Tindakan pencegahan menaruh tas ransel siaga bencana di dekat pintu keluar
+備えが大切;そなえがたいせつ;persiapan sejak dini itu sangat penting;Peribahasa mitigasi bencana: persiapan matang menyelamatkan nyawa
+万一地震が起きた場合;まんいちじしんがおきたばあい;seandainya terjadi gempa bumi;Skenario langkah antisipasi bila musibah gempa terjadi sewaktu-waktu
+落ち着いて火の始末;おちついてひのしまつ;padamkan api kompor dengan tenang;Segera mematikan api kompor atau pemanas ruangan untuk mencegah kebakaran hebat

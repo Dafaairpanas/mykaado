@@ -11,6 +11,7 @@ export interface KotobaItem {
   type: string;
   transitivity: string | null;
   semantic: string;
+  data4?: string | null;
 }
 
 export interface KanjiItem {

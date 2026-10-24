@@ -10,7 +10,8 @@
     "chapter": "Bab 28",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan sopan pembuka sebelum mengutarakan permintaan bantuan kepada orang lain"
   },
   {
     "id": "mn-28-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 28",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Dilekatkan pada profesi keahlian seni atau bidang studi (cth: 小説家, 音楽家, 政治家)"
   },
   {
     "id": "mn-28-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 28",
     "type": "suffix",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Dilekatkan pada nama mesin atau peralatan (cth: 洗濯機 = mesin cuci, 飛行機)"
   },
   {
     "id": "mn-28-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Acara festival, bazar, atau pentas panggung (event)"
   },
   {
     "id": "mn-28-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan jeda saat sedang menimbang-nimbang jawaban sulit"
   },
   {
     "id": "mn-28-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Informasi edaran penting yang disampaikan kepada khalayak publik"
   },
   {
     "id": "mn-28-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 28",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengunyah makanan atau menggigit permen karet (transitif: ガムをかむ)"
   },
   {
     "id": "mn-28-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "Permen kunyah elastis (chewing gum)"
   },
   {
     "id": "mn-28-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Permainan video game atau permainan papan kompetitif"
   },
   {
     "id": "mn-28-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kurun waktu singkat atau jeda sejenak (cth: しばらくお待ちください)"
   },
   {
     "id": "mn-28-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 28",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata sambung melanjutkan alur cerita (lalu bagaimana?)"
   },
   {
     "id": "mn-28-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kata sambung menambahkan alasan atau keunggulan lain"
   },
   {
     "id": "mn-28-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kebiasaan umum rutinitas harian (sekitar 80%)"
   },
   {
     "id": "mn-28-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ukuran pakaian pas di badan, atau waktu yang tepat"
   },
   {
     "id": "mn-28-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Serial sinetron atau drama cerita bersambung di TV"
   },
   {
     "id": "mn-28-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Uang tunjangan insentif tambahan di luar gaji pokok karyawan"
   },
   {
     "id": "mn-28-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kepribadian orang yang jujur, tekun, dan berintegritas tinggi"
   },
   {
     "id": "mn-28-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 28",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menuliskan poin-poin penting pada buku catatan kecil (memo)"
   },
   {
     "id": "mn-28-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 28",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Orang berkedudukan tinggi atau berkemampuan mengagumkan"
   },
   {
     "id": "mn-28-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Vokalis profesi tarik suara"
   },
   {
     "id": "mn-28-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Interaksi saling bertutur kata antara dua orang atau lebih"
   },
   {
     "id": "mn-28-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Imbalan uang kompensasi kerja yang diterima karyawan setiap bulan"
   },
   {
     "id": "mn-28-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Wujud geometri luar suatu benda"
   },
   {
     "id": "mn-28-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Panorama pemandangan alam perbukitan, laut, atau kota"
   },
   {
     "id": "mn-28-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pengalaman yang pernah dialami sendiri (cth: いい経験をした)"
   },
   {
     "id": "mn-28-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 28",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengikuti kegiatan acara atau rombongan wisata (acara ditandai に)"
   },
   {
     "id": "mn-28-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pribadi diri sendiri secara mandiri"
   },
   {
     "id": "mn-28-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mengawali penuturan rahasia fakta sebenarnya kepada lawan bicara"
   },
   {
     "id": "mn-28-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Masa yang akan datang dalam garis kehidupan seseorang"
   },
   {
     "id": "mn-28-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Karya sastra cerita fiksi panjang bertema kehidupan"
   },
   {
     "id": "mn-28-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Penulis sastra yang berprofesi membuat novel"
   },
   {
     "id": "mn-28-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Warna visual corak pada benda"
   },
   {
     "id": "mn-28-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Kondisi disukai banyak penggemar (cth: 学生に人気がある)"
   },
   {
     "id": "mn-28-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 28",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menentukan satu pilihan di antara banyak opsi (transitif: 本を選ぶ)"
   },
   {
     "id": "mn-28-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut putra kandung sendiri saat berbicara kepada orang lain"
   },
   {
     "id": "mn-28-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sebutan sopan untuk anak laki-laki milik orang lain"
   },
   {
     "id": "mn-28-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Gedung olahraga indoor untuk basket, bulu tangkis, dan upacara sekolah"
   },
   {
     "id": "mn-28-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Ruang memasak makanan di rumah tinggal"
   },
   {
     "id": "mn-28-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Nominal banderol harga suatu produk dagangan"
   },
   {
     "id": "mn-28-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rutin pergi-pulang setiap hari ke sekolah atau kantor (cth: 大学に通う)"
   },
   {
     "id": "mn-28-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Singkatan kalender untuk hari Sabtu (土曜日)"
   },
   {
     "id": "mn-28-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Hari penanggalan yang telah disepakati untuk suatu acara"
   },
   {
     "id": "mn-28-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sikap sangat bersemangat dan tekun mendalami suatu hal"
   },
   {
     "id": "mn-28-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Barang dagangan banyak diminati dan cepat laku (intransitif: パンが売れる)"
   },
   {
     "id": "mn-28-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Program siaran tayangan di televisi atau radio"
   },
   {
     "id": "mn-28-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tempat potong rambut dan perawatan kecantikan wanita (beda dgn 病院 / RS)"
   },
   {
     "id": "mn-28-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Barang fisik berwujud yang diperjualbelikan di toko"
   },
   {
     "id": "mn-28-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sensasi cecapan rasa pada lidah (manis, asin, pedas, gurih)"
   },
   {
     "id": "mn-28-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bebas biaya tanpa dipungut uang sepeser pun,  lawan dari 有料"
   },
   {
     "id": "mn-28-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut putri kandung sendiri saat berbicara kepada orang lain"
   },
   {
     "id": "mn-28-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sebutan sopan untuk anak perempuan milik orang lain"
   },
   {
     "id": "mn-28-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 28",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengajak teman nonton atau makan bersama (transitif: 友達を誘う)"
   },
   {
     "id": "mn-28-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 28",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menggerakkan tubuh mengikuti irama musik tarian (cth: ダンスを踊る)"
   },
   {
     "id": "mn-28-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Daya kekuatan fisik atau kemampuan kompetensi seseorang"
   },
   {
     "id": "mn-28-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menyatakan posisi lantai unit apartemen di gedung bertingkat"
   },
   {
     "id": "mn-28-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Hunian yang memiliki 2 kamar tidur, 1 ruang tamu (L), ruang makan (D), dan dapur (K)"
   },
   {
     "id": "mn-28-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Satuan luas kamar Jepang diukur dari lembaran tatami (1畳 sekitar 1,62 m²)"
   },
   {
     "id": "mn-28-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hunian sewa bertingkat rendah 1–2 lantai berkonstruksi kayu/baja ringan"
   },
   {
     "id": "mn-28-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Menyewa tempat tinggal dari pemilik properti"
   },
   {
     "id": "mn-28-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Gedung hunian bertingkat menengah-tinggi berkonstruksi beton bertulang kokoh"
   },
   {
     "id": "mn-28-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Nama kantor agen perantara jual-beli dan sewa properti rumah"
   },
   {
     "id": "mn-28-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Rumah tinggal tunggal berpekarangan sendiri (bukan flat bertingkat)"
   },
   {
     "id": "mn-28-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Uang iuran sewa bulanan tempat tinggal"
   },
   {
     "id": "mn-28-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Iuran bulanan pemeliharaan fasilitas bersama, lampu lorong, dan sampah apartemen"
   },
   {
     "id": "mn-28-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Nama stasiun kereta api JR Jalur Chuo di Tokyo"
   },
   {
     "id": "mn-28-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 28",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Keterangan masa tahun berdirinya gedung sejak selesai dibangun"
   },
   {
     "id": "mn-28-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Jalur rel kereta listrik utama JR yang melintasi tengah kota Tokyo"
   },
   {
     "id": "mn-28-068",
@@ -881,7 +948,8 @@
     "chapter": "Bab 28",
     "type": "adv",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Jarak tempuh melangkah kaki dari stasiun terdekat menuju properti"
   },
   {
     "id": "mn-28-069",
@@ -894,7 +962,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Posisi jendela utama menghadap selatan agar ruangan hangat bermandikan cahaya matahari"
   },
   {
     "id": "mn-28-070",
@@ -907,7 +976,8 @@
     "chapter": "Bab 28",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Uang deposit penjamin sewa yang diserahkan ke pemilik rumah (sebagian dikembalikan saat pindah)"
   },
   {
     "id": "mn-28-071",
@@ -920,6 +990,7 @@
     "chapter": "Bab 28",
     "type": "adv",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Uang tanda terima kasih adat sewa Jepang kepada pemilik rumah (hangus tidak dikembalikan)"
   }
 ]

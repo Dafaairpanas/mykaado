@@ -1,0 +1,31 @@
+教科;きょうか;mata pelajaran
+科目;かもく;mata pelajaran
+得意な;とくいな;pandai, kuat
+苦手な;にがてな;tidak pandai, lemah
+国語;こくご;bahasa negara (Jepang)
+算数;さんすう;matematika
+理科;りか;IPA
+社会;しゃかい;IPS
+体育;たいいく;olahraga
+____に入学する;____ににゅうがくする;masuk sekolah
+私立高校;しりつこうこう;SMA swasta
+公立高校;こうりつこうこう;SMA negeri
+国立大学;こくりつだいがく;universitas negeri
+お弁当;おべんとう;bekal, bento
+給食;きゅうしょく;makanan sekolah
+時間割;じかんわり;jadwal pelajaran
+入学式;にゅうがくしき;upacara masuk sekolah
+出席する;しゅっせきする;hadir
+バスで通学する;ばすでつうがくする;PP sekolah naik bus
+1／2／3学期;1／2／3がっき;semester 1/2/3
+前期;ぜんき;semester awal
+同じ学年;おなじがくねん;satu angkatan
+えんぴつをけずる;えんぴつをけずる;meraut pensil
+卒業式;そつぎょうしき;upacara kelulusan
+欠席する;けっせきする;absen
+通勤する;つうきんする;PP kerja
+今学期;こんがっき;semester ini
+後期;こうき;semester setelahnya
+独学;どくがく;belajar sendiri
+物差し／定規で測る;ものさし／じょうぎではかる;mengukur dengan penggaris
+合計を出す;ごうけいをだす;menghitung total

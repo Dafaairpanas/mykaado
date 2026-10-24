@@ -1,0 +1,66 @@
+趣味;しゅみ;hobi
+スポーツ;スポーツ;olahraga
+音楽;おんがく;musik
+映画;えいが;film
+読書;どくしょ;baca
+買い物;かいもの;belanja
+料理;りょうり;masak
+ゲーム;ゲーム;gim (game)
+マンガ;マンガ;manga (komik)
+アニメ;アニメ;anime (animasi)
+どんな;どんな;seperti apa?
+バスケットボール;バスケットボール;bola basket
+水泳;すいえい;renang
+大好き;だいすき;suka sekali
+そうですねえ;そうですねえ;Apa, ya...? (Ungkapan yang digunakan ketika pembicara sedang berpikir)
+ドラゴンボール;ドラゴンボール;Dragon Ball
+サッカー;サッカー;sepak bola
+ラグビー;ラグビー;rugbi
+バドミントン;バドミントン;bulu tangkis
+卓球;たっきゅう;tenis meja
+ミステリー;ミステリー;misteri
+ファンタジー;ファンタジー;fantasi
+村上春樹;むらかみはるき;Murakami Haruki
+夏目漱石;なつめそうせき;Natsume Soseki
+恋愛映画;れんあいえいが;film percintaan/romansa
+アクション映画;アクションえいが;film laga
+SF;エスエフ;science fiction (fiksi ilmiah)
+ホラー;ホラー;horor
+ハリー・ポッター;ハリー・ポッター;Harry Potter
+スターウォーズ;スターウォーズ;Star Wars
+ロック;ロック;rock
+ジャズ;ジャズ;jazz
+クラシック;クラシック;musik klasik
+クイーン;クイーン;Queen
+ショパン;ショパン;Chopin
+聞く／聞きます;きく／ききます;mendengarkan
+本;ほん;buku
+読む／読みます;よむ／よみます;membaca
+テレビ;テレビ;televisi
+見る／見ます;みる／みます;menonton
+する／します;する／します;melakukan,  bermain
+掃除;そうじ;bersih-bersih
+洗濯;せんたく;cuci baju
+散歩;さんぽ;jalan-jalan
+勉強する／勉強します;べんきょうする／べんきょうします;belajar
+ゆっくりする／ゆっくりします;ゆっくりする／ゆっくりします;bersantai
+休みの日;やすみのひ;hari libur
+いつも;いつも;selalu
+たいてい;たいてい;umumnya,  kebanyakan
+よく;よく;sering
+ときどき;ときどき;kadang-kadang
+あまり;あまり;tidak begitu
+ぜんぜん;ぜんぜん;sama sekali
+テニス;テニス;tenis
+パチンコ;パチンコ;pachinko
+外;そと;di luar rumah
+1人で;ひとりで;sendirian
+ごろごろ（する）／ごろごろ（します）;ごろごろ（する）／ごろごろ（します）;bermalas-malasan
+～かなあ;～かなあ;～ kali, ya. (menunjukkan bahwa pembicara berbicara sambil berpikir)
+えらいですね;えらいですね;Itu mengagumkan/ Hebat sekali, ya.
+ショッピング;ショッピング;belanja
+ファッション;ファッション;fesyen, mode
+投稿;とうこう;unggahan (postingan)
+フォロワー;フォロワー;pengikut
+フォロー中;フォローちゅう;mengikuti
+募集中;ぼしゅうちゅう;sedang mencari ～

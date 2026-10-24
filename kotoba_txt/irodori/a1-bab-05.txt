@@ -1,0 +1,54 @@
+魚;さかな;ikan
+肉;にく;daging
+野菜;やさい;sayuran
+好きです;すきです;Saya suka.
+刺身;さしみ;sashimi (irisan ikan mentah)
+すし;すし;sushi
+天ぷら;てんぷら;tempura
+牛丼;ぎゅうどん;nasi daging sapi (beef bowl)
+カレー;カレー;kari
+ラーメン;ラーメン;ramen (mi kuah khas Jepang)
+うどん;うどん;mi udon
+そば;そば;mi soba
+納豆;なっとう;natto (kedelai fermentasi)
+梅干し;うめぼし;umeboshi (acar buah prem)
+わさび;わさび;wasabi (lobak pedas Jepang)
+食べ物;たべもの;makanan
+何;なに;apa
+すごい！;すごい！;Wah, hebat!
+～はちょっと…;～はちょっと…;Saya tidak begitu suka ~.
+だいじょうぶですか？;だいじょうぶですか？;Apa Anda bisa (makan)?
+コーヒー;コーヒー;kopi
+紅茶;こうちゃ;teh hitam
+お茶;おちゃ;teh Jepang
+水;みず;air
+ジュース;ジュース;jus
+コーラ;コーラ;kola
+ビール;ビール;bir
+お酒;おさけ;sake,  minuman beralkohol
+飲む / 飲みます;のむ / のみます;minum
+いえ / いいえ;いえ / いいえ;tidak
+はい、お願いします;はい、おねがいします;Ya, saya mau.
+いえ、けっこうです;いえ、けっこうです;Tidak, terima kasih.
+～お願いします;～おねがいします;Saya mau ~
+ご飯;ごはん;nasi
+パン;パン;roti
+卵;たまご;telur
+ヨーグルト;ヨーグルト;yoghurt
+シリアル;シリアル;sereal
+果物;くだもの;buah-buahan
+サラダ;サラダ;selada
+みそ汁;みそしる;sup miso
+スープ;スープ;sup
+牛乳;ぎゅうにゅう;susu
+トマトジュース;トマトジュース;jus tomat
+オレンジジュース;オレンジジュース;jus jeruk
+りんごジュース;りんごジュース;jus apel
+食べる / 食べます;たべる / たべます;makan
+朝ご飯;あさごはん;sarapan
+いつも;いつも;selalu
+よく;よく;sering
+あまり;あまり;jarang,  tidak terlalu sering
+え～！;え～！;Hah?! (mengungkapkan keterkejutan,  keheranan)
+今日;きょう;hari ini
+いただきます;いただきます;Terima kasih atas hidangannya! (Ungkapan sopan santun yang diucapkan sebelum makan)

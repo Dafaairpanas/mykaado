@@ -1,0 +1,92 @@
+あんなに;あんなに;sampai begitu ... (jauh);Tingkat intensitas yang begitu mencolok pada objek di luar kedua pembicara
+インフルエンザ;インフルエンザ;virus influenza / flu berat;Penyakit flu akut musiman disertai demam tinggi
+うるさい;うるさい;bising / berisik / cerewet;Suara bising mengganggu telinga, atau orang yang cerewet mengomel
+エンジン;エンジン;mesin motor / mesin mobil;Dapur pacu mesin pembakaran kendaraan (engine)
+おかしい;おかしい;aneh / ganjil / lucu jenaka;Kejanggalan tidak wajar, atau hal humor yang menggelikan tawa
+けが;けが;luka fisik / cedera;Luka lecet atau cedera akibat benturan/jatuh (けがをする)
+こんなに;こんなに;sampai begini ...;Tingkat intensitas ekstrem pada hal dekat pembicara (cth: こんなにたくさん)
+すきます;すきます;menjadi lengang / sepi;Arus jalan raya atau kereta menjadi lancar sepi (intransitif: 道がすく)
+ストレス;ストレス;stres beban pikiran;Tekanan mental ketegangan batin pikiran (ストレスがたまる = stres menumpuk)
+せき;せき;batuk;Gejala batuk di tenggorokan (せきが出る / せきをする)
+それはいけませんね;それはいけませんね;wah, turut prihatin ya / sayang sekali;Ungkapan simpati saat mendengar kabar musibah atau penyakit lawan bicara
+そんなに;そんなに;sampai sebegitu ... (dekat lawan bicara);Tingkat intensitas yang berkaitan dengan lawan bicara
+チーム;チーム;tim / regu;Kelompok regu olahraga atau tim kerja (team)
+ひきます;ひきます;terkena (flu);Terjangkit sakit selesma batuk pilek (風邪をひく)
+まえ;まえ;sebelumnya / yang lalu;Rentang waktu di masa lampau (cth: 3日前 = 3 hari yang lalu)
+やけど;やけど;luka bakar;Cedera kulit melepuh terkena panas api atau air mendidih (やけどをする)
+やみます;やみます;berhenti / reda (hujan/salju);Curahan hujan atau salju berhenti turun (intransitif: 雨がやむ)
+ヨーロッパ;ヨーロッパ;benua Eropa;Kawasan benua Eropa
+ラッキーアイテム;ラッキーアイテム;benda pembawa keberuntungan;Barang hoki pembawa mujur ramalan horoskop (lucky item)
+胃;い;organ lambung;Organ pencernaan lambung perut di dalam tubuh (胃が痛い = sakit maag)
+運動します;うんどうします;berolahraga / bergerak fisik;Aktivitas latihan fisik raga untuk menjaga kebugaran
+牡牛座;おうしざ;zodiak Taurus;Rasi bintang zodiak Taurus (20 April - 20 Mei)
+空;そら;langit;Cakrawala angkasa biru di atas bumi
+健康;けんこう;kesehatan raga;Kondisi tubuh bugar prima bebas dari penyakit
+元気;げんき;sehat / ceria bersemangat;Kondisi jiwa raga bugar dan penuh energi
+合格します;ごうかくします;lulus seleksi / lolos ujian;Berhasil meraih nilai standar kelulusan ujian (ujian ditandai に: 試験に合格する)
+国際～;こくさい～;internasional ...;Dilekatkan di depan kata benda antarbangsa (cth: 国際会議, 国際結婚)
+込みます;こみます;padat / macet;Jalanan macet atau ruangan berjejal orang (intransitif: 道がこむ)
+今夜;こんや;malam ini / nanti malam;Waktu malam pada hari ini (sinonim: 今晩 / こんばん)
+困ります;こまります;bingung / kesulitan / repot;Mengalami kebimbangan atau jalan buntu masalah sulit (intransitif)
+失敗します;しっぱいします;gagal / tidak berhasil;Mengalami kegagalan dalam ujian atau rencana (ujian ditandai に: 試験に失敗する)
+十分［な］;じゅうぶん［な］;cukup / memadai;Jumlah kuantitas atau waktu yang telah memenuhi kebutuhan,  lawan dari 不十分
+出ます;でます;tampil / ikut serta;Turut bertanding di laga lomba atau hadir pesta (pertandingan ditandai に: 試合に出る)
+水道;すいどう;saluran air PAM / keran air;Jaringan pipa air leding bersih perkotaan (水道の蛇口)
+成功します;せいこうします;berhasil / sukses;Meraih keberhasilan gemilang dalam usaha/eksperimen (transitif/intransitif)
+星;ほし;bintang;Benda langit gemerlap di angkasa malam hari
+星占い;ほしうらない;ramalan zodiak bintang;Prediksi peruntungan nasib berdasarkan rasi horoskop bintang
+晴れます;はれます;cerah benderang;Cuaca langit cerah tanpa awan hitam (intransitif: 天気が晴れる)
+西;にし;arah barat;Arah mata angin tempat matahari terbenam
+石;いし;batu;Batuan mineral keras alami di tanah
+先生;せんせい;dokter / guru;Panggilan penghormatan untuk dokter di klinik atau guru pengajar
+続きます;つづきます;berlanjut / berlangsung terus;Demam atau hujan terus berlanjut tanpa jeda (intransitif: 熱が続く)
+太陽;たいよう;matahari;Bintang surya pusat tata surya pemberi panas dan cahaya bagi bumi
+遅く;おそく;larut malam / terlambat;Waktu malam yang sudah larut atau kedatangan terlambat (cth: 夜遅く)
+東;ひがし;arah timur;Arah mata angin tempat matahari terbit
+当たります;あたります;tembus menang (lotre) / tepat sasaran;Memenangkan undian nomor berhadiah kupon (lotre ditandai に: 宝くじに当たる)
+働きすぎ;はたらきすぎ;terlalu banyak kerja (overwork);Kondisi fisik letih akibat beban kerja lembur berlebihan
+曇ります;くもります;menjadi mendung / berawan;Langit tertutup gumpalan awan mendung abu-abu (intransitif)
+南;みなみ;arah selatan;Arah mata angin ke arah selatan bumi
+風;かぜ;angin;Hembusan arus udara mengalir di atmosfer (風が吹く = angin bertiup)
+宝くじ;たからくじ;lotre / kupon undian berhadiah;Tiket kupon undian berhadiah uang tunai jutaan yen (宝くじを買う)
+北;きた;arah utara;Arah mata angin ke arah utara kutub bumi
+無理をします;むりをします;memaksakan diri / memforsir tubuh;Bekerja melebihi batas kekuatan tubuh hingga mengorbankan kesehatan
+夕方;ゆうがた;sore menjelang petang;Waktu senja saat matahari mulai tenggelam (sekitar pukul 16:00 - 18:00)
+冷やします;ひやします;mendinginkan / mengompres dingin;Mendinginkan minuman es atau mengompres lebam dahi (transitif)
+恋愛;れんあい;kisah asmara / percintaan;Hubungan kasih sayang sepasang kekasih yang saling mencintai
+恋人;こいびと;kekasih / pacar;Pasangan tambatan hati dalam ikatan asmara
+お金持ち;おかねもち;orang kaya / konglomerat;Orang yang memiliki limpahan harta uang berlebih
+さわやか［な］;さわやか［な］;segar / semilir nyaman;Hawa sejuk menyegarkan di pagi hari, atau senyuman cerah memikat
+にわか雨 / 夕立;にわかあめ / ゆうだち;hujan lebat sesaat;Hujan deras mendadak yang turun singkat di sore musim panas
+もしかしたら;もしかしたら;mungkin saja / jangan-jangan;Dugaan kemungkinan kecil yang dikhawatirkan (sering: ～かもしれません)
+ゆっくりします;ゆっくりします;bersantai rileks;Menikmati waktu santai beristirahat di rumah tanpa beban pikiran
+雨;あめ;curahan hujan;Tetesan air presipitasi dari langit
+雲;くも;gumpalan awan;Massa uap air putih/kelabu yang mengambang di langit
+関東地方;かんとうちほう;wilayah Kanto;Kawasan pulau Honshu bagian timur meliputi Tokyo, Kanagawa, Chiba, Saitama
+近畿地方;きんきちほう;wilayah Kinki / Kansai;Kawasan bagian tengah barat meliputi Osaka, Kyoto, Hyogo, Nara
+九州地方;きゅうしゅうちほう;wilayah Kyushu;Pulau besar di barat daya Jepang meliputi Fukuoka, Nagasaki, Kagoshima
+降水確率;こうすいかくりつ;probabilitas peluang hujan;Persentase potensi turunnya hujan dari BMKG (cth: 降水確率70%)
+最高気温;さいこうきおん;suhu udara tertinggi;Puncak suhu terpanas yang dicapai dalam satu hari
+最低気温;さいていきおん;suhu udara terendah;Titik suhu paling dingin dalam kurun satu hari
+四国地方;しこくちほう;wilayah Shikoku;Pulau di selatan Honshu meliputi Tokushima, Kagawa, Ehime, Kochi
+治ります;なおります;sembuh (dari sakit);Tubuh sembuh pulih dari demam atau penyakit (intransitif: 風邪が治る)
+湿度;しつど;kelembapan udara;Tingkat kadar uap air di udara atmosfer (湿度が高い = lembap pekat)
+蒸し暑い;むしあつい;gerah / panas lembap;Hawa panas menyengat disertai kelembapan tinggi khas musim panas Jepang
+吹きます;ふきます;bertiup (angin);Udara angin berhembus melintasi daratan (intransitif: 風が吹く)
+晴れ;はれ;cuaca cerah;Status cuaca langit terang benderang
+晴れのち曇り;はれのちくもり;cerah kemudian berawan;Prakiraan cuaca awal cerah lalu beralih berawan kelabu
+雪;ゆき;butiran salju;Kristal es beku dingin yang turun saat musim dingin
+台風;たいふう;angin badai topan;Siklon tropis badai angin kencang berputar disertai hujan lebat di Pasifik barat
+地方;ちほう;daerah / kawasan wilayah;Pembagian geografis wilayah regional negara
+中国地方;ちゅうごくちほう;wilayah Chugoku;Kawasan ujung barat pulau Honshu meliputi Hiroshima, Okayama, Yamaguchi
+中部地方;ちゅうぶちほう;wilayah Chubu;Kawasan tengah pulau Honshu meliputi Aichi (Nagoya), Shizuoka, Nagano, Niigata
+直ります;なおります;kembali normal / selesai diperbaiki;Mesin rusak kembali berfungsi normal (intransitif: 時計・車が直る)
+天気予報;てんきよほう;prakiraan cuaca;Laporan prediksi cuaca harian dari badan meteorologi
+東北地方;とうほくちほう;wilayah Tohoku;Kawasan timur laut pulau Honshu meliputi Sendai, Aomori, Akita, Fukushima
+曇り;くもり;cuaca mendung / berawan;Kondisi langit didominasi gumpalan awan kelabu
+曇り時々雨;くもりときどきあめ;mendung diselingi hujan sesekali;Prakiraan cuaca berawan dengan potensi hujan sewaktu-waktu
+曇り所によって雨;くもりところによってあめ;mendung dengan hujan lokal;Prakiraan cuaca berawan dengan hujan turun di titik-titik daerah tertentu
+虹;にじ;pelangi;Lengkungan spektrum warna-warni di langit seusai guyuran hujan
+北海道地方;ほっかいどうちほう;wilayah Hokkaido;Pulau besar paling utara di Jepang beriklim dingin bersalju lebat
+戻ります;もどります;kembali ke posisi awal;Seseorang kembali lagi ke meja kerja atau pulang ke tempat asal (intransitif)
+雷;かみなり;petir / guruh kilat;Kilatan petir menyambar dan suara gemuruh halilintar di langit badai

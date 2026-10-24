@@ -1,0 +1,40 @@
+［お］湯;［お］ゆ;air panas;Air matang yang bersuhu panas mendidih (lawan dari 水 / air dingin)
+～目;～め;ke-... (urutan);Menyatakan urutan keberapa (cth: 2つ目 = yang kedua, 1番目 = nomor satu)
+サイズ;サイズ;ukuran pakaian / size;Dimensi besaran ukuran busana atau sepatu (S, M, L)
+引きます;ひきます;menarik;Menarik pintu sorong, menarik tali, atau mengurangkan angka (lawan dari 押します)
+音;おと;bunyi / suara benda;Suara gemuruh, musik, deru mesin, atau bunyi ketukan (bukan suara manusia / 声)
+何回も;なんかいも;berkali-kali / berulang kali;Frekuensi yang sering diulang berkali-kali
+回します;まわします;memutar;Memutar kenop saklar keran atau setir kemudi
+角;かど;sudut jalan / pojokan;Sudut belokan tikungan jalan atau pojok ruangan
+橋;はし;jembatan;Struktur penghubung daratan yang melintasi sungai atau jurang (橋を渡る = menyeberang jembatan)
+曲がります;まがります;berbelok / membelok;Membelokkan arah haluan jalan (arah ditandai へ: 右へ曲がる = belok kanan)
+建物;たてもの;gedung / bangunan;Struktur fisik arsitektur bangunan buatan manusia
+故障;こしょう;kerusakan mesin / mogok;Kondisi malafungsi pada mesin atau alat elektronik (故障する = rusak)
+交差点;こうさてん;perempatan jalan / persimpangan;Titik temu simpang empat jalan raya berlampu lalu lintas
+寂しい;さびしい;merasa kesepian / sunyi;Perasaan hati sedih rindu karena merasa sendirian tanpa kawan (sinonim: さみしい)
+出ます;でます;keluar;Keluarnya uang kembalian dari mesin otomatis (お釣りが出る)
+触ります;さわります;menyentuh / memegang;Menyentuhkan tangan pada benda (benda yang disentuh ditandai に: ドアに触る)
+信号;しんごう;lampu lalu lintas;Lampu pengatur arus jalan raya (merah = 赤, kuning = 黄, hijau/biru = 青)
+駐車場;ちゅうしゃじょう;tempat parkir;Area petak lahan untuk memarkir kendaraan mobil/motor
+渡ります;わたります;menyeberang;Melintasi jembatan, jalan raya, atau sungai (jalan/jembatan ditandai を)
+道;みち;jalan / rute;Jalur jalan raya atau jalan setapak pemukiman
+聞きます;ききます;bertanya / menanyakan;Menanyakan informasi arah jalan atau alamat kepada orang (orang ditandai に)
+変えます;かえます;mengubah / mengganti;Mengubah setelan pengaturan suhu atau menukar warna (transitif)
+歩きます;あるきます;berjalan kaki;Melangkahkan kaki berpindah tempat (intransitif: 道を歩く)
+ガソリンスタンド;ガソリンスタンド;SPBU / pompa bensin;Stasiun pengisian bahan bakar kendaraan (gas station)
+一方通行;いっぽうつうこう;jalan satu arah;Rambu larangan kendaraan melaju berlawanan arah
+右折禁止;うせつきんし;dilarang belok kanan;Rambu lalu lintas larangan berbelok ke arah sisi kanan
+横断歩道;おうだんほどう;zebra cross / penyeberangan;Jalur garis putih di jalan aspal khusus tempat pejalan kaki menyeberang
+高速道路;こうそくどうろ;jalan tol / jalan bebas hambatan;Jalan raya ekspres khusus mobil berkecepatan tinggi antarkota
+坂;さか;tanjakan / turunan / lereng;Jalan berkontur miring menanjak atau menurun (坂を登る/下りる)
+止まれ;とまれ;berhenti!;Rambu marka jalan perintah berhenti penuh sebelum melanjutkan jalan
+車道;しゃどう;jalur jalan mobil;Bagian badan jalan aspal khusus kendaraan bermotor,  lawan dari 歩道
+進入禁止;しんにゅうきんし;dilarang masuk;Rambu larangan keras kendaraan melintas masuk ke area jalan tersebut
+駐車禁止;ちゅうしゃきんし;dilarang parkir;Rambu larangan memarkir kendaraan di tepi jalan tersebut
+通り;とおり;jalan raya / jalan besar;Jalan utama pusat pertokoan atau perlintasan kota
+踏切;ふみきり;perlintasan rel kereta api;Pintu palang perlintasan pertemuan jalan raya dengan rel kereta
+道路・交通;どうろ・こうつう;jalan raya & lalu lintas;Infrastruktur jalan perhubungan dan arus lalu lintas kendaraan
+歩道;ほどう;trotoar pejalan kaki;Jalur tepi jalan khusus pejalan kaki agar terhindar dari bahaya mobil,  lawan dari 車道
+歩道橋;ほどうきょう;jembatan penyeberangan orang (JPO);Jembatan layang di atas jalan raya agar pejalan kaki aman menyeberang
+聖徳太子;しょうとくたいし;Pangeran Shotoku;Tokoh negarawan agung awal sejarah Jepang penyebar agama Buddha (574–622)
+法隆寺;ほうりゅうじ;Kuil Horyuji;Kuil Buddha di Nara yang memiliki bangunan kayu tertua di dunia peninggalan Pangeran Shotoku

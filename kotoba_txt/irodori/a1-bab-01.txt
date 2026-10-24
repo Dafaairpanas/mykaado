@@ -1,0 +1,24 @@
+おはよう（ございます）;おはよう（ございます）;Selamat pagi.
+こんにちは;こんにちは;Selamat siang.
+こんばんは;こんばんは;Selamat malam.
+じゃあ、また;じゃあ、また;Sampai jumpa.
+おやすみ（なさい）;おやすみ（なさい）;Selamat tidur,  Selamat beristirahat.
+失礼します;しつれいします;Saya permisi,  Saya pamit.
+お先に失礼します;おさきにしつれいします;Permisi, saya duluan.
+お疲れさま（でした）;おつかれさま（でした）;Sampai jumpa, terima kasih atas kerja kerasnya.
+これ;これ;ini
+あめ;あめ;permen
+プレゼント;プレゼント;hadiah
+ありがとうございます;ありがとうございます;Terima kasih.
+すみません;すみません;Terima kasih.
+（どうも）ありがとう;（どうも）ありがとう;Terima kasih banyak.
+どうも;どうも;Makasih.
+落としましたよ;おとしましたよ;Anda menjatuhkannya.
+どうぞ;どうぞ;Silakan.
+いいえ;いいえ;Sama-sama.
+わあ;わあ;Wah! (menunjukkan rasa terkejut)
+すみません;すみません;Saya mohon maaf.
+ごめん;ごめん;Maaf.
+痛い！;いたい！;Aduh!
+おめでとうございます;おめでとうございます;Selamat!
+わかりました;わかりました;Saya mengerti.

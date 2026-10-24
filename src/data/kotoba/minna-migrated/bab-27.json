@@ -10,7 +10,8 @@
     "chapter": "Bab 27",
     "type": "particle",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Diikuti bentuk negatif untuk menegaskan keterbatasan (cth: 100円しかない = cuma punya 100 yen)"
   },
   {
     "id": "mn-27-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kelas les keterampilan atau kursus hobi (cth: 料理教室, ピアノ教室)"
   },
   {
     "id": "mn-27-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rentang waktu setelah momen tertentu (cth: 3か月後 = 3 bulan kemudian)"
   },
   {
     "id": "mn-27-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Waktu di masa depan yang belum tentu kapan (cth: いつか日本へ行きたい)"
   },
   {
     "id": "mn-27-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Ruangan dapur memasak gaya modern (sinonim: 台所)"
   },
   {
     "id": "mn-27-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Layanan binatu pakaian profesional (クリーニングに出す)"
   },
   {
     "id": "mn-27-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 27",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pujian atas karya, pemandangan, atau penampilan memukau"
   },
   {
     "id": "mn-27-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jalan raya rampung (道ができる), punya teman baru (友達ができる)"
   },
   {
     "id": "mn-27-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Karakter robot kucing abad ke-22 populer karya Fujiko F. Fujio"
   },
   {
     "id": "mn-27-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ruang sewa khusus untuk perayaan pesta bersama di apartemen"
   },
   {
     "id": "mn-27-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 27",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melihat atau mendengar dengan gamblang tanpa samar-samar (cth: はっきり見える)"
   },
   {
     "id": "mn-27-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hewan kesayangan piaraan di rumah (anjing, kucing, burung)"
   },
   {
     "id": "mn-27-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Menunjuk benda atau orang alternatif lain (ほかの人, ほかの本)"
   },
   {
     "id": "mn-27-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Saku pakaian untuk menyimpan uang kecil atau barang saku"
   },
   {
     "id": "mn-27-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Gedung hunian bertingkat modern berdinding beton kokoh"
   },
   {
     "id": "mn-27-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Bangunan tempat tinggal fisik rumah"
   },
   {
     "id": "mn-27-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Perabotan rumah tangga (meja, kursi, lemari pakaian)"
   },
   {
     "id": "mn-27-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Letusan bunga api warna-warni memukau di langit malam musim panas Jepang"
   },
   {
     "id": "mn-27-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Membuka kelas kursus baru, atau menyelenggarakan pameran (教室を開く)"
   },
   {
     "id": "mn-27-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Cakrawala angkasa biru di atas bumi"
   },
   {
     "id": "mn-27-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Wujud fisik geometri atau siluet suatu objek"
   },
   {
     "id": "mn-27-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 27",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mendirikan rumah atau gedung bangunan bertingkat (transitif: 家を建てる)"
   },
   {
     "id": "mn-27-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Objek terlihat masuk ke dalam pandangan mata tanpa perlu usaha (gunung ditandai が: 富士山が見える)"
   },
   {
     "id": "mn-27-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Sekelompok anak kecil"
   },
   {
     "id": "mn-27-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 27",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Merawat dan memberi makan hewan peliharaan (transitif: 犬を飼う)"
   },
   {
     "id": "mn-27-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pribadi diri sendiri secara mandiri (自分でやる)"
   },
   {
     "id": "mn-27-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 27",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Melakukan sesuatu tanpa kekangan atau aturan ketat (cth: 自由に使ってください)"
   },
   {
     "id": "mn-27-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pemeran karakter utama dalam novel, film, atau komik"
   },
   {
     "id": "mn-27-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hari depan kehidupan seseorang nanti (cth: 将来の夢)"
   },
   {
     "id": "mn-27-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perasaan gelisah memikirkan masa depan atau keselamatan orang"
   },
   {
     "id": "mn-27-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bunyi vokal yang keluar dari pita suara makhluk bernyawa (声が聞こえる)"
   },
   {
     "id": "mn-27-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Masa lampau bertahun-tahun yang lalu (昔々 = pada zaman dahulu)"
   },
   {
     "id": "mn-27-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 27",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Kereta atau mobil melaju di jalan tol (道・新幹線が走る)"
   },
   {
     "id": "mn-27-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tingkat kesukaan yang sangat mendalam,  lebih kuat dari 好き"
   },
   {
     "id": "mn-27-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hewan berbulu dan bersayap yang terbang di angkasa"
   },
   {
     "id": "mn-27-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Peralatan untuk memudahkan pekerjaan (cth: 大工の道具)"
   },
   {
     "id": "mn-27-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Gulungan ombak di pantai pesisir laut"
   },
   {
     "id": "mn-27-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 27",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Melayang di udara bebas dengan sayap atau mesin"
   },
   {
     "id": "mn-27-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hal luar biasa yang tidak masuk akal nalar biasa"
   },
   {
     "id": "mn-27-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 27",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memasang kantong saku, menempelkan stiker, atau menambahkan aksesoris"
   },
   {
     "id": "mn-27-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bunyi suara tertangkap gendang telinga tanpa disengaja (bunyi ditandai が: 音が聞こえる)"
   },
   {
     "id": "mn-27-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Bentuk halus dan sopan (sonkeigo) dari 人 (ひと)"
   },
   {
     "id": "mn-27-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Papan susun tempat menata buku bacaan"
   },
   {
     "id": "mn-27-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mengawali penyebutan contoh konkret ilustrasi"
   },
   {
     "id": "mn-27-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Anjungan tunai mandiri transaksi bank"
   },
   {
     "id": "mn-27-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Toko jasa pencucian dan penyetrikaan pakaian"
   },
   {
     "id": "mn-27-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Layanan penggandaan dokumen dan pengiriman faksimili di minimarket"
   },
   {
     "id": "mn-27-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Layanan pembelian tiket pertunjukan musik di mesin minimarket"
   },
   {
     "id": "mn-27-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Toko kelontong modern penyedia aneka layanan kebutuhan publik"
   },
   {
     "id": "mn-27-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ukuran standar cetak foto kertas harian (L-size)"
   },
   {
     "id": "mn-27-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Memotong atau mengecilkan ukuran pakaian agar pas di badan"
   },
   {
     "id": "mn-27-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Lembaran film proyektor gambar transparan"
   },
   {
     "id": "mn-27-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Reparasi bagian moncong depan sepatu yang rusak/terkelupas"
   },
   {
     "id": "mn-27-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mencuci pakaian wol/jas menggunakan larutan kimia khusus tanpa air"
   },
   {
     "id": "mn-27-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Lembaran pita negatif foto analog kamera analog"
   },
   {
     "id": "mn-27-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Layanan pos yang tersedia di kasir minimarket Jepang"
   },
   {
     "id": "mn-27-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pelapisan bahan kimia penolak butiran air pada jaket/sepatu"
   },
   {
     "id": "mn-27-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Format cetak foto memanjang horizontal berpemandangan luas"
   },
   {
     "id": "mn-27-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Reparasi mengganti tali jinjingan koper atau tas kulit yang putus"
   },
   {
     "id": "mn-27-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Memperbaiki bantalan hak sepatu wanita atau sol tumit sepatu pria yang aus"
   },
   {
     "id": "mn-27-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mengganti resleting jaket atau tas yang macet patah"
   },
   {
     "id": "mn-27-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mencetak foto kamera ke kertas foto, atau lembar tugas kertas"
   },
   {
     "id": "mn-27-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Menjahit kembali jahitan benang pakaian yang terlepas/robek"
   },
   {
     "id": "mn-27-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 27",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sebagian besar kuantitas (sekitar 85-95%)"
   },
   {
     "id": "mn-27-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perangkat mesin mekanik terprogram"
   },
   {
     "id": "mn-27-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mencetak ulang foto ke ukuran lembaran poster yang lebih besar"
   },
   {
     "id": "mn-27-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Pertokoan lingkungan sekitar pemukiman"
   },
   {
     "id": "mn-27-068",
@@ -881,7 +948,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Jasa terpadu servis perbaikan tas/sepatu dan duplikat kunci"
   },
   {
     "id": "mn-27-069",
@@ -894,7 +962,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Proses kimiawi memunculkan gambar dari rol film analog gelap"
   },
   {
     "id": "mn-27-070",
@@ -907,7 +976,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Membayar tagihan listrik, air, dan gas di kasir minimarket Jepang"
   },
   {
     "id": "mn-27-071",
@@ -920,7 +990,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Kunci tiruan serep pintu rumah atau kendaraan (kanji: 合鍵)"
   },
   {
     "id": "mn-27-072",
@@ -933,7 +1004,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Vending machine mandiri minuman dingin/panas"
   },
   {
     "id": "mn-27-073",
@@ -946,7 +1018,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Toko jasa pemotretan dan cetak pasfoto/album"
   },
   {
     "id": "mn-27-074",
@@ -959,7 +1032,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Proses mencuci rol film dan mencetaknya ke lembaran foto"
   },
   {
     "id": "mn-27-075",
@@ -972,7 +1046,8 @@
     "chapter": "Bab 27",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengambil hak libur kerja (cth: 休みを取る)"
   },
   {
     "id": "mn-27-076",
@@ -985,7 +1060,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ukuran kain baju mengecil setelah dicuci air panas (intransitif,  lawan dari 伸びる)"
   },
   {
     "id": "mn-27-077",
@@ -998,7 +1074,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mencetak lembar tambahan dari rol klise atau file foto yang sama"
   },
   {
     "id": "mn-27-078",
@@ -1011,7 +1088,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bahan rajut melar memanjang (intransitif,  lawan dari 縮む)"
   },
   {
     "id": "mn-27-079",
@@ -1024,7 +1102,8 @@
     "chapter": "Bab 27",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mencuci pakaian biasa memakai air dan detergen sabun"
   },
   {
     "id": "mn-27-080",
@@ -1037,7 +1116,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Membersihkan noda minyak, kopi, atau saus dari serat pakaian di laundry"
   },
   {
     "id": "mn-27-081",
@@ -1050,7 +1130,8 @@
     "chapter": "Bab 27",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Layanan menitipkan paket kurir kilat takkyubin di kasir minimarket"
   },
   {
     "id": "mn-27-082",
@@ -1063,7 +1144,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mengganti insole pengalas telapak kaki bagian dalam sepatu"
   },
   {
     "id": "mn-27-083",
@@ -1076,7 +1158,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Kurun waktu dari fajar matahari terbit hingga senja petang,  lawan dari 夜間"
   },
   {
     "id": "mn-27-084",
@@ -1089,7 +1172,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Membeli barang via pos, katalog, atau internet (disingkat 通販)"
   },
   {
     "id": "mn-27-085",
@@ -1102,7 +1186,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Aktivitas membuat mebel rak kayu sendiri di rumah saat akhir pekan"
   },
   {
     "id": "mn-27-086",
@@ -1115,7 +1200,8 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Buku cerita bergambar berpanel khas budaya Jepang"
   },
   {
     "id": "mn-27-087",
@@ -1128,6 +1214,7 @@
     "chapter": "Bab 27",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Harapan masa depan yang ingin diraih, atau mimpi saat tidur"
   }
 ]

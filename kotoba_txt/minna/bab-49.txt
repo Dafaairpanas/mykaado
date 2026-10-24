@@ -1,0 +1,65 @@
+～でいらっしゃいます;～でいらっしゃいます;Kata hormat (dari です)
+～でございます;～でございます;Kata sopan (dari です)
+～といいます;～といいます;Bernama ~
+～と申します;～ともうします;Kata merendah (bernama ~)
+～年～組;～ねん～くみ;Kelas ~
+～様;～さま;Kepada Yth. ~, Bapak ~, Ibu ~, Sdr. ~ (Kata hormat dari ~さん)
+iPS細胞;iPSさいぼう;Sel iPS
+あいさつ;あいさつ;Salam
+いらっしゃいます;いらっしゃいます;Ada, pergi, datang (Kata hormat dari います, いきます, きます)
+おっしゃいます;おっしゃいます;Berkata (Kata hormat dari いいます)
+お持ちです;おもちです;Mempunyai (Bentuk hormat dari もっています)
+お宅;おたく;Rumah
+ご存じです;ごぞんじです;Mengetahui (Kata hormat dari しっています)
+ご覧になります;ごらんになります;Melihat (Kata hormat dari みます)
+それでは;それでは;Baiklah
+たまに;たまに;Kadang-kadang
+ちょっとも;ちょっとも;Sama sekali (diikuti bentuk negatif)
+では;では;Kalau begitu (Bentuk hormat dari じゃ)
+どなたでも;どなたでも;Siapa saja (Kata hormat dari だれでも)
+なさいます;なさいます;Melakukan (Kata hormat dari します)
+バス停;バスてい;Halte
+ヒト;ヒト;Manusia
+マウス;マウス;Tikus percobaan
+よろしくお伝えください;よろしくおつたえください;Tolong sampaikan salam saya
+医学部;いがくぶ;Fakultas kedokteran
+遠慮なく;えんりょなく;Tanpa malu-malu
+奥様;おくさま;Nyonya (Kata hormat dari おくさん)
+過ごします;すごします;Menghabiskan (waktu), melewatkan
+会場;かいじょう;Tempat pertemuan
+灰皿;はいざら;Asbak
+開発します;かいはつします;Mengembangkan
+掛けます;かけます;Duduk (di kursi)
+活動;かつどう;Kegiatan
+寄ります;よります;Mampir (ke)
+帰りに;かえりに;Pada waktu pulang
+休みます;やすみます;Beristirahat
+勤めます;つとめます;Bekerja (di perusahaan)
+経歴;けいれき;Riwayat hidup, CV
+講演会;こうえんかい;Seminar
+講師;こうし;Pembicara
+作家;さっか;Pengarang
+作曲;さっきょく;Gubahan lagu, komposisi lagu
+作品;さくひん;Karya
+失礼いたします;しつれいいたします;Permisi (Bentuk merendahkan diri dari しつれいします)
+受賞します;じゅしょうします;Meraih / Menerima hadiah
+召し上がります;めしあがります;Makan, minum (Kata hormat dari たべます, のみます)
+障害;しょうがい;Cacat
+進みます;すすみます;Lanjut kuliah di
+世界的に;せかいてきに;Seluruh dunia
+多くの～;おおくの～;Banyak ~
+長男;ちょうなん;Anak laki-laki tertua
+熱を出します;ねつをだします;Menjadi demam
+貿易;ぼうえき;Perdagangan
+目指します;めざします;Menargetkan
+利用します;りようします;Menggunakan
+旅館;りょかん;Penginapan
+お月見;おつきみ;Acara Melihat Bulan
+お正月;おしょうがつ;Tahun baru
+お盆;おぼん;Perayaan Bon
+こどもの日;こどものひ;Hari Anak
+ひな祭り;ひなまつり;Perayaan Boneka
+季節の行事;きせつのぎょうじ;Acara Musiman
+七夕;たなばた;Tanabata / Perayaan Bintang
+大みそか;おおみそか;Malam Tahun Baru
+豆まき;まめまき;Upacara menghamburkan kacang

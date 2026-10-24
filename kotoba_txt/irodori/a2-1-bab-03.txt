@@ -1,0 +1,50 @@
+季節;きせつ;musim, pergantian musim;iklim periodik dalam siklus satu tahun
+言葉;ことば;kata, kosakata, bahasa;ujaran kata lisan maupun tulisan
+暑い;あつい;panas (cuaca/hawa);suhu udara lingkungan yang panas terik
+涼しい;すずしい;sejuk, segar;hawa udara sejuk menyegarkan khas awal musim gugur
+寒い;さむい;dingin (cuaca/hawa);suhu udara lingkungan yang menusuk dingin
+暖かい;あたたかい;hangat (cuaca/hawa);suhu udara musim semi yang nyaman tidak dingin
+じめじめする;じめじめする;lembap basah, pengap lembap;kondisi ruangan atau udara berkadar uap air tinggi
+蒸し暑い;むしあつい;gerah, panas menyengat;hawa panas terik campur lembap tinggi khas musim panas Jepang
+雨;あめ;hujan;butiran tetesan air yang turun dari langit
+降る;ふる;turun, mengguyur (hujan/salju);presipitasi cuaca dari langit (雨・雪が降る)
+雪;ゆき;salju;butiran kristal es putih dari langit di musim dingin
+桜;さくら;bunga sakura;bunga ikonik mekar khas musim semi Jepang
+花;はな;bunga;tumbuhan berbunga aneka warna
+咲く;さく;mekar;kelopak bunga membuka mekar (花が咲く)
+紅葉;もみじ;daun momiji, daun musim gugur;perubahan warna merah keemasan daun pohon mapel musim gugur
+きれい[な];きれい[な];indah, bersih, cantik;keindahan pemandangan rupa atau kebersihan ruangan
+蝉;セミ;tonggeret, cicada;serangga musim panas yang berderik nyaring di dahan pohon
+鳴く;なく;berbunyi, bersuara (hewan);bunyi kicauan burung, gonggong hewan, atau derik serangga
+春;はる;musim semi;musim mekarnya bunga (Maret - Mei di Jepang)
+梅雨;つゆ;musim hujan tsuyu;periode hujan lebat lembap sekitar Juni - pertengahan Juli di Jepang
+夏;なつ;musim panas;musim terik bersuhu tinggi (Juni - Agustus)
+秋;あき;musim gugur;musim panen dan daun memerah bersuhu sejuk (September - November)
+冬;ふゆ;musim dingin;musim salju dan suhu beku (Desember - Februari)
+たくさん;たくさん;banyak;jumlah kuantitas benda atau tindakan yang melimpah
+学校;がっこう;sekolah;lembaga pendidikan formal
+なる;なる;menjadi, berganti status;berubah keadaan menjadi kondisi tertentu (misal 休みになる tiba masa libur)
+一年中;いちねんじゅう;sepanjang tahun;berlangsung terus menerus selama 12 bulan penuh
+長い;ながい;panjang;ukuran bentang jarak atau durasi waktu yang lama
+ずっと;ずっと;terus-menerus, jauh lebih;berlangsung tanpa putus atau perbandingan yang terpaut jauh
+雨季;うき;musim penghujan;musim banyak turun hujan di wilayah tropis
+乾季;かんき;musim kemarau;musim kering tanpa banyak hujan di wilayah tropis
+四季;しき;empat musim;siklus lengkap musim semi, panas, gugur, dan dingin
+同じ;おなじ;sama, serupa;tidak memiliki perbedaan wujud maupun sifat
+〜度;〜ど;... derajat;satuan ukuran suhu temperatur (misal 40度)
+マイナス;マイナス;minus, di bawah nol;tanda nilai suhu di bawah titik beku (misal マイナス5度)
+短い;みじかい;pendek, singkat;ukuran dimensi jarak pendek atau durasi waktu sebentar
+そうなんですか;そうなんですか;oh begitu ya;ungkapan menyimak info baru yang belum diketahui sebelumnya
+果物;くだもの;buah-buahan;hasil bumi buah manis segar tanaman
+おいしい;おいしい;enak, lezat;cita rasa makanan yang nikmat di lidah
+景色;けしき;pemandangan alam;pemandangan visual panorama sekitar
+山;やま;gunung;dataran alam yang menjulang tinggi
+遊ぶ;あそぶ;bermain, bersenang-senang;melakukan aktivitas hiburan dan rekreasi
+好き[な];すき[な];disukai, gemar;memiliki rasa gemar dan minat positif pada suatu hal
+苦手[な];にがて[な];tidak tahan, kurang cocok, payah;lemah dalam suatu hal atau tidak tahan hawa tertentu (暑さが苦手)
+いちばん;いちばん;paling, nomor satu;tingkatan superlatif teratas di antara semuanya
+どうして;どうして;mengapa, kenapa;kata tanya menanyakan alasan atau penyebab
+どの;どの;yang mana;kata tanya memilih satu objek di antara tiga pilihan atau lebih
+〜よね;〜よね;... ya kan?;akhiran kalimat mengajak lawan bicara menyetujui pendapat pembicara
+葡萄;ぶどう;buah anggur;buah buni manis berair bergerombol
+梨;なし;buah pir jepang;buah pir berair manis renyah khas Asia

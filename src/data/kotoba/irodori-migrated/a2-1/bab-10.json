@@ -11,7 +11,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "nama-nama hari (Senin s.d. Minggu)"
   },
   {
     "id": "ir-a2-1-10-002",
@@ -25,7 +26,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "durasi atau waktu jadwal acara"
   },
   {
     "id": "ir-a2-1-10-003",
@@ -39,7 +41,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pengeluaran dana yang dibutuhkan untuk suatu kegiatan"
   },
   {
     "id": "ir-a2-1-10-004",
@@ -53,7 +56,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "frekuensi berulang bulanan"
   },
   {
     "id": "ir-a2-1-10-005",
@@ -67,7 +71,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "nama-nama hari (Senin s.d. Minggu)"
   },
   {
     "id": "ir-a2-1-10-006",
@@ -81,7 +86,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "gedung pertemuan fasilitas publik untuk warga lokal"
   },
   {
     "id": "ir-a2-1-10-007",
@@ -95,7 +101,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menghubungi panitia untuk meminta keterangan lebih lanjut"
   },
   {
     "id": "ir-a2-1-10-008",
@@ -109,7 +116,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "awal dimulainya kegiatan (misal 10月スタート mulai Oktober)"
   },
   {
     "id": "ir-a2-1-10-009",
@@ -123,7 +131,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "food"
+    "semantic": "food",
+    "data4": "waktu puncak kesegaran dan kelezatan bahan pangan musiman"
   },
   {
     "id": "ir-a2-1-10-010",
@@ -137,7 +146,8 @@
     "chapter": "Bab 10",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengecap kelezatan rasa kuliner atau menikmati suasana"
   },
   {
     "id": "ir-a2-1-10-011",
@@ -151,7 +161,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "jumlah total keseluruhan pertemuan kelas (misal 全4回 total 4 sesi)"
   },
   {
     "id": "ir-a2-1-10-012",
@@ -165,7 +176,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "ruangan praktik memasak yang lengkap dengan kompor dan perabot"
   },
   {
     "id": "ir-a2-1-10-013",
@@ -179,7 +191,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tiap-tiap bagian atau kelompok (misal 各回 setiap sesi)"
   },
   {
     "id": "ir-a2-1-10-014",
@@ -193,7 +206,8 @@
     "chapter": "Bab 10",
     "type": "adv",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "sistem penerimaan peserta berdasarkan urutan tercepat mendaftar"
   },
   {
     "id": "ir-a2-1-10-015",
@@ -207,7 +221,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "seni menulis indah aksara kanji dengan kuas dan tinta bak"
   },
   {
     "id": "ir-a2-1-10-016",
@@ -221,7 +236,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "keterangan lengkap tanggal beserta jam acara"
   },
   {
     "id": "ir-a2-1-10-017",
@@ -235,7 +251,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "awalan urutan hitungan formal (misal 第3木曜日 hari Kamis ke-3)"
   },
   {
     "id": "ir-a2-1-10-018",
@@ -249,7 +266,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "ditujukan atau dirancang khusus untuk orang asing"
   },
   {
     "id": "ir-a2-1-10-019",
@@ -263,7 +281,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kelas pengenalan singkat untuk mencoba kegiatan secara langsung"
   },
   {
     "id": "ir-a2-1-10-020",
@@ -277,7 +296,8 @@
     "chapter": "Bab 10",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mempelajari keahlian hingga mahir atau mengenakan pakaian di tubuh"
   },
   {
     "id": "ir-a2-1-10-021",
@@ -291,7 +311,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "satuan bulan dalam sistem kalender"
   },
   {
     "id": "ir-a2-1-10-022",
@@ -305,7 +326,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "buku materi pegangan pelajaran kelas"
   },
   {
     "id": "ir-a2-1-10-023",
@@ -319,7 +341,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "peralatan yang dipakai bekerja atau berlatih"
   },
   {
     "id": "ir-a2-1-10-024",
@@ -333,7 +356,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "tiap-tiap individu peserta (membawa perlengkapan sendiri)"
   },
   {
     "id": "ir-a2-1-10-025",
@@ -347,7 +371,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "melihat-lihat secara langsung proses kegiatan untuk belajar"
   },
   {
     "id": "ir-a2-1-10-026",
@@ -361,7 +386,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "proses mendaftar untuk mengikuti kegiatan"
   },
   {
     "id": "ir-a2-1-10-027",
@@ -375,7 +401,8 @@
     "chapter": "Bab 10",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "anjuran santun mempersilakan membawa perlengkapan sendiri"
   },
   {
     "id": "ir-a2-1-10-028",
@@ -389,7 +416,8 @@
     "chapter": "Bab 10",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "bentuk sopan (sonkeigo) dari 参加しています"
   },
   {
     "id": "ir-a2-1-10-029",
@@ -403,7 +431,8 @@
     "chapter": "Bab 10",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "undangan sangat sopan (sonkeigo) untuk mempersilakan hadir"
   },
   {
     "id": "ir-a2-1-10-030",
@@ -417,7 +446,8 @@
     "chapter": "Bab 10",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "membutuhkan pengeluaran dana atau waktu tertentu (費用がかかる)"
   },
   {
     "id": "ir-a2-1-10-031",
@@ -431,7 +461,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "seni bela diri defensif tradisional khas Jepang"
   },
   {
     "id": "ir-a2-1-10-032",
@@ -445,7 +476,8 @@
     "chapter": "Bab 10",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "paket kursus yang selesai dalam sekian sesi (misal 1回完結 tuntas 1 sesi)"
   },
   {
     "id": "ir-a2-1-10-033",
@@ -459,7 +491,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ruangan senam atau latihan fisik di balai komunitas"
   },
   {
     "id": "ir-a2-1-10-034",
@@ -473,7 +506,8 @@
     "chapter": "Bab 10",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pakaian yang nyaman dan tidak menghalangi gerak badan"
   },
   {
     "id": "ir-a2-1-10-035",
@@ -487,7 +521,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "setelan baju latihan bela diri tradisional (judo, aikido, karate)"
   },
   {
     "id": "ir-a2-1-10-036",
@@ -501,7 +536,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menyatakan persetujuan bahwa hal tersebut tidak mengapa"
   },
   {
     "id": "ir-a2-1-10-037",
@@ -515,7 +551,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menyatakan tidak dibutuhkannya suatu hal"
   },
   {
     "id": "ir-a2-1-10-038",
@@ -529,7 +566,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "peralatan yang dipakai bekerja atau berlatih"
   },
   {
     "id": "ir-a2-1-10-039",
@@ -543,7 +581,8 @@
     "chapter": "Bab 10",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "terlibat aktif dalam sebuah acara atau kursus"
   },
   {
     "id": "ir-a2-1-10-040",
@@ -557,7 +596,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "kelompok rombongan belajar dalam pelatihan"
   },
   {
     "id": "ir-a2-1-10-041",
@@ -571,7 +611,8 @@
     "chapter": "Bab 10",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menyatakan tidak dibutuhkannya suatu hal"
   },
   {
     "id": "ir-a2-1-10-042",
@@ -585,7 +626,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "tahap awal permulaan proses"
   },
   {
     "id": "ir-a2-1-10-043",
@@ -599,7 +641,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "bagian yang tersisa atau tahapan berikutnya"
   },
   {
     "id": "ir-a2-1-10-044",
@@ -613,7 +656,8 @@
     "chapter": "Bab 10",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "meminta keterangan informasi (人に聞く)"
   },
   {
     "id": "ir-a2-1-10-045",
@@ -627,7 +671,8 @@
     "chapter": "Bab 10",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menanyakan ketersediaan tempat pendaftaran yang belum terisi"
   },
   {
     "id": "ir-a2-1-10-046",
@@ -641,7 +686,8 @@
     "chapter": "Bab 10",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "melunasi tagihan biaya uang tunai atau nontunai"
   },
   {
     "id": "ir-a2-1-10-047",
@@ -655,7 +701,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kuota pendaftaran telah terpenuhi seluruhnya"
   },
   {
     "id": "ir-a2-1-10-048",
@@ -669,7 +716,8 @@
     "chapter": "Bab 10",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ungkapan formal sopan meminta lawan bicara menunggu sejenak"
   },
   {
     "id": "ir-a2-1-10-049",
@@ -683,7 +731,8 @@
     "chapter": "Bab 10",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memiliki rasa penasaran positif pada suatu bidang (〜に興味がある)"
   },
   {
     "id": "ir-a2-1-10-050",
@@ -697,7 +746,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata sambung pilihan alternatif di antara dua opsi pertanyaan"
   },
   {
     "id": "ir-a2-1-10-051",
@@ -711,7 +761,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "rangkaian kurikulum program pelatihan terpadu"
   },
   {
     "id": "ir-a2-1-10-052",
@@ -725,7 +776,8 @@
     "chapter": "Bab 10",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "keseluruhan bagian tanpa terkecuali"
   },
   {
     "id": "ir-a2-1-10-053",
@@ -739,7 +791,8 @@
     "chapter": "Bab 10",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mempersiapkan segala kebutuhan sebelum dimulai"
   },
   {
     "id": "ir-a2-1-10-054",
@@ -753,7 +806,8 @@
     "chapter": "Bab 10",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menambah tingkatan atau intensitas lebih jauh"
   },
   {
     "id": "ir-a2-1-10-055",
@@ -767,7 +821,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "siklus kurun waktu 7 hari"
   },
   {
     "id": "ir-a2-1-10-056",
@@ -781,7 +836,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata tanya untuk menanyakan frekuensi pengulangan"
   },
   {
     "id": "ir-a2-1-10-057",
@@ -795,7 +851,8 @@
     "chapter": "Bab 10",
     "type": "counter",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "satuan hitung frekuensi kali pengulangan (misal 1回 1 kali)"
   },
   {
     "id": "ir-a2-1-10-058",
@@ -809,7 +866,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ragam lisan santai bermakna tidak perlu membayar uang"
   },
   {
     "id": "ir-a2-1-10-059",
@@ -823,7 +881,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kertas selebaran pamflet informasi kegiatan"
   },
   {
     "id": "ir-a2-1-10-060",
@@ -837,7 +896,8 @@
     "chapter": "Bab 10",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "membawa barang menuju ke arah pembicara"
   },
   {
     "id": "ir-a2-1-10-061",
@@ -851,7 +911,8 @@
     "chapter": "Bab 10",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "ungkapan sopan menyapa saat hendak bertanya atau berkonsultasi"
   },
   {
     "id": "ir-a2-1-10-062",
@@ -865,7 +926,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "pengajar atau aturan yang sangat tegas tanpa kelonggaran"
   },
   {
     "id": "ir-a2-1-10-063",
@@ -879,7 +941,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kertas isian resmi pengajuan pendaftaran"
   },
   {
     "id": "ir-a2-1-10-064",
@@ -893,7 +956,8 @@
     "chapter": "Bab 10",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "mengenalkan orang atau hal baru kepada khalayak"
   },
   {
     "id": "ir-a2-1-10-065",
@@ -907,7 +971,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "bahasa pertama yang dikuasai sejak kecil di tanah kelahiran"
   },
   {
     "id": "ir-a2-1-10-066",
@@ -921,7 +986,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kata tanya menanyakan maksud atau karakter hal"
   },
   {
     "id": "ir-a2-1-10-067",
@@ -935,7 +1001,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "kandungan maksud arti suatu kata atau ucapan"
   },
   {
     "id": "ir-a2-1-10-068",
@@ -949,7 +1016,8 @@
     "chapter": "Bab 10",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "memanfaatkan alat atau bahasa dalam beraktivitas"
   },
   {
     "id": "ir-a2-1-10-069",
@@ -963,7 +1031,8 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "urutan waktu sebelum atau posisi di depan"
   },
   {
     "id": "ir-a2-1-10-070",
@@ -977,6 +1046,7 @@
     "chapter": "Bab 10",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "menanyakan jenis aktivitas atau perkara yang dimaksud"
   }
 ]

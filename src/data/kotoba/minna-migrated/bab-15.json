@@ -10,7 +10,8 @@
     "chapter": "Bab 15",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bentuk sangat hormat (sonkeigo) dari います untuk orang lain"
   },
   {
     "id": "mn-15-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Buku panduan daftar produk dagang bergambar"
   },
   {
     "id": "mn-15-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 15",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Sapaan meminta maaf atau menginterupsi orang lain secara santun"
   },
   {
     "id": "mn-15-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Program aplikasi komputer (kependekan ソフトウェア)"
   },
   {
     "id": "mn-15-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Sapaan ramah kepada segenap hadirin atau teman-teman"
   },
   {
     "id": "mn-15-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ilmu perekonomian dan aktivitas pasar keuangan"
   },
   {
     "id": "mn-15-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 15",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Melakukan riset ilmiah akademis atau pengujian laboratorium"
   },
   {
     "id": "mn-15-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jenjang sekolah menengah atas 3 tahun (高等高校)"
   },
   {
     "id": "mn-15-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 15",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membuat barang kerajinan, masakan, atau karya (transitif)"
   },
   {
     "id": "mn-15-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kantor dinas pemerintah kota"
   },
   {
     "id": "mn-15-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 15",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memori ingatan masa lalu yang terlintas kembali di kepala"
   },
   {
     "id": "mn-15-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kumpulan data dokumen materi referensi rapat atau riset"
   },
   {
     "id": "mn-15-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 15",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Dokter spesialis perawatan gigi (sinonim: 歯科医)"
   },
   {
     "id": "mn-15-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Tabel waktu jadwal tiba dan berangkat kereta atau bus"
   },
   {
     "id": "mn-15-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 15",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menetap tinggal di suatu tempat (tempat ditandai に: 大阪に住んでいます)"
   },
   {
     "id": "mn-15-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Komoditas barang hasil produksi pabrik manufaktur"
   },
   {
     "id": "mn-15-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 15",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Membuat kapal besar, gedung, atau meracik minuman sake"
   },
   {
     "id": "mn-15-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 15",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengetahui info (kondisi tahu: 知っています,  kondisi tidak tahu: 知りません)"
   },
   {
     "id": "mn-15-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 15",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menaruh barang di atas meja atau tempat tertentu (tempat ditandai に)"
   },
   {
     "id": "mn-15-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Perangkat saku digital khusus referensi kamus bahasa"
   },
   {
     "id": "mn-15-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Status seseorang yang belum berkeluarga (single)"
   },
   {
     "id": "mn-15-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 15",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menyerahkan barang untuk ditukar dengan uang,  lawan dari 買います"
   },
   {
     "id": "mn-15-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Busana penutup tubuh (sopan: お洋服)"
   },
   {
     "id": "mn-15-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Ahli rekayasa teknik mesin, elektro, atau IT (engineer)"
   },
   {
     "id": "mn-15-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pencari dan peliput berita investigasi media massa"
   },
   {
     "id": "mn-15-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pemain olahragawan profesional di bidang atletik atau bola"
   },
   {
     "id": "mn-15-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Perancang busana pakaian, produk industri, atau grafis"
   },
   {
     "id": "mn-15-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Nama program wawancara fiktif dalam buku Minna no Nihongo"
   },
   {
     "id": "mn-15-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Tenaga medis penyembuh orang sakit (sopan: お医者さん)"
   },
   {
     "id": "mn-15-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Orang yang mengemudikan kendaraan mobil, bus, atau taksi"
   },
   {
     "id": "mn-15-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Karyawan staf pelayanan operasional stasiun kereta api"
   },
   {
     "id": "mn-15-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Komposer nada atau pemain alat musik profesional"
   },
   {
     "id": "mn-15-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Vokalis yang membawakan nyanyian lagu secara profesional"
   },
   {
     "id": "mn-15-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Seniman ahli pembuat karya seni lukisan"
   },
   {
     "id": "mn-15-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Pegawai staf yang bekerja di perusahaan komersial"
   },
   {
     "id": "mn-15-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pejabat perwakilan hubungan diplomatik luar negeri negara"
   },
   {
     "id": "mn-15-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Tenaga medis perawat pasien di rumah sakit"
   },
   {
     "id": "mn-15-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Menyebut profesi pendidik diri sendiri (kalau menyapa orang lain: 先生)"
   },
   {
     "id": "mn-15-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Karyawan yang bertugas di kantor perbankan"
   },
   {
     "id": "mn-15-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Petugas penegak hukum dan ketertiban masyarakat"
   },
   {
     "id": "mn-15-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ahli perancang struktur desain bangunan gedung"
   },
   {
     "id": "mn-15-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Ilmuwan riset sains atau humaniora"
   },
   {
     "id": "mn-15-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Pegawai dinas aparatur sipil negara di pemerintahan"
   },
   {
     "id": "mn-15-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Penulis karya sastra buku novel atau naskah"
   },
   {
     "id": "mn-15-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Mata pencaharian hidup seseorang"
   },
   {
     "id": "mn-15-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tokoh wakil rakyat atau pejabat pemerintahan partai politik"
   },
   {
     "id": "mn-15-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Juru masak profesional yang mengantongi sertifikat resmi"
   },
   {
     "id": "mn-15-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Staf karyawan yang melayani pembeli di toko/restoran"
   },
   {
     "id": "mn-15-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 15",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pemeran seni peran drama panggung teater atau film layar lebar"
   },
   {
     "id": "mn-15-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Penata rambut profesional (hairstylist) di salon kecantikan"
   },
   {
     "id": "mn-15-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ahli hukum pembela klien di pengadilan peradilan"
   },
   {
     "id": "mn-15-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Staf yang bertugas menangani surat dan paket di kantor pos"
   },
   {
     "id": "mn-15-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Ahli pangkas rambut pria profesional di pangkas rambut barbershop"
   },
   {
     "id": "mn-15-054",
@@ -699,6 +752,7 @@
     "chapter": "Bab 15",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Pusat perbelanjaan barang elektronik dan pop culture terkenal di Osaka"
   }
 ]

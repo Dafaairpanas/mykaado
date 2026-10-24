@@ -10,7 +10,8 @@
     "chapter": "Bab 32",
     "type": "adv",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Tingkat intensitas yang begitu mencolok pada objek di luar kedua pembicara"
   },
   {
     "id": "mn-32-002",
@@ -23,7 +24,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Penyakit flu akut musiman disertai demam tinggi"
   },
   {
     "id": "mn-32-003",
@@ -36,7 +38,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Suara bising mengganggu telinga, atau orang yang cerewet mengomel"
   },
   {
     "id": "mn-32-004",
@@ -49,7 +52,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Dapur pacu mesin pembakaran kendaraan (engine)"
   },
   {
     "id": "mn-32-005",
@@ -62,7 +66,8 @@
     "chapter": "Bab 32",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kejanggalan tidak wajar, atau hal humor yang menggelikan tawa"
   },
   {
     "id": "mn-32-006",
@@ -75,7 +80,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Luka lecet atau cedera akibat benturan/jatuh (けがをする)"
   },
   {
     "id": "mn-32-007",
@@ -88,7 +94,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tingkat intensitas ekstrem pada hal dekat pembicara (cth: こんなにたくさん)"
   },
   {
     "id": "mn-32-008",
@@ -101,7 +108,8 @@
     "chapter": "Bab 32",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Arus jalan raya atau kereta menjadi lancar sepi (intransitif: 道がすく)"
   },
   {
     "id": "mn-32-009",
@@ -114,7 +122,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tekanan mental ketegangan batin pikiran (ストレスがたまる = stres menumpuk)"
   },
   {
     "id": "mn-32-010",
@@ -127,7 +136,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Gejala batuk di tenggorokan (せきが出る / せきをする)"
   },
   {
     "id": "mn-32-011",
@@ -140,7 +150,8 @@
     "chapter": "Bab 32",
     "type": "expression",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Ungkapan simpati saat mendengar kabar musibah atau penyakit lawan bicara"
   },
   {
     "id": "mn-32-012",
@@ -153,7 +164,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "object"
+    "semantic": "object",
+    "data4": "Tingkat intensitas yang berkaitan dengan lawan bicara"
   },
   {
     "id": "mn-32-013",
@@ -166,7 +178,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kelompok regu olahraga atau tim kerja (team)"
   },
   {
     "id": "mn-32-014",
@@ -179,7 +192,8 @@
     "chapter": "Bab 32",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Terjangkit sakit selesma batuk pilek (風邪をひく)"
   },
   {
     "id": "mn-32-015",
@@ -192,7 +206,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rentang waktu di masa lampau (cth: 3日前 = 3 hari yang lalu)"
   },
   {
     "id": "mn-32-016",
@@ -205,7 +220,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Cedera kulit melepuh terkena panas api atau air mendidih (やけどをする)"
   },
   {
     "id": "mn-32-017",
@@ -218,7 +234,8 @@
     "chapter": "Bab 32",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Curahan hujan atau salju berhenti turun (intransitif: 雨がやむ)"
   },
   {
     "id": "mn-32-018",
@@ -231,7 +248,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "place"
+    "semantic": "place",
+    "data4": "Kawasan benua Eropa"
   },
   {
     "id": "mn-32-019",
@@ -244,7 +262,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Barang hoki pembawa mujur ramalan horoskop (lucky item)"
   },
   {
     "id": "mn-32-020",
@@ -257,7 +276,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "body"
+    "semantic": "body",
+    "data4": "Organ pencernaan lambung perut di dalam tubuh (胃が痛い = sakit maag)"
   },
   {
     "id": "mn-32-021",
@@ -270,7 +290,8 @@
     "chapter": "Bab 32",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Aktivitas latihan fisik raga untuk menjaga kebugaran"
   },
   {
     "id": "mn-32-022",
@@ -283,7 +304,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Rasi bintang zodiak Taurus (20 April - 20 Mei)"
   },
   {
     "id": "mn-32-023",
@@ -296,7 +318,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Cakrawala angkasa biru di atas bumi"
   },
   {
     "id": "mn-32-024",
@@ -309,7 +332,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi tubuh bugar prima bebas dari penyakit"
   },
   {
     "id": "mn-32-025",
@@ -322,7 +346,8 @@
     "chapter": "Bab 32",
     "type": "adj-na",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi jiwa raga bugar dan penuh energi"
   },
   {
     "id": "mn-32-026",
@@ -335,7 +360,8 @@
     "chapter": "Bab 32",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Berhasil meraih nilai standar kelulusan ujian (ujian ditandai に: 試験に合格する)"
   },
   {
     "id": "mn-32-027",
@@ -348,7 +374,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Dilekatkan di depan kata benda antarbangsa (cth: 国際会議, 国際結婚)"
   },
   {
     "id": "mn-32-028",
@@ -361,7 +388,8 @@
     "chapter": "Bab 32",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Jalanan macet atau ruangan berjejal orang (intransitif: 道がこむ)"
   },
   {
     "id": "mn-32-029",
@@ -374,7 +402,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Waktu malam pada hari ini (sinonim: 今晩 / こんばん)"
   },
   {
     "id": "mn-32-030",
@@ -387,7 +416,8 @@
     "chapter": "Bab 32",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengalami kebimbangan atau jalan buntu masalah sulit (intransitif)"
   },
   {
     "id": "mn-32-031",
@@ -400,7 +430,8 @@
     "chapter": "Bab 32",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mengalami kegagalan dalam ujian atau rencana (ujian ditandai に: 試験に失敗する)"
   },
   {
     "id": "mn-32-032",
@@ -413,7 +444,8 @@
     "chapter": "Bab 32",
     "type": "adv",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jumlah kuantitas atau waktu yang telah memenuhi kebutuhan,  lawan dari 不十分"
   },
   {
     "id": "mn-32-033",
@@ -426,7 +458,8 @@
     "chapter": "Bab 32",
     "type": "v2",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Turut bertanding di laga lomba atau hadir pesta (pertandingan ditandai に: 試合に出る)"
   },
   {
     "id": "mn-32-034",
@@ -439,7 +472,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Jaringan pipa air leding bersih perkotaan (水道の蛇口)"
   },
   {
     "id": "mn-32-035",
@@ -452,7 +486,8 @@
     "chapter": "Bab 32",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Meraih keberhasilan gemilang dalam usaha/eksperimen (transitif/intransitif)"
   },
   {
     "id": "mn-32-036",
@@ -465,7 +500,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Benda langit gemerlap di angkasa malam hari"
   },
   {
     "id": "mn-32-037",
@@ -478,7 +514,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Prediksi peruntungan nasib berdasarkan rasi horoskop bintang"
   },
   {
     "id": "mn-32-038",
@@ -491,7 +528,8 @@
     "chapter": "Bab 32",
     "type": "v2",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Cuaca langit cerah tanpa awan hitam (intransitif: 天気が晴れる)"
   },
   {
     "id": "mn-32-039",
@@ -504,7 +542,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Arah mata angin tempat matahari terbenam"
   },
   {
     "id": "mn-32-040",
@@ -517,7 +556,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Batuan mineral keras alami di tanah"
   },
   {
     "id": "mn-32-041",
@@ -530,7 +570,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Panggilan penghormatan untuk dokter di klinik atau guru pengajar"
   },
   {
     "id": "mn-32-042",
@@ -543,7 +584,8 @@
     "chapter": "Bab 32",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Demam atau hujan terus berlanjut tanpa jeda (intransitif: 熱が続く)"
   },
   {
     "id": "mn-32-043",
@@ -556,7 +598,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Bintang surya pusat tata surya pemberi panas dan cahaya bagi bumi"
   },
   {
     "id": "mn-32-044",
@@ -569,7 +612,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Waktu malam yang sudah larut atau kedatangan terlambat (cth: 夜遅く)"
   },
   {
     "id": "mn-32-045",
@@ -582,7 +626,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Arah mata angin tempat matahari terbit"
   },
   {
     "id": "mn-32-046",
@@ -595,7 +640,8 @@
     "chapter": "Bab 32",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Memenangkan undian nomor berhadiah kupon (lotre ditandai に: 宝くじに当たる)"
   },
   {
     "id": "mn-32-047",
@@ -608,7 +654,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi fisik letih akibat beban kerja lembur berlebihan"
   },
   {
     "id": "mn-32-048",
@@ -621,7 +668,8 @@
     "chapter": "Bab 32",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Langit tertutup gumpalan awan mendung abu-abu (intransitif)"
   },
   {
     "id": "mn-32-049",
@@ -634,7 +682,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Arah mata angin ke arah selatan bumi"
   },
   {
     "id": "mn-32-050",
@@ -647,7 +696,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hembusan arus udara mengalir di atmosfer (風が吹く = angin bertiup)"
   },
   {
     "id": "mn-32-051",
@@ -660,7 +710,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tiket kupon undian berhadiah uang tunai jutaan yen (宝くじを買う)"
   },
   {
     "id": "mn-32-052",
@@ -673,7 +724,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Arah mata angin ke arah utara kutub bumi"
   },
   {
     "id": "mn-32-053",
@@ -686,7 +738,8 @@
     "chapter": "Bab 32",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Bekerja melebihi batas kekuatan tubuh hingga mengorbankan kesehatan"
   },
   {
     "id": "mn-32-054",
@@ -699,7 +752,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "time"
+    "semantic": "time",
+    "data4": "Waktu senja saat matahari mulai tenggelam (sekitar pukul 16:00 - 18:00)"
   },
   {
     "id": "mn-32-055",
@@ -712,7 +766,8 @@
     "chapter": "Bab 32",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mendinginkan minuman es atau mengompres lebam dahi (transitif)"
   },
   {
     "id": "mn-32-056",
@@ -725,7 +780,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hubungan kasih sayang sepasang kekasih yang saling mencintai"
   },
   {
     "id": "mn-32-057",
@@ -738,7 +794,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Pasangan tambatan hati dalam ikatan asmara"
   },
   {
     "id": "mn-32-058",
@@ -751,7 +808,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "person"
+    "semantic": "person",
+    "data4": "Orang yang memiliki limpahan harta uang berlebih"
   },
   {
     "id": "mn-32-059",
@@ -764,7 +822,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hawa sejuk menyegarkan di pagi hari, atau senyuman cerah memikat"
   },
   {
     "id": "mn-32-060",
@@ -777,7 +836,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hujan deras mendadak yang turun singkat di sore musim panas"
   },
   {
     "id": "mn-32-061",
@@ -790,7 +850,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Dugaan kemungkinan kecil yang dikhawatirkan (sering: ～かもしれません)"
   },
   {
     "id": "mn-32-062",
@@ -803,7 +864,8 @@
     "chapter": "Bab 32",
     "type": "v3",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Menikmati waktu santai beristirahat di rumah tanpa beban pikiran"
   },
   {
     "id": "mn-32-063",
@@ -816,7 +878,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tetesan air presipitasi dari langit"
   },
   {
     "id": "mn-32-064",
@@ -829,7 +892,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Massa uap air putih/kelabu yang mengambang di langit"
   },
   {
     "id": "mn-32-065",
@@ -842,7 +906,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kawasan pulau Honshu bagian timur meliputi Tokyo, Kanagawa, Chiba, Saitama"
   },
   {
     "id": "mn-32-066",
@@ -855,7 +920,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kawasan bagian tengah barat meliputi Osaka, Kyoto, Hyogo, Nara"
   },
   {
     "id": "mn-32-067",
@@ -868,7 +934,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pulau besar di barat daya Jepang meliputi Fukuoka, Nagasaki, Kagoshima"
   },
   {
     "id": "mn-32-068",
@@ -881,7 +948,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Persentase potensi turunnya hujan dari BMKG (cth: 降水確率70%)"
   },
   {
     "id": "mn-32-069",
@@ -894,7 +962,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Puncak suhu terpanas yang dicapai dalam satu hari"
   },
   {
     "id": "mn-32-070",
@@ -907,7 +976,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Titik suhu paling dingin dalam kurun satu hari"
   },
   {
     "id": "mn-32-071",
@@ -920,7 +990,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pulau di selatan Honshu meliputi Tokushima, Kagawa, Ehime, Kochi"
   },
   {
     "id": "mn-32-072",
@@ -933,7 +1004,8 @@
     "chapter": "Bab 32",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Tubuh sembuh pulih dari demam atau penyakit (intransitif: 風邪が治る)"
   },
   {
     "id": "mn-32-073",
@@ -946,7 +1018,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Tingkat kadar uap air di udara atmosfer (湿度が高い = lembap pekat)"
   },
   {
     "id": "mn-32-074",
@@ -959,7 +1032,8 @@
     "chapter": "Bab 32",
     "type": "adj-i",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Hawa panas menyengat disertai kelembapan tinggi khas musim panas Jepang"
   },
   {
     "id": "mn-32-075",
@@ -972,7 +1046,8 @@
     "chapter": "Bab 32",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Udara angin berhembus melintasi daratan (intransitif: 風が吹く)"
   },
   {
     "id": "mn-32-076",
@@ -985,7 +1060,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Status cuaca langit terang benderang"
   },
   {
     "id": "mn-32-077",
@@ -998,7 +1074,8 @@
     "chapter": "Bab 32",
     "type": "conjunction",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Prakiraan cuaca awal cerah lalu beralih berawan kelabu"
   },
   {
     "id": "mn-32-078",
@@ -1011,7 +1088,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kristal es beku dingin yang turun saat musim dingin"
   },
   {
     "id": "mn-32-079",
@@ -1024,7 +1102,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Siklon tropis badai angin kencang berputar disertai hujan lebat di Pasifik barat"
   },
   {
     "id": "mn-32-080",
@@ -1037,7 +1116,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pembagian geografis wilayah regional negara"
   },
   {
     "id": "mn-32-081",
@@ -1050,7 +1130,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kawasan ujung barat pulau Honshu meliputi Hiroshima, Okayama, Yamaguchi"
   },
   {
     "id": "mn-32-082",
@@ -1063,7 +1144,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kawasan tengah pulau Honshu meliputi Aichi (Nagoya), Shizuoka, Nagano, Niigata"
   },
   {
     "id": "mn-32-083",
@@ -1076,7 +1158,8 @@
     "chapter": "Bab 32",
     "type": "v1",
     "transitivity": "jidoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Mesin rusak kembali berfungsi normal (intransitif: 時計・車が直る)"
   },
   {
     "id": "mn-32-084",
@@ -1089,7 +1172,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Laporan prediksi cuaca harian dari badan meteorologi"
   },
   {
     "id": "mn-32-085",
@@ -1102,7 +1186,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kawasan timur laut pulau Honshu meliputi Sendai, Aomori, Akita, Fukushima"
   },
   {
     "id": "mn-32-086",
@@ -1115,7 +1200,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kondisi langit didominasi gumpalan awan kelabu"
   },
   {
     "id": "mn-32-087",
@@ -1128,7 +1214,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Prakiraan cuaca berawan dengan potensi hujan sewaktu-waktu"
   },
   {
     "id": "mn-32-088",
@@ -1141,7 +1228,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Prakiraan cuaca berawan dengan hujan turun di titik-titik daerah tertentu"
   },
   {
     "id": "mn-32-089",
@@ -1154,7 +1242,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Lengkungan spektrum warna-warni di langit seusai guyuran hujan"
   },
   {
     "id": "mn-32-090",
@@ -1167,7 +1256,8 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Pulau besar paling utara di Jepang beriklim dingin bersalju lebat"
   },
   {
     "id": "mn-32-091",
@@ -1180,7 +1270,8 @@
     "chapter": "Bab 32",
     "type": "v1",
     "transitivity": "tadoushi",
-    "semantic": "action"
+    "semantic": "action",
+    "data4": "Seseorang kembali lagi ke meja kerja atau pulang ke tempat asal (intransitif)"
   },
   {
     "id": "mn-32-092",
@@ -1193,6 +1284,7 @@
     "chapter": "Bab 32",
     "type": "noun",
     "transitivity": null,
-    "semantic": "abstract"
+    "semantic": "abstract",
+    "data4": "Kilatan petir menyambar dan suara gemuruh halilintar di langit badai"
   }
 ]

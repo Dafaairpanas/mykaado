@@ -1,0 +1,68 @@
+先輩;せんぱい;kakak tingkat, senior;senior di sekolah, kampus, atau lingkungan kerja
+後輩;こうはい;adik tingkat, junior;junior di sekolah, kampus, atau lingkungan kerja
+知り合い;しりあい;kenalan;orang yang saling kenal namun belum tentu sahabat akrab
+久しぶり;ひさしぶり;sudah lama tidak jumpa;ungkapan temu kangen setelah lama berpisah (sopan: お久しぶりです)
+元気;げんき;sehat, bugar;kondisi tubuh prima dan berjiwa semangat
+おかげさまで;おかげさまで;puji syukur, berkat doa Anda;jawaban sopan merendah atas pertanyaan kabar dari lawan bicara
+半年;はんとし;setengah tahun;kurun waktu selama 6 bulan
+１年;いちねん;satu tahun;kurun waktu selama 12 bulan
+先月;せんげつ;bulan lalu;satu bulan sebelum bulan sekarang
+去年;きょねん;tahun lalu;satu tahun sebelum tahun berjalan saat ini
+生活;せいかつ;kehidupan sehari-hari;rutinitas dan aktivitas hidup sehari-hari
+もう;もう;sudah;menyatakan suatu keadaan telah terjadi atau telah lampau
+慣れる;なれる;terbiasa, betah;sudah beradaptasi nyaman dengan lingkungan baru (生活・仕事に慣れる)
+ちょうど;ちょうど;pas, tepat;waktu atau takaran yang tepat persis tanpa kurang atau lebih
+なんとか;なんとか;lumayan, bisa bertahan;berhasil bertahan atau mengatasi hal walau pas-pasan (なんとかやっています)
+まだ;まだ;masih, belum;menunjukkan kondisi yang belum tercapai atau masih berlangsung
+〜になる;〜になる;genap ..., sudah mencapai ...;menyatakan rentang waktu yang telah terlewati (misal 1年になる)
+〜か月;〜かげつ;... bulan;satuan hitung durasi jangka waktu bulan
+１か月;いっかげつ;satu bulan;durasi waktu selama 1 bulan
+２か月;にかげつ;dua bulan;durasi waktu selama 2 bulan
+３か月;さんかげつ;tiga bulan;durasi waktu selama 3 bulan
+４か月;よんかげつ;empat bulan;durasi waktu selama 4 bulan
+５か月;ごかげつ;lima bulan;durasi waktu selama 5 bulan
+６か月;ろっかげつ;enam bulan;durasi waktu selama 6 bulan (setengah tahun)
+７か月;ななかげつ;tujuh bulan;durasi waktu selama 7 bulan
+８か月;はちかげつ;delapan bulan;durasi waktu selama 8 bulan
+９か月;きゅうかげつ;sembilan bulan;durasi waktu selama 9 bulan
+１０か月;じゅっかげつ;sepuluh bulan;durasi waktu selama 10 bulan
+１１か月;じゅういっかげつ;sebelas bulan;durasi waktu selama 11 bulan
+１２か月;じゅうにかげつ;dua belas bulan;durasi waktu selama 12 bulan (1 tahun penuh)
+〜年;〜ねん;... tahun;satuan hitung durasi jangka waktu tahun
+２年;にねん;dua tahun;durasi waktu selama 2 tahun
+３年;さんねん;tiga tahun;durasi waktu selama 3 tahun
+４年;よねん;empat tahun;durasi waktu selama 4 tahun (cara baca baku: よねん)
+５年;ごねん;lima tahun;durasi waktu selama 5 tahun
+６年;ろくねん;enam tahun;durasi waktu selama 6 tahun
+７年;ななねん / しちねん;tujuh tahun;durasi waktu selama 7 tahun
+８年;はちねん;delapan tahun;durasi waktu selama 8 tahun
+９年;きゅうねん;sembilan tahun;durasi waktu selama 9 tahun
+１０年;じゅうねん;sepuluh tahun;durasi waktu selama 10 tahun (satu dekade)
+先週;せんしゅう;minggu lalu;satu pekan sebelum pekan ini
+仕事;しごと;pekerjaan, profesi;kegiatan mencari nafkah atau tugas kerja
+レストラン;レストラン;restoran;tempat makan umum bergaya barat atau modern
+働く;はたらく;bekerja;melakukan aktivitas pekerjaan profesi (レストランで働く)
+ホテル;ホテル;hotel;penginapan komersial modern
+工場;こうじょう;pabrik;tempat pengolahan dan produksi barang industri
+介護;かいご;perawatan lansia;layanan pendampingan dan asuhan bagi kaum lansia
+仕事をする;しごとをする;bekerja, melakukan pekerjaan;melaksanakan rutinitas tugas kerja
+建設;けんせつ;konstruksi, pembangunan;sektor proyek rancang bangun gedung atau infrastruktur
+野菜;やさい;sayuran;bahan makanan nabati hortikultura
+作る;つくる;membuat, memproduksi, menanam;membuat benda atau membudidayakan sayur (野菜を作る)
+日本語学校;にほんごがっこう;sekolah bahasa Jepang;lembaga pendidikan khusus pembelajaran bahasa Jepang
+勉強する;べんきょうする;belajar;mempelajari ilmu atau keahlian baru
+専門学校;せんもんがっこう;sekolah kejuruan, vokasi;institusi pendidikan keterampilan terapan setara diploma
+通う;かよう;pergi rutin, bolak-balik;bepergian secara teratur pulang-pergi ke sekolah atau kantor
+主婦;しゅふ;ibu rumah tangga;wanita yang mengurus rumah tangga keluarga
+主夫;しゅふ;bapak rumah tangga;pria yang fokus mengurus kebutuhan rumah tangga keluarga
+忙しい;いそがしい;sibuk;banyak urusan atau pekerjaan yang sedang dihadapi
+大変[な];たいへん[な];berat, melelahkan;keadaan sulit yang menguras fisik atau emosi
+疲れる;つかれる;lelah, letih;kondisi fisik kehabisan energi setelah beraktivitas
+まあまあ[な];まあまあ[な];lumayan, biasa saja;kondisi standar tidak buruk dan tidak luar biasa
+楽しい;たのしい;menyenangkan, seru;perasaan gembira dan menikmati suasana
+みんな;みんな;semua orang, semuanya;seluruh orang dalam rombongan atau komunitas
+親切;しんせつ;ramah, baik hati;sikap hangat, suka menolong dan peduli pada orang lain
+勉強になる;べんきょうになる;menjadi pelajaran berharga;menambah wawasan dan pengalaman hidup yang bermanfaat
+毎日;まいにち;setiap hari;frekuensi rutin harian
+学生;がくせい;pelajar, mahasiswa;orang yang sedang menempuh pendidikan
+プログラミング;プログラミング;pemrograman komputer;kegiatan penulisan kode instruksi perangkat lunak
