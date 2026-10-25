@@ -46,39 +46,39 @@ function renderKanjiWithFadedKana(text: string | undefined | null | boolean) {
 
 // Helper for dynamic Japanese text size based on character length
 function getJpFontSizeClass(text: string | undefined | null) {
-  if (!text) return "text-4xl md:text-6xl";
+  if (!text) return "text-4xl sm:text-5xl md:text-6xl leading-tight py-1";
   const len = text.length;
-  if (len > 20) return "text-xl sm:text-2xl md:text-3xl leading-snug";
-  if (len > 12) return "text-2xl sm:text-3xl md:text-4xl leading-normal";
-  if (len > 6) return "text-3xl sm:text-4xl md:text-6xl leading-tight";
-  return "text-5xl sm:text-6xl md:text-8xl leading-none";
+  if (len > 24) return "text-lg sm:text-xl md:text-2xl leading-relaxed py-1";
+  if (len > 14) return "text-xl sm:text-2xl md:text-3xl leading-normal py-1";
+  if (len > 6) return "text-3xl sm:text-4xl md:text-5xl leading-snug py-1";
+  return "text-5xl sm:text-6xl md:text-7xl lg:text-8xl leading-snug py-1.5";
 }
 
 // Helper for secondary Japanese text (e.g. kana pronunciation)
 function getSecondaryJpFontSizeClass(text: string | undefined | null) {
-  if (!text) return "text-lg md:text-xl";
+  if (!text) return "text-base sm:text-lg md:text-xl leading-normal";
   const len = text.length;
-  if (len > 20) return "text-xs sm:text-sm md:text-base";
-  if (len > 12) return "text-sm sm:text-base md:text-lg";
-  return "text-lg sm:text-xl md:text-2xl";
+  if (len > 24) return "text-xs sm:text-sm md:text-base leading-relaxed mt-1";
+  if (len > 14) return "text-sm sm:text-base md:text-lg leading-normal mt-1";
+  return "text-base sm:text-lg md:text-2xl leading-normal mt-1.5";
 }
 
 // Helper for dynamic Indonesian / meaning text size
 function getMeaningFontSizeClass(text: string | undefined | null) {
-  if (!text) return "text-2xl md:text-4xl";
+  if (!text) return "text-2xl sm:text-3xl md:text-4xl leading-snug py-1";
   const len = text.length;
-  if (len > 60) return "text-base sm:text-lg md:text-xl leading-relaxed";
-  if (len > 35) return "text-lg sm:text-xl md:text-2xl leading-snug";
-  if (len > 18) return "text-xl sm:text-2xl md:text-3xl leading-tight";
-  return "text-2xl sm:text-3xl md:text-5xl leading-tight";
+  if (len > 60) return "text-sm sm:text-base md:text-lg leading-relaxed py-1";
+  if (len > 35) return "text-base sm:text-lg md:text-xl lg:text-2xl leading-snug py-1";
+  if (len > 18) return "text-xl sm:text-2xl md:text-3xl leading-snug py-1";
+  return "text-2xl sm:text-3xl md:text-4xl lg:text-5xl leading-snug py-1.5";
 }
 
 // Helper for rendering data4 (nuance / context explanation)
 function renderData4(data4: string | undefined | null) {
   if (!data4 || !data4.trim()) return null;
   return (
-    <div className="mt-2.5 px-3 py-1.5 rounded-lg bg-[var(--color-bg-nav)]/60 border border-[var(--color-border-main)]/30 text-xs sm:text-sm text-[var(--color-text-muted)] font-normal text-center max-w-[92%] mx-auto leading-relaxed break-words">
-      <span className="opacity-80">{data4}</span>
+    <div className="mt-3 px-3.5 py-2 rounded-xl bg-[var(--color-bg-nav)]/80 border border-[var(--color-border-main)]/30 text-xs sm:text-sm text-[var(--color-text-muted)] font-normal text-center max-w-xl mx-auto leading-relaxed break-words shadow-sm">
+      <span className="opacity-90">{data4}</span>
     </div>
   );
 }
@@ -655,27 +655,39 @@ export default function FlashcardPage() {
   if (isBunpou) {
     const bunpouCard = card as any;
     if (studyMode === "Reverse") {
-      frontContent = <div className="text-xl md:text-3xl font-bold text-center leading-tight opacity-75 px-4">{bunpouCard.meaning}</div>;
+      frontContent = (
+        <div className="w-full flex flex-col items-center justify-center text-center px-2 py-3">
+          <div className="text-xl sm:text-2xl md:text-3xl font-bold leading-snug opacity-90 break-words max-w-2xl">
+            {bunpouCard.meaning}
+          </div>
+        </div>
+      );
       backContent = (
-        <div className="flex flex-col items-center justify-center w-full h-full overflow-y-auto pb-4">
-          <div className="text-3xl md:text-5xl jp-text mb-4 text-center font-bold text-[var(--color-accent)]">{renderKanjiWithFadedKana(bunpouCard.title)}</div>
-          <div className="text-lg md:text-xl text-[var(--color-text-main)] mb-6 text-center font-mono bg-[var(--color-bg-nav)] px-4 py-2 rounded-lg whitespace-pre-wrap">{bunpouCard.formula_template}</div>
+        <div className="w-full flex flex-col items-center text-center px-2 py-2">
+          <div className="text-2xl sm:text-3xl md:text-5xl jp-text mb-3 font-bold text-[var(--color-accent)] leading-tight">
+            {renderKanjiWithFadedKana(bunpouCard.title)}
+          </div>
+          <div className="text-base sm:text-lg md:text-xl text-[var(--color-text-main)] mb-5 font-mono bg-[var(--color-bg-nav)] px-4 py-2.5 rounded-xl border-[length:var(--bw-sm)] border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] whitespace-pre-wrap max-w-2xl break-words">
+            {bunpouCard.formula_template}
+          </div>
           
           {bunpouCard.ui_notes && (
-             <div className="text-sm md:text-base text-[var(--color-text-muted)] mb-6 text-center italic border-l-4 border-[var(--color-accent)] pl-4 text-left max-w-full whitespace-pre-wrap">
+             <div className="text-xs sm:text-sm md:text-base text-[var(--color-text-muted)] mb-5 italic border-l-4 border-[var(--color-accent)] pl-3 text-left max-w-2xl whitespace-pre-wrap leading-relaxed">
                {bunpouCard.ui_notes}
              </div>
           )}
 
           {bunpouCard.examples && bunpouCard.examples.length > 0 && (
-            <div className="w-full mt-2 text-left space-y-4">
-              <h4 className="text-sm font-bold text-[var(--color-text-muted)] uppercase tracking-wider mb-2">Contoh:</h4>
-              {bunpouCard.examples.map((ex: any, i: number) => (
-                <div key={i} className="text-sm md:text-base bg-[var(--color-bg-nav)] p-3 rounded-lg border-[length:var(--bw-sm)] border-[var(--color-border-main)]">
-                  <div className="jp-text font-bold mb-1">{ex.jp}</div>
-                  <div className="opacity-80">{ex.id}</div>
-                </div>
-              ))}
+            <div className="w-full max-w-2xl text-left space-y-3 mt-1">
+              <h4 className="text-xs font-bold text-[var(--color-text-muted)] uppercase tracking-wider">Contoh:</h4>
+              <div className="space-y-2.5">
+                {bunpouCard.examples.map((ex: any, i: number) => (
+                  <div key={i} className="text-xs sm:text-sm md:text-base bg-[var(--color-bg-nav)] p-3 rounded-xl border-[length:var(--bw-sm)] border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]">
+                    <div className="jp-text font-bold mb-1 text-[var(--color-text-main)] leading-normal">{ex.jp}</div>
+                    <div className="opacity-80 text-[var(--color-text-muted)] leading-relaxed">{ex.id}</div>
+                  </div>
+                ))}
+              </div>
             </div>
           )}
         </div>
@@ -683,33 +695,35 @@ export default function FlashcardPage() {
     } else {
       // Standard
       frontContent = (
-        <>
-          <div className="text-3xl md:text-5xl jp-text mb-6 text-center font-bold">{renderKanjiWithFadedKana(bunpouCard.title)}</div>
-          <div className="text-lg md:text-xl text-[var(--color-text-main)] font-mono bg-[var(--color-bg-nav)] px-4 py-2 rounded-lg border-[length:var(--bw-sm)] border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] whitespace-pre-wrap">
+        <div className="w-full flex flex-col items-center justify-center text-center px-2 py-3">
+          <div className="text-2xl sm:text-3xl md:text-5xl jp-text mb-5 font-bold leading-tight">
+            {renderKanjiWithFadedKana(bunpouCard.title)}
+          </div>
+          <div className="text-base sm:text-lg md:text-xl text-[var(--color-text-main)] font-mono bg-[var(--color-bg-nav)] px-4 py-2.5 rounded-xl border-[length:var(--bw-sm)] border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] whitespace-pre-wrap max-w-2xl break-words">
             {bunpouCard.formula_template}
           </div>
-        </>
+        </div>
       );
       backContent = (
-        <div className="flex flex-col w-full h-full overflow-y-auto pb-4 custom-scrollbar">
-          <div className="flex-shrink-0 mb-4 pt-2">
-             <div className="text-lg md:text-xl font-bold mb-3 text-center leading-tight opacity-90 border-b-2 border-dashed border-[var(--color-border-main)] pb-3">
-               {bunpouCard.meaning}
-             </div>
-             {bunpouCard.ui_notes && (
-                <div className="text-sm md:text-base text-[var(--color-text-muted)] italic border-l-4 border-[var(--color-accent)] pl-4 mb-4 text-left whitespace-pre-wrap">
-                  {bunpouCard.ui_notes}
-                </div>
-             )}
+        <div className="w-full flex flex-col items-center text-center px-2 py-2">
+          <div className="w-full mb-4 pb-3 border-b-2 border-dashed border-[var(--color-border-main)]/30">
+            <div className="text-lg sm:text-xl md:text-2xl font-bold mb-2 leading-snug opacity-90">
+              {bunpouCard.meaning}
+            </div>
+            {bunpouCard.ui_notes && (
+              <div className="text-xs sm:text-sm md:text-base text-[var(--color-text-muted)] italic border-l-4 border-[var(--color-accent)] pl-3 text-left max-w-2xl mx-auto whitespace-pre-wrap leading-relaxed mt-2">
+                {bunpouCard.ui_notes}
+              </div>
+            )}
           </div>
           {bunpouCard.examples && bunpouCard.examples.length > 0 && (
-            <div className="flex-1 w-full space-y-3">
+            <div className="w-full max-w-2xl text-left space-y-3">
               <h4 className="text-xs font-bold text-[var(--color-text-muted)] uppercase tracking-wider">Contoh:</h4>
-              <div className="space-y-2">
+              <div className="space-y-2.5">
                 {bunpouCard.examples.map((ex: any, i: number) => (
-                  <div key={i} className="text-sm md:text-base bg-[var(--color-bg-nav)] p-3 rounded-lg border-[length:var(--bw-sm)] border-[var(--color-border-main)] text-left">
-                    <div className="jp-text font-bold mb-1 text-[var(--color-text-main)]">{ex.jp}</div>
-                    <div className="opacity-80 text-[var(--color-text-muted)]">{ex.id}</div>
+                  <div key={i} className="text-xs sm:text-sm md:text-base bg-[var(--color-bg-nav)] p-3 rounded-xl border-[length:var(--bw-sm)] border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)]">
+                    <div className="jp-text font-bold mb-1 text-[var(--color-text-main)] leading-normal">{ex.jp}</div>
+                    <div className="opacity-80 text-[var(--color-text-muted)] leading-relaxed">{ex.id}</div>
                   </div>
                 ))}
               </div>
@@ -720,11 +734,12 @@ export default function FlashcardPage() {
     }
   } else if (studyMode === "Reverse") {
     const meaningText = card.meaning || "";
-    const jpText = card.kanji || ("kana" in card && card.kana) || "";
-    const subJp = isKanjiData ? (card as any).onyomi : ("kana" in card ? card.kana : "");
+    const jpText = (card.kanji && card.kanji.trim()) || ("kana" in card && card.kana ? card.kana.trim() : "");
+    const rawSubJp = isKanjiData ? (card as any).onyomi : ("kana" in card ? card.kana : "");
+    const subJp = rawSubJp && rawSubJp.trim() !== jpText.trim() ? rawSubJp.trim() : "";
     frontContent = (
       <div className="w-full flex flex-col items-center justify-center text-center">
-        <div className={`${getMeaningFontSizeClass(meaningText)} font-bold leading-tight opacity-85 break-words max-w-full px-2`}>
+        <div className={`${getMeaningFontSizeClass(meaningText)} font-bold leading-snug opacity-90 break-words max-w-2xl px-2`}>
           {meaningText}
         </div>
         {renderData4(data4)}
@@ -736,19 +751,20 @@ export default function FlashcardPage() {
           {renderKanjiWithFadedKana(jpText)}
         </div>
         {subJp && (
-          <div className={`${getSecondaryJpFontSizeClass(subJp)} text-[var(--color-text-muted)] mb-2 text-center opacity-70 break-words max-w-full px-2`}>
+          <div className={`${getSecondaryJpFontSizeClass(subJp)} text-[var(--color-text-muted)] mb-2 text-center opacity-75 break-words max-w-full px-2`}>
             {subJp}
           </div>
         )}
       </div>
     );
   } else if (studyMode === "Kanji") {
-    const jpText = card.kanji || ("kana" in card && card.kana) || "";
-    const subJp = "kana" in card ? card.kana : (card as any).onyomi;
+    const jpText = (card.kanji && card.kanji.trim()) || ("kana" in card && card.kana ? card.kana.trim() : "");
+    const rawSubJp = "kana" in card ? card.kana : (card as any).onyomi;
+    const subJp = rawSubJp && rawSubJp.trim() !== jpText.trim() ? rawSubJp.trim() : "";
     const meaningText = card.meaning || "";
     frontContent = (
       <div className="w-full flex flex-col items-center justify-center text-center">
-        <div className={`${getJpFontSizeClass(jpText)} jp-text mb-2 text-center break-words max-w-full px-2`}>
+        <div className={`${getJpFontSizeClass(jpText)} jp-text text-center break-words max-w-full px-2`}>
           {renderKanjiWithFadedKana(jpText)}
         </div>
       </div>
@@ -760,19 +776,20 @@ export default function FlashcardPage() {
             {subJp}
           </div>
         )}
-        <div className={`${getMeaningFontSizeClass(meaningText)} text-[var(--color-text-main)] mb-1 text-center font-semibold opacity-85 break-words max-w-full px-2`}>
+        <div className={`${getMeaningFontSizeClass(meaningText)} text-[var(--color-text-main)] mb-1 text-center font-semibold opacity-90 break-words max-w-2xl px-2`}>
           {meaningText}
         </div>
         {renderData4(data4)}
       </div>
     );
   } else if (studyMode === "Mix") {
-    const jpText = card.kanji ? card.kanji : ("kana" in card ? card.kana : "");
-    const subKana = card.kanji && "kana" in card ? card.kana : "";
+    const jpText = (card.kanji && card.kanji.trim()) ? card.kanji.trim() : ("kana" in card && card.kana ? card.kana.trim() : "");
+    const rawSubKana = card.kanji && "kana" in card ? card.kana : "";
+    const subKana = rawSubKana && rawSubKana.trim() !== jpText.trim() ? rawSubKana.trim() : "";
     const meaningText = card.meaning || "";
     frontContent = (
       <div className="w-full flex flex-col items-center justify-center text-center">
-        <div className={`${getJpFontSizeClass(jpText)} jp-text mb-2 text-center break-words max-w-full px-2`}>
+        <div className={`${getJpFontSizeClass(jpText)} jp-text text-center break-words max-w-full px-2`}>
           {renderKanjiWithFadedKana(jpText)}
         </div>
       </div>
@@ -784,21 +801,21 @@ export default function FlashcardPage() {
             {subKana}
           </div>
         )}
-        <div className={`${getMeaningFontSizeClass(meaningText)} text-[var(--color-text-main)] mb-1 text-center font-semibold opacity-85 break-words max-w-full px-2`}>
+        <div className={`${getMeaningFontSizeClass(meaningText)} text-[var(--color-text-main)] mb-1 text-center font-semibold opacity-90 break-words max-w-2xl px-2`}>
           {meaningText}
         </div>
         {renderData4(data4)}
       </div>
     );
   } else if (studyMode === "Audio") {
-    const jpText = card.kanji || ("kana" in card && card.kana) || "";
+    const jpText = (card.kanji && card.kanji.trim()) || ("kana" in card && card.kana ? card.kana.trim() : "");
     const meaningText = card.meaning || "";
     frontContent = (
-      <div className="flex flex-col items-center">
+      <div className="flex flex-col items-center justify-center py-4">
         <div className="w-20 h-20 md:w-24 md:h-24 bg-[var(--color-accent)] rounded-full flex items-center justify-center shadow-[4px_4px_0px_var(--color-shadow-main)] mb-4 md:mb-6 animate-pulse">
           <span className="text-3xl md:text-4xl">🔊</span>
         </div>
-        <p className="font-bold opacity-75 text-sm md:text-base">Dengarkan Audio</p>
+        <p className="font-bold opacity-80 text-sm md:text-base">Dengarkan Audio</p>
       </div>
     );
     backContent = (
@@ -806,7 +823,7 @@ export default function FlashcardPage() {
         <div className={`${getJpFontSizeClass(jpText)} jp-text mb-3 text-center break-words max-w-full px-2`}>
           {renderKanjiWithFadedKana(jpText)}
         </div>
-        <div className={`${getMeaningFontSizeClass(meaningText)} text-[var(--color-text-main)] mb-1 text-center font-semibold opacity-85 break-words max-w-full px-2`}>
+        <div className={`${getMeaningFontSizeClass(meaningText)} text-[var(--color-text-main)] mb-1 text-center font-semibold opacity-90 break-words max-w-2xl px-2`}>
           {meaningText}
         </div>
         {renderData4(data4)}
@@ -814,16 +831,17 @@ export default function FlashcardPage() {
     );
   } else {
     // Standard Mode (JP -> ID)
-    const jpText = card.kanji || ("kana" in card && card.kana) || "";
-    const subKana = card.kanji && "kana" in card ? card.kana : "";
+    const jpText = (card.kanji && card.kanji.trim()) || ("kana" in card && card.kana ? card.kana.trim() : "");
+    const rawSubKana = card.kanji && "kana" in card ? card.kana : "";
+    const subKana = rawSubKana && rawSubKana.trim() !== jpText.trim() ? rawSubKana.trim() : "";
     const meaningText = card.meaning || "";
     frontContent = (
       <div className="w-full flex flex-col items-center justify-center text-center">
-        <div className={`${getJpFontSizeClass(jpText)} jp-text mb-2 text-center break-words max-w-full px-2`}>
+        <div className={`${getJpFontSizeClass(jpText)} jp-text text-center break-words max-w-full px-2`}>
           {renderKanjiWithFadedKana(jpText)}
         </div>
         {subKana && (
-          <div className={`${getSecondaryJpFontSizeClass(subKana)} text-[var(--color-text-muted)] jp-text font-normal text-center opacity-70 break-words max-w-full px-2`}>
+          <div className={`${getSecondaryJpFontSizeClass(subKana)} text-[var(--color-text-muted)] jp-text font-normal text-center opacity-75 break-words max-w-full px-2`}>
             {subKana}
           </div>
         )}
@@ -831,11 +849,11 @@ export default function FlashcardPage() {
     );
     backContent = (
       <div className="w-full flex flex-col items-center justify-center text-center">
-        <div className={`${getMeaningFontSizeClass(meaningText)} font-bold mb-2 text-center leading-tight opacity-85 break-words max-w-full px-2`}>
+        <div className={`${getMeaningFontSizeClass(meaningText)} font-bold mb-2 text-center leading-snug opacity-90 break-words max-w-2xl px-2`}>
           {meaningText}
         </div>
         {"romaji" in card && card.romaji && (
-          <div className="text-sm md:text-base text-[var(--color-text-muted)] text-center font-mono opacity-65 mb-1 break-words">
+          <div className="text-xs sm:text-sm md:text-base text-[var(--color-text-muted)] text-center font-mono opacity-65 mb-1.5 break-words">
             {card.romaji}
           </div>
         )}
@@ -845,20 +863,20 @@ export default function FlashcardPage() {
   }
 
   return (
-    <div className="max-w-3xl mx-auto px-4 flex flex-col items-center pb-24">
+    <div className="w-full max-w-4xl mx-auto px-3 sm:px-6 flex flex-col items-center -mt-4 sm:-mt-6 pb-6">
       {/* Stats Header */}
-      <div className="w-full max-w-[800px] flex justify-between items-center mb-6 font-semibold text-sm px-2">
-        <div className="flex items-center gap-4">
+      <div className="w-full max-w-[840px] flex justify-between items-center mb-2.5 sm:mb-3 font-semibold text-sm px-1">
+        <div className="flex items-center gap-3 sm:gap-4">
           <button 
             onClick={() => navigate("/flashcard/setup")}
-            className="flex items-center justify-center p-2 rounded-full bg-[var(--color-bg-nav)] hover:bg-[var(--color-accent)] hover:text-[var(--color-bg-main)] transition-colors border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] active:translate-y-[1px] active:translate-x-[1px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] mr-2 md:mr-4"
+            className="flex items-center justify-center p-2 rounded-full bg-[var(--color-bg-nav)] hover:bg-[var(--color-accent)] hover:text-[var(--color-bg-main)] transition-colors border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] active:translate-y-[1px] active:translate-x-[1px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] mr-1 md:mr-2"
             title="Kembali"
           >
             <ArrowLeft className="w-4 h-4 md:w-5 md:h-5" />
           </button>
-          <span className="text-[var(--color-fsrs-good)] font-bold">New: {newRemaining > 0 ? newRemaining : 0}</span>
-          <span className="text-[var(--color-fsrs-hard)] font-bold">Learn: {stats.learned}</span>
-          <span className="text-[var(--color-fsrs-again)] font-bold">Rev: {stats.rev}</span>
+          <span className="text-[var(--color-fsrs-good)] font-bold text-xs sm:text-sm">New: {newRemaining > 0 ? newRemaining : 0}</span>
+          <span className="text-[var(--color-fsrs-hard)] font-bold text-xs sm:text-sm">Learn: {stats.learned}</span>
+          <span className="text-[var(--color-fsrs-again)] font-bold text-xs sm:text-sm">Rev: {stats.rev}</span>
         </div>
 
         <div className="flex items-center gap-2">
@@ -891,7 +909,7 @@ export default function FlashcardPage() {
 
       {/* Flashcard Area */}
       <div 
-        className="relative w-full max-w-[800px] h-[350px] sm:h-[400px] md:h-[450px] cursor-pointer"
+        className="relative w-full max-w-[840px] h-[calc(100dvh-220px)] min-h-[340px] max-h-[520px] cursor-pointer"
         style={{ perspective: "1000px" }}
         onClick={() => !isFlipped && setIsFlipped(true)}
       >
@@ -904,26 +922,32 @@ export default function FlashcardPage() {
         >
           {/* Front */}
           <Card 
-            className="absolute w-full h-full flex flex-col items-center justify-center p-4 sm:p-6 md:p-8 bg-[var(--color-bg-card)] rounded-[1.5rem] sm:rounded-[2rem] border-[length:var(--bw-md)] overflow-hidden"
+            className="absolute inset-0 w-full h-full flex flex-col p-0 bg-[var(--color-bg-card)] rounded-[1.5rem] sm:rounded-[2rem] border-[length:var(--bw-md)] shadow-[3px_3px_0px_var(--color-shadow-main)] overflow-hidden"
             style={{ backfaceVisibility: "hidden" }}
           >
-            {!config.hideLabel && 'chapter' in card && card.chapter && (
-              <div className="absolute top-3 sm:top-4 left-3 sm:left-4 px-2.5 sm:px-3 py-1 bg-[var(--color-bg-nav)] text-[10px] sm:text-xs font-bold rounded-full border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] z-10">
-                {card.chapter}
-              </div>
-            )}
-            {!config.hideLabel && card.level && (
-              <div className="absolute top-3 sm:top-4 right-3 sm:right-4 px-2.5 sm:px-3 py-1 bg-[var(--color-accent)] text-[var(--color-bg-main)] text-[10px] sm:text-xs font-bold rounded-full border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] z-10">
-                {card.level}
-              </div>
-            )}
+            {/* Badges */}
+            <div className="absolute top-3 sm:top-3.5 left-4 right-4 flex justify-between items-center pointer-events-none z-20">
+              {!config.hideLabel && 'chapter' in card && card.chapter ? (
+                <div className="px-2.5 sm:px-3 py-1 bg-[var(--color-bg-nav)] text-[10px] sm:text-xs font-bold rounded-full border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] pointer-events-auto">
+                  {card.chapter}
+                </div>
+              ) : <div />}
+              {!config.hideLabel && card.level && (
+                <div className="px-2.5 sm:px-3 py-1 bg-[var(--color-accent)] text-[var(--color-bg-main)] text-[10px] sm:text-xs font-bold rounded-full border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] pointer-events-auto">
+                  {card.level}
+                </div>
+              )}
+            </div>
             
-            <div className="w-full max-h-[calc(100%-3.5rem)] overflow-y-auto custom-scrollbar flex flex-col items-center justify-center my-auto px-2">
-              {frontContent}
+            {/* Front Scroll Area with Safe Centering */}
+            <div className="w-full h-full overflow-y-auto custom-scrollbar flex flex-col items-center px-4 sm:px-8 pt-12 pb-14">
+              <div className="my-auto w-full flex flex-col items-center justify-center">
+                {frontContent}
+              </div>
             </div>
 
             {!isFlipped && (
-              <div className="absolute bottom-3 sm:bottom-5 text-xs sm:text-sm font-bold text-[var(--color-text-muted)] animate-pulse bg-[var(--color-bg-nav)] px-3 sm:px-4 py-1.5 rounded-full border-[length:var(--bw-sm)] border-solid border-transparent">
+              <div className="absolute bottom-3 sm:bottom-3.5 left-1/2 -translate-x-1/2 text-xs sm:text-sm font-bold text-[var(--color-text-muted)] animate-pulse bg-[var(--color-bg-nav)] px-3 sm:px-4 py-1.5 rounded-full border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] pointer-events-none z-20">
                 TAP TO FLIP
               </div>
             )}
@@ -931,39 +955,41 @@ export default function FlashcardPage() {
 
           {/* Back */}
           <Card 
-            className="absolute w-full h-full flex flex-col items-center justify-center p-4 sm:p-6 md:p-8 bg-[var(--color-bg-card)] border-[length:var(--bw-md)] rounded-[1.5rem] sm:rounded-[2rem] overflow-hidden"
+            className="absolute inset-0 w-full h-full flex flex-col p-0 bg-[var(--color-bg-card)] border-[length:var(--bw-md)] rounded-[1.5rem] sm:rounded-[2rem] shadow-[3px_3px_0px_var(--color-shadow-main)] overflow-hidden"
             style={{ backfaceVisibility: "hidden", transform: "rotateY(180deg)" }}
           >
-            <div className="w-full max-h-full overflow-y-auto custom-scrollbar flex flex-col items-center justify-center my-auto px-2">
-              {backContent}
+            <div className="w-full h-full overflow-y-auto custom-scrollbar flex flex-col items-center px-4 sm:px-8 py-5 sm:py-6">
+              <div className="my-auto w-full flex flex-col items-center justify-center">
+                {backContent}
+              </div>
             </div>
           </Card>
         </div>
       </div>
 
       {/* Action Buttons */}
-      <div className={`mt-6 sm:mt-8 w-full max-w-[800px] flex gap-2 sm:gap-3 transition-all duration-300 ${isFlipped ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4 pointer-events-none"}`}>
+      <div className={`mt-3 sm:mt-4 w-full max-w-[840px] flex gap-2 sm:gap-3 transition-all duration-300 ${isFlipped ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4 pointer-events-none"}`}>
         <button 
           onClick={() => handleRate(Rating.Again)}
-          className="flex-1 py-2.5 sm:py-3 md:py-4 rounded-[var(--radius-sm)] font-extrabold text-sm sm:text-base md:text-xl border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] sm:shadow-[4px_4px_0px_var(--color-shadow-main)] transition-transform active:translate-y-[2px] active:translate-x-[2px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] bg-[#FF7B72] text-[#111]"
+          className="flex-1 py-2 sm:py-2.5 md:py-3.5 rounded-[var(--radius-sm)] font-extrabold text-sm sm:text-base md:text-xl border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] sm:shadow-[3px_3px_0px_var(--color-shadow-main)] transition-transform active:translate-y-[2px] active:translate-x-[2px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] bg-[#FF7B72] text-[#111]"
         >
           AGAIN <span className="block text-[10px] sm:text-xs font-bold opacity-80 mt-0.5">3x</span>
         </button>
         <button 
           onClick={() => handleRate(Rating.Hard)}
-          className="flex-1 py-2.5 sm:py-3 md:py-4 rounded-[var(--radius-sm)] font-extrabold text-sm sm:text-base md:text-xl border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] sm:shadow-[4px_4px_0px_var(--color-shadow-main)] transition-transform active:translate-y-[2px] active:translate-x-[2px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] bg-[#F0A07B] text-[#111]"
+          className="flex-1 py-2 sm:py-2.5 md:py-3.5 rounded-[var(--radius-sm)] font-extrabold text-sm sm:text-base md:text-xl border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] sm:shadow-[3px_3px_0px_var(--color-shadow-main)] transition-transform active:translate-y-[2px] active:translate-x-[2px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] bg-[#F0A07B] text-[#111]"
         >
           HARD <span className="block text-[10px] sm:text-xs font-bold opacity-80 mt-0.5">2x</span>
         </button>
         <button 
           onClick={() => handleRate(Rating.Good)}
-          className="flex-1 py-2.5 sm:py-3 md:py-4 rounded-[var(--radius-sm)] font-extrabold text-sm sm:text-base md:text-xl border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] sm:shadow-[4px_4px_0px_var(--color-shadow-main)] transition-transform active:translate-y-[2px] active:translate-x-[2px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] bg-[#79BFF8] text-[#111]"
+          className="flex-1 py-2 sm:py-2.5 md:py-3.5 rounded-[var(--radius-sm)] font-extrabold text-sm sm:text-base md:text-xl border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] sm:shadow-[3px_3px_0px_var(--color-shadow-main)] transition-transform active:translate-y-[2px] active:translate-x-[2px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] bg-[#79BFF8] text-[#111]"
         >
           GOOD <span className="block text-[10px] sm:text-xs font-bold opacity-80 mt-0.5">1x</span>
         </button>
         <button 
           onClick={() => handleRate(Rating.Easy)}
-          className="flex-1 py-2.5 sm:py-3 md:py-4 rounded-[var(--radius-sm)] font-extrabold text-sm sm:text-base md:text-xl border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] sm:shadow-[4px_4px_0px_var(--color-shadow-main)] transition-transform active:translate-y-[2px] active:translate-x-[2px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] bg-[#7CE38B] text-[#111]"
+          className="flex-1 py-2 sm:py-2.5 md:py-3.5 rounded-[var(--radius-sm)] font-extrabold text-sm sm:text-base md:text-xl border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] shadow-[2px_2px_0px_var(--color-shadow-main)] sm:shadow-[3px_3px_0px_var(--color-shadow-main)] transition-transform active:translate-y-[2px] active:translate-x-[2px] active:shadow-[0px_0px_0px_var(--color-shadow-main)] bg-[#7CE38B] text-[#111]"
         >
           EASY <span className="block text-[10px] sm:text-xs font-bold opacity-80 mt-0.5">✓</span>
         </button>

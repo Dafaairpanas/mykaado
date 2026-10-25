@@ -201,28 +201,28 @@ export async function fetchSelectedDecks(selectedChapterIds: string[]) {
   const results = [];
   for (const chapter of toFetch) {
     try {
-      // 1. Try fetching from IndexedDB first
       let items = null;
-      try {
-        const fromDb = await appDb.chapters.get(chapter.pathKey);
-        if (fromDb && fromDb.data && Array.isArray(fromDb.data)) {
-          // If kotoba deck, ensure it is up-to-date with data4
-          const hasData4Field = fromDb.data.some((it: any) => it && 'data4' in it);
-          if (hasData4Field || !chapter.pathKey.includes('-migrated')) {
-            items = fromDb.data;
-          }
-        }
-      } catch (e) {
-        console.warn("Failed to read from IndexedDB, falling back to dynamic import");
-      }
 
-      // 2. Fallback to Dynamic Import
-      if (!items) {
+      // 1. Prioritize dynamic import from code/JSON (always fresh)
+      try {
         const data = await chapter.file();
         items = data.default || data;
+        // Keep offline cache synced in background
+        if (items && Array.isArray(items)) {
+          appDb.chapters.put({ path: chapter.pathKey, data: items }).catch(() => {});
+        }
+      } catch (importErr) {
+        // 2. Fallback to IndexedDB if offline or dynamic import fails
+        console.warn(`Dynamic import failed for ${chapter.id}, falling back to IndexedDB:`, importErr);
+        const fromDb = await appDb.chapters.get(chapter.pathKey);
+        if (fromDb && fromDb.data && Array.isArray(fromDb.data)) {
+          items = fromDb.data;
+        }
       }
 
-      results.push(...items);
+      if (items && Array.isArray(items)) {
+        results.push(...items);
+      }
     } catch (e) {
       console.error(`Failed to load chapter ${chapter.id}`, e);
     }

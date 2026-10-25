@@ -20,7 +20,7 @@ export const appDb = new AppDatabase();
 
 let syncPromise: Promise<void> | null = null;
 
-const CURRENT_DATA_VERSION = "v2_data4";
+const CURRENT_DATA_VERSION = "v3_kanji_refresh";
 
 // Call this on app load or when internet is available
 export async function syncAllData(force = false) {
