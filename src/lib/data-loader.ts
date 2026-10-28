@@ -102,7 +102,8 @@ export const KANJI_SOURCES: DeckSource[] = [
       { id: "kj_jfta2", label: "JFT A2 Kanji", pathKey: "renshuu/jfta2kanji.json", file: () => import(`@/data/renshuu/jfta2kanji.json`) },
       { id: "kj_jft_1", label: "Kanji for JFT 1", pathKey: "kanji/kanjiforjft_1.json", file: () => import(`@/data/kanji/kanjiforjft_1.json`) },
       { id: "kj_kotobalatsol1", label: "Kotoba Latsol 1", pathKey: "kanji/kotobalatsol1.json", file: () => import(`@/data/kanji/kotobalatsol1.json`) },
-      { id: "kj_kotobaa1ekstra", label: "Kotoba A1 Ekstra", pathKey: "kanji/kotoba_a1_ekstra.json", file: () => import(`@/data/kanji/kotoba_a1_ekstra.json`) }
+      { id: "kj_kotobaa1ekstra", label: "Kotoba A1 Ekstra", pathKey: "kanji/kotoba_a1_ekstra.json", file: () => import(`@/data/kanji/kotoba_a1_ekstra.json`) },
+      { id: "kj_sswpm", label: "SSW PM", pathKey: "kanji/sswpm.json", file: () => import(`@/data/kanji/sswpm.json`) }
     ]
   }
 ];

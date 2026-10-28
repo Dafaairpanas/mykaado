@@ -181,7 +181,13 @@ function SetupPageContent() {
       
       try {
         const sourceIds = relevantCards.map((c: any) => c.id);
-        const progressList = await db.progress.where('card_id').anyOf(sourceIds).toArray();
+        const chunkSize = 300;
+        let progressList: any[] = [];
+        for (let i = 0; i < sourceIds.length; i += chunkSize) {
+          const chunk = sourceIds.slice(i, i + chunkSize);
+          const sub = await db.progress.where('card_id').anyOf(chunk).toArray();
+          progressList.push(...sub);
+        }
         const progressMap = new Map(progressList.map(p => [p.card_id, p]));
         
         const now = new Date();
@@ -242,6 +248,10 @@ function SetupPageContent() {
     if (activeSources.length === 0) return;
     const idsToClear = new Set(activeSources.flatMap(s => s.chapters.map(c => c.id)));
     setSelectedDecks(prev => prev.filter(id => !idsToClear.has(id)));
+  };
+
+  const selectChapter = (chapterId: string) => {
+    setSelectedDecks(prev => prev.includes(chapterId) ? prev.filter(id => id !== chapterId) : [...prev, chapterId]);
   };
 
   // --- Drag to Select Handlers ---
@@ -643,6 +653,27 @@ function SetupPageContent() {
             
             {activeTab === "kanji" && (
               <div className="flex flex-wrap gap-1.5 mb-4">
+                <Button 
+                  variant={selectedDecks.includes("kj_sswpm") ? "primary" : "default"} 
+                  size="sm" 
+                  onClick={() => selectChapter("kj_sswpm")}
+                >
+                  SSW PM
+                </Button>
+                <Button 
+                  variant={selectedDecks.includes("kj_kotobalatsol1") ? "primary" : "default"} 
+                  size="sm" 
+                  onClick={() => selectChapter("kj_kotobalatsol1")}
+                >
+                  Latsol 1
+                </Button>
+                <Button 
+                  variant={selectedDecks.includes("kj_marugoto") ? "primary" : "default"} 
+                  size="sm" 
+                  onClick={() => selectChapter("kj_marugoto")}
+                >
+                  Marugoto
+                </Button>
                 <Button variant="default" size="sm" onClick={selectAll}>All Kanji</Button>
                 <Button variant="default" size="sm" onClick={clearSelection} className="text-[var(--color-fsrs-again)] !border-[var(--color-fsrs-again)]">Clear</Button>
               </div>

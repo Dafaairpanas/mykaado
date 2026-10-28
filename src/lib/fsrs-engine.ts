@@ -21,8 +21,18 @@ export class FSRSEngine {
     const now = new Date();
     const sourceIds = sourceData.map(c => c.id);
     
-    // Ambil progress untuk kartu-kartu dalam deck yang dipilih
-    const progressList = await db.progress.where('card_id').anyOf(sourceIds).toArray();
+    // Ambil progress untuk kartu-kartu dalam deck yang dipilih (chunked for large decks)
+    let progressList: FSRSProgress[] = [];
+    try {
+      const chunkSize = 300;
+      for (let i = 0; i < sourceIds.length; i += chunkSize) {
+        const chunk = sourceIds.slice(i, i + chunkSize);
+        const sub = await db.progress.where('card_id').anyOf(chunk).toArray();
+        progressList.push(...sub);
+      }
+    } catch (e) {
+      console.warn("Failed to load progress from IndexedDB, proceeding with new cards:", e);
+    }
     const progressMap = new Map(progressList.map(p => [p.card_id, p]));
     
     const reviewCards: ReviewCard[] = [];
