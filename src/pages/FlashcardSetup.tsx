@@ -1,10 +1,10 @@
-import { useState, useEffect, Suspense } from "react";
+import { useState, useEffect, useMemo, Suspense } from "react";
 import { useNavigate, useSearchParams, Link } from "react-router-dom";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Toggle } from "@/components/ui/toggle";
 import { Play, Volume2, RotateCcw, Settings, Shuffle, Check, SlidersHorizontal, ChevronDown } from "lucide-react";
-import { KOTOBA_SOURCES, KANJI_SOURCES, type DeckSource } from "@/lib/data-loader";
+import { KOTOBA_SOURCES, KANJI_SOURCES, SSW_SOURCES, type DeckSource } from "@/lib/data-loader";
 import { db } from "@/lib/db";
 import { Modal } from "@/components/ui/modal";
 import { cn } from "@/lib/utils";
@@ -20,7 +20,8 @@ export default function SetupPage() {
 function SetupPageContent() {
   const navigate = useNavigate();
   const [searchParams] = useSearchParams();
-  const activeTab = searchParams.get("filter") as "minna" | "irodori" | "n3" | "kanji" || "minna";
+  const rawFilter = searchParams.get("filter");
+  const activeTab = (rawFilter === "sswpm" ? "ssw-pm" : rawFilter) as "minna" | "irodori" | "n3" | "kanji" | "ssw-pm" || "minna";
 
   // State
   const [selectedGrades, setSelectedGrades] = useState<number[]>([1]);
@@ -71,6 +72,7 @@ function SetupPageContent() {
           let targetTab = "minna";
           if (firstDeck.startsWith("ir_")) targetTab = "irodori";
           else if (firstDeck.startsWith("n3_")) targetTab = "n3";
+          else if (firstDeck === "kj_sswpm" || firstDeck.startsWith("ssw_")) targetTab = "ssw-pm";
           else if (firstDeck.startsWith("kj_")) targetTab = "kanji";
 
           if (!window.location.search.includes("filter") && targetTab !== "minna") {
@@ -116,6 +118,7 @@ function SetupPageContent() {
   };
 
   const getActiveSources = (): DeckSource[] => {
+    if (activeTab === "ssw-pm") return SSW_SOURCES;
     if (activeTab === "kanji") return KANJI_SOURCES.filter(s => s.id === "kanji_level");
     if (activeTab === "irodori") return KOTOBA_SOURCES.filter(s => s.id.startsWith("irodori_"));
     return KOTOBA_SOURCES.filter(s => s.id === activeTab);
@@ -123,13 +126,21 @@ function SetupPageContent() {
 
   const activeSources = getActiveSources();
 
+  const activeChapterIds = useMemo(() => {
+    return new Set(activeSources.flatMap(s => s.chapters.map(c => c.id)));
+  }, [activeSources]);
+
+  const activeSelectedDecks = useMemo(() => {
+    return selectedDecks.filter(id => activeChapterIds.has(id));
+  }, [selectedDecks, activeChapterIds]);
+
   // Helper: detect if a string contains actual kanji characters
   const hasKanji = (str: string) => /[\u4E00-\u9FAF\u3400-\u4DBF]/.test(str);
 
   // Load stats dynamically when selectedDecks change
   useEffect(() => {
     async function loadStats() {
-      if (selectedDecks.length === 0 || activeSources.length === 0) {
+      if (activeSelectedDecks.length === 0 || activeSources.length === 0) {
         setStats({ total: 0, learning: 0 });
         return;
       }
@@ -137,7 +148,7 @@ function SetupPageContent() {
       let allCards: any[] = [];
       
       for (const source of activeSources) {
-        const selectedChapters = source.chapters.filter(c => selectedDecks.includes(c.id));
+        const selectedChapters = source.chapters.filter(c => activeSelectedDecks.includes(c.id));
         for (const ch of selectedChapters) {
           try {
             const mod = await ch.file();
@@ -311,10 +322,10 @@ function SetupPageContent() {
   // ------------------------------
 
   const handleStartSession = () => {
-    if (selectedDecks.length === 0) return;
+    if (activeSelectedDecks.length === 0) return;
     
     const config = {
-      selectedDecks,
+      selectedDecks: activeSelectedDecks,
       grades: selectedGrades,
       levels: selectedLevels,
       studyMode,
@@ -539,7 +550,7 @@ function SetupPageContent() {
       
       {/* Mobile Tabs */}
       <div className="flex md:hidden bg-[var(--color-bg-card)] rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] p-1 shadow-[2px_2px_0px_var(--color-shadow-main)] mb-6 overflow-x-auto hide-scrollbar">
-        {(["minna", "irodori", "n3", "kanji"] as const).map(tab => (
+        {(["minna", "irodori", "n3", "kanji", "ssw-pm"] as const).map(tab => (
           <Link
             key={tab}
             to={`?filter=${tab}`}
@@ -549,7 +560,7 @@ function SetupPageContent() {
                 : "hover:bg-[var(--color-bg-nav)] text-[var(--color-text-muted)]"
             }`}
           >
-            {tab === "kanji" ? "Kanji" : tab === "n3" ? "Sou N3" : tab.charAt(0).toUpperCase() + tab.slice(1)}
+            {tab === "kanji" ? "Kanji" : tab === "n3" ? "Sou N3" : tab === "ssw-pm" ? "SSW PM" : tab.charAt(0).toUpperCase() + tab.slice(1)}
           </Link>
         ))}
       </div>      <div className="flex flex-col lg:flex-row gap-6">
@@ -566,7 +577,7 @@ function SetupPageContent() {
             variant="primary" 
             size="lg" 
             className="w-full text-lg h-14 font-extrabold shadow-[2px_2px_0px_var(--color-shadow-main)]"
-            disabled={selectedDecks.length === 0}
+            disabled={activeSelectedDecks.length === 0}
             onClick={handleStartSession}
           >
             START SESSION {isBatchEnabled && batchSize > 0 ? `(${batchSize})` : ""} <Play className="w-5 h-5 ml-2 fill-current" />
@@ -580,7 +591,7 @@ function SetupPageContent() {
           {/* Stats Row */}
           <Card className="flex flex-wrap sm:flex-nowrap items-center p-2 sm:p-4 gap-y-2 sm:gap-y-0 divide-y sm:divide-y-0 sm:divide-x divide-[var(--color-border-main)] shadow-sm">
             <div className="flex-1 min-w-[50%] sm:min-w-0 flex flex-col items-center text-center py-1 sm:py-0">
-              <div className="text-xl sm:text-2xl font-extrabold">{selectedDecks.length}</div>
+              <div className="text-xl sm:text-2xl font-extrabold">{activeSelectedDecks.length}</div>
               <div className="text-[10px] font-bold text-[var(--color-text-muted)] uppercase tracking-wider">Decks</div>
             </div>
             <div className="flex-1 min-w-[50%] sm:min-w-0 flex flex-col items-center text-center py-1 sm:py-0 border-t-0 sm:border-t-0">
@@ -603,7 +614,7 @@ function SetupPageContent() {
               <div className="flex items-center gap-2">
                 <h2 className="text-lg font-bold">Library Select</h2>
                 <div className="px-2 py-0.5 bg-[var(--color-bg-nav)] rounded-full text-[10px] font-bold border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)]">
-                  {selectedDecks.length} Selected
+                  {activeSelectedDecks.length} Selected
                 </div>
               </div>
               
@@ -679,6 +690,62 @@ function SetupPageContent() {
               </div>
             )}
 
+            {activeTab === "ssw-pm" && (
+              <div className="flex flex-wrap gap-1.5 mb-4">
+                <Button 
+                  variant={selectedDecks.includes("ssw_01") ? "primary" : "default"} 
+                  size="sm" 
+                  onClick={() => selectChapter("ssw_01")}
+                >
+                  Bab 1
+                </Button>
+                <Button 
+                  variant={selectedDecks.includes("ssw_02") ? "primary" : "default"} 
+                  size="sm" 
+                  onClick={() => selectChapter("ssw_02")}
+                >
+                  Bab 2
+                </Button>
+                <Button 
+                  variant={selectedDecks.includes("ssw_03") ? "primary" : "default"} 
+                  size="sm" 
+                  onClick={() => selectChapter("ssw_03")}
+                >
+                  Bab 3
+                </Button>
+                <Button 
+                  variant={selectedDecks.includes("ssw_04") ? "primary" : "default"} 
+                  size="sm" 
+                  onClick={() => selectChapter("ssw_04")}
+                >
+                  Bab 4
+                </Button>
+                <Button 
+                  variant={selectedDecks.includes("ssw_05") ? "primary" : "default"} 
+                  size="sm" 
+                  onClick={() => selectChapter("ssw_05")}
+                >
+                  Bab 5
+                </Button>
+                <Button 
+                  variant={selectedDecks.includes("ssw_06") ? "primary" : "default"} 
+                  size="sm" 
+                  onClick={() => selectChapter("ssw_06")}
+                >
+                  Bab 6
+                </Button>
+                <Button 
+                  variant={selectedDecks.includes("ssw_extra") ? "primary" : "default"} 
+                  size="sm" 
+                  onClick={() => selectChapter("ssw_extra")}
+                >
+                  Ekstra
+                </Button>
+                <Button variant="default" size="sm" onClick={selectAll}>All SSW PM</Button>
+                <Button variant="default" size="sm" onClick={clearSelection} className="text-[var(--color-fsrs-again)] !border-[var(--color-fsrs-again)]">Clear</Button>
+              </div>
+            )}
+
             {/* Grid of Chapters */}
             {/* Grid of Chapters */}
             <div 
@@ -704,14 +771,20 @@ function SetupPageContent() {
                         <button
                           key={chapter.id}
                           data-chapter-id={chapter.id}
-                          className={`py-2 px-1 rounded-[var(--radius-sm)] border-[1px] border-solid text-center font-bold text-xs transition-all
+                          title={chapter.sub ? `${chapter.label}: ${chapter.sub}` : chapter.label}
+                          className={`py-2 px-1 rounded-[var(--radius-sm)] border-[1px] border-solid text-center font-bold text-xs transition-all flex flex-col items-center justify-center min-h-[46px]
                             ${isSelected 
                               ? "bg-[var(--color-text-main)] border-[var(--color-border-main)] text-[var(--color-bg-main)] shadow-[1px_1px_0px_var(--color-shadow-main)] translate-y-[-1px]" 
                               : "bg-[var(--color-bg-card)] border-[var(--color-border-main)] text-[var(--color-text-muted)] hover:text-[var(--color-text-main)] hover:bg-[var(--color-bg-nav)] shadow-[1px_1px_0px_var(--color-shadow-main)]"
                             }
                           `}
                         >
-                          {chapter.label}
+                          <span className="leading-tight">{chapter.label}</span>
+                          {chapter.sub && (
+                            <span className="text-[9px] font-medium opacity-75 truncate max-w-full px-0.5 mt-0.5">
+                              {chapter.sub}
+                            </span>
+                          )}
                         </button>
                       );
                     })}
@@ -741,7 +814,7 @@ function SetupPageContent() {
         <Button 
           variant="primary" 
           className="flex-1 h-14 text-base sm:text-lg font-extrabold shadow-[2px_2px_0px_var(--color-shadow-main)]" 
-          disabled={selectedDecks.length === 0} 
+          disabled={activeSelectedDecks.length === 0} 
           onClick={handleStartSession}
         >
           START SESSION {isBatchEnabled && batchSize > 0 ? `(${batchSize})` : ""} <Play className="w-5 h-5 ml-1.5 fill-current" />

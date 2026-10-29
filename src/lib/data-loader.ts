@@ -5,7 +5,7 @@ export interface DeckSource {
   id: string;
   title: string;
   type: "kotoba" | "kanji" | "bunpou" | "renshuu";
-  chapters: { id: string; label: string; pathKey: string; file: () => Promise<any> }[];
+  chapters: { id: string; label: string; sub?: string; pathKey: string; file: () => Promise<any> }[];
 }
 
 export const KOTOBA_SOURCES: DeckSource[] = [
@@ -194,10 +194,33 @@ export const RENSHUU_SOURCES: DeckSource[] = [
   }
 ];
 
+export const SSW_SOURCES: DeckSource[] = [
+  {
+    id: "ssw_pm",
+    title: "SSW Pengolahan Makanan",
+    type: "kanji",
+    chapters: [
+      { id: "ssw_01", label: "Bab 01", sub: "Pengantar", pathKey: "ssw-pm/bab-01.json", file: () => import(`@/data/ssw-pm/bab-01.json`) },
+      { id: "ssw_02", label: "Bab 02", sub: "Dasar Industri", pathKey: "ssw-pm/bab-02.json", file: () => import(`@/data/ssw-pm/bab-02.json`) },
+      { id: "ssw_03", label: "Bab 03", sub: "Faktor Bahaya", pathKey: "ssw-pm/bab-03.json", file: () => import(`@/data/ssw-pm/bab-03.json`) },
+      { id: "ssw_04", label: "Bab 04", sub: "Kebersihan Umum", pathKey: "ssw-pm/bab-04.json", file: () => import(`@/data/ssw-pm/bab-04.json`) },
+      { id: "ssw_05", label: "Bab 05", sub: "HACCP", pathKey: "ssw-pm/bab-05.json", file: () => import(`@/data/ssw-pm/bab-05.json`) },
+      { id: "ssw_06", label: "Bab 06", sub: "Keselamatan Kerja", pathKey: "ssw-pm/bab-06.json", file: () => import(`@/data/ssw-pm/bab-06.json`) },
+      { id: "ssw_extra", label: "Kotoba Ekstra", sub: "Kosakata Tambahan", pathKey: "ssw-pm/extra.json", file: () => import(`@/data/ssw-pm/extra.json`) }
+    ]
+  }
+];
+
 // Helper to fetch cards for selected decks
 export async function fetchSelectedDecks(selectedChapterIds: string[]) {
-  const allChapters = [...KOTOBA_SOURCES, ...KANJI_SOURCES, ...BUNPOU_SOURCES, ...RENSHUU_SOURCES].flatMap(s => s.chapters);
-  const toFetch = allChapters.filter(c => selectedChapterIds.includes(c.id));
+  const allChapters = [...KOTOBA_SOURCES, ...KANJI_SOURCES, ...BUNPOU_SOURCES, ...RENSHUU_SOURCES, ...SSW_SOURCES].flatMap(s => s.chapters);
+  const seenIds = new Set<string>();
+  const uniqueChapters = allChapters.filter(c => {
+    if (seenIds.has(c.id)) return false;
+    seenIds.add(c.id);
+    return true;
+  });
+  const toFetch = uniqueChapters.filter(c => selectedChapterIds.includes(c.id));
   
   const results = [];
   for (const chapter of toFetch) {
@@ -281,8 +304,14 @@ export async function fetchAllCardsMap(): Promise<Map<string, any>> {
   } catch (e) {}
 
   // 3. Fallback: dynamic imports in parallel batches
-  const allChapters = [...KOTOBA_SOURCES, ...KANJI_SOURCES, ...BUNPOU_SOURCES, ...RENSHUU_SOURCES].flatMap(s => s.chapters);
-  const results = await Promise.allSettled(allChapters.map(c => c.file()));
+  const allChapters = [...KOTOBA_SOURCES, ...KANJI_SOURCES, ...BUNPOU_SOURCES, ...RENSHUU_SOURCES, ...SSW_SOURCES].flatMap(s => s.chapters);
+  const seenIds = new Set<string>();
+  const uniqueChapters = allChapters.filter(c => {
+    if (seenIds.has(c.id)) return false;
+    seenIds.add(c.id);
+    return true;
+  });
+  const results = await Promise.allSettled(uniqueChapters.map(c => c.file()));
   for (const res of results) {
     if (res.status === 'fulfilled') {
       const items = res.value?.default || res.value;

@@ -1,0 +1,796 @@
+# ==============================================================================
+# Sampul, Pengantar & Daftar Isi (Halaman 1–5)
+# ==============================================================================
+飲食料品製造業;いんしょくりょうひんせいぞうぎょう;Industri manufaktur makanan dan minuman
+特定技能1号;とくていぎのう1ごう;Keterampilan Khusus (SSW) Tipe 1
+評価試験;ひょうかしけん;Ujian evaluasi/penilaian
+学習用テキスト;がくしゅうようてきすと;Buku teks pembelajaran
+食品工場;しょくひんこうじょう;Pabrik makanan
+基本的な知識;きほんてきなちしき;Pengetahuan dasar
+技能;ぎのう;Keterampilan/keahlian
+飲料;いんりょう;Minuman
+食料品;しょくりょうひん;Bahan makanan/produk pangan
+構成;こうせい;Susunan/struktur
+体系的;たいけいてき;Sistematis
+実践的;じっせんてき;Praktis (dapat dipraktikkan)
+内容;ないよう;Isi/materi
+見直す;みなおす;Meninjau kembali/merevisi
+考え方;かんがえかた;Cara berpikir/konsep dasar
+用語;ようご;Istilah
+紹介;しょうかい;Pengenalan
+職場;しょくば;Tempat kerja
+従う;したがう;Mematuhi/mengikuti
+活用;かつよう;Pemanfaatan/penggunaan
+食品衛生;しょくひんえいせい;Kebersihan pangan (Food Hygiene)
+労働安全;ろうどうあんぜん;Keselamatan kerja
+目次;もくじ;Daftar isi
+学ぶ;まなぶ;Belajar/mempelajari
+力;ちから;Kekuatan/kemampuan
+ヒヤリ・ハット;ひやり・はっと;Kejadian nyaris celaka (Near-miss)
+図;ず;Diagram/gambar ilustrasi
+
+# ==============================================================================
+# Bab 1: Keterampilan Dasar Industri (Halaman 1–3)
+# ==============================================================================
+生活;せいかつ;Kehidupan sehari-hari
+欠かせない;かかせない;Tidak terpisahkan/sangat penting
+製造;せいぞう;Produksi/pembuatan
+魚の缶詰;さかなのかんづめ;Ikan kaleng
+調味料;ちょうみりょう;Bumbu penyedap
+お菓子;おかし;Camilan/kue
+弁当;べんとう;Nasi kotak (Bento)
+そう菜 (惣菜);そうざい;Lauk-pauk siap saji
+冷凍食品;れいとうしょくひん;Makanan beku
+農林水産省;のうりんすいさんしょう;Kementerian Pertanian, Kehutanan, dan Perikanan Jepang (MAFF)
+統計;とうけい;Statistik
+国内生産額;こくないせいさんがく;Nilai produksi domestik
+単位;たんい;Satuan
+兆円;ちょうえん;Triliun Yen
+概算;がいさん;Perkiraan kasar/estimasi
+冷凍調理食品;れいとうちょうりしょくひん;Makanan olahan beku
+食肉;しょくにく;Daging konsumsi
+畜産食料品;ちくさんしょくりょうひん;Produk pangan hasil peternakan
+水産食料品;すいさんしょくりょうひん;Produk pangan hasil perikanan
+精穀・製粉;せいこく・せいふん;Penggilingan biji-bijian dan pembuatan tepung
+分類;ぶんるい;Klasifikasi/kategori
+割合;わりあい;Persentase/proporsi
+在留資格者;ざいりゅうしかくしゃ;Pemegang status izin tinggal
+業種;ぎょうしゅ;Jenis industri/bidang usaha
+清涼飲料製造業;せいりょういんりょうせいぞうぎょう;Industri pembuatan minuman ringan
+生命;せいめい;Nyawa/kehidupan
+衛る (守る);まもる;Melindungi/menjaga
+病気;びょうき;Penyakit/sakit
+衛生管理;えいせいかんり;Manajemen kebersihan
+十分;じゅうぶん;Cukup/memadai
+信用;しんよう;Kepercayaan
+労働災害;ろうどうさいがい;Kecelakaan kerja
+作業場;さぎょうじょう;Tempat/area kerja
+作業服;さぎょうふく;Seragam/pakaian kerja
+安全保護具;あんぜんほごぐ;Alat Pelindung Diri (APD)
+着用;ちゃくよう;Memakai/mengenakan
+作業手順書;さぎょうてじゅんしょ;Dokumen prosedur kerja (SOP)
+機械;きかい;Mesin
+器具;きぐ;Peralatan/perkakas
+作業者;さぎょうしゃ;Pekerja
+健康;けんこう;Kesehatan
+めん類;めんるい;Aneka mi dan bihun
+命;いのち;Jiwa/nyawa/kehidupan
+ケガ;けが;Luka/cedera fisik
+ヘルメット;へるめっと;Helm pengaman kerja
+
+# ==============================================================================
+# Bab 2.1 & 2.2: Kebersihan Pangan & Faktor Bahaya (Halaman 4–14)
+# ==============================================================================
+行動;こうどう;Tindakan/perilaku
+手洗い;てあらい;Cuci tangan
+手袋;てぶくろ;Sarung tangan
+清潔;せいけつ;Bersih dan higienis (bebas kuman patogen)
+設備;せつび;Peralatan/instalasi fasilitas
+原材料;げんざいりょう;Bahan baku
+温度;おんど;Suhu
+保管;ほかん;Penyimpanan
+共通;きょうつう;Umum/berlaku sama di semua tempat
+一般衛生管理;いっぱんえいせいかんり;Manajemen kebersihan umum
+重要;じゅうよう;Penting
+施設;しせつ;Fasilitas/bangunan pabrik
+種類;しゅるい;Jenis/macam
+特徴;とくちょう;Karakteristik/ciri khas
+応じて;おうじて;Bergantung pada/sesuai dengan
+工程;こうてい;Tahapan/proses produksi
+重要管理点;じゅうようかんりてん;Titik Kendali Kritis (CCP)
+組み合わせる;くみあわせる;Menggabungkan/mengombinasikan
+翻訳;ほんやく;Terjemahan
+危害要因分析;きがいよういんぶんせき;Analisis faktor bahaya (Hazard Analysis)
+危害要因;きがいよういん;Faktor bahaya (Hazard)
+ハザード;はざーど;Faktor bahaya (Hazard)
+原因;げんいん;Penyebab
+含まれる;ふくまれる;Terkandung/termasuk di dalamnya
+活動;かつどう;Kegiatan/aktivitas
+物理的危害要因;ぶつりてききがいよういん;Faktor bahaya fisik
+化学的危害要因;かがくてききがいよういん;Faktor bahaya kimia
+生物的危害要因;せいぶつてききがいよういん;Faktor bahaya biologis
+硬い;かたい;Keras
+歯が欠ける;はがかける;Gigi patah/gompal
+尖る;とがる;Runcing/tajam
+傷;きず;Luka/goresan
+代表的;だいひょうてき;Representatif/utama
+金属片;きんぞくへん;Serpihan/pecahan logam
+ガラス片;がらすへん;Pecahan kaca
+プラスチック片;ぷらすちっくへん;Pecahan plastik
+石;いし;Batu
+取り除く;とりのぞく;Menyingkirkan/membuang
+異物;いぶつ;Benda asing
+卵の殻;たまごのから;Cangkang telur
+硬質異物;こうしついぶつ;Benda asing keras
+混入;こんにゅう;Tercampur/masuknya benda asing
+防止;ぼうし;Pencegahan
+土;つち;Tanah
+小石;こいし;Batu kerikil
+洗浄;せんじょう;Pencucian
+選別;せんべつ;Penyortiran/pemilihan
+下処理;したしょり;Persiapan/pengolahan awal bahan
+根;ね;Akar
+部分;ぶぶん;Bagian
+切り取る;きりとる;Memotong dan membuang
+貝の殻;かいのから;Cangkang kerang
+骨;ほね;Tulang/duri ikan
+蓋;ふた;Tutup/penutup wadah
+虫;むし;Serangga
+髪の毛;かみのけ;Rambut
+紙片;しへん;Potongan/sobekan kertas
+不潔;ふけつ;Kotor/tidak bersih
+不衛生;ふえいせい;Tidak higienis
+苦情;くじょう;Keluhan/komplain pelanggan (klaim)
+返品;へんぴん;Pengembalian barang (retur)
+発見;はっけん;Menemukan
+責任者;せきにんしゃ;Penanggung jawab/atasan
+報告;ほうこく;Melaporkan/laporan
+アレルギー物質;あれるぎーぶっしつ;Zat alergen
+芽;め;Tunas (seperti tunas kentang)
+殺菌剤;さっきんざい;Bahan/obat sterilisasi
+薬剤;やくざい;Bahan kimia/obat-obatan
+化学物質;かがくぶっしつ;Zat kimia
+アレルギー反応;あれるぎーはんのう;Reaksi alergi
+過剰;かじょう;Berlebihan
+症状;しょうじょう;Gejala
+唇;くちびる;Bibir
+腫れ;はれ;Bengkak
+鼻水;はなみず;Ingus
+息;いき;Napas
+吐き気;はきけ;Rasa mual
+法律;ほうりつ;Hukum/undang-undang
+発症数;はっしょうすう;Jumlah kasus munculnya gejala
+加工食品;かこうしょくひん;Makanan olahan
+表示;ひょうじ;Pencantuman label informasi
+義務;ぎむ;Kewajiban
+特定原材料;とくていげんざいりょう;Bahan baku spesifik (alergen wajib label)
+推奨;すいしょう;Anjuran/rekomendasi
+特定原材料に準ずるもの;とくていげんざいりょうにじゅんずるもの;Bahan setara bahan spesifik (alergen anjuran label)
+品目;ひんもく;Item/jenis komoditas
+小麦;こむぎ;Gandum
+卵;たまご;Telur
+乳;にゅう;Susu
+落花生;らっかせい;Kacang tanah
+牛肉;ぎゅうにく;Daging sapi
+大豆;だいず;Kacang kedelai
+鶏肉;とりにく;Daging ayam
+豚肉;ぶたにく;Daging babi
+桃;もも;Buah persik (Peach)
+追加;ついか;Penambahan
+調理器具;ちょうりきぐ;Peralatan memasak
+まな板;まないた;Talenan
+包丁;ほうちょう;Pisau dapur
+区別;くべつ;Membedakan/memisahkan penggunaan
+防ぐ;ふせぐ;Mencegah
+洗浄剤;せんじょうざい;Bahan pencuci/deterjen
+洗い流す;あらいながす;Membilas dengan air mengalir
+魚を獲る;さかなをとる;Menangkap ikan
+冷蔵;れいぞう;Pendinginan (Chilling)
+冷凍;れいとう;Pembekuan (Freezing)
+条件;じょうけん;Kondisi/syarat
+保存;ほぞん;Penyimpanan/pengawetan
+赤身魚;あかみざかな;Ikan berdaging merah (tuna, saba, sarden, dll.)
+食中毒;しょくちゅうどく;Keracunan makanan
+保存状態;ほぞんじょうたい;Kondisi penyimpanan
+受入れる;うけいれる;Menerima (bahan baku masuk)
+緑色の皮;みどりいろのかわ;Kulit berwarna hijau (pada kentang)
+おう吐;おうと;Muntah
+下痢;げり;Diare
+腹痛;ふくつう;Sakit perut
+頭痛;ずつう;Sakit kepala
+細菌;さいきん;Bakteri
+寄生虫;きせいちゅう;Parasit/cacing parasit
+病原性微生物;びょうげんせいびせいぶつ;Mikroorganisme patogen (penyebab penyakit)
+微生物;びせいぶつ;Mikroorganisme
+顕微鏡;けんびきょう;Mikroskop
+食中毒菌;しょくちゅうどくきん;Bakteri penyebab keracunan makanan
+名称;めいしょう;Nama/sebutan
+発症;はっしょう;Timbulnya gejala penyakit
+発熱;はつねつ;Demam
+鶏卵;けいらん;Telur ayam
+腸炎ビブリオ;ちょうえんびぶりお;Bakteri Vibrio parahaemolyticus
+毒素;どくそ;Racun/toksin
+魚介類;ぎょかいるい;Makanan laut (ikan dan kerang-kerangan)
+激しい;はげしい;Parah/hebat (diare/sakit perut)
+腸管出血性大腸菌;ちょうかんしゅっけつせいだいちょうきん;Bakteri E. coli enterohemoragik (O157, O111)
+井戸水;いどみず;Air sumur
+血便;けつべん;Tinja/BAB berdarah
+黄色ブドウ球菌;おうしょくぶどうきゅうきん;Bakteri Staphylococcus aureus
+皮膚;ひふ;Kulit
+傷口;きずぐち;Luka terbuka
+芽胞;がほう;Spora bakteri tahan panas
+穀物加工品;こくもつかこうひん;Produk olahan biji-bijian/serealia
+炒飯;ちゃーはん;Nasi goreng
+加熱調理;かねつちょうり;Memasak dengan pemanasan
+瓶詰め食品;びんづめしょくひん;Makanan kemasan botol
+呼吸困難;こきゅうこんなん;Kesulitan bernapas/sesak napas
+種;たね;Biji/benih
+通常;つうじょう;Biasanya/normal
+乾燥;かんそう;Kekeringan/pengeringan
+環境;かんきょう;Lingkungan
+生き残る;いきのこる;Bertahan hidup
+食中毒予防の3原則;しょくちゅうどくよぼうの3げんそく;3 Prinsip Pencegahan Keracunan Makanan
+作業開始前;さぎょうかいしまえ;Sebelum mulai bekerja
+殺菌;さっきん;Sterilisasi/membunuh kuman
+水分;すいぶん;Kadar air/cairan
+栄養;えいよう;Nutrisi/zat gizi
+湿度;しつど;Kelembapan udara
+好む;このむ;Menyukai
+低温保管;ていおんほかん;Penyimpanan suhu rendah
+加熱;かねつ;Pemanasan
+濃度;のうど;Konsentrasi/kepekatan larutan
+牡蠣;かき;Tiram
+二枚貝;にまいがい;Kerang berkeping dua (Bivalvia)
+汚染;おせん;Kontaminasi/pencemaran
+感染;かんせん;Infeksi/tertular
+腸;ちょう;Usus
+大便;だいべん;Tinja/feses
+中心温度;ちゅうしんおんど;Suhu bagian tengah/inti makanan
+消毒;しょうどく;Disinfeksi
+次亜塩素酸ナトリウム;じあえんそさんなとりうむ;Natrium Hipoklorit (cairan disinfektan klorin)
+次亜塩素酸ナトリウム溶液;じあえんそさんなとりうむようえき;Larutan Natrium Hipoklorit
+布巾;ふきん;Kain lap dapur
+拭く;ふく;Mengelap
+対策;たいさく;Tindakan penanggulangan
+有効;ゆうこう;Efektif
+持ち込まない;もちこまない;Tidak membawa masuk
+確認;かくにん;Memastikan/konfirmasi
+おう吐物;おうとぶつ;Muntahan
+専門用具;せんもんようぐ;Alat khusus
+処理;しょり;Penanganan/pemrosesan
+拡げない;ひろげない;Tidak menyebarkan
+増殖;ぞうしょく;Berkembang biak/bertambah banyak
+胞子;ほうし;Spora jamur/kapang
+存在;そんざい;Keberadaan/eksis
+完全;かんぜん;Sempurna/sepenuhnya
+穀類;こくるい;Biji-bijian/serealia
+表面;ひょうめん;Permukaan
+体内;たいない;Di dalam tubuh
+間;あいだ;Di antara/selang waktu
+殻;から;Cangkang/kulit keras
+ガラス;がらす;Kaca
+かゆみ;かゆみ;Rasa gatal
+くしゃみ;くしゃみ;Bersin
+じゃがいもの芽;じゃがいものめ;Tunas kentang (mengandung solanin)
+準ずるもの;じゅんずるもの;Bahan yang setara/dianjurkan dicantumkan
+じんましん;じんましん;Biduran/ruam kulit gatal akibat alergi
+まぶた;まぶた;Kelopak mata (bengkak karena alergi)
+アレルギー;あれるぎー;Alergi
+アレルゲン;あれるげん;Alergen (zat pemicu alergi)
+クレーム;くれーむ;Keluhan/komplain pelanggan (klaim)
+ソラニン;そらにん;Solanin (racun alami pada tunas/kulit hijau kentang)
+ヒスタミン;ひすたみん;Histamin (senyawa beracun pada ikan daging merah bila tidak dingin)
+えび;えび;Udang (Alergen wajib lapor)
+かに;かに;Kepiting (Alergen wajib lapor)
+くるみ;くるみ;Kacang kenari/walnut (Alergen wajib lapor)
+そば;そば;Gandum soba (Alergen wajib lapor)
+カシューナッツ;かしゅーなっつ;Kacang mede (Alergen wajib lapor - revisi 2026)
+アーモンド;あーもんど;Kacang almond (Alergen anjuran)
+あわび;あわび;Kerang abalon (Alergen anjuran)
+いか;いか;Cumi-cumi (Alergen anjuran)
+いくら;いくら;Telur salmon (Alergen anjuran)
+オレンジ;おれんじ;Jeruk (Alergen anjuran)
+キウイフルーツ;きういふるーつ;Buah kiwi (Alergen anjuran)
+ごま;ごま;Wijen (Alergen anjuran)
+さけ;さけ;Ikan salmon (Alergen anjuran)
+さば;さば;Ikan kembung/saba (Alergen anjuran)
+バナナ;ばなな;Pisang (Alergen anjuran)
+マカダミアナッツ;まかだみあなっつ;Kacang makadamia (Alergen anjuran)
+やまいも;やまいも;Ubi jepang/yam (Alergen anjuran)
+りんご;りんご;Apel (Alergen anjuran)
+ゼラチン;ぜらちん;Gelatin (Alergen anjuran)
+ピスタチオ;ぴすたちお;Kacang pistachio (Alergen anjuran - revisi 2026)
+ゆで卵;ゆでたまご;Telur rebus
+皮;かわ;Kulit (buah/umbi/kentang)
+マグロ;まぐろ;Ikan tuna (ikan daging merah)
+アジ;あじ;Ikan selar/kuda (ikan daging merah)
+イワシ;いわし;Ikan sarden (ikan daging merah)
+カンピロバクター属菌;かんぴろばくたーぞくきん;Bakteri Campylobacter (pada daging unggas)
+サルモネラ属菌;さるもねらぞくきん;Bakteri Salmonella (pada telur & daging ayam)
+セレウス菌;せれうすきん;Bakteri Bacillus cereus (pada nasi/nasi goreng/biji-bijian)
+ウェルシュ菌;うぇるしゅきん;Bakteri Clostridium perfringens (pada kari/semur)
+ボツリヌス菌;ぼつりぬすきん;Bakteri Clostridium botulinum (pada makanan kaleng/botol)
+ウイルス;ういるす;Virus
+ノロウイルス;のろういるす;Norovirus (penyebab keracunan tiram/kerang & feses)
+カビ;かび;Jamur/kapang
+アニサキス;あにさきす;Cacing parasit Anisakis (pada ikan laut mentah)
+豆;まめ;Kacang-kacangan
+生;なま;Mentah/segar
+
+# ==============================================================================
+# Bab 2.3: Manajemen Kebersihan Umum (Halaman 14–37)
+# ==============================================================================
+整理;せいり;Ringkas (membuang barang yang tidak perlu)
+整頓;せいとん;Rapi (menata barang agar mudah diambil)
+清掃;せいそう;Resik (mencuci/membersihkan kotoran)
+習慣付け;しゅうかんづけ;Rajin/pembiasaan menjalankan aturan
+順序;じゅんじょ;Urutan
+数量;すうりょう;Jumlah/kuantitas
+磨く;みがく;Menggosok/menyikat
+汚れ;よごれ;Kotoran/noda
+見た目;みため;Tampilan luar/penampakan
+実行;じっこう;Melaksanakan/eksekusi
+保つ;たもつ;Menjaga/mempertahankan
+手指;てゆび;Jari dan tangan
+交差汚染;こうさおせん;Kontaminasi silang
+使い分け;つかいわけ;Pemisahan penggunaan sesuai peruntukan
+区分衛生管理;くぶんえいせいかんり;Manajemen kebersihan pembagian zona (Zoning)
+清潔作業区域;せいけつさぎょうくいき;Area kerja bersih
+準清潔作業区域;じゅんせいけつさぎょうくいき;Area kerja semi-bersih
+汚染作業区域;おせんさぎょうくいき;Area kerja terkontaminasi/kotor
+取り扱う;とりあつかう;Menangani/mengelola
+盛り付け;もりつけ;Penataan makanan ke wadah (Plating)
+トッピング;とっぴんぐ;Topping/taburan makanan siap saji
+包装;ほうそう;Pengemasan (Packaging)
+出荷;しゅっか;Pengiriman produk keluar pabrik
+段ボール箱;だんぼーるばこ;Kotak kardus
+製品;せいひん;Produk jadi
+不要;ふよう;Tidak diperlukan
+通路;つうろ;Jalur jalan/lorong
+定期的;ていきてき;Secara berkala/rutin
+衛生状況;えいせいじょうきょう;Kondisi kebersihan
+排水溝;はいすいこう;Saluran pembuangan air/selokan
+発生源;はっせいげん;Sumber kemunculan (serangga/hama)
+床;ゆか;Lantai
+濡れる;ぬれる;Basah
+分解;ぶんかい;Membongkar (bagian mesin)
+目立つ;めだつ;Mencolok/terlihat jelas
+刃;は;Mata pisau
+直接触れる;ちょくせつふれる;Menyentuh secara langsung
+水切りワイパー;みずきりわいぱー;Wiper penarik air lantai
+清掃用具;せいそうようぐ;Peralatan kebersihan
+保管庫;ほかんこ;Lemari/ruang penyimpanan
+健康チェック;けんこうちぇっく;Pemeriksaan kesehatan pekerja sebelum masuk kerja
+健康診断;けんこうしんだん;Pemeriksaan kesehatan (Medical check-up)
+検便;けんべん;Pemeriksaan sampel feses/tinja
+更衣室;こういしつ;Ruang ganti pakaian
+帽子;ぼうし;Topi
+爪;つめ;Kuku
+つけ爪;つけづめ;Kuku palsu
+指輪;ゆびわ;Cincin
+腕輪;うでわ;Gelang
+腕時計;うでどけい;Jam tangan
+つけまつげ;つけまつげ;Bulu mata palsu
+鏡;かがみ;Cermin
+衣服;いふく;Pakaian
+頭髪;とうはつ;Rambut kepala
+留める;とめる;Mengancingkan/menutup (kancing/ritsleting)
+服装;ふくそう;Cara berpakaian/pakaian
+脱ぐ;ぬぐ;Melepas (topi/pakaian/sepatu)
+袖をまくる;そでをまくる;Menggulung lengan baju
+粘着ローラー;ねんちゃくろーらー;Rol perekat pembersih debu/rambut
+履物;はきもの;Alas kaki
+履き替える;はきかえる;Mengganti alas kaki
+内側;うちがわ;Bagian dalam
+上着;うわぎ;Baju atasan
+襟;えり;Kerah baju
+付着;ふちゃく;Menempel
+縦襟;たてえり;Kerah tegak
+裾;すそ;Ujung bawah baju/celana
+絞り;しぼり;Karet kerutan pengencang
+端;はし;Ujung/pinggiran
+腕カバー;うでかばー;Pelindung lengan
+注意事項;ちゅういじこう;Hal-hal yang harus diperhatikan
+はみだす;はみだす;Menonjol keluar (rambut dari topi)
+束ねる;たばねる;Mengikat (rambut panjang)
+針金;はりがね;Kawat (pada bagian hidung masker)
+隙間;すきま;Celah
+破れ;やぶれ;Robek/sobekan
+直前;ちょくぜん;Sesaat sebelum
+非汚染作業区域;ひおせんさぎょうくいき;Area kerja tidak terkontaminasi
+移動;いどう;Berpindah tempat
+流水;りゅうすい;Air mengalir
+手首;てくび;Pergelangan tangan
+指の間;ゆびのあいだ;Sela-sela jari
+指の先;ゆびのさき;Ujung jari
+秒間程度;びょうかんていど;Sekitar ... detik
+使い捨て;つかいすて;Sekali pakai buang
+乾かす;かわかす;Mengeringkan
+消毒用アルコール;しょうどくようあるこーる;Alkohol disinfektan
+噴きつける;ふきつける;Menyemprotkan
+交換;こうかん;Pertukaran/mengganti
+徹底;てってい;Menyeluruh/ketat
+殺菌済み;さっきんずみ;Sudah disterilisasi
+非加熱調理;ひかねつちょうり;Pengolahan tanpa pemanasan
+装置;そうち;Perangkat/instalasi mesin
+不備;ふび;Kerusakan/kekurangan/ketidaklengkapan
+唾を吐く;つばをはく;Meludah
+咳;せき;Batuk
+ホチキスの針;ほちきすのはり;Isi staples
+書類;しょるい;Dokumen
+鉛筆;えんぴつ;Pensil
+折れた芯;おれたしん;Isi pensil yang patah
+臭い;におい;Bau/aroma
+品質;ひんしつ;Kualitas/mutu
+影響;えいきょう;Pengaruh/dampak
+香水;こうすい;Parfum
+禁止;きんし;Larangan
+意図的;いとてき;Secara sengaja
+出入り口;でいりぐち;Pintu keluar-masuk
+倉庫;そうこ;Gudang
+外部;がいぶ;Luar (pihak eksternal)
+照らし合わせる;てらしあわせる;Mencocokkan (dokumen dengan barang)
+受入検査;うけいれけんさ;Inspeksi penerimaan bahan baku
+規格;きかく;Standar spesifikasi (ukuran/jumlah isi)
+包装状態;ほうそうじょうたい;Kondisi kemasan
+期限;きげん;Batas waktu/kedaluwarsa
+品温;ひんおん;Suhu barang/produk
+腐敗;ふはい;Pembusukan/basi
+適切;てきせつ;Tepat/sesuai
+合格;ごうかく;Lulus (inspeksi/ujian)
+室温;しつおん;Suhu ruang
+異なる;ことなる;Berbeda
+米穀類;べいこくるい;Beras/padi-padian
+穀類加工品;こくるいかこうひん;Produk olahan serealia (tepung terigu/pati)
+食塩;しょくえん;Garam dapur
+食酢;しょくす;Cuka makan
+食肉製品;しょくにくせいひん;Produk olahan daging (ham, sosis, bacon)
+鮮魚介類;せんぎょかいるい;Ikan dan kerang segar
+水産物;すいさんぶつ;Hasil laut/perikanan
+油脂;ゆし;Minyak dan lemak
+固形油脂;こけいゆし;Lemak padat (lard, margarin, shortening)
+液状;えきじょう;Bentuk cair
+殻付き卵;からつきたまご;Telur bercangkang
+液卵;えきらん;Telur cair (tanpa cangkang)
+凍結卵;とうけつらん;Telur beku
+生鮮果実・野菜;せいせんかじつ・やさい;Buah dan sayuran segar
+濃縮乳;のうしゅくにゅう;Susu kental/konsentrat
+脱脂乳;だっしにゅう;Susu skim (tanpa lemak)
+練乳;れんにゅう;Susu kental manis
+容器;ようき;Wadah
+指定;してい;Ditentukan/ditetapkan
+詰め込む;つめこむ;Memasukkan sampai penuh sesak
+冷気;れいき;Udara dingin
+節電;せつでん;Penghematan listrik
+測定;そくてい;Pengukuran
+食品衛生法;しょくひんえいせいほう;Undang-Undang Kebersihan Pangan
+棚;たな;Rak
+使用期限;しようきげん;Batas waktu penggunaan bahan baku
+賞味期限;しょうみきげん;Batas waktu rasa lezat (Best Before)
+消費期限;しょうひきげん;Batas waktu aman konsumsi (Use By)
+未開封;みかいふう;Belum dibuka kemasannya
+企業;きぎょう;Perusahaan
+可能性;かのうせい;Kemungkinan
+納品;のうひん;Pengantaran/serah terima barang
+先入れ、先出し;さきいれ、さきだし;First-In, First-Out (FIFO)
+開封;かいふう;Membuka kemasan
+包装材料;ほうそうざいりょう;Bahan pengemas
+誤って;あやまって;Secara tidak sengaja/keliru
+切れ端;きれはし;Potongan ujung sobekan kemasan
+工夫;くふう;Upaya/inovasi cara
+切れ口;きれくち;Bagian mulut kemasan yang digunting
+解凍;かいとう;Pencairan bahan beku (Thawing)
+加温;かおん;Penghangatan/pemanasan ringan
+自然解凍;しぜんかいとう;Pencairan pada suhu ruang
+冷蔵庫解凍;れいぞうこかいとう;Pencairan di dalam kulkas
+冷凍庫;れいとうこ;Lemari pembeku (Freezer)
+流水解凍;りゅうすいかいとう;Pencairan dengan air mengalir
+汁;しる;Cairan yang keluar dari daging/ikan saat dicairkan (Drip)
+網目トレー;あみめとれー;Nampan jaring/berlubang
+排水;はいすい;Saluran pembuangan air
+密閉;みっぺい;Tertutup rapat/kedap
+移し替える;うつしかえる;Memindahkan ke wadah/kantong lain
+固形の脂;こけいのあぶら;Lemak padat
+劣化;れっか;Penurunan kualitas/kerusakan mutu
+魚介藻類;ぎょかいそうるい;Ikan, kerang, dan rumput laut
+適正;てきせい;Tepat/sesuai standar
+食塩水;しょくえんすい;Air garam
+分別;ぶんべつ;Pemilahan
+裁断;さいだん;Pemotongan
+確実に;かくじつに;Dengan pasti
+廃棄;はいき;Pembuangan/pemusnahan
+X線異物検出機;えっくすせんいぶつけんしゅつき;Mesin pendeteksi benda asing sinar-X
+製造工程;せいぞうこうてい;Proses produksi
+細断;さいだん;Memotong kecil-kecil/mencincang
+混合;こんごう;Pencampuran (Mixing)
+成型;せいけい;Pencetakan bentuk (Molding)
+配管;はいかん;Pipa saluran
+加熱殺菌;かねつさっきん;Sterilisasi dengan pemanasan
+消化;しょうか;Pencernaan
+芽胞菌;がほうきん;Bakteri pembentuk spora
+設定;せってい;Pengaturan/penetapan
+肉のかたまり;にくのかたまり;Bongkahan/potongan besar daging
+冷却;れいきゃく;Pendinginan (setelah dimasak)
+具体的;ぐたいてき;Secara spesifik/konkret
+風冷;ふうれい;Pendinginan dengan hembusan angin
+水冷;すいれい;Pendinginan dengan air dingin
+損なう;そこなう;Merusak/mengurangi (cita rasa)
+薬剤による殺菌;やくざいによるさっきん;Sterilisasi menggunakan bahan kimia
+保存性;ほぞんせい;Daya tahan simpan
+凍結;とうけつ;Membekukan
+弾力;だんりょく;Elastisitas/kekenyalan
+食感;しょっかん;Tekstur makanan saat dikunyah
+風味;ふうみ;Cita rasa dan aroma
+急速;きゅうそく;Secara cepat (pembekuan cepat)
+充填;じゅうてん;Pengisian produk ke dalam wadah/botol (Filling)
+印字;いんじ;Pencetakan huruf/angka (tanggal kedaluwarsa)
+金属探知機;きんぞくたんちき;Mesin pendeteksi logam (Metal Detector)
+探知;たんち;Mendeteksi
+正常に機能する;せいじょうにきのうする;Berfungsi dengan normal
+数量不足;すうりょうぶそく;Kekurangan jumlah isi
+形状不良品;けいじょうふりょうひん;Produk cacat bentuk
+頼る;たよる;Bergantung/mengandalkan
+微生物検査;びせいぶつけんさ;Uji/inspeksi mikroorganisme
+項目;こうもく;Item/butir pemeriksaan
+自主的;じしゅてき;Secara sukarela/inisiatif mandiri
+一般生菌数;いっぱんせいきんすう;Jumlah bakteri hidup secara umum (Standard Plate Count)
+大腸菌群;だいちょうきんぐん;Kelompok bakteri Coliform
+配送;はいそう;Pengantaran/distribusi
+製品倉庫;せいひんそうこ;Gudang produk jadi
+抜き出す;ぬきだす;Mengambil sampel secara acak
+輸送;ゆそう;Pengangkutan/transportasi
+５Ｓ;ごえす;5S (Seiri, Seiton, Seisou, Seiketsu, Shitsuke)
+しつけ;しつけ;Disiplin/pembiasaan menjalankan aturan kebersihan
+ゾーニング;ぞーにんぐ;Zoning (pembagian zona sanitasi kerja)
+混ぜる;まぜる;Mencampur/mengaduk bahan
+ミキサー;みきさー;Mesin pengaduk/mixer
+スライサー;すらいさー;Mesin pengiris/pemotong tipis (Slicer)
+フードカッター;ふーどかったー;Mesin perajang/pencacah bahan
+ぞうきん;ぞうきん;Kain lap pembersih
+たわし;たわし;Sikat serabut penggosok kotoran
+スポンジ;すぽんじ;Spons pencuci alat
+モップ;もっぷ;Alat pel pembersih lantai
+デッキブラシ;でっきぶらし;Sikat lantai bertangkai
+ヘアーネット;へあーねっと;Jaring rambut di dalam topi
+マスク;ますく;Masker penutup hidung dan mulut
+マニキュア;まにきゅあ;Cat kuku (dilarang di pabrik makanan)
+ピアス;ぴあす;Anting-anting tindik (dilarang)
+イヤリング;いやりんぐ;Anting-anting jepit (dilarang)
+ネックレス;ねっくれす;Kalung perhiasan (dilarang)
+ヘアピン;へあぴん;Jepit rambut (dilarang)
+ボタン;ぼたん;Kancing (pakaian kerja tidak boleh berkancing)
+ジッパー;じっぱー;Ritsleting seragam kerja
+ファスナー;ふぁすなー;Ritsleting pakaian kerja
+ブラッシング;ぶらっしんぐ;Menyikat/membersihkan rambut sebelum masuk
+エアーシャワー;えあーしゃわー;Bilik semprotan udara pembersih debu
+ポケット;ぽけっと;Kantong/saku baju (baju kerja tanpa saku)
+エプロン;えぷろん;Celemek/apron kerja
+あご;あご;Dagu (masker harus menutupi hingga bawah dagu)
+首;くび;Leher
+痰;たん;Dahak (dilarang meludah/membuang dahak)
+唾;つば;Air ludah/liur (dilarang meludah di area kerja)
+クラフト紙;くらふとし;Kertas kraft pembungkus kemasan bahan
+穴;あな;Lubang/kebocoran kemasan
+うろこ;うろこ;Sisik ikan (harus dibersihkan saat preparasi)
+エラ;えら;Insang ikan (harus dibuang saat preparasi)
+骨;ほね;Tulang/duri ikan dan hewan
+トレー;とれー;Nampan/baki wadah bahan makanan
+ドリップ;どりっぷ;Cairan drip yang keluar saat bahan beku dicairkan
+ヒレ;ひれ;Sirip ikan (dibuang saat penyiangan)
+ペースト;ぺーすと;Bahan berbentuk pasta kental
+お湯;おゆ;Air panas untuk pencucian/pembilasan pipa
+かたまり;かたまり;Gumpalan/bongkahan bahan (misal bongkahan daging)
+キャップ;きゃっぷ;Tutup botol atau wadah
+テストピース;てすとぴーす;Benda uji standar logam untuk kalibrasi detector
+ミス;みす;Kesalahan kelalaian kerja (misal salah cetak tanggal)
+サンプル;さんぷる;Sampel produk untuk disimpan dan diuji kualitasnya
+
+# ==============================================================================
+# Bab 2.4: Manajemen Kebersihan HACCP (Halaman 37–41)
+# ==============================================================================
+仕組み;しくみ;Sistem/mekanisme
+分析;ぶんせき;Analisis
+管理基準;かんりきじゅん;Standar kendali/batas kritis (Critical Limit)
+監視;かんし;Pemantauan (Monitoring)
+運用;うんよう;Penerapan/pengoperasian
+判断;はんだん;Memutuskan/menilai
+決定;けってい;Penetapan/keputusan
+改善措置;かいぜんそち;Tindakan perbaikan (Corrective Action)
+逸脱;いつだつ;Penyimpangan (dari standar管理基準)
+検証方法;けんしょうほうほう;Metode verifikasi
+除去;じょきょ;Penghilangan/eliminasi
+低減;ていげん;Pengurangan/penurunan
+文書;ぶんしょ;Dokumen tertulis
+記録;きろく;Pencatatan/rekaman data
+指示;しじ;Instruksi/arahan
+速度;そくど;Kecepatan
+調整;ちょうせい;Penyesuaian/penyetelan
+加熱不足;かねつぶそく;Pemanasan tidak cukup/kurang matang
+実施;じっし;Pelaksanaan
+管理手段;かんりしゅだん;Cara/metode pengendalian
+事実;じじつ;Fakta/kenyataan
+修正;しゅうせい;Koreksi/perubahan data
+ハサップ;はさっぷ;HACCP (Hazard Analysis Critical Control Point)
+ＨＡＣＣＰプラン;はさっぷぷらん;Rencana/dokumen operasional HACCP
+７原則;ななげんそく;7 Prinsip utama dalam penerapan HACCP
+モニタリング;もにたりんぐ;Pemantauan berkala titik kendali kritis
+コンベア;こんべあ;Ban berjalan pengangkut produk (Conveyor)
+加熱ゾーン;かねつぞーん;Zona pemanasan pada jalur mesin produksi
+作り直す;つくりなおす;Membuat ulang/rework bila terjadi penyimpangan
+あらかじめ;あらかじめ;Terlebih dahulu/sebelumnya
+計る;はかる;Mengukur/menimbang parameter proses
+
+# ==============================================================================
+# Bab 3 & Lampiran: Keselamatan Kerja & Rambu (Halaman 42–65)
+# ==============================================================================
+経験;けいけん;Pengalaman
+未熟練作業者;みじゅくれんさぎょうしゃ;Pekerja kurang berpengalaman (pengalaman < 3 tahun)
+死傷者;ししょうしゃ;Korban tewas dan luka-luka
+占める;しめる;Menempati porsi/menyumbang persentase
+危険;きけん;Bahaya
+転倒;てんとう;Terjatuh/terpeleset
+はさまれ・巻き込まれ;はさまれ・まきこまれ;Terjepit dan tergulung/tertarik mesin
+切れ・こすれ;きれ・こすれ;Terpotong dan tergores
+墜落・転落;ついらく・てんらく;Jatuh dari ketinggian / terguling jatuh
+骨を折る;ほねをおる;Patah tulang
+つぶれる;つぶれる;Hancur/remuk (tulang jari/lengan)
+つまる;つまる;Tersumbat/macet (bahan di dalam mesin)
+切り落とす;きりおとす;Terpotong putus (jari)
+階段;かいだん;Tangga
+脚立;きゃたつ;Tangga lipat (Stepladder)
+捻挫;ねんざ;Keseleo/terkilir
+やけど (火傷);やけど;Luka bakar
+全身;ぜんしん;Seluruh tubuh
+腰痛;ようつう;Sakit pinggang
+熱中症;ねっちゅうしょう;Sengatan panas (Heatstroke)
+気温;きおん;Suhu udara
+体温調節;たいおんちょうせつ;Pengaturan suhu tubuh
+激突;げきとつ;Tabrakan keras (dengan forklift)
+目標;もくひょう;Target/tujuan
+動線;どうせん;Jalur pergerakan pekerja
+枠;わく;Garis batas/bingkai area
+故障;こしょう;Kerusakan mesin
+感染症;かんせんしょう;Penyakit menular/infeksi
+袖口;そでぐち;Ujung lengan baju
+頭傷防止;とうしょうぼうし;Pencegahan cedera kepala
+高所作業;こうしょさぎょう;Pekerjaan di tempat tinggi (≥ 2 meter)
+保護メガネ;ほごめがね;Kacamata pelindung
+微粉;びふん;Bubuk/partikel sangat halus
+高圧洗浄作業;こうあつせんじょうさぎょう;Pekerjaan pencucian bertekanan tinggi
+液体;えきたい;Cairan
+耳栓;みみせん;Penyumbat telinga (Earplug)
+防音;ぼうおん;Kedap suara/peredam bising
+騒音;そうおん;Suara bising
+難聴;なんちょう;Gangguan pendengaran/tuli
+耐熱;たいねつ;Tahan panas
+切傷防止;せっしょうぼうし;Pencegahan luka potong/sayat
+繊維;せんい;Serat kain
+刃物;はもの;Benda tajam/pisau
+耐切創手袋;たいせっそうてぶくろ;Sarung tangan tahan sayatan
+安全靴;あんぜんぐつ;Sepatu keselamatan (Safety shoes)
+圧傷防止;あっしょうぼうし;Pencegahan luka tindih/himpit pada kaki
+鋼板;こうはん;Pelat baja
+くさり手袋;くさりてぶくろ;Sarung tangan rantai baja (anti-sayat)
+耐油;たいゆ;Tahan minyak
+靴底;くつぞこ;Sol/alas sepatu
+横断方法;おうだんほうほう;Cara menyeberang jalur
+指差呼称;しさこしょう;Tunjuk dan sebut (Pointing and Calling)
+共同;きょうどう;Bersama-sama/kolaborasi
+合図;あいず;Isyarat/kode aba-aba
+よそ見;よそみ;Melihat ke arah lain/meleng
+ムダ話;むだばなし;Mengobrol yang tidak perlu
+工具;こうぐ;Perkakas/alat teknik
+安全標識;あんぜんひょうしき;Rambu keselamatan
+始業前点検;しぎょうまえてんけん;Pemeriksaan sebelum mulai kerja
+振動;しんどう;Getaran
+部品;ぶひん;Suku cadang/komponen (Sparepart)
+安全装置;あんぜんそうち;Perangkat pengaman mesin
+点灯・消灯;てんとう・しょうとう;Menyala dan mati (lampu indikator)
+異常時;いじょうじ;Saat kondisi tidak normal/darurat
+停止;ていし;Berhenti
+電源;でんげん;Sumber daya listrik (Power)
+運転中;うんてんちゅう;Sedang beroperasi/menyala
+回転;かいてん;Berputar
+非常停止ボタン;ひじょうていしぼたん;Tombol berhenti darurat (Emergency Stop)
+操作盤;そうさばん;Panel kontrol/operasi
+修理;しゅうり;Perbaikan/servis
+点検と整備;てんけんとせいび;Pemeriksaan dan pemeliharaan (Maintenance)
+塩素系の洗剤;えんそけいのせんざい;Deterjen berbahan dasar klorin
+酸性洗剤;さんせいせんざい;Deterjen bersifat asam
+有毒な塩素ガス;ゆうどくなえんそがす;Gas klorin beracun
+火災;かさい;Kebakaran
+異常事態;いじょうじたい;Situasi darurat/tidak normal
+緊急停止ボタン;きんきゅうていしぼたん;Tombol berhenti darurat
+勝手な行動;かってなこうどう;Tindakan sendiri sesuka hati (tanpa instruksi)
+二次災害;にじさいがい;Kecelakaan sekunder (menimpa penolong)
+避難訓練;ひなんくんれん;Latihan evakuasi
+点滅;てんめつ;Berkedip-kedip (lampu)
+事例;じれい;Contoh kasus
+ハインリッヒの法則;はいんりっひのほうそく;Hukum Heinrich (1:29:300)
+共有;きょうゆう;Berbagi informasi (Sharing)
+危険予知訓練;きけんよちくんれん;Pelatihan Prediksi Bahaya (KYT)
+潜在的な危険;せんざいてきなきけん;Bahaya tersembunyi/laten
+感電;かんでん;Tersengat listrik (kesetrum)
+酸欠;さんけつ;Kekurangan oksigen
+有害物;ゆうがいぶつ;Zat berbahaya/beracun
+爆発;ばくはつ;Meledak
+漏れる;もれる;Bocor
+姿勢;しせい;Postur tubuh
+警戒;けいかい;Waspada/siaga
+空箱;からばこ;Kotak kosong
+足元;あしもと;Area sekitar langkah kaki
+押し板;おしいた;Papan pendorong (pada mesin pengiris)
+開き止め金具;ひらきどめかなぐ;Besi pengunci rentangan tangga lipat
+鉄板;てっぱん;Loyang besi pemanggang
+素手;すで;Tangan kosong (tanpa sarung tangan)
+釜;かま;Kawah/periuk besar
+台車;だいしゃ;Troli dorong
+計量作業;けいりょうさぎょう;Pekerjaan menimbang bahan
+安静;あんせい;Istirahat tenang (tidak banyak bergerak)
+脇の下;わきのした;Ketiak
+足のつけ根;あしのつけね;Pangkal paha
+一時停止;いちじていし;Berhenti sejenak
+立入禁止;たちいりきんし;Dilarang masuk
+開放厳禁;かいほうげんきん;Dilarang keras dibiarkan terbuka
+高温注意;こうおんちゅうい;Awas suhu tinggi/panas
+開口部注意;かいこうぶちゅうい;Awas lubang terbuka
+切断注意;せつだんちゅうい;Awas terpotong
+回転物;かいてんぶつ;Benda/mesin yang berputar
+頭上注意;ずじょうちゅうい;Awas bagian atas kepala
+非常口;ひじょうぐち;Pintu darurat
+消火器;しょうかき;Alat Pemadam Api Ringan (APAR)
+マニュアル;まにゅある;Buku panduan manual/SOP kerja pabrik
+はしご;はしご;Tangga lurus/tangga panjat
+テープ;てーぷ;Pita garis penanda lantai (jalur kerja/palet)
+つま先;つまさき;Ujung jari kaki (dilindungi pelat baja sepatu keselamatan)
+かかと;かかと;Tumit kaki (dilindungi penguat sepatu keselamatan)
+布;ぬの;Kain pelapis/kain tahan panas
+ステンレス鋼;すてんれすこう;Baja tahan karat (bahan sarung tangan rantai)
+ゴム手袋;ごむてぶくろ;Sarung tangan karet (pelindung bahan kimia/panas ringan)
+ミトン手袋;みとんてぶくろ;Sarung tangan mitten tebal tahan panas oven
+メクセル手袋;めくせるてぶくろ;Sarung tangan rajut serat khusus tahan sayat
+耐熱エプロン;たいねつえぷろん;Celemek tahan panas dan percikan bahan kimia
+カバー付き長靴;かばーつきながぐつ;Sepatu bot anti-slip dengan penutup atas tahan air
+スイッチ;すいっち;Saklar/tombol daya pengoperasian mesin
+スクリュー;すくりゅー;Baling-baling ulir putar mesin
+ボルト;ぼると;Baut pengikat komponen mesin
+ネジ;ねじ;Sekrup pengencang alat
+扉;とびら;Pintu penutup pelindung mesin
+チェーン;ちぇーん;Rantai transmisi penggerak mesin
+安全カバー;あんぜんかばー;Penutup pengaman gear dan rantai mesin
+フェールセーフ;ふぇーるせーふ;Fail-safe (mesin otomatis mati saat pintu dibuka/rusak)
+フールプルーフ;ふーるぷるーふ;Fool-proof (desain alat mencegah kelalaian manusia)
+メンテナンス;めんてなんす;Perawatan dan pemeliharaan mesin berkala
+カギをかける;かぎをかける;Mengunci saklar mesin (Lockout) saat perbaikan
+慌てる;あわてる;Panik/tergesa-gesa saat terjadi kecelakaan
+レバー;ればー;Tuas kendali mesin
+ぐらぐら;ぐらぐら;Goyang/longgar (kondisi tuas atau baut)
+熱い;あつい;Panas menyengat saat disentuh
+イラスト;いらすと;Gambar ilustrasi situasi kerja dan bahaya
+ガスコンロ;がすこんろ;Kompor/tungku gas pembakar
+フォークリフト;ふぉーくりふと;Kendaraan angkut garpu (Forklift pabrik)
+つまずく;つまずく;Tersandung benda/kotak kosong di jalan kerja
+鍋;なべ;Panci masak industri
+膝;ひざ;Lutut (harus ditekuk saat mengangkat beban berat)
+腰;こし;Pinggang (posisi harus lurus saat mengangkat beban)
+抱える;かかえる;Mendekap benda berat dekat ke tubuh
+ホッパー;ほっぱー;Corong penampung bahan masuk pada mesin
+スポーツドリンク;すぽーつどりんく;Minuman isotonik elektrolit penanganan heatstroke
+巻き込まれ;まきこまれ;Tergulung/tertarik mesin yang sedang berputar
+落とす;おとす;Menjatuhkan atau terjatuh dari tangga
+擦れ;こすれ;Luka tergores atau terkelupas kulit
+点検中スイッチを入れるな;てんけんちゅうすいっちをいれるな;Rambu: Sedang inspeksi, dilarang menyalakan saklar
+危険手をふれるな;きけんてをふれるな;Rambu: Bahaya dilarang menyentuh dengan tangan
+はさまれ注意;はさまれちゅうい;Rambu: Awas bahaya terjepit bagian bergerak
+やけど注意;やけどちゅうい;Rambu: Awas bahaya luka bakar/permukaan panas
+転倒注意;てんとうちゅうい;Rambu: Awas bahaya terpeleset atau tersandung
+転落注意;てんらくちゅうい;Rambu: Awas bahaya jatuh dari tempat tinggi
+運転中手を入れるな;うんてんちゅうてをいれるな;Rambu: Dilarang memasukkan tangan saat mesin berjalan
+感電注意;かんでんちゅうい;Rambu: Awas bahaya sengatan listrik bertegangan
+ゴーグル着用;ごーぐるちゃくよう;Rambu: Wajib memakai kacamata pelindung (Goggles)
+保護メガネ着用;ほごめがねちゃくよう;Rambu: Wajib memakai kacamata keselamatan kerja
+
+# ==============================================================================
+# Catatan Cara Baca (Furigana) Khusus Modul OTAFF:
+# ==============================================================================
+# Di ujian nanti, perhatikan bahwa modul ini menggunakan cara baca さぎょうじょう untuk 作業場 (bukan sagyouba) dan てゆび untuk 手指 (bukan shushi).

@@ -10,7 +10,8 @@ export function Header() {
   const location = useLocation();
   const [searchParams] = useSearchParams();
   const pathname = location.pathname;
-  const filter = searchParams.get("filter") || "minna";
+  const rawFilter = searchParams.get("filter") || "minna";
+  const filter = rawFilter === "sswpm" ? "ssw-pm" : rawFilter;
   const isSetupPage = pathname === "/flashcard/setup";
   const isFlashcardPage = pathname === "/flashcard";
 
@@ -69,7 +70,7 @@ export function Header() {
         <div className="flex items-center gap-4">
           {isSetupPage && (
             <div className="hidden md:flex bg-[var(--color-bg-card)] rounded-[var(--radius-sm)] border-[length:var(--bw-sm)] border-solid border-[var(--color-border-main)] p-1 shadow-[2px_2px_0px_var(--color-shadow-main)]">
-              {(["minna", "irodori", "n3", "kanji"] as const).map(tab => (
+              {(["minna", "irodori", "n3", "kanji", "ssw-pm"] as const).map(tab => (
                 <Link
                   key={tab}
                   to={`?filter=${tab}`}
@@ -79,7 +80,7 @@ export function Header() {
                       : "hover:bg-[var(--color-bg-nav)] text-[var(--color-text-muted)]"
                   }`}
                 >
-                  {tab === "kanji" ? "Kanji" : tab === "n3" ? "Sou N3" : tab.charAt(0).toUpperCase() + tab.slice(1)}
+                  {tab === "kanji" ? "Kanji" : tab === "n3" ? "Sou N3" : tab === "ssw-pm" ? "SSW PM" : tab.charAt(0).toUpperCase() + tab.slice(1)}
                 </Link>
               ))}
             </div>

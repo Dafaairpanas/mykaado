@@ -1,0 +1,374 @@
+# ==============================================================================
+# KOTOBA DI LUAR MODUL PM 5.1 (Kosakata Tambahan / Latihan Soal / Percakapan Lapangan)
+# Total: 370 entri unik (Tersortir Rapi: kanji;kana;arti)
+# ==============================================================================
+
+明らかにする;あきらかにする;MENERANGKAN
+足元注意;あしもとちゅうい;Perhatikan langkahmu
+与えます;あたえます;Memberikan
+与える;あたえる;Memberikan
+当たる;あたる;Memar / TERBENTUR/TERTABRAK
+編み上げられる;あみあげられる;Tersusun/terajut
+誤った使用;あやまったしよう;Penggunaan yang salah
+誤る;あやまる;Secara tidak sengaja
+安心する;あんしんする;Tenang
+安静にする;あんせいにする;Beristirahat
+安全管理者;あんぜんかんりしゃ;MANAGER KEAMANAN
+安全上;あんぜんじょう;KESELAMATAN
+衛生的取り扱い;えいせいてきとりあつかい;Penanganan yang higienis
+体験した;たいけんした;Mengalami
+意識喪失;いしきしょうしつ;Kehilangan kesadaran/pingsan
+意識する;いしきする;KEWASPADAAN/KESADARAN
+一時停止する;いちじていしする;Berhenti/menjeda sementara
+逸脱する;いつだつする;Menyimpang/melalaikan
+色分けします;いろわけします;Membagi dengan warna / Mewarnai
+飲食品;いんしょくひん;Makanan dan Minuman
+通勤靴;つうきんぐつ;Sepatu komuter / sepatu biasa
+打つ;うつ;Membentur/menabrak
+移す;うつす;Memindah/mengganti
+売れなくなる;うれなくなる;tidak terjual/ tidak laku / Tidak terjual/Tidak laku
+運転方法;うんてんほうほう;Cara Pengoperasian
+運用される;うんようされる;dioperasikan
+運用する;うんようする;Penerapan
+衛生管理者;えいせいかんりしゃ;MANAGER KEBERSIHAN
+栄養分;えいようぶん;Nutrisi
+Ｘ線検出器;えっくすせんけんしゅっき;DETEKTOR SINAR X
+選びます;えらびます;memilih
+美味しい;おいしい;Enak
+応じた;おうじた;Memenuhi
+応じる;おうじる;Tergantung
+多いじゅん;おおいじゅん;kebanyakan
+多い順;おおいじゅん;Urutan dari yang paling banyak
+行います;おこないます;Melakukan
+汚染区;おせんく;Area ter Kontaminasi / Area Terkontaminasi
+汚染されやすい;おせんされやすい;mudah  tercemari / Mudah tercemar
+汚染する;おせんする;Mengontaminasi
+落ち着く;おちつく;Tenang
+覚える;おぼえる;Mengingat/menghafal
+及びる;およびる;Terpengaruh
+及ぼす;およぼす;Berpengaruh
+折る;おる;Mematahkan
+回転物に手をだすな;かいてんものてをだすな;Jangan menyentuh benda berputar
+開封済みの物;かいふうずみのもの;Produk yang dibuka
+確保します;かくほします;MENGAMANKAN
+確保する;かくほする;MENGAMANKAN / Memastikan
+過去;かこ;Sebelumnya / Lampau
+囲い;かこい;ENKLOSUR
+加工する;かこうする;Memproses/mengolah bahan
+重ねます;かさねます;Menindih/Menumpuk / Menumpuk
+箇所;かしょ;Bagian / Lokasi
+風を当てて冷やす方法;かぜをあててひやすほうほう;mendinginkan dengan angin
+風邪を引いて;かぜをひいて;Masuk angin / Pilek
+片足;かたあし;SATU KAKI
+勝手な行動をしません;かってなこうどうをしません;Tidak bertindak sendiri sesuka hati
+加熱プロセス;かねっこうぷろせす;Proses Pemanasan
+加熱殺菌工程;かねつさっきんこうてい;STERILISASI PANAS
+可能性がある;かのうせいがある;ada kemungkinan
+被る;かぶる;Tertutup/memakai
+髪は束ねます;かみはたばねます;Rambut diikat rapi
+髪を束ねます;かみをたばねます;Mengikat rambut
+体が厚い;からだがあつい;TUBUHNYA PANAS
+関係があります;かんけいがあります;Ada Hubungannya
+監視する(モニタリング);かんしする;Memantau/mengawasi
+腸管出血性大腸菌ちょう;かんしゅっけつせいだいちょうきん;bakteri ecoli
+感じる;かんじる;Merasakan (kelainan/sakit)
+関する;かんする;Berhubungan dengan
+缶;かんずめ;Kalengan
+感染型食中毒;かんせんがたしょくちゅうどく;Keracuanan Makanan Menular / Keracunan makanan menular
+感染します;かんせんします;terinfeksi
+感染する;かんせんする;Terinfeksi/menginfeksi
+乾燥させます;かんそうさせます;Mengeringkan
+乾燥します;かんそうします;mengeringkan
+乾燥する;かんそうする;pengeringan
+関連する文献;かんれんするぶんけん;Literatur Terkait
+危害分析き;がいぶんせき;Analisis Bahaya
+学習する;がくしゅう;Mempelajari
+学習する;がくしゅうする;mempelajari
+危害の要因;きがいのよういん;Faktor Bahaya
+気が付いてない;きがついてない;tidak menyadarinya
+危機;きき;Krisis
+機器;きき;Peralatan
+危険転倒注意;きけんてんとうちゅうい;Bahaya terjatuh
+寄生する;きせいする;Parasitisme
+規定;きてい;Peraturan
+吸湿性;きゅうしつせい;MUDAH MENYERAP
+救急車きゅう;きゅうしゃ;AMBULANCE
+急速凍結;きゅうそくとうけっ;Pembekuan cepat
+急速に増殖する;きゅうそくにぞうしょくする;Berkembang biak dengan cepat
+共通する;きょうつうする;Saling/umum
+協力します;きょうりょくします;Bekerjasama / saling membantu
+切れる;きれる;terpotong
+記録維持管理;きろくのいじかんり;Manajemen Pemeliharaan Rekaman
+金属検出器;きんぞくけんしゅっき;DETEKTOR LOGAM / Detector Logam
+金属検出器;きんぞくけんしゅつき;Detektor Logam
+筋肉のこむら返り;きんにくのこむらがえり;Kram/kejang otot
+ギアボックス;ぎあぼっくす;Kotak roda gigi (Gearbox)
+業務;ぎょうむ;Tugas Bisnis
+くぐらないようにします;くぐらないようにします;Tidak merayap/melewati bagian bawah mesin
+崩す;くずす;Goyah/runtuh
+崩れる;くずれる;Merosot/menurun / - Runtuh/hancur/rusak / JATUH / Runtuh / terganggu
+くっつかないようにします;くっつかないようにします;Menjaga agar tidak menempel/bercampur
+区分保管;くぶんほかん;Penyimpanan terpisah
+区別する;くべつする;Klasifikasi
+組み合わせて;くみあわせて;Mengombinasikan/menggabungkan
+繰り返す;くりかえす;Mengulang/berulang-ulang / berulang kali / mengulang
+具大的;ぐだいてき;secara khusus
+掲示する;けいじする;Memposting
+痙攣;けいれん;KEJANG
+健康管理;けんこうかんり;Manajemen Kesehatan
+健康障害;けんこうしょうがい;Bahaya Kesehatan
+検査結果;けんさけっか;Hasil Tes
+検査項目;けんさこうもく;Barang Inspeksi / Item Pemeriksaan
+検出器;けんしゅっき;Detektor
+現場;げんば;Tempat Kejadian
+高温多湿;こうおんたしつ;SUHU TINGGI
+効果的な;こうかてきな;EFEKTIF
+高所場所;こうしょばしょ;tempat yang tinggi
+抗生物質;こうせいぶしつ;ANTIBIOTIK
+購入する;こうにゅうする;Membeli
+精穀·製粉せい;こく·せいふん;Tepung
+腰を痛める;こしをいためる;Sakit punggung / NYERI PINGGANG
+個人;こじん;Individu
+5S活動;ごえすかつどう;Budaya 5S
+災害防止のポイント;さいがいぼうしのポイント;POINT PENCEGAHAN KECELAKAAN
+最終製品;さいしゅうせいひん;PRODUK UTAMA
+細胞;さいぼう;sel
+硬;さかたさ;kekerasan
+魚のうろこ;さかなのうろこ;Sisik ikan
+魚のウロコ;さかなのウロコ;sisik ikan
+作業靴;さぎょうぐつ;Sepatu Kerja
+作業後;さぎょうご;Setelah bekerja
+作業姿勢;さぎょうしせい;Postur/posisi tubuh saat bekerja
+作成されます;さくせいされます;DIBUAT
+定めます;さだめます;Menetapkan
+定められた;さだめられた;DITETAPKAN / Ditentukan
+殺菌液の濃度;さっきんえきののうど;Konsentrasi cairan sterilisasi
+様々;さまざま;Bermacam-macam/berbagai / MACAM-MACAM
+酸欠になる;さんけつになる;Kekuranagn oksigen / KEKURANGAN OKSIGEN
+参照する;さんしょうする;Referensi/merujuk
+経済計算けい;ざいけいさん;Perhitungan ekonomi
+仕掛品;しかかりひん;Barang dalam Proses
+従います;したがいます;Melaksanakan / Mematuhi
+指定する;していする;Menunjuk pada
+私物;しぶつ;Barang Pribadi
+死滅します;しめっします;Mati
+死滅します;しめつします;Mati
+社会;しゃかい;Masyarakat
+社会全体;しゃかいぜんたい;Masyarakat luas / Seluruh masyarakat
+周囲;しゅうい;LINGKUNGAN SEKITAR
+修正する;しゅうせいする;Memperbaiki/mengoreksi data
+修正措置の設定;しゅうせいそちのせってい;MENETAPKAN TINDAKAN KOREKTIF
+修理中;しゅうりちゅう;SEDANG DIPERBAIKI
+主体としています;しゅたいとしています;Terutama / Utamanya
+紹介する;しょうかいする;Memperkenalkan
+消毒液;しょうどくえき;Cairan Antiseptik
+消費者;しょうひしゃ;Konsumen
+処置;しょち;PERLAKUAN
+使用器具;しようきぐ;Alat yang digunakan
+使用します;しようします;Menggunakan
+汁(ドイップ);しる(どりっぷ);Drip/tetesan
+真空パック食品;しんくうパックしょくひん;Makanan kemasan vakum
+事業者;じぎょうしゃ;PELAKU INDUSTRI
+実施した;じっしした;Telah dilaksanakan
+実施する;じっしする;Menegakkan/memberlakukan
+自力;じりき;DENGAN SENDIRI
+海水の魚介類かい;すいのぎょかいるい;Olahan Laut (Seafood) / Hewan laut (Seafood)
+水分補給;すいぶんはきゅう;MINUM AIR PUTIH
+睡眠不足;すいみんぶそく;KEKURANGAN TIDUR
+殺;すころす（やっつける）;membunuh
+速やかに;すみやかに;Dengan Cepat
+製造環境;せいぞうかんきょう;Lingkungan Manufaktur / Lingkungan produksi
+製造日;せいぞうび;Tanggal Produksi
+製造ライン;せいぞうライン;Jalur Produksi
+製品の管理;せいひんのかんり;Manajemen Produl / Manajemen Produk
+石鹼;せっけん;Sabun / Sabun / sabun mandi
+接触しないようにする;せっしょくしないようにする;Menjaga agar tidak bersentuhan
+設定します;せっていします;Mengatur / Menyetting / Mengatur/Menyetel
+設定する;せっていする;Mengatur
+説明する;せつめいする;Menjelaskan
+繊維物検出器;せんいぶつけんしゅっき;Detector Benda Serat
+洗濯します;せんたくします;Mencuci Pakaian
+洗髪;せんぱつ;Keramas (rambut) / Keramas
+選別する;せんべつする;Menyortir
+全員;ぜんいん;Seluruh pekerja/semua orang
+全体像;ぜんたいぞう;Gambar Keseluruhan / Gambaran keseluruhan / Garis besar
+装飾品;そうしょくひん;Aksesoris
+毒素型食中毒どく;そがたしょくちゅうどく;Keracunan Makanan karena Racun
+基礎知識き;そちしき;Pengetahuan Dasar
+速乾性;そっかんせい;CEPAT KERING
+沿って置く;そっておく;Diletakkan bersama
+袖を締める;そでをしめる;Mengencangkan ujung lengan baju
+袖ゴム;そでゴム;Lengan / Lengan Baju Karet / lengan baju
+備えて;そなえて;Bersiap untuk / Menyiapkan
+増殖する;ぞうしょくする;Berkembang biak / Tumbuh
+対処すべき;たいしょすべき;Harus Ditangani
+体調;たいちょう;Kondisi (tubuh) / Kondisi tubuh
+体調の変化;たいちょうのへんか;PERUBAHAN KONDISI TUBUH
+耐熱の布;たいねつのぬの;Kain tahan panas
+高めます;たかめます;meningkat / Meningkatkan
+確かめる;たしかめる;Memastikan
+助けます;たすけます;MENOLONG
+助ける;たすける;Membantu/menolong korban
+他の製品;たのせいひん;Produk lain
+担当;たんとう;Posisi / Bertanggung Jawab
+段階;だんかい;Langkah
+違ってくる;ちがってくる;Bervariasi
+中間製品;ちゅうかんせいひん;Produk Setengah Jadi
+調理後;ちょうりご;Setelah Memasak
+調理師;ちょうりし;Koki/Chef
+調理します;ちょうりします;Memasak/mengolah masakan
+通過する;つうかする;Melewati/lewat
+通気性;つうきせい;BERVENTILASI
+通風口;つうふうこう;Lubang Ventilasi
+使い分けます;つかいわけます;Penggunaan yg dipisah / Menggunakan dengan bijaksana
+詰まっていて;つまっていて;Kondisi tersumbat/macet
+積まれる;つまれる;Menumpuk
+詰める;つめる;Memasukkan/mengemas
+手足のしびれ;てあしのしびれ;Mati rasa/kebas pada tangan dan kaki
+提供する;ていきょうする;Menawarkan / Menyediakan
+停電;ていでん;Mati Listrik
+鉄;てつ;Besi
+手ぬぐい;てぬぐい;Handuk
+手を触れるな;てをふれるな;Jangan sentuh
+点検中;てんけんちゅう;sedang diperiksa
+点検表;てんけんひょう;Daftar Pemeriksaan
+凍結プロセス;とうけっぷろせす;Proses Pembekuan
+凍結温度;とうけつおんど;Suhu Beku / Suhu Pembekuan
+凍結工程;とうけつこうてい;Proses Pembekuan
+溶かしました;とかしました;Melarutkan
+特別;とくべつ;Khusus/istimewa
+届く;とどく;sampai
+飛ぶ;とぶ;TERBANG
+獲る;とる;Mendapat
+同僚;どうりょう;KOLEGA/PARTNER KERJA
+無くす;なくす;Menghilangkan/menghapus
+慣れました;なれました;TERBIASA
+入出庫台帳;にゅうしゅっこだあちょう;Buku Besar Keluar Masuk
+認識する;にんしきする;Mengenali
+手;ぬぐい;LAP TANGAN
+抜ける;ぬける;Hilang/pudar / Terlepas
+念入りに洗う;ねんいりにあらう;Cuci dengan Teliti / Mencuci dengan Teliti
+捻挫します;ねんざします;terkilir
+捻挫する;ねんざする;Keseleo/terpelintir / keseleo
+粘着テープ;ねんちゃくテープ;Pita Perekat
+納品する;のうひんする;Pengiriman
+農薬;のうやく;PESTISIDA
+望ましい;のぞましい;Diinginkan
+伸ばす;のばす;Meluruskan/meregangkan / menggeliat, memanjangkan
+配置表;はいちひょう;Tabel Tata Letak / Daftar Penempatan
+生える;はえる;Tumbuh/muncul
+破壊する;はかいする;menghancurkan
+吐く;はく;Memuntahkan
+挟まれ;はさまれ;Terjebak/terperangkap / TERJEPIT
+外します;はずします;Melepas
+外す;はずす;Melepas
+発見する;はっけんする;Menemukan
+発酵プロセス;はっこうぷろせす;Proses Fermentasi
+発生した;はっせいした;Terjadi
+発生しました;はっせいしました;MUNCUL
+発生する;はっせいする;Memunculkan/membangkitkan
+離れます;はなれます;Kabur / Berpisah
+早い;はやい;Cepat
+腫れる;はれる;Bengkak
+鋼板こう;はん/こうばん;Pelat baja
+判断する;はんだんする;Menyimpulkan/menilai / Untuk Memutuskan
+反応する;はんのうする;Merespon/mereaksi
+非汚染区;ひおせんく;Area steril/tidak terkontaminasi
+被災者;ひさいしゃ;KORBAN
+非常スイッチ;ひじょうスイッチ;SAKLAR DARURAT
+引っ掛かる;ひっかかる;Terjebak/terjerat
+避難させます;ひなんさせます;DIEVAKUASI
+冷やし合う;ひやしあう;Pertemuan dingin
+品質観理;ひんしっかんり;Penjagaan kualitas
+瓶;びんずめ;Botolan
+不意の起動;ふいのきどう;Mesin menyala tiba-tiba tanpa sengaja
+不可欠;ふかけつ;Penting
+拭き取って;ふきとって;Menyeka/mengelap hingga bersih
+拭き取る;ふきとる;Dilap/dipel/dikeringkan / Mengelap / MENGELAP/NGEPEL / Menghapus dengan Kain
+不自然な姿勢;ふしぜんなしせい;Postur tidak sesuai / Posisi yang Tidak Alami
+不信感;ふしんかん;ketidakpercayaan
+蓋をする;ふたをする;Menutup
+腐敗する;ふはいする;Membusuk
+ぶら下げて;ぶらさげて;Menggantungkan (papan peringatan)
+ぶら下げる;ぶらさげる;Menggantung
+変化;へんか;Berubah / Perubahan
+返事が可笑しい;へんじがおかしい;JAWABNYA ANEH
+変な臭いがします;へんなにおいがします;Tercium bau aneh
+宝石類;ほうせきるい;Perhiasan
+包装工程;ほうそうこうてい;Proses Pengemasan
+放置しないようにします;ほうちしないようにします;Tidak membiarkan/meninggalkan begitu saja
+保管されます;ほかんされます;Disimpan
+保管場所;ほかんばしょ;Tempat Penyimpanan
+保管サンプル;ほかんサンプル;Sampel yang disimpan
+埃;ほこり;Debu
+保存します;ほぞんします;Menyimpan
+保管期間;まかんきかん;Periode Penyimpanan
+まくり上げない;まくりあげない;Tidak menggulung (lengan baju)
+まくり上げる;まくりあげる;Menggulung/menyelipkan
+曲げる;まげる;Mencondongkan/membengkokkan
+堪塞;まこり;Debu
+間違っている;まちがっている;yang salah / Salah
+松茸;まったけ;Jamur matsutake
+松茸;まつたけ;Jamur Matsutake
+まぶたの腫れ;まぶたのはれ;Pembengkakan pada kelopak mata
+回らない;まわらない;Tidak berputar (udara/mesin)
+回る;まわる;BERPUTAR
+短くする;みじかくする;Dipersingkat
+密閉する;みっぺいする;Menutup rapat
+身につける;みにつける;Mempelajari/memperoleh pengetahuan
+未封緘された物;みふうかんされたもの;Barang yang Belum Disegel
+無害;むがい;Tanpa Bahaya
+無効にします;むこうにします;BERPALING / Menonaktifkan
+無駄な会話;むだなかいわ;Percakapan yang Tidak Perlu
+無断;むだん;Seenaknya / Tanpa Izin
+無理;むり;Memaksakan diri/mustahil
+明確にする;めいかくにする;Untuk Memperjelas / Mengklarifikasi
+眩暈;めまい;Pusing/kliyengan/vertigo
+目を合わせて;めをあわせて;Melakukan kontak mata (dengan operator forklift)
+毛髪;もうはつ;Rambut
+毛髪;もうふ;Rambut
+燃える;もえる;TERBAKAR
+目的;もくてき;Tujuan/maksud
+文字;もじ;Huruf/teks tulisan
+持ち込む;もちこむ;Membawa masuk
+求める;もとめる;Menuntut/meminta
+最;ももっとも;lebih …. / Paling
+薬剤専用;やくざいせんよう;Khusus Bahan Kimia
+薬剤名;やくざいめい;Penamaan Bahan Kimia
+役立つ;やくだつ;Berguna/bermanfaat/membantu
+火傷する;やけどする;TERBAKAR
+やるべきこと;やるべきこと;Hal yang harus dilakukan
+柔らかい;やわらかい;Lunak
+有害な;ゆうがいな;Berbahaya
+有害物にやられる;ゆうがいぶつにやられる;Terkena zat beracun / KERACUNAN GAS / terserang zat-zat berbahaya
+郵送時;ゆうそうじ;Waktu Pengiriman/Transport / Saat pengiriman
+輸送時;ゆそうじ;Waktu pengiriman
+輸送する;ゆそうする;Pengangkutan/mengangkut
+輸送中;ゆそうちゅう;Dalam proses pengangkutan/transit
+緩み;ゆるみ;KENDOR / Longgar
+緩める;ゆるめ;Melonggarkan/mengendurkan
+緩める;ゆるめる;melonggarkan
+要素;ようそ;Elemen / Elemen/Komponen
+腰痛症;ようつうしょう;NYERI PUNGGUNG BAWAH
+よそ見しないように;よそみしないように;Jangan Ablong
+予防対策;よぼうたいさく;Pencegahan
+照らし合わせてて;らしあわせて;dibandingkan
+要らないい;らない;Tidak dibutuhkan/diperlukan
+自;らみずから;DIRI
+ランプが点滅している;らんぷがてんめつしている;Lampu indikator sedang berkedip
+理解する;りかいする;Memahami
+略語;りゃくご;SINGKATAN
+冷却工程;れいきゃくこうてい;Proses Pendinginan
+冷却プロセス;れいきゃくぷろせす;Proses Pendinginan
+冷蔵車;れいぞうしゃ;Truk Pendingin / Truk dengan pendingin
+冷凍車;れいとうしゃ;Truk Pembeku / Truk dengan pembeku
+劣化します;れっかします;Menurun / Merusakkan
+レバーがぐらぐらする;ればーがぐらぐらする;Tuas mesin longgar/bergoyang
+連続的;れんぞくてき;Berkesinambungan
+連続的な;れんぞくてきな;CONTINUE
+労働安全衛生法;ろうどうあんぜんえいせいほう;UU KESELAMATAN,KESEHATAN PEKERJA
+ロットナンバ一;ろっとなんばー;Nomor lot
+枠の中;わくのなか;Di dalam garis batas area
+ガス中毒になる;ガスちゅうどくになる;KERACUNAN GAS
+シフト交代;シフトこうたい;Pergantian Shift
+真空パック食品;シンクパックしょくひん;Makanan Kemasan
